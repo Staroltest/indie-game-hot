@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T14:20:41.243089+00:00",
- "generated_at_cst": "2026年11月09日 22:20",
+ "generated_at": "2026-11-09T14:28:06.262888+00:00",
+ "generated_at_cst": "2026年11月09日 22:28",
  "counts": {
   "total_7d": 135,
   "selected": 10,
@@ -19,7 +19,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.6
+   "hot_score": 83.5
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -32,7 +32,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.4
+   "hot_score": 83.3
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -45,7 +45,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.5
+   "hot_score": 82.4
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -58,7 +58,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.6
+   "hot_score": 78.5
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -71,7 +71,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.9
+   "hot_score": 77.8
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -97,7 +97,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -110,7 +110,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -123,7 +123,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "hot_score": 78.6
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -136,7 +136,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.6
+   "hot_score": 77.5
   }
  ],
  "hot": [
@@ -151,7 +151,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.6
+   "hot_score": 83.5
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -164,7 +164,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.4
+   "hot_score": 83.3
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -177,7 +177,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.5
+   "hot_score": 82.4
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -203,7 +203,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.5
+   "hot_score": 79.4
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -216,7 +216,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.4
+   "hot_score": 79.3
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -229,7 +229,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 80,
-   "hot_score": 79.2
+   "hot_score": 79.1
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -242,7 +242,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.0
+   "hot_score": 78.9
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -255,7 +255,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -268,7 +268,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -281,7 +281,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "hot_score": 78.6
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -294,7 +294,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.6
+   "hot_score": 78.5
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -307,7 +307,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.9
+   "hot_score": 77.8
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -320,7 +320,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.6
+   "hot_score": 77.5
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -346,7 +346,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.3
+   "hot_score": 76.2
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -359,7 +359,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.1
+   "hot_score": 76.0
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -372,7 +372,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 73.0
+   "hot_score": 72.9
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -385,7 +385,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
-   "hot_score": 72.7
+   "hot_score": 72.6
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -398,7 +398,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 73,
-   "hot_score": 67.4
+   "hot_score": 67.3
   }
  ],
  "timeline": [
@@ -426,7 +426,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.5
+   "hot_score": 82.4
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -439,7 +439,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.5
+   "hot_score": 79.4
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -452,7 +452,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.4
+   "hot_score": 79.3
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -465,7 +465,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 80,
-   "hot_score": 79.2
+   "hot_score": 79.1
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -478,7 +478,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.0
+   "hot_score": 78.9
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -491,7 +491,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -504,7 +504,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.8
+   "hot_score": 78.7
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -517,7 +517,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "hot_score": 78.6
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -530,7 +530,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.6
+   "hot_score": 78.5
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -543,7 +543,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.9
+   "hot_score": 77.8
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -556,7 +556,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 73.0
+   "hot_score": 72.9
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -569,7 +569,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.6
+   "hot_score": 83.5
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -582,7 +582,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.4
+   "hot_score": 83.3
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -595,7 +595,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.6
+   "hot_score": 77.5
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -608,7 +608,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
-   "hot_score": 72.7
+   "hot_score": 72.6
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -634,7 +634,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.3
+   "hot_score": 76.2
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -647,7 +647,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.1
+   "hot_score": 76.0
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -660,7 +660,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 70,
-   "hot_score": 66.1
+   "hot_score": 66.0
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -673,7 +673,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 70,
-   "hot_score": 65.2
+   "hot_score": 65.1
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -686,7 +686,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 73,
-   "hot_score": 67.4
+   "hot_score": 67.3
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -699,7 +699,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 63.0
+   "hot_score": 62.9
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -712,7 +712,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 62.7
+   "hot_score": 62.6
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -725,7 +725,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 58.1
+   "hot_score": 58.0
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -738,7 +738,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 56.9
+   "hot_score": 56.8
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -751,7 +751,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 60.5
+   "hot_score": 60.4
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -764,7 +764,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 58.6
+   "hot_score": 58.5
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -777,7 +777,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 58.5
+   "hot_score": 58.4
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -816,7 +816,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 41.6
+   "hot_score": 41.5
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -868,7 +868,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 55,
-   "hot_score": 36.1
+   "hot_score": 36.0
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -933,7 +933,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 32.2
+   "hot_score": 32.1
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -946,7 +946,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 63,
-   "hot_score": 33.4
+   "hot_score": 33.3
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -998,7 +998,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 31.1
+   "hot_score": 31.0
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -1024,7 +1024,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 30.9
+   "hot_score": 30.8
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -1115,7 +1115,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 24.9
+   "hot_score": 24.8
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1154,7 +1154,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.4
+   "hot_score": 24.3
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -1349,7 +1349,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 20.6
+   "hot_score": 20.5
   },
   {
    "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
@@ -1375,7 +1375,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 20.3
+   "hot_score": 20.2
   },
   {
    "id": "387d59961ecdd4eac90934fd99472f62f27cb4d6",
@@ -1440,7 +1440,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 19.7
+   "hot_score": 19.6
   },
   {
    "id": "a1a6683ba08af07269cf5495d7019303b3b5b8e5",
@@ -1518,7 +1518,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.0
+   "hot_score": 16.9
   },
   {
    "id": "d9815e415e0cb35c3110dab9b9394952a826e65c",
@@ -1596,7 +1596,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 16.3
+   "hot_score": 16.2
   },
   {
    "id": "cd8fa751cee9567f459094e4c8b9e77c68ed2d2f",
