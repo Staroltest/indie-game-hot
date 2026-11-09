@@ -1,62 +1,14 @@
 {
- "generated_at": "2026-11-09T16:52:32.587163+00:00",
- "generated_at_cst": "2026年11月10日 00:52",
+ "generated_at": "2026-11-09T20:39:43.641584+00:00",
+ "generated_at_cst": "2026年11月10日 04:39",
  "counts": {
-  "total_7d": 140,
+  "total_7d": 142,
   "selected": 10,
   "hot": 20,
   "timeline": 100
  },
  "selected": [
   {
-   "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
-   "title": "Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag",
-   "link": "https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T11:17:00+00:00",
-   "summary": "Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、workflow · 6 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 81.6
-  },
-  {
-   "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
-   "title": "Creating Realistic Mountain Scene With Custom Unreal Engine 5 Tool",
-   "link": "https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T11:06:00+00:00",
-   "summary": "Michael Gerard returns to 80 Level to break down his Alpine Forest project and discuss his custom FoliageLab solution for creating Nanite-ready vegetation and building realistic environments in Unreal…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、engine · 6 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 81.5
-  },
-  {
-   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
-   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
-   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T13:39:00+00:00",
-   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及tool · 6 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 80.5
-  },
-  {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
    "title": "Multithreading, scheduling in game engines with DAGs",
    "link": "https://gamedev.net/forums/topic/720559-multithreading-scheduling-in-game-engines-with-dags",
@@ -69,8 +21,8 @@
    "score": 83,
    "reason": "涉及engine · 6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 81.6
+   "trend": "same",
+   "hot_score": 78.8
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -85,106 +37,170 @@
    "score": 81,
    "reason": "涉及tool、performance · 6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 80.4
+   "trend": "same",
+   "hot_score": 77.6
   },
   {
-   "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
-   "title": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion",
-   "link": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-09T12:27:00+00:00",
-   "summary": "Alex Avard is a project manager at Playing for the Planet, working with the alliance's 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Ca…",
+   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
+   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T16:39:06+00:00",
+   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
    "reason": "6 小时内发布",
-   "is_new": false,
+   "is_new": true,
    "trend": "down",
-   "hot_score": 76.8
+   "hot_score": 77.1
   },
   {
-   "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
-   "title": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people",
-   "link": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
+   "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
+   "title": "Will Grand Theft Auto 6 break the internet?",
+   "link": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
    "source": "GamesIndustry.biz",
    "source_id": "gamesindustry",
-   "published": "2026-11-09T11:29:50+00:00",
-   "summary": "Bit Reactor furloughed \" many of its workers \" ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work i…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 76.1
-  },
-  {
-   "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
-   "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
-   "link": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T12:41:00+00:00",
-   "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid…",
+   "published": "2026-11-09T15:00:00+00:00",
+   "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
    "reason": "6 小时内发布",
-   "is_new": false,
+   "is_new": true,
    "trend": "down",
-   "hot_score": 76.9
+   "hot_score": 75.9
   },
   {
-   "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
-   "title": "Developer Builds Script That Reports Your PC's Unused RAM To Sam Altman Daily",
-   "link": "https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T12:43:00+00:00",
-   "summary": "\"He can't fix the problem if nobody tells him where the RAM is.\"",
-   "category": "engine",
-   "category_label": "引擎与工具",
+   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
+   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
+   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T16:30:00+00:00",
+   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
    "score": 80,
    "reason": "6 小时内发布",
-   "is_new": false,
+   "is_new": true,
    "trend": "down",
    "hot_score": 77.0
   },
   {
-   "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
-   "title": "NVIDIA Board Opens Independent Investigation After Reports Its CEO Was Targeted by Foreign Intelligence",
-   "link": "https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T12:37:00+00:00",
-   "summary": "A committee of independent directors will lead the inquiry with outside counsel, while Jensen Huang, continuing as CEO, says he will cooperate with it.",
+   "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
+   "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
+   "link": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T16:00:30+00:00",
+   "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 76.6
+  },
+  {
+   "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
+   "title": "Dev snapshot: Godot 4.8 beta 3",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-09T12:00:00+00:00",
+   "summary": "Despite much of our team being at GodotFest this past week , there was still a healthy amount of progress made on our handful of remaining release blockers. It’s looking like it won’t be too much long…",
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
+   "reason": "官方来源 · 24 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 73.8
+  },
+  {
+   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
+   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
    "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 76.9
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.7
+  },
+  {
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T19:43:10+00:00",
+   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.3
+  },
+  {
+   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
+   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.7
   }
  ],
  "hot": [
   {
-   "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
-   "title": "Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag",
-   "link": "https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T11:17:00+00:00",
-   "summary": "Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、workflow · 6 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 81.6
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T19:43:10+00:00",
+   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.3
+  },
+  {
+   "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
+   "title": "New Horror Game Ideas. 2D.",
+   "link": "https://gamedev.net/forums/topic/720805-new-horror-game-ideas-2d",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T19:09:12+00:00",
+   "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 78.9
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -199,8 +215,200 @@
    "score": 83,
    "reason": "涉及engine · 6 小时内发布",
    "is_new": true,
+   "trend": "same",
+   "hot_score": 78.8
+  },
+  {
+   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
+   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
    "trend": "new",
-   "hot_score": 81.6
+   "hot_score": 77.7
+  },
+  {
+   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
+   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.7
+  },
+  {
+   "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
+   "title": "Measuring FPS on Real Phones Inside Telegram: What Chrome's Device Mode Never Showed Us",
+   "link": "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T16:04:46+00:00",
+   "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 81,
+   "reason": "涉及tool、performance · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.6
+  },
+  {
+   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
+   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
+   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:05:10+00:00",
+   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.4
+  },
+  {
+   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
+   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T16:39:06+00:00",
+   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 77.1
+  },
+  {
+   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
+   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
+   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T16:30:00+00:00",
+   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 77.0
+  },
+  {
+   "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
+   "title": "How far along is the project? Track progress on every card",
+   "link": "https://gamedev.net/blogs/entry/2298638-how-far-along-is-the-project-track-progress-on-every-card",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T16:30:36+00:00",
+   "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.0
+  },
+  {
+   "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
+   "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
+   "link": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T16:00:30+00:00",
+   "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 76.6
+  },
+  {
+   "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
+   "title": "Will Grand Theft Auto 6 break the internet?",
+   "link": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T15:00:00+00:00",
+   "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 75.9
+  },
+  {
+   "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
+   "title": "Dev snapshot: Godot 4.8 beta 3",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-09T12:00:00+00:00",
+   "summary": "Despite much of our team being at GodotFest this past week , there was still a healthy amount of progress made on our handful of remaining release blockers. It’s looking like it won’t be too much long…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "官方来源 · 24 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 73.8
+  },
+  {
+   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
+   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+   "link": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T17:37:10+00:00",
+   "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 75,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 72.9
+  },
+  {
+   "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
+   "title": "Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag",
+   "link": "https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T11:17:00+00:00",
+   "summary": "Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 76,
+   "reason": "涉及tool、workflow · 24 小时内发布",
+   "is_new": false,
+   "trend": "down",
+   "hot_score": 69.7
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -212,11 +420,11 @@
    "summary": "Michael Gerard returns to 80 Level to break down his Alpine Forest project and discuss his custom FoliageLab solution for creating Nanite-ready vegetation and building realistic environments in Unreal…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、engine · 6 小时内发布",
+   "score": 76,
+   "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "same",
-   "hot_score": 81.5
+   "trend": "down",
+   "hot_score": 69.5
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -228,91 +436,11 @@
    "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及tool · 6 小时内发布",
+   "score": 73,
+   "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
-   "trend": "same",
-   "hot_score": 80.5
-  },
-  {
-   "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
-   "title": "Measuring FPS on Real Phones Inside Telegram: What Chrome's Device Mode Never Showed Us",
-   "link": "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T16:04:46+00:00",
-   "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 81,
-   "reason": "涉及tool、performance · 6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 80.4
-  },
-  {
-   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
-   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T16:39:06+00:00",
-   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 79.8
-  },
-  {
-   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
-   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
-   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:30:00+00:00",
-   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 79.7
-  },
-  {
-   "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
-   "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
-   "link": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:00:30+00:00",
-   "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 79.4
-  },
-  {
-   "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
-   "title": "Will Grand Theft Auto 6 break the internet?",
-   "link": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-09T15:00:00+00:00",
-   "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 78.6
+   "trend": "down",
+   "hot_score": 68.4
   },
   {
    "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
@@ -324,11 +452,11 @@
    "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 78.3
+   "hot_score": 66.1
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -340,11 +468,11 @@
    "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 77.9
+   "hot_score": 65.8
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -356,142 +484,110 @@
    "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 77.6
-  },
+   "hot_score": 65.6
+  }
+ ],
+ "timeline": [
   {
-   "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
-   "title": "AngelScript 2.39.0 is out",
-   "link": "https://gamedev.net/forums/topic/720804-angelscript-2390-is-out",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T13:30:11+00:00",
-   "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 77.5
-  },
-  {
-   "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
-   "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
-   "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T13:15:00+00:00",
-   "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a susp…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 77.3
-  },
-  {
-   "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
-   "title": "‘Power Line’ shows you that you’ve lied on your resume, to work for Nintendo",
-   "link": "https://indiegamesplus.com/power-line-preview",
-   "source": "Indie Games Plus",
-   "source_id": "indiegamesplus",
-   "published": "2026-11-09T13:00:00+00:00",
-   "summary": "Power Line is a narrative driven game that is inspired by the real Nintendo Power Line game call center, where players were able to call a physical phoneline and get hints when... The post ‘Power Line…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 77.2
-  },
-  {
-   "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
-   "title": "Developer Builds Script That Reports Your PC's Unused RAM To Sam Altman Daily",
-   "link": "https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T12:43:00+00:00",
-   "summary": "\"He can't fix the problem if nobody tells him where the RAM is.\"",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 77.0
-  },
-  {
-   "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
-   "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
-   "link": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T12:41:00+00:00",
-   "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 76.9
-  },
-  {
-   "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
-   "title": "NVIDIA Board Opens Independent Investigation After Reports Its CEO Was Targeted by Foreign Intelligence",
-   "link": "https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T12:37:00+00:00",
-   "summary": "A committee of independent directors will lead the inquiry with outside counsel, while Jensen Huang, continuing as CEO, says he will cooperate with it.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 76.9
-  },
-  {
-   "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
-   "title": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion",
-   "link": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
    "source": "GamesIndustry.biz",
    "source_id": "gamesindustry",
-   "published": "2026-11-09T12:27:00+00:00",
-   "summary": "Alex Avard is a project manager at Playing for the Planet, working with the alliance's 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Ca…",
+   "published": "2026-11-09T19:43:10+00:00",
+   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
    "reason": "6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 76.8
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.3
   },
   {
-   "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
-   "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
-   "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+   "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
+   "title": "New Horror Game Ideas. 2D.",
+   "link": "https://gamedev.net/forums/topic/720805-new-horror-game-ideas-2d",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T19:09:12+00:00",
+   "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 78.9
+  },
+  {
+   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
+   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+   "link": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T17:37:10+00:00",
+   "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 75,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 72.9
+  },
+  {
+   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
+   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.7
+  },
+  {
+   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
+   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
    "source": "Rock Paper Shotgun",
    "source_id": "rps",
-   "published": "2026-11-09T14:30:40+00:00",
-   "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different char…",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 78,
-   "reason": "涉及lesson · 6 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 76.3
-  }
- ],
- "timeline": [
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.7
+  },
+  {
+   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
+   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
+   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:05:10+00:00",
+   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.4
+  },
   {
    "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
    "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
@@ -505,8 +601,24 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
+   "trend": "down",
+   "hot_score": 77.1
+  },
+  {
+   "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
+   "title": "How far along is the project? Track progress on every card",
+   "link": "https://gamedev.net/blogs/entry/2298638-how-far-along-is-the-project-track-progress-on-every-card",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T16:30:36+00:00",
+   "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
    "trend": "new",
-   "hot_score": 79.8
+   "hot_score": 77.0
   },
   {
    "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
@@ -521,8 +633,8 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 79.7
+   "trend": "down",
+   "hot_score": 77.0
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -537,8 +649,8 @@
    "score": 81,
    "reason": "涉及tool、performance · 6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 80.4
+   "trend": "same",
+   "hot_score": 77.6
   },
   {
    "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
@@ -553,8 +665,8 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 79.4
+   "trend": "down",
+   "hot_score": 76.6
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -569,8 +681,8 @@
    "score": 83,
    "reason": "涉及engine · 6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 81.6
+   "trend": "same",
+   "hot_score": 78.8
   },
   {
    "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
@@ -585,8 +697,8 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 78.6
+   "trend": "down",
+   "hot_score": 75.9
   },
   {
    "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
@@ -598,11 +710,11 @@
    "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 78.3
+   "hot_score": 66.1
   },
   {
    "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
@@ -614,11 +726,11 @@
    "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different char…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 78,
-   "reason": "涉及lesson · 6 小时内发布",
+   "score": 68,
+   "reason": "涉及lesson · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 76.3
+   "trend": "same",
+   "hot_score": 64.2
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -630,11 +742,11 @@
    "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 77.9
+   "hot_score": 65.8
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -646,11 +758,11 @@
    "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及tool · 6 小时内发布",
+   "score": 73,
+   "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
-   "trend": "same",
-   "hot_score": 80.5
+   "trend": "down",
+   "hot_score": 68.4
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -662,11 +774,11 @@
    "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "down",
-   "hot_score": 77.6
+   "hot_score": 65.6
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -678,11 +790,11 @@
    "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 77.5
+   "trend": "same",
+   "hot_score": 65.5
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -694,11 +806,11 @@
    "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a susp…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 77.3
+   "trend": "same",
+   "hot_score": 65.3
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -710,11 +822,11 @@
    "summary": "Power Line is a narrative driven game that is inspired by the real Nintendo Power Line game call center, where players were able to call a physical phoneline and get hints when... The post ‘Power Line…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 77.2
+   "trend": "same",
+   "hot_score": 65.2
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -726,11 +838,11 @@
    "summary": "\"He can't fix the problem if nobody tells him where the RAM is.\"",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 77.0
+   "trend": "same",
+   "hot_score": 65.0
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -742,11 +854,11 @@
    "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid…",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 76.9
+   "trend": "same",
+   "hot_score": 65.0
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -758,11 +870,11 @@
    "summary": "A committee of independent directors will lead the inquiry with outside counsel, while Jensen Huang, continuing as CEO, says he will cooperate with it.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 76.9
+   "trend": "same",
+   "hot_score": 65.0
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -774,11 +886,27 @@
    "summary": "Alex Avard is a project manager at Playing for the Planet, working with the alliance's 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Ca…",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 76.8
+   "trend": "same",
+   "hot_score": 64.9
+  },
+  {
+   "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
+   "title": "Dev snapshot: Godot 4.8 beta 3",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-09T12:00:00+00:00",
+   "summary": "Despite much of our team being at GodotFest this past week , there was still a healthy amount of progress made on our handful of remaining release blockers. It’s looking like it won’t be too much long…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "官方来源 · 24 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 73.8
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -790,11 +918,11 @@
    "summary": "Bit Reactor furloughed \" many of its workers \" ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work i…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 76.1
+   "hot_score": 64.3
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -806,11 +934,11 @@
    "summary": "While its remastered upgrade might have broken cover in late September, The Witcher 3 's extra expansion isn't set to join it until next year. With 2027 still a month and a bit away, a modder's taken…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 75,
-   "reason": "6 小时内发布",
+   "score": 65,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 71.3
+   "hot_score": 59.7
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -822,11 +950,11 @@
    "summary": "Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、workflow · 6 小时内发布",
+   "score": 76,
+   "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "same",
-   "hot_score": 81.6
+   "trend": "down",
+   "hot_score": 69.7
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -838,11 +966,11 @@
    "summary": "Michael Gerard returns to 80 Level to break down his Alpine Forest project and discuss his custom FoliageLab solution for creating Nanite-ready vegetation and building realistic environments in Unreal…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 86,
-   "reason": "涉及tool、engine · 6 小时内发布",
+   "score": 76,
+   "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "same",
-   "hot_score": 81.5
+   "trend": "down",
+   "hot_score": 69.5
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -854,11 +982,11 @@
    "summary": "Very impressive.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 75.8
+   "hot_score": 64.0
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -870,11 +998,11 @@
    "summary": "VRChat Avatar Creation & Upgrades Contact me directly to discord Howdy My name is Shadowpaw a skilled 3D Avatar Artist specializing in VRChat and virtual character creation. I work with industry-stand…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 75,
-   "reason": "6 小时内发布",
+   "score": 65,
+   "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 71.0
+   "hot_score": 59.4
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -890,7 +1018,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.5
+   "hot_score": 63.2
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -906,7 +1034,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2
+   "hot_score": 63.0
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -922,7 +1050,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.1
+   "hot_score": 62.8
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -938,7 +1066,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 64.5
+   "hot_score": 62.3
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -954,7 +1082,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.7
+   "hot_score": 61.5
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -970,7 +1098,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.8
+   "hot_score": 63.5
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -986,7 +1114,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.5
+   "hot_score": 59.4
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -1002,7 +1130,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.2
+   "hot_score": 59.1
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -1018,7 +1146,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 56.7
+   "hot_score": 54.7
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -1034,7 +1162,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 55.6
+   "hot_score": 53.6
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -1050,7 +1178,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.1
+   "hot_score": 57.0
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -1062,11 +1190,11 @@
    "summary": "Scrut Standard Development Kit Blog This blog serves to convey progress concerning Scrut Standard Development Library. Scrut.Hut Game Studio, LLC owns Scrut Standard Development Kit as part of its int…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 70,
-   "reason": "24 小时内发布",
+   "score": 60,
+   "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.2
+   "hot_score": 47.3
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -1078,11 +1206,11 @@
    "summary": "Scrut Development Library Blog This blog serves to convey progress concerning Scrut Standard Development Kit; this regards Scrut Development Library for General Computing. Scrut.Hut Game Studio, LLC o…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 70,
-   "reason": "24 小时内发布",
+   "score": 60,
+   "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.1
+   "hot_score": 47.3
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -1098,7 +1226,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 45.4
+   "hot_score": 43.9
   },
   {
    "id": "29117d5e6fc9e53fc24b6c29b1b0c5dbadec2796",
@@ -1114,7 +1242,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 44.0
+   "hot_score": 42.5
   },
   {
    "id": "38d062123d715448cca42c5e88e27e9848935b37",
@@ -1130,7 +1258,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 40.6
+   "hot_score": 39.2
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -1146,7 +1274,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 40.1
+   "hot_score": 38.7
   },
   {
    "id": "2121df6444c57ecedd3825be705f60b3637d940b",
@@ -1162,7 +1290,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 39.5
+   "hot_score": 38.1
   },
   {
    "id": "22570b73cb13d8a33530b28eb55bb6c1792522fa",
@@ -1178,7 +1306,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 38.8
+   "hot_score": 37.5
   },
   {
    "id": "b826d68056ff503eadf589fe7edeca45923eec5d",
@@ -1194,7 +1322,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 35.2
+   "hot_score": 34.0
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -1210,7 +1338,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 38.4
+   "hot_score": 37.1
   },
   {
    "id": "4d27d8c7c63f287192f14f40a324643e012bfd14",
@@ -1226,7 +1354,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 35.4
+   "hot_score": 34.1
   },
   {
    "id": "058b7496c5710a409d7c978c6bb756505a417173",
@@ -1242,7 +1370,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 35.2
+   "hot_score": 34.0
   },
   {
    "id": "bc56ec6d7183a08a564043c6bc778ae5d4ae3e27",
@@ -1258,7 +1386,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 32.9
+   "hot_score": 31.7
   },
   {
    "id": "1f1f8a694c59f81df629a0864a749215e5db2979",
@@ -1270,11 +1398,11 @@
    "summary": "SAG-AFTRA actors can now be recruited for vertical slices, demos, and other forms of content needed to pitch games.",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 60,
+   "score": 50,
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 31.4
+   "hot_score": 25.3
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -1286,11 +1414,11 @@
    "summary": "The investment partners recently acquired Electronic Arts and are now reportedly turning their gaze toward software engine Unity.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 63,
+   "score": 53,
    "reason": "涉及engine",
    "is_new": false,
    "trend": "same",
-   "hot_score": 32.6
+   "hot_score": 26.5
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -1302,11 +1430,11 @@
    "summary": "Age of Empires -influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the f…",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 60,
+   "score": 50,
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 30.9
+   "hot_score": 24.8
   },
   {
    "id": "5ef3b5a127fd5ba4103dc807f5e4cc6d0ede0bc3",
@@ -1322,7 +1450,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.4
+   "hot_score": 24.6
   },
   {
    "id": "9231336d2e761cf2013120444f7381b465b62710",
@@ -1338,7 +1466,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.3
+   "hot_score": 24.5
   },
   {
    "id": "f8ff865f8809584cce7d2c20bd46411b684e7b10",
@@ -1354,7 +1482,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.3
+   "hot_score": 24.4
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -1370,7 +1498,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.2
+   "hot_score": 24.3
   },
   {
    "id": "201ced87b1c7b5347f2fc99d47b363caae368505",
@@ -1386,7 +1514,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.1
+   "hot_score": 24.3
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -1402,7 +1530,7 @@
    "reason": "官方来源",
    "is_new": false,
    "trend": "same",
-   "hot_score": 29.9
+   "hot_score": 28.9
   },
   {
    "id": "4eb5c606da180db7bd746b2adfff0a7282496071",
@@ -1418,7 +1546,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.9
+   "hot_score": 24.1
   },
   {
    "id": "e00107a03fa48327d3cf20a2115ed781982e59ea",
@@ -1434,7 +1562,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.9
+   "hot_score": 24.0
   },
   {
    "id": "b1ec315fa9dce11621d6cee1a8f2617d1fa68536",
@@ -1450,7 +1578,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.7
+   "hot_score": 23.8
   },
   {
    "id": "66cce1269a56aeaf3287d30280b5b5e03adafd4a",
@@ -1466,7 +1594,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.6
+   "hot_score": 23.8
   },
   {
    "id": "fabcda5f5319953fcb226b9492415f4dd5e64902",
@@ -1482,7 +1610,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.4
+   "hot_score": 23.5
   },
   {
    "id": "82a0209d95fbec8935199d6d6a8119b7fdfa27fc",
@@ -1498,7 +1626,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.3
+   "hot_score": 23.4
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1514,7 +1642,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.1
+   "hot_score": 23.3
   },
   {
    "id": "f0da9e69dffe9090a9d5d39f50e90af96613d694",
@@ -1530,7 +1658,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.0
+   "hot_score": 23.2
   },
   {
    "id": "e345653cd7291053ee2f2bb3b8e74bb4dce9169d",
@@ -1546,7 +1674,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.8
+   "hot_score": 23.0
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -1562,7 +1690,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.6
+   "hot_score": 22.7
   },
   {
    "id": "68c059b85bf4d04451f166ee871567ee17c49a6a",
@@ -1578,7 +1706,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.4
+   "hot_score": 21.6
   },
   {
    "id": "97ba99091379f0365c771c0ce27d018bc3c9eab9",
@@ -1594,7 +1722,7 @@
    "reason": "官方来源 · 涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 27.6
+   "hot_score": 26.6
   },
   {
    "id": "52b4309758a39c909bea4825a77707763c0eb20a",
@@ -1610,7 +1738,7 @@
    "reason": "官方来源 · 涉及optimization、workflow",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.7
+   "hot_score": 25.8
   },
   {
    "id": "cce0629d13e2b34c874605a4ea82e3749bca9cdf",
@@ -1626,7 +1754,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.7
+   "hot_score": 20.9
   },
   {
    "id": "e8fa2a2c06b9ecc7543e37dc18420d6544c5cfe1",
@@ -1642,7 +1770,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.4
+   "hot_score": 20.6
   },
   {
    "id": "14d710c63b178bfbac9ff7271102234d1ece93cc",
@@ -1658,7 +1786,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.9
+   "hot_score": 20.2
   },
   {
    "id": "6b40790e89cf07241ad682c14ace8c855571e3af",
@@ -1674,7 +1802,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.8
+   "hot_score": 20.1
   },
   {
    "id": "baa849e20dc9a141dc983de12e996c6b4b1f2ca4",
@@ -1690,7 +1818,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.7
+   "hot_score": 20.0
   },
   {
    "id": "05ca53fa67d31bf552e94530a74262bb74fde218",
@@ -1706,7 +1834,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.6
+   "hot_score": 19.9
   },
   {
    "id": "5cc77acecf7b8096f30008b669621a9c91205279",
@@ -1722,7 +1850,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.6
+   "hot_score": 19.9
   },
   {
    "id": "9ba6aa1897f76bd2cc5044913d8800d1511aee80",
@@ -1738,7 +1866,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.5
+   "hot_score": 19.8
   },
   {
    "id": "c4526501f36797aedc90fc6552ecb83da94c37ff",
@@ -1754,7 +1882,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.3
+   "hot_score": 19.6
   },
   {
    "id": "ac3b087391a04625ec86ae5e4de267c8dfca6cdc",
@@ -1770,7 +1898,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.3
+   "hot_score": 19.6
   },
   {
    "id": "41895422997981cb2baad599042021848e3924f4",
@@ -1786,7 +1914,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.1
+   "hot_score": 19.4
   },
   {
    "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
@@ -1802,7 +1930,7 @@
    "reason": "涉及data",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.2
+   "hot_score": 20.4
   },
   {
    "id": "8be5c5acd91f2eb2b46c601fb4bb7dbae563c67d",
@@ -1818,7 +1946,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.8
+   "hot_score": 19.1
   },
   {
    "id": "387d59961ecdd4eac90934fd99472f62f27cb4d6",
@@ -1834,7 +1962,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 17.7
+   "hot_score": 17.1
   },
   {
    "id": "7c6127fe20fbbc9a225b8b4fcd8cd92857f9b613",
@@ -1850,7 +1978,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.6
+   "hot_score": 19.0
   },
   {
    "id": "9c32bcd3c3b11649f880416aedbcdb8f3eb205c4",
@@ -1866,7 +1994,7 @@
    "reason": "涉及revenue、sales",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.9
+   "hot_score": 21.1
   },
   {
    "id": "9921b12bdf523054608956e4c97d3a83c15d06b8",
@@ -1882,7 +2010,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.4
+   "hot_score": 18.7
   },
   {
    "id": "7fdb3f5173cd55d0cb4cb3eb7e767159f11128c7",
@@ -1898,7 +2026,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.2
+   "hot_score": 18.5
   },
   {
    "id": "a1a6683ba08af07269cf5495d7019303b3b5b8e5",
@@ -1914,7 +2042,7 @@
    "reason": "涉及sales",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.4
+   "hot_score": 19.7
   },
   {
    "id": "961a804d08016afc8c8cbc1bdfca47a70603a4f5",
@@ -1930,7 +2058,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 17.0
+   "hot_score": 16.4
   },
   {
    "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
@@ -1946,7 +2074,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 15.2
+   "hot_score": 14.7
   },
   {
    "id": "e8eb66ee1992ee97af38048c8dfba99d8e91f239",
@@ -1962,135 +2090,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 16.8
-  },
-  {
-   "id": "d243fc5aaaf6260900e8cdeff7828b3d2d1646a4",
-   "title": "Analysis: one in three acquired game studios has been shut down since 2000",
-   "link": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T18:56:00+00:00",
-   "summary": "A new analysis of over 300 game studios acquired by big companies since 2000 shows one in three studios has since been shut down completely, half of which were shuttered within five years of the acqui…",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.7
-  },
-  {
-   "id": "3b4ff21427e0caea8ea41d1b2a6ac6ef7065ea90",
-   "title": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\"",
-   "link": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-04T18:02:20+00:00",
-   "summary": "Unionised workers at Dishonored developers Arkane Lyon have published a fresh statement about the progress of negotiations with Microsoft over the studio's potential closure. Aside from calling on Xbo…",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.6
-  },
-  {
-   "id": "d9815e415e0cb35c3110dab9b9394952a826e65c",
-   "title": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio",
-   "link": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-04T17:37:00+00:00",
-   "summary": "The Lyon-based studio has a few options on the table to avoid studio closure, including an acquisition from fellow-French video game industry contemporary Ubisoft.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.5
-  },
-  {
-   "id": "e76dd3ccdb26ad9ab64e2205f6ec5653bcb511f0",
-   "title": "Oblivion and Skyrim’s gap was bridged by forward-looking books about a murderous floating island, so why is The Elder Scrolls 6 stuck reanimating a world that’s stood still since 2011",
-   "link": "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-04T17:30:00+00:00",
-   "summary": "Long waits between mainline entries in a series aren’t a new phenomenon, if perhaps a bit more common nowadays due to big games' ballooning development cycles. It took about 23 years for BioWare’s Bal…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.5
-  },
-  {
-   "id": "aa5d242c8b4e04c625de84d66ec1461a544e8fa6",
-   "title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
-   "link": "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-04T17:03:10+00:00",
-   "summary": "\"Stardeus is in an early stage in terms of bulk and complexity, but it's already a pleasant blend of interesting ideas that generate a mostly relaxing vibe,\" wrote gallant star captain.exe Sin Vega in…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 53,
-   "reason": "涉及tool",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 17.4
-  },
-  {
-   "id": "fb2e044e229a8cb96b9476c8693d82f4b773de61",
-   "title": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-   "link": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-04T16:50:48+00:00",
-   "summary": "New games on Valve's Steam platform are getting delayed due to an extended approval process, which Valve does not directly attribute to any kind of development trend.",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.4
-  },
-  {
-   "id": "71434420f42df352498b8209e186a752c2a89b86",
-   "title": "Meet the UK's 2026 video game BAFTA Breakthroughs",
-   "link": "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T15:51:40+00:00",
-   "summary": "BAFTA has announced its annual list of Breakthroughs: 21 promising creatives in UK film, games, and television who will receive career guidance and access to industry networking events, as well as ful…",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
    "hot_score": 16.2
-  },
-  {
-   "id": "969cb21ccb6d84f7c4dc070baf46d30eb0bfb5c5",
-   "title": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio",
-   "link": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T13:30:00+00:00",
-   "summary": "When Katsuhiro Harada announced his departure from Bandai Namco last December after more than three decades, fighting game fans were left dejected. Many feared the retirement of the driving force behi…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 15.9
   }
  ]
 }

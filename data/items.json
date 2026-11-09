@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T16:52:32.587163+00:00",
+ "updated_at": "2026-11-09T20:39:43.641584+00:00",
  "items": [
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -3300,6 +3300,86 @@
    "published": "2026-11-09T15:04:06+00:00",
    "summary": "edit: DAG stands for Directed Acyclic Graph edit: tldr; can you use framegraphs to organize ALL the updates in one iteration of a game loop? As of now, the engine I'm working on is all single-threaded…",
    "fetched_at": "2026-11-09T16:52:32.587163+00:00"
+  },
+  {
+   "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
+   "title": "Dev snapshot: Godot 4.8 beta 3",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-09T12:00:00+00:00",
+   "summary": "Despite much of our team being at GodotFest this past week , there was still a healthy amount of progress made on our handful of remaining release blockers. It’s looking like it won’t be too much long…",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
+   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T19:43:10+00:00",
+   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
+   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+   "link": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T17:37:10+00:00",
+   "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
+   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
+   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
+   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:05:10+00:00",
+   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
+   "title": "How far along is the project? Track progress on every card",
+   "link": "https://gamedev.net/blogs/entry/2298638-how-far-along-is-the-project-track-progress-on-every-card",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T16:30:36+00:00",
+   "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
+   "title": "New Horror Game Ideas. 2D.",
+   "link": "https://gamedev.net/forums/topic/720805-new-horror-game-ideas-2d",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T19:09:12+00:00",
+   "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
+   "fetched_at": "2026-11-09T20:39:43.641584+00:00"
   }
  ]
 }
