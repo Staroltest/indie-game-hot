@@ -1,7 +1,7 @@
 {
  "date": "2026年11月09日",
- "generated_at": "2026-11-09T14:28:06.262888+00:00",
- "summary": "过去 24 小时共收录 29 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag。",
+ "generated_at": "2026-11-09T14:59:28.553450+00:00",
+ "summary": "过去 24 小时共收录 31 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag。",
  "items": [
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -14,7 +14,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.5
+   "reason": "涉及tool、workflow · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 83.1
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -27,7 +30,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.3
+   "reason": "涉及tool、engine · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.9
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -40,7 +46,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.4
+   "reason": "涉及tool · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.0
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -53,7 +62,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.1
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -66,7 +78,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.8
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.4
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -79,7 +94,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 76.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.2
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -92,7 +110,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -105,7 +126,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -118,7 +142,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -131,7 +158,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.2
   }
  ]
 }

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IndieHOT 独立游戏热点 · 热点榜</title>
+<meta name="description" content="IndieHOT 每天从一批独立游戏信源里收动态，按规则打分精选：引擎与工具、发行与宣发、开发日志、行业与融资、展会与活动、评测与复盘。只显示标题、摘要与原文链接，不转载全文。">
+<script>(function(){try{var t=localStorage.getItem('indiehot-theme');if(!t){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><style>
+/* 设计语言：暖纸底色、青色点缀、细线边框、无渐变；
+   侧栏导航、热点条、时间线时间轨、评分徽章均为其组件的静态化移植。品牌与 logo 仍是 IndieHOT 自己的。 */
+:root{
+  --bg:#faf9f6; --bg-sunk:#f3f3ef; --bg-muted:#e9ede9; --well:var(--bg-sunk);
+  --surface:#fff; --surface-2:#fdfdfb; --sidebar:#fdfdfb; --daybar:#f0f2ee;
+  --ink:#202a30; --ink-2:#303c42; --ink-3:#59656b; --ink-4:#657176;
+  --line:#dfe4e1; --line-strong:#d1d9d5; --line-soft:#e9ede9;
+  --accent:#176b75; --accent-ink:#145f68; --accent-soft:rgba(23,107,117,.08); --accent-softer:rgba(23,107,117,.05);
+  --note:#526f72; --hot:#b3402a; --hot-soft:rgba(179,64,42,.08);
+  --amber:#b8873a; --amber-ink:#7c5a24; --amber-soft:rgba(184,135,58,.1); --ok:#2f7d5c;
+  --rank-1:#b3402a; --rank-2:#a3642f; --rank-3:#96702e; --rank-rest:#6b7684;
+  --shadow-card:0 1px 2px rgba(32,42,48,.025);
+  --shadow-card-hover:0 3px 12px rgba(32,42,48,.055);
+  --shadow-thumb:0 1px 2px rgba(28,39,51,.1),0 1px 1px rgba(28,39,51,.04);
+  --page-max-wide:max(1200px,calc(270dvh - 236px));
+  --bar-h:48px; color-scheme:light;
+}
+@media(min-width:700px){:root{--bar-h:0px}}
+[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#13191c; --bg-sunk:#182024; --bg-muted:#202a2f; --well:#182024;
+  --surface:#1a2226; --surface-2:#1d272b; --sidebar:#161e21; --daybar:#182024;
+  --ink:#e7eceb; --ink-2:#d2dada; --ink-3:#a5b0b3; --ink-4:#89979d;
+  --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.12); --line-soft:rgba(255,255,255,.06);
+  --accent:#12ccd8; --accent-ink:#2ce2e8; --accent-soft:rgba(18,204,216,.12); --accent-softer:rgba(18,204,216,.06);
+  --note:#8fb8a8; --hot:#d86a52; --hot-soft:rgba(216,106,82,.12);
+  --amber:#d3b26a; --amber-ink:#d3b26a; --amber-soft:rgba(211,178,106,.12); --ok:#5fc79a;
+  --rank-1:#d86a52; --rank-2:#d18a5e; --rank-3:#d3b26a; --rank-rest:#7b869a;
+  --shadow-card:none; --shadow-card-hover:none;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;text-autospace:normal}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","HarmonyOS Sans SC","Microsoft YaHei",sans-serif;
+  font-size:14px;line-height:1.5}
+body:has(.report-shell){background:var(--surface-2)}
+::selection{background:rgba(23,107,117,.16)}
+a{color:inherit;text-decoration:none}
+button{cursor:pointer;font:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:5px}
+.num{font-variant-numeric:tabular-nums}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+
+/* ---- 壳：侧栏 / 窄轨 / 主列 / 手机顶栏与底栏 ---- */
+.shell{display:flex;min-height:100dvh}
+.sidebar,.rail{display:none}
+.main{flex:1;min-width:0}
+/* 列表宽度：桌面撑满主列，上限 max(1200px, 270dvh-236px)，超宽屏再居中 */
+.page{max-width:640px;width:100%;margin:0 auto;padding:0 16px 96px}
+@media(min-width:700px){
+  .page{max-width:var(--page-max-wide);padding:0 20px 48px}
+}
+@media(min-width:700px){
+  .rail{display:flex;position:sticky;top:0;height:100dvh;width:64px;flex-shrink:0;
+    flex-direction:column;align-items:center;border-right:1px solid var(--line);
+    background:var(--sidebar);padding:20px 6px 14px}
+}
+@media(min-width:941px){
+  .page{padding:0 28px 48px}
+  .rail{display:none}
+  .sidebar{display:flex;position:sticky;top:0;height:100dvh;width:180px;flex-shrink:0;
+    flex-direction:column;border-right:1px solid var(--line);background:var(--sidebar);
+    padding:24px 12px 14px}
+}
+.brand{display:flex;align-items:center;gap:10px;color:var(--ink)}
+.brand b{font-size:20px;font-weight:700;letter-spacing:.01em}
+.brand small{display:block;font-size:11px;color:var(--ink-4);font-weight:400}
+.nav-sec{margin-top:14px}
+.nav-sec h3{margin:0;padding:14px 10px 4px;font-size:11px;font-weight:400;color:var(--ink-4)}
+.side-link{display:flex;height:40px;align-items:center;gap:10px;padding:0 10px;border-radius:8px;
+  font-size:14px;font-weight:500;color:var(--ink-3)}
+.side-link svg{flex-shrink:0}
+.side-link:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.side-link.on svg{color:var(--accent)}
+.side-foot{margin-top:auto;padding-top:12px}
+.side-foot .gh{display:flex;height:34px;align-items:center;justify-content:center;gap:6px;
+  border:1px solid var(--line);border-radius:9999px;font-size:12.5px;color:var(--ink-3)}
+.side-foot .gh:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-foot .theme-btn{width:100%;height:34px;margin-top:8px;border:1px solid var(--line);
+  border-radius:9999px;background:transparent;color:var(--ink-3);font-size:12.5px}
+.side-foot .theme-btn:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-foot .note{margin:10px 4px 0;font-size:11.5px;color:var(--ink-4);text-align:center}
+.rail-link{display:flex;width:100%;height:56px;flex-direction:column;align-items:center;justify-content:center;
+  gap:3px;border-radius:8px;font-size:11px;font-weight:500;color:var(--ink-3)}
+.rail-link:hover{background:var(--bg-sunk);color:var(--ink)}
+.rail-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.rail-link.on svg{color:var(--accent)}
+.rail .brand{margin-bottom:12px}
+
+/* 手机顶栏：品牌 + 精选|全部切换 + 外观按钮 */
+.topbar{position:sticky;top:0;z-index:30;display:flex;height:var(--bar-h);align-items:center;gap:8px;
+  padding:0 8px;background:var(--bg);border-bottom:1px solid var(--line)}
+.topbar .brand b{font-size:17px}
+.switch{display:flex;margin:0 auto;background:var(--well);border-radius:9999px;padding:2px;box-shadow:inset 0 0 0 1px var(--line-soft)}
+.switch a{padding:3px 14px;border-radius:9999px;font-size:13px;font-weight:500;color:var(--ink-3)}
+.switch a.on{background:var(--surface);color:var(--ink);font-weight:600;box-shadow:var(--shadow-card)}
+.topbar .title{margin:0 auto;font-size:15px;font-weight:600}
+.icon-btn{display:inline-flex;width:36px;height:36px;align-items:center;justify-content:center;
+  border:0;border-radius:8px;background:transparent;color:var(--ink-3)}
+.icon-btn:hover{background:var(--bg-sunk);color:var(--ink)}
+[data-theme="dark"] .ic-sun{display:inline-flex}
+[data-theme="dark"] .ic-moon{display:none}
+.ic-sun{display:none}
+
+/* 手机底栏 */
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;background:var(--surface);
+  border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:7px 0 6px;
+  font-size:11px;font-weight:500;color:var(--ink-3)}
+.tabbar a.on{color:var(--accent);font-weight:600}
+/* 桌面（≥700px）只留侧栏/窄轨，手机顶栏与底栏隐藏（须放在基础规则之后，否则同优先级后规则覆盖） */
+@media(min-width:700px){.topbar,.tabbar{display:none}}
+
+/* ---- 通用组件 ---- */
+h1{font-size:24px;font-weight:600;line-height:1.3;margin:22px 0 0}
+h2.sec{font-size:19px;font-weight:600;margin:30px 0 12px}
+.lede{font-size:13px;color:var(--ink-4);margin:8px 0 0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-card)}
+.chip{display:inline-flex;align-items:center;height:26px;padding:0 10px;border-radius:9999px;
+  border:1px solid var(--line-soft);background:var(--bg-sunk);font-size:12px;color:var(--ink-4)}
+button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
+.chip.on{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink);font-weight:600}
+.tabs{position:relative;display:inline-flex;gap:2px;overflow-x:auto;scrollbar-width:none;
+  margin:0;padding:3px;border-radius:9999px;background:var(--well);box-shadow:inset 0 0 0 1px var(--line-soft)}
+.tabs::-webkit-scrollbar{display:none}
+.tabs .chip{position:relative;z-index:1;flex-shrink:0;height:36px;padding:0 16px;border:0;
+  background:transparent;font-size:14px;font-weight:500;color:var(--ink-3);border-radius:9999px}
+.tabs .chip:hover{color:var(--ink)}
+.tabs .chip.on{color:var(--ink);font-weight:600}
+.tabs-thumb{position:absolute;top:3px;bottom:3px;left:3px;width:0;border-radius:9999px;
+  background:var(--surface);box-shadow:var(--shadow-thumb),inset 0 0 0 1px var(--line);
+  transition:left 300ms cubic-bezier(.25,1,.5,1),width 300ms cubic-bezier(.25,1,.5,1)}
+/* 筛选行：左侧分类分段控件，右侧搜索框 */
+.filter-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:16px 0 4px}
+.filter-row .tabs{max-width:100%}
+.search{position:relative;width:100%}
+@media(min-width:700px){.search{width:240px;flex-shrink:0}}
+.search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--ink-4);pointer-events:none}
+.search input{width:100%;height:42px;border:0;border-radius:9999px;background:var(--well);
+  padding:0 40px 0 40px;font:inherit;font-size:16px;color:var(--ink);outline:none;
+  box-shadow:inset 0 0 0 1px var(--line-soft)}
+@media(min-width:640px){.search input{font-size:14px}}
+.search input::placeholder{color:var(--ink-4)}
+.search input:hover{box-shadow:inset 0 0 0 1px var(--line-strong)}
+.search input:focus{background:var(--surface);box-shadow:0 0 0 3px var(--accent-soft),inset 0 0 0 1px var(--accent)}
+.search .clear{position:absolute;right:12px;top:50%;transform:translateY(-50%);
+  display:none;width:24px;height:24px;align-items:center;justify-content:center;
+  border:0;border-radius:9999px;background:transparent;color:var(--ink-4)}
+.search .clear:hover{background:var(--bg-sunk);color:var(--ink)}
+.search.has-value .clear{display:inline-flex}
+.search kbd{position:absolute;right:16px;top:50%;transform:translateY(-50%);display:none;
+  font-family:ui-monospace,Menlo,Consolas,monospace;font-size:10.5px;line-height:16px;
+  padding:0 6px;border:1px solid var(--line-strong);border-radius:5px;background:var(--surface);color:var(--ink-4)}
+@media(min-width:700px){.search:not(.has-value) kbd{display:block}}
+/* 只看未读：独立小开关（首个日期行右侧 / 手机单独一行） */
+.toggle-chip{display:inline-flex;min-height:28px;align-items:center;gap:6px;padding:0 12px;
+  border-radius:9999px;border:1px solid var(--line-soft);background:var(--bg-sunk);
+  font-size:12.5px;font-weight:500;color:var(--ink-3)}
+.toggle-chip:hover{color:var(--ink);border-color:var(--line-strong)}
+.toggle-chip.on{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink);font-weight:600}
+.unread-row{display:flex;justify-content:flex-end;margin:10px 0 2px}
+@media(min-width:700px){.unread-row{display:none}}
+.well{background:var(--well);box-shadow:inset 0 0 0 1px var(--line-soft);border-radius:14px;padding:14px 16px}
+.well .kicker{font-size:12px;font-weight:600;color:var(--accent-ink)}
+.well p{margin:6px 0 0;font-size:14.5px;line-height:1.75;color:var(--ink-2)}
+
+/* 评分徽章（按档位着色的小药丸，85+ 红、70+ 青、其余安静） */
+.score-pill{display:inline-flex;height:20px;align-items:center;gap:6px;white-space:nowrap;
+  border-radius:9999px;padding:0 8px;box-shadow:inset 0 0 0 1px var(--ring,rgba(0,0,0,0))}
+.score-pill .lbl{font-size:11px;font-weight:500;opacity:.8}
+.score-pill .sep{width:1px;height:10px;background:currentColor;opacity:.25}
+.score-pill .num{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:12.5px;font-weight:700;font-variant-numeric:tabular-nums}
+.score-pill.t-hot{background:rgba(179,64,42,.1);color:var(--hot);--ring:rgba(179,64,42,.25)}
+.score-pill.t-acc{background:var(--accent-soft);color:var(--accent);--ring:rgba(23,107,117,.2)}
+.score-pill.t-quiet{color:var(--ink-4);--ring:var(--line-soft)}
+@media(max-width:640px){.score-pill .lbl,.score-pill .sep{display:none}}
+/* 精选徽章：琥珀底 + 圆点（不是青色） */
+.pick{display:inline-flex;height:18px;align-items:center;gap:4px;padding:0 8px;border-radius:9999px;
+  background:var(--amber-soft);color:var(--amber-ink);font-size:11px;font-weight:500}
+.pick::before{content:"";width:5px;height:5px;border-radius:9999px;background:currentColor}
+/* 当日新到徽章：趋势列的“新”样式 */
+.new-pill{display:inline-flex;height:18px;align-items:center;padding:0 6px;border-radius:9999px;
+  background:var(--accent-soft);color:var(--accent);font-size:10.5px;font-weight:600;line-height:16px}
+.rank{font-weight:800;color:var(--rank-rest)}
+.rank.r1{color:var(--rank-1)}.rank.r2{color:var(--rank-2)}.rank.r3{color:var(--rank-3)}
+
+/* ---- 动态卡片（桌面白卡、手机行；来源行 + 标题 + 摘要 + 分类） ---- */
+.feed-item{padding:14px 0;border-bottom:1px solid var(--line-soft)}
+.feed-item:last-child{border-bottom:0}
+@media(min-width:700px){
+  .feed-item{padding:15px 18px 14px;background:var(--surface);border:1px solid var(--line);
+    border-radius:12px;box-shadow:var(--shadow-card);margin-bottom:12px;
+    transition:box-shadow 200ms,border-color 200ms,transform 200ms}
+  .feed-item:hover{box-shadow:var(--shadow-card-hover);border-color:var(--line-strong);transform:translateY(-1px)}
+}
+.fi-head{display:flex;min-height:20px;align-items:center;gap:8px;font-size:12.5px;color:var(--ink-4)}
+.fi-head .src{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fi-head .pt{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px}
+@media(min-width:700px){.fi-head .pt{display:none}}
+.fi-head .sp{margin-left:auto;display:flex;align-items:center;gap:6px;flex-shrink:0}
+.star-btn{display:inline-flex;width:44px;height:44px;align-items:center;justify-content:center;
+  margin:-11px -12px -11px 0;border:0;border-radius:8px;background:transparent;color:var(--ink-4)}
+.star-btn:hover{background:var(--bg-sunk);color:var(--ink-2)}
+.star-btn.on{color:var(--accent)}
+.star-btn.on svg{fill:currentColor}
+@media(min-width:700px){.star-btn{width:26px;height:26px;margin:-1px 0}}
+.feed-item h3{margin:6px 0 0;font-size:17px;font-weight:650;line-height:1.5}
+@media(min-width:700px){.feed-item h3{line-height:1.55}}
+.feed-item.is-read h3 a{color:var(--ink-4)}
+.feed-item h3 a:hover{color:var(--accent)}
+.feed-item h3 .rank{margin-right:8px;font-size:17px}
+.feed-item .sum{margin:4px 0 0;font-size:14.5px;line-height:1.7;color:var(--ink-3);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+@media(min-width:700px){.feed-item .sum{-webkit-line-clamp:3;font-size:15px;line-height:1.75}}
+.fi-foot{margin-top:8px;display:flex;gap:8px;align-items:center}
+.fi-foot .when{font-size:12.5px;color:var(--ink-4)}
+/* 推荐理由：13px、注色，桌面加顶线与间距 */
+.fi-reason{margin-top:4px;font-size:13px;line-height:1.65;color:var(--note);
+  display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+@media(min-width:700px){
+  .fi-reason{margin-top:12px;padding-top:12px;border-top:1px solid var(--line-soft);
+    -webkit-line-clamp:unset;line-height:1.75}
+}
+
+/* ---- 热点条（右上热色晕染 + 跳动 live 点 + 排名行） ---- */
+.hot-card{position:relative;overflow:hidden;margin:16px 0 0;padding:10px 14px 4px;
+  background:radial-gradient(120% 90% at 100% 0%,var(--hot-soft),transparent 55%),var(--surface)}
+@media(min-width:700px){.hot-card{margin:18px 0 24px;padding:14px 20px 8px}}
+.hot-head{display:flex;align-items:center;justify-content:space-between}
+.hot-head h2{display:flex;align-items:center;gap:8px;margin:0;font-size:14px;font-weight:600}
+.live{position:relative;display:inline-flex;width:8px;height:8px}
+.live .ping{position:absolute;width:100%;height:100%;border-radius:9999px;background:var(--hot);opacity:.4;animation:ping 1.6s ease-out infinite}
+.live .dot{position:relative;width:8px;height:8px;border-radius:9999px;background:var(--hot)}
+@keyframes ping{0%{transform:scale(1);opacity:.4}80%,100%{transform:scale(2.4);opacity:0}}
+.hot-more{display:inline-flex;align-items:center;gap:4px;border:0;background:transparent;
+  font-size:12.5px;color:var(--ink-3);padding:6px 0}
+.hot-more:hover{color:var(--accent)}
+.hot-list{list-style:none;margin:2px 0 0;padding:0}
+.hot-row{display:grid;grid-template-columns:20px minmax(0,1fr) 64px 20px;align-items:center;gap:12px;
+  padding:7px 8px;margin:0 -8px;border-radius:10px}
+.hot-row:hover{background:rgba(243,243,239,.7)}
+[data-theme="dark"] .hot-row:hover{background:rgba(32,42,47,.4)}
+.hot-row .rank{font-size:14px;font-weight:700;text-align:center}
+.hot-row .rank.r1,.hot-row .rank.r2,.hot-row .rank.r3{font-size:15px;font-weight:900}
+.hot-row .t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14.5px;font-weight:600}
+@media(min-width:700px){.hot-row .t{font-size:14px}}
+.hot-row:hover .t{color:var(--accent)}
+.hot-heat{white-space:nowrap;font-size:12.5px;color:var(--ink-4);text-align:right}
+.hot-heat b{font-size:13.5px;font-weight:600;color:var(--ink-2)}
+.hot-trend{display:flex;width:20px;justify-content:center;color:var(--ink-4)}
+.hot-trend .up{color:var(--hot)}
+.hot-trend .flat{color:var(--ink-4)}
+/* 手机只留前 3 名进榜，让动态流尽快出现在首屏 */
+@media(max-width:639px){.hot-top5 li:nth-child(n+4){display:none}}
+
+/* ---- 时间线（按天分组，桌面时间轨 + 青点，手机灰色日栏） ---- */
+.day-head{position:sticky;top:var(--bar-h);z-index:20;display:flex;height:44px;align-items:center;gap:8px;
+  margin:0 -16px;padding:0 16px;background:var(--daybar)}
+.day-head .dh-name{font-size:14px;font-weight:700}
+.day-head .dh-date{font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-wd{font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-count{margin-left:auto;font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-wd-full{display:none}
+.day-head .dh-aside{display:none}
+.day-head .dh-toggle{display:inline-flex;width:24px;height:24px;align-items:center;justify-content:center;
+  flex-shrink:0;border:0;border-radius:9999px;background:transparent;color:var(--ink-4)}
+.day-head .dh-toggle:hover{background:var(--bg-sunk);color:var(--ink)}
+.day-head .dh-toggle svg{transition:transform 200ms}
+.day-sec.collapsed .day-list{display:none}
+.day-sec.collapsed .dh-toggle svg{transform:rotate(-90deg)}
+@media(min-width:700px){
+  .day-head{position:sticky;top:0;height:44px;margin:0;padding:0;background:var(--bg)}
+  .day-head .dh-name{display:none}
+  .day-head .dh-date{font-size:18px;font-weight:600;color:var(--ink)}
+  .day-head .dh-wd{font-size:13px}
+  .day-head .dh-wd-short{display:none}
+  .day-head .dh-wd-full{display:inline}
+  .day-head .dh-count{margin-left:0}
+  .day-head .dh-aside{display:block;margin-left:auto}
+}
+.day-head:not(.is-today) .dh-date{display:none}
+@media(min-width:700px){.day-head:not(.is-today) .dh-date{display:inline;font-size:18px;font-weight:600}}
+.day-sec{margin-top:8px}
+.day-list{list-style:none;margin:0;padding:0}
+.slot{padding:14px 0;border-bottom:1px solid var(--line-soft)}
+.slot:last-child{border-bottom:0}
+.slot .slot-time,.slot .rail{display:none}
+@media(min-width:700px){
+  .slot{display:grid;grid-template-columns:64px 22px minmax(0,1fr);padding:0 0 12px;border-bottom:0}
+  .slot .slot-time{display:block;padding-top:17px;font-family:ui-monospace,Menlo,Consolas,monospace;
+    font-size:12.5px;font-weight:600;color:var(--ink-3)}
+  .slot .rail{display:block;position:relative}
+  .slot .rail::before{content:"";position:absolute;left:10.5px;top:29px;bottom:-13px;width:1px;background:var(--line-strong)}
+  .slot:last-child .rail::before{display:none}
+  .slot .rail::after{content:"";position:absolute;left:7.5px;top:25.5px;width:7px;height:7px;
+    border-radius:9999px;background:var(--accent);box-shadow:0 0 0 4px var(--bg)}
+  .slot .feed-item{margin-bottom:0}
+}
+
+.foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-4)}
+.foot p{margin:0 0 8px}
+@media(max-width:699px){.foot{padding-bottom:8px}}
+/* 回到顶部：圆按钮，滚过一屏多再出现（仅桌面） */
+.to-top{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));
+  z-index:30;display:none;width:44px;height:44px;align-items:center;justify-content:center;
+  border-radius:9999px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);
+  box-shadow:0 4px 12px rgba(28,39,51,.06);transition:opacity 200ms,transform 200ms;
+  opacity:0;transform:translateY(8px);pointer-events:none}
+.to-top.show{opacity:1;transform:none;pointer-events:auto}
+.to-top:hover{color:var(--ink)}
+@media(min-width:941px){.to-top{display:flex}}
+/* 列表到底 */
+.feed-end{padding:24px 0;text-align:center;font-size:12px;color:var(--ink-4)}
+/* 日报名头：大字名 + 双线，照报纸的版头 */
+.masthead{margin-top:24px;padding-bottom:16px;border-bottom:3px double var(--line-strong)}
+.masthead .mp-brand{display:flex;align-items:center;gap:14px}
+.masthead .mp-brand b{font-size:30px;font-weight:800;letter-spacing:.01em}
+.masthead .mp-meta{margin:10px 0 0;font-size:13px;color:var(--ink-4)}
+</style></head>
+<body><div class="shell"><aside class="sidebar"><a class="brand" href="index.html"><svg width="32" height="32" viewBox="0 0 48 48" aria-hidden="true">
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
+</linearGradient></defs>
+<rect x="2" y="2" width="32" height="32" rx="11" fill="url(#lg)"/>
+<rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
+<rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
+</svg><span><b>IndieHOT</b><small>独立游戏开发者热点</small></span></a><nav aria-label="主导航"><div class="nav-sec"><h3>内容</h3><a class="side-link" href="index.html#featured"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="side-link" href="index.html#timeline"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="side-link on" href="hot.html"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="side-link" href="daily.html"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="side-link" href="index.html#starred" data-filter="starred"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><span>收藏</span><span class="num" id="starCount"></span></a></div><div class="nav-sec"><h3>更多</h3><a class="side-link" href="data/hot.json"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg><span>数据 JSON</span></a></div></nav><div class="side-foot"><a class="gh" href="https://github.com/Staroltest/indie-game-hot" target="_blank" rel="noopener">GitHub 仓库</a><button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色"><span class="ic-moon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span><span class="ic-sun"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button><p class="note">每天 08:00 出日报</p></div></aside><aside class="rail"><a class="brand" href="index.html" aria-label="IndieHOT 首页"><svg width="28" height="28" viewBox="0 0 48 48" aria-hidden="true">
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
+</linearGradient></defs>
+<rect x="2" y="2" width="28" height="28" rx="11" fill="url(#lg)"/>
+<rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
+<rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
+</svg></a><nav aria-label="主导航"><a class="rail-link" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="rail-link" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="rail-link on" href="hot.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="rail-link" href="daily.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="rail-link" href="index.html#starred" data-filter="starred"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><span>收藏</span></a></nav></aside><div class="main"><header class="topbar"><a class="brand" href="index.html"><svg width="26" height="26" viewBox="0 0 48 48" aria-hidden="true">
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
+</linearGradient></defs>
+<rect x="2" y="2" width="26" height="26" rx="11" fill="url(#lg)"/>
+<rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
+<rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
+</svg><b>IndieHOT</b></a><span class="switch"><a class="on" href="index.html#featured">精选</a><a href="index.html#timeline">全部</a></span><button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色"><span class="ic-moon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span><span class="ic-sun"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button></header><div class="page"><h1>热点榜</h1><p class="lede">更新于 2026年11月09日 22:59（北京时间）· 最近 7 天共 136 条 · 热度按评分随时间衰减，趋势对照上一轮榜单。</p><section class="card hot-card" aria-labelledby="hot-topics"><div class="hot-head"><h2 id="hot-topics"><span class="live" aria-hidden="true"><span class="ping"></span><span class="dot"></span></span>当前热点</h2></div><ol class="hot-list"><li><a class="hot-row" href="https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag" target="_blank" rel="noopener"><span class="rank r1">01</span><span class="t">Reimagining Street Fighter 6’s A.K.I. in ZBrush &amp; Marmoset Toolbag</span><span class="hot-heat"><b class="num">83</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool" target="_blank" rel="noopener"><span class="rank r2">02</span><span class="t">Creating Realistic Mountain Scene With Custom Unreal Engine 5 Tool</span><span class="hot-heat"><b class="num">83</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer" target="_blank" rel="noopener"><span class="rank r3">03</span><span class="t">How to Make Hand-Painted Base Generator in Substance 3D Designer</span><span class="hot-heat"><b class="num">82</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style" target="_blank" rel="noopener"><span class="rank ">04</span><span class="t">Dungeon Meshi&#x27;s Laios Reimagined In Beautiful Hand-Drawn 3D Style</span><span class="hot-heat"><b class="num">80</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics" target="_blank" rel="noopener"><span class="rank ">05</span><span class="t">This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics</span><span class="hot-heat"><b class="num">79</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices" target="_blank" rel="noopener"><span class="rank ">06</span><span class="t">Baldur&#x27;s Gate 3 Praised By Skyrim Lead Designer For Its Meaningful Player Choices</span><span class="hot-heat"><b class="num">79</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://gamedev.net/forums/topic/720804-angelscript-2390-is-out" target="_blank" rel="noopener"><span class="rank ">07</span><span class="t">AngelScript 2.39.0 is out</span><span class="hot-heat"><b class="num">79</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous" target="_blank" rel="noopener"><span class="rank ">08</span><span class="t">&quot;There is no excuse for what I did,&quot; Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous</span><span class="hot-heat"><b class="num">79</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://indiegamesplus.com/power-line-preview" target="_blank" rel="noopener"><span class="rank ">09</span><span class="t">‘Power Line’ shows you that you’ve lied on your resume, to work for Nintendo</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it" target="_blank" rel="noopener"><span class="rank ">10</span><span class="t">Rockstar were &quot;definitely&quot; thinking about giving a Japanese studio the keys to GTA, says former tech director - &quot;I have a name, but I&#x27;m not gonna say it&quot;</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily" target="_blank" rel="noopener"><span class="rank ">11</span><span class="t">Developer Builds Script That Reports Your PC&#x27;s Unused RAM To Sam Altman Daily</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports" target="_blank" rel="noopener"><span class="rank ">12</span><span class="t">NVIDIA Board Opens Independent Investigation After Reports Its CEO Was Targeted by Foreign Intelligence</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion" target="_blank" rel="noopener"><span class="rank ">13</span><span class="t">Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach" target="_blank" rel="noopener"><span class="rank ">14</span><span class="t">&quot;The lesson learned is you can have both&quot;: Skyrim lead designer reckons there&#x27;s merit in Baldur&#x27;s Gate 3-style tough choices and Bethesda&#x27;s do-anything approach</span><span class="hot-heat"><b class="num">78</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people" target="_blank" rel="noopener"><span class="rank ">15</span><span class="t">Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people</span><span class="hot-heat"><b class="num">77</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/check-out-these-sneakers-with-actual-working-suspension" target="_blank" rel="noopener"><span class="rank ">16</span><span class="t">Check Out These Sneakers With Actual Working Suspension</span><span class="hot-heat"><b class="num">77</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games" target="_blank" rel="noopener"><span class="rank ">17</span><span class="t">German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games</span><span class="hot-heat"><b class="num">76</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/ubisoft-reportedly-working-on-two-new-assassin-s-creed-games" target="_blank" rel="noopener"><span class="rank ">18</span><span class="t">Ubisoft Reportedly Working On Two New Assassin&#x27;s Creed Games</span><span class="hot-heat"><b class="num">76</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://80.lv/articles/stealth-game-inspired-by-thief-dark-messiah-enters-early-access" target="_blank" rel="noopener"><span class="rank ">19</span><span class="t">Stealth Game Inspired by Thief &amp; Dark Messiah Enters Early Access</span><span class="hot-heat"><b class="num">76</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li><li><a class="hot-row" href="https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder" target="_blank" rel="noopener"><span class="rank ">20</span><span class="t">Ahead of The Witcher 3: Songs of the Past, here&#x27;s a &quot;lore friendly unofficial expansion to Geralt&#x27;s life in Toussaint&quot; from a well-established quest modder</span><span class="hot-heat"><b class="num">73</b> 热度</span><span class="hot-trend"><span class="flat" title="热度持平"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/></svg></span></span></a></li></ol></section><footer class="foot"><p>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。内容只作开发者资讯参考；本站不转载全文。</p><p>信息架构与界面风格参考 AIHOT（采集—评分—精选—日报流水线、暖纸底色与侧栏导航），代码为本站原创，MIT 协议开源。 · <a href="https://github.com/Staroltest/indie-game-hot">GitHub 仓库</a></p></footer></div></div></div><button type="button" class="to-top" id="toTop" aria-label="回到顶部"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg></button><nav class="tabbar" aria-label="主导航"><a class="" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="on" href="hot.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点</span></a><a class="" href="daily.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部</span></a></nav>
+<script>
+(function(){
+var LS_READ='indiehot-read',LS_STAR='indiehot-starred';
+function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch(e){return new Set();}}
+function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify(Array.from(s)));}catch(e){}}
+var readSet=loadSet(LS_READ),starSet=loadSet(LS_STAR);
+document.querySelectorAll('.theme-btn').forEach(function(b){b.addEventListener('click',function(){var h=document.documentElement;var n=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',n);try{localStorage.setItem('indiehot-theme',n);}catch(e){}});});
+/* 已读：点开标题即记已读，标题变灰；星标：本地收藏，可再筛出来 */
+document.querySelectorAll('.feed-item').forEach(function(el){
+  var id=el.getAttribute('data-id');
+  if(!id)return;
+  if(readSet.has(id))el.classList.add('is-read');
+  var star=el.querySelector('.star-btn');
+  if(star){
+    if(starSet.has(id)){star.classList.add('on');star.setAttribute('aria-label','取消收藏');star.title='取消收藏';}
+    star.addEventListener('click',function(){
+      if(starSet.has(id)){starSet.delete(id);star.classList.remove('on');star.setAttribute('aria-label','收藏');star.title='收藏';}
+      else{starSet.add(id);star.classList.add('on');star.setAttribute('aria-label','取消收藏');star.title='取消收藏';}
+      saveSet(LS_STAR,starSet);applyFilters();
+    });
+  }
+  var a=el.querySelector('h3 a');
+  if(a)a.addEventListener('click',function(){
+    if(!readSet.has(id)){readSet.add(id);saveSet(LS_READ,readSet);el.classList.add('is-read');applyFilters();}
+  });
+});
+/* 筛选状态：分类 + 只看收藏 + 只看未读 + 搜索词，四者叠加 */
+var state={cat:'all',star:false,unread:false,q:''};
+function itemVisible(el){
+  var id=el.getAttribute('data-id')||'';
+  if(state.cat!=='all'&&state.cat!=='starred'&&el.getAttribute('data-category')!==state.cat)return false;
+  if(state.cat==='starred'&&!starSet.has(id))return false;
+  if(state.star&&!starSet.has(id))return false;
+  if(state.unread&&readSet.has(id))return false;
+  if(state.q){
+    var t=(el.textContent||'').toLowerCase();
+    if(t.indexOf(state.q)===-1)return false;
+  }
+  return true;
+}
+function applyFilters(){
+  var shown=0;
+  document.querySelectorAll('#featured .feed-item').forEach(function(el){
+    var ok=itemVisible(el);el.style.display=ok?'':'none';if(ok)shown++;
+  });
+  document.querySelectorAll('#timeline .slot').forEach(function(li){
+    var card=li.querySelector('.feed-item');
+    var ok=card?itemVisible(card):true;
+    li.style.display=ok?'':'none';if(ok)shown++;
+  });
+  document.querySelectorAll('#timeline .day-sec').forEach(function(sec){
+    var vis=sec.querySelectorAll('.slot:not([style*="none"])').length;
+    sec.style.display=vis?'':'none';
+  });
+  var nr=document.getElementById('noResult');
+  if(nr){
+    nr.style.display=shown?'none':'';
+    nr.textContent=state.cat==='starred'||state.star?'还没有收藏，去点卡片右上角的书签吧。':(state.unread?'这批都读过了，关掉「只看未读」可以看到全部。':(state.q?'没有匹配「'+state.q+'」的动态。':'这个分类下暂无动态。'));
+  }
+  var sc=document.getElementById('starCount');
+  if(sc)sc.textContent=starSet.size?('（'+starSet.size+'）'):'';
+}
+function setCat(f){
+  state.cat=f;state.star=(f==='starred');
+  document.querySelectorAll('.tabs .chip').forEach(function(x){
+    x.classList.toggle('on',x.getAttribute('data-filter')===f);
+  });
+  document.querySelectorAll('[data-filter="starred"]').forEach(function(x){
+    x.classList.toggle('on',f==='starred');
+  });
+  moveThumb();applyFilters();
+}
+document.querySelectorAll('[data-filter]').forEach(function(b){
+  b.addEventListener('click',function(){setCat(b.getAttribute('data-filter'));});
+});
+/* 分段控件的白色滑块：量一下当前选中项的位置，滑动过去 */
+var tabsEl=document.querySelector('.tabs');
+var thumb=document.getElementById('tabsThumb');
+function moveThumb(){
+  if(!tabsEl||!thumb)return;
+  var on=tabsEl.querySelector('.chip.on');
+  if(!on){thumb.style.width='0px';return;}
+  thumb.style.left=(on.offsetLeft)+'px';
+  thumb.style.width=(on.offsetWidth)+'px';
+}
+window.addEventListener('resize',moveThumb);
+window.addEventListener('load',moveThumb);
+moveThumb();
+/* 搜索：标题+摘要+来源即时过滤；“/” 聚焦；× 清空 */
+var searchInput=document.getElementById('siteSearch');
+if(searchInput){
+  var box=searchInput.closest('.search');
+  searchInput.addEventListener('input',function(){
+    state.q=searchInput.value.trim().toLowerCase();
+    if(box)box.classList.toggle('has-value',!!searchInput.value);
+    applyFilters();
+  });
+  var clr=document.getElementById('searchClear');
+  if(clr)clr.addEventListener('click',function(){searchInput.value='';state.q='';if(box)box.classList.remove('has-value');searchInput.focus();applyFilters();});
+  document.addEventListener('keydown',function(e){
+    if(e.key==='/'&&!(e.target instanceof HTMLInputElement||e.target instanceof HTMLTextAreaElement)){
+      e.preventDefault();searchInput.focus();
+    }
+  });
+}
+/* 只看未读（桌面在首个日期行右侧，手机在单独一行） */
+document.querySelectorAll('.unread-toggle').forEach(function(b){
+  b.addEventListener('click',function(){
+    state.unread=!state.unread;
+    document.querySelectorAll('.unread-toggle').forEach(function(x){x.classList.toggle('on',state.unread);});
+    applyFilters();
+  });
+});
+/* 日期折叠 */
+document.querySelectorAll('.dh-toggle').forEach(function(b){
+  b.addEventListener('click',function(){
+    var sec=b.closest('.day-sec');
+    if(sec)sec.classList.toggle('collapsed');
+  });
+});
+/* 回到顶部 */
+var toTop=document.getElementById('toTop');
+if(toTop){
+  toTop.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});
+  window.addEventListener('scroll',function(){
+    toTop.classList.toggle('show',window.scrollY>window.innerHeight*1.2);
+  },{passive:true});
+}
+/* #starred 直达收藏视图（加载时与 hash 变化时都生效） */
+if(location.hash==='#starred'){setCat('starred');}
+window.addEventListener('hashchange',function(){
+  if(location.hash==='#starred'){setCat('starred');}
+});
+})();
+</script>
+</body></html>

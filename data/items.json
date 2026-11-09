@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T14:28:06.262888+00:00",
+ "updated_at": "2026-11-09T14:59:28.553450+00:00",
  "items": [
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -3220,6 +3220,26 @@
    "published": "2026-11-09T13:30:11+00:00",
    "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
    "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
+   "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
+   "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:30:40+00:00",
+   "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different char…",
+   "fetched_at": "2026-11-09T14:52:37.336278+00:00"
+  },
+  {
+   "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
+   "title": "Dungeon Meshi's Laios Reimagined In Beautiful Hand-Drawn 3D Style",
+   "link": "https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T14:34:00+00:00",
+   "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
+   "fetched_at": "2026-11-09T14:52:37.336278+00:00"
   }
  ]
 }

@@ -13,12 +13,15 @@
   --line:#dfe4e1; --line-strong:#d1d9d5; --line-soft:#e9ede9;
   --accent:#176b75; --accent-ink:#145f68; --accent-soft:rgba(23,107,117,.08); --accent-softer:rgba(23,107,117,.05);
   --note:#526f72; --hot:#b3402a; --hot-soft:rgba(179,64,42,.08);
-  --amber:#b8873a; --ok:#2f7d5c;
+  --amber:#b8873a; --amber-ink:#7c5a24; --amber-soft:rgba(184,135,58,.1); --ok:#2f7d5c;
   --rank-1:#b3402a; --rank-2:#a3642f; --rank-3:#96702e; --rank-rest:#6b7684;
   --shadow-card:0 1px 2px rgba(32,42,48,.025);
   --shadow-card-hover:0 3px 12px rgba(32,42,48,.055);
+  --shadow-thumb:0 1px 2px rgba(28,39,51,.1),0 1px 1px rgba(28,39,51,.04);
+  --page-max-wide:max(1200px,calc(270dvh - 236px));
   --bar-h:48px; color-scheme:light;
 }
+@media(min-width:700px){:root{--bar-h:0px}}
 [data-theme="dark"]{
   color-scheme:dark;
   --bg:#13191c; --bg-sunk:#182024; --bg-muted:#202a2f; --well:#182024;
@@ -27,7 +30,7 @@
   --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.12); --line-soft:rgba(255,255,255,.06);
   --accent:#12ccd8; --accent-ink:#2ce2e8; --accent-soft:rgba(18,204,216,.12); --accent-softer:rgba(18,204,216,.06);
   --note:#8fb8a8; --hot:#d86a52; --hot-soft:rgba(216,106,82,.12);
-  --amber:#d3b26a; --ok:#5fc79a;
+  --amber:#d3b26a; --amber-ink:#d3b26a; --amber-soft:rgba(211,178,106,.12); --ok:#5fc79a;
   --rank-1:#d86a52; --rank-2:#d18a5e; --rank-3:#d3b26a; --rank-rest:#7b869a;
   --shadow-card:none; --shadow-card-hover:none;
 }
@@ -48,14 +51,18 @@ button{cursor:pointer;font:inherit}
 .shell{display:flex;min-height:100dvh}
 .sidebar,.rail{display:none}
 .main{flex:1;min-width:0}
-.page{max-width:860px;width:100%;margin:0 auto;padding:0 16px 96px}
+/* 列表宽度：桌面撑满主列，上限 max(1200px, 270dvh-236px)，超宽屏再居中 */
+.page{max-width:640px;width:100%;margin:0 auto;padding:0 16px 96px}
 @media(min-width:700px){
-  .page{padding-bottom:48px}
+  .page{max-width:var(--page-max-wide);padding:0 20px 48px}
+}
+@media(min-width:700px){
   .rail{display:flex;position:sticky;top:0;height:100dvh;width:64px;flex-shrink:0;
     flex-direction:column;align-items:center;border-right:1px solid var(--line);
     background:var(--sidebar);padding:20px 6px 14px}
 }
 @media(min-width:941px){
+  .page{padding:0 28px 48px}
   .rail{display:none}
   .sidebar{display:flex;position:sticky;top:0;height:100dvh;width:180px;flex-shrink:0;
     flex-direction:column;border-right:1px solid var(--line);background:var(--sidebar);
@@ -76,6 +83,9 @@ button{cursor:pointer;font:inherit}
 .side-foot .gh{display:flex;height:34px;align-items:center;justify-content:center;gap:6px;
   border:1px solid var(--line);border-radius:9999px;font-size:12.5px;color:var(--ink-3)}
 .side-foot .gh:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-foot .theme-btn{width:100%;height:34px;margin-top:8px;border:1px solid var(--line);
+  border-radius:9999px;background:transparent;color:var(--ink-3);font-size:12.5px}
+.side-foot .theme-btn:hover{background:var(--bg-sunk);color:var(--ink)}
 .side-foot .note{margin:10px 4px 0;font-size:11.5px;color:var(--ink-4);text-align:center}
 .rail-link{display:flex;width:100%;height:56px;flex-direction:column;align-items:center;justify-content:center;
   gap:3px;border-radius:8px;font-size:11px;font-weight:500;color:var(--ink-3)}
@@ -88,7 +98,7 @@ button{cursor:pointer;font:inherit}
 .topbar{position:sticky;top:0;z-index:30;display:flex;height:var(--bar-h);align-items:center;gap:8px;
   padding:0 8px;background:var(--bg);border-bottom:1px solid var(--line)}
 .topbar .brand b{font-size:17px}
-.switch{display:flex;margin:0 auto;background:var(--bg-sunk);border-radius:9999px;padding:2px}
+.switch{display:flex;margin:0 auto;background:var(--well);border-radius:9999px;padding:2px;box-shadow:inset 0 0 0 1px var(--line-soft)}
 .switch a{padding:3px 14px;border-radius:9999px;font-size:13px;font-weight:500;color:var(--ink-3)}
 .switch a.on{background:var(--surface);color:var(--ink);font-weight:600;box-shadow:var(--shadow-card)}
 .topbar .title{margin:0 auto;font-size:15px;font-weight:600}
@@ -117,9 +127,46 @@ h2.sec{font-size:19px;font-weight:600;margin:30px 0 12px}
   border:1px solid var(--line-soft);background:var(--bg-sunk);font-size:12px;color:var(--ink-4)}
 button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .chip.on{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink);font-weight:600}
-.tabs{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin:16px 0 4px;padding-bottom:2px}
+.tabs{position:relative;display:inline-flex;gap:2px;overflow-x:auto;scrollbar-width:none;
+  margin:0;padding:3px;border-radius:9999px;background:var(--well);box-shadow:inset 0 0 0 1px var(--line-soft)}
 .tabs::-webkit-scrollbar{display:none}
-.tabs .chip{flex-shrink:0}
+.tabs .chip{position:relative;z-index:1;flex-shrink:0;height:36px;padding:0 16px;border:0;
+  background:transparent;font-size:14px;font-weight:500;color:var(--ink-3);border-radius:9999px}
+.tabs .chip:hover{color:var(--ink)}
+.tabs .chip.on{color:var(--ink);font-weight:600}
+.tabs-thumb{position:absolute;top:3px;bottom:3px;left:3px;width:0;border-radius:9999px;
+  background:var(--surface);box-shadow:var(--shadow-thumb),inset 0 0 0 1px var(--line);
+  transition:left 300ms cubic-bezier(.25,1,.5,1),width 300ms cubic-bezier(.25,1,.5,1)}
+/* 筛选行：左侧分类分段控件，右侧搜索框 */
+.filter-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:16px 0 4px}
+.filter-row .tabs{max-width:100%}
+.search{position:relative;width:100%}
+@media(min-width:700px){.search{width:240px;flex-shrink:0}}
+.search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--ink-4);pointer-events:none}
+.search input{width:100%;height:42px;border:0;border-radius:9999px;background:var(--well);
+  padding:0 40px 0 40px;font:inherit;font-size:16px;color:var(--ink);outline:none;
+  box-shadow:inset 0 0 0 1px var(--line-soft)}
+@media(min-width:640px){.search input{font-size:14px}}
+.search input::placeholder{color:var(--ink-4)}
+.search input:hover{box-shadow:inset 0 0 0 1px var(--line-strong)}
+.search input:focus{background:var(--surface);box-shadow:0 0 0 3px var(--accent-soft),inset 0 0 0 1px var(--accent)}
+.search .clear{position:absolute;right:12px;top:50%;transform:translateY(-50%);
+  display:none;width:24px;height:24px;align-items:center;justify-content:center;
+  border:0;border-radius:9999px;background:transparent;color:var(--ink-4)}
+.search .clear:hover{background:var(--bg-sunk);color:var(--ink)}
+.search.has-value .clear{display:inline-flex}
+.search kbd{position:absolute;right:16px;top:50%;transform:translateY(-50%);display:none;
+  font-family:ui-monospace,Menlo,Consolas,monospace;font-size:10.5px;line-height:16px;
+  padding:0 6px;border:1px solid var(--line-strong);border-radius:5px;background:var(--surface);color:var(--ink-4)}
+@media(min-width:700px){.search:not(.has-value) kbd{display:block}}
+/* 只看未读：独立小开关（首个日期行右侧 / 手机单独一行） */
+.toggle-chip{display:inline-flex;min-height:28px;align-items:center;gap:6px;padding:0 12px;
+  border-radius:9999px;border:1px solid var(--line-soft);background:var(--bg-sunk);
+  font-size:12.5px;font-weight:500;color:var(--ink-3)}
+.toggle-chip:hover{color:var(--ink);border-color:var(--line-strong)}
+.toggle-chip.on{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink);font-weight:600}
+.unread-row{display:flex;justify-content:flex-end;margin:10px 0 2px}
+@media(min-width:700px){.unread-row{display:none}}
 .well{background:var(--well);box-shadow:inset 0 0 0 1px var(--line-soft);border-radius:14px;padding:14px 16px}
 .well .kicker{font-size:12px;font-weight:600;color:var(--accent-ink)}
 .well p{margin:6px 0 0;font-size:14.5px;line-height:1.75;color:var(--ink-2)}
@@ -135,8 +182,13 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .score-pill.t-acc{background:var(--accent-soft);color:var(--accent);--ring:rgba(23,107,117,.2)}
 .score-pill.t-quiet{color:var(--ink-4);--ring:var(--line-soft)}
 @media(max-width:640px){.score-pill .lbl,.score-pill .sep{display:none}}
-.pick{display:inline-flex;height:20px;align-items:center;padding:0 8px;border-radius:9999px;
-  background:var(--accent-soft);color:var(--accent-ink);font-size:11px;font-weight:600}
+/* 精选徽章：琥珀底 + 圆点（不是青色） */
+.pick{display:inline-flex;height:18px;align-items:center;gap:4px;padding:0 8px;border-radius:9999px;
+  background:var(--amber-soft);color:var(--amber-ink);font-size:11px;font-weight:500}
+.pick::before{content:"";width:5px;height:5px;border-radius:9999px;background:currentColor}
+/* 当日新到徽章：趋势列的“新”样式 */
+.new-pill{display:inline-flex;height:18px;align-items:center;padding:0 6px;border-radius:9999px;
+  background:var(--accent-soft);color:var(--accent);font-size:10.5px;font-weight:600;line-height:16px}
 .rank{font-weight:800;color:var(--rank-rest)}
 .rank.r1{color:var(--rank-1)}.rank.r2{color:var(--rank-2)}.rank.r3{color:var(--rank-3)}
 
@@ -154,7 +206,15 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .fi-head .pt{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px}
 @media(min-width:700px){.fi-head .pt{display:none}}
 .fi-head .sp{margin-left:auto;display:flex;align-items:center;gap:6px;flex-shrink:0}
+.star-btn{display:inline-flex;width:44px;height:44px;align-items:center;justify-content:center;
+  margin:-11px -12px -11px 0;border:0;border-radius:8px;background:transparent;color:var(--ink-4)}
+.star-btn:hover{background:var(--bg-sunk);color:var(--ink-2)}
+.star-btn.on{color:var(--accent)}
+.star-btn.on svg{fill:currentColor}
+@media(min-width:700px){.star-btn{width:26px;height:26px;margin:-1px 0}}
 .feed-item h3{margin:6px 0 0;font-size:17px;font-weight:650;line-height:1.5}
+@media(min-width:700px){.feed-item h3{line-height:1.55}}
+.feed-item.is-read h3 a{color:var(--ink-4)}
 .feed-item h3 a:hover{color:var(--accent)}
 .feed-item h3 .rank{margin-right:8px;font-size:17px}
 .feed-item .sum{margin:4px 0 0;font-size:14.5px;line-height:1.7;color:var(--ink-3);
@@ -162,11 +222,18 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 @media(min-width:700px){.feed-item .sum{-webkit-line-clamp:3;font-size:15px;line-height:1.75}}
 .fi-foot{margin-top:8px;display:flex;gap:8px;align-items:center}
 .fi-foot .when{font-size:12.5px;color:var(--ink-4)}
+/* 推荐理由：13px、注色，桌面加顶线与间距 */
+.fi-reason{margin-top:4px;font-size:13px;line-height:1.65;color:var(--note);
+  display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+@media(min-width:700px){
+  .fi-reason{margin-top:12px;padding-top:12px;border-top:1px solid var(--line-soft);
+    -webkit-line-clamp:unset;line-height:1.75}
+}
 
 /* ---- 热点条（右上热色晕染 + 跳动 live 点 + 排名行） ---- */
-.hot-card{position:relative;overflow:hidden;margin-top:18px;padding:10px 14px 4px;
+.hot-card{position:relative;overflow:hidden;margin:16px 0 0;padding:10px 14px 4px;
   background:radial-gradient(120% 90% at 100% 0%,var(--hot-soft),transparent 55%),var(--surface)}
-@media(min-width:700px){.hot-card{padding:14px 20px 8px}}
+@media(min-width:700px){.hot-card{margin:18px 0 24px;padding:14px 20px 8px}}
 .hot-head{display:flex;align-items:center;justify-content:space-between}
 .hot-head h2{display:flex;align-items:center;gap:8px;margin:0;font-size:14px;font-weight:600}
 .live{position:relative;display:inline-flex;width:8px;height:8px}
@@ -177,15 +244,22 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
   font-size:12.5px;color:var(--ink-3);padding:6px 0}
 .hot-more:hover{color:var(--accent)}
 .hot-list{list-style:none;margin:2px 0 0;padding:0}
-.hot-row{display:grid;grid-template-columns:20px minmax(0,1fr) auto;align-items:center;gap:12px;
+.hot-row{display:grid;grid-template-columns:20px minmax(0,1fr) 64px 20px;align-items:center;gap:12px;
   padding:7px 8px;margin:0 -8px;border-radius:10px}
 .hot-row:hover{background:rgba(243,243,239,.7)}
 [data-theme="dark"] .hot-row:hover{background:rgba(32,42,47,.4)}
-.hot-row .rank{font-size:15px;text-align:center}
+.hot-row .rank{font-size:14px;font-weight:700;text-align:center}
+.hot-row .rank.r1,.hot-row .rank.r2,.hot-row .rank.r3{font-size:15px;font-weight:900}
 .hot-row .t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14.5px;font-weight:600}
+@media(min-width:700px){.hot-row .t{font-size:14px}}
 .hot-row:hover .t{color:var(--accent)}
 .hot-heat{white-space:nowrap;font-size:12.5px;color:var(--ink-4);text-align:right}
 .hot-heat b{font-size:13.5px;font-weight:600;color:var(--ink-2)}
+.hot-trend{display:flex;width:20px;justify-content:center;color:var(--ink-4)}
+.hot-trend .up{color:var(--hot)}
+.hot-trend .flat{color:var(--ink-4)}
+/* 手机只留前 3 名进榜，让动态流尽快出现在首屏 */
+@media(max-width:639px){.hot-top5 li:nth-child(n+4){display:none}}
 
 /* ---- 时间线（按天分组，桌面时间轨 + 青点，手机灰色日栏） ---- */
 .day-head{position:sticky;top:var(--bar-h);z-index:20;display:flex;height:44px;align-items:center;gap:8px;
@@ -195,13 +269,22 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .day-head .dh-wd{font-size:12.5px;color:var(--ink-4)}
 .day-head .dh-count{margin-left:auto;font-size:12.5px;color:var(--ink-4)}
 .day-head .dh-wd-full{display:none}
+.day-head .dh-aside{display:none}
+.day-head .dh-toggle{display:inline-flex;width:24px;height:24px;align-items:center;justify-content:center;
+  flex-shrink:0;border:0;border-radius:9999px;background:transparent;color:var(--ink-4)}
+.day-head .dh-toggle:hover{background:var(--bg-sunk);color:var(--ink)}
+.day-head .dh-toggle svg{transition:transform 200ms}
+.day-sec.collapsed .day-list{display:none}
+.day-sec.collapsed .dh-toggle svg{transform:rotate(-90deg)}
 @media(min-width:700px){
-  .day-head{position:static;height:44px;margin:0;padding:0;background:transparent}
+  .day-head{position:sticky;top:0;height:44px;margin:0;padding:0;background:var(--bg)}
   .day-head .dh-name{display:none}
   .day-head .dh-date{font-size:18px;font-weight:600;color:var(--ink)}
   .day-head .dh-wd{font-size:13px}
   .day-head .dh-wd-short{display:none}
   .day-head .dh-wd-full{display:inline}
+  .day-head .dh-count{margin-left:0}
+  .day-head .dh-aside{display:block;margin-left:auto}
 }
 .day-head:not(.is-today) .dh-date{display:none}
 @media(min-width:700px){.day-head:not(.is-today) .dh-date{display:inline;font-size:18px;font-weight:600}}
@@ -225,6 +308,22 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-4)}
 .foot p{margin:0 0 8px}
 @media(max-width:699px){.foot{padding-bottom:8px}}
+/* 回到顶部：圆按钮，滚过一屏多再出现（仅桌面） */
+.to-top{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));
+  z-index:30;display:none;width:44px;height:44px;align-items:center;justify-content:center;
+  border-radius:9999px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);
+  box-shadow:0 4px 12px rgba(28,39,51,.06);transition:opacity 200ms,transform 200ms;
+  opacity:0;transform:translateY(8px);pointer-events:none}
+.to-top.show{opacity:1;transform:none;pointer-events:auto}
+.to-top:hover{color:var(--ink)}
+@media(min-width:941px){.to-top{display:flex}}
+/* 列表到底 */
+.feed-end{padding:24px 0;text-align:center;font-size:12px;color:var(--ink-4)}
+/* 日报名头：大字名 + 双线，照报纸的版头 */
+.masthead{margin-top:24px;padding-bottom:16px;border-bottom:3px double var(--line-strong)}
+.masthead .mp-brand{display:flex;align-items:center;gap:14px}
+.masthead .mp-brand b{font-size:30px;font-weight:800;letter-spacing:.01em}
+.masthead .mp-meta{margin:10px 0 0;font-size:13px;color:var(--ink-4)}
 </style></head>
 <body><div class="shell"><aside class="sidebar"><a class="brand" href="index.html"><svg width="32" height="32" viewBox="0 0 48 48" aria-hidden="true">
 <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
@@ -233,55 +332,161 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 <rect x="2" y="2" width="32" height="32" rx="11" fill="url(#lg)"/>
 <rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
 <rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
-</svg><span><b>IndieHOT</b><small>独立游戏开发者热点</small></span></a><nav aria-label="主导航"><div class="nav-sec"><h3>内容</h3><a class="side-link" href="index.html#featured"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="side-link" href="index.html#timeline"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="side-link" href="index.html#hot"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="side-link on" href="#"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a></div><div class="nav-sec"><h3>更多</h3><a class="side-link" href="data/hot.json"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg><span>数据 JSON</span></a></div></nav><div class="side-foot"><a class="gh" href="https://github.com/Staroltest/indie-game-hot" target="_blank" rel="noopener">GitHub 仓库</a><p class="note">每天 08:00 出日报</p></div></aside><aside class="rail"><a class="brand" href="index.html" aria-label="IndieHOT 首页"><svg width="28" height="28" viewBox="0 0 48 48" aria-hidden="true">
+</svg><span><b>IndieHOT</b><small>独立游戏开发者热点</small></span></a><nav aria-label="主导航"><div class="nav-sec"><h3>内容</h3><a class="side-link" href="index.html#featured"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="side-link" href="index.html#timeline"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="side-link" href="hot.html"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="side-link on" href="daily.html"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="side-link" href="index.html#starred" data-filter="starred"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><span>收藏</span><span class="num" id="starCount"></span></a></div><div class="nav-sec"><h3>更多</h3><a class="side-link" href="data/hot.json"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg><span>数据 JSON</span></a></div></nav><div class="side-foot"><a class="gh" href="https://github.com/Staroltest/indie-game-hot" target="_blank" rel="noopener">GitHub 仓库</a><button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色"><span class="ic-moon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span><span class="ic-sun"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button><p class="note">每天 08:00 出日报</p></div></aside><aside class="rail"><a class="brand" href="index.html" aria-label="IndieHOT 首页"><svg width="28" height="28" viewBox="0 0 48 48" aria-hidden="true">
 <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
 </linearGradient></defs>
 <rect x="2" y="2" width="28" height="28" rx="11" fill="url(#lg)"/>
 <rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
 <rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
-</svg></a><nav aria-label="主导航"><a class="rail-link" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="rail-link" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="rail-link" href="index.html#hot"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="rail-link on" href="#"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a></nav></aside><div class="main"><header class="topbar"><a class="brand" href="index.html"><svg width="26" height="26" viewBox="0 0 48 48" aria-hidden="true">
+</svg></a><nav aria-label="主导航"><a class="rail-link" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="rail-link" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部动态</span></a><a class="rail-link" href="hot.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点榜</span></a><a class="rail-link on" href="daily.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="rail-link" href="index.html#starred" data-filter="starred"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><span>收藏</span></a></nav></aside><div class="main"><header class="topbar"><a class="brand" href="index.html"><svg width="26" height="26" viewBox="0 0 48 48" aria-hidden="true">
 <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
 </linearGradient></defs>
 <rect x="2" y="2" width="26" height="26" rx="11" fill="url(#lg)"/>
 <rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
 <rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
-</svg><b>IndieHOT</b></a><span class="title">日报</span><button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色"><span class="ic-moon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span><span class="ic-sun"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button></header><div class="page"><div class="report-shell"><h1>IndieHOT日报</h1><p class="lede">2026年11月09日 星期一 · 每天 08:00 出刊</p><div class="well" style="margin-top:16px"><span class="kicker">今日速览</span><p>过去 24 小时共收录 29 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush &amp; Marmoset Toolbag。</p></div><h2 class="sec">今日精选 10 条</h2><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:17</time><span class="sp"><span class="score-pill t-hot" title="评分 86/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">86</span></span></span></header><h3><span class="rank r1">1</span><a href="https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag" target="_blank" rel="noopener">Reimagining Street Fighter 6’s A.K.I. in ZBrush &amp; Marmoset Toolbag</a></h3><p class="sum">Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:17</span></div></article><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:06</time><span class="sp"><span class="score-pill t-hot" title="评分 86/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">86</span></span></span></header><h3><span class="rank r2">2</span><a href="https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool" target="_blank" rel="noopener">Creating Realistic Mountain Scene With Custom Unreal Engine 5 Tool</a></h3><p class="sum">Michael Gerard returns to 80 Level to break down his Alpine Forest project and discuss his custom FoliageLab solution for creating Nanite-ready vegetation and building realistic environments in Unreal…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:06</span></div></article><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 21:39</time><span class="sp"><span class="score-pill t-acc" title="评分 83/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">83</span></span></span></header><h3><span class="rank r3">3</span><a href="https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer" target="_blank" rel="noopener">How to Make Hand-Painted Base Generator in Substance 3D Designer</a></h3><p class="sum">Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 21:39</span></div></article><article class="feed-item" data-category="industry"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 20:27</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">4</span><a href="https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion" target="_blank" rel="noopener">Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion</a></h3><p class="sum">Alex Avard is a project manager at Playing for the Planet, working with the alliance&#x27;s 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Ca…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="industry">行业与融资</button><span class="when">11月09日 20:27</span></div></article><article class="feed-item" data-category="devlog"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 19:29</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">5</span><a href="https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people" target="_blank" rel="noopener">Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people</a></h3><p class="sum">Bit Reactor furloughed &quot; many of its workers &quot; ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work i…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="devlog">开发日志</button><span class="when">11月09日 19:29</span></div></article><article class="feed-item" data-category="industry"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 17:43</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">6</span><a href="https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games" target="_blank" rel="noopener">German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games</a></h3><p class="sum">Game, the German Games Industry Association, has warned that the EU KIDS Act – which was unveiled in draft form in September and which is likely to have sweeping repercussions for game developers – co…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="industry">行业与融资</button><span class="when">11月09日 17:43</span></div></article><article class="feed-item" data-category="publishing"><header class="fi-head"><span class="src">Rock Paper Shotgun</span><time class="pt">· 20:41</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">7</span><a href="https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it" target="_blank" rel="noopener">Rockstar were &quot;definitely&quot; thinking about giving a Japanese studio the keys to GTA, says former tech director - &quot;I have a name, but I&#x27;m not gonna say it&quot;</a></h3><p class="sum">Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="publishing">发行与宣发</button><span class="when">11月09日 20:41</span></div></article><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 20:43</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">8</span><a href="https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily" target="_blank" rel="noopener">Developer Builds Script That Reports Your PC&#x27;s Unused RAM To Sam Altman Daily</a></h3><p class="sum">&quot;He can&#x27;t fix the problem if nobody tells him where the RAM is.&quot;</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 20:43</span></div></article><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 20:37</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">9</span><a href="https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports" target="_blank" rel="noopener">NVIDIA Board Opens Independent Investigation After Reports Its CEO Was Targeted by Foreign Intelligence</a></h3><p class="sum">A committee of independent directors will lead the inquiry with outside counsel, while Jensen Huang, continuing as CEO, says he will cooperate with it.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 20:37</span></div></article><article class="feed-item" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:06</time><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span></span></header><h3><span class="rank ">10</span><a href="https://80.lv/articles/check-out-these-sneakers-with-actual-working-suspension" target="_blank" rel="noopener">Check Out These Sneakers With Actual Working Suspension</a></h3><p class="sum">Very impressive.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:06</span></div></article></div><footer class="foot"><p>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。内容只作开发者资讯参考；本站不转载全文。</p><p>信息架构与界面风格参考 AIHOT（采集—评分—精选—日报流水线、暖纸底色与侧栏导航），代码为本站原创，MIT 协议开源。 · <a href="https://github.com/Staroltest/indie-game-hot">GitHub 仓库</a></p></footer></div></div></div><nav class="tabbar" aria-label="主导航"><a class="" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="" href="index.html#hot"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点</span></a><a class="on" href="#"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部</span></a></nav>
+</svg><b>IndieHOT</b></a><span class="title">日报</span><button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色"><span class="ic-moon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span><span class="ic-sun"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button></header><div class="page"><div class="report-shell"><div class="masthead"><div class="mp-brand"><svg width="44" height="44" viewBox="0 0 48 48" aria-hidden="true">
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ff6b35"/><stop offset="1" stop-color="#f7b733"/>
+</linearGradient></defs>
+<rect x="2" y="2" width="44" height="44" rx="11" fill="url(#lg)"/>
+<rect x="14" y="14" width="20" height="20" rx="3" transform="rotate(45 24 24)" fill="#fff"/>
+<rect x="20" y="20" width="8" height="8" rx="1.5" transform="rotate(45 24 24)" fill="#ff6b35"/>
+</svg><b>IndieHOT日报</b></div><p class="mp-meta">2026年11月09日 星期一 · 每天 08:00 出刊 · 过去 24 小时精选 10 条</p></div><div class="well" style="margin-top:16px"><span class="kicker">今日速览</span><p>过去 24 小时共收录 31 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush &amp; Marmoset Toolbag。</p></div><h2 class="sec">今日精选 10 条</h2><article class="feed-item" data-id="3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:17</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-hot" title="评分 86/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">86</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank r1">1</span><a href="https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag" target="_blank" rel="noopener">Reimagining Street Fighter 6’s A.K.I. in ZBrush &amp; Marmoset Toolbag</a></h3><p class="sum">Jessie Chan showed us the workflow for the fan art of A.K.I. from Street Fighter 6, explaining how a symmetrical low-poly mesh linked to the posed high-poly sculpt in ZBrush made texturing in Substanc…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:17</span></div><p class="fi-reason">推荐理由：涉及tool、workflow · 6 小时内发布</p></article><article class="feed-item" data-id="dfd1297fd6207b4f1a89427f98a1b0adbba88c77" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:06</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-hot" title="评分 86/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">86</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank r2">2</span><a href="https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool" target="_blank" rel="noopener">Creating Realistic Mountain Scene With Custom Unreal Engine 5 Tool</a></h3><p class="sum">Michael Gerard returns to 80 Level to break down his Alpine Forest project and discuss his custom FoliageLab solution for creating Nanite-ready vegetation and building realistic environments in Unreal…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:06</span></div><p class="fi-reason">推荐理由：涉及tool、engine · 6 小时内发布</p></article><article class="feed-item" data-id="5c1cb086f4017f7a332187ad77daf95128266441" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 21:39</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 83/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">83</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank r3">3</span><a href="https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer" target="_blank" rel="noopener">How to Make Hand-Painted Base Generator in Substance 3D Designer</a></h3><p class="sum">Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 21:39</span></div><p class="fi-reason">推荐理由：涉及tool · 6 小时内发布</p></article><article class="feed-item" data-id="d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0" data-category="industry"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 20:27</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">4</span><a href="https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion" target="_blank" rel="noopener">Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion</a></h3><p class="sum">Alex Avard is a project manager at Playing for the Planet, working with the alliance&#x27;s 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Ca…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="industry">行业与融资</button><span class="when">11月09日 20:27</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="57445073924f55eb4d5ddffaa78778fadcbd89d6" data-category="devlog"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 19:29</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">5</span><a href="https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people" target="_blank" rel="noopener">Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people</a></h3><p class="sum">Bit Reactor furloughed &quot; many of its workers &quot; ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work i…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="devlog">开发日志</button><span class="when">11月09日 19:29</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="a4dad69af568bce7f6336c6a01df27bdca9c9315" data-category="industry"><header class="fi-head"><span class="src">GamesIndustry.biz</span><time class="pt">· 17:43</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">6</span><a href="https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games" target="_blank" rel="noopener">German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games</a></h3><p class="sum">Game, the German Games Industry Association, has warned that the EU KIDS Act – which was unveiled in draft form in September and which is likely to have sweeping repercussions for game developers – co…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="industry">行业与融资</button><span class="when">11月09日 17:43</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="2cf7046c798cba16a5493a7bd9a454f638b7e81b" data-category="publishing"><header class="fi-head"><span class="src">Rock Paper Shotgun</span><time class="pt">· 20:41</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">7</span><a href="https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it" target="_blank" rel="noopener">Rockstar were &quot;definitely&quot; thinking about giving a Japanese studio the keys to GTA, says former tech director - &quot;I have a name, but I&#x27;m not gonna say it&quot;</a></h3><p class="sum">Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid…</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="publishing">发行与宣发</button><span class="when">11月09日 20:41</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="c83476a002b4fa8092e5fd75b7efb214491ca3e9" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 20:43</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">8</span><a href="https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily" target="_blank" rel="noopener">Developer Builds Script That Reports Your PC&#x27;s Unused RAM To Sam Altman Daily</a></h3><p class="sum">&quot;He can&#x27;t fix the problem if nobody tells him where the RAM is.&quot;</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 20:43</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="06b39c6b492a789c7c6dc899c19ccc6dfd23eb01" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 20:37</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">9</span><a href="https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports" target="_blank" rel="noopener">NVIDIA Board Opens Independent Investigation After Reports Its CEO Was Targeted by Foreign Intelligence</a></h3><p class="sum">A committee of independent directors will lead the inquiry with outside counsel, while Jensen Huang, continuing as CEO, says he will cooperate with it.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 20:37</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article><article class="feed-item" data-id="29a9152f25b1be186991874323f629c6f125757e" data-category="engine"><header class="fi-head"><span class="src">80 Level</span><time class="pt">· 19:06</time><span class="new-pill">新</span><span class="sp"><span class="score-pill t-acc" title="评分 80/100"><span class="lbl">评分</span><span class="sep"></span><span class="num">80</span></span><button type="button" class="star-btn" aria-label="收藏" title="收藏"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></span></header><h3><span class="rank ">10</span><a href="https://80.lv/articles/check-out-these-sneakers-with-actual-working-suspension" target="_blank" rel="noopener">Check Out These Sneakers With Actual Working Suspension</a></h3><p class="sum">Very impressive.</p><div class="fi-foot"><button type="button" class="chip cat" data-filter="engine">引擎与工具</button><span class="when">11月09日 19:06</span></div><p class="fi-reason">推荐理由：6 小时内发布</p></article></div><footer class="foot"><p>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。内容只作开发者资讯参考；本站不转载全文。</p><p>信息架构与界面风格参考 AIHOT（采集—评分—精选—日报流水线、暖纸底色与侧栏导航），代码为本站原创，MIT 协议开源。 · <a href="https://github.com/Staroltest/indie-game-hot">GitHub 仓库</a></p></footer></div></div></div><button type="button" class="to-top" id="toTop" aria-label="回到顶部"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg></button><nav class="tabbar" aria-label="主导航"><a class="" href="index.html#featured"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg><span>精选</span></a><a class="" href="hot.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><span>热点</span></a><a class="on" href="daily.html"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>日报</span></a><a class="" href="index.html#timeline"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg><span>全部</span></a></nav>
 <script>
+(function(){
+var LS_READ='indiehot-read',LS_STAR='indiehot-starred';
+function loadSet(k){try{return new Set(JSON.parse(localStorage.getItem(k)||'[]'));}catch(e){return new Set();}}
+function saveSet(k,s){try{localStorage.setItem(k,JSON.stringify(Array.from(s)));}catch(e){}}
+var readSet=loadSet(LS_READ),starSet=loadSet(LS_STAR);
 document.querySelectorAll('.theme-btn').forEach(function(b){b.addEventListener('click',function(){var h=document.documentElement;var n=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',n);try{localStorage.setItem('indiehot-theme',n);}catch(e){}});});
-function applyFilter(f){
-  document.querySelectorAll('.tabs .chip').forEach(function(x){x.classList.toggle('on',x.getAttribute('data-filter')===f);});
+/* 已读：点开标题即记已读，标题变灰；星标：本地收藏，可再筛出来 */
+document.querySelectorAll('.feed-item').forEach(function(el){
+  var id=el.getAttribute('data-id');
+  if(!id)return;
+  if(readSet.has(id))el.classList.add('is-read');
+  var star=el.querySelector('.star-btn');
+  if(star){
+    if(starSet.has(id)){star.classList.add('on');star.setAttribute('aria-label','取消收藏');star.title='取消收藏';}
+    star.addEventListener('click',function(){
+      if(starSet.has(id)){starSet.delete(id);star.classList.remove('on');star.setAttribute('aria-label','收藏');star.title='收藏';}
+      else{starSet.add(id);star.classList.add('on');star.setAttribute('aria-label','取消收藏');star.title='取消收藏';}
+      saveSet(LS_STAR,starSet);applyFilters();
+    });
+  }
+  var a=el.querySelector('h3 a');
+  if(a)a.addEventListener('click',function(){
+    if(!readSet.has(id)){readSet.add(id);saveSet(LS_READ,readSet);el.classList.add('is-read');applyFilters();}
+  });
+});
+/* 筛选状态：分类 + 只看收藏 + 只看未读 + 搜索词，四者叠加 */
+var state={cat:'all',star:false,unread:false,q:''};
+function itemVisible(el){
+  var id=el.getAttribute('data-id')||'';
+  if(state.cat!=='all'&&state.cat!=='starred'&&el.getAttribute('data-category')!==state.cat)return false;
+  if(state.cat==='starred'&&!starSet.has(id))return false;
+  if(state.star&&!starSet.has(id))return false;
+  if(state.unread&&readSet.has(id))return false;
+  if(state.q){
+    var t=(el.textContent||'').toLowerCase();
+    if(t.indexOf(state.q)===-1)return false;
+  }
+  return true;
+}
+function applyFilters(){
   var shown=0;
   document.querySelectorAll('#featured .feed-item').forEach(function(el){
-    var ok=f==='all'||el.getAttribute('data-category')===f;
-    el.style.display=ok?'':'none';
+    var ok=itemVisible(el);el.style.display=ok?'':'none';if(ok)shown++;
   });
   document.querySelectorAll('#timeline .slot').forEach(function(li){
-    var ok=f==='all'||li.getAttribute('data-category')===f;
-    li.style.display=ok?'':'none';
-    if(ok)shown++;
+    var card=li.querySelector('.feed-item');
+    var ok=card?itemVisible(card):true;
+    li.style.display=ok?'':'none';if(ok)shown++;
   });
   document.querySelectorAll('#timeline .day-sec').forEach(function(sec){
     var vis=sec.querySelectorAll('.slot:not([style*="none"])').length;
     sec.style.display=vis?'':'none';
   });
   var nr=document.getElementById('noResult');
-  if(nr)nr.style.display=shown?'none':'';
+  if(nr){
+    nr.style.display=shown?'none':'';
+    nr.textContent=state.cat==='starred'||state.star?'还没有收藏，去点卡片右上角的书签吧。':(state.unread?'这批都读过了，关掉「只看未读」可以看到全部。':(state.q?'没有匹配「'+state.q+'」的动态。':'这个分类下暂无动态。'));
+  }
+  var sc=document.getElementById('starCount');
+  if(sc)sc.textContent=starSet.size?('（'+starSet.size+'）'):'';
+}
+function setCat(f){
+  state.cat=f;state.star=(f==='starred');
+  document.querySelectorAll('.tabs .chip').forEach(function(x){
+    x.classList.toggle('on',x.getAttribute('data-filter')===f);
+  });
+  document.querySelectorAll('[data-filter="starred"]').forEach(function(x){
+    x.classList.toggle('on',f==='starred');
+  });
+  moveThumb();applyFilters();
 }
 document.querySelectorAll('[data-filter]').forEach(function(b){
-  b.addEventListener('click',function(){applyFilter(b.getAttribute('data-filter'));});
+  b.addEventListener('click',function(){setCat(b.getAttribute('data-filter'));});
 });
-var ht=document.getElementById('hotToggle'),he=document.getElementById('hotExtra');
-if(ht&&he){ht.addEventListener('click',function(){
-  if(he.hasAttribute('hidden')){he.removeAttribute('hidden');ht.innerHTML='收起榜单 <span aria-hidden="true">↑</span>';}
-  else{he.setAttribute('hidden','');ht.innerHTML='完整榜单 <span aria-hidden="true">→</span>';}
-});}
-document.querySelectorAll('.tabbar a').forEach(function(a){
-  a.addEventListener('click',function(){
-    document.querySelectorAll('.tabbar a').forEach(function(x){x.classList.remove('on');});
-    a.classList.add('on');
+/* 分段控件的白色滑块：量一下当前选中项的位置，滑动过去 */
+var tabsEl=document.querySelector('.tabs');
+var thumb=document.getElementById('tabsThumb');
+function moveThumb(){
+  if(!tabsEl||!thumb)return;
+  var on=tabsEl.querySelector('.chip.on');
+  if(!on){thumb.style.width='0px';return;}
+  thumb.style.left=(on.offsetLeft)+'px';
+  thumb.style.width=(on.offsetWidth)+'px';
+}
+window.addEventListener('resize',moveThumb);
+window.addEventListener('load',moveThumb);
+moveThumb();
+/* 搜索：标题+摘要+来源即时过滤；“/” 聚焦；× 清空 */
+var searchInput=document.getElementById('siteSearch');
+if(searchInput){
+  var box=searchInput.closest('.search');
+  searchInput.addEventListener('input',function(){
+    state.q=searchInput.value.trim().toLowerCase();
+    if(box)box.classList.toggle('has-value',!!searchInput.value);
+    applyFilters();
+  });
+  var clr=document.getElementById('searchClear');
+  if(clr)clr.addEventListener('click',function(){searchInput.value='';state.q='';if(box)box.classList.remove('has-value');searchInput.focus();applyFilters();});
+  document.addEventListener('keydown',function(e){
+    if(e.key==='/'&&!(e.target instanceof HTMLInputElement||e.target instanceof HTMLTextAreaElement)){
+      e.preventDefault();searchInput.focus();
+    }
+  });
+}
+/* 只看未读（桌面在首个日期行右侧，手机在单独一行） */
+document.querySelectorAll('.unread-toggle').forEach(function(b){
+  b.addEventListener('click',function(){
+    state.unread=!state.unread;
+    document.querySelectorAll('.unread-toggle').forEach(function(x){x.classList.toggle('on',state.unread);});
+    applyFilters();
   });
 });
+/* 日期折叠 */
+document.querySelectorAll('.dh-toggle').forEach(function(b){
+  b.addEventListener('click',function(){
+    var sec=b.closest('.day-sec');
+    if(sec)sec.classList.toggle('collapsed');
+  });
+});
+/* 回到顶部 */
+var toTop=document.getElementById('toTop');
+if(toTop){
+  toTop.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});
+  window.addEventListener('scroll',function(){
+    toTop.classList.toggle('show',window.scrollY>window.innerHeight*1.2);
+  },{passive:true});
+}
+/* #starred 直达收藏视图（加载时与 hash 变化时都生效） */
+if(location.hash==='#starred'){setCat('starred');}
+window.addEventListener('hashchange',function(){
+  if(location.hash==='#starred'){setCat('starred');}
+});
+})();
 </script>
 </body></html>

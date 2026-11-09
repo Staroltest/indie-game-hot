@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T14:28:06.262888+00:00",
- "generated_at_cst": "2026年11月09日 22:28",
+ "generated_at": "2026-11-09T14:59:28.553450+00:00",
+ "generated_at_cst": "2026年11月09日 22:59",
  "counts": {
-  "total_7d": 135,
+  "total_7d": 136,
   "selected": 10,
   "hot": 20,
   "timeline": 100
@@ -19,7 +19,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.5
+   "reason": "涉及tool、workflow · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 83.1
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -32,7 +35,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.3
+   "reason": "涉及tool、engine · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.9
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -45,7 +51,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.4
+   "reason": "涉及tool · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.0
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -58,7 +67,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.1
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -71,7 +83,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.8
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.4
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -84,7 +99,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 76.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.2
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -97,7 +115,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -110,7 +131,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -123,7 +147,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -136,7 +163,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.2
   }
  ],
  "hot": [
@@ -151,7 +181,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.5
+   "reason": "涉及tool、workflow · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 83.1
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -164,7 +197,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.3
+   "reason": "涉及tool、engine · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.9
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -177,7 +213,26 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.4
+   "reason": "涉及tool · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.0
+  },
+  {
+   "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
+   "title": "Dungeon Meshi's Laios Reimagined In Beautiful Hand-Drawn 3D Style",
+   "link": "https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T14:34:00+00:00",
+   "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.7
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -190,7 +245,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.3
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -203,7 +261,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.4
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.0
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -216,7 +277,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.3
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.9
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -229,7 +293,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 80,
-   "hot_score": 79.1
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.7
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -242,7 +309,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.5
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -255,7 +325,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -268,7 +341,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -281,7 +357,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -294,7 +373,26 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.1
+  },
+  {
+   "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
+   "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
+   "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:30:40+00:00",
+   "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different char…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 78,
+   "reason": "涉及lesson · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.7
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -307,7 +405,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.8
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.4
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -320,7 +421,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.2
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -333,7 +437,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 76.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.2
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -346,7 +453,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.2
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 75.9
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -359,7 +469,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.0
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 75.7
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -372,36 +485,45 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 72.9
-  },
-  {
-   "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
-   "title": "VRchat Vtuber character model",
-   "link": "https://gamedev.net/forums/topic/720684-vrchat-vtuber-character-model",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T10:59:31+00:00",
-   "summary": "VRChat Avatar Creation & Upgrades Contact me directly to discord Howdy My name is Shadowpaw a skilled 3D Avatar Artist specializing in VRChat and virtual character creation. I work with industry-stand…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 75,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
    "hot_score": 72.6
-  },
-  {
-   "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
-   "title": "Building a follow-up tool for lenders and realtors — Homeowner HQ launches Dec 4",
-   "link": "https://gamedev.net/forums/topic/720803-building-a-follow-up-tool-for-lenders-and-realtors-homeowner-hq-launches-dec-4",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T05:41:26+00:00",
-   "summary": "Hi everyone — I'm Steven, and I've been working on something outside games that I thought folks here who run a small business might find useful to think about. It's called Homeowner HQ. It's made for…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 73,
-   "hot_score": 67.3
   }
  ],
  "timeline": [
+  {
+   "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
+   "title": "Dungeon Meshi's Laios Reimagined In Beautiful Hand-Drawn 3D Style",
+   "link": "https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T14:34:00+00:00",
+   "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.7
+  },
+  {
+   "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
+   "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
+   "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:30:40+00:00",
+   "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different char…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 78,
+   "reason": "涉及lesson · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.7
+  },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
    "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
@@ -413,7 +535,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.3
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -426,7 +551,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 83,
-   "hot_score": 82.4
+   "reason": "涉及tool · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.0
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -439,7 +567,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.4
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.0
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -452,7 +583,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 79.3
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.9
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -465,7 +599,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 80,
-   "hot_score": 79.1
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.7
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -478,7 +615,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.5
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -491,7 +631,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -504,7 +647,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 78.7
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -517,7 +663,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.3
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -530,7 +679,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 78.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.1
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -543,7 +695,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 77.8
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.4
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -556,7 +711,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 72.9
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 72.6
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -569,7 +727,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.5
+   "reason": "涉及tool、workflow · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 83.1
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -582,7 +743,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 83.3
+   "reason": "涉及tool、engine · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 82.9
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -595,7 +759,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.5
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.2
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -608,7 +775,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
-   "hot_score": 72.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 72.3
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -621,7 +791,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 76.6
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.2
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -634,7 +807,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.2
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 75.9
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -647,7 +823,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 76.0
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 75.7
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -660,7 +839,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 70,
-   "hot_score": 66.0
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 65.7
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -673,7 +855,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 70,
-   "hot_score": 65.1
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 64.8
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -686,7 +871,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 73,
-   "hot_score": 67.3
+   "reason": "涉及tool · 24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 67.0
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -699,7 +887,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 62.9
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 62.6
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -712,7 +903,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 62.6
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 62.3
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -725,7 +919,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 58.0
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 57.7
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -738,7 +935,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 56.8
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 56.5
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -751,7 +951,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 60.4
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 60.1
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -764,7 +967,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 58.5
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 58.2
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -777,7 +983,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 58.4
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 58.2
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -790,7 +999,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 46.5
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 46.3
   },
   {
    "id": "29117d5e6fc9e53fc24b6c29b1b0c5dbadec2796",
@@ -803,7 +1015,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 63,
-   "hot_score": 45.0
+   "reason": "涉及performance",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 44.8
   },
   {
    "id": "38d062123d715448cca42c5e88e27e9848935b37",
@@ -816,7 +1031,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 41.5
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 41.3
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -829,7 +1047,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 41.0
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 40.8
   },
   {
    "id": "2121df6444c57ecedd3825be705f60b3637d940b",
@@ -842,7 +1063,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 40.4
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 40.2
   },
   {
    "id": "22570b73cb13d8a33530b28eb55bb6c1792522fa",
@@ -855,7 +1079,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 39.7
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 39.5
   },
   {
    "id": "b826d68056ff503eadf589fe7edeca45923eec5d",
@@ -868,7 +1095,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 55,
-   "hot_score": 36.0
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 35.9
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -881,7 +1111,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 39.3
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 39.1
   },
   {
    "id": "4d27d8c7c63f287192f14f40a324643e012bfd14",
@@ -894,7 +1127,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 36.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 36.0
   },
   {
    "id": "058b7496c5710a409d7c978c6bb756505a417173",
@@ -907,7 +1143,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 63,
-   "hot_score": 36.0
+   "reason": "涉及performance",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 35.8
   },
   {
    "id": "bc56ec6d7183a08a564043c6bc778ae5d4ae3e27",
@@ -920,7 +1159,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 33.6
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 33.4
   },
   {
    "id": "1f1f8a694c59f81df629a0864a749215e5db2979",
@@ -933,7 +1175,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 32.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 32.0
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -946,7 +1191,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 63,
-   "hot_score": 33.3
+   "reason": "涉及engine",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 33.2
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -959,7 +1207,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 31.6
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 31.4
   },
   {
    "id": "5ef3b5a127fd5ba4103dc807f5e4cc6d0ede0bc3",
@@ -972,7 +1223,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 31.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 31.1
   },
   {
    "id": "9231336d2e761cf2013120444f7381b465b62710",
@@ -985,7 +1239,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 31.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 30.9
   },
   {
    "id": "f8ff865f8809584cce7d2c20bd46411b684e7b10",
@@ -998,7 +1255,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 31.0
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 30.9
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -1010,8 +1270,11 @@
    "summary": "Extremely good King's Field-style RPG Queen's Domain – or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide – has received its first proper patch, adding a hithert…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 60,
-   "hot_score": 30.9
+   "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.6
   },
   {
    "id": "201ced87b1c7b5347f2fc99d47b363caae368505",
@@ -1023,8 +1286,11 @@
    "summary": "SAG-AFTRA has introduced a video game agreement for pre-funding pitches, allowing creators to use professional actors earlier in development. Read more",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 60,
-   "hot_score": 30.8
+   "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.6
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -1037,7 +1303,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 60,
-   "hot_score": 30.6
+   "reason": "官方来源",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 30.4
   },
   {
    "id": "4eb5c606da180db7bd746b2adfff0a7282496071",
@@ -1050,7 +1319,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 25.5
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.4
   },
   {
    "id": "e00107a03fa48327d3cf20a2115ed781982e59ea",
@@ -1063,7 +1335,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 25.5
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.3
   },
   {
    "id": "b1ec315fa9dce11621d6cee1a8f2617d1fa68536",
@@ -1076,7 +1351,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 25.3
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.1
   },
   {
    "id": "66cce1269a56aeaf3287d30280b5b5e03adafd4a",
@@ -1089,7 +1367,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 25.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 25.0
   },
   {
    "id": "fabcda5f5319953fcb226b9492415f4dd5e64902",
@@ -1102,7 +1383,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 24.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.8
   },
   {
    "id": "82a0209d95fbec8935199d6d6a8119b7fdfa27fc",
@@ -1115,7 +1399,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 24.8
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.7
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1128,7 +1415,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.7
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.5
   },
   {
    "id": "f0da9e69dffe9090a9d5d39f50e90af96613d694",
@@ -1141,7 +1431,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.6
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.5
   },
   {
    "id": "e345653cd7291053ee2f2bb3b8e74bb4dce9169d",
@@ -1154,7 +1447,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.3
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.2
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -1167,7 +1463,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 24.0
   },
   {
    "id": "68c059b85bf4d04451f166ee871567ee17c49a6a",
@@ -1180,7 +1479,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 22.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 22.8
   },
   {
    "id": "97ba99091379f0365c771c0ce27d018bc3c9eab9",
@@ -1193,7 +1495,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 63,
-   "hot_score": 28.2
+   "reason": "官方来源 · 涉及performance",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 28.1
   },
   {
    "id": "52b4309758a39c909bea4825a77707763c0eb20a",
@@ -1206,7 +1511,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 61,
-   "hot_score": 27.3
+   "reason": "官方来源 · 涉及optimization、workflow",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 27.2
   },
   {
    "id": "cce0629d13e2b34c874605a4ea82e3749bca9cdf",
@@ -1219,7 +1527,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 22.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 22.0
   },
   {
    "id": "e8fa2a2c06b9ecc7543e37dc18420d6544c5cfe1",
@@ -1232,7 +1543,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 21.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.8
   },
   {
    "id": "14d710c63b178bfbac9ff7271102234d1ece93cc",
@@ -1245,7 +1559,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.4
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.3
   },
   {
    "id": "6b40790e89cf07241ad682c14ace8c855571e3af",
@@ -1258,7 +1575,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.3
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.2
   },
   {
    "id": "baa849e20dc9a141dc983de12e996c6b4b1f2ca4",
@@ -1271,7 +1591,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 21.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.1
   },
   {
    "id": "05ca53fa67d31bf552e94530a74262bb74fde218",
@@ -1284,7 +1607,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 21.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.0
   },
   {
    "id": "5cc77acecf7b8096f30008b669621a9c91205279",
@@ -1297,7 +1623,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 21.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.0
   },
   {
    "id": "9ba6aa1897f76bd2cc5044913d8800d1511aee80",
@@ -1310,7 +1639,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.0
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.9
   },
   {
    "id": "c4526501f36797aedc90fc6552ecb83da94c37ff",
@@ -1323,7 +1655,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 20.8
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.7
   },
   {
    "id": "ac3b087391a04625ec86ae5e4de267c8dfca6cdc",
@@ -1336,7 +1671,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 20.7
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.6
   },
   {
    "id": "41895422997981cb2baad599042021848e3924f4",
@@ -1349,7 +1687,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 20.5
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.4
   },
   {
    "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
@@ -1362,7 +1703,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 53,
-   "hot_score": 21.7
+   "reason": "涉及data",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 21.6
   },
   {
    "id": "8be5c5acd91f2eb2b46c601fb4bb7dbae563c67d",
@@ -1375,6 +1719,9 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 20.2
   },
   {
@@ -1388,7 +1735,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 45,
-   "hot_score": 18.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 18.0
   },
   {
    "id": "7c6127fe20fbbc9a225b8b4fcd8cd92857f9b613",
@@ -1401,7 +1751,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 20.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.0
   },
   {
    "id": "9c32bcd3c3b11649f880416aedbcdb8f3eb205c4",
@@ -1414,7 +1767,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 56,
-   "hot_score": 22.4
+   "reason": "涉及revenue、sales",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 22.3
   },
   {
    "id": "9921b12bdf523054608956e4c97d3a83c15d06b8",
@@ -1427,7 +1783,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 19.8
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 19.7
   },
   {
    "id": "7fdb3f5173cd55d0cb4cb3eb7e767159f11128c7",
@@ -1440,6 +1799,9 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 19.6
   },
   {
@@ -1453,7 +1815,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 53,
-   "hot_score": 20.8
+   "reason": "涉及sales",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 20.7
   },
   {
    "id": "961a804d08016afc8c8cbc1bdfca47a70603a4f5",
@@ -1466,7 +1831,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.4
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 17.3
   },
   {
    "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
@@ -1479,7 +1847,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 45,
-   "hot_score": 15.6
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 15.5
   },
   {
    "id": "e8eb66ee1992ee97af38048c8dfba99d8e91f239",
@@ -1492,7 +1863,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.2
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 17.1
   },
   {
    "id": "d243fc5aaaf6260900e8cdeff7828b3d2d1646a4",
@@ -1505,7 +1879,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 17.0
   },
   {
    "id": "3b4ff21427e0caea8ea41d1b2a6ac6ef7065ea90",
@@ -1518,6 +1895,9 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 16.9
   },
   {
@@ -1531,7 +1911,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 16.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 16.8
   },
   {
    "id": "e76dd3ccdb26ad9ab64e2205f6ec5653bcb511f0",
@@ -1544,7 +1927,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 16.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 16.8
   },
   {
    "id": "aa5d242c8b4e04c625de84d66ec1461a544e8fa6",
@@ -1557,7 +1943,10 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 53,
-   "hot_score": 17.8
+   "reason": "涉及tool",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 17.7
   },
   {
    "id": "fb2e044e229a8cb96b9476c8693d82f4b773de61",
@@ -1570,7 +1959,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 16.8
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 16.7
   },
   {
    "id": "71434420f42df352498b8209e186a752c2a89b86",
@@ -1583,7 +1975,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 16.6
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 16.5
   },
   {
    "id": "969cb21ccb6d84f7c4dc070baf46d30eb0bfb5c5",
@@ -1596,6 +1991,9 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 16.2
   },
   {
@@ -1609,7 +2007,10 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 40,
-   "hot_score": 13.0
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 12.9
   },
   {
    "id": "a32212491e723104f283c894edac831dfd0cab03",
@@ -1622,7 +2023,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 16.1
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 16.0
   },
   {
    "id": "2625cf3404f146f3e2beb35ef459422f54d47773",
@@ -1635,6 +2039,9 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 45,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 14.4
   },
   {
@@ -1648,7 +2055,10 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 15.9
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 15.8
   },
   {
    "id": "8f1e7485cbcf8a2748fd72a8d923213e00b39831",
@@ -1661,7 +2071,10 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 15.8
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 15.7
   },
   {
    "id": "7bf45a02fae15c1860975b0543e51a6d06382e8f",
@@ -1674,33 +2087,10 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 45,
+   "reason": "",
+   "is_new": false,
+   "trend": "same",
    "hot_score": 14.2
-  },
-  {
-   "id": "54693f18a639463767cc6d488be7a899e5762ce0",
-   "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
-   "link": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T08:35:49+00:00",
-   "summary": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox. Read more",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "hot_score": 15.5
-  },
-  {
-   "id": "1e791154715673a34d22e8e049970a8f6fcea009",
-   "title": "Penguin Colony Review – Antarctic Enigmas",
-   "link": "https://indiegamereviewer.com/penguin-colony-review-antarctic-enigmas",
-   "source": "Indie Game Reviewer",
-   "source_id": "indiegamereviewer",
-   "published": "2026-11-04T04:03:50+00:00",
-   "summary": "Penguin Colony is a philosophical journey about penguins being pulled by mysterious otherworldly forces. Read more... The post Penguin Colony Review – Antarctic Enigmas appeared first on Indie Game Re…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 50,
-   "hot_score": 14.9
   }
  ]
 }
