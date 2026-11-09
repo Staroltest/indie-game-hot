@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T12:55:36.813177+00:00",
- "generated_at_cst": "2026年11月09日 20:55",
+ "generated_at": "2026-11-09T14:20:41.243089+00:00",
+ "generated_at_cst": "2026年11月09日 22:20",
  "counts": {
-  "total_7d": 132,
+  "total_7d": 135,
   "selected": 10,
   "hot": 20,
   "timeline": 100
@@ -19,7 +19,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.7
+   "hot_score": 83.6
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -32,7 +32,20 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.6
+   "hot_score": 83.4
+  },
+  {
+   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
+   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
+   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:39:00+00:00",
+   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 83,
+   "hot_score": 82.5
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -45,7 +58,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.6
+   "hot_score": 78.6
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -58,7 +71,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "hot_score": 77.9
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -71,7 +84,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 77.7
+   "hot_score": 76.6
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -84,7 +97,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -97,7 +110,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -110,7 +123,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.7
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -123,20 +136,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
-  },
-  {
-   "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
-   "title": "Ubisoft Reportedly Working On Two New Assassin's Creed Games",
-   "link": "https://80.lv/articles/ubisoft-reportedly-working-on-two-new-assassin-s-creed-games",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T09:16:00+00:00",
-   "summary": "One of them may take players back to Ancient Rome.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 80,
-   "hot_score": 77.3
+   "hot_score": 77.6
   }
  ],
  "hot": [
@@ -151,7 +151,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.7
+   "hot_score": 83.6
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -164,7 +164,85 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.6
+   "hot_score": 83.4
+  },
+  {
+   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
+   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
+   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:39:00+00:00",
+   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 83,
+   "hot_score": 82.5
+  },
+  {
+   "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
+   "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
+   "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:00:00+00:00",
+   "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "hot_score": 79.7
+  },
+  {
+   "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
+   "title": "Baldur's Gate 3 Praised By Skyrim Lead Designer For Its Meaningful Player Choices",
+   "link": "https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:37:00+00:00",
+   "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "hot_score": 79.5
+  },
+  {
+   "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
+   "title": "AngelScript 2.39.0 is out",
+   "link": "https://gamedev.net/forums/topic/720804-angelscript-2390-is-out",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T13:30:11+00:00",
+   "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "hot_score": 79.4
+  },
+  {
+   "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
+   "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
+   "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T13:15:00+00:00",
+   "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a susp…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "hot_score": 79.2
+  },
+  {
+   "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
+   "title": "‘Power Line’ shows you that you’ve lied on your resume, to work for Nintendo",
+   "link": "https://indiegamesplus.com/power-line-preview",
+   "source": "Indie Games Plus",
+   "source_id": "indiegamesplus",
+   "published": "2026-11-09T13:00:00+00:00",
+   "summary": "Power Line is a narrative driven game that is inspired by the real Nintendo Power Line game call center, where players were able to call a physical phoneline and get hints when... The post ‘Power Line…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "hot_score": 79.0
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -177,7 +255,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -190,7 +268,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -203,7 +281,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.7
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -216,7 +294,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.6
+   "hot_score": 78.6
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -229,7 +307,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "hot_score": 77.9
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -242,7 +320,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "hot_score": 77.6
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -255,7 +333,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 77.7
+   "hot_score": 76.6
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -268,7 +346,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.3
+   "hot_score": 76.3
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -281,20 +359,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.1
-  },
-  {
-   "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
-   "title": "Skyrim Lead Designer on Todd Howard's Ability to Think Like a Player",
-   "link": "https://80.lv/articles/skyrim-lead-designer-on-todd-howard-s-ability-to-think-like-a-player",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T08:08:00+00:00",
-   "summary": "Bruce Nesmith said Todd Howard could look at games without a developer's biases and let players have fun where they want.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 80,
-   "hot_score": 76.5
+   "hot_score": 76.1
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -307,7 +372,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 74.0
+   "hot_score": 73.0
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -320,7 +385,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
-   "hot_score": 73.7
+   "hot_score": 72.7
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -333,75 +398,88 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 73,
-   "hot_score": 68.3
-  },
-  {
-   "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
-   "title": "Mass Effect 2 Animator Shares Never-Before-Seen Pre-Alpha Cinematics Trailer",
-   "link": "https://80.lv/articles/mass-effect-2-animator-shares-pre-alpha-cinematics-trailer",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T06:44:00+00:00",
-   "summary": "For N7 Day, Jonathan Cooper showed an internal trailer made by BioWare Montreal highlighting its cutscene work and explained how the team built the scenes.",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 70,
-   "hot_score": 66.1
-  },
-  {
-   "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
-   "title": "Twisted Tower Review – Don’t Get It Twisted",
-   "link": "https://indiegamereviewer.com/twisted-tower-review-dont-get-it-twisted",
-   "source": "Indie Game Reviewer",
-   "source_id": "indiegamereviewer",
-   "published": "2026-11-09T02:57:55+00:00",
-   "summary": "Twisted Tower is a short FPS about exploring and uncovering the mystery surrounding an abandoned resort. Read more... The post Twisted Tower Review – Don’t Get It Twisted appeared first on Indie Game…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 70,
-   "hot_score": 63.8
-  },
-  {
-   "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
-   "title": "[RevShare] Looking for a 2D Game Artist for a Mobile Narrative Puzzle Game",
-   "link": "https://gamedev.net/forums/topic/720802-revshare-looking-for-a-2d-game-artist-for-a-mobile-narrative-puzzle-game",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T02:30:09+00:00",
-   "summary": "Hi! I’m SWeetJelly, a game designer. I'm developing a mobile game where players read through an interactive story and solve simple puzzles along the way. This project is inspired by games like Assembl…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 70,
-   "hot_score": 63.5
-  },
-  {
-   "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
-   "title": "Black background on my BMFont font",
-   "link": "https://gamedev.net/forums/topic/720786-black-background-on-my-bmfont-font",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-08T22:38:54+00:00",
-   "summary": "Ok so when i try to visualize my vcr font bitmap it has this weird black background on it? Can you please tell me how to fix this?",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 70,
-   "hot_score": 61.3
-  },
-  {
-   "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
-   "title": "Stich Development Library",
-   "link": "https://gamedev.net/blogs/entry/2298633-stich-development-library",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-08T19:08:53+00:00",
-   "summary": "Scrut Standard Development Kit Blog This blog serves to convey progress concerning Scrut Standard Development Library. Scrut.Hut Game Studio, LLC owns Scrut Standard Development Kit as part of its int…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 70,
-   "hot_score": 59.3
+   "hot_score": 67.4
   }
  ],
  "timeline": [
+  {
+   "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
+   "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
+   "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:00:00+00:00",
+   "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "hot_score": 79.7
+  },
+  {
+   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
+   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
+   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:39:00+00:00",
+   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 83,
+   "hot_score": 82.5
+  },
+  {
+   "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
+   "title": "Baldur's Gate 3 Praised By Skyrim Lead Designer For Its Meaningful Player Choices",
+   "link": "https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:37:00+00:00",
+   "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "hot_score": 79.5
+  },
+  {
+   "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
+   "title": "AngelScript 2.39.0 is out",
+   "link": "https://gamedev.net/forums/topic/720804-angelscript-2390-is-out",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T13:30:11+00:00",
+   "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "hot_score": 79.4
+  },
+  {
+   "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
+   "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
+   "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T13:15:00+00:00",
+   "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a susp…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 80,
+   "hot_score": 79.2
+  },
+  {
+   "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
+   "title": "‘Power Line’ shows you that you’ve lied on your resume, to work for Nintendo",
+   "link": "https://indiegamesplus.com/power-line-preview",
+   "source": "Indie Games Plus",
+   "source_id": "indiegamesplus",
+   "published": "2026-11-09T13:00:00+00:00",
+   "summary": "Power Line is a narrative driven game that is inspired by the real Nintendo Power Line game call center, where players were able to call a physical phoneline and get hints when... The post ‘Power Line…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "hot_score": 79.0
+  },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
    "title": "Developer Builds Script That Reports Your PC's Unused RAM To Sam Altman Daily",
@@ -413,7 +491,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -426,7 +504,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -439,7 +517,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.7
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -452,7 +530,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.6
+   "hot_score": 78.6
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -465,7 +543,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "hot_score": 77.9
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -478,7 +556,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 75,
-   "hot_score": 74.0
+   "hot_score": 73.0
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -491,7 +569,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.7
+   "hot_score": 83.6
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -504,7 +582,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.6
+   "hot_score": 83.4
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -517,7 +595,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
+   "hot_score": 77.6
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -530,7 +608,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
-   "hot_score": 73.7
+   "hot_score": 72.7
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -543,7 +621,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 77.7
+   "hot_score": 76.6
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -556,7 +634,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.3
+   "hot_score": 76.3
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -569,7 +647,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 77.1
+   "hot_score": 76.1
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -581,8 +659,8 @@
    "summary": "Bruce Nesmith said Todd Howard could look at games without a developer's biases and let players have fun where they want.",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 80,
-   "hot_score": 76.5
+   "score": 70,
+   "hot_score": 66.1
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -595,7 +673,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 70,
-   "hot_score": 66.1
+   "hot_score": 65.2
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -608,7 +686,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 73,
-   "hot_score": 68.3
+   "hot_score": 67.4
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -621,7 +699,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 63.8
+   "hot_score": 63.0
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -634,7 +712,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 63.5
+   "hot_score": 62.7
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -647,7 +725,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 58.8
+   "hot_score": 58.1
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -660,7 +738,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 65,
-   "hot_score": 57.6
+   "hot_score": 56.9
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -673,7 +751,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 70,
-   "hot_score": 61.3
+   "hot_score": 60.5
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -686,7 +764,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 59.3
+   "hot_score": 58.6
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -699,7 +777,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 70,
-   "hot_score": 59.3
+   "hot_score": 58.5
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -712,7 +790,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 47.1
+   "hot_score": 46.5
   },
   {
    "id": "29117d5e6fc9e53fc24b6c29b1b0c5dbadec2796",
@@ -725,7 +803,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 63,
-   "hot_score": 45.6
+   "hot_score": 45.0
   },
   {
    "id": "38d062123d715448cca42c5e88e27e9848935b37",
@@ -738,7 +816,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 42.1
+   "hot_score": 41.6
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -751,7 +829,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 41.6
+   "hot_score": 41.0
   },
   {
    "id": "2121df6444c57ecedd3825be705f60b3637d940b",
@@ -764,7 +842,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 40.9
+   "hot_score": 40.4
   },
   {
    "id": "22570b73cb13d8a33530b28eb55bb6c1792522fa",
@@ -777,7 +855,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 40.3
+   "hot_score": 39.7
   },
   {
    "id": "b826d68056ff503eadf589fe7edeca45923eec5d",
@@ -790,7 +868,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 55,
-   "hot_score": 36.6
+   "hot_score": 36.1
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -803,7 +881,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 39.9
+   "hot_score": 39.3
   },
   {
    "id": "4d27d8c7c63f287192f14f40a324643e012bfd14",
@@ -816,7 +894,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 36.7
+   "hot_score": 36.2
   },
   {
    "id": "058b7496c5710a409d7c978c6bb756505a417173",
@@ -829,7 +907,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 63,
-   "hot_score": 36.5
+   "hot_score": 36.0
   },
   {
    "id": "bc56ec6d7183a08a564043c6bc778ae5d4ae3e27",
@@ -842,7 +920,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 34.1
+   "hot_score": 33.6
   },
   {
    "id": "1f1f8a694c59f81df629a0864a749215e5db2979",
@@ -855,7 +933,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 32.6
+   "hot_score": 32.2
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -868,7 +946,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 63,
-   "hot_score": 33.8
+   "hot_score": 33.4
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -881,7 +959,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 32.0
+   "hot_score": 31.6
   },
   {
    "id": "5ef3b5a127fd5ba4103dc807f5e4cc6d0ede0bc3",
@@ -894,7 +972,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 31.7
+   "hot_score": 31.2
   },
   {
    "id": "9231336d2e761cf2013120444f7381b465b62710",
@@ -907,7 +985,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 31.5
+   "hot_score": 31.1
   },
   {
    "id": "f8ff865f8809584cce7d2c20bd46411b684e7b10",
@@ -920,7 +998,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 60,
-   "hot_score": 31.5
+   "hot_score": 31.1
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -933,7 +1011,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 60,
-   "hot_score": 31.3
+   "hot_score": 30.9
   },
   {
    "id": "201ced87b1c7b5347f2fc99d47b363caae368505",
@@ -946,7 +1024,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 60,
-   "hot_score": 31.3
+   "hot_score": 30.9
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -958,8 +1036,8 @@
    "summary": ".paul { color: #aa77e2; } .lisa { color: #40b99f; } Today, Paul Mozet (Lead Programmer on Sovereign Tower) and Lisa Garnier (Narrative Design and Technical Artist on Sovereign Tower) from Wild Wits Ga…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 70,
-   "hot_score": 36.2
+   "score": 60,
+   "hot_score": 30.6
   },
   {
    "id": "4eb5c606da180db7bd746b2adfff0a7282496071",
@@ -971,8 +1049,8 @@
    "summary": "I do not wish to \"rule the streets\" of Megacity West, dear creators of Airframe Ultra . I wish to be ravished by them, rubbing my face against the rusty corrugated metal of the shipping containers, an…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 60,
-   "hot_score": 31.0
+   "score": 50,
+   "hot_score": 25.5
   },
   {
    "id": "e00107a03fa48327d3cf20a2115ed781982e59ea",
@@ -984,8 +1062,8 @@
    "summary": "It can be difficult keeping track of the various comings and goings in the games industry, which is why we compile them in semi-regular round-ups. Read more",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 60,
-   "hot_score": 31.0
+   "score": 50,
+   "hot_score": 25.5
   },
   {
    "id": "b1ec315fa9dce11621d6cee1a8f2617d1fa68536",
@@ -997,8 +1075,8 @@
    "summary": "Moonfrost is a cozy, farming-style game where you are a Frost Hunter, who has come to a new town in hopes of making the town a better place. However, you have not... The post Help rebuild a town hit b…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 60,
-   "hot_score": 30.7
+   "score": 50,
+   "hot_score": 25.3
   },
   {
    "id": "66cce1269a56aeaf3287d30280b5b5e03adafd4a",
@@ -1011,7 +1089,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 25.5
+   "hot_score": 25.2
   },
   {
    "id": "fabcda5f5319953fcb226b9492415f4dd5e64902",
@@ -1024,7 +1102,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 25.3
+   "hot_score": 24.9
   },
   {
    "id": "82a0209d95fbec8935199d6d6a8119b7fdfa27fc",
@@ -1037,7 +1115,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 25.2
+   "hot_score": 24.9
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1050,7 +1128,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 25.0
+   "hot_score": 24.7
   },
   {
    "id": "f0da9e69dffe9090a9d5d39f50e90af96613d694",
@@ -1063,7 +1141,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.9
+   "hot_score": 24.6
   },
   {
    "id": "e345653cd7291053ee2f2bb3b8e74bb4dce9169d",
@@ -1076,7 +1154,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.7
+   "hot_score": 24.4
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -1089,7 +1167,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 24.4
+   "hot_score": 24.1
   },
   {
    "id": "68c059b85bf4d04451f166ee871567ee17c49a6a",
@@ -1102,7 +1180,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 23.2
+   "hot_score": 22.9
   },
   {
    "id": "97ba99091379f0365c771c0ce27d018bc3c9eab9",
@@ -1115,7 +1193,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 63,
-   "hot_score": 28.6
+   "hot_score": 28.2
   },
   {
    "id": "52b4309758a39c909bea4825a77707763c0eb20a",
@@ -1128,7 +1206,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 61,
-   "hot_score": 27.7
+   "hot_score": 27.3
   },
   {
    "id": "cce0629d13e2b34c874605a4ea82e3749bca9cdf",
@@ -1141,7 +1219,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 22.5
+   "hot_score": 22.2
   },
   {
    "id": "e8fa2a2c06b9ecc7543e37dc18420d6544c5cfe1",
@@ -1154,7 +1232,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 22.2
+   "hot_score": 21.9
   },
   {
    "id": "14d710c63b178bfbac9ff7271102234d1ece93cc",
@@ -1167,7 +1245,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.7
+   "hot_score": 21.4
   },
   {
    "id": "6b40790e89cf07241ad682c14ace8c855571e3af",
@@ -1180,7 +1258,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.6
+   "hot_score": 21.3
   },
   {
    "id": "baa849e20dc9a141dc983de12e996c6b4b1f2ca4",
@@ -1193,7 +1271,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 21.5
+   "hot_score": 21.2
   },
   {
    "id": "05ca53fa67d31bf552e94530a74262bb74fde218",
@@ -1206,7 +1284,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 21.4
+   "hot_score": 21.1
   },
   {
    "id": "5cc77acecf7b8096f30008b669621a9c91205279",
@@ -1219,7 +1297,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 21.4
+   "hot_score": 21.1
   },
   {
    "id": "9ba6aa1897f76bd2cc5044913d8800d1511aee80",
@@ -1232,7 +1310,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 21.3
+   "hot_score": 21.0
   },
   {
    "id": "c4526501f36797aedc90fc6552ecb83da94c37ff",
@@ -1245,7 +1323,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 21.1
+   "hot_score": 20.8
   },
   {
    "id": "ac3b087391a04625ec86ae5e4de267c8dfca6cdc",
@@ -1258,7 +1336,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 21.0
+   "hot_score": 20.7
   },
   {
    "id": "41895422997981cb2baad599042021848e3924f4",
@@ -1271,7 +1349,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 20.8
+   "hot_score": 20.6
   },
   {
    "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
@@ -1284,7 +1362,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 53,
-   "hot_score": 22.0
+   "hot_score": 21.7
   },
   {
    "id": "8be5c5acd91f2eb2b46c601fb4bb7dbae563c67d",
@@ -1297,7 +1375,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 20.5
+   "hot_score": 20.3
   },
   {
    "id": "387d59961ecdd4eac90934fd99472f62f27cb4d6",
@@ -1310,7 +1388,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 45,
-   "hot_score": 18.4
+   "hot_score": 18.1
   },
   {
    "id": "7c6127fe20fbbc9a225b8b4fcd8cd92857f9b613",
@@ -1323,7 +1401,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 50,
-   "hot_score": 20.4
+   "hot_score": 20.1
   },
   {
    "id": "9c32bcd3c3b11649f880416aedbcdb8f3eb205c4",
@@ -1336,7 +1414,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 56,
-   "hot_score": 22.7
+   "hot_score": 22.4
   },
   {
    "id": "9921b12bdf523054608956e4c97d3a83c15d06b8",
@@ -1349,7 +1427,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 20.1
+   "hot_score": 19.8
   },
   {
    "id": "7fdb3f5173cd55d0cb4cb3eb7e767159f11128c7",
@@ -1362,7 +1440,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 19.9
+   "hot_score": 19.7
   },
   {
    "id": "a1a6683ba08af07269cf5495d7019303b3b5b8e5",
@@ -1375,7 +1453,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 53,
-   "hot_score": 21.1
+   "hot_score": 20.8
   },
   {
    "id": "961a804d08016afc8c8cbc1bdfca47a70603a4f5",
@@ -1388,7 +1466,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.6
+   "hot_score": 17.4
   },
   {
    "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
@@ -1401,7 +1479,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 45,
-   "hot_score": 15.8
+   "hot_score": 15.6
   },
   {
    "id": "e8eb66ee1992ee97af38048c8dfba99d8e91f239",
@@ -1414,7 +1492,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.5
+   "hot_score": 17.2
   },
   {
    "id": "d243fc5aaaf6260900e8cdeff7828b3d2d1646a4",
@@ -1427,7 +1505,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.3
+   "hot_score": 17.1
   },
   {
    "id": "3b4ff21427e0caea8ea41d1b2a6ac6ef7065ea90",
@@ -1440,7 +1518,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.2
+   "hot_score": 17.0
   },
   {
    "id": "d9815e415e0cb35c3110dab9b9394952a826e65c",
@@ -1453,7 +1531,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 17.1
+   "hot_score": 16.9
   },
   {
    "id": "e76dd3ccdb26ad9ab64e2205f6ec5653bcb511f0",
@@ -1466,7 +1544,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 17.1
+   "hot_score": 16.9
   },
   {
    "id": "aa5d242c8b4e04c625de84d66ec1461a544e8fa6",
@@ -1479,7 +1557,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 53,
-   "hot_score": 18.0
+   "hot_score": 17.8
   },
   {
    "id": "fb2e044e229a8cb96b9476c8693d82f4b773de61",
@@ -1492,7 +1570,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 17.0
+   "hot_score": 16.8
   },
   {
    "id": "71434420f42df352498b8209e186a752c2a89b86",
@@ -1505,7 +1583,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 16.8
+   "hot_score": 16.6
   },
   {
    "id": "969cb21ccb6d84f7c4dc070baf46d30eb0bfb5c5",
@@ -1518,7 +1596,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 50,
-   "hot_score": 16.5
+   "hot_score": 16.3
   },
   {
    "id": "cd8fa751cee9567f459094e4c8b9e77c68ed2d2f",
@@ -1531,7 +1609,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 40,
-   "hot_score": 13.1
+   "hot_score": 13.0
   },
   {
    "id": "a32212491e723104f283c894edac831dfd0cab03",
@@ -1544,7 +1622,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 16.4
+   "hot_score": 16.1
   },
   {
    "id": "2625cf3404f146f3e2beb35ef459422f54d47773",
@@ -1557,7 +1635,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 45,
-   "hot_score": 14.6
+   "hot_score": 14.4
   },
   {
    "id": "829e270d45609990ad3ca25e4c44fa40d7426f14",
@@ -1570,7 +1648,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 50,
-   "hot_score": 16.1
+   "hot_score": 15.9
   },
   {
    "id": "8f1e7485cbcf8a2748fd72a8d923213e00b39831",
@@ -1583,7 +1661,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 16.1
+   "hot_score": 15.8
   },
   {
    "id": "7bf45a02fae15c1860975b0543e51a6d06382e8f",
@@ -1596,7 +1674,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 45,
-   "hot_score": 14.4
+   "hot_score": 14.2
   },
   {
    "id": "54693f18a639463767cc6d488be7a899e5762ce0",
@@ -1609,7 +1687,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 50,
-   "hot_score": 15.7
+   "hot_score": 15.5
   },
   {
    "id": "1e791154715673a34d22e8e049970a8f6fcea009",
@@ -1622,85 +1700,7 @@
    "category": "reviews",
    "category_label": "评测与复盘",
    "score": 50,
-   "hot_score": 15.1
-  },
-  {
-   "id": "db7aadc4d96e49b197786d9a8747c048b4c4d799",
-   "title": "How Ares Interactive runs live ops without waiting on client updates",
-   "link": "https://unity.com/blog/ares-interactive-live-service-games",
-   "source": "Unity 博客",
-   "source_id": "unity-blog",
-   "published": "2026-11-04T00:00:00+00:00",
-   "summary": "How Baseball Hits 26 and The Walking Dead: Aftermath use remote config, versioned bundles, and CI to ship live ops changes without a client release.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 60,
-   "hot_score": 17.4
-  },
-  {
-   "id": "b6a0f42cc1c47fa3a7e960d07ad2cf6f3114e10c",
-   "title": "The Immersive Edge: October 2026 industry content wrap-up",
-   "link": "https://unity.com/blog/october-2026-industry-content-wrap-up",
-   "source": "Unity 博客",
-   "source_id": "unity-blog",
-   "published": "2026-11-04T00:00:00+00:00",
-   "summary": "The Immersive Edge, October 2026: 23 Unity Industry resources, from an F1 Academy simulator to five Industry Summit sessions.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 60,
-   "hot_score": 17.4
-  },
-  {
-   "id": "97018b40b1d3cee079854fe75ee4ad5f262f5454",
-   "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
-   "link": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-03T22:51:31+00:00",
-   "summary": "Things are potentially looking up for Arkane, depending on how you feel about Ubisoft (and depending on who actually ends up acquiring them). I mention the Assassin's Creed developer because, reported…",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "hot_score": 14.4
-  },
-  {
-   "id": "9f83c40e1566258c4411071592c147ad902c7888",
-   "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-   "link": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-03T21:41:08+00:00",
-   "summary": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only probl…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 50,
-   "hot_score": 14.2
-  },
-  {
-   "id": "e375b153b84e2956db216142241ce5d0bf359885",
-   "title": "The Citadel Project is a Thief-inspired dark fantasy, survival-horror lite stealth-em-up with some lovely shadows set in a medieval megastructure",
-   "link": "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-03T20:10:03+00:00",
-   "summary": "You know, given the whole stealthy element of Thief-like immersive sims, I'm surprised there haven't been more of them with horror elements. There's Gloomwood , sure, but it's not as common as I'd lik…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 50,
-   "hot_score": 14.0
-  },
-  {
-   "id": "4cc618e28511c06a6018b147e460632c20c3a377",
-   "title": "Half of Control Resonant's players were 'new' to the franchise",
-   "link": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-03T19:56:03+00:00",
-   "summary": "Players unfamiliar with Remedy's 'new weird' action series helped drive Control Resonant to over one million units sold in just three weeks.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "hot_score": 14.0
+   "hot_score": 14.9
   }
  ]
 }

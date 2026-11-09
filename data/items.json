@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T12:55:36.813177+00:00",
+ "updated_at": "2026-11-09T14:20:41.243089+00:00",
  "items": [
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -3160,6 +3160,66 @@
    "published": "2026-10-13T00:24:40+00:00",
    "summary": "What makes a game perfect for Halloween? We ditched the usual Top 10 for 13 weird, wild, and wonderful indie treats. Unearth them inside. The post 13 Indie Games For Halloween 2026 appeared first on I…",
    "fetched_at": "2026-11-09T12:52:08.730572+00:00"
+  },
+  {
+   "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
+   "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
+   "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T14:00:00+00:00",
+   "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
+   "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
+   "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T13:15:00+00:00",
+   "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a susp…",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
+   "title": "‘Power Line’ shows you that you’ve lied on your resume, to work for Nintendo",
+   "link": "https://indiegamesplus.com/power-line-preview",
+   "source": "Indie Games Plus",
+   "source_id": "indiegamesplus",
+   "published": "2026-11-09T13:00:00+00:00",
+   "summary": "Power Line is a narrative driven game that is inspired by the real Nintendo Power Line game call center, where players were able to call a physical phoneline and get hints when... The post ‘Power Line…",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
+   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
+   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:39:00+00:00",
+   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
+   "title": "Baldur's Gate 3 Praised By Skyrim Lead Designer For Its Meaningful Player Choices",
+   "link": "https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:37:00+00:00",
+   "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
+  },
+  {
+   "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
+   "title": "AngelScript 2.39.0 is out",
+   "link": "https://gamedev.net/forums/topic/720804-angelscript-2390-is-out",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T13:30:11+00:00",
+   "summary": "This release comes with relatively small amount of new features, despite the long wait. Instead I really focused on fixing the backlog of bugs. I think this release has the longest list of bug fixes i…",
+   "fetched_at": "2026-11-09T14:17:42.442396+00:00"
   }
  ]
 }

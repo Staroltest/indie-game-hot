@@ -245,38 +245,226 @@ LOGO_SVG = """<svg width="44" height="44" viewBox="0 0 48 48" aria-hidden="true"
 </svg>"""
 
 CSS = """
-:root{--ink:#1c2430;--muted:#667085;--line:#e6e9ef;--bg:#fafbfc;--card:#fff;
---accent:#e8590c;--accent2:#f7b733;--tag:#eef2f7}
+/* 设计语言：暖纸底色、青色点缀、细线边框、无渐变；
+   侧栏导航、热点条、时间线时间轨、评分徽章均为其组件的静态化移植。品牌与 logo 仍是 IndieHOT 自己的。 */
+:root{
+  --bg:#faf9f6; --bg-sunk:#f3f3ef; --bg-muted:#e9ede9; --well:var(--bg-sunk);
+  --surface:#fff; --surface-2:#fdfdfb; --sidebar:#fdfdfb; --daybar:#f0f2ee;
+  --ink:#202a30; --ink-2:#303c42; --ink-3:#59656b; --ink-4:#657176;
+  --line:#dfe4e1; --line-strong:#d1d9d5; --line-soft:#e9ede9;
+  --accent:#176b75; --accent-ink:#145f68; --accent-soft:rgba(23,107,117,.08); --accent-softer:rgba(23,107,117,.05);
+  --note:#526f72; --hot:#b3402a; --hot-soft:rgba(179,64,42,.08);
+  --amber:#b8873a; --ok:#2f7d5c;
+  --rank-1:#b3402a; --rank-2:#a3642f; --rank-3:#96702e; --rank-rest:#6b7684;
+  --shadow-card:0 1px 2px rgba(32,42,48,.025);
+  --shadow-card-hover:0 3px 12px rgba(32,42,48,.055);
+  --bar-h:48px; color-scheme:light;
+}
+[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#13191c; --bg-sunk:#182024; --bg-muted:#202a2f; --well:#182024;
+  --surface:#1a2226; --surface-2:#1d272b; --sidebar:#161e21; --daybar:#182024;
+  --ink:#e7eceb; --ink-2:#d2dada; --ink-3:#a5b0b3; --ink-4:#89979d;
+  --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.12); --line-soft:rgba(255,255,255,.06);
+  --accent:#12ccd8; --accent-ink:#2ce2e8; --accent-soft:rgba(18,204,216,.12); --accent-softer:rgba(18,204,216,.06);
+  --note:#8fb8a8; --hot:#d86a52; --hot-soft:rgba(216,106,82,.12);
+  --amber:#d3b26a; --ok:#5fc79a;
+  --rank-1:#d86a52; --rank-2:#d18a5e; --rank-3:#d3b26a; --rank-rest:#7b869a;
+  --shadow-card:none; --shadow-card-hover:none;
+}
 *{box-sizing:border-box}
-body{margin:0;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
-color:var(--ink);background:var(--bg);line-height:1.6}
-a{color:#0b5fff;text-decoration:none}a:hover{text-decoration:underline}
-.wrap{max-width:960px;margin:0 auto;padding:0 16px 48px}
-header{padding:28px 0 8px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
-header h1{font-size:26px;margin:0;line-height:1.2}
-header .sub{color:var(--muted);font-size:14px;margin-top:4px}
-nav{margin:14px 0 4px;display:flex;gap:16px;font-size:15px}
-nav a{color:var(--ink)}nav a.cur{color:var(--accent);font-weight:700}
-h2{font-size:19px;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--line)}
-.card{background:var(--card);border:1px solid var(--line);border-radius:10px;
-padding:14px 16px;margin-bottom:12px}
-.card h3{margin:0 0 4px;font-size:17px;line-height:1.45}
-.meta{font-size:13px;color:var(--muted);margin-bottom:6px}
-.tag{display:inline-block;background:var(--tag);border-radius:4px;
-padding:1px 7px;font-size:12px;margin-right:6px;color:#344054}
-.score{float:right;background:#fff4e5;color:var(--accent);border-radius:12px;
-padding:1px 9px;font-size:13px;font-weight:700}
-.rank{font-size:22px;font-weight:800;color:var(--accent);margin-right:8px}
-.filters{margin:10px 0 16px;display:flex;gap:8px;flex-wrap:wrap}
-.filters button{border:1px solid var(--line);background:#fff;border-radius:16px;
-padding:4px 13px;font-size:14px;cursor:pointer}
-.filters button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
-.tl{list-style:none;margin:0;padding:0}
-.tl li{padding:10px 0;border-bottom:1px solid var(--line)}
-.tl .t{font-size:15px}
-footer{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);
-font-size:13px;color:var(--muted)}
-@media(max-width:600px){header h1{font-size:22px}.card h3{font-size:16px}}
+html{-webkit-text-size-adjust:100%;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;text-autospace:normal}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","HarmonyOS Sans SC","Microsoft YaHei",sans-serif;
+  font-size:14px;line-height:1.5}
+body:has(.report-shell){background:var(--surface-2)}
+::selection{background:rgba(23,107,117,.16)}
+a{color:inherit;text-decoration:none}
+button{cursor:pointer;font:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:5px}
+.num{font-variant-numeric:tabular-nums}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+
+/* ---- 壳：侧栏 / 窄轨 / 主列 / 手机顶栏与底栏 ---- */
+.shell{display:flex;min-height:100dvh}
+.sidebar,.rail{display:none}
+.main{flex:1;min-width:0}
+.page{max-width:860px;width:100%;margin:0 auto;padding:0 16px 96px}
+@media(min-width:700px){
+  .page{padding-bottom:48px}
+  .rail{display:flex;position:sticky;top:0;height:100dvh;width:64px;flex-shrink:0;
+    flex-direction:column;align-items:center;border-right:1px solid var(--line);
+    background:var(--sidebar);padding:20px 6px 14px}
+  .topbar,.tabbar{display:none}
+}
+@media(min-width:941px){
+  .rail{display:none}
+  .sidebar{display:flex;position:sticky;top:0;height:100dvh;width:180px;flex-shrink:0;
+    flex-direction:column;border-right:1px solid var(--line);background:var(--sidebar);
+    padding:24px 12px 14px}
+}
+.brand{display:flex;align-items:center;gap:10px;color:var(--ink)}
+.brand b{font-size:20px;font-weight:700;letter-spacing:.01em}
+.brand small{display:block;font-size:11px;color:var(--ink-4);font-weight:400}
+.nav-sec{margin-top:14px}
+.nav-sec h3{margin:0;padding:14px 10px 4px;font-size:11px;font-weight:400;color:var(--ink-4)}
+.side-link{display:flex;height:40px;align-items:center;gap:10px;padding:0 10px;border-radius:8px;
+  font-size:14px;font-weight:500;color:var(--ink-3)}
+.side-link svg{flex-shrink:0}
+.side-link:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.side-link.on svg{color:var(--accent)}
+.side-foot{margin-top:auto;padding-top:12px}
+.side-foot .gh{display:flex;height:34px;align-items:center;justify-content:center;gap:6px;
+  border:1px solid var(--line);border-radius:9999px;font-size:12.5px;color:var(--ink-3)}
+.side-foot .gh:hover{background:var(--bg-sunk);color:var(--ink)}
+.side-foot .note{margin:10px 4px 0;font-size:11.5px;color:var(--ink-4);text-align:center}
+.rail-link{display:flex;width:100%;height:56px;flex-direction:column;align-items:center;justify-content:center;
+  gap:3px;border-radius:8px;font-size:11px;font-weight:500;color:var(--ink-3)}
+.rail-link:hover{background:var(--bg-sunk);color:var(--ink)}
+.rail-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.rail-link.on svg{color:var(--accent)}
+.rail .brand{margin-bottom:12px}
+
+/* 手机顶栏：品牌 + 精选|全部切换 + 外观按钮 */
+.topbar{position:sticky;top:0;z-index:30;display:flex;height:var(--bar-h);align-items:center;gap:8px;
+  padding:0 8px;background:var(--bg);border-bottom:1px solid var(--line)}
+.topbar .brand b{font-size:17px}
+.switch{display:flex;margin:0 auto;background:var(--bg-sunk);border-radius:9999px;padding:2px}
+.switch a{padding:3px 14px;border-radius:9999px;font-size:13px;font-weight:500;color:var(--ink-3)}
+.switch a.on{background:var(--surface);color:var(--ink);font-weight:600;box-shadow:var(--shadow-card)}
+.topbar .title{margin:0 auto;font-size:15px;font-weight:600}
+.icon-btn{display:inline-flex;width:36px;height:36px;align-items:center;justify-content:center;
+  border:0;border-radius:8px;background:transparent;color:var(--ink-3)}
+.icon-btn:hover{background:var(--bg-sunk);color:var(--ink)}
+[data-theme="dark"] .ic-sun{display:inline-flex}
+[data-theme="dark"] .ic-moon{display:none}
+.ic-sun{display:none}
+
+/* 手机底栏 */
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;background:var(--surface);
+  border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.tabbar a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:7px 0 6px;
+  font-size:11px;font-weight:500;color:var(--ink-3)}
+.tabbar a.on{color:var(--accent);font-weight:600}
+
+/* ---- 通用组件 ---- */
+h1{font-size:24px;font-weight:600;line-height:1.3;margin:22px 0 0}
+h2.sec{font-size:19px;font-weight:600;margin:30px 0 12px}
+.lede{font-size:13px;color:var(--ink-4);margin:8px 0 0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-card)}
+.chip{display:inline-flex;align-items:center;height:26px;padding:0 10px;border-radius:9999px;
+  border:1px solid var(--line-soft);background:var(--bg-sunk);font-size:12px;color:var(--ink-4)}
+button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
+.chip.on{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink);font-weight:600}
+.tabs{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin:16px 0 4px;padding-bottom:2px}
+.tabs::-webkit-scrollbar{display:none}
+.tabs .chip{flex-shrink:0}
+.well{background:var(--well);box-shadow:inset 0 0 0 1px var(--line-soft);border-radius:14px;padding:14px 16px}
+.well .kicker{font-size:12px;font-weight:600;color:var(--accent-ink)}
+.well p{margin:6px 0 0;font-size:14.5px;line-height:1.75;color:var(--ink-2)}
+
+/* 评分徽章（按档位着色的小药丸，85+ 红、70+ 青、其余安静） */
+.score-pill{display:inline-flex;height:20px;align-items:center;gap:6px;white-space:nowrap;
+  border-radius:9999px;padding:0 8px;box-shadow:inset 0 0 0 1px var(--ring,rgba(0,0,0,0))}
+.score-pill .lbl{font-size:11px;font-weight:500;opacity:.8}
+.score-pill .sep{width:1px;height:10px;background:currentColor;opacity:.25}
+.score-pill .num{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:12.5px;font-weight:700;font-variant-numeric:tabular-nums}
+.score-pill.t-hot{background:rgba(179,64,42,.1);color:var(--hot);--ring:rgba(179,64,42,.25)}
+.score-pill.t-acc{background:var(--accent-soft);color:var(--accent);--ring:rgba(23,107,117,.2)}
+.score-pill.t-quiet{color:var(--ink-4);--ring:var(--line-soft)}
+@media(max-width:640px){.score-pill .lbl,.score-pill .sep{display:none}}
+.pick{display:inline-flex;height:20px;align-items:center;padding:0 8px;border-radius:9999px;
+  background:var(--accent-soft);color:var(--accent-ink);font-size:11px;font-weight:600}
+.rank{font-weight:800;color:var(--rank-rest)}
+.rank.r1{color:var(--rank-1)}.rank.r2{color:var(--rank-2)}.rank.r3{color:var(--rank-3)}
+
+/* ---- 动态卡片（桌面白卡、手机行；来源行 + 标题 + 摘要 + 分类） ---- */
+.feed-item{padding:14px 0;border-bottom:1px solid var(--line-soft)}
+.feed-item:last-child{border-bottom:0}
+@media(min-width:700px){
+  .feed-item{padding:15px 18px 14px;background:var(--surface);border:1px solid var(--line);
+    border-radius:12px;box-shadow:var(--shadow-card);margin-bottom:12px;
+    transition:box-shadow 200ms,border-color 200ms,transform 200ms}
+  .feed-item:hover{box-shadow:var(--shadow-card-hover);border-color:var(--line-strong);transform:translateY(-1px)}
+}
+.fi-head{display:flex;min-height:20px;align-items:center;gap:8px;font-size:12.5px;color:var(--ink-4)}
+.fi-head .src{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fi-head .pt{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px}
+@media(min-width:700px){.fi-head .pt{display:none}}
+.fi-head .sp{margin-left:auto;display:flex;align-items:center;gap:6px;flex-shrink:0}
+.feed-item h3{margin:6px 0 0;font-size:17px;font-weight:650;line-height:1.5}
+.feed-item h3 a:hover{color:var(--accent)}
+.feed-item h3 .rank{margin-right:8px;font-size:17px}
+.feed-item .sum{margin:4px 0 0;font-size:14.5px;line-height:1.7;color:var(--ink-3);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+@media(min-width:700px){.feed-item .sum{-webkit-line-clamp:3;font-size:15px;line-height:1.75}}
+.fi-foot{margin-top:8px;display:flex;gap:8px;align-items:center}
+.fi-foot .when{font-size:12.5px;color:var(--ink-4)}
+
+/* ---- 热点条（右上热色晕染 + 跳动 live 点 + 排名行） ---- */
+.hot-card{position:relative;overflow:hidden;margin-top:18px;padding:10px 14px 4px;
+  background:radial-gradient(120% 90% at 100% 0%,var(--hot-soft),transparent 55%),var(--surface)}
+@media(min-width:700px){.hot-card{padding:14px 20px 8px}}
+.hot-head{display:flex;align-items:center;justify-content:space-between}
+.hot-head h2{display:flex;align-items:center;gap:8px;margin:0;font-size:14px;font-weight:600}
+.live{position:relative;display:inline-flex;width:8px;height:8px}
+.live .ping{position:absolute;width:100%;height:100%;border-radius:9999px;background:var(--hot);opacity:.4;animation:ping 1.6s ease-out infinite}
+.live .dot{position:relative;width:8px;height:8px;border-radius:9999px;background:var(--hot)}
+@keyframes ping{0%{transform:scale(1);opacity:.4}80%,100%{transform:scale(2.4);opacity:0}}
+.hot-more{display:inline-flex;align-items:center;gap:4px;border:0;background:transparent;
+  font-size:12.5px;color:var(--ink-3);padding:6px 0}
+.hot-more:hover{color:var(--accent)}
+.hot-list{list-style:none;margin:2px 0 0;padding:0}
+.hot-row{display:grid;grid-template-columns:20px minmax(0,1fr) auto;align-items:center;gap:12px;
+  padding:7px 8px;margin:0 -8px;border-radius:10px}
+.hot-row:hover{background:rgba(243,243,239,.7)}
+[data-theme="dark"] .hot-row:hover{background:rgba(32,42,47,.4)}
+.hot-row .rank{font-size:15px;text-align:center}
+.hot-row .t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14.5px;font-weight:600}
+.hot-row:hover .t{color:var(--accent)}
+.hot-heat{white-space:nowrap;font-size:12.5px;color:var(--ink-4);text-align:right}
+.hot-heat b{font-size:13.5px;font-weight:600;color:var(--ink-2)}
+
+/* ---- 时间线（按天分组，桌面时间轨 + 青点，手机灰色日栏） ---- */
+.day-head{position:sticky;top:var(--bar-h);z-index:20;display:flex;height:44px;align-items:center;gap:8px;
+  margin:0 -16px;padding:0 16px;background:var(--daybar)}
+.day-head .dh-name{font-size:14px;font-weight:700}
+.day-head .dh-date{font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-wd{font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-count{margin-left:auto;font-size:12.5px;color:var(--ink-4)}
+.day-head .dh-wd-full{display:none}
+@media(min-width:700px){
+  .day-head{position:static;height:44px;margin:0;padding:0;background:transparent}
+  .day-head .dh-name{display:none}
+  .day-head .dh-date{font-size:18px;font-weight:600;color:var(--ink)}
+  .day-head .dh-wd{font-size:13px}
+  .day-head .dh-wd-short{display:none}
+  .day-head .dh-wd-full{display:inline}
+}
+.day-head:not(.is-today) .dh-date{display:none}
+@media(min-width:700px){.day-head:not(.is-today) .dh-date{display:inline;font-size:18px;font-weight:600}}
+.day-sec{margin-top:8px}
+.day-list{list-style:none;margin:0;padding:0}
+.slot{padding:14px 0;border-bottom:1px solid var(--line-soft)}
+.slot:last-child{border-bottom:0}
+.slot .slot-time,.slot .rail{display:none}
+@media(min-width:700px){
+  .slot{display:grid;grid-template-columns:64px 22px minmax(0,1fr);padding:0 0 12px;border-bottom:0}
+  .slot .slot-time{display:block;padding-top:17px;font-family:ui-monospace,Menlo,Consolas,monospace;
+    font-size:12.5px;font-weight:600;color:var(--ink-3)}
+  .slot .rail{display:block;position:relative}
+  .slot .rail::before{content:"";position:absolute;left:10.5px;top:29px;bottom:-13px;width:1px;background:var(--line-strong)}
+  .slot:last-child .rail::before{display:none}
+  .slot .rail::after{content:"";position:absolute;left:7.5px;top:25.5px;width:7px;height:7px;
+    border-radius:9999px;background:var(--accent);box-shadow:0 0 0 4px var(--bg)}
+  .slot .feed-item{margin-bottom:0}
+}
+
+.foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-4)}
+.foot p{margin:0 0 8px}
+@media(max-width:699px){.foot{padding-bottom:8px}}
 """
 
 
@@ -284,101 +472,306 @@ def esc(s):
     return html.escape(s or "", quote=True)
 
 
-def item_card(it, rank=None, show_score=True):
-    rank_html = f'<span class="rank">{rank}</span>' if rank else ""
-    score_html = f'<span class="score">{it["score"]} 分</span>' if show_score else ""
+WEEKDAYS = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
+WEEKDAYS_SHORT = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+
+# 线性描边小图标（feather 风格；不引入任何外部资源）
+ICONS = {
+    "zap": '<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>',
+    "list": '<line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/>'
+            '<line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/>'
+            '<line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>',
+    "trend": '<polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/>',
+    "doc": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>'
+           '<polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/>'
+           '<line x1="16" y1="17" x2="8" y2="17"/>',
+    "code": '<polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/>',
+    "moon": '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>',
+    "sun": '<circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/>'
+           '<line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>'
+           '<line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/>'
+           '<line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>'
+           '<line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>',
+}
+
+
+def icon(name, size=17):
+    return (f'<svg width="{size}" height="{size}" viewBox="0 0 24 24" fill="none" '
+            f'stroke="currentColor" stroke-width="2" stroke-linecap="round" '
+            f'stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>')
+
+
+def score_pill(score):
+    """AIHOT Score 的分档药丸：85+ 红、70+ 青、其余安静；手机只留数字。"""
+    tier = "t-hot" if score >= 85 else ("t-acc" if score >= 70 else "t-quiet")
+    return (f'<span class="score-pill {tier}" title="评分 {score}/100">'
+            f'<span class="lbl">评分</span><span class="sep"></span>'
+            f'<span class="num">{score}</span></span>')
+
+
+def _pub_dt(it):
     pub = it.get("_pub")
     if pub is None:  # daily.json 里的条目只有 ISO 字符串，没有 _pub
         pub = datetime.fromisoformat(it["published"])
         if pub.tzinfo is None:
             pub = pub.replace(tzinfo=timezone.utc)
-    return (f'<article class="card" data-category="{esc(it["category"])}">'
-            f'{score_html}{rank_html}'
-            f'<h3><a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a></h3>'
-            f'<div class="meta"><span class="tag">{esc(it["category_label"])}</span>'
-            f'{esc(it["source"])} · {esc(fmt_cst(pub))}</div>'
-            + (f'<div>{esc(it["summary"])}</div>' if it.get("summary") else "")
+    return pub
+
+
+def feed_item(it, rank=None, badge=False):
+    """AIHOT FeedItem 的静态版：来源行 + 标题 + 摘要 + 分类。"""
+    pub = _pub_dt(it)
+    rank_html = ""
+    if rank:
+        cls = "r1" if rank == 1 else ("r2" if rank == 2 else ("r3" if rank == 3 else ""))
+        rank_html = f'<span class="rank {cls}">{rank}</span>'
+    badge_html = '<span class="pick">精选</span>' if badge else ""
+    return (f'<article class="feed-item" data-category="{esc(it["category"])}">'
+            f'<header class="fi-head"><span class="src">{esc(it["source"])}</span>'
+            f'<time class="pt">· {esc(pub.astimezone(CST).strftime("%H:%M"))}</time>'
+            f'{badge_html}'
+            f'<span class="sp">{score_pill(it["score"])}</span></header>'
+            f'<h3>{rank_html}<a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a></h3>'
+            + (f'<p class="sum">{esc(it["summary"])}</p>' if it.get("summary") else "")
+            + f'<div class="fi-foot"><button type="button" class="chip cat" data-filter="{esc(it["category"])}">'
+            f'{esc(it["category_label"])}</button>'
+            f'<span class="when">{esc(fmt_cst(pub))}</span></div>'
             + "</article>")
 
 
-def render_index(site, cats, selected, hot, timeline, generated_at, counts):
-    cat_opts = "".join(
-        f'<button data-filter="{c["key"]}">{esc(c["label"])}</button>' for c in cats)
-    sel_html = "".join(item_card(it, rank=i + 1) for i, it in enumerate(selected)) \
-        or "<p>今日暂无达到精选门槛的条目。</p>"
-    hot_html = "".join(
-        f'<li><span class="rank">{i + 1}</span>'
-        f'<a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a>'
-        f' <span class="meta">（{esc(it["source"])} · {it["hot_score"]} 分）</span></li>'
-        for i, it in enumerate(hot)) or "<li>暂无热点。</li>"
-    tl_html = "".join(
-        f'<li data-category="{esc(it["category"])}">'
-        f'<span class="tag">{esc(it["category_label"])}</span>'
-        f'<a class="t" href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a>'
-        f'<div class="meta">{esc(it["source"])} · {esc(fmt_cst(it["_pub"]))} · {it["score"]} 分</div>'
-        f'<div>{esc(it["summary"])}</div></li>'
-        for it in timeline) or "<li>暂无动态。</li>"
-    return f"""<!DOCTYPE html>
-<html lang="zh-CN"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(site["title"])} · 今日精选与热点榜</title>
-<meta name="description" content="{esc(site["description"])}">
-<style>{CSS}</style></head>
-<body><div class="wrap">
-<header>{LOGO_SVG}<div><h1>{esc(site["name"])} <span style="color:var(--accent)">独立游戏热点</span></h1>
-<div class="sub">{esc(site["tagline"])}</div></div></header>
-<nav><a class="cur" href="index.html">首页</a><a href="daily.html">日报</a>
-<a href="data/hot.json">数据 JSON</a></nav>
-<p class="meta">更新于 {esc(generated_at)}（北京时间）· 最近 7 天共 {counts["total_7d"]} 条 ·
-精选 {counts["selected"]} 条 · 只显示标题与摘要，点击标题阅读原文。</p>
-<h2>🔥 今日精选</h2>
-{sel_html}
-<h2>📈 热点榜（近 7 天，按热度衰减排序）</h2>
-<ol>{hot_html}</ol>
-<h2>📰 全部动态</h2>
-<div class="filters"><button data-filter="all" class="on">全部</button>{cat_opts}</div>
-<ul class="tl" id="timeline">{tl_html}</ul>
-<footer>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。
-内容只作开发者资讯参考；本站不转载全文。信息架构参考 AIHOT 的
-采集—评分—精选—日报流水线，代码为本站原创，MIT 协议开源。</footer>
-</div>
+def hot_row(it, rank, pad=False):
+    """AIHOT HotTopics 的排名行：彩色名次 + 标题 + 热度分。"""
+    cls = "r1" if rank == 1 else ("r2" if rank == 2 else ("r3" if rank == 3 else ""))
+    num = f"{rank:02d}" if pad else str(rank)
+    return (f'<li><a class="hot-row" href="{esc(it["link"])}" target="_blank" rel="noopener">'
+            f'<span class="rank {cls}">{num}</span>'
+            f'<span class="t">{esc(it["title"])}</span>'
+            f'<span class="hot-heat"><b class="num">{round(it["hot_score"])}</b> 热度</span>'
+            f'</a></li>')
+
+THEME_BOOT = """<script>(function(){try{var t=localStorage.getItem('indiehot-theme');if(!t){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>"""
+
+SCRIPT = """
 <script>
-document.querySelectorAll('.filters button').forEach(function(b){{
-  b.addEventListener('click',function(){{
-    document.querySelectorAll('.filters button').forEach(function(x){{x.classList.remove('on')}});
-    b.classList.add('on');
-    var f=b.getAttribute('data-filter');
-    document.querySelectorAll('#timeline li').forEach(function(li){{
-      li.style.display=(f==='all'||li.getAttribute('data-category')===f)?'':'none';
-    }});
-  }});
-}});
+document.querySelectorAll('.theme-btn').forEach(function(b){b.addEventListener('click',function(){var h=document.documentElement;var n=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',n);try{localStorage.setItem('indiehot-theme',n);}catch(e){}});});
+function applyFilter(f){
+  document.querySelectorAll('.tabs .chip').forEach(function(x){x.classList.toggle('on',x.getAttribute('data-filter')===f);});
+  var shown=0;
+  document.querySelectorAll('#featured .feed-item').forEach(function(el){
+    var ok=f==='all'||el.getAttribute('data-category')===f;
+    el.style.display=ok?'':'none';
+  });
+  document.querySelectorAll('#timeline .slot').forEach(function(li){
+    var ok=f==='all'||li.getAttribute('data-category')===f;
+    li.style.display=ok?'':'none';
+    if(ok)shown++;
+  });
+  document.querySelectorAll('#timeline .day-sec').forEach(function(sec){
+    var vis=sec.querySelectorAll('.slot:not([style*="none"])').length;
+    sec.style.display=vis?'':'none';
+  });
+  var nr=document.getElementById('noResult');
+  if(nr)nr.style.display=shown?'none':'';
+}
+document.querySelectorAll('[data-filter]').forEach(function(b){
+  b.addEventListener('click',function(){applyFilter(b.getAttribute('data-filter'));});
+});
+var ht=document.getElementById('hotToggle'),he=document.getElementById('hotExtra');
+if(ht&&he){ht.addEventListener('click',function(){
+  if(he.hasAttribute('hidden')){he.removeAttribute('hidden');ht.innerHTML='收起榜单 <span aria-hidden="true">↑</span>';}
+  else{he.setAttribute('hidden','');ht.innerHTML='完整榜单 <span aria-hidden="true">→</span>';}
+});}
+document.querySelectorAll('.tabbar a').forEach(function(a){
+  a.addEventListener('click',function(){
+    document.querySelectorAll('.tabbar a').forEach(function(x){x.classList.remove('on');});
+    a.classList.add('on');
+  });
+});
 </script>
-</body></html>
 """
+
+
+def _logo(size):
+    return LOGO_SVG.replace('width="44" height="44"',
+                            f'width="{size}" height="{size}"')
+
+
+def _nav_items(prefix):
+    """prefix：首页为 ''（站内锚点），日报页为 'index.html'。"""
+    def h(ref):
+        return f"{prefix}#{ref}" if prefix else f"#{ref}"
+    return [
+        ("featured", "精选", "zap", h("featured")),
+        ("all", "全部动态", "list", h("timeline")),
+        ("hot", "热点榜", "trend", h("hot")),
+        ("daily", "日报", "doc", "daily.html" if not prefix else "#"),
+    ]
+
+
+def sidebar_html(site, active, prefix=""):
+    items = _nav_items(prefix)
+    links = "".join(
+        f'<a class="side-link{" on" if key == active else ""}" href="{href}">'
+        f'{icon(ic)}<span>{label}</span></a>'
+        for key, label, ic, href in items)
+    return (f'<aside class="sidebar"><a class="brand" href="index.html">{_logo(32)}'
+            f'<span><b>IndieHOT</b><small>独立游戏开发者热点</small></span></a>'
+            f'<nav aria-label="主导航"><div class="nav-sec"><h3>内容</h3>{links}</div>'
+            f'<div class="nav-sec"><h3>更多</h3>'
+            f'<a class="side-link" href="data/hot.json">{icon("code")}<span>数据 JSON</span></a>'
+            f'</div></nav>'
+            f'<div class="side-foot">'
+            f'<a class="gh" href="https://github.com/Staroltest/indie-game-hot" target="_blank" rel="noopener">GitHub 仓库</a>'
+            f'<p class="note">每天 {esc(site["edition_time_cst"])} 出日报</p>'
+            f'</div></aside>')
+
+
+def rail_html(active, prefix=""):
+    items = _nav_items(prefix)
+    links = "".join(
+        f'<a class="rail-link{" on" if key == active else ""}" href="{href}">'
+        f'{icon(ic, 20)}<span>{label}</span></a>'
+        for key, label, ic, href in items)
+    return (f'<aside class="rail"><a class="brand" href="index.html" aria-label="IndieHOT 首页">'
+            f'{_logo(28)}</a><nav aria-label="主导航">{links}</nav></aside>')
+
+
+def _theme_btn():
+    return ('<button type="button" class="icon-btn theme-btn" aria-label="切换深色 / 浅色">'
+            f'<span class="ic-moon">{icon("moon", 20)}</span>'
+            f'<span class="ic-sun">{icon("sun", 20)}</span></button>')
+
+
+def topbar_html(active, prefix=""):
+    if active == "daily":
+        center = '<span class="title">日报</span>'
+    else:
+        def h(ref):
+            return f"{prefix}#{ref}" if prefix else f"#{ref}"
+        center = (f'<span class="switch"><a class="on" href="{h("featured")}">精选</a>'
+                  f'<a href="{h("timeline")}">全部</a></span>')
+    return (f'<header class="topbar"><a class="brand" href="index.html">{_logo(26)}<b>IndieHOT</b></a>'
+            f'{center}{_theme_btn()}</header>')
+
+
+def tabbar_html(active, prefix=""):
+    def h(ref):
+        return f"{prefix}#{ref}" if prefix else f"#{ref}"
+    tabs = [
+        ("featured", "精选", "zap", h("featured")),
+        ("hot", "热点", "trend", h("hot")),
+        ("daily", "日报", "doc", "daily.html" if not prefix else "#"),
+        ("all", "全部", "list", h("timeline")),
+    ]
+    links = "".join(
+        f'<a class="{"on" if key == active else ""}" href="{href}">'
+        f'{icon(ic, 20)}<span>{label}</span></a>'
+        for key, label, ic, href in tabs)
+    return f'<nav class="tabbar" aria-label="主导航">{links}</nav>'
+
+
+def footer_html():
+    return ('<footer class="foot"><p>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。'
+            '内容只作开发者资讯参考；本站不转载全文。</p>'
+            '<p>信息架构与界面风格参考 AIHOT（采集—评分—精选—日报流水线、暖纸底色与侧栏导航），'
+            '代码为本站原创，MIT 协议开源。 · '
+            '<a href="https://github.com/Staroltest/indie-game-hot">GitHub 仓库</a></p></footer>')
+
+
+def page_open(site, active, title, description, prefix=""):
+    return (f"<!DOCTYPE html>\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\">\n"
+            f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
+            f"<title>{esc(title)}</title>\n"
+            f"<meta name=\"description\" content=\"{esc(description)}\">\n"
+            f"{THEME_BOOT}<style>{CSS}</style></head>\n<body>"
+            f'<div class="shell">{sidebar_html(site, active, prefix)}{rail_html(active, prefix)}'
+            f'<div class="main">{topbar_html(active, prefix)}<div class="page">')
+
+
+def page_close(site, active, prefix=""):
+    return (f"{footer_html()}</div></div></div>{tabbar_html(active, prefix)}{SCRIPT}</body></html>\n")
+
+
+def day_header(d, items, today):
+    is_today = d == today
+    name = "今天" if is_today else f"{d.month}月{d.day}日"
+    cls = "day-head is-today" if is_today else "day-head"
+    return (f'<header class="{cls}">'
+            f'<span class="dh-name">{name}</span>'
+            f'<span class="dh-date">{d.month}月{d.day}日</span>'
+            f'<span class="dh-wd dh-wd-short">{WEEKDAYS_SHORT[d.weekday()]}</span>'
+            f'<span class="dh-wd dh-wd-full">{WEEKDAYS[d.weekday()]}</span>'
+            f'<span class="dh-count"><b class="num">{len(items)}</b> 条</span></header>')
+
+
+def timeline_slot(it, sel_ids):
+    pub = it["_pub"].astimezone(CST)
+    badge = it["id"] in sel_ids
+    return (f'<li class="slot" data-category="{esc(it["category"])}">'
+            f'<time class="slot-time" datetime="{pub.isoformat()}">{pub.strftime("%H:%M")}</time>'
+            f'<span class="rail" aria-hidden="true"></span>'
+            f'{feed_item(it, badge=badge)}</li>')
+
+
+def render_index(site, cats, selected, hot, timeline, generated_at, counts):
+    sel_ids = {it["id"] for it in selected}
+    cat_opts = "".join(
+        f'<button type="button" class="chip" data-filter="{c["key"]}">{esc(c["label"])}</button>'
+        for c in cats)
+    sel_html = "".join(feed_item(it, badge=True) for it in selected) \
+        or "<p>今日暂无达到精选门槛的条目。</p>"
+    top5 = hot[:5]
+    extra = hot[5:]
+    hot_html = "".join(hot_row(it, i + 1) for i, it in enumerate(top5)) \
+        or "<li>暂无热点。</li>"
+    extra_html = "".join(hot_row(it, i + 6, pad=True) for i, it in enumerate(extra))
+    hot_more = ('<button type="button" class="hot-more" id="hotToggle">'
+                '完整榜单 <span aria-hidden="true">→</span></button>') if extra else ""
+    days = {}
+    for it in timeline:
+        days.setdefault(it["_pub"].astimezone(CST).date(), []).append(it)
+    today = datetime.now(CST).date()
+    tl_sections = ""
+    for d, items in days.items():
+        slots = "".join(timeline_slot(it, sel_ids) for it in items)
+        tl_sections += (f'<section class="day-sec">{day_header(d, items, today)}'
+                        f'<ol class="day-list">{slots}</ol></section>')
+    return (page_open(site, "featured", f'{site["title"]} · 今日精选与热点榜',
+                      site["description"])
+            + f'<h1>精选</h1>'
+            + f'<p class="lede">更新于 {esc(generated_at)}（北京时间）· 最近 7 天共 {counts["total_7d"]} 条 · '
+            f'精选 {counts["selected"]} 条 · 只显示标题与摘要，点击标题阅读原文。</p>'
+            + f'<div class="tabs" role="tablist" aria-label="分类筛选">'
+            f'<button type="button" class="chip on" data-filter="all">全部</button>{cat_opts}</div>'
+            + f'<div id="featured">{sel_html}</div>'
+            + f'<section class="card hot-card" id="hot" aria-labelledby="hot-topics">'
+            f'<div class="hot-head"><h2 id="hot-topics"><span class="live" aria-hidden="true">'
+            f'<span class="ping"></span><span class="dot"></span></span>当前热点</h2>{hot_more}</div>'
+            f'<ol class="hot-list">{hot_html}</ol>'
+            + (f'<ol class="hot-list" id="hotExtra" hidden>{extra_html}</ol>' if extra else "")
+            + '</section>'
+            + f'<h2 class="sec" id="timeline">全部动态</h2>'
+            + tl_sections
+            + '<p id="noResult" hidden>这个分类下暂无动态。</p>'
+            + page_close(site, "featured"))
 
 
 def render_daily(site, daily):
-    items_html = "".join(item_card(it, rank=i + 1) for i, it in enumerate(daily["items"])) \
+    items_html = "".join(feed_item(it, rank=i + 1) for i, it in enumerate(daily["items"])) \
         or "<p>过去 24 小时没有达到精选门槛的条目。</p>"
-    return f"""<!DOCTYPE html>
-<html lang="zh-CN"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(site["name"])}日报 · {esc(daily["date"])}</title>
-<meta name="description" content="{esc(site["description"])}">
-<style>{CSS}</style></head>
-<body><div class="wrap">
-<header>{LOGO_SVG}<div><h1>{esc(site["name"])}日报</h1>
-<div class="sub">{esc(daily["date"])} · 每天 {esc(site["edition_time_cst"])} 出刊</div></div></header>
-<nav><a href="index.html">首页</a><a class="cur" href="daily.html">日报</a>
-<a href="data/daily.json">数据 JSON</a></nav>
-<p>{esc(daily["summary"])}</p>
-<h2>今日精选 {len(daily["items"])} 条</h2>
-{items_html}
-<footer>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。
-内容只作开发者资讯参考；本站不转载全文。</footer>
-</div></body></html>
-"""
+    try:
+        wd = WEEKDAYS[datetime.strptime(daily["date"], "%Y年%m月%d日").weekday()]
+    except ValueError:
+        wd = ""
+    return (page_open(site, "daily", f'{site["name"]}日报 · {daily["date"]}',
+                      site["description"], prefix="index.html")
+            + f'<div class="report-shell"><h1>{esc(site["name"])}日报</h1>'
+            + f'<p class="lede">{esc(daily["date"])} {wd} · 每天 {esc(site["edition_time_cst"])} 出刊</p>'
+            + f'<div class="well" style="margin-top:16px"><span class="kicker">今日速览</span>'
+            f'<p>{esc(daily["summary"])}</p></div>'
+            + f'<h2 class="sec">今日精选 {len(daily["items"])} 条</h2>'
+            + items_html + "</div>"
+            + page_close(site, "daily", prefix="index.html"))
 
 
 # ---------------------------------------------------------------- 主流程

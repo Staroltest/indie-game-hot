@@ -1,7 +1,7 @@
 {
  "date": "2026年11月09日",
- "generated_at": "2026-11-09T12:55:36.813177+00:00",
- "summary": "过去 24 小时共收录 23 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag。",
+ "generated_at": "2026-11-09T14:20:41.243089+00:00",
+ "summary": "过去 24 小时共收录 29 条动态，精选 10 条（引擎与工具 6 条、行业与融资 2 条、开发日志 1 条、发行与宣发 1 条）。头条：Reimagining Street Fighter 6’s A.K.I. in ZBrush & Marmoset Toolbag。",
  "items": [
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -14,7 +14,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.7
+   "hot_score": 83.6
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -27,7 +27,20 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 86,
-   "hot_score": 84.6
+   "hot_score": 83.4
+  },
+  {
+   "id": "5c1cb086f4017f7a332187ad77daf95128266441",
+   "title": "How to Make Hand-Painted Base Generator in Substance 3D Designer",
+   "link": "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-09T13:39:00+00:00",
+   "summary": "Theresa Schlag showed us how she created her hand-painted base generator using Substance 3D tools, worked with gradients, and faced challenges handling graphs.",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 83,
+   "hot_score": 82.5
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -40,7 +53,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 79.6
+   "hot_score": 78.6
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -53,7 +66,7 @@
    "category": "devlog",
    "category_label": "开发日志",
    "score": 80,
-   "hot_score": 78.9
+   "hot_score": 77.9
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -66,7 +79,7 @@
    "category": "industry",
    "category_label": "行业与融资",
    "score": 80,
-   "hot_score": 77.7
+   "hot_score": 76.6
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -79,7 +92,7 @@
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -92,7 +105,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.8
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -105,7 +118,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 79.8
+   "hot_score": 78.7
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -118,20 +131,7 @@
    "category": "engine",
    "category_label": "引擎与工具",
    "score": 80,
-   "hot_score": 78.7
-  },
-  {
-   "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
-   "title": "Ubisoft Reportedly Working On Two New Assassin's Creed Games",
-   "link": "https://80.lv/articles/ubisoft-reportedly-working-on-two-new-assassin-s-creed-games",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T09:16:00+00:00",
-   "summary": "One of them may take players back to Ancient Rome.",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 80,
-   "hot_score": 77.3
+   "hot_score": 77.6
   }
  ]
 }
