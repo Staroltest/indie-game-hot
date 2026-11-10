@@ -319,7 +319,7 @@ button{cursor:pointer;font:inherit}
 
 /* ---- 壳：侧栏 / 窄轨 / 主列 / 手机顶栏与底栏 ---- */
 .shell{display:flex;min-height:100dvh}
-.sidebar,.rail{display:none}
+.sidebar,aside.rail{display:none}
 .main{flex:1;min-width:0}
 /* 列表宽度：桌面撑满主列，上限 max(1200px, 270dvh-236px)，超宽屏再居中 */
 .page{max-width:640px;width:100%;margin:0 auto;padding:0 16px 96px}
@@ -327,13 +327,13 @@ button{cursor:pointer;font:inherit}
   .page{max-width:var(--page-max-wide);padding:0 20px 48px}
 }
 @media(min-width:700px){
-  .rail{display:flex;position:sticky;top:0;height:100dvh;width:64px;flex-shrink:0;
+  aside.rail{display:flex;position:sticky;top:0;height:100dvh;width:64px;flex-shrink:0;
     flex-direction:column;align-items:center;border-right:1px solid var(--line);
     background:var(--sidebar);padding:20px 6px 14px}
 }
 @media(min-width:941px){
   .page{padding:0 28px 48px}
-  .rail{display:none}
+  aside.rail{display:none}
   .sidebar{display:flex;position:sticky;top:0;height:100dvh;width:180px;flex-shrink:0;
     flex-direction:column;border-right:1px solid var(--line);background:var(--sidebar);
     padding:24px 12px 14px}
@@ -363,7 +363,7 @@ button{cursor:pointer;font:inherit}
 .rail-link.on{background:rgba(23,107,117,.10);font-weight:600;color:var(--ink)}
 [data-theme="dark"] .side-link.on,[data-theme="dark"] .rail-link.on{background:var(--accent-soft)}
 .rail-link.on svg{color:var(--accent)}
-.rail .brand{margin-bottom:12px}
+aside.rail .brand{margin-bottom:12px}
 
 /* 手机顶栏：品牌 + 精选|全部切换 + 外观按钮 */
 .topbar{position:sticky;top:0;z-index:30;display:flex;height:var(--bar-h);align-items:center;gap:8px;
@@ -571,7 +571,7 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
   .slot{display:grid;grid-template-columns:64px 22px minmax(0,1fr);padding:0 0 12px;border-bottom:0}
   .slot .slot-time{display:block;padding-top:17px;font-family:ui-monospace,Menlo,Consolas,monospace;
     font-size:12.5px;font-weight:600;color:var(--ink-3)}
-  .slot .rail{display:block;position:relative}
+  .slot .rail{display:block;position:relative;width:auto;height:auto;background:transparent;padding:0;border:0}
   .slot .rail::before{content:"";position:absolute;left:10.5px;top:29px;bottom:-13px;width:1px;background:var(--line-strong)}
   .slot:last-child .rail::before{display:none}
   .slot .rail::after{content:"";position:absolute;left:7.5px;top:25.5px;width:7px;height:7px;

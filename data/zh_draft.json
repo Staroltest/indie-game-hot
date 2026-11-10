@@ -466,5 +466,29 @@
  "https://www.sandromaglione.com/articles/indie-game-development-with-ai": {
   "zh_title": "用 AI 做独立游戏开发",
   "zh_summary": ""
+ },
+ "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177": {
+  "zh_title": "发布游戏试玩 Demo？防 AI 克隆的法律步骤",
+  "zh_summary": "10 月 Steam 新品节上展出了 8,000 多个游戏 Demo，但也有一些计划中的 Demo 没能参展。比如 Alliance Art……"
+ },
+ "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology": {
+  "zh_title": "求反馈：玩家心理由什么构成？",
+  "zh_summary": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我正在……"
+ },
+ "https://gamedev.net/forums/topic/720809-creating-iosandroid-game": {
+  "zh_title": "做一款 iOS/Android 游戏",
+  "zh_summary": "大家好，我叫 Marshall。我计划做一款让人印象深刻的手游，完全没有广告和“pay-to-win”机制。简单说，……"
+ },
+ "https://gamedev.net/forums/topic/720808-four-spacecraft-asset-packs-procedural-sfx-ambience-and-vector-ui-free-browser-samples": {
+  "zh_title": "四套飞船素材包：程序化音效、环境音与矢量 UI，浏览器可免费试听",
+  "zh_summary": "我以 Derico 的名字在 itch.io 上发布这些素材包，覆盖飞船主题项目的四个层面，每页都有免费试听和浏览器可看的简短演示视频……"
+ },
+ "https://gamedev.net/forums/topic/720807-clean-the-map-city-cleanup-my-free-relaxing-idle-game-is-out-on-ios": {
+  "zh_title": "《Clean The Map：城市清理》：我的免费休闲放置游戏已上架 iOS",
+  "zh_summary": "大家好！我是 Afonso，一名独立开发者，我的游戏刚上架 App Store。昨晚 Brightwater 市举办了有史以来最大的 SUNFEST 节日，今天早上却有 1……"
+ },
+ "https://gamedev.net/forums/topic/720806-hobbyunpaidgodot-4-kagami-recruiting-programmers-and-2d-artists": {
+  "zh_title": "[爱好][无偿][Godot 4]《KAGAMI》招募程序员与 2D 美术",
+  "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……"
  }
 }

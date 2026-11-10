@@ -1,7 +1,7 @@
 {
  "date": "2026年11月10日",
- "generated_at": "2026-11-10T00:51:35.273997+00:00",
- "summary": "过去 24 小时共收录 48 条动态，精选 10 条（引擎与工具 7 条、开发日志 2 条、行业与融资 1 条）。头条：用 ZBrush 与 Marmoset Toolbag 重塑《Street Fighter 6》的 A.K.I.。",
+ "generated_at": "2026-11-10T01:22:07.749930+00:00",
+ "summary": "过去 24 小时共收录 52 条动态，精选 10 条（引擎与工具 7 条、开发日志 2 条、行业与融资 1 条）。头条：用 ZBrush 与 Marmoset Toolbag 重塑《Street Fighter 6》的 A.K.I.。",
  "items": [
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -18,8 +18,8 @@
    "score": 80,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.5
+   "trend": "same",
+   "hot_score": 70.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -36,8 +36,8 @@
    "score": 80,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.4
+   "trend": "same",
+   "hot_score": 70.1
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -55,7 +55,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 71.0
+   "hot_score": 70.6
   },
   {
    "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
@@ -73,7 +73,7 @@
    "reason": "涉及revenue · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.4
+   "hot_score": 77.1
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -91,7 +91,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.8
+   "hot_score": 62.5
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -109,7 +109,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.6
+   "hot_score": 67.3
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -127,7 +127,7 @@
    "reason": "涉及engine · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.5
+   "hot_score": 68.2
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -144,8 +144,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.8
+   "trend": "same",
+   "hot_score": 72.5
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -162,8 +162,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.5
+   "trend": "same",
+   "hot_score": 71.2
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -180,8 +180,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 73.3
+   "trend": "same",
+   "hot_score": 72.9
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T00:51:35.273997+00:00",
- "generated_at_cst": "2026年11月10日 08:51",
+ "generated_at": "2026-11-10T01:22:07.749930+00:00",
+ "generated_at_cst": "2026年11月10日 09:22",
  "counts": {
-  "total_7d": 147,
+  "total_7d": 151,
   "selected": 10,
   "hot": 20,
   "timeline": 100
@@ -23,8 +23,8 @@
    "score": 80,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.5
+   "trend": "same",
+   "hot_score": 70.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -41,8 +41,8 @@
    "score": 80,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.4
+   "trend": "same",
+   "hot_score": 70.1
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -60,7 +60,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 71.0
+   "hot_score": 70.6
   },
   {
    "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
@@ -78,7 +78,7 @@
    "reason": "涉及revenue · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.4
+   "hot_score": 77.1
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -96,7 +96,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.8
+   "hot_score": 62.5
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -114,7 +114,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.6
+   "hot_score": 67.3
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -132,7 +132,7 @@
    "reason": "涉及engine · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.5
+   "hot_score": 68.2
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -149,8 +149,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.8
+   "trend": "same",
+   "hot_score": 72.5
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -167,8 +167,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.5
+   "trend": "same",
+   "hot_score": 71.2
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -185,8 +185,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 73.3
+   "trend": "same",
+   "hot_score": 72.9
   }
  ],
  "hot": [
@@ -206,7 +206,25 @@
    "reason": "涉及revenue · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.4
+   "hot_score": 77.1
+  },
+  {
+   "id": "c8b2370916808acae9feebd53d6a1fb504f1f9e3",
+   "title": "[HOBBY][UNPAID][GODOT 4] KAGAMI — Recruiting Programmers and 2D Artists",
+   "link": "https://gamedev.net/forums/topic/720806-hobbyunpaidgodot-4-kagami-recruiting-programmers-and-2d-artists",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:47:31+00:00",
+   "summary": "Hello everyone! I'm the solo creator of KAGAMI , a Japanese-inspired 2D psychological pixel-horror game developed with Godot 4 under SK3 Productions. Chapter 1 is already released and playable , and I…",
+   "zh_title": "[爱好][无偿][Godot 4]《KAGAMI》招募程序员与 2D 美术",
+   "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 75,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 73.9
   },
   {
    "id": "14c259b5b69f97353d329fcc727379d164f750e6",
@@ -216,15 +234,15 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T23:17:24+00:00",
    "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
-   "zh_title": "",
-   "zh_summary": "",
+   "zh_title": "发布游戏试玩 Demo？防 AI 克隆的法律步骤",
+   "zh_summary": "10 月 Steam 新品节上展出了 8,000 多个游戏 Demo，但也有一些计划中的 Demo 没能参展。比如 Alliance Art……",
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.9
+   "trend": "same",
+   "hot_score": 73.6
   },
   {
    "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
@@ -234,15 +252,15 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T23:06:28+00:00",
    "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
-   "zh_title": "",
-   "zh_summary": "",
+   "zh_title": "求反馈：玩家心理由什么构成？",
+   "zh_summary": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我正在……",
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.8
+   "trend": "same",
+   "hot_score": 73.4
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -259,8 +277,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 73.3
+   "trend": "same",
+   "hot_score": 72.9
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -277,8 +295,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.8
+   "trend": "same",
+   "hot_score": 72.5
   },
   {
    "id": "664139c220390900937d364a172c9f546e7d222e",
@@ -295,8 +313,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.7
+   "trend": "same",
+   "hot_score": 72.4
   },
   {
    "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
@@ -313,8 +331,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.8
+   "trend": "same",
+   "hot_score": 71.5
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -331,8 +349,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.5
+   "trend": "same",
+   "hot_score": 71.2
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -350,7 +368,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 71.0
+   "hot_score": 70.6
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -367,8 +385,8 @@
    "score": 80,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.5
+   "trend": "same",
+   "hot_score": 70.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -385,8 +403,62 @@
    "score": 80,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.4
+   "trend": "same",
+   "hot_score": 70.1
+  },
+  {
+   "id": "ff6a68d9a441cbb03f86e412bae2fecc0745569d",
+   "title": "Creating IOS/Android Game",
+   "link": "https://gamedev.net/forums/topic/720809-creating-iosandroid-game",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:59:10+00:00",
+   "summary": "Hello, my name is Marshall. For some time now, I have been planning to create a mobile game that leaves a lasting impression—one completely free of advertisements or \"pay-to-win\" mechanics. In short,…",
+   "zh_title": "做一款 iOS/Android 游戏",
+   "zh_summary": "大家好，我叫 Marshall。我计划做一款让人印象深刻的手游，完全没有广告和“pay-to-win”机制。简单说，……",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.8
+  },
+  {
+   "id": "4e558d08a93ed8d11d7a122cfdd82e3e859a4f70",
+   "title": "Four spacecraft asset packs: procedural SFX, ambience and vector UI — free browser samples",
+   "link": "https://gamedev.net/forums/topic/720808-four-spacecraft-asset-packs-procedural-sfx-ambience-and-vector-ui-free-browser-samples",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:51:26+00:00",
+   "summary": "I publish these packs as Derico on itch.io . They cover four separate layers of a spacecraft-themed project, and each page has free samples plus a short presentation video you can open in your browser…",
+   "zh_title": "四套飞船素材包：程序化音效、环境音与矢量 UI，浏览器可免费试听",
+   "zh_summary": "我以 Derico 的名字在 itch.io 上发布这些素材包，覆盖飞船主题项目的四个层面，每页都有免费试听和浏览器可看的简短演示视频……",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.7
+  },
+  {
+   "id": "0002678da510f2216b9a268f14fe0087cd41a4d0",
+   "title": "Clean The Map: City Cleanup - my free relaxing idle game is out on iOS",
+   "link": "https://gamedev.net/forums/topic/720807-clean-the-map-city-cleanup-my-free-relaxing-idle-game-is-out-on-ios",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:08:37+00:00",
+   "summary": "Hi everyone! I'm Afonso, a solo indie developer, and I just released my game on the App Store. Last night the city of Brightwater threw SUNFEST, its biggest festival ever, and this morning there are 1…",
+   "zh_title": "《Clean The Map：城市清理》：我的免费休闲放置游戏已上架 iOS",
+   "zh_summary": "大家好！我是 Afonso，一名独立开发者，我的游戏刚上架 App Store。昨晚 Brightwater 市举办了有史以来最大的 SUNFEST 节日，今天早上却有 1……",
+   "category": "events",
+   "category_label": "展会与活动",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.2
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -403,8 +475,8 @@
    "score": 75,
    "reason": "涉及tool、performance · 24 小时内发布",
    "is_new": true,
-   "trend": "up",
-   "hot_score": 69.1
+   "trend": "same",
+   "hot_score": 68.8
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -422,7 +494,7 @@
    "reason": "涉及engine · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.5
+   "hot_score": 68.2
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -440,7 +512,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.6
+   "hot_score": 67.3
   },
   {
    "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
@@ -457,8 +529,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 66.1
+   "trend": "same",
+   "hot_score": 65.8
   },
   {
    "id": "081fabed4ae40dc7c517842b5e142be750db3226",
@@ -475,83 +547,83 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 65.4
-  },
-  {
-   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
-   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
-   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T17:30:00+00:00",
-   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
-   "zh_title": "《战锤 40K：暗黑异端》明年 1 月发售，留给玩家准备的时间不多了",
-   "zh_summary": "这款 CRPG 已确认明年 1 月发售，玩家很快就要面对大量艰难抉择与秘密战争。",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 65.4
-  },
-  {
-   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
-   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
-   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T17:05:10+00:00",
-   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
-   "zh_title": "《Swarmbreaker》：敌人如流体般聚拢、碰撞、流动的迷人塔防游戏",
-   "zh_summary": "这款塔防新作中敌人会像流体一样聚拢、碰撞与流动，观感格外迷人。",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": true,
    "trend": "same",
    "hot_score": 65.1
-  },
-  {
-   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
-   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T16:39:06+00:00",
-   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-   "zh_title": "《魔兽世界：Forever》成系列史上最大规模上线，同时在线人数创纪录",
-   "zh_summary": "暴雪这款备受期待的作品上线表现亮眼，成为 Xbox 业务的一大亮点。",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 64.9
-  },
-  {
-   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
-   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
-   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:30:00+00:00",
-   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
-   "zh_title": "世嘉第三方邮件服务商遭网络攻击，超 200 万邮箱泄露，世嘉账号未受影响",
-   "zh_summary": "世嘉透露，因日本邮件服务商 Arara 遭攻击，超 200 万个邮箱地址泄露，但世嘉账号本身未受影响。",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 64.8
   }
  ],
  "timeline": [
+  {
+   "id": "ff6a68d9a441cbb03f86e412bae2fecc0745569d",
+   "title": "Creating IOS/Android Game",
+   "link": "https://gamedev.net/forums/topic/720809-creating-iosandroid-game",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:59:10+00:00",
+   "summary": "Hello, my name is Marshall. For some time now, I have been planning to create a mobile game that leaves a lasting impression—one completely free of advertisements or \"pay-to-win\" mechanics. In short,…",
+   "zh_title": "做一款 iOS/Android 游戏",
+   "zh_summary": "大家好，我叫 Marshall。我计划做一款让人印象深刻的手游，完全没有广告和“pay-to-win”机制。简单说，……",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.8
+  },
+  {
+   "id": "4e558d08a93ed8d11d7a122cfdd82e3e859a4f70",
+   "title": "Four spacecraft asset packs: procedural SFX, ambience and vector UI — free browser samples",
+   "link": "https://gamedev.net/forums/topic/720808-four-spacecraft-asset-packs-procedural-sfx-ambience-and-vector-ui-free-browser-samples",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:51:26+00:00",
+   "summary": "I publish these packs as Derico on itch.io . They cover four separate layers of a spacecraft-themed project, and each page has free samples plus a short presentation video you can open in your browser…",
+   "zh_title": "四套飞船素材包：程序化音效、环境音与矢量 UI，浏览器可免费试听",
+   "zh_summary": "我以 Derico 的名字在 itch.io 上发布这些素材包，覆盖飞船主题项目的四个层面，每页都有免费试听和浏览器可看的简短演示视频……",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.7
+  },
+  {
+   "id": "0002678da510f2216b9a268f14fe0087cd41a4d0",
+   "title": "Clean The Map: City Cleanup - my free relaxing idle game is out on iOS",
+   "link": "https://gamedev.net/forums/topic/720807-clean-the-map-city-cleanup-my-free-relaxing-idle-game-is-out-on-ios",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-10T00:08:37+00:00",
+   "summary": "Hi everyone! I'm Afonso, a solo indie developer, and I just released my game on the App Store. Last night the city of Brightwater threw SUNFEST, its biggest festival ever, and this morning there are 1…",
+   "zh_title": "《Clean The Map：城市清理》：我的免费休闲放置游戏已上架 iOS",
+   "zh_summary": "大家好！我是 Afonso，一名独立开发者，我的游戏刚上架 App Store。昨晚 Brightwater 市举办了有史以来最大的 SUNFEST 节日，今天早上却有 1……",
+   "category": "events",
+   "category_label": "展会与活动",
+   "score": 70,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 69.2
+  },
+  {
+   "id": "c8b2370916808acae9feebd53d6a1fb504f1f9e3",
+   "title": "[HOBBY][UNPAID][GODOT 4] KAGAMI — Recruiting Programmers and 2D Artists",
+   "link": "https://gamedev.net/forums/topic/720806-hobbyunpaidgodot-4-kagami-recruiting-programmers-and-2d-artists",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:47:31+00:00",
+   "summary": "Hello everyone! I'm the solo creator of KAGAMI , a Japanese-inspired 2D psychological pixel-horror game developed with Godot 4 under SK3 Productions. Chapter 1 is already released and playable , and I…",
+   "zh_title": "[爱好][无偿][Godot 4]《KAGAMI》招募程序员与 2D 美术",
+   "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 75,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 73.9
+  },
   {
    "id": "14c259b5b69f97353d329fcc727379d164f750e6",
    "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
@@ -560,15 +632,15 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T23:17:24+00:00",
    "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
-   "zh_title": "",
-   "zh_summary": "",
+   "zh_title": "发布游戏试玩 Demo？防 AI 克隆的法律步骤",
+   "zh_summary": "10 月 Steam 新品节上展出了 8,000 多个游戏 Demo，但也有一些计划中的 Demo 没能参展。比如 Alliance Art……",
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.9
+   "trend": "same",
+   "hot_score": 73.6
   },
   {
    "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
@@ -578,15 +650,15 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T23:06:28+00:00",
    "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
-   "zh_title": "",
-   "zh_summary": "",
+   "zh_title": "求反馈：玩家心理由什么构成？",
+   "zh_summary": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我正在……",
    "category": "devlog",
    "category_label": "开发日志",
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.8
+   "trend": "same",
+   "hot_score": 73.4
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -603,8 +675,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 73.3
+   "trend": "same",
+   "hot_score": 72.9
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -621,8 +693,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.8
+   "trend": "same",
+   "hot_score": 72.5
   },
   {
    "id": "664139c220390900937d364a172c9f546e7d222e",
@@ -639,8 +711,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 72.7
+   "trend": "same",
+   "hot_score": 72.4
   },
   {
    "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
@@ -658,7 +730,7 @@
    "reason": "涉及revenue · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.4
+   "hot_score": 77.1
   },
   {
    "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
@@ -675,8 +747,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.8
+   "trend": "same",
+   "hot_score": 71.5
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -693,8 +765,8 @@
    "score": 75,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 71.5
+   "trend": "same",
+   "hot_score": 71.2
   },
   {
    "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
@@ -711,8 +783,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 66.1
+   "trend": "same",
+   "hot_score": 65.8
   },
   {
    "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
@@ -730,7 +802,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 60.8
+   "hot_score": 60.5
   },
   {
    "id": "081fabed4ae40dc7c517842b5e142be750db3226",
@@ -747,8 +819,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 65.4
+   "trend": "same",
+   "hot_score": 65.1
   },
   {
    "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
@@ -765,8 +837,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 65.4
+   "trend": "same",
+   "hot_score": 65.1
   },
   {
    "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
@@ -784,7 +856,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.1
+   "hot_score": 64.8
   },
   {
    "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
@@ -802,7 +874,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 64.9
+   "hot_score": 64.6
   },
   {
    "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
@@ -820,7 +892,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 64.8
+   "hot_score": 64.5
   },
   {
    "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
@@ -838,7 +910,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 64.8
+   "hot_score": 64.5
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -855,8 +927,8 @@
    "score": 75,
    "reason": "涉及tool、performance · 24 小时内发布",
    "is_new": true,
-   "trend": "up",
-   "hot_score": 69.1
+   "trend": "same",
+   "hot_score": 68.8
   },
   {
    "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
@@ -874,7 +946,7 @@
    "reason": "24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 64.5
+   "hot_score": 64.2
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -892,7 +964,7 @@
    "reason": "涉及engine · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.5
+   "hot_score": 68.2
   },
   {
    "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
@@ -910,7 +982,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.9
+   "hot_score": 63.6
   },
   {
    "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
@@ -928,7 +1000,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.6
+   "hot_score": 63.3
   },
   {
    "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
@@ -946,7 +1018,7 @@
    "reason": "涉及lesson · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.6
+   "hot_score": 63.3
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -964,7 +1036,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.3
+   "hot_score": 63.0
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -982,7 +1054,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.6
+   "hot_score": 67.3
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -1000,7 +1072,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.1
+   "hot_score": 62.8
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -1018,7 +1090,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.0
+   "hot_score": 62.7
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -1036,7 +1108,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.8
+   "hot_score": 62.5
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -1054,7 +1126,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.7
+   "hot_score": 62.4
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -1072,7 +1144,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.5
+   "hot_score": 62.2
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -1090,7 +1162,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.5
+   "hot_score": 62.2
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -1108,7 +1180,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.5
+   "hot_score": 62.2
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -1126,7 +1198,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.4
+   "hot_score": 62.1
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -1144,7 +1216,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 71.0
+   "hot_score": 70.6
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -1162,7 +1234,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.8
+   "hot_score": 61.5
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -1180,7 +1252,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.4
+   "hot_score": 57.1
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -1197,8 +1269,8 @@
    "score": 80,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.5
+   "trend": "same",
+   "hot_score": 70.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -1215,8 +1287,8 @@
    "score": 80,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "up",
-   "hot_score": 70.4
+   "trend": "same",
+   "hot_score": 70.1
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -1234,7 +1306,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.6
+   "hot_score": 61.3
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -1252,7 +1324,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.1
+   "hot_score": 56.9
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -1270,7 +1342,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 60.8
+   "hot_score": 60.5
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -1288,7 +1360,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 60.6
+   "hot_score": 60.3
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -1306,7 +1378,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 60.4
+   "hot_score": 60.1
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -1324,7 +1396,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.9
+   "hot_score": 59.6
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -1342,7 +1414,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.1
+   "hot_score": 58.9
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -1360,7 +1432,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.8
+   "hot_score": 62.5
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -1378,7 +1450,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.1
+   "hot_score": 56.8
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -1396,7 +1468,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 56.9
+   "hot_score": 56.6
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -1414,7 +1486,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 52.6
+   "hot_score": 52.4
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -1432,7 +1504,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 43.7
+   "hot_score": 43.4
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -1450,7 +1522,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 47.0
+   "hot_score": 46.8
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -1468,7 +1540,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 45.5
+   "hot_score": 45.3
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -1486,7 +1558,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 45.5
+   "hot_score": 45.3
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -1504,7 +1576,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 42.2
+   "hot_score": 42.0
   },
   {
    "id": "29117d5e6fc9e53fc24b6c29b1b0c5dbadec2796",
@@ -1522,7 +1594,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 42.1
+   "hot_score": 41.9
   },
   {
    "id": "38d062123d715448cca42c5e88e27e9848935b37",
@@ -1540,7 +1612,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 37.7
+   "hot_score": 37.5
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -1558,7 +1630,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 37.2
+   "hot_score": 37.0
   },
   {
    "id": "2121df6444c57ecedd3825be705f60b3637d940b",
@@ -1576,7 +1648,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 36.6
+   "hot_score": 36.5
   },
   {
    "id": "22570b73cb13d8a33530b28eb55bb6c1792522fa",
@@ -1594,7 +1666,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 36.0
+   "hot_score": 35.9
   },
   {
    "id": "b826d68056ff503eadf589fe7edeca45923eec5d",
@@ -1612,7 +1684,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 32.7
+   "hot_score": 32.6
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -1630,7 +1702,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 35.7
+   "hot_score": 35.5
   },
   {
    "id": "4d27d8c7c63f287192f14f40a324643e012bfd14",
@@ -1648,7 +1720,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 32.8
+   "hot_score": 32.7
   },
   {
    "id": "058b7496c5710a409d7c978c6bb756505a417173",
@@ -1666,7 +1738,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 33.7
+   "hot_score": 33.6
   },
   {
    "id": "bc56ec6d7183a08a564043c6bc778ae5d4ae3e27",
@@ -1684,7 +1756,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.4
+   "hot_score": 25.3
   },
   {
    "id": "1f1f8a694c59f81df629a0864a749215e5db2979",
@@ -1702,7 +1774,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.3
+   "hot_score": 24.2
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -1720,7 +1792,7 @@
    "reason": "涉及engine",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.4
+   "hot_score": 26.3
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -1738,7 +1810,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.9
+   "hot_score": 23.8
   },
   {
    "id": "5ef3b5a127fd5ba4103dc807f5e4cc6d0ede0bc3",
@@ -1756,7 +1828,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.6
+   "hot_score": 23.5
   },
   {
    "id": "9231336d2e761cf2013120444f7381b465b62710",
@@ -1774,7 +1846,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.5
+   "hot_score": 23.4
   },
   {
    "id": "f8ff865f8809584cce7d2c20bd46411b684e7b10",
@@ -1792,7 +1864,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.5
+   "hot_score": 23.4
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -1810,7 +1882,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.4
+   "hot_score": 23.2
   },
   {
    "id": "201ced87b1c7b5347f2fc99d47b363caae368505",
@@ -1828,7 +1900,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.3
+   "hot_score": 23.2
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -1846,7 +1918,7 @@
    "reason": "官方来源",
    "is_new": false,
    "trend": "same",
-   "hot_score": 27.8
+   "hot_score": 27.6
   },
   {
    "id": "4eb5c606da180db7bd746b2adfff0a7282496071",
@@ -1864,7 +1936,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.1
+   "hot_score": 23.0
   },
   {
    "id": "e00107a03fa48327d3cf20a2115ed781982e59ea",
@@ -1882,7 +1954,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.1
+   "hot_score": 23.0
   },
   {
    "id": "b1ec315fa9dce11621d6cee1a8f2617d1fa68536",
@@ -1900,7 +1972,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.9
+   "hot_score": 22.8
   },
   {
    "id": "66cce1269a56aeaf3287d30280b5b5e03adafd4a",
@@ -1918,7 +1990,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.8
+   "hot_score": 22.7
   },
   {
    "id": "fabcda5f5319953fcb226b9492415f4dd5e64902",
@@ -1936,7 +2008,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.6
+   "hot_score": 22.5
   },
   {
    "id": "82a0209d95fbec8935199d6d6a8119b7fdfa27fc",
@@ -1954,7 +2026,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.5
+   "hot_score": 22.4
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1972,7 +2044,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.4
+   "hot_score": 22.3
   },
   {
    "id": "f0da9e69dffe9090a9d5d39f50e90af96613d694",
@@ -1990,7 +2062,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.3
+   "hot_score": 22.2
   },
   {
    "id": "e345653cd7291053ee2f2bb3b8e74bb4dce9169d",
@@ -2008,7 +2080,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.1
+   "hot_score": 22.0
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -2026,7 +2098,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.9
+   "hot_score": 21.8
   },
   {
    "id": "68c059b85bf4d04451f166ee871567ee17c49a6a",
@@ -2044,7 +2116,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.8
+   "hot_score": 20.7
   },
   {
    "id": "52b4309758a39c909bea4825a77707763c0eb20a",
@@ -2062,7 +2134,7 @@
    "reason": "官方来源 · 涉及optimization、workflow",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.4
+   "hot_score": 26.3
   },
   {
    "id": "97ba99091379f0365c771c0ce27d018bc3c9eab9",
@@ -2080,7 +2152,7 @@
    "reason": "官方来源 · 涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.4
+   "hot_score": 26.3
   },
   {
    "id": "cce0629d13e2b34c874605a4ea82e3749bca9cdf",
@@ -2098,7 +2170,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.1
+   "hot_score": 20.0
   },
   {
    "id": "e8fa2a2c06b9ecc7543e37dc18420d6544c5cfe1",
@@ -2116,7 +2188,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.9
+   "hot_score": 19.8
   },
   {
    "id": "14d710c63b178bfbac9ff7271102234d1ece93cc",
@@ -2134,7 +2206,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.4
+   "hot_score": 19.3
   },
   {
    "id": "6b40790e89cf07241ad682c14ace8c855571e3af",
@@ -2152,7 +2224,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.3
+   "hot_score": 19.2
   },
   {
    "id": "baa849e20dc9a141dc983de12e996c6b4b1f2ca4",
@@ -2170,7 +2242,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.2
+   "hot_score": 19.1
   },
   {
    "id": "05ca53fa67d31bf552e94530a74262bb74fde218",
@@ -2188,7 +2260,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.2
+   "hot_score": 19.1
   },
   {
    "id": "5cc77acecf7b8096f30008b669621a9c91205279",
@@ -2206,7 +2278,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.1
+   "hot_score": 19.0
   },
   {
    "id": "9ba6aa1897f76bd2cc5044913d8800d1511aee80",
@@ -2224,7 +2296,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.0
+   "hot_score": 18.9
   },
   {
    "id": "c4526501f36797aedc90fc6552ecb83da94c37ff",
@@ -2242,7 +2314,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 18.9
+   "hot_score": 18.8
   },
   {
    "id": "ac3b087391a04625ec86ae5e4de267c8dfca6cdc",
@@ -2260,7 +2332,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 18.8
+   "hot_score": 18.7
   },
   {
    "id": "41895422997981cb2baad599042021848e3924f4",
@@ -2279,78 +2351,6 @@
    "is_new": false,
    "trend": "same",
    "hot_score": 18.6
-  },
-  {
-   "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
-   "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-   "link": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-05T14:13:50+00:00",
-   "summary": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data. Read more",
-   "zh_title": "Sensor Tower：《GTA 6》预购量接近 800 万，74% 来自 PlayStation 5",
-   "zh_summary": "《Grand Theft Auto 6》还有两周发售，据最新数据，这款备受期待的游戏预购量已接近 800 万。",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 55,
-   "reason": "涉及data",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 20.4
-  },
-  {
-   "id": "8be5c5acd91f2eb2b46c601fb4bb7dbae563c67d",
-   "title": "\"It's such a massively underserved market in the gaming industry\" – The creators of Dressmaker on why more games should be aimed at women",
-   "link": "https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-05T13:15:00+00:00",
-   "summary": "You may have seen enthusiastic posts about Dressmaker doing the rounds on social media. It's yet another example of an indie game blowing up on Steam , seemingly out of nowhere: Video Game Insights es…",
-   "zh_title": "“游戏行业里这是一个被严重忽视的市场”——《Dressmaker》的创作者谈为什么应该有更多面向女性的游戏",
-   "zh_summary": "你可能在社交媒体上看到过大家对《Dressmaker》的热情讨论。这是又一款在 Steam 上似乎凭空爆红的独立游戏：Video Game Insights 估计……",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 18.4
-  },
-  {
-   "id": "387d59961ecdd4eac90934fd99472f62f27cb4d6",
-   "title": "You can now play Pillars of Eternity and Pillars of Eternity 2: Deadfire with a controller on PC from start to finish, thanks to a new update open for testing",
-   "link": "https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-05T12:27:20+00:00",
-   "summary": "After gifting Pillars of Eternity a turn-based mode for its tenth anniversary , Obsidian have now rolled out full PC controller support for both the RPG and its younger sibling Pillars of Eternity 2:…",
-   "zh_title": "得益于一项开放测试的新更新，你现在可以在 PC 上用手柄从头到尾通关《Pillars of Eternity》和《Pillars of Eternity 2: Deadfire》了",
-   "zh_summary": "在为《Pillars of Eternity》十周年送上回合制模式后，Obsidian 如今为这款 RPG 及其续作《Pillars of Eternity 2:…》推出了完整的 PC 手柄支持……",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 45,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.4
-  },
-  {
-   "id": "7c6127fe20fbbc9a225b8b4fcd8cd92857f9b613",
-   "title": "IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN",
-   "link": "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-05T12:23:50+00:00",
-   "summary": "IGN Entertainment, the parent company of GamesIndustry.biz , has appointed Alex Simmons as VP, Editorial and Group Editor-in-Chief, overseeing the firm’s entire portfolio of editorial brands. Read mor…",
-   "zh_title": "IGN Entertainment 提拔 Alex Simmons 统管旗下编辑业务，Wesley Yin-Poole 负责 IGN",
-   "zh_summary": "GamesIndustry.biz 的母公司 IGN Entertainment 已任命 Alex Simmons 为编辑副总裁兼集团总编辑，统管公司旗下全部编辑品牌。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 18.2
   }
  ]
 }
