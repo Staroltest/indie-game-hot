@@ -72,6 +72,46 @@ def shorten(text, limit=200):
     return text[:limit].rstrip() + "…"
 
 
+SENT_END = "。！？.!?"
+CLAUSE_END = "，、；：,;:；"
+CLOSE_CHARS = "）】」』\"'”’"
+
+
+def complete_para(text, limit=1500):
+    """把一段摘要收成完整的一段话：不超过 limit，以句末标点收尾，不加省略号。
+    详情页导读/正文摘要用：不允许截断到半句、末尾挂 …。
+    已在限制内且以句末标点结尾的原样返回；否则退到 limit 内最后一个完整句；
+    无完整句时退到最后一个分句标点；再无则硬截（仍不加 …）。"""
+    text = (text or "").strip()
+    if not text:
+        return ""
+    if text.endswith("…"):
+        text = text[:-1].rstrip()
+    if not text:
+        return ""
+    if len(text) <= limit and text[-1] in SENT_END:
+        return text
+    cut = text[:limit] if len(text) > limit else text
+    best = -1
+    for i, ch in enumerate(cut):
+        if ch not in SENT_END:
+            continue
+        # ASCII 句点夹在数字之间是版本号/小数（如 4.8），不是句末
+        if ch == "." and i > 0 and i + 1 < len(cut) \
+                and cut[i - 1].isdigit() and cut[i + 1].isdigit():
+            continue
+        j = i + 1
+        while j < len(cut) and cut[j] in CLOSE_CHARS:
+            j += 1
+        best = j
+    if best > 0:
+        return cut[:best].rstrip()
+    for i in range(len(cut) - 1, -1, -1):
+        if cut[i] in CLAUSE_END:
+            return cut[:i + 1].rstrip()
+    return cut.rstrip()
+
+
 def norm_link(link):
     """去 fragment 与 utm_* 追踪参数，供去重用。"""
     link = (link or "").strip().split("#")[0]
@@ -154,8 +194,9 @@ def parse_feed(body, source):
         if not summary:
             summary = strip_html(fields.get("content") or fields.get("encoded") or "")
         # 完整摘要：详情页用（卡片仍用 200 字短摘要）。只有比短摘要明显更长时
-        # 才存，短摘要本身已完整的条目不存，省体积。
-        summary_full = shorten(summary, 1500) if len(summary) > 250 else ""
+        # 才存，短摘要本身已完整的条目不存，省体积。收成完整的一段话，
+        # 不截断到半句、不挂省略号（导读/正文摘要不允许截断）。
+        summary_full = complete_para(summary, 1500) if len(summary) > 200 else ""
         pub = parse_date(fields.get("pubDate") or fields.get("published")
                          or fields.get("updated"))
         item = {
@@ -2669,8 +2710,9 @@ def render_privacy(site):
 def render_item(site, it, related, is_selected, daily_issue):
     """文章详情页（items/<id>.html）：只有标题、摘要、来源、评分、理由、标签、
     相关条目——不编造正文，不转载全文。原文只通过“打开原文”按钮出去。
-    导读可用完整摘要（源站 RSS 描述截到 1500 字，仍是摘要不是全文）：
-    有中文完整摘要就显示它；否则短导读不变，另加“原文摘要”一节放英文完整摘要。"""
+    导读可用完整摘要（源站 RSS 描述收成完整的一段话，仍是摘要不是全文）：
+    有中文完整摘要就显示它；否则短导读不变，另加“原文摘要”一节放英文完整摘要。
+    导读与正文摘要都不允许截断到半句、末尾挂 …：一律收成完整的一段话。"""
     site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
     title = it.get("zh_title") or it["title"]
     en_title = it["title"] if (it.get("zh_title") and it["zh_title"] != it["title"]) else ""
@@ -2708,11 +2750,11 @@ def render_item(site, it, related, is_selected, daily_issue):
     en_html = (f'<p class="item-en-title">原文标题：{esc(en_title)}</p>' if en_title else "")
     guide_note = ("" if (has_zh_summary or zh_full)
                   else '<p class="guide-note">暂无中文摘要，以下是原文摘要。</p>')
-    guide_text = zh_full or summary
+    guide_text = complete_para(zh_full or summary, 1500)
     full_en_html = ""
     if not zh_full and en_full:
         full_en_html = (f'<section class="item-sec"><h2>原文摘要</h2>'
-                        f'<p>{esc(en_full)}</p></section>')
+                        f'<p>{esc(complete_para(en_full, 1500))}</p></section>')
     reason_html = (f'<section class="item-sec"><h2>推荐理由</h2>'
                    f'<p>{esc(it.get("reason", ""))}</p></section>' if it.get("reason") else "")
     tags_html = ""
