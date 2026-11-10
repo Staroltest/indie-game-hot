@@ -505,5 +505,68 @@
   "zh_title": "周一开发笔记：《Primeval》继续打磨",
   "zh_summary": "关于《Primeval》的周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画……）还在做。",
   "zh_summary_full": "Primeval 周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画）还在做，不在当前版本里，做好了再分享，不赶工。与此同时，打磨继续：动画、单位编组与移动、音效和平衡性。当前版本里恐龙已经有性格和流畅的移动，有真实的生命周期：恐龙会繁殖、进食、互相争斗，还有饥饿、口渴、天气和食腐……"
+ },
+ "https://www.indiedb.com/games/savanna-merc/news/open-world-alpha": {
+  "zh_title": "《Savanna Merc》开放世界 Alpha 测试开启",
+  "zh_summary": "《Savanna Merc》首个公开开放世界 Alpha 版本现已开放下载。请注意这仍是早期开发版本，并非完成品，可能会遇到 Bug、崩溃、性能问题、未完成的机制和大幅平衡调整。这次测试的目的是验证开放世界玩法循环，并收集战斗、AI、潜行、任务、物品管理和性能方面的反馈，你的反馈将直接影响后续版本。",
+  "zh_summary_full": "《Savanna Merc》首个公开开放世界 Alpha 版本现已开放下载。请注意这仍是早期开发版本，并非完成品，可能会遇到 Bug、崩溃、性能问题、未完成的机制和大幅平衡调整。这次测试的目的是验证开放世界玩法循环，并收集战斗、AI、潜行、任务、物品管理和性能方面的反馈，你的反馈将直接影响后续版本。"
+ },
+ "https://www.indiedb.com/games/primeval/news/monday-dev-note-polish-continues-graphics-pass-in-progress": {
+  "zh_title": "周一开发笔记：打磨继续，画面升级进行中",
+  "zh_summary": "itch 上的静默测试版仍在，更大规模的画面升级还在做。"
+ },
+ "https://www.indiedb.com/games/lost-gateways/news/releasing-on-steam-nov-11th": {
+  "zh_title": "《Lost Gateways》11 月 11 日登陆 Steam",
+  "zh_summary": "作者坦言找测试员没什么收获，但游戏本身挺好玩；一个人闭门做久了很难坚持下去，所以决定免费上架 Steam。游戏功能完整、支持多人，具备大部分想要的特性，但仍有 Bug，部分机制需要更多测试和打磨，希望大家来试试。",
+  "zh_summary_full": "作者坦言找测试员没什么收获，但游戏本身挺好玩；一个人闭门做久了很难坚持下去，所以决定免费上架 Steam。游戏功能完整、支持多人，具备大部分想要的特性，但仍有 Bug，部分机制需要更多测试和打磨，希望大家来试试。"
+ },
+ "https://www.indiedb.com/games/barely-civilized/news/barely-civilized-wishlist-on-steam": {
+  "zh_title": "《Barely Civilized》已上架 Steam，开放愿望单",
+  "zh_summary": "农耕、狩猎、流动商人和运作中的基地正在 Alpha 版中成型。Pre-Alpha 测试已结束，《Barely Civilized》现已上架 Steam 开放愿望单。"
+ },
+ "https://www.indiedb.com/games/fursan-al-aqsa-2-prologue/news/welcome-to-the-official-indiedb-page-for-fursan-al-aqsa-2-prologue": {
+  "zh_title": "《Fursan al-Aqsa 2：Prologue》IndieDB 主页上线",
+  "zh_summary": "欢迎来到《Fursan al-Aqsa 2：Prologue》（Operation Shadow Outpost）在 IndieDB 的新家。"
+ },
+ "https://www.indiedb.com/games/murkfall/news/the-summit-level-20-and-a-solo-leviathan": {
+  "zh_title": "《Murkfall》：20 级巅峰与单人挑战 Leviathan",
+  "zh_summary": "20 级成为一个有目标可追的里程碑，Leviathan 现在可以由一两名英雄单独击败。"
+ },
+ "https://www.indiedb.com/games/last-thaw/news/early-access-week-three-the-great-hearth-on-every-map-and-advisors-that-get-paid": {
+  "zh_title": "《Last Thaw》抢先体验第三周：每张地图都有大壁炉，顾问开始领工资",
+  "zh_summary": "这一周是能感受到的安静修复：一个人人都能预见的奇观、按小额分期结算的顾问工资，以及重新收取建造成本的建筑。"
+ },
+ "https://www.indiedb.com/games/corgi-race/news/corgi-race-live-releases-on-steam": {
+  "zh_title": "《Corgi Race Live》登陆 Steam",
+  "zh_summary": "《Corgi Race Live》已在 Steam 发售！现在可以在 Twitch 上免费直播柯基赛跑，和聊天室观众一起押注冠军、连赢和三连赢，争夺排行榜榜首。"
+ },
+ "https://www.indiedb.com/games/hangar-valley/news/the-free-demo-is-out-now-on-meta-quest": {
+  "zh_title": "《Hangar Valley》免费试玩版登陆 Meta Quest",
+  "zh_summary": "《Hangar Valley》试玩版已上架 Meta Horizon Store，Quest 3 和 3S 免费游玩：自由飞行、带副驾驶的教学、在机场漫步，还能和别的飞行员通话。"
+ },
+ "https://www.indiedb.com/games/sunderkin/news/into-the-broken-land2": {
+  "zh_title": "走进破碎之地：《Sunderkin》初探",
+  "zh_summary": "回合制 RPG《Sunderkin》初探：创建英雄，逐肢击碎敌人，推翻暴君——而这片大陆每次游玩都会变化。"
+ },
+ "https://kenney.nl/assets/mini-characters": {
+  "zh_title": "Kenney 免费资源：Mini Characters 迷你角色包",
+  "zh_summary": "Kenney「Mini」系列 3D 资源包，共 40 个文件，标签：角色、人物、无障碍。"
+ },
+ "https://kenney.nl/assets/mini-shop": {
+  "zh_title": "Kenney 免费资源：Mini Shop 迷你商店包",
+  "zh_summary": "Kenney「Mini」系列 3D 资源包，共 30 个文件，标签：商店、市场、超市、店铺。"
+ },
+ "https://kenney.nl/assets/tiny-city": {
+  "zh_title": "Kenney 免费资源：Tiny City 迷你城市包",
+  "zh_summary": "Kenney「Tiny」系列 2D 像素资源包，共 130 个文件，标签：地图、像素、城市、建筑。"
+ },
+ "https://kenney.nl/assets/mini-skate": {
+  "zh_title": "Kenney 免费资源：Mini Skate 迷你滑板包",
+  "zh_summary": "Kenney「Mini」系列 3D 资源包，共 40 个文件，标签：滑板、滑板场。"
+ },
+ "https://opengameart.org/content/opengameartorg-winter-game-jam-2027-neo-retro": {
+  "zh_title": "OpenGameArt 2027 冬季 Game Jam：Neo-Retro 复古未来",
+  "zh_summary": "OpenGameArt 2027 冬季 Game Jam 主题「Neo-Retro（复古未来）」：未来即过去，过去即未来，一切旧物皆新，一切新物皆旧。比赛 2026 年 12 月 31 日 6:00（GMT）开始，2027 年 1 月 31 日 5:59（GMT）截止投稿。",
+  "zh_summary_full": "OpenGameArt 2027 冬季 Game Jam 主题「Neo-Retro（复古未来）」：未来即过去，过去即未来，一切旧物皆新，一切新物皆旧。比赛 2026 年 12 月 31 日 6:00（GMT）开始，2027 年 1 月 31 日 5:59（GMT）截止投稿。"
  }
 }
