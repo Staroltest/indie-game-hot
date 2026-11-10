@@ -2748,11 +2748,34 @@ def render_item(site, it, related, is_selected, daily_issue):
             + ('<span class="pick">精选</span>' if is_selected else "")
             + f'<span class="sp">{score_pill(it["score"])}</span>')
     en_html = (f'<p class="item-en-title">原文标题：{esc(en_title)}</p>' if en_title else "")
-    guide_note = ("" if (has_zh_summary or zh_full)
+    # 导读：优先完整中文摘要；短导读本身已是完整句时用它（中文短导读优先于英文全文）；
+    # 短导读断在半句时，改用英文完整摘要（完整的一段话），不再另出“原文摘要”一节
+    # （那节会与导读重复）。都不完整时尽力收成完整句。
+    def _complete(t):
+        t = (t or "").strip()
+        if t.endswith("…"):
+            t = t[:-1].rstrip()
+        return bool(t) and t[-1] in SENT_END
+    if zh_full:
+        guide_text = complete_para(zh_full, 1500)
+        guide_is_en = False
+        show_full_en = False
+    elif _complete(summary):
+        guide_text = complete_para(summary, 1500)
+        guide_is_en = not has_zh_summary
+        show_full_en = bool(en_full)
+    elif en_full:
+        guide_text = complete_para(en_full, 1500)
+        guide_is_en = True
+        show_full_en = False
+    else:
+        guide_text = complete_para(summary, 1500)
+        guide_is_en = not has_zh_summary
+        show_full_en = False
+    guide_note = ("" if not guide_is_en
                   else '<p class="guide-note">暂无中文摘要，以下是原文摘要。</p>')
-    guide_text = complete_para(zh_full or summary, 1500)
     full_en_html = ""
-    if not zh_full and en_full:
+    if show_full_en:
         full_en_html = (f'<section class="item-sec"><h2>原文摘要</h2>'
                         f'<p>{esc(complete_para(en_full, 1500))}</p></section>')
     reason_html = (f'<section class="item-sec"><h2>推荐理由</h2>'
