@@ -3403,5 +3403,38 @@
  "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai": {
   "zh_title": "一项游戏开发教育项目被取消，只因学生提交的作品全是 AI 生成的",
   "zh_summary": "生成式 AI 越来越普及，评审方表示“越来越难判断哪些是学生自己做的”，于是这项游戏开发教育项目被取消了。"
+ },
+ "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game": {
+  "zh_title": "《Company of Heroes 3》开发者坦言：3.0 大改版与常规更新、单人 DLC 和整款衍生游戏并行推进，“工作量巨大”",
+  "zh_summary": "《Company of Heroes 3》的 3.0 更新规模庞大，几乎触及这款发售三年的 RTS 的方方面面，更新日志长得惊人。除了重制的视觉特效和音效，还新增了秋冬生物群系、升级的大战略战役、单位 AI 改进等大量内容。Relic 在更新上线前透露了幕后的工作量，以及脱离 Sega 两年后仍在持续支持这款游戏的原因。",
+  "zh_summary_full": "《Company of Heroes 3》的 3.0 更新规模庞大，几乎触及这款发售三年的 RTS 的方方面面，更新日志长得惊人。 headline 特性是重制的视觉特效和音效，但远不止于此：还包括全新的秋冬生物群系、升级的大战略战役、单位 AI 改进，以及大量其他改动。记者在 3.0 更新上线前采访了 Relic，了解了幕后为实现这次更新所付出的工作量，也了解到 Relic 在发售三年、脱离 Sega 两年之后为何仍在持续支持这款游戏。"
+ },
+ "https://gamefromscratch.com/unreal-engine-5-9-preview": {
+  "zh_title": "Unreal Engine 5.9 预览版",
+  "zh_summary": "Epic Games 近来全面拥抱 AI，这一点在最新的 Unreal Engine 5.9 预览版中最为明显。Unreal Engine 5.9 是一个以 AI 功能为主的版本更新。",
+  "zh_summary_full": "Epic Games 近来全面拥抱 AI，这一点在最新的 Unreal Engine 5.9 预览版中最为明显。Unreal Engine 5.9 是一个以 AI 功能为主的版本更新。"
+ },
+ "https://dev.to/rivskiy_skulitom_af400ad1/mcp-apps-example-an-inline-pixel-art-preview-from-a-stdio-mcp-server-4epe": {
+  "zh_title": "MCP Apps 示例：用 stdio MCP 服务器实现内嵌像素画预览",
+  "zh_summary": "本文用 Pixelbolt 0.15.0 实测演示：0.12.0 新增的 MCP Apps 预览功能，让支持该扩展的宿主可以直接内嵌播放像素画帧动画，支持播放和逐帧步进，而不只是返回一张静态帧拼贴图。文章逐步讲解握手过程、服务器返回内容与限制，并提醒该功能尚新，需在自己的客户端中确认宿主支持情况。",
+  "zh_summary_full": "本文在 AI（Claude）协助下撰写，并对照项目文档核对过；作者是 Pixelbolt 的开发者，立场并不中立；所有数据均来自 2026 年 11 月 10 日用 npm 安装的 Pixelbolt 0.15.0 实测。Pixelbolt 是一款 MIT 协议的像素画工具包，带 CLI 和本地 stdio MCP 服务器，其图片工具会返回所绘帧的 PNG 拼贴图。0.12.0 版新增了 MCP Apps 预览：支持 MCP Apps 扩展的宿主可以直接展示帧的内嵌播放器，支持播放和逐帧步进，而不只是静态拼贴图。本文用一个小型 Node 客户端对已发布的 0.15.0 包，逐步讲解握手过程、服务器返回内容与限制。该功能尚新，作者是在自有客户端和 headless Chromium 中的占位宿主页面里验证的，并未在聊天应用内实测，因此宿主支持情况请在自己的客户端中确认。MCP Apps 是 Model Context Protocol 的扩展：工具声明一个存放 HTML 的 ui:// 资源，宿主获取该资源并在沙箱 iframe 中展示，并通过通知把工具数据传给页面。MCP Apps README 链接了多个客户端（Claude、ChatGPT、VS Code、Goose 等）的宿主文档，以及 https://modelcontextprotocol.io/extensions/client-matrix 上的客户端矩阵；请查阅自己客户端的文档，确认其是否渲染本地服务器的应用。1. 添加服务器：Pixelbolt 需要 Node。"
+ },
+ "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane": {
+  "zh_title": "友情提示：在机场玩《Call of Duty》时，别说“炸弹”之类的词，否则可能让整架飞机疏散",
+  "zh_summary": "一时口快，惹出大麻烦。"
+ },
+ "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some": {
+  "zh_title": "微软修补了 Microsoft Paint 的安全漏洞，但过程一团糟，而且部分用户至今还没收到更新",
+  "zh_summary": "真是一团糟。"
+ },
+ "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app": {
+  "zh_title": "11 月第二波 PS Plus 游戏阵容公布，索尼还要砍掉几乎没人用的 PC 应用",
+  "zh_summary": "索尼公布了本月面向 PlayStation Plus Premium 和 Extra 会员的第二波游戏，其中不乏大作，领衔的是小岛秀夫的《Death Stranding 2: On the Beach》。",
+  "zh_summary_full": "索尼公布了本月面向 PlayStation Plus Premium 和 Extra 会员的第二波游戏，其中不乏大作，领衔的是小岛秀夫的未来派送货题材大作《Death Stranding 2: On the Beach》。"
+ },
+ "https://www.destructoid.com/how-to-change-layers-in-wow-forever-after-the-layer-size-change": {
+  "zh_title": "《WoW Forever》分层人数改动后，如何切换分层？",
+  "zh_summary": "想在《WoW: Forever》里和朋友一起玩，就得回到《魔兽世界》最令人头疼的概念之一——分层与位面。本文讲解分层人数改动后的切换方法。",
+  "zh_summary_full": "想在《WoW: Forever》里和朋友一起玩，就得回到《魔兽世界》最令人头疼的概念之一——分层与位面。"
  }
 }
