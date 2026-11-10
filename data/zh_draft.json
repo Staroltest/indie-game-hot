@@ -662,5 +662,18 @@
  "https://www.indiedb.com/games/balltrials/news/gems-finally-have-a-job-trails-for-your-marble-in-all-five-trials": {
   "zh_title": "宝石终于有了用处：为弹珠解锁轨迹，五个试炼全覆盖",
   "zh_summary": "BallTrials 完全免费、没有任何内购，所以宝石总得有个用途。现在宝石可以用来购买轨迹，而且你的轨迹会在全部五个试炼中显示，包括之前看不见的那两个。"
+ },
+ "https://unity.com/blog/3d-asset-management-defense-training": {
+  "zh_title": "10 支团队、3 个项目、7 年时间：国防训练中如何高效管理 3D 资产",
+  "zh_summary": "i3 Corps 多年来一直为军方维护数字孪生。看看它的 10 支美术团队如何用 Unity Addressables 和 Unity Asset Manager 管理 3D 资产。"
+ },
+ "https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest": {
+  "zh_title": "《Big Walk》开发商 House House 承认开发收尾阶段用了生成式 AI，称现在才公开是因“已成为公众关注之事”",
+  "zh_summary": "《Big Walk》是最新一款被确认在制作中使用生成式 AI 的游戏，开发商 House House 在给 Aftermath 的声明中澄清了具体用法。House House 表示，LLM 只是“少量用于协助解决棘手的技术难题和 bug”，“《Big Walk》代码中与此相关的部分远不到 0.1%”，并强调“制作游戏时没有在任何其他环节使用生成式 AI”。",
+  "zh_summary_full": "《Big Walk》是最新一款被确认在制作中使用生成式 AI 的游戏，开发商 House House 在给 Aftermath 的声明中澄清了具体用法（感谢 Aftermath）。House House 表示，LLM“由 House House 少量用于协助解决棘手的技术难题和 bug”，“《Big Walk》代码中与此相关的部分远不到 0.1%”，但同时强调，“制作游戏时没有在任何其他环节使用生成式 AI”。"
+ },
+ "https://www.gcores.com/radios/222158": {
+  "zh_title": "北京提拉米苏大大王，录音笔VOL.822",
+  "zh_summary": "【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。"
  }
 }
