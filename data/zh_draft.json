@@ -683,5 +683,14 @@
  "https://80.lv/articles/ratchet-clank-ranger-rumble-is-shutting-down-a-year-after-its-soft-launch": {
   "zh_title": "《Ratchet & Clank: Ranger Rumble》软启动一年后宣布停服",
   "zh_summary": "这款游戏将于 11 月从商店下架，服务器将于明年 5 月关闭。"
+ },
+ "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads": {
+  "zh_title": "继全站讨论 AI 使用问题后，Nexus Mods 给新 Mod 榜单加了「每日上限」：一人一天只能占一个坑位",
+  "zh_summary": "Nexus Mods 推出新的「每日上限」机制：同一位 Mod 作者在 24 小时内批量上传多件作品，也只能在各游戏的新 Mod 榜单里占一个位置，其余作品会被收纳在该作品后面，点一下提示文字就能展开查看。",
+  "zh_summary_full": "Nexus Mods 推出新的「每日上限」机制：同一位 Mod 作者在 24 小时内批量上传多件作品，也只能在各游戏的新 Mod 榜单里占一个位置。其余作品会被收纳在该作品后面，点一下提示文字就能展开查看。"
+ },
+ "https://80.lv/articles/free-procedural-low-poly-tree-generator-for-godot": {
+  "zh_title": "免费的 Godot 程序化低多边形树木生成器",
+  "zh_summary": "直接在编辑器里生成各种树木，保存预设，还能带 LOD 和碰撞体导出。"
  }
 }
