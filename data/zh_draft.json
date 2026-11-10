@@ -3611,5 +3611,23 @@
  "https://www.destructoid.com/remember-ps5-exclusive-shooter-fairgame-its-reportedly-canceled-now-to-no-ones-surprise": {
   "zh_title": "还记得 PS5 独占射击游戏《Fairgame$》吗？据报道它已被取消，毫不意外",
   "zh_summary": "又一款被砍掉的游戏。据报道，PS5 独占射击游戏《Fairgame$》已被取消——对独立开发者而言，这再次提醒我们：即便是大厂背书的大型多人项目，也可能在漫长开发后悄然夭折，立项阶段的市场验证与成本控制同样重要。"
+ },
+ "https://unity.com/blog/how-to-organize-a-game-project-with-ai": {
+  "zh_title": "用 AI 组织你的第一个游戏项目：10 条新手建议",
+  "zh_summary": "如何用 AI 组织游戏项目：关于设计简报、命名规范、检查点、提示词记录和试玩测试的 10 条新手建议，无需写代码。"
+ },
+ "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works": {
+  "zh_title": "索尼再次取消《Fairgame$》，再次提醒我们追逐服务型游戏暴利基本行不通",
+  "zh_summary": "索尼 2022 年曾表示要在 2026 年前推出 10 款服务型游戏，如今《Fairgame$》被取消的消息传来，当初那番豪言再次成为笑柄。",
+  "zh_summary_full": "你知道，我相信索尼当初确实有意兑现 2022 年说过的目标——到 2026 年推出 10 款服务型游戏。嗯，但凡一个目标首先是为了取悦股东，它也就只能走到这一步了。而现在，五年过去了，当初那番话依然阴魂不散，又传来了《Fairgame$》被取消的消息。"
+ },
+ "https://dev.to/tommy91dev/how-to-get-the-ps1-look-in-godot-4-vertex-snapping-and-affine-warping-41cb": {
+  "zh_title": "如何在 Godot 4 里做出 PS1 画风（顶点吸附与仿射贴图扭曲）",
+  "zh_summary": "PS1 画风不是单一特效，而是硬件限制的叠加：顶点吸附在粗糙网格上、贴图因 GPU 不做透视校正而扭曲、320×240 的帧缓冲。只要在空间着色器里模拟前两点，风格自然就出来了。本文提供一个可直接套用的 Godot 4 完整着色器，涵盖顶点吸附和仿射贴图扭曲，外加一个曾让作者的地板看起来像糊成一团颜料的错误。",
+  "zh_summary_full": "PS1 画风不是单一特效，而是硬件限制的叠加：顶点吸附在粗糙网格上、贴图因 GPU 不做透视校正而扭曲、320×240 的帧缓冲。只要在空间着色器里模拟前两点，风格自然就出来了。本文提供一个可直接套用的 Godot 4 完整着色器，涵盖顶点吸附和仿射贴图扭曲，外加一个曾让作者的地板看起来像糊成一团颜料的错误。作者在 Godot 4.5.1（兼容渲染器）下无头测试了下面这段着色器，没有报错，移动镜头跑了 24 帧。1. 顶点吸附：那种“抖动” PlayStation 没有亚像素精度，顶点会吸附到整像素上，镜头移动时几何体就会抖动。你可以在顶点着色器里把裁剪空间位置吸附到粗糙网格上来模拟，关键是先除以 w，在归一化设备坐标里吸附，再把 w 乘回去。如果直接吸附原始裁剪坐标，远处的物体几乎不抖，近处的却抖得太厉害。vec4 ps1_snap_clip ( vec4 clip ) { vec2 g = max ( snap_grid , vec2 ( 1.0 ) ) ; // 例如 (160, 120) = 320x240 的一半 vec2 ndc = clip . xy / clip . w ; ndc = floor ( ndc * g + 0.5 ) / g ; clip . xy = ndc * clip . w ; return clip ; } snap_grid 取 (160, 120) 对应 320×240 的帧缓冲（两个 NDC 单位，-1 到 1，乘以一半分辨率）。2. 仿射贴图扭曲 PS1 在屏幕空间里线性插值 UV，不做透视校正。"
+ },
+ "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space": {
+  "zh_title": "Bungie 放出《Marathon》合作 PvE 肉鸽模式实机预告，还有个时髦的新社交空间",
+  "zh_summary": "共生（Symbiosis）更新将于 12 月 8 日上线，同时开启全新团队死斗模式的测试，并附带一周免费试玩。"
  }
 }
