@@ -3261,5 +3261,55 @@
   "zh_title": "Surfshark 远不止是一款 VPN，黑五早鸟优惠最高立省近九成",
   "zh_summary": "还以为 Surfshark 只是个 VPN？它能拦截弹窗与恶意软件、帮你防范诈骗、追踪泄露的数据，黑五早鸟优惠让你以更低的价格守护在线安全。",
   "zh_summary_full": "还以为 Surfshark 只是个 VPN？再想想。从拦截弹窗和恶意软件，到帮你防范诈骗、追回泄露的数据，Surfshark 重磅的黑五早鸟优惠能让你在保障在线安全的同时省下一大笔钱。"
+ },
+ "https://80.lv/articles/this-blender-made-mediterranean-street-looks-straight-out-of-ghibli-movie": {
+  "zh_title": "用 Blender 做的地中海街道，简直像吉卜力电影里走出来的",
+  "zh_summary": "Andrew Dimov 讲解了他的卡通渲染（cel-shading）工作流。"
+ },
+ "https://dev.to/natuworkguy/i-hid-6-secret-glitches-in-my-agents-video-game-they-make-it-easier-can-it-find-them-53i6": {
+  "zh_title": "我在自家智能体的游戏里藏了 6 个秘密 glitch，它们会让游戏变简单——它能找出来吗？",
+  "zh_summary": "我的智能体能通关一个从没见过的平台跳跃游戏。Flash 是我开源的终端与浏览器智能体，它的 play_realtime 工具能让模型写一段每帧运行的微型反射（reflex）：一段 JavaScript 函数，逐帧读取画布像素并按键，再由它替模型思考。Flash 自带一个节奏跑酷小关卡 Flash Dash 来做测试，参考反射仅凭像素就在 21.11 秒内一次通关。于是作者问了个更好的问题：智能体能不能找到关卡从没告诉它的、能帮上忙的 glitch？",
+  "zh_summary_full": "我的智能体能通关一个从没见过的平台跳跃游戏。Flash 是我开源的终端与浏览器智能体，它的工具之一 play_realtime 能让模型写一段微型反射（reflex）：一个每帧都在页面内运行的 JavaScript 函数，读取画布像素并按键。模型没法每秒思考 60 次，所以它写出能替它思考的东西。为了测试，Flash 自带 Flash Dash：一个做成节奏跑酷的小关卡。方块会自动向右跑，尖刺致命，蓝色方块是实心的，橙色弹射板能把你弹起来，青色光环能在空中再跳一次。随后一道门会把你变成一艘飞船，在柱子之间穿行。参考反射仅凭像素就在 21.11 秒内一次通关。这是个已被解决的问题。于是我问了个更好的问题：智能体能不能找到关卡从没告诉它的东西？那些能帮上忙的 glitch。每个速通玩家都懂这种感觉：游戏里有一道裂缝，找到它就能跳过半个关卡。没人会告诉你这些，你得故意做点怪事，再留意发生了什么。所以现在有了第二关 flash-dash-glitched：布局、配色逐像素相同，唯一的区别是画布下方多了一行字——「本关有秘密：找到它们，游戏会变简单」，加一个时钟和角落里的计数器：秘密 0/6。藏着的秘密如下：1 号「弹射板甩飞」：在弹射板把你抛起的瞬间再点一下。"
+ },
+ "https://dev.to/fervogame/idle-games-for-mac-on-steam-cozy-desktop-and-incremental-picks-346l": {
+  "zh_title": "Steam 上的 Mac 放置游戏推荐：桌面小品与增量游戏精选",
+  "zh_summary": "这是一篇转载，原文见我们自己的网站。市面上大多数「最佳放置游戏」榜单都是按 Windows 写的，等你点进去才发现推荐的游戏根本没有 Mac 版。我们核对了 Steam 上各游戏的 macOS 上架信息与最低配置（2026 年 11 月 10 日），整理出一份在 MacBook 或 iMac 上真正能玩的清单。",
+  "zh_summary_full": "这是一篇转载，原文见我们自己的网站。大多数「最佳放置游戏」榜单都是按 Windows 写的，等你点进去才发现推荐的游戏根本没有 Mac 版。我们核对了 Steam 上各游戏的 macOS 上架信息与最低配置（2026 年 11 月 10 日），整理出一份在 MacBook 或 iMac 上真正能玩的清单。先说明一下：我们是 Fervo，一个小工作室，清单里最后一款是我们自己的游戏，已标注并放在末尾。放在屏幕底部的桌面放置游戏：这类游戏以一条细带的形式贴在屏幕底部（Mac 上则是 Dock 位置），陪你工作。Rusty's Retirement（Mister Morris Games，2024 年 4 月 26 日）——屏幕底部的一座农场，帮退休机器人种庄稼、把作物转化成生物燃料，再派出辅助机器人。专注模式与垂直农场见商店页。Mac：Mac OS X 10.9+，Intel Core i3。Tiny Pasture（CaveLiquid，2025 年 2 月 17 日）——屏幕底部的小动物牧场，养小动物、收金币、解锁物种，还能拖动或缩放牧场。Mac：Mac OS X 10.9+，Intel Core i3。Bongo Cat（Irox Games，2025 年 3 月 5 日，免费）——梗图猫住在任务栏上，会对你的键盘和鼠标做出反应。Mac：macOS 11，Intel 或 Apple 芯片。带 Mac 版的增量游戏：Melvor Idle（Games by Malcs，2021 年 11 月 18 日）——一款放置版类 RuneScape 游戏，有 20 多个技能、可打 100 多种怪物，专为忙碌的日程设计。Mac：Mac OS X 10.9（64 位）。"
+ },
+ "https://dev.to/manuelescrig/making-a-uikit-app-feel-like-an-arcade-game-30ee": {
+  "zh_title": "怎样让一个 UIKit 应用玩起来像街机游戏",
+  "zh_summary": "Geo Adventures 是一款地理游戏：你被空投到世界某处的真实街景里，观察线索，再在地图上标出你的猜测。它 2026 年 8 月上线，用纯 UIKit 与代码手写 Auto Layout 构建。这篇文章讲作者如何让它完全不像 UIKit。",
+  "zh_summary_full": "Geo Adventures 是一款地理游戏：你被空投到世界某处的真实街景里，观察线索，再在地图上标出你的猜测。它 2026 年 8 月上线，用纯 UIKit 与代码手写 Auto Layout 构建。挑战在于让它完全不像 UIKit。替换系统 chrome：游戏没有导航栏和标准弹窗，所以我自己做了这些：GameButton：带按压状态的 chunky 3D「街机药丸」按钮；GameHeaderView 替代 UINavigationBar；GameAlertController 替代 UIAlertController；SpringModalTransition 做有弹性的模态转场。星空背景、彩带、Core Haptics 触觉反馈模式与系统音效提供反馈。ThemeManager（我在 Email Me 里也用同一模式）在 Midnight、Ocean、Sunset 和 Daylight 四套主题之间切换。两套地图 SDK，各用其所长：Google Maps SDK 展示街景全景，MapKit 负责猜测地图与结果地图，这样这些界面就不需要 Google key。先玩，后注册：可以马上以游客身份开玩，甚至离线也能玩。账号是可选的，构建在一个小巧的 AuthProvider 协议之后，支持 Sign in with Apple 与 Google Sign-In。无论哪种方式，应用都会用登录换取游戏自有 API 的 bearer token。分数同步到服务器，Game Center 为每个难度维护排行榜。公平性是后端问题：每日挑战给所有人相同的关卡与共享排行榜。"
+ },
+ "https://www.nintendolife.com/news/2026/11/new-tmnt-splintered-fate-update-adds-even-more-reasons-to-play-in-co-op": {
+  "zh_title": "《忍者神龟：Splintered Fate》新更新让合作模式更值得一玩",
+  "zh_summary": "合作 Cowabunga！Super Evil Megacorp 自发售以来一直在为这款类 Hades 的《忍者神龟：Splintered Fate》持续加内容，今天团队又给合作刷关加了一堆新理由。",
+  "zh_summary_full": "合作 Cowabunga！Super Evil Megacorp 自发售以来一直在为这款类 Hades 的《忍者神龟：Splintered Fate》持续加内容，今天团队又给合作刷关加了一堆新理由。新的 Shell Squad 合作更新今天上线，顾名思义，主打多人乐趣。这次免费补丁新增 24 个合作能力、8 个合作道具与 8 个合作精通，让你和朋友组队挑战 Shredder 与 Rat King 时有更多技能可用。"
+ },
+ "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19": {
+  "zh_title": "《GTA 6》11 月 19 日登陆 Xbox 云游戏，支持 Xbox One 与 Xbox Series X|S",
+  "zh_summary": "《Grand Theft Auto VI》是 Microsoft Store 历史上预购量最高的游戏，11 月 19 日发售。考虑到空前的需求，建议大家尽早开始预载，以便发售当天就能玩。发售首日即可通过 Xbox 云游戏在 Xbox One 与 Xbox Series X|S 上游玩。",
+  "zh_summary_full": "《Grand Theft Auto VI》是 Microsoft Store 历史上预购量最高的游戏，11 月 19 日发售。考虑到空前的需求，建议大家尽早开始预载，以便发售当天做好准备。《Grand Theft Auto VI》发售首日即可通过 Xbox 云游戏在 Xbox One 与 Xbox Series X|S 上游玩。"
+ },
+ "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today": {
+  "zh_title": "《GTA 6》即日起可在 PS5 上预载",
+  "zh_summary": "《Grand Theft Auto VI》已成为 PlayStation Store 历史上预购量最高的游戏。鉴于空前的需求，我们与 Rockstar 合作，让玩家可以提前九天开始预载，发售当天直接开玩。",
+  "zh_summary_full": "《Grand Theft Auto VI》已成为 PlayStation Store 历史上预购量最高的游戏。鉴于空前的需求，我们与 Rockstar 合作，让玩家可以提前九天开始预载，发售当天直接开玩。"
+ },
+ "https://www.destructoid.com/marvel-cosmic-invasion-doom-siege-dlc-impressions": {
+  "zh_title": "《漫威宇宙入侵》的新 Roguelite 毁灭博士 DLC，补上了发售时缺的那份重玩价值",
+  "zh_summary": "向毁灭博士低头。这篇是《漫威宇宙入侵》新 DLC「毁灭围攻」的试玩印象：Roguelite 玩法给这款游戏补上了发售时欠缺的重玩价值。"
+ },
+ "https://www.destructoid.com/marathons-symbiosis-update-everything-asked-for-may-not-matter": {
+  "zh_title": "《马拉松》的 Symbiosis 更新给了玩家想要的一切，但可能依然于事无补",
+  "zh_summary": "这是重磅的一次更新。文章聊的是《马拉松》的 Symbiosis 更新：即便它满足了玩家的所有诉求，也未必能扭转局面。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox": {
+  "zh_title": "Rockstar 确认《GTA 6》在 PlayStation 与 Xbox 上目标 30 帧，我等 PC 版反而更安心了",
+  "zh_summary": "这不是自我安慰。Rockstar 确认《GTA 6》在 PlayStation 和 Xbox 主机上的目标帧率是 30fps，这让作者对等待 PC 版更有信心了。"
+ },
+ "https://www.destructoid.com/marvel-rivals-season-11-patch-notes": {
+  "zh_title": "《漫威争锋》第 11 赛季以毁灭博士为主题，夜行者加入，毁灭博士随后就到",
+  "zh_summary": "BAMF！《漫威争锋》以毁灭博士为主题的第 11 赛季带来夜行者，毁灭博士也即将登场。"
  }
 }
