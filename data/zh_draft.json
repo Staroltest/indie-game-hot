@@ -3527,5 +3527,28 @@
   "zh_title": "设计手记：让经典棋局复盘变得可以游玩",
   "zh_summary": "看经典棋局和自己落子是两回事。在《Magic Wizard Chess》里，作者把两者连起来：玩家可以复盘一局历史名局，在某个局面暂停，然后接手与电脑对弈。这篇设计手记讲的是这次交接，而非宣称复盘名局就能自动提高棋力。",
   "zh_summary_full": "看一场经典棋局和自己选择下一步棋，是两种不同的活动。在《Magic Wizard Chess》中，我把两者连接起来：让玩家复盘一局历史棋局，在某个局面暂停，然后接手与电脑继续对弈。这篇设计手记讲的是这种交接的设计，而不是宣称复盘名局就能自动提高棋力。三个问题指导着我如何评估这个流程：1. 当前模式是否清晰？复盘时，下一步属于棋谱记录；接手之后，下一步属于玩家或电脑。"
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-5c26": {
+  "zh_title": "6 行 JS 屏幕震动 + 顿帧技巧，立刻给游戏加上打击感",
+  "zh_summary": "想让 2D HTML5 浏览器游戏玩起来像街机大作？不用上物理引擎，在渲染循环里加 6 行 canvas 平移震动就够了：用 shakeIntensity 控制震动幅度，每帧随机偏移后按 0.88 衰减，配合 ctx.save()/restore() 让 UI 保持不动，武器命中和碰撞立刻重 10 倍。代码即插即用，也适合直接放进 AI 生成的 HTML5 Canvas 游戏提示词里。",
+  "zh_summary_full": "想让 2D HTML5 浏览器游戏玩起来像街机大作？不用上物理引擎，在渲染循环里加 6 行 canvas 平移震动就够了。6 行屏幕震动技巧：let shakeIntensity = 12; function applyScreenShake(ctx) { if (shakeIntensity > 0.5) { const dx = (Math.random() - 0.5) * shakeIntensity; const dy = (Math.random() - 0.5) * shakeIntensity; ctx.translate(dx, dy); shakeIntensity *= 0.88; // 平滑衰减 } }。开发者喜欢把它写进 AI 游戏提示词里的原因：即时街机冲击感，让武器命中和碰撞感觉重 10 倍；无破坏性，用 ctx.save() 和 ctx.restore() 包住渲染循环，UI 元素纹丝不动；一次成型，随手就能丢进 AI 生成的 HTML5 Canvas 游戏里。作者还把自己整理的 2D 与 3D Three.js 浏览器游戏一句话提示词合集、通用 God-Mode 控制台加速技巧和 FFmpeg 病毒式预告片脚本编成了免费 PDF《AI Browser Game Pro Pack & God-Mode Vault》。"
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/css-sprite-sheet-animation-getting-steps-right-539n": {
+  "zh_title": "CSS 精灵图动画：把 steps() 用对",
+  "zh_summary": "把整张精灵图设为元素背景，元素尺寸取单帧大小，再用 steps() 时间函数让 background-position 逐帧滑动。8 帧 64×64 横排的例子：.sprite 宽高 64px，animation: play 0.8s steps(8) infinite，@keyframes 终点 background-position: -512px。",
+  "zh_summary_full": "把整张精灵图设为元素背景，元素尺寸取单帧大小，再用 steps() 时间函数让 background-position 逐帧滑动。8 帧 64×64 横排的例子：.sprite { width: 64px; /* 一帧 */ height: 64px; background: url(\"walk.png\") 0 0 no-repeat; animation: play 0.8s steps(8) infinite; /* 8 帧，10fps */ } @keyframes play { to { background-position: -512px 0; } /* 8 × 64px：整张图 */ }，再加一个带 role=\"img\" 和 aria-label=\"Character walking\" 的 div。所有代码片段都在 Chromium 156 里实测过，每 5ms 读一次计算后的 background-position，未测 Safari 和 Firefox。为什么 steps(N) 的终点要写整张图的宽度：时长等于帧数除以帧率，终点位置最容易踩坑——最后一帧在 -448px（7 × 64），看起来像终点，但 steps(8) 就是 steps(8, end)，8 次等长停顿、最后一次跳变发生在末尾，所以 to 值永远不会显示出来。终点写 -512px，停顿点正好落在 0、-64、-128……-448。经典 bug 正好反过来：终点写 -448px 配 steps(8)，每步只有 56px，前几帧看着正常，最后几帧会露出两个半帧。jump-none 写法是另一个正确答案，作者习惯手写它，哪怕正向循环看起来一模一样。"
+ },
+ "https://www.destructoid.com/best-players-for-fc-27-under-the-lights-evolution": {
+  "zh_title": "FC 27「灯光之下」进化最佳球员",
+  "zh_summary": "闪耀登场！本文首发于 Destructoid。"
+ },
+ "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it": {
+  "zh_title": "PlayStation Plus PC 应用 12 月关闭：符合条件的订阅者中使用率不到 0.4%",
+  "zh_summary": "这符合索尼从 PC 收缩的大趋势，但应用「退役」的真正原因很简单：没什么人用。"
+ },
+ "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier": {
+  "zh_title": "观点：有了 Big Walk，游戏开发中的 AI 之争变得更复杂了",
+  "zh_summary": "大讨论。「界线必须划在这里！到此为止，不许再往前！」请原谅我引用《星际迷航：第一次接触》里皮卡德舰长的台词（帕特里克·斯图尔特去世已两周，我现在才敢提他最著名的角色而不哽咽）——我保证，这句台词作为一种值得钦佩的原则立场，很贴切。",
+  "zh_summary_full": "大讨论。「界线必须划在这里！到此为止，不许再往前！」请原谅我引用《星际迷航：第一次接触》里皮卡德舰长的台词（帕特里克·斯图尔特去世已两周，我现在才敢提他最著名的角色而不哽咽）——我保证，这句台词作为一种值得钦佩的原则立场，很贴切。请阅读 nintendolife 上的全文。"
  }
 }
