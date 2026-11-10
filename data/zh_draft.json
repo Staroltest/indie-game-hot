@@ -490,5 +490,9 @@
  "https://gamedev.net/forums/topic/720806-hobbyunpaidgodot-4-kagami-recruiting-programmers-and-2d-artists": {
   "zh_title": "[爱好][无偿][Godot 4]《KAGAMI》招募程序员与 2D 美术",
   "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……"
+ },
+ "https://gamedev.net/blogs/entry/2298641-monday-dev-note-polish-continues": {
+  "zh_title": "周一开发笔记：《Primeval》继续打磨",
+  "zh_summary": "关于《Primeval》的周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画……）还在做。"
  }
 }
