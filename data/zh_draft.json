@@ -568,5 +568,55 @@
   "zh_title": "OpenGameArt 2027 冬季 Game Jam：Neo-Retro 复古未来",
   "zh_summary": "OpenGameArt 2027 冬季 Game Jam 主题「Neo-Retro（复古未来）」：未来即过去，过去即未来，一切旧物皆新，一切新物皆旧。比赛 2026 年 12 月 31 日 6:00（GMT）开始，2027 年 1 月 31 日 5:59（GMT）截止投稿。",
   "zh_summary_full": "OpenGameArt 2027 冬季 Game Jam 主题「Neo-Retro（复古未来）」：未来即过去，过去即未来，一切旧物皆新，一切新物皆旧。比赛 2026 年 12 月 31 日 6:00（GMT）开始，2027 年 1 月 31 日 5:59（GMT）截止投稿。"
+ },
+ "https://gamefromscratch.com/grit-gdscript-to-c-compiler": {
+  "zh_title": "Grit：把 GDScript 编译成 C++ 的新工具链",
+  "zh_summary": "GDScript 的短板之一是性能不如 C# 和 C++。Grit 是一个新的实验性工具链，把游戏的 GDScript 代码编译成 C++，再编译为原生代码，有望解决 GDScript 的性能问题，实测提速约 1.1 倍起。",
+  "zh_summary_full": "GDScript 的短板之一是性能不如 C# 和 C++。Grit 是一个新的实验性工具链，把游戏的 GDScript 代码编译成 C++，再编译为原生代码，有望解决 GDScript 的性能问题，实测提速约 1.1 倍起。"
+ },
+ "https://gamefromscratch.com/saudi-arabia-pif-silver-lake-looking-to-buy-unity": {
+  "zh_title": "沙特 PIF 与 Silver Lake 有意收购 Unity",
+  "zh_summary": "Unity 自 2020 年 IPO 后一路走下坡：收购 Weta Digital（16 亿美元）和 Ziva Dynamics 均告失败、最终关闭，股价跌到被迫与 IronSource 合并。如今沙特 PIF 与 Silver Lake 传出有意收购 Unity。",
+  "zh_summary_full": "Unity 自 2020 年 IPO 后一路走下坡：收购 Weta Digital（16 亿美元）和 Ziva Dynamics 均告失败、最终关闭，股价跌到被迫与 IronSource 合并。如今沙特 PIF 与 Silver Lake 传出有意收购 Unity。"
+ },
+ "https://gamefromscratch.com/entire-quixel-megascans-library-goes-free-again": {
+  "zh_title": "Quixel Megascans 全库再次免费",
+  "zh_summary": "Epic 宣布 Quixel Megascans 全库在 Fab 上免费开放。这不是第一次：Fab 上线时免费过一次，几个月后从 Quixel 迁移到 Fab 时也免费过一次。错过前两次的这次别再错过。",
+  "zh_summary_full": "Epic 宣布 Quixel Megascans 全库在 Fab 上免费开放。这不是第一次：Fab 上线时免费过一次，几个月后从 Quixel 迁移到 Fab 时也免费过一次。错过前两次的这次别再错过。"
+ },
+ "https://gamefromscratch.com/the-future-of-unreal-engine-6": {
+  "zh_title": "Unreal Engine 6 的未来：Unreal Fest Tokyo 2026 透露更多",
+  "zh_summary": "Unreal Fest Tokyo 2026 透露了更多关于 Unreal Engine 6 的消息，延续了 6 月公布的内容。最受关注的一条推文提到：移除蓝图和 C++ Gameplay Framework 是最大的变化。",
+  "zh_summary_full": "Unreal Fest Tokyo 2026 透露了更多关于 Unreal Engine 6 的消息，延续了 6 月公布的内容。最受关注的一条推文提到：移除蓝图和 C++ Gameplay Framework 是最大的变化。"
+ },
+ "https://gamefromscratch.com/november-free-gamedev-assets-round-up": {
+  "zh_title": "11 月免费游戏开发资源汇总：Fab 又送 3 件",
+  "zh_summary": "Epic 在 Fab 商城的双月免费资源又来了：11 月 3 日至 17 日可免费领取 3 件资源，领到手就永久归你。本次包括 3 件 Unreal Engine 资源和 1 件 Unity 资源。",
+  "zh_summary_full": "Epic 在 Fab 商城的双月免费资源又来了：11 月 3 日至 17 日可免费领取 3 件资源，领到手就永久归你。本次包括 3 件 Unreal Engine 资源和 1 件 Unity 资源。"
+ },
+ "https://gamefromscratch.com/godot-terrain3d-1-1-0-released": {
+  "zh_title": "Godot 地形插件 Terrain3D 1.1.0 发布",
+  "zh_summary": "Godot 最流行的地形系统 Terrain3D 在 1.0 发布一年多后迎来大版本 1.1.0：改进了移动端支持，extras 中加入示例粒子草和等高线着色器。",
+  "zh_summary_full": "Godot 最流行的地形系统 Terrain3D 在 1.0 发布一年多后迎来大版本 1.1.0：改进了移动端支持，extras 中加入示例粒子草和等高线着色器。"
+ },
+ "https://gamefromscratch.com/affinity-for-ipad-released": {
+  "zh_title": "Affinity 登陆 iPad",
+  "zh_summary": "2024 年 Canva 收购了 Serif（Affinity Photo、Designer、Publisher 的开发商），这三款产品一直是替代 Photoshop、InDesign、Illustrator 的平价选择。大家曾担心 Canva 会如何处置 Affinity，好在如今 Affinity 登陆了 iPad。",
+  "zh_summary_full": "2024 年 Canva 收购了 Serif（Affinity Photo、Designer、Publisher 的开发商），这三款产品一直是替代 Photoshop、InDesign、Illustrator 的平价选择。大家曾担心 Canva 会如何处置 Affinity，好在如今 Affinity 登陆了 iPad。"
+ },
+ "https://gamefromscratch.com/ucupaint-3-0-0-released": {
+  "zh_title": "Blender 贴图插件 Ucupaint 3.0.0 发布",
+  "zh_summary": "Blender 最流行的贴图插件之一 Ucupaint 发布 3.0.0 大版本。它给 Blender 带来了一套成熟的分层系统，工作流更接近 Substance Painter，本次更新有不少亮眼改动。",
+  "zh_summary_full": "Blender 最流行的贴图插件之一 Ucupaint 发布 3.0.0 大版本。它给 Blender 带来了一套成熟的分层系统，工作流更接近 Substance Painter，本次更新有不少亮眼改动。"
+ },
+ "https://gamefromscratch.com/brutal-gets-a-bit-less-brutal": {
+  "zh_title": "C# 游戏框架 Brutal：没那么“残酷”了",
+  "zh_summary": "C# 游戏开发框架 Brutal 本月早些时候免费开源发布。它的核心理念之一就是“不好用”——名字本身就是警告：Brutal 面向想用它做游戏的有经验的程序员。本次更新让它稍微温和了一点。",
+  "zh_summary_full": "C# 游戏开发框架 Brutal 本月早些时候免费开源发布。它的核心理念之一就是“不好用”——名字本身就是警告：Brutal 面向想用它做游戏的有经验的程序员。本次更新让它稍微温和了一点。"
+ },
+ "https://gamefromscratch.com/maya-workflow-toolkit-for-blender": {
+  "zh_title": "Maya Workflow Toolkit：把 Blender 变成 Maya",
+  "zh_summary": "你是想转 Blender 又舍不得熟悉的工具和界面的 Maya 用户吗？Maya Workflow Toolkit 是 Blender 的一个新插件，基本把 Blender 变成了 Maya，让你在 Blender 里用上 Maya 的工作方式。",
+  "zh_summary_full": "你是想转 Blender 又舍不得熟悉的工具和界面的 Maya 用户吗？Maya Workflow Toolkit 是 Blender 的一个新插件，基本把 Blender 变成了 Maya，让你在 Blender 里用上 Maya 的工作方式。"
  }
 }
