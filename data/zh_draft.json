@@ -3196,5 +3196,23 @@
  "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy": {
   "zh_title": "特朗普称老友黄仁勋是“正派人”，还说他“大概有理由”——英伟达 CEO 被曝与所谓间谍有染",
   "zh_summary": "对“绿队”来说，这是艰难的一周。"
+ },
+ "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments": {
+  "zh_title": "Krafton 第三季度营收增长 11.6%，尽管 PC 与主机业务下滑",
+  "zh_summary": "Krafton 公布第三季度财报：营业利润同比下滑 35.5% 至 2250 亿韩元（约 1.681 亿美元），公司将下滑归因于参加 Gamescom 等活动的成本支出。",
+  "zh_summary_full": "Krafton 公布第三季度财报：营业利润同比下滑 35.5% 至 2250 亿韩元（约 1.681 亿美元），公司将下滑归因于参加 Gamescom 等活动的成本支出。"
+ },
+ "https://80.lv/articles/free-blender-tool-for-creating-stylized-anime-hair": {
+  "zh_title": "免费 Blender 工具：轻松制作风格化与动漫风发型",
+  "zh_summary": "在头部上绘制曲线，即可生成干净的四边形发丝网格。"
+ },
+ "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one": {
+  "zh_title": "Rockstar 断了从 Xbox 串流《GTA 6》到 PC 的念想，不过可以串流到旧款 Xbox One",
+  "zh_summary": "Rockstar 今天澄清了《Grand Theft Auto 6》在 PlayStation 5、PS5 Pro 和 Xbox Series X/S 上的帧率目标与画面设置等细节，并在同一公告中透露了游戏云串流选项的关键信息。",
+  "zh_summary_full": "Rockstar 今天澄清了《Grand Theft Auto 6》在 PlayStation 5、PS5 Pro 和 Xbox Series X/S 上的帧率目标与画面设置等细节，并在同一公告中透露了游戏云串流选项的关键信息。"
+ },
+ "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms": {
+  "zh_title": "《Big Walk》开发者透露生成式 AI 仅“少量使用”，估计用 LLM 实际编写的代码“远不到 0.1%”",
+  "zh_summary": "House House 表示，生成式 AI 没有用在其他任何地方。"
  }
 }
