@@ -3641,5 +3641,51 @@
  "https://www.destructoid.com/how-to-gain-more-followers-in-warhammer-survivors": {
   "zh_title": "《Warhammer Survivors》中如何获得更多追随者",
   "zh_summary": "这里说的可不是社交媒体上的粉丝！本文介绍在《Warhammer Survivors》中获得更多追随者的方法。"
+ },
+ "https://godotengine.org/article/partners_jetbrains_sponsorship_renewal_2027": {
+  "zh_title": "JetBrains 续签 Godot 基金会白金赞助（2027 年）",
+  "zh_summary": "JetBrains 已续签 2027 年 Godot 基金会白金赞助，自 2025 年 8 月首次加入白金赞助以来，JetBrains 持续扩展 Rider 对 Godot 的支持，如今 GDScript、C# 与 C++ GDExtension 可在同一 IDE 内开发，且非商业用途免费。Rider 提供 GDScript 代码补全、重构与调试，C# 测试支持 Chickensoft GoDotTest，C++ GDExtension 可用 CMake 构建，Rider 2026.3 还将加入节点引用跳转、信号连接查找等新功能，目前已在 Early Access Program 中提供。",
+  "zh_summary_full": "很高兴和大家分享，JetBrains 已续签 2027 年 Godot 基金会白金赞助。JetBrains 自 2025 年 8 月起首次成为白金赞助商。在赞助之外，JetBrains 还在持续扩展 JetBrains Rider 对 Godot 的支持。过去一年里，Rider 已覆盖 GDScript、C# 和 C++ GDExtension 的同一 IDE 开发，并且对非商业用途免费，包括业余项目、学习、开源和内容创作。Rider 为 Godot 开发者带来：GDScript 支持：代码补全、查找用法、重命名重构、检查与格式化；可以把节点从 Scene Preview 拖进脚本以插入其路径，或生成 @onready 和 @export 变量。调试与测试：可在 Rider 中调试 GDScript 与 C#，包括特定场景和工具脚本，还能在混合项目中同时调试两种语言；C# 测试使用 Chickensoft GoDotTest 运行器。原生开发：用 CMake 构建 C++ GDExtension，并在调试器中使用 Linux 与 macOS 上的 godot-cpp.natvis 查看 Godot 原生类型。插件开发：为 Godot 游戏、资产和编辑器插件准备的项目模板，可直接发布到 Godot Asset Store。Rider 2026.3 即将到来：从 $Node 与 %UniqueNode 引用跳转到场景节点、查找通过 Callable 建立的信号连接的用法，以及调试 C# 时的远程场景树与节点检查器。这些功能目前已在 Early Access Program 中提供。"
+ },
+ "https://gamedev.net/forums/topic/720813-undead-ends-zombie-puzzle-my-free-route-puzzle-game-is-out-on-ios": {
+  "zh_title": "《Undead Ends: Zombie Puzzle》：免费路线解谜游戏已上架 iOS",
+  "zh_summary": "独立开发者 Afonso Quinaz 的免费路线解谜游戏《Undead Ends: Zombie Puzzle》已于 2026 年 11 月 9 日上架 iPhone App Store。玩法是把僵尸引向死胡同：在僵尸走向小屋的路上放置路障，让每只僵尸的路线都通向深坑、陷阱或封闭街道，按下 GO 后看着尸群按你的计划行动。移动完全确定，没有任何反应要素。",
+  "zh_summary_full": "我是 Afonso Quinaz，一名独立开发者，先说明一下：这是我自己的游戏。《Undead Ends: Zombie Puzzle》已于 2026 年 11 月 9 日在 iPhone App Store 上架。玩法是这样的：僵尸正摇摇晃晃地走向一座小屋，你手头有几处路障。把它们摆好，让每只僵尸的路都通向死胡同（一处深坑、一个陷阱或一条封闭的街道），在它到达门口之前截住它。然后按下 GO，看着尸群按你的计划行动。移动完全是确定性的，没有任何反应要素。"
+ },
+ "https://www.indiedb.com/games/the-roostfather-rise-of-the-coop/news/the-old-don-went-into-the-soup-youre-next-in-line": {
+  "zh_title": "“老教父下锅了，下一个就是你”——《The Roostfather: Rise of the Coop》已发售",
+  "zh_summary": "像素风鸡群黑手党喜剧《The Roostfather: Rise of the Coop》现已上架 Microsoft Store（Windows PC 与 Xbox）与 Google Play。游戏围绕母鸡、鸡蛋、一只颇有想法的狐狸和一口每周日都在等着的汤锅展开。",
+  "zh_summary_full": "《The Roostfather: Rise of the Coop》现已上架 Microsoft Store（Windows PC 与 Xbox）与 Google Play。这是一部像素风鸡群黑手党喜剧，围绕母鸡、鸡蛋、一只颇有想法的狐狸和一口每个周日都在等着的汤锅展开。"
+ },
+ "https://www.indiedb.com/games/pixel-pawns-chess-duels/news/pixel-pawns-is-out-now-your-next-move-starts-a-fight": {
+  "zh_title": "《Pixel Pawns》已发售：你的下一步棋就是一场战斗",
+  "zh_summary": "《Pixel Pawns™》是一款像素风国际象棋，每次吃子都会演变成一段动画像素对决，而规则与你熟悉的国际象棋完全一致。现已上架 Google Play（Android）与 Microsoft Store（Windows PC 与 Xbox）。",
+  "zh_summary_full": "《Pixel Pawns™》是一款国际象棋游戏，每次吃子都会演变成一段动画像素对决，而规则与你所熟知的完全一致。现已上架 Google Play（Android）与 Microsoft Store（Windows PC 与 Xbox）。"
+ },
+ "https://www.indiedb.com/games/runebloom-fantasy-word-search/news/find-moon-and-the-moon-rises-runebloom-is-out-now": {
+  "zh_title": "找到 MOON，月亮便升起：《Runebloom》已发售",
+  "zh_summary": "奇幻找词游戏《Runebloom》现已上架 Google Play 与 Microsoft Store（Windows PC 与 Xbox），每找到一个词都会唤醒世界的一部分。游戏包含八个领域、96 块棋盘、49 只隐藏生物，还有一个正在偷走万物之名的人。",
+  "zh_summary_full": "《Runebloom》是一款奇幻找词游戏，你找到的每个词都会唤醒世界的一部分，现已上架 Google Play 与 Microsoft Store（Windows PC 与 Xbox）。八个领域、96 块棋盘、49 只隐藏生物，还有一个正在偷走万物之名的人。"
+ },
+ "https://www.indiedb.com/games/sidera-imperii/news/sidera-imperii-the-rules-behind-a-blockade-in-a-real-time-space-4x": {
+  "zh_title": "《Sidera Imperii》：实时太空 4X 中封锁背后的规则",
+  "zh_summary": "在《Sidera Imperii》中，一支在轨舰队无需开火就能封锁一座船坞。本文介绍这款实时太空 4X 策略游戏当前 pre-alpha 版本的补给规则：一次跳跃消耗多少燃料、谁来派遣货船、海盗猎取什么、封锁又会切断什么。",
+  "zh_summary_full": "在《Sidera Imperii》中，一支在轨舰队无需开火就能封锁一座船坞。下面是这款实时太空 4X 策略游戏当前 pre-alpha 版本的补给规则：一次跳跃消耗多少燃料、谁来派遣货船、海盗猎取什么、封锁又会切断什么。"
+ },
+ "https://www.indiedb.com/games/ram-man-half-goat-half-god/news/ram-man-410-is-out-powerhouse": {
+  "zh_title": "《Ram Man》4.1.0“Powerhouse”已发布",
+  "zh_summary": "《Ram Man》4.1.0“Powerhouse”现已向所有玩家免费推出。第 3 区如今成为发电厂 Madame Volt 的地盘，也是 Ram Man 首个手工打造的生物群落区域。"
+ },
+ "https://www.indiedb.com/games/euro-truck-simulator-2/news/iceland-dlc-released": {
+  "zh_title": "《Euro Truck Simulator 2》冰岛 DLC 已发布",
+  "zh_summary": "《Euro Truck Simulator 2》的冰岛 DLC 终于来了。"
+ },
+ "https://www.indiedb.com/games/hamster-wheel-isekai/news/hamster-wheel-isekai-is-out-now-on-steam-one-button-55-gears": {
+  "zh_title": "《HAMSTER WHEEL ISEKAI》已上架 Steam：一键踩轮，55 档变速",
+  "zh_summary": "在这款增量 RPG 中，找准时机换挡，与 20 名对手竞速，把仓鼠轮一路踩到光速。现已上架 Steam，11 月 17 日前享 9 折。"
+ },
+ "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest": {
+  "zh_title": "Capcom 悄悄更新《Monster Hunter Wilds》Beta 的 Steam 页面，或暗示资料片测试",
+  "zh_summary": "我们可能很快就能提前体验到《Ascendance》了。"
  }
 }
