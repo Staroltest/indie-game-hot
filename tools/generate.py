@@ -2248,13 +2248,13 @@ def render_index(site, cats, cfg, src_by_id, selected, hot, timeline, generated_
             f'<button type="button" class="chip on" data-filter="all">全部</button>{cat_opts}</div>'
             + search_trigger + search_html + '</div>'
             + overlay_html
-            + f'<div id="featured">{sel_html}</div>'
             + f'<section class="card hot-card" id="hot" aria-labelledby="hot-topics">'
             f'<div class="hot-head"><h2 id="hot-topics"><span class="live" aria-hidden="true">'
             f'<span class="ping"></span><span class="dot"></span></span>当前热点</h2></div>'
             f'<ol class="hot-list hot-top5">{hot_html}</ol>'
             + hot_more
             + '</section>'
+            + f'<div id="featured">{sel_html}</div>'
             + f'<div id="timeline"><h2 class="sec">全部动态</h2>'
             + unread_row
             + tl_sections
