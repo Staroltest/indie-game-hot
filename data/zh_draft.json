@@ -3559,5 +3559,39 @@
  "https://www.destructoid.com/fc-27-road-to-the-knockouts-challenge-2-sbc-solutions-and-rewards": {
   "zh_title": "《FC 27》“Road to the Knockouts”挑战 2 SBC 解法与奖励",
   "zh_summary": "继续推进！本文带来《FC 27》“Road to the Knockouts”挑战 2 的 SBC 解法与奖励一览。"
+ },
+ "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy": {
+  "zh_title": "GTA 6 发售在即，生成式 AI PC 移植令人担忧，Take-Two CEO 称正加强技术防御与法律行动打击盗版",
+  "zh_summary": "眼下 AI 正在渗透游戏开发、Mod 社区，乃至热门游戏重制版的原生 PC 移植，形势不容乐观。随着 GTA 6 临近，发行商 Take-Two 的 CEO Strauss Zelnick 表示，公司正在从技术和法律两方面做准备。",
+  "zh_summary_full": "眼下正是 AI 与游戏纠缠不清的时刻——显然不是什么好时候，因为它正渗透到游戏开发、Mod 社区，乃至某款热门游戏重制版的原生 PC 移植之中。Rockstar Games 与即将发售的 GTA 6 自然也会关心后者。不过据发行商 Take-Two 的 CEO Strauss Zelnick 透露，他们目前正在从技术和法律两方面做准备。"
+ },
+ "https://80.lv/articles/bloody-hell-hotel-developer-on-making-a-vampire-management-sandbox": {
+  "zh_title": "《Bloody Hell Hotel》开发者谈吸血鬼经营沙盒的制作",
+  "zh_summary": "曾为《DARQ》配乐的电影作曲家 Wlad Marhulets 谈了《Bloody Hell Hotel》的开发，聊了吸血鬼酒店沙盒的玩法机制、程序化地牢的设计思路，以及工作室为何选择与外包合作而非全职雇员。",
+  "zh_summary_full": "曾为《DARQ》配乐的电影作曲家 Wlad Marhulets 与我们聊了《Bloody Hell Hotel》的开发，谈到了吸血鬼酒店沙盒的玩法机制、程序化地牢的设计方式，以及工作室为何与外包合作而不是雇佣全职员工。"
+ },
+ "https://gamedev.net/blogs/entry/2298648-material-niagara-collision-smokebomb-update": {
+  "zh_title": "材质与 Niagara 碰撞：烟雾弹更新",
+  "zh_summary": "休假归来、发布《WoW Forever》之后，作者终于回到 UE5 的学习之旅，重新打磨了自己的烟雾弹。最头疼的是烟雾外观：亮红还带辉光，完全不是想要的效果。折腾许久才发现，材质里有不同的混合模式。",
+  "zh_summary_full": "好久没能坐下来推进自己的 UE5 学习之旅了。休了一个应得的长假，又发布了《WoW Forever》，这段时间一直很忙。不过我终于回到 UE5，重新打磨了自己的烟雾弹。最让我头疼的一点是烟雾的外观：亮红色还微微发光，完全不是我们想要的效果。我撞了很久的墙才意识到，材质里面有不同的混合模式。"
+ },
+ "https://dev.to/idlecultivation/timing-a-fate-card-in-a-browser-cultivation-game-4bdp": {
+  "zh_title": "在浏览器修仙游戏里给一张命运卡掐准时机",
+  "zh_summary": "开发周期为 2026 年 10 月 1 日（按提交日期计）。一天、三十次提交，一张卡重做了三遍。这款浏览器修仙游戏里的命运事件会在你面前摆出一个带倒计时的选择，倒计时会替你做决定：超时就由游戏替你选安全选项。这套设计暗中依赖一件设计师很难掌控的事——玩家到底能不能看到这张卡。一天里最大的主线，就是为让这种依赖变得诚实而做的三轮改动。",
+  "zh_summary_full": "开发周期为 2026 年 10 月 1 日（按提交日期计）。一天、三十次提交，一张卡重做了三遍。这款浏览器修仙游戏里的命运事件会在你面前摆出一个带倒计时的选择，倒计时说了算：超时，游戏就替你选安全选项。这套设计暗中依赖一件设计师很难掌控的事——玩家能不能看到这张卡。当天最大的主线，就是为让这种依赖变得诚实而做的三轮改动。第一轮：一个在对话框后面过期的决定。头两次会话测试里，两名测试者一小时内的所有命运事件全丢了。卡片在采矿面板里打开，藏在 NPC 对话后面、被其他弹窗盖住，自己就悄悄结算了。两人随后读到后续台词“没等你回答就过去了”，只觉得是句谎话——因为在他们看来，自己根本没被问过。第一次改动让卡片在无法作答时先等着。这有帮助，但还不够。在手机上，卡片在遮住它的对话框关闭三秒后才结算；在桌面端，四张卡一股脑涌来，第一张还没读完就全没了。第二轮：卡片有了属于自己的窗口。第二轮改动让被暂存的卡片获得与可见卡片同样的存活时间，从它变得可作答时算起：桌面端二十秒，手机上十秒，因为手机一次只显示一件事，而且那边的事件出现频率更低。"
+ },
+ "https://dev.to/trendzbetagames/what-a-mobile-offroad-game-teaches-us-about-puzzle-driven-design-2ik5": {
+  "zh_title": "一款手机越野游戏教会我们的解谜驱动设计",
+  "zh_summary": "大多数手机驾驶游戏靠速度和竞争吃饭，而 Just a studio 的安卓游戏《Tow & Trail: Offroad 4x4 Sim》把核心循环建在了另一件事上：破解地形。几个设计选择值得注意：障碍即谜题、奖励耐心的物理、取舍分明的载具、清晰的新手引导，以及离线优先的设计。对开发者来说，这是个围绕单一机制做短时手机游戏的有用案例：一关只需几分钟。",
+  "zh_summary_full": "大多数手机驾驶游戏靠速度和竞争吃饭，而 Just a studio 的安卓游戏《Tow & Trail: Offroad 4x4 Sim》把核心循环建在了另一件事上：破解地形。几个设计选择值得注意：障碍即谜题。每一次渡河、泥辙和冲沟都要求你做决定，而不是跑更快一圈。你要选挡位、锁差速器、铺木板，或者把绞盘挂到树上。奖励耐心的物理。车轮会在松软地面下陷，空转会越陷越深，冰面会让卡车打滑。取舍分明的载具。12 辆卡车和 SUV 在发动机、轮胎、离地间隙和涉水深度上各不相同，所以每关的最佳选择都不一样。清晰的新手引导。障碍处的提示会告诉你按哪个按钮，还有两种操作方式：摇杆，或按钮加踏板。离线优先的设计。游戏无需联网即可游玩，并用 Google Play Games 做云存档。对开发者来说，这是个围绕单一机制做短时手机游戏的有用案例，一关只需几分钟。作者表示未核实引擎或技术栈，本文只讨论商店描述和实际玩法呈现的内容。"
+ },
+ "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox": {
+  "zh_title": "《Football Manager 27》现已随 Game Pass 登陆：5 个不容错过的亮点",
+  "zh_summary": "是时候做出本赛季的大决定了，《FM27》与《FM27 Console》现已发售，并已加入 Game Pass。FM27 让你对战术愿景有更大的掌控，也带来一个从生涯伊始就能深入探索的更丰富的足球世界；主机版则带来众多新增内容、打磨与回归要素。",
+  "zh_summary_full": "是时候做出本赛季的大决定了，《FM27》与《FM27 Console》现已发售，并已加入 Game Pass。FM27 让你对战术愿景有更大的掌控，也带来一个从生涯伊始就能深入探索的更丰富的足球世界。FM27 Console 则带来众多新增内容、打磨与回归要素。"
+ },
+ "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it": {
+  "zh_title": "《Unknown 9: Awakening》惨败两年后，万代南梦宫关闭了制作它的工作室",
+  "zh_summary": "Reflector Entertainment 本来有个新游戏在前期制作中，但万代认为不值得继续投入时间和金钱。"
  }
 }
