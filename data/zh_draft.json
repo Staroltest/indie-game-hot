@@ -3593,5 +3593,19 @@
  "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it": {
   "zh_title": "《Unknown 9: Awakening》惨败两年后，万代南梦宫关闭了制作它的工作室",
   "zh_summary": "Reflector Entertainment 本来有个新游戏在前期制作中，但万代认为不值得继续投入时间和金钱。"
+ },
+ "https://www.indiedb.com/games/trytoact/news/trytoact-a-free-dubbing-party-game-in-your-browser-for-up-to-12-players": {
+  "zh_title": "TryToAct：一款免费的浏览器配音派对游戏，最多支持 12 人同玩",
+  "zh_summary": "TryToAct 是一款免费的浏览器配音派对游戏：静音一段场景，用麦克风录下台词，再和朋友一起看成品。本文介绍这款游戏是什么、一局怎么玩，以及声音模仿模式带来了什么。",
+  "zh_summary_full": "TryToAct 是一款免费的浏览器配音派对游戏：静音一段场景，用麦克风录下台词，再和朋友一起看成品。本文介绍这款游戏是什么、一局怎么玩，以及声音模仿模式带来了什么。"
+ },
+ "https://dev.to/mighty840/what-does-balanced-mean-for-a-board-game-3d8m": {
+  "zh_title": "桌游的「平衡」到底是什么意思？",
+  "zh_summary": "先从一个叫 Pig 的骰子游戏说起：两名玩家竞速到 100 分，每回合可以一直掷骰子累积点数，掷出 1 则本回合全失，提前「收手」就能把分数存下。先到 100 分者胜。设计师会问：先手有优势吗？大到什么程度才算过分？「平衡」这个词本身没告诉你要量什么，本文把它变成可以度量的东西——用一段简短的 Rust 程序实测，再看答案在多大程度上取决于玩家是谁。最后一部分是个意外，也决定了这个系列后续的走向。",
+  "zh_summary_full": "先从一个叫 Pig 的骰子游戏说起。两名玩家竞速到 100 分：轮到你时可以一直掷骰子，把点数累加起来；一旦掷出 1，本回合掷出的分数全部作废，轮到对方；如果提前「收手」（hold），分数就存下来，安全了。先存满 100 分者胜。设计师会问的一个问题是：先手有帮助吗？如果有，大到什么程度才算过分？人们常说一款游戏「平衡」或「不平衡」，但这个词本身并没有告诉你要度量什么。这里我们要把它变成可以度量的东西，用一段简短的 Rust 程序实测，然后看答案在多大程度上取决于谁在玩。最后一部分是个意外，它决定了这个系列后续的一切。作者正在搭建一个叫 gameforge 的测试框架，为自己的桌游（L.U.C.A.、Samudra Manthana 和 Kölnisch Wasser）做更大规模的这类测试。Pig 足够小，可以先手工把整个过程走一遍。把「平衡」变成目标：「先手是否公平？」在说清公平是什么意思之前，这个问题没有是非答案。先把它写成一个要达成的数字，再加一个可接受的偏差：先手玩家赢下 50% 的对局，上下浮动 2 个百分点。这就是目标（50%）和容差（2 个点）。为什么需要容差？因为没有游戏是绝对均势的，设计师必须决定，多大的优势才小到可以忽略。"
+ },
+ "https://www.destructoid.com/where-to-catch-bloodgill-in-dreadmoor": {
+  "zh_title": "《DREADMOOR》里 Bloodgill 在哪钓",
+  "zh_summary": "速通一趟就能搞定。本文最初发表于 Destructoid。"
  }
 }
