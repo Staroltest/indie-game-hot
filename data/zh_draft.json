@@ -398,5 +398,73 @@
  "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace": {
   "zh_title": "爆红赛博朋克店主游戏《Probably Stolen》原本是一款完全不同的非赛博朋克游戏，差点石沉大海",
   "zh_summary": "太空站交易游戏《Probably Stolen – Cyberpunk Shopkeeper Sim》在 Steam 上表现相当不错，昨晚同时在线玩家超过 162,000 人。我一直有冲动想打开它……"
+ },
+ "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3": {
+  "zh_title": "开发快照：Godot 4.8 beta 3",
+  "zh_summary": "尽管团队大半成员上周都在参加 GodotFest，剩余发布阻塞问题仍取得了可观进展，看起来离发布已不太远。"
+ },
+ "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff": {
+  "zh_title": "报道：星球大战新作开发商 Bit Reactor 裁员，人数未公布",
+  "zh_summary": "游戏发售几个月后，这家工作室似乎刚重整旗鼓，但新报道称这家星球大战回合制战术游戏的开发商正在裁员。"
+ },
+ "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers": {
+  "zh_title": "《魔兽世界：Forever》成系列史上最大规模上线，同时在线人数创纪录",
+  "zh_summary": "暴雪这款备受期待的作品上线表现亮眼，成为 Xbox 业务的一大亮点。"
+ },
+ "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip": {
+  "zh_title": "Take-Two CEO 谈 GTA 6、BioShock 与收购计划：我们这行没有轻松赚钱这回事",
+  "zh_summary": "Take-Two 公布第二财季财报，CEO Strauss Zelnick 谈及业绩、公司方向以及复活老 IP 的计划。"
+ },
+ "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations": {
+  "zh_title": "Take-Two 第二财季净预订额跌 18% 至 16 亿美元，NBA 2K27 未达预期，但 GTA 6 预购量远超预期",
+  "zh_summary": "Take-Two 公布第二财季财报：净预订额同比下降 18% 至 16 亿美元，净收入下降 16% 至 15 亿美元。"
+ },
+ "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36": {
+  "zh_title": "Tripwire Interactive 裁员 36 人",
+  "zh_summary": "《杀戮空间》与《食人鲨》开发商 Tripwire Interactive 裁员 36 人。"
+ },
+ "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch": {
+  "zh_title": "PlayStation 取消《瑞奇与叮当：Ranger Rumble》，软启动一年后叫停",
+  "zh_summary": "PlayStation 取消了《瑞奇与叮当》免费手游衍生作 Ranger Rumble，该作进入软启动已有一年。"
+ },
+ "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way": {
+  "zh_title": "《战锤 40K：暗黑异端》明年 1 月发售，留给玩家准备的时间不多了",
+  "zh_summary": "这款 CRPG 已确认明年 1 月发售，玩家很快就要面对大量艰难抉择与秘密战争。"
+ },
+ "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid": {
+  "zh_title": "《Swarmbreaker》：敌人如流体般聚拢、碰撞、流动的迷人塔防游戏",
+  "zh_summary": "这款塔防新作中敌人会像流体一样聚拢、碰撞与流动，观感格外迷人。"
+ },
+ "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected": {
+  "zh_title": "世嘉第三方邮件服务商遭网络攻击，超 200 万邮箱泄露，世嘉账号未受影响",
+  "zh_summary": "世嘉透露，因日本邮件服务商 Arara 遭攻击，超 200 万个邮箱地址泄露，但世嘉账号本身未受影响。"
+ },
+ "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations": {
+  "zh_title": "微软员工指控公司让用户对 AI 上瘾，还强迫员工参与侵犯人权的行为",
+  "zh_summary": "一群微软员工发表公开信，批评公司不惜一切追求生成式 AI 速度的做法正在伤害客户与同事。"
+ },
+ "https://gamedev.net/blogs/entry/2298640-demo-update-version-094": {
+  "zh_title": "试玩更新：0.9.4 版",
+  "zh_summary": "新试玩版发布：新增手动操作、十字路口界面改进、战斗快捷键、按键重映射打磨、新主菜单与制作人员名单等。"
+ },
+ "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted": {
+  "zh_title": "[安卓][美/英]《Dragon's Prisms》招募志愿封闭测试玩家",
+  "zh_summary": "独立开发者 Harrold Interactive 为 Godot 制作的奇幻三消解谜游戏招募志愿测试玩家，游戏含 500 个冒险关卡。"
+ },
+ "https://gamedev.net/blogs/entry/2298638-how-far-along-is-the-project-track-progress-on-every-card": {
+  "zh_title": "项目进展到哪了？给每张卡片做进度追踪",
+  "zh_summary": "「快做完了」听着安心，却说明不了真实进度。给每个元素加上检查清单、逐项打勾，工具会自动算出完成度。"
+ },
+ "https://gamedev.net/forums/topic/720805-new-horror-game-ideas-2d": {
+  "zh_title": "求助：2D 恐怖游戏创意",
+  "zh_summary": "想做一款 2D 恐怖游戏，类似点击解谜、开门找钥匙、揭开真相的玩法，暂名《The Hollow》。"
+ },
+ "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us": {
+  "zh_title": "在 Telegram 内用真机测 FPS：Chrome 设备模式永远发现不了的问题",
+  "zh_summary": "小团队在 Telegram 小程序里做 HTML5 游戏，长期用 Chrome 开发者工具加 CPU 节流测性能，结果与真机表现大相径庭。"
+ },
+ "https://www.sandromaglione.com/articles/indie-game-development-with-ai": {
+  "zh_title": "用 AI 做独立游戏开发",
+  "zh_summary": ""
  }
 }
