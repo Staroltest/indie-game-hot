@@ -3480,5 +3480,52 @@
  "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either": {
   "zh_title": "我装了个让《GTA 5》下人雨的 Mod，别问我为什么，我也不知道",
   "zh_summary": "我们都该这么幸运。"
+ },
+ "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more": {
+  "zh_title": "《Marathon》下月大变样：新增 Roguelite PvE 模式、类 Halo 团队死斗 Beta 与氛围感社交空间",
+  "zh_summary": "Bungie 兑现 9 月的承诺，《Marathon》下一赛季 Symbiosis 将带来大幅扩展：新增 Roguelite PvE 模式、风格类似 Halo 的团队死斗模式 Beta，以及一个氛围感十足的社交空间等内容。",
+  "zh_summary_full": "《Marathon》下个月将迎来大幅扩展。9 月时 Bungie 曾公布这款射击游戏的后续规划并做出几项重要承诺，其中就包括 PvE 模式的到来；现在他们展示了下一赛季 Symbiosis 将带来的具体内容。"
+ },
+ "https://80.lv/articles/end-of-abyss-devs-explain-how-they-made-top-down-horror-feel-unsettling": {
+  "zh_title": "《End of Abyss》开发者谈如何让俯视角恐怖游戏令人不安",
+  "zh_summary": "曾参与《小小梦魇》的开发者分享了如何运用实拍式恐怖手法、动漫式构图、环境光照与类银河战士恶魔城设计，打造这款令人不安的科幻冒险游戏。"
+ },
+ "https://www.indiedb.com/games/survivesmith/news/sub-weapon-variants-passive-armor-modules": {
+  "zh_title": "副武器变体与被动护甲模块",
+  "zh_summary": "解锁时可选择副武器变体，并按预设路线升级；装备随属性等级成长；在军械库中装备护甲模块，被动升级。"
+ },
+ "https://www.indiedb.com/games/a-sector-darkly/news/crafting-gameplay-in-our-space-exploration-rpg-a-sector-darkly": {
+  "zh_title": "太空探索 RPG《A Sector Darkly》的制作玩法",
+  "zh_summary": "快速了解这款将于 11 月 25 日登陆 Steam PC 平台的太空探索 RPG 中新加入的制作与研究玩法。"
+ },
+ "https://dev.to/cleanthemap/designing-the-rules-for-a-zombie-route-puzzle-undead-ends-zombie-puzzle-is-out-on-ios-3h7": {
+  "zh_title": "为僵尸路线解谜设计规则：《Undead Ends: Zombie Puzzle》已上架 iOS",
+  "zh_summary": "开发者 Afonso Quinaz 介绍了这款已于 11 月 9 日上架 iPhone App Store 的僵尸路线解谜游戏背后的规则集：僵尸朝房子移动，玩家放置路障，把每只僵尸引向死胡同。",
+  "zh_summary_full": "我是 Afonso Quinaz，我刚把《Undead Ends: Zombie Puzzle》上架 iPhone 的 App Store（2026 年 11 月 9 日）。这篇文章讲的是支撑整款游戏的那套小规则。事先说明：我是开发者，游戏免费，含广告与可选内购。核心循环是这样的：僵尸正摇摇晃晃地走向一栋房子，你手里有几块路障，摆好它们，让每只僵尸的路都通向一个死胡同（深坑、陷阱或封闭的街道），在它抵达门口之前解决掉。规划好，按下 GO，看着尸群走进你的计划。完全没有考验反应速度的成分。规则方面，移动是确定性的：每走一步，每只僵尸都会走向邻近路块中离房子最近的那一块，绕开路障；棋盘上的线标出每条路线，实线终点就是它会掉进去的坑。你没法把僵尸彻底困住：每只僵尸（坦克除外）必须始终有一条通往房子的路，所以会困住它的路障会被拒绝。你是给僵尸改道，而不是把它们关起来。还有 Par 值：每关都有一个 Par，即获胜所需的最少路障数，用 Par 获胜可得三星。在此之上的变化：坦克会砸碎路障，疾行者一次走两步，还有大门与压力板、下水道、开裂的路面、吊桥、爆炸怪等，分布在全球 28 个地点的 336 个手工关卡中。此外每天还有新的每日谜题、评分挑战，以及双人对决模式，你可以和另一名玩家在相同的棋盘上竞速。"
+ },
+ "https://dev.to/mike_af6b94d9b44a7c6dec37/solfoil-and-ripv-the-free-demo-is-live-2dbg": {
+  "zh_title": "SolFoil 与 $RIPV：免费试玩版已上线",
+  "zh_summary": "SolFoil 是一款基于 Solana 的拆卡包与转盘游戏，可在 solfoil.xyz 免费试玩拆数字闪卡包、转动 Foil 转盘；社区代币 $RIPV 已于 11 月 8 日在 pump.fun 上线，付费卡包与 $RIPV 奖励尚未开放。",
+  "zh_summary_full": "SolFoil 是一款基于 Solana 的拆卡包与转盘游戏。在 solfoil.xyz 的免费试玩版里可以拆数字闪卡包、转动 Foil 转盘。$RIPV 是社区代币（铸币地址 F36TiMpVCsNff3GM72dsy7jSXUjX4pd7xKbgZyF4pump），已于 2026 年 11 月 8 日在 pump.fun 上线。付费卡包与 $RIPV 奖励尚未开放。官网：https://solfoil.xyz，X：https://x.com/SolFoilxyz，Telegram：https://t.me/SolFoilOfficial。"
+ },
+ "https://dev.to/orellanaed/opus-55-vs-gpt-61-sol-the-door-problem-in-godot-54ol": {
+  "zh_title": "Opus 5.5 对决 GPT-6.1 Sol：Godot 里的“门之难题”",
+  "zh_summary": "AI 智能体能做出像优秀游戏里那样好用的门吗？Claude Opus 5.5（Claude Code）与 GPT-6.1 Sol（Codex）拿到同一提示词和同一张参考图，在 Godot 里搭建一座带四扇门的小房子并亲自按 Play 测试。",
+  "zh_summary_full": "AI 智能体能做出像优秀游戏里那样好用的门吗？Claude Opus 5.5（Claude Code）与 GPT-6.1 Sol（Codex）拿到了同一提示词和同一张参考图：在 Godot 里做一座带四扇门的小型第一人称房子（一扇可从两侧打开的铰链门、一扇带锁的门和它的钥匙、一扇会自动关上的门和一扇正门），门在摆动时是实体的，还有一个可以推进门洞的箱子，以及一个会沿环路巡逻、顺手推开挡路之门的守卫。两者都直接在 Flockbay 应用里使用 Godot 引擎，自己按 Play，并自行决定何时完成。原文：https://flockbay.com/blog/opus-5-5-vs-gpt-6-1-sol-the-door-problem-in-godot/，更新于 2026-10-07。测试环节：同一个第一人称驱动程序分别游玩了两座房子，用的各自的操控方式：从每扇门的两侧进出、站在门洞里、推箱子、试锁、在门打开时撞上去、挡在守卫的路上。双方收到的提示词原文：用 Godot 制作一款小型第一人称游戏的门，让它们像优秀游戏里的门那样工作。玩家在一座带走廊的两居室小房子里走动，用 W、A、S、D 和鼠标移动，按 E 打开或关闭正看着的门。做四扇门：走廊与第一间房之间一扇木质铰链门，玩家可以从两侧打开。"
+ },
+ "https://dev.to/orellanaed/sonnet-55-vs-gpt-61-sol-six-legged-walker-game-3545": {
+  "zh_title": "Sonnet 5.5 对决 GPT-6.1 Sol：六足步行机游戏",
+  "zh_summary": "AI 智能体能做出一只脚步绝不打滑的六足步行机吗？Claude Sonnet 5.5（Claude Code）与 GPT-6.1 Sol（Codex）拿到同一提示词和三张参考图，在 Godot 里用射线检测找地面、三足步态与逆运动学膝关节弯曲，穿越巨石、壕沟与岩架。",
+  "zh_summary_full": "AI 智能体能做出一只脚步绝不打滑的六足步行机吗？Claude Sonnet 5.5（Claude Code）与 GPT-6.1 Sol（Codex）拿到了同一提示词和同一张参考图：在 Godot 里做一台六足步行机，腿用射线检测找地面、始终踩稳、以三足步态行走、膝关节用逆运动学弯曲，穿越巨石、壕沟和一段岩架。不用关键帧走路动画，不用下载或生成的 3D 模型。两者都直接在 Flockbay 应用里使用 Godot 引擎，自己按 Play，并自行决定何时完成。之后双方又各收到一条消息：让它看起来尽可能真实。原文：https://flockbay.com/blog/sonnet-5-5-vs-gpt-6-1-sol-six-legged-walker-in-godot/，更新于 2026-10-06。测试环节：两个模型的每 token 价格相同，但按 API 价格估算的账单并不相同，视频展示了钱花在了哪里。两台步行机由同一套脚本驱动，各自用 W、A、S、D 操作。双方收到的提示词原文：用 Godot 制作一款六足步行机游戏。玩家驾驶一台六足步行机，从着陆台出发，穿越岩石峡谷，前往山脊上的信标。W、S 前进后退，A、D 转向。沿途峡谷地面布满巨石，有一条壕沟要跨过，还有一段岩架要爬上去。"
+ },
+ "https://gamedev.net/blogs/entry/2298646-neuronpc-development": {
+  "zh_title": "NeuroNPC 开发手记：给游戏 NPC 持久记忆与个性",
+  "zh_summary": "独立开发者正在寻找同行测试 NeuroNPC——一套实验性 AI NPC 系统，让游戏角色记住此前的对话、与玩家建立关系、保持一贯的个性，而不再把每次互动都当作全新对话。",
+  "zh_summary_full": "寻找独立开发者来测试 NeuroNPC——为游戏 NPC 提供持久记忆与个性。大家好！我是一名独立开发者，正在做 NeuroNPC，一个实验性的 AI NPC 系统，目标是让游戏角色更连贯、更令人难忘、对玩家更有回应。想法很简单：如果 NPC 能记住之前的对话、与玩家发展关系、保持一贯的个性，而不是把每次互动都当作全新的对话，会怎么样？NeuroNPC 希望提供：持久记忆——NPC 会保留此前互动中的相关信息；个性系统——每个角色都有影响其行为的个体特质。"
+ },
+ "https://gamedev.net/blogs/entry/2298643-design-notes-making-a-classic-chess-replay-playable": {
+  "zh_title": "设计手记：让经典棋局复盘变得可以游玩",
+  "zh_summary": "看经典棋局和自己落子是两回事。在《Magic Wizard Chess》里，作者把两者连起来：玩家可以复盘一局历史名局，在某个局面暂停，然后接手与电脑对弈。这篇设计手记讲的是这次交接，而非宣称复盘名局就能自动提高棋力。",
+  "zh_summary_full": "看一场经典棋局和自己选择下一步棋，是两种不同的活动。在《Magic Wizard Chess》中，我把两者连接起来：让玩家复盘一局历史棋局，在某个局面暂停，然后接手与电脑继续对弈。这篇设计手记讲的是这种交接的设计，而不是宣称复盘名局就能自动提高棋力。三个问题指导着我如何评估这个流程：1. 当前模式是否清晰？复盘时，下一步属于棋谱记录；接手之后，下一步属于玩家或电脑。"
  }
 }
