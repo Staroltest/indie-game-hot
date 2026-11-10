@@ -795,5 +795,27 @@
   "zh_title": "受《塞尔达传说》效应推动，Switch 2 在美销量再度飙升，创下今年迄今最佳单周表现",
   "zh_summary": "重制的《塞尔达传说：时之笛》能让 Switch 2 的硬件销量重新振作起来吗？这是个大问题。早期销售数据表明，答案是肯定的。",
   "zh_summary_full": "重制的《塞尔达传说：时之笛》能让 Switch 2 的硬件销量重新振作起来吗？这是个大问题。早期销售数据表明，答案是肯定的。"
+ },
+ "https://dev.to/_21fd064819ff1707b8060/i-convert-1000-won-to-1-in-my-stock-game-im-still-not-sure-the-cents-are-right-4jk": {
+  "zh_title": "股票游戏里我把 1000 韩元换算成 1 美元，但美分这块还是没算明白",
+  "zh_summary": "一位来自韩国的初级独立开发者正在做《Daily Trader: Stock Game》，玩家看盘、读新闻、用虚拟货币炒股，一局五分钟，也有一分钟模式。韩文版先用韩元计价，英文版也跟着显示韩元，这次他想把英文版改成美元显示：固定按 1000 韩元 = 1 美元换算，开局 1 亿韩元就变成 100,000 美元，刚好除以 1000，算起来简单；游戏内部仍用韩元整数存钱、算行情和交易。",
+  "zh_summary_full": "我是一名来自韩国的初级独立开发者，写英文时会借助翻译工具。我正在做《Daily Trader: Stock Game》：玩家看盘、读新闻，用虚拟货币炒股，一局五分钟，也有一分钟模式。韩文版先做出来，所以全都用韩元计价，英文版也跟着显示韩元。这次我想把英文版的显示改成美元，但 1 美元到底该值多少韩元，着实纠结了一阵。我想连货币单位也一起换掉：韩元（₩）是韩国的货币，国际上用得不多。我的游戏有韩文和英文两个版本，我想让货币跟语言对上，所以英文版选了美元。留着韩元当然更省事，但至少这部分我想为玩英文版的人改掉。我定的是 1000 韩元 = 1 美元。开局资金是 1 亿韩元，如果按 1 韩元 = 1 美元直接换，玩家开局就有 1 亿美元，感觉太夸张了；按真实汇率换，美元开局数又会是个别扭的零头；我还想让换算尽量简单。于是定了 1000 韩元 = 1 美元这个固定汇率，开局资金就变成 100,000 美元，只用除以 1000 就行。反正是虚拟货币，我觉得固定汇率没问题。游戏内部还是韩元：行情生成、交易和存档里的金额都仍以韩元整数保存。"
+ },
+ "https://80.lv/articles/real-world-jet-engine-recreated-with-intricate-blender-rig": {
+  "zh_title": "用精细的 Blender 骨架复刻真实喷气发动机",
+  "zh_summary": "一根骨骼控制全部运动。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-gpu-architecture-has-appeared-in-new-linux-kernel-patches-as-gfx13-updates-roll-out": {
+  "zh_title": "AMD 下一代 GPU 架构现身 Linux 内核补丁，GFX13 更新陆续推出",
+  "zh_summary": "这批 GFX13 补丁本身没什么特别值得兴奋的，但确实暗示明年可能真有新 GPU 问世。"
+ },
+ "https://gamedev.net/blogs/entry/2298642-devlog-1-building-construction": {
+  "zh_title": "开发日志 #1：建筑搭建过程",
+  "zh_summary": "我们继续打磨《XIRI: Oasis Cities》，细化建筑在建造过程中的组装方式。还有不少工作要做，但进展稳定，之后会陆续分享更多幕后更新。",
+  "zh_summary_full": "我们继续推进《XIRI: Oasis Cities》的开发，细化建筑在建造过程中的组装方式。还有不少工作要做，但我们正在稳步推进，之后会陆续分享更多幕后进展。想持续关注开发动态，可以关注我们的各个频道：YouTube、Instagram，也可以在 Steam 上加入愿望单。感谢大家一路关注，下次见！"
+ },
+ "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck": {
+  "zh_title": "Steam 现在能告诉你，在 Steam Deck 上玩游戏到底能跑多少帧",
+  "zh_summary": "Valve 把它一直在收集的数据公开了。"
  }
 }
