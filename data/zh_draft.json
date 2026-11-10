@@ -1,0 +1,402 @@
+{
+ "https://gamedev.net/forums/topic/720559-multithreading-scheduling-in-game-engines-with-dags": {
+  "zh_title": "游戏引擎中的多线程与 DAG 调度",
+  "zh_summary": "编者注：DAG 指有向无环图。先说结论：能不能用 framegraph 把游戏循环一帧之内的全部更新都组织起来？就目前而言，我正在做的引擎还是单线程的……"
+ },
+ "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet": {
+  "zh_title": "《Grand Theft Auto 6》会把互联网挤爆吗？",
+  "zh_summary": "早在 2025 年 9 月，《Hollow Knight: Silksong》发售时，等了八年多的玩家蜂拥而至，直接把任天堂、PlayStation、Xbox 和 Steam 的数字商店都挤垮了……"
+ },
+ "https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style": {
+  "zh_title": "《迷宫饭》的莱奥斯，被重绘成精美的手绘风 3D 形象",
+  "zh_summary": "满满的《Final Fantasy Tactics: The War of the Lions》既视感。"
+ },
+ "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach": {
+  "zh_title": "“教训就是，两者可以兼得”：《Skyrim》首席设计师认为，《Baldur's Gate 3》式的艰难抉择与 Bethesda 的自由玩法各有价值",
+  "zh_summary": "RPG 更好的是优先保证玩家自由，还是每前进一步就关掉几扇门、逼你换个角色再打一遍？……"
+ },
+ "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics": {
+  "zh_title": "本周 PC 游戏：调查 700 人失踪案、给精怪开夜市、在不服从物理学的棋盘上下棋",
+  "zh_summary": "不知道 Edwin 上周给 Maw 喂了什么，今天早上我走进它的房间，只见新游戏发售消息撒得满地都是——天花板、墙上、地板上，到处闪着游戏的身影……"
+ },
+ "https://80.lv/articles/how-to-make-hand-painted-base-generator-in-substance-3d-designer": {
+  "zh_title": "如何在 Substance 3D Designer 里做手绘风地基生成器",
+  "zh_summary": "Theresa Schlag 展示了她用 Substance 3D 工具制作手绘风地基生成器的过程，包括渐变色的运用，以及在处理节点图时遇到的挑战。"
+ },
+ "https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices": {
+  "zh_title": "《Skyrim》首席设计师称赞《Baldur's Gate 3》的选择有分量",
+  "zh_summary": "“Bethesda 的游戏一直秉持一个理念：让玩家什么都能玩到。”"
+ },
+ "https://gamedev.net/forums/topic/720804-angelscript-2390-is-out": {
+  "zh_title": "AngelScript 2.39.0 发布",
+  "zh_summary": "虽然等了很久，这次的新功能不算多，我主要精力都放在清理积压的 bug 上。这次的 bug 修复清单可能是史上最长的一次……"
+ },
+ "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous": {
+  "zh_title": "“我做的事没有任何借口，”Nvidia CEO 表示，其与一名疑似中国间谍的绯闻让中美 AI 竞赛显得更加荒诞",
+  "zh_summary": "表面上是显卡公司、实质上是 AI 巨头的 Nvidia 已委托第三方对自己展开独立调查。此前有报道称，CEO Jensen Huang 与一名疑似……有婚外情。"
+ },
+ "https://indiegamesplus.com/power-line-preview": {
+  "zh_title": "《Power Line》：为进 Nintendo 工作，你在简历上撒了谎",
+  "zh_summary": "《Power Line》是一款叙事驱动游戏，灵感来自真实的 Nintendo Power Line 游戏求助热线——玩家当年可以拨打实体电话，获得游戏通关提示……"
+ },
+ "https://80.lv/articles/developer-builds-script-that-reports-your-pc-s-unused-ram-to-sam-altman-daily": {
+  "zh_title": "有开发者写了个脚本，每天向 Sam Altman 汇报你电脑闲置的内存",
+  "zh_summary": "“没人告诉他内存都在哪儿，他怎么解决问题。”"
+ },
+ "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it": {
+  "zh_title": "前技术总监称，Rockstar“确实”考虑过把 GTA 交给日本工作室——“我知道是哪家，但我不说”",
+  "zh_summary": "自古以来，欧美发行商一直绞尽脑汁，想让自家游戏在日本卖动——那个 Mario、Sonic 等传奇角色诞生的国度……"
+ },
+ "https://80.lv/articles/nvidia-board-opens-investigation-after-foreign-intelligence-reports": {
+  "zh_title": "报道称 CEO 遭外国情报机构盯上后，NVIDIA 董事会启动独立调查",
+  "zh_summary": "独立董事委员会将牵头调查，并聘请外部律师；Jensen Huang 继续担任 CEO，并表示将配合调查。"
+ },
+ "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion": {
+  "zh_title": "托 GTA 6 的福，数百万人即将认识海牛 | 观点",
+  "zh_summary": "Alex Avard 是 Playing for the Planet 的项目经理，与该联盟的 54 个成员合作，推进减碳、叙事等项目……"
+ },
+ "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people": {
+  "zh_title": "《Star Wars Zero Company》开发商 Bit Reactor 裁员，人数未公布",
+  "zh_summary": "在回合制战术游戏《Star Wars Zero Company》8 月发售前，Bit Reactor 让“不少员工”休假，之后又开始安排休假员工陆续返岗……"
+ },
+ "https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder": {
+  "zh_title": "《The Witcher 3: Songs of the Past》之前，先看看这位资深任务 mod 作者做的“符合设定的杰洛特陶森特生活非官方扩展”",
+  "zh_summary": "虽然重制版升级已于 9 月底亮相，但《The Witcher 3》的额外扩展要到明年才会加入。离 2027 年还剩一个多月，一位 mod 作者已经动手……"
+ },
+ "https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag": {
+  "zh_title": "用 ZBrush 与 Marmoset Toolbag 重塑《Street Fighter 6》的 A.K.I.",
+  "zh_summary": "Jessie Chan 展示了她为《Street Fighter 6》的 A.K.I. 创作同人作品的工作流，讲解了 ZBrush 里对称低模如何与摆好姿势的高模联动，从而让 Substance 里的贴图制作更加顺手……"
+ },
+ "https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool": {
+  "zh_title": "用自研 Unreal Engine 5 工具打造逼真高山场景",
+  "zh_summary": "Michael Gerard 再次来到 80 Level，拆解他的 Alpine Forest 项目，介绍自研的 FoliageLab 方案——如何制作支持 Nanite 的植被，打造逼真的 Unreal 环境……"
+ },
+ "https://80.lv/articles/check-out-these-sneakers-with-actual-working-suspension": {
+  "zh_title": "看看这双带真正避震悬挂的运动鞋",
+  "zh_summary": "非常惊艳。"
+ },
+ "https://gamedev.net/forums/topic/720684-vrchat-vtuber-character-model": {
+  "zh_title": "VRChat Vtuber 角色模型",
+  "zh_summary": "VRChat 角色制作与升级，请直接通过 Discord 联系我。你好，我是 Shadowpaw，一名专注 VRChat 与虚拟角色创作的 3D 角色美术，遵循业内标准……"
+ },
+ "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games": {
+  "zh_title": "德国游戏行业协会警告：欧盟 KIDS 法案可能冲击现有游戏分级制度",
+  "zh_summary": "德国游戏行业协会 game 警告称，欧盟 KIDS 法案——9 月以草案形式公布，很可能对游戏开发者产生广泛影响——可能……"
+ },
+ "https://80.lv/articles/ubisoft-reportedly-working-on-two-new-assassin-s-creed-games": {
+  "zh_title": "据报道，Ubisoft 正在开发两款新的《Assassin's Creed》",
+  "zh_summary": "其中一款可能带玩家回到古罗马。"
+ },
+ "https://80.lv/articles/stealth-game-inspired-by-thief-dark-messiah-enters-early-access": {
+  "zh_title": "受《Thief》与《Dark Messiah》启发的潜行游戏进入抢先体验",
+  "zh_summary": "独立开发者 Reliquary Software 的《The Citadel Project》是一款带 RPG 元素的黑暗奇幻游戏，你需要逃出一座迷宫般的监狱。"
+ },
+ "https://80.lv/articles/skyrim-lead-designer-on-todd-howard-s-ability-to-think-like-a-player": {
+  "zh_title": "《Skyrim》首席设计师谈 Todd Howard 像玩家一样思考的能力",
+  "zh_summary": "Bruce Nesmith 说，Todd Howard 能抛开开发者的偏见看游戏，让玩家在想玩的地方尽情玩。"
+ },
+ "https://80.lv/articles/mass-effect-2-animator-shares-pre-alpha-cinematics-trailer": {
+  "zh_title": "《Mass Effect 2》动画师分享从未公开的 Pre-Alpha 过场预告",
+  "zh_summary": "为庆祝 N7 Day，Jonathan Cooper 展示了一支 BioWare Montreal 制作的内部预告，呈现其过场动画工作，并讲解了场景的搭建过程。"
+ },
+ "https://gamedev.net/forums/topic/720803-building-a-follow-up-tool-for-lenders-and-realtors-homeowner-hq-launches-dec-4": {
+  "zh_title": "为贷款机构和房产中介打造的跟进工具——Homeowner HQ 将于 12 月 4 日上线",
+  "zh_summary": "大家好，我是 Steven，一直在做一个游戏之外的东西，想着这里经营小生意的朋友可能也会感兴趣。它叫 Homeowner HQ，是为……"
+ },
+ "https://indiegamereviewer.com/twisted-tower-review-dont-get-it-twisted": {
+  "zh_title": "《Twisted Tower》评测——别被绕晕了",
+  "zh_summary": "《Twisted Tower》是一款短篇 FPS，带你探索一座废弃度假村，揭开它背后的谜团。"
+ },
+ "https://gamedev.net/forums/topic/720802-revshare-looking-for-a-2d-game-artist-for-a-mobile-narrative-puzzle-game": {
+  "zh_title": "[分成合作] 诚招 2D 游戏美术，参与手机叙事解谜游戏",
+  "zh_summary": "你好！我是 SWeetJelly，一名游戏设计师。我正在开发一款手机游戏，玩家边读互动故事边解开简单谜题。这个项目的灵感来自《Assembl…》等游戏……"
+ },
+ "https://gamedev.net/blogs/entry/2298635-sunday-dev-note-graphics-pass-still-in-progress": {
+  "zh_title": "周日开发笔记：画面打磨仍在进行中",
+  "zh_summary": "周日简报。画面打磨仍在进行中：建筑美术和更精细的恐龙模型正在制作，但都还没进正式版本。准备好了就分享……"
+ },
+ "https://gamedev.net/forums/topic/720801-wipbrowser-sniper-em-chamas-a-free-pixel-art-action-campaign-in-four-languages": {
+  "zh_title": "[开发中][网页]《Sniper em Chamas》：免费像素风动作战役，支持四种语言",
+  "zh_summary": "《Sniper em Chamas》是 Cogulezo Games 出品的免费网页动作战役，现已上架 itch.io。游戏融合了多样的关卡、像素风画面、过场视频和 8-bit 风格音效。"
+ },
+ "https://gamedev.net/forums/topic/720786-black-background-on-my-bmfont-font": {
+  "zh_title": "我的 BMFont 字体有黑色背景",
+  "zh_summary": "我试着可视化 VCR 字体的位图时，它总带着奇怪的黑色背景。谁能告诉我怎么修？"
+ },
+ "https://gamedev.net/blogs/entry/2298633-stich-development-library": {
+  "zh_title": "Stich 开发库",
+  "zh_summary": "Scrut 标准开发套件博客。本博客用于同步 Scrut 标准开发库的进展。Scrut.Hut Game Studio, LLC 拥有 Scrut 标准开发套件，是其……"
+ },
+ "https://gamedev.net/blogs/entry/2298632-scrut-development-library": {
+  "zh_title": "Scrut 开发库",
+  "zh_summary": "Scrut 开发库博客。本博客用于同步 Scrut 标准开发套件的进展，内容涉及通用计算方向的 Scrut 开发库。Scrut.Hut Game Studio, LLC 拥有……"
+ },
+ "https://www.rockpapershotgun.com/the-sunday-papers-835": {
+  "zh_title": "周日读报",
+  "zh_summary": "周日适合醒来时发现自己浑身是沙，屋顶不翼而飞，一个小个子男人站在卸空的卡车车斗里。“你知道吗，大家总在问《Elder Scrolls 6》……”他说……"
+ },
+ "https://gamedev.net/blogs/entry/2298631-weekend-dev-note-graphics-pass-in-progress": {
+  "zh_title": "周末开发笔记：画面打磨进行中",
+  "zh_summary": "周五的安静版本仍是 itch 上的当前下载版，底层应该做了一些性能优化（我们不保证实测数字）。独立的画面打磨覆盖屋顶……"
+ },
+ "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome": {
+  "zh_title": "《Boars in Rome》里有《Mirror's Edge》《Dishonored》的影子，还有我做过的一个意大利之梦——一款表现力十足的跑酷平台游戏，背景是反乌托邦罗马",
+  "zh_summary": "多年前，我做过一个梦，梦见自己在一座严重下沉的威尼斯跑酷，灵感无疑来自青少年时期投入《Assassin's Creed 2》的无数小时……"
+ },
+ "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city": {
+  "zh_title": "《County of Fortune》现已开启抢先体验：一款中世纪城市建造游戏——为什么只建一座城？",
+  "zh_summary": "我知道你想要什么。区区一个城市建造游戏已经不够了，对吧？你需要的是多城建造，不能只停在一座城，但又不想在完全不同的……"
+ },
+ "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers": {
+  "zh_title": "“这支预告是我告别的方式”：来听听本可能属于《Mass Effect 5》的配乐，出自原作的作曲家之手",
+  "zh_summary": "到这个地步，我大概可以默认你们都知道 EA 正在关闭 BioWare，《Mass Effect 5》也随之取消。你们可能还看到过《Mass…》的内部预告……"
+ },
+ "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more": {
+  "zh_title": "《Path of Exile 2》1.0 版今年终究要来了，12 月上线，带来完整战役、两个新职业等内容",
+  "zh_summary": "大约一年前，《Path of Exile 2》的开发者把 1.0 的发售推迟到未定时间，只说希望不会拖到 2027 年（大约半年前也说过类似的话）……"
+ },
+ "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy": {
+  "zh_title": "“这份责任感我感受得更真切了”：BioWare 关闭后，新《Mass Effect 3》合作重制 mod 的作者们希望延续它的 legacy",
+  "zh_summary": "看来我说 BioWare 关闭可能很快终结《Mass Effect 3》那个出奇地好、顽强得不可思议的合作模式，还是说早了。我重新安装并登录后……"
+ },
+ "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off": {
+  "zh_title": "《Star Wars Zero Company》开发商 Bit Reactor 召回部分休假员工后，未被召回的一些人似乎已被裁员",
+  "zh_summary": "上月初，《Star Wars Zero Company》的开发商 Bit Reactor 召回了一批在游戏 8 月发售前休假的开发者。当时没有说明具体人数……"
+ },
+ "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407": {
+  "zh_title": "这个周末大家都在玩什么？",
+  "zh_summary": "这是我去度假前最后一个空周末——一趟长达三周、相当奢侈的假期。因此这个周末大概会花在想起那些我和伴侣还没安排好的……"
+ },
+ "https://gamedev.net/blogs/entry/2298627-quiet-itch-drop-graphics-polish-still-separate": {
+  "zh_title": "itch 上悄悄更新；画面打磨仍独立进行",
+  "zh_summary": "itch 上悄悄上线了一个新的 Primeval 构建。外观和之前一样，底层做了一些性能工作——我们不保证实测帧数。新的屋顶/金色/树木/草地/建筑/动画还没……"
+ },
+ "https://80.lv/articles/mobile-game-gatekeepers-are-opening-the-gates": {
+  "zh_title": "手游守门人正在打开大门",
+  "zh_summary": "多年来，两家公司决定了玩家能看到哪些手游。这一局面开始改变，而这会改变你下一次发行的样子。"
+ },
+ "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches": {
+  "zh_title": "SAG-AFTRA 推出新流程，方便游戏提案聘用工会演员",
+  "zh_summary": "SAG-AFTRA 的演员现在可以受聘参与 vertical slice、demo 以及提案所需的其他内容形式。"
+ },
+ "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition": {
+  "zh_title": "报道：Silver Lake 与沙特 PIF 正与 Unity 洽谈收购",
+  "zh_summary": "这两家投资方最近收购了 Electronic Arts，如今据报道正把目光投向软件引擎 Unity。"
+ },
+ "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now": {
+  "zh_title": "即时战略游戏《The Fertile Crescent 2》：受《Age of Empires》启发的等距视角奥德赛，1.0 版现已发售",
+  "zh_summary": "受《Age of Empires》启发的即时战略游戏《The Fertile Crescent 2: Collapse of the Bronze Age》今天结束抢先体验，发行商 MicroProse 宣布，1.0 版加入了……"
+ },
+ "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion": {
+  "zh_title": "选举释放的文化转向，没有哪个创意产业敢忽视 | 观点",
+  "zh_summary": "有一种看待选举结果的办法完全合乎逻辑——即便是一次真正具有震撼性的选举结果——那就是说它与游戏行业的商业决策基本无关……"
+ },
+ "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3": {
+  "zh_title": "刚发现 Steam 愿望单还能用来搜 Steam 之外的游戏折扣，帮我侄子在《Total War: Warhammer 3》上省了 40 多英镑",
+  "zh_summary": "我发现得可能很晚，但我刚意识到，你可以把 Steam 愿望单接到第三方比价追踪器上。好处是，一旦接通，你就可以……"
+ },
+ "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report": {
+  "zh_title": "Sony 坚称下一代主机计划仍按部就班",
+  "zh_summary": "作为这家媒体巨头季度财报的一部分，Sony 表示，下一代主机的进展正按计划推进。"
+ },
+ "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating": {
+  "zh_title": "优秀奇幻 RPG《Queen's Domain》迎来首次正式更新，新增投掷武器和让谜题“不那么折磨人”的选项",
+  "zh_summary": "极好的《King's Field》风 RPG《Queen's Domain》——或者说是对《Metroid Prime》的致敬？又或是一部潜行版《Morrowind》？我们这些人实在定不下来——它迎来了首次正式补丁，加入了前所未有的……"
+ },
+ "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices": {
+  "zh_title": "SAG-AFTRA 推出新的游戏协议，开发者可聘请专业演员做 demo 与 vertical slice",
+  "zh_summary": "SAG-AFTRA 推出了一项面向融资前提案的游戏协议，允许创作者在开发早期就聘请专业演员。"
+ },
+ "https://godotengine.org/article/godot-showcase-sovereign-tower": {
+  "zh_title": "Godot 作品展示——《Sovereign Tower》",
+  "zh_summary": "今天，来自 Wild Wits 的 Paul Mozet（《Sovereign Tower》首席程序员）和 Lisa Garnier（《Sovereign Tower》叙事设计与技术美术）……"
+ },
+ "https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it": {
+  "zh_title": "《Airframe Ultra》的 PS1 赛博朋克都市是对《G-Police》与《WipEout》的绝妙致敬，真希望你们能慢下来好好欣赏它",
+  "zh_summary": "我不想去“统治”《Airframe Ultra》里 Megacity West 的街道，亲爱的创作者们。我想被它们征服，把脸贴在集装箱生锈的波纹金属上……"
+ },
+ "https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo": {
+  "zh_title": "11 月人事汇总 | Nordisk Games 任命 Stefanía Halldórsdóttir 为 CEO、Ásgeir Kröyer 为 CFO",
+  "zh_summary": "游戏行业的人员来来去去很难一一追踪，所以我们会定期汇总。"
+ },
+ "https://indiegamesplus.com/moonfrost-preview": {
+  "zh_title": "在《Moonfrost》里帮助重建一座被陨石砸过的小镇",
+  "zh_summary": "《Moonfrost》是一款温馨的种田风游戏，你是一名 Frost Hunter，来到一座新小镇，希望让它变得更好。然而，你还没……"
+ },
+ "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes": {
+  "zh_title": "EA 一名制作人偶然发现一柜子旧磁带后，Steam 上架了一大批修复版《Wing Commander》与《Ultima》移植版",
+  "zh_summary": "EA 把一堆经典游戏的修复版和移植版放上了 Steam、GOG 和 EA App。25 款游戏，包括《Wing Commander》和《Ultima》系列的多部作品……"
+ },
+ "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines": {
+  "zh_title": "Sega 第二季度业绩超预期，弹珠机业务营业利润大涨",
+  "zh_summary": "Sega 2026 财年第二季度业绩超出预期，弹珠机业务营业利润大涨 331.6%。"
+ },
+ "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director": {
+  "zh_title": "“这是一个勇敢的新世界”：前 Rockstar 技术总监称，为避免被 AI 山寨抢走收入，《GTA 6》PC 版会比你想的来得更早",
+  "zh_summary": "据 Rockstar North 前技术总监 Obbe Vermeij 称，《GTA 6》的 PC 版可能会比预期来得更早，因为 Rockstar 和发行商 Take-Two 会担心……"
+ },
+ "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity": {
+  "zh_title": "接管 EA 之后，沙特及其私募盟友据报道已就收购 Unity 展开洽谈",
+  "zh_summary": "由沙特政府 Public Investment Fund 牵头的财团成员，加上今年以 550 亿美元杠杆收购拿下 EA 的几家私募，据报道已经……"
+ },
+ "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector": {
+  "zh_title": "Unity 报告“史上最强”第三季度业绩，由 AI 驱动的广告网络 Vector 推动",
+  "zh_summary": "Unity 交出了“史上最强”的第三季度业绩，AI 驱动的广告网络 Vector 同比增长 126%。"
+ },
+ "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout": {
+  "zh_title": "据报道，Unity 正与 Silver Lake 和 Public Investment Fund 洽谈收购，两家公司都参与了 EA 550 亿美元的收购案",
+  "zh_summary": "据报道，Unity 已与私募公司 Silver Lake 和沙特 Public Investment Fund（PIF）展开收购洽谈，两家公司今年早些时候以 550 亿美元收购了 Electronic Arts……"
+ },
+ "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026": {
+  "zh_title": "2026 年如何为你的游戏拿到投资",
+  "zh_summary": "GamesIndustry.biz 在 10 月 23 日伦敦 MCM Comic Con 的 Game Republic 投资峰会上主持了一场座谈，主编 Jon Hicks 与 Transcend Fund 的负责人 Lirui Ding 等人对谈……"
+ },
+ "https://www.youtube.com/watch?v=8LMau1qXPYE": {
+  "zh_title": "有人做了个 Mark Brown 独立游戏的 AI 克隆版 [视频]",
+  "zh_summary": ""
+ },
+ "https://unity.com/blog/seed-unity-rendering-performance": {
+  "zh_title": "SEED 如何渲染一个玩家永不停建的世界",
+  "zh_summary": "大规模下的 Unity 渲染性能：Klang Games 对《SEED》中真实玩家建造的社会进行性能分析，找出并修复 PC 与移动端的 CPU 和内存瓶颈。"
+ },
+ "https://unity.com/blog/our-new-xr-e-book-is-here-build-xr-with-unity:-meta-xr": {
+  "zh_title": "我们的新 XR 电子书来了：《Build XR with Unity: Meta XR》",
+  "zh_summary": "免费下载《Build XR with Unity: Meta XR》电子书。学习眼动与手势追踪、5K 显示优化，以及面向 Meta VR Glasses 的 AI 辅助工作流。"
+ },
+ "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk": {
+  "zh_title": "在很有《Soul Eater》遇上《Jet Set Radio》味道的动作 roguelite《CHRONO PUNK》里，对抗一家操纵时间的公司",
+  "zh_summary": "我最喜欢的那种游戏，明明瞄准了某个游戏时代的味道，却看起来不像在刻意模仿那个时代的任何一款游戏；如果有人告诉我它……"
+ },
+ "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually": {
+  "zh_title": "BioWare 没了，但至少明年你能在纪录片里看到他们的最后时光——哦等等，这其实很让人难过",
+  "zh_summary": "感觉过去几年的每个星期都在循环那句可以无限引用的《30 Rock》台词。上个月 EA 决定关闭标志性的 Mass…工作室时，这种感觉尤其强烈。"
+ },
+ "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access": {
+  "zh_title": "《Ablahshikar》是一款极繁主义、只给“怪人”玩的打捞求生 CRPG——从战舰上拆器官、倒卖怪货，现已开启抢先体验",
+  "zh_summary": "有时候，你一看到一款游戏就知道它是给怪人准备的。今天这款就是《Ablahshikar》，一款“在 Candle Sea 上漂流的回合制打捞求生 CRPG”，你要拆下敌舰的器官……"
+ },
+ "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now": {
+  "zh_title": "历经 16 年开发，《Faraway》——一款吸取其他恒星能量的流星街机游戏——现已发售",
+  "zh_summary": "天哪，电子游戏做起来真的很花时间，对吧？尤其是一个人单干的时候。《Faraway》就是这样，今天发售，一款让我想起早期……"
+ },
+ "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse": {
+  "zh_title": "《The Legend of Khiimori》的“Mongolian Expanse”更新带来冰山与酷热沙漠，光靠皮袄和壮马可不够",
+  "zh_summary": "又是新的一天，又有机会胡闹一番！我是认真的，因为《The Legend of Khiimori》昨天发布了新更新，名为 Mongolian Expanse，开放了……"
+ },
+ "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report": {
+  "zh_title": "Nintendo 在新财报中表示对内存供应有信心",
+  "zh_summary": "作为公司季度财报的一部分，社长 Shuntaro Furukawa 表示，Nintendo 并未受到持续内存危机的影响，并有信心供应充足……"
+ },
+ "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers": {
+  "zh_title": "《Apex Legends》又添一笔不受待见的联动：一只暴躁的、能灭队的 Godzilla",
+  "zh_summary": "为了帮 EA 还清数十亿美元的债务，毫无疑问，大逃杀射击游戏《Apex Legends》又要搞一波 IP 联动活动。这一次从 11 月……"
+ },
+ "https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim": {
+  "zh_title": "在内存危机时期，Nvidia 发布 GeForce 8800 GTX 开箱模拟器，让你不用在现实里花天价也能体验拆新显卡",
+  "zh_summary": "在内存短缺已让买一块像样的新显卡几乎不可能、不花天价就别想的时期，这感觉像是一步相当调皮的棋……"
+ },
+ "https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target": {
+  "zh_title": "投资公司 Denmu 首只基金超额认购完成，超过 5000 万美元目标",
+  "zh_summary": "今年早些时候，Denmu 启动了首只基金，目标 5000 万美元。如今该基金已超额认购完成，超过了最初的目标。"
+ },
+ "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check": {
+  "zh_title": "《Goddess of Victory: Nikke》PC 启动器疑似感染恶意软件，发行商建议 9 月底以来启动过的玩家做安全检查",
+  "zh_summary": "由《Stellar Blade》开发商 Shift Up 开发的抽卡射击/RPG《Goddess of Victory: Nikke》遭遇“安全事件”，其 PC 启动器可能被第三方恶意软件感染……"
+ },
+ "https://gamedev.net/tutorials/game-design/how-to-make-exploration-change-a-conversation-r6175": {
+  "zh_title": "如何让探索改变一段对话",
+  "zh_summary": "一个房间可以有十几个可点击的物品，却依然让人觉得被动。如果每次检查只产出一句描述、什么都不改变，探索大多只是对话之间的停顿。"
+ },
+ "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5": {
+  "zh_title": "Sensor Tower：《GTA 6》预购量接近 800 万，74% 来自 PlayStation 5",
+  "zh_summary": "《Grand Theft Auto 6》还有两周发售，据最新数据，这款备受期待的游戏预购量已接近 800 万。"
+ },
+ "https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women": {
+  "zh_title": "“游戏行业里这是一个被严重忽视的市场”——《Dressmaker》的创作者谈为什么应该有更多面向女性的游戏",
+  "zh_summary": "你可能在社交媒体上看到过大家对《Dressmaker》的热情讨论。这是又一款在 Steam 上似乎凭空爆红的独立游戏：Video Game Insights 估计……"
+ },
+ "https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing": {
+  "zh_title": "得益于一项开放测试的新更新，你现在可以在 PC 上用手柄从头到尾通关《Pillars of Eternity》和《Pillars of Eternity 2: Deadfire》了",
+  "zh_summary": "在为《Pillars of Eternity》十周年送上回合制模式后，Obsidian 如今为这款 RPG 及其续作《Pillars of Eternity 2:…》推出了完整的 PC 手柄支持……"
+ },
+ "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign": {
+  "zh_title": "IGN Entertainment 提拔 Alex Simmons 统管旗下编辑业务，Wesley Yin-Poole 负责 IGN",
+  "zh_summary": "GamesIndustry.biz 的母公司 IGN Entertainment 已任命 Alex Simmons 为编辑副总裁兼集团总编辑，统管公司旗下全部编辑品牌。"
+ },
+ "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software": {
+  "zh_title": "网络服务与第一方软件收入增长后，PlayStation 上调全年预期",
+  "zh_summary": "Sony 在第二季度净销售额和营业利润增长后，上调了游戏业务的全年预期。"
+ },
+ "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in": {
+  "zh_title": "请愿书称“BioWare 关闭是对加拿大文化遗产的巨大损失，甚至可能是有针对性的打击”，呼吁加拿大政府介入",
+  "zh_summary": "呼吁加拿大政府帮助复活最近关闭的 RPG 开发商 BioWare 的行动，已经从一位政客的一篇帖子发展为一份请愿书，签名数量多到看起来注定要……"
+ },
+ "https://indiegamesplus.com/did-a-monkey-write-this-preview": {
+  "zh_title": "《Did a Monkey Write This?》让你把写书外包给 AI",
+  "zh_summary": "在 2026 年的时代，越来越多的创意行业正被莫名其妙地外包给 AI：创意写作、出版游戏等等。在《Did a Monkey Write This?》中，你是一名年轻……"
+ },
+ "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders": {
+  "zh_title": "Nintendo 上半年营业利润增长 49.1%，《Splatoon Raiders》等新作助力",
+  "zh_summary": "Nintendo 报告称，截至 2026 年 9 月 30 日的六个月净销售额下降 12.1%，主要原因是硬件销量减少。"
+ },
+ "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers": {
+  "zh_title": "Tripwire Presents 扩大发行业务，扶持小型独立开发者",
+  "zh_summary": "Tripwire Interactive 的发行部门 Tripwire Presents 正在扩大业务，为小型独立开发者提供发行支持。"
+ },
+ "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze": {
+  "zh_title": "Arkane 工会指控 Microsoft 以 19 个月招聘冻结“搞垮”《Marvel's Blade》",
+  "zh_summary": "代表 Arkane Lyon 员工的法国工会指控 Microsoft 搞垮了《Marvel's Blade》的开发，称 19 个月的招聘冻结导致了如今被用来为……"
+ },
+ "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games": {
+  "zh_title": "Tripwire Interactive 扩大发行业务，聚焦小型开发者与小型游戏",
+  "zh_summary": "Tripwire Interactive 的发行部门希望扩大其计划，重点支持小型游戏并提供相匹配的支持。"
+ },
+ "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000": {
+  "zh_title": "分析：2000 年以来被收购的游戏工作室有三分之一已被关闭",
+  "zh_summary": "一项针对 2000 年以来被大公司收购的 300 多家游戏工作室的新分析显示，其中三分之一已被彻底关闭，其中一半在收购后五年内关门……"
+ },
+ "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft": {
+  "zh_title": "“Arkane 是盈利的，”《Marvel's Blade》开发者在措辞激烈的最新声明中表示，“只是对 Microsoft 来说不够赚钱”",
+  "zh_summary": "《Dishonored》开发商 Arkane Lyon 的工会员工就与 Microsoft 洽谈工作室可能关闭一事发表了新声明。除了呼吁 Xbox……"
+ },
+ "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio": {
+  "zh_title": "Xbox 欲出售 Arkane，Ubisoft 是竞购者之一",
+  "zh_summary": "这家位于里昂的工作室有几条路可走以避免关闭，包括被同样来自法国游戏业的 Ubisoft 收购。"
+ },
+ "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011": {
+  "zh_title": "《Oblivion》与《Skyrim》之间的空档，是靠几本关于杀人浮岛的前瞻小说填上的，那为什么《The Elder Scrolls 6》还在复活一个自 2011 年就停滞的世界",
+  "zh_summary": "系列正传之间间隔很久并不是什么新鲜事——如今可能更常见了，因为大作的开发周期越来越膨胀。BioWare 的《Bal…》花了大约 23 年……"
+ },
+ "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords": {
+  "zh_title": "受《Rimworld》启发的殖民模拟游戏《Stardeus》迎来大更新，相当于一年的扩展与修订，还给邪恶 AI 霸主准备了新工具",
+  "zh_summary": "“《Stardeus》在体量和复杂度上还处于早期阶段，但它已经把有趣的想法融合得很好，整体氛围大多令人放松，”勇敢的星舰舰长 Sin Vega 写道……"
+ },
+ "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games": {
+  "zh_title": "Valve 警告 Steam 审核变慢，可能与 AI 游戏激增有关",
+  "zh_summary": "Valve 的 Steam 平台上的新游戏正因审核流程延长而推迟上架，Valve 没有直接把原因归于任何开发趋势。"
+ },
+ "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs": {
+  "zh_title": "认识英国 2026 年度游戏 BAFTA Breakthroughs 入选者",
+  "zh_summary": "BAFTA 公布了年度 Breakthroughs 名单：21 位英国电影、游戏和电视界的新锐创意人，他们将获得职业指导和行业人脉资源……"
+ },
+ "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio": {
+  "zh_title": "“我意识到我可能只剩时间再做一款游戏，所以想尝试些新东西”——《Tekken》总监 Katsuhiro Harada 谈创立 VS Studio",
+  "zh_summary": "当 Katsuhiro Harada 去年 12 月宣布离开 Bandai Namco——效力三十多年后离开——格斗游戏粉丝都很失落。许多人担心这位……"
+ },
+ "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop": {
+  "zh_title": "《Fate of the Galaxy》是一款内容完整的《Star Wars》太空战斗模拟游戏，作为《Freespace Open》的全面转换 mod，它甚至能在我的破笔记本上跑",
+  "zh_summary": "最近《Star Wars》又上了新闻，简单说就是美国另类右翼认定 Darth Vader 其实是好人。我们不是来纵容这种胡闹的……"
+ },
+ "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding": {
+  "zh_title": "“请继续谈论它”：Raw Power Games 及其历史策略沙盒《Chronicles: Medieval》失去资金，呼吁玩家加愿望单支援",
+  "zh_summary": "由《The Witcher 3》《Total War: Three Kingdoms》《Crusader Kings III》等作品的老兵组成的独立工作室 Raw Power Games，在失去资金后呼吁玩家支持……"
+ },
+ "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait": {
+  "zh_title": "《The Elder Scrolls 6: Sentinel》已经有了 Nexus Mods 页面，现在我们只需要等",
+  "zh_summary": "啊哈，就是它。新鲜出炉，恰逢其时。现在，我们等待 mod 洪流的到来，就像至今仍不断涌入《Skyrim》的附加内容一样。"
+ },
+ "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace": {
+  "zh_title": "爆红赛博朋克店主游戏《Probably Stolen》原本是一款完全不同的非赛博朋克游戏，差点石沉大海",
+  "zh_summary": "太空站交易游戏《Probably Stolen – Cyberpunk Shopkeeper Sim》在 Steam 上表现相当不错，昨晚同时在线玩家超过 162,000 人。我一直有冲动想打开它……"
+ }
+}

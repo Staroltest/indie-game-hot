@@ -277,13 +277,18 @@ CSS = """
   --shadow-card:0 1px 2px rgba(32,42,48,.025);
   --shadow-card-hover:0 3px 12px rgba(32,42,48,.055);
   --shadow-thumb:0 1px 2px rgba(28,39,51,.1),0 1px 1px rgba(28,39,51,.04);
+  --raised:#ffffff; --selection:rgba(23,107,117,.16); --shadow-soft:0 4px 12px rgba(28,39,51,.06);
+  --accent-contrast:#ffffff; --ok-soft:rgba(47,125,92,.1); --ok-ink:#2a6e51;
+  --shadow-pop:0 12px 32px rgba(28,39,51,.12); --prose-ink:#26323a;
+  --code-bg:#f6f7f4; --code-keyword:#006d77; --code-string:#2f6f44; --code-number:#9a6700;
+  --code-title:#6f42c1; --code-variable:#a13d10; --code-meta:#b42348;
   --page-max-wide:max(1200px,calc(270dvh - 236px));
   --bar-h:48px; color-scheme:light;
 }
 @media(min-width:700px){:root{--bar-h:0px}}
 [data-theme="dark"]{
   color-scheme:dark;
-  --bg:#13191c; --bg-sunk:#182024; --bg-muted:#202a2f; --well:#182024;
+  --bg:#13191c; --bg-sunk:#182024; --bg-muted:#202a2f; --well:color-mix(in oklab, var(--bg-muted) 60%, transparent);
   --surface:#1a2226; --surface-2:#1d272b; --sidebar:#161e21; --daybar:#182024;
   --ink:#e7eceb; --ink-2:#d2dada; --ink-3:#a5b0b3; --ink-4:#89979d;
   --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.12); --line-soft:rgba(255,255,255,.06);
@@ -292,14 +297,20 @@ CSS = """
   --amber:#d3b26a; --amber-ink:#d3b26a; --amber-soft:rgba(211,178,106,.12); --ok:#5fc79a;
   --rank-1:#d86a52; --rank-2:#d18a5e; --rank-3:#d3b26a; --rank-rest:#7b869a;
   --shadow-card:none; --shadow-card-hover:none;
+  --raised:#202a2f; --selection:rgba(18,204,216,.22); --shadow-soft:0 6px 18px rgba(0,0,0,.35);
+  --shadow-thumb:0 1px 2px rgba(0,0,0,.45);
+  --accent-contrast:#000000; --ok-soft:rgba(95,199,154,.12); --ok-ink:#7fd1ad;
+  --shadow-pop:0 16px 40px rgba(0,0,0,.45); --prose-ink:#d7dfdf;
+  --code-bg:#10151c; --code-keyword:#78dce8; --code-string:#a9dc76; --code-number:#ffd866;
+  --code-title:#ab9df2; --code-variable:#fc9867; --code-meta:#ff6188;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;text-autospace:normal}
 body{margin:0;background:var(--bg);color:var(--ink);
   font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","HarmonyOS Sans SC","Microsoft YaHei",sans-serif;
   font-size:14px;line-height:1.5}
-body:has(.report-shell){background:var(--surface-2)}
-::selection{background:rgba(23,107,117,.16)}
+:root:not([data-theme="dark"]) body:has(.report-shell){background:color-mix(in srgb, var(--bg) 60%, var(--surface))}
+::selection{background:var(--selection)}
 a{color:inherit;text-decoration:none}
 button{cursor:pointer;font:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:5px}
@@ -336,7 +347,7 @@ button{cursor:pointer;font:inherit}
   font-size:14px;font-weight:500;color:var(--ink-3)}
 .side-link svg{flex-shrink:0}
 .side-link:hover{background:var(--bg-sunk);color:var(--ink)}
-.side-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.side-link.on{background:rgba(23,107,117,.10);font-weight:600;color:var(--ink)}
 .side-link.on svg{color:var(--accent)}
 .side-foot{margin-top:auto;padding-top:12px}
 .side-foot .gh{display:flex;height:34px;align-items:center;justify-content:center;gap:6px;
@@ -349,7 +360,8 @@ button{cursor:pointer;font:inherit}
 .rail-link{display:flex;width:100%;height:56px;flex-direction:column;align-items:center;justify-content:center;
   gap:3px;border-radius:8px;font-size:11px;font-weight:500;color:var(--ink-3)}
 .rail-link:hover{background:var(--bg-sunk);color:var(--ink)}
-.rail-link.on{background:var(--accent-soft);font-weight:600;color:var(--ink)}
+.rail-link.on{background:rgba(23,107,117,.10);font-weight:600;color:var(--ink)}
+[data-theme="dark"] .side-link.on,[data-theme="dark"] .rail-link.on{background:var(--accent-soft)}
 .rail-link.on svg{color:var(--accent)}
 .rail .brand{margin-bottom:12px}
 
@@ -396,12 +408,15 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .tabs-thumb{position:absolute;top:3px;bottom:3px;left:3px;width:0;border-radius:9999px;
   background:var(--surface);box-shadow:var(--shadow-thumb),inset 0 0 0 1px var(--line);
   transition:left 300ms cubic-bezier(.25,1,.5,1),width 300ms cubic-bezier(.25,1,.5,1)}
+[data-theme="dark"] .tabs-thumb{background:var(--raised)}
+[data-theme="dark"] .switch a.on{background:var(--raised)}
 /* 筛选行：左侧分类分段控件，右侧搜索框 */
 .filter-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:16px 0 4px}
 .filter-row .tabs{max-width:100%}
 .search{position:relative;width:100%}
 @media(min-width:700px){.search{width:240px;flex-shrink:0}}
 .search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--ink-4);pointer-events:none}
+.search:focus-within svg{color:var(--ink-3)}
 .search input{width:100%;height:42px;border:0;border-radius:9999px;background:var(--well);
   padding:0 40px 0 40px;font:inherit;font-size:16px;color:var(--ink);outline:none;
   box-shadow:inset 0 0 0 1px var(--line-soft)}
@@ -437,8 +452,8 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .score-pill .sep{width:1px;height:10px;background:currentColor;opacity:.25}
 .score-pill .num{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   font-size:12.5px;font-weight:700;font-variant-numeric:tabular-nums}
-.score-pill.t-hot{background:rgba(179,64,42,.1);color:var(--hot);--ring:rgba(179,64,42,.25)}
-.score-pill.t-acc{background:var(--accent-soft);color:var(--accent);--ring:rgba(23,107,117,.2)}
+.score-pill.t-hot{background:color-mix(in srgb, var(--hot) 10%, transparent);color:var(--hot);--ring:color-mix(in srgb, var(--hot) 25%, transparent)}
+.score-pill.t-acc{background:var(--accent-soft);color:var(--accent);--ring:color-mix(in srgb, var(--accent) 20%, transparent)}
 .score-pill.t-quiet{color:var(--ink-4);--ring:var(--line-soft)}
 @media(max-width:640px){.score-pill .lbl,.score-pill .sep{display:none}}
 /* 精选徽章：琥珀底 + 圆点（不是青色） */
@@ -571,7 +586,7 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .to-top{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));
   z-index:30;display:none;width:44px;height:44px;align-items:center;justify-content:center;
   border-radius:9999px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);
-  box-shadow:0 4px 12px rgba(28,39,51,.06);transition:opacity 200ms,transform 200ms;
+  box-shadow:var(--shadow-soft);transition:opacity 200ms,transform 200ms;
   opacity:0;transform:translateY(8px);pointer-events:none}
 .to-top.show{opacity:1;transform:none;pointer-events:auto}
 .to-top:hover{color:var(--ink)}
@@ -644,7 +659,9 @@ def _pub_dt(it):
 
 
 def feed_item(it, rank=None, badge=False):
-    """AIHOT FeedItem 的静态版：来源行 + 标题 + 摘要 + 分类 + 推荐理由 + 星标。"""
+    """AIHOT FeedItem 的静态版：来源行 + 标题 + 摘要 + 分类 + 推荐理由 + 星标。
+    有中文翻译时优先显示中文（缺中文回落英文）；英文标题+摘要留在 data-en 里，
+    搜索同时匹配中英文。"""
     pub = _pub_dt(it)
     rank_html = ""
     if rank:
@@ -654,15 +671,19 @@ def feed_item(it, rank=None, badge=False):
     new_html = '<span class="new-pill">新</span>' if it.get("is_new") else ""
     reason_html = (f'<p class="fi-reason">推荐理由：{esc(it["reason"])}</p>'
                    if it.get("reason") else "")
-    return (f'<article class="feed-item" data-id="{esc(it["id"])}" data-category="{esc(it["category"])}">'
+    title = it.get("zh_title") or it["title"]
+    summary = it.get("zh_summary") or it.get("summary")
+    en_text = (it["title"] + " " + (it.get("summary") or ""))
+    return (f'<article class="feed-item" data-id="{esc(it["id"])}" data-category="{esc(it["category"])}"'
+            f' data-en="{esc(en_text)}">'
             f'<header class="fi-head"><span class="src">{esc(it["source"])}</span>'
             f'<time class="pt">· {esc(pub.astimezone(CST).strftime("%H:%M"))}</time>'
             f'{badge_html}{new_html}'
             f'<span class="sp">{score_pill(it["score"])}'
             f'<button type="button" class="star-btn" aria-label="收藏" title="收藏">'
             f'{icon("bookmark", 16)}</button></span></header>'
-            f'<h3>{rank_html}<a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(it["title"])}</a></h3>'
-            + (f'<p class="sum">{esc(it["summary"])}</p>' if it.get("summary") else "")
+            f'<h3>{rank_html}<a href="{esc(it["link"])}" target="_blank" rel="noopener">{esc(title)}</a></h3>'
+            + (f'<p class="sum">{esc(summary)}</p>' if summary else "")
             + f'<div class="fi-foot"><button type="button" class="chip cat" data-filter="{esc(it["category"])}">'
             f'{esc(it["category_label"])}</button>'
             f'<span class="when">{esc(fmt_cst(pub))}</span></div>'
@@ -685,7 +706,7 @@ def hot_row(it, rank, pad=False):
         trend_html = f'<span class="hot-trend"><span class="flat" title="热度持平">{icon("minus", 14)}</span></span>'
     return (f'<li><a class="hot-row" href="{esc(it["link"])}" target="_blank" rel="noopener">'
             f'<span class="rank {cls}">{num}</span>'
-            f'<span class="t">{esc(it["title"])}</span>'
+            f'<span class="t">{esc(it.get("zh_title") or it["title"])}</span>'
             f'<span class="hot-heat"><b class="num">{round(it["hot_score"])}</b> 热度</span>'
             f'{trend_html}'
             f'</a></li>')
@@ -728,7 +749,7 @@ function itemVisible(el){
   if(state.star&&!starSet.has(id))return false;
   if(state.unread&&readSet.has(id))return false;
   if(state.q){
-    var t=(el.textContent||'').toLowerCase();
+    var t=((el.textContent||'')+' '+(el.getAttribute('data-en')||'')).toLowerCase();
     if(t.indexOf(state.q)===-1)return false;
   }
   return true;
@@ -749,7 +770,7 @@ function applyFilters(){
   });
   var nr=document.getElementById('noResult');
   if(nr){
-    nr.style.display=shown?'none':'';
+    nr.hidden=!!shown;nr.style.display='';
     nr.textContent=state.cat==='starred'||state.star?'还没有收藏，去点卡片右上角的书签吧。':(state.unread?'这批都读过了，关掉「只看未读」可以看到全部。':(state.q?'没有匹配「'+state.q+'」的动态。':'这个分类下暂无动态。'));
   }
   var sc=document.getElementById('starCount');
@@ -1009,9 +1030,10 @@ def render_index(site, cats, selected, hot, timeline, generated_at, counts):
             f'<span class="ping"></span><span class="dot"></span></span>当前热点</h2>{hot_more}</div>'
             f'<ol class="hot-list hot-top5">{hot_html}</ol>'
             + '</section>'
-            + f'<h2 class="sec" id="timeline">全部动态</h2>'
+            + f'<div id="timeline"><h2 class="sec">全部动态</h2>'
             + unread_row
             + tl_sections
+            + '</div>'
             + '<p id="noResult" hidden>这个分类下暂无动态。</p>'
             + '<p class="feed-end">已经到底了</p>'
             + page_close(site, "featured"))
@@ -1086,6 +1108,26 @@ def main():
 
     src_by_id = {s["id"]: s for s in sources}
     fetched, failed = 0, []
+    # 中文翻译（data/zh_draft.json，按规范化链接匹配；每日精选把关时更新草稿，
+    # 下一轮生成自动合入并写回 items.json，Actions 重生成也不会丢）
+    zh_path = os.path.join(data_dir, "zh_draft.json")
+    if os.path.exists(zh_path):
+        try:
+            zh = load_json(zh_path)
+            applied = 0
+            for it in history.values():
+                tr = zh.get(norm_link(it.get("link", "")))
+                if not tr:
+                    continue
+                if tr.get("zh_title"):
+                    it["zh_title"] = tr["zh_title"]
+                if tr.get("zh_summary"):
+                    it["zh_summary"] = tr["zh_summary"]
+                applied += 1
+            if applied:
+                print(f"zh: {applied} items matched from zh_draft.json")
+        except (json.JSONDecodeError, AttributeError) as e:
+            print("zh_draft.json skipped (%s)" % e, file=sys.stderr)
     for src in sources:
         try:
             body = fetch(src["url"])
@@ -1183,6 +1225,8 @@ def main():
         return {"id": it["id"], "title": it["title"], "link": it["link"],
                 "source": it["source"], "source_id": it["source_id"],
                 "published": it["published"], "summary": it["summary"],
+                "zh_title": it.get("zh_title", ""),
+                "zh_summary": it.get("zh_summary", ""),
                 "category": it["category"], "category_label": it["category_label"],
                 "score": it["score"],
                 "reason": it.get("reason", ""), "is_new": bool(it.get("is_new", False)),
@@ -1218,7 +1262,7 @@ def main():
         for it in daily_items:
             per_cat[it["category_label"]] = per_cat.get(it["category_label"], 0) + 1
         cat_part = "、".join(f"{k} {v} 条" for k, v in per_cat.items()) or "无"
-        head = f"头条：{daily_items[0]['title']}" if daily_items else "今日暂无精选"
+        head = f"头条：{daily_items[0].get('zh_title') or daily_items[0]['title']}" if daily_items else "今日暂无精选"
         date_str = now_cst.strftime("%Y年%m月%d日")
         daily = {
             "date": date_str,
