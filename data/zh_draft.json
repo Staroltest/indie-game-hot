@@ -3629,5 +3629,17 @@
  "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space": {
   "zh_title": "Bungie 放出《Marathon》合作 PvE 肉鸽模式实机预告，还有个时髦的新社交空间",
   "zh_summary": "共生（Symbiosis）更新将于 12 月 8 日上线，同时开启全新团队死斗模式的测试，并附带一周免费试玩。"
+ },
+ "https://gamedev.net/blogs/entry/2298649-demo-update-version-094b": {
+  "zh_title": "试玩版更新：0.9.4b 版本",
+  "zh_summary": "一次快速更新，修复了上次上传遗留的一些问题：性能问题、一个小音频 bug，以及死亡不再扣除死亡代价。玩得开心！"
+ },
+ "https://www.destructoid.com/how-to-get-the-crude-lockpick-recipe-in-dreadmoor-all-lockpick-types-and-how-to-use-them": {
+  "zh_title": "《DREADMOOR》粗糙开锁器配方获取方法、全部开锁器类型及使用指南",
+  "zh_summary": "解锁你内心的 Garrett（神偷）潜质。本文介绍《DREADMOOR》中粗糙开锁器的配方获取方式、全部开锁器类型及使用方法。"
+ },
+ "https://www.destructoid.com/how-to-gain-more-followers-in-warhammer-survivors": {
+  "zh_title": "《Warhammer Survivors》中如何获得更多追随者",
+  "zh_summary": "这里说的可不是社交媒体上的粉丝！本文介绍在《Warhammer Survivors》中获得更多追随者的方法。"
  }
 }
