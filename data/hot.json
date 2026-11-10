@@ -1,108 +1,28 @@
 {
- "generated_at": "2026-11-09T20:39:43.641584+00:00",
- "generated_at_cst": "2026年11月10日 04:39",
+ "generated_at": "2026-11-10T00:29:26.770823+00:00",
+ "generated_at_cst": "2026年11月10日 08:29",
  "counts": {
-  "total_7d": 142,
+  "total_7d": 147,
   "selected": 10,
   "hot": 20,
   "timeline": 100
  },
  "selected": [
   {
-   "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
-   "title": "Multithreading, scheduling in game engines with DAGs",
-   "link": "https://gamedev.net/forums/topic/720559-multithreading-scheduling-in-game-engines-with-dags",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T15:04:06+00:00",
-   "summary": "edit: DAG stands for Directed Acyclic Graph edit: tldr; can you use framegraphs to organize ALL the updates in one iteration of a game loop? As of now, the engine I'm working on is all single-threaded…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及engine · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 78.8
-  },
-  {
-   "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
-   "title": "Measuring FPS on Real Phones Inside Telegram: What Chrome's Device Mode Never Showed Us",
-   "link": "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T16:04:46+00:00",
-   "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 81,
-   "reason": "涉及tool、performance · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 77.6
-  },
-  {
-   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
-   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T16:39:06+00:00",
-   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 77.1
-  },
-  {
-   "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
-   "title": "Will Grand Theft Auto 6 break the internet?",
-   "link": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "link": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
    "source": "GamesIndustry.biz",
    "source_id": "gamesindustry",
-   "published": "2026-11-09T15:00:00+00:00",
-   "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 75.9
-  },
-  {
-   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
-   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
-   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:30:00+00:00",
-   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 77.0
-  },
-  {
-   "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
-   "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
-   "link": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:00:30+00:00",
-   "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
+   "published": "2026-11-09T21:22:20+00:00",
+   "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 83,
+   "reason": "涉及revenue · 6 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 76.6
+   "trend": "new",
+   "hot_score": 80.6
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -117,24 +37,8 @@
    "score": 80,
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.8
-  },
-  {
-   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
-   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T17:30:00+00:00",
-   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
+   "trend": "up",
+   "hot_score": 71.2
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -149,42 +53,8 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 79.3
-  },
-  {
-   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
-   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
-   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T17:30:00+00:00",
-   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
-  }
- ],
- "hot": [
-  {
-   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
-   "title": "Tripwire Interactive lays off 36",
-   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-09T19:43:10+00:00",
-   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 79.3
+   "trend": "down",
+   "hot_score": 76.5
   },
   {
    "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
@@ -199,168 +69,250 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 78.9
-  },
-  {
-   "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
-   "title": "Multithreading, scheduling in game engines with DAGs",
-   "link": "https://gamedev.net/forums/topic/720559-multithreading-scheduling-in-game-engines-with-dags",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T15:04:06+00:00",
-   "summary": "edit: DAG stands for Directed Acyclic Graph edit: tldr; can you use framegraphs to organize ALL the updates in one iteration of a game loop? As of now, the engine I'm working on is all single-threaded…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及engine · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 78.8
-  },
-  {
-   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
-   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T17:30:00+00:00",
-   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
-  },
-  {
-   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
-   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
-   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T17:30:00+00:00",
-   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
-  },
-  {
-   "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
-   "title": "Measuring FPS on Real Phones Inside Telegram: What Chrome's Device Mode Never Showed Us",
-   "link": "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T16:04:46+00:00",
-   "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 81,
-   "reason": "涉及tool、performance · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 77.6
-  },
-  {
-   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
-   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
-   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T17:05:10+00:00",
-   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.4
-  },
-  {
-   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
-   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-09T16:39:06+00:00",
-   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
    "trend": "down",
-   "hot_score": 77.1
+   "hot_score": 76.1
   },
   {
-   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
-   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
-   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:30:00+00:00",
-   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
-   "category": "publishing",
-   "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 77.0
-  },
-  {
-   "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
-   "title": "How far along is the project? Track progress on every card",
-   "link": "https://gamedev.net/blogs/entry/2298638-how-far-along-is-the-project-track-progress-on-every-card",
-   "source": "GameDev.net",
-   "source_id": "gamedev-net",
-   "published": "2026-11-09T16:30:36+00:00",
-   "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 77.0
-  },
-  {
-   "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
-   "title": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
-   "link": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T16:00:30+00:00",
-   "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "down",
-   "hot_score": 76.6
-  },
-  {
-   "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
-   "title": "Will Grand Theft Auto 6 break the internet?",
-   "link": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "link": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
    "source": "GamesIndustry.biz",
    "source_id": "gamesindustry",
-   "published": "2026-11-09T15:00:00+00:00",
-   "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
+   "published": "2026-11-09T21:39:40+00:00",
+   "summary": "Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  },
+  {
+   "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
+   "title": "Demo update: Version 0.9.4",
+   "link": "https://gamedev.net/blogs/entry/2298640-demo-update-version-094",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T18:43:11+00:00",
+   "summary": "Hi all, I have released a new demo version! Change list: Added manual \"Crossroads\" UI improvements Combat short-cuts Remapping polishing New main menu New credits screen Origin class perks \"Immortals\"…",
    "category": "publishing",
    "category_label": "发行与宣发",
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
+   "trend": "new",
+   "hot_score": 75.8
+  },
+  {
+   "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
+   "title": "Looking for Feedback: What Makes Up a Player's Psychology?",
+   "link": "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:06:28+00:00",
+   "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.0
+  },
+  {
+   "id": "14c259b5b69f97353d329fcc727379d164f750e6",
+   "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+   "link": "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:17:24+00:00",
+   "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.1
+  },
+  {
+   "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
+   "title": "[Android][US/UK] Dragon’s Prisms — volunteer closed-beta testers wanted",
+   "link": "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T22:20:16+00:00",
+   "summary": "Hi everyone! I’m the solo developer behind Harrold Interactive, and I’m looking for volunteer playtesters for Dragon’s Prisms, a fantasy match-3 puzzle game built with Godot. The game has 500 Adventur…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 78.4
+  },
+  {
+   "id": "664139c220390900937d364a172c9f546e7d222e",
+   "title": "Indie Game Development with AI",
+   "link": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+   "source": "Hacker News：独立游戏",
+   "source_id": "hnrss-indie",
+   "published": "2026-11-09T21:33:55+00:00",
+   "summary": "Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 8 # Comments: 1",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  }
+ ],
+ "hot": [
+  {
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "link": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:22:20+00:00",
+   "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 83,
+   "reason": "涉及revenue · 6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 80.6
+  },
+  {
+   "id": "14c259b5b69f97353d329fcc727379d164f750e6",
+   "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+   "link": "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:17:24+00:00",
+   "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.1
+  },
+  {
+   "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
+   "title": "Looking for Feedback: What Makes Up a Player's Psychology?",
+   "link": "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:06:28+00:00",
+   "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.0
+  },
+  {
+   "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
+   "title": "[Android][US/UK] Dragon’s Prisms — volunteer closed-beta testers wanted",
+   "link": "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T22:20:16+00:00",
+   "summary": "Hi everyone! I’m the solo developer behind Harrold Interactive, and I’m looking for volunteer playtesters for Dragon’s Prisms, a fantasy match-3 puzzle game built with Godot. The game has 500 Adventur…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 78.4
+  },
+  {
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "link": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:39:40+00:00",
+   "summary": "Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  },
+  {
+   "id": "664139c220390900937d364a172c9f546e7d222e",
+   "title": "Indie Game Development with AI",
+   "link": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+   "source": "Hacker News：独立游戏",
+   "source_id": "hnrss-indie",
+   "published": "2026-11-09T21:33:55+00:00",
+   "summary": "Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 8 # Comments: 1",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  },
+  {
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "link": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T19:43:10+00:00",
+   "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
    "trend": "down",
-   "hot_score": 75.9
+   "hot_score": 76.5
+  },
+  {
+   "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
+   "title": "New Horror Game Ideas. 2D.",
+   "link": "https://gamedev.net/forums/topic/720805-new-horror-game-ideas-2d",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T19:09:12+00:00",
+   "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 76.1
+  },
+  {
+   "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
+   "title": "Demo update: Version 0.9.4",
+   "link": "https://gamedev.net/blogs/entry/2298640-demo-update-version-094",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T18:43:11+00:00",
+   "summary": "Hi all, I have released a new demo version! Change list: Added manual \"Crossroads\" UI improvements Combat short-cuts Remapping polishing New main menu New credits screen Origin class perks \"Immortals\"…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 75.8
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -375,24 +327,8 @@
    "score": 80,
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.8
-  },
-  {
-   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
-   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
-   "link": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-09T17:37:10+00:00",
-   "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 75,
-   "reason": "6 小时内发布",
-   "is_new": true,
-   "trend": "new",
-   "hot_score": 72.9
+   "trend": "up",
+   "hot_score": 71.2
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -407,8 +343,8 @@
    "score": 76,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 69.7
+   "trend": "up",
+   "hot_score": 67.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -423,8 +359,24 @@
    "score": 76,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
+   "trend": "up",
+   "hot_score": 67.1
+  },
+  {
+   "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
+   "title": "Multithreading, scheduling in game engines with DAGs",
+   "link": "https://gamedev.net/forums/topic/720559-multithreading-scheduling-in-game-engines-with-dags",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T15:04:06+00:00",
+   "summary": "edit: DAG stands for Directed Acyclic Graph edit: tldr; can you use framegraphs to organize ALL the updates in one iteration of a game loop? As of now, the engine I'm working on is all single-threaded…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 73,
+   "reason": "涉及engine · 24 小时内发布",
+   "is_new": true,
    "trend": "down",
-   "hot_score": 69.5
+   "hot_score": 66.9
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -439,59 +391,203 @@
    "score": 73,
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 68.4
+   "trend": "up",
+   "hot_score": 66.0
   },
   {
-   "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
-   "title": "Dungeon Meshi's Laios Reimagined In Beautiful Hand-Drawn 3D Style",
-   "link": "https://80.lv/articles/dungeon-meshi-s-laios-reimagined-in-beautiful-hand-drawn-3d-style",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T14:34:00+00:00",
-   "summary": "Huge Final Fantasy Tactics: The War of the Lions vibes.",
+   "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
+   "title": "Measuring FPS on Real Phones Inside Telegram: What Chrome's Device Mode Never Showed Us",
+   "link": "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T16:04:46+00:00",
+   "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": false,
+   "score": 71,
+   "reason": "涉及tool、performance · 24 小时内发布",
+   "is_new": true,
    "trend": "down",
-   "hot_score": 66.1
+   "hot_score": 65.7
   },
   {
-   "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
-   "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
-   "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-09T14:00:00+00:00",
-   "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of…",
+   "id": "081fabed4ae40dc7c517842b5e142be750db3226",
+   "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+   "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
    "category": "industry",
    "category_label": "行业与融资",
    "score": 70,
    "reason": "24 小时内发布",
-   "is_new": false,
-   "trend": "down",
-   "hot_score": 65.8
-  },
-  {
-   "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
-   "title": "Baldur's Gate 3 Praised By Skyrim Lead Designer For Its Meaningful Player Choices",
-   "link": "https://80.lv/articles/baldur-s-gate-3-praised-by-skyrim-lead-designer-for-its-meaningful-player-choices",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-09T13:37:00+00:00",
-   "summary": "\" Bethesda games have always had the philosophy of let the player play everything.\"",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "score": 70,
-   "reason": "24 小时内发布",
-   "is_new": false,
+   "is_new": true,
    "trend": "down",
    "hot_score": 65.6
+  },
+  {
+   "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
+   "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
+   "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:30:00+00:00",
+   "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 70,
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 65.6
+  },
+  {
+   "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
+   "title": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
+   "link": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T17:05:10+00:00",
+   "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "score": 70,
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 65.3
+  },
+  {
+   "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
+   "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+   "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-09T16:39:06+00:00",
+   "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "score": 70,
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 65.1
+  },
+  {
+   "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
+   "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
+   "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
+   "source": "Rock Paper Shotgun",
+   "source_id": "rps",
+   "published": "2026-11-09T16:30:00+00:00",
+   "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 70,
+   "reason": "24 小时内发布",
+   "is_new": true,
+   "trend": "down",
+   "hot_score": 65.0
   }
  ],
  "timeline": [
+  {
+   "id": "14c259b5b69f97353d329fcc727379d164f750e6",
+   "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+   "link": "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:17:24+00:00",
+   "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.1
+  },
+  {
+   "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
+   "title": "Looking for Feedback: What Makes Up a Player's Psychology?",
+   "link": "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:06:28+00:00",
+   "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 79.0
+  },
+  {
+   "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
+   "title": "[Android][US/UK] Dragon’s Prisms — volunteer closed-beta testers wanted",
+   "link": "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T22:20:16+00:00",
+   "summary": "Hi everyone! I’m the solo developer behind Harrold Interactive, and I’m looking for volunteer playtesters for Dragon’s Prisms, a fantasy match-3 puzzle game built with Godot. The game has 500 Adventur…",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 78.4
+  },
+  {
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "link": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:39:40+00:00",
+   "summary": "Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.…",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  },
+  {
+   "id": "664139c220390900937d364a172c9f546e7d222e",
+   "title": "Indie Game Development with AI",
+   "link": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+   "source": "Hacker News：独立游戏",
+   "source_id": "hnrss-indie",
+   "published": "2026-11-09T21:33:55+00:00",
+   "summary": "Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 8 # Comments: 1",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 77.9
+  },
+  {
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "link": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:22:20+00:00",
+   "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
+   "category": "devlog",
+   "category_label": "开发日志",
+   "score": 83,
+   "reason": "涉及revenue · 6 小时内发布",
+   "is_new": true,
+   "trend": "new",
+   "hot_score": 80.6
+  },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
    "title": "Tripwire Interactive lays off 36",
@@ -505,8 +601,8 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 79.3
+   "trend": "down",
+   "hot_score": 76.5
   },
   {
    "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
@@ -521,8 +617,24 @@
    "score": 80,
    "reason": "6 小时内发布",
    "is_new": true,
+   "trend": "down",
+   "hot_score": 76.1
+  },
+  {
+   "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
+   "title": "Demo update: Version 0.9.4",
+   "link": "https://gamedev.net/blogs/entry/2298640-demo-update-version-094",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T18:43:11+00:00",
+   "summary": "Hi all, I have released a new demo version! Change list: Added manual \"Crossroads\" UI improvements Combat short-cuts Remapping polishing New main menu New credits screen Origin class perks \"Immortals\"…",
+   "category": "publishing",
+   "category_label": "发行与宣发",
+   "score": 80,
+   "reason": "6 小时内发布",
+   "is_new": true,
    "trend": "new",
-   "hot_score": 78.9
+   "hot_score": 75.8
   },
   {
    "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
@@ -534,11 +646,11 @@
    "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 75,
-   "reason": "6 小时内发布",
+   "score": 65,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 72.9
+   "trend": "same",
+   "hot_score": 61.0
   },
   {
    "id": "081fabed4ae40dc7c517842b5e142be750db3226",
@@ -550,11 +662,11 @@
    "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
+   "trend": "down",
+   "hot_score": 65.6
   },
   {
    "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
@@ -566,11 +678,11 @@
    "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 77.7
+   "trend": "down",
+   "hot_score": 65.6
   },
   {
    "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
@@ -582,11 +694,11 @@
    "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 77.4
+   "trend": "down",
+   "hot_score": 65.3
   },
   {
    "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
@@ -598,11 +710,11 @@
    "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
    "category": "industry",
    "category_label": "行业与融资",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
    "trend": "down",
-   "hot_score": 77.1
+   "hot_score": 65.1
   },
   {
    "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
@@ -614,11 +726,11 @@
    "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 77.0
+   "trend": "same",
+   "hot_score": 65.0
   },
   {
    "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
@@ -630,11 +742,11 @@
    "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
    "trend": "down",
-   "hot_score": 77.0
+   "hot_score": 65.0
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -646,11 +758,11 @@
    "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 81,
-   "reason": "涉及tool、performance · 6 小时内发布",
+   "score": 71,
+   "reason": "涉及tool、performance · 24 小时内发布",
    "is_new": true,
-   "trend": "same",
-   "hot_score": 77.6
+   "trend": "down",
+   "hot_score": 65.7
   },
   {
    "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
@@ -662,11 +774,11 @@
    "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 76.6
+   "trend": "same",
+   "hot_score": 64.7
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -678,11 +790,11 @@
    "summary": "edit: DAG stands for Directed Acyclic Graph edit: tldr; can you use framegraphs to organize ALL the updates in one iteration of a game loop? As of now, the engine I'm working on is all single-threaded…",
    "category": "engine",
    "category_label": "引擎与工具",
-   "score": 83,
-   "reason": "涉及engine · 6 小时内发布",
+   "score": 73,
+   "reason": "涉及engine · 24 小时内发布",
    "is_new": true,
-   "trend": "same",
-   "hot_score": 78.8
+   "trend": "down",
+   "hot_score": 66.9
   },
   {
    "id": "1bfb50a09978d11a5ce422dec99872ac0f6a21e4",
@@ -694,11 +806,11 @@
    "summary": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2…",
    "category": "publishing",
    "category_label": "发行与宣发",
-   "score": 80,
-   "reason": "6 小时内发布",
+   "score": 70,
+   "reason": "24 小时内发布",
    "is_new": true,
-   "trend": "down",
-   "hot_score": 75.9
+   "trend": "same",
+   "hot_score": 64.1
   },
   {
    "id": "758438295a3eb532bdb24ad76a80af17cf9c989d",
@@ -713,8 +825,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 66.1
+   "trend": "same",
+   "hot_score": 63.8
   },
   {
    "id": "d7a0c91c1da60653b73bb3deaa43d9252d05b4fe",
@@ -730,7 +842,7 @@
    "reason": "涉及lesson · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 64.2
+   "hot_score": 62.0
   },
   {
    "id": "cf0ec131048bd80e97f80de3e9830960eda563e5",
@@ -745,8 +857,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 65.8
+   "trend": "same",
+   "hot_score": 63.5
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -761,8 +873,8 @@
    "score": 73,
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 68.4
+   "trend": "up",
+   "hot_score": 66.0
   },
   {
    "id": "64672ee557d658c9c1137772006d0715b8a9ade0",
@@ -777,8 +889,8 @@
    "score": 70,
    "reason": "24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 65.6
+   "trend": "same",
+   "hot_score": 63.3
   },
   {
    "id": "97411a247a95f42362657c3d5133ac8c102c8aad",
@@ -794,7 +906,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.5
+   "hot_score": 63.2
   },
   {
    "id": "de71c15eed80f2adab35344fc087cc7ea44d829c",
@@ -810,7 +922,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.3
+   "hot_score": 63.1
   },
   {
    "id": "f66876efcc4234a973bb55c4bfb45825f42b8ac7",
@@ -826,7 +938,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2
+   "hot_score": 62.9
   },
   {
    "id": "c83476a002b4fa8092e5fd75b7efb214491ca3e9",
@@ -842,7 +954,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.0
+   "hot_score": 62.7
   },
   {
    "id": "2cf7046c798cba16a5493a7bd9a454f638b7e81b",
@@ -858,7 +970,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.0
+   "hot_score": 62.7
   },
   {
    "id": "06b39c6b492a789c7c6dc899c19ccc6dfd23eb01",
@@ -874,7 +986,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.0
+   "hot_score": 62.7
   },
   {
    "id": "d5d46baa865ef6d1e6924aa4422d2eb5daec9dc0",
@@ -890,7 +1002,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 64.9
+   "hot_score": 62.6
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -905,8 +1017,8 @@
    "score": 80,
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 73.8
+   "trend": "up",
+   "hot_score": 71.2
   },
   {
    "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
@@ -922,7 +1034,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 64.3
+   "hot_score": 62.0
   },
   {
    "id": "b1cd52710041421c784aaa9248b640f64462e244",
@@ -938,7 +1050,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.7
+   "hot_score": 57.6
   },
   {
    "id": "3fc3fb695dbfc4890fd7b0b45442ec700cb2e75a",
@@ -953,8 +1065,8 @@
    "score": 76,
    "reason": "涉及tool、workflow · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 69.7
+   "trend": "up",
+   "hot_score": 67.2
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -969,8 +1081,8 @@
    "score": 76,
    "reason": "涉及tool、engine · 24 小时内发布",
    "is_new": false,
-   "trend": "down",
-   "hot_score": 69.5
+   "trend": "up",
+   "hot_score": 67.1
   },
   {
    "id": "29a9152f25b1be186991874323f629c6f125757e",
@@ -986,7 +1098,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 64.0
+   "hot_score": 61.8
   },
   {
    "id": "bdcdad459af21364b6b04cbb3b13fd09a6c8e152",
@@ -1002,7 +1114,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.4
+   "hot_score": 57.3
   },
   {
    "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
@@ -1018,7 +1130,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.2
+   "hot_score": 61.0
   },
   {
    "id": "c20289b6dad4a2989e73461f8fa80c0521b8158a",
@@ -1034,7 +1146,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.0
+   "hot_score": 60.8
   },
   {
    "id": "ca879553e0366c762e361cf200a0352bd08ca698",
@@ -1050,7 +1162,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.8
+   "hot_score": 60.6
   },
   {
    "id": "1e71c5dc0e4cc7cb242b29516364999d9f00e14f",
@@ -1066,7 +1178,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.3
+   "hot_score": 60.1
   },
   {
    "id": "49a07c9a6921d041cf4fc2d80561561f272b821b",
@@ -1082,7 +1194,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.5
+   "hot_score": 59.3
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -1098,7 +1210,7 @@
    "reason": "涉及tool · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 63.5
+   "hot_score": 61.3
   },
   {
    "id": "20142c2b61674108b52bd3c6ff5d9f15341c47ae",
@@ -1114,7 +1226,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.4
+   "hot_score": 57.3
   },
   {
    "id": "ffd6e59cf0df5ef1bcc2333f02a031e04fabf224",
@@ -1130,7 +1242,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 59.1
+   "hot_score": 57.1
   },
   {
    "id": "aa524eb71444b84646e0cbaf39b1d879d3d82172",
@@ -1146,7 +1258,7 @@
    "reason": "24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 54.7
+   "hot_score": 52.8
   },
   {
    "id": "53a332a350c2dee480493900887fb6bd251acce5",
@@ -1158,11 +1270,11 @@
    "summary": "Sniper em Chamas is a free, playable browser action campaign from Cogulezo Games, now available on itch.io . It mixes varied stages, pixel-art visuals, video scenes and 8-bit-style audio. Play the cur…",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 65,
-   "reason": "24 小时内发布",
+   "score": 55,
+   "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 53.6
+   "hot_score": 43.8
   },
   {
    "id": "b4a4df33e0eda5f27d27cb865c59e0351c2a6053",
@@ -1174,11 +1286,11 @@
    "summary": "Ok so when i try to visualize my vcr font bitmap it has this weird black background on it? Can you please tell me how to fix this?",
    "category": "reviews",
    "category_label": "评测与复盘",
-   "score": 70,
-   "reason": "24 小时内发布",
+   "score": 60,
+   "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 57.0
+   "hot_score": 47.2
   },
   {
    "id": "d3596576a899d40024d308d0aebfbcc8ee90eb22",
@@ -1194,7 +1306,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 47.3
+   "hot_score": 45.7
   },
   {
    "id": "a7584b801368c49317ecfcccf0ad68ef21367a98",
@@ -1210,7 +1322,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 47.3
+   "hot_score": 45.6
   },
   {
    "id": "cc723c0d6dda6cfe428f97f2f42a0441615091b9",
@@ -1226,7 +1338,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 43.9
+   "hot_score": 42.3
   },
   {
    "id": "29117d5e6fc9e53fc24b6c29b1b0c5dbadec2796",
@@ -1242,7 +1354,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 42.5
+   "hot_score": 41.0
   },
   {
    "id": "38d062123d715448cca42c5e88e27e9848935b37",
@@ -1258,7 +1370,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 39.2
+   "hot_score": 37.8
   },
   {
    "id": "920f86ea3f72befe5a086485ecedac95da0eb948",
@@ -1274,7 +1386,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 38.7
+   "hot_score": 37.4
   },
   {
    "id": "2121df6444c57ecedd3825be705f60b3637d940b",
@@ -1290,7 +1402,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 38.1
+   "hot_score": 36.8
   },
   {
    "id": "22570b73cb13d8a33530b28eb55bb6c1792522fa",
@@ -1306,7 +1418,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 37.5
+   "hot_score": 36.2
   },
   {
    "id": "b826d68056ff503eadf589fe7edeca45923eec5d",
@@ -1322,7 +1434,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 34.0
+   "hot_score": 32.8
   },
   {
    "id": "94bac1020c5777496c99f7f4fe1a98f0c163ba41",
@@ -1338,7 +1450,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 37.1
+   "hot_score": 35.8
   },
   {
    "id": "4d27d8c7c63f287192f14f40a324643e012bfd14",
@@ -1354,7 +1466,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 34.1
+   "hot_score": 32.9
   },
   {
    "id": "058b7496c5710a409d7c978c6bb756505a417173",
@@ -1370,7 +1482,7 @@
    "reason": "涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 34.0
+   "hot_score": 32.8
   },
   {
    "id": "bc56ec6d7183a08a564043c6bc778ae5d4ae3e27",
@@ -1382,11 +1494,11 @@
    "summary": "For years, two companies decided which mobile games players ever saw. That is starting to change, and it changes what your next launch can look like.",
    "category": "devlog",
    "category_label": "开发日志",
-   "score": 60,
+   "score": 50,
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 31.7
+   "hot_score": 25.5
   },
   {
    "id": "1f1f8a694c59f81df629a0864a749215e5db2979",
@@ -1402,7 +1514,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.3
+   "hot_score": 24.4
   },
   {
    "id": "4309811cd2681f0b85d4ccd2edd824d4f8aa7e3f",
@@ -1418,7 +1530,7 @@
    "reason": "涉及engine",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.5
+   "hot_score": 25.5
   },
   {
    "id": "d1a3e3faf3162e717fc53b1bb5af4d7ce88d7a7c",
@@ -1434,7 +1546,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.8
+   "hot_score": 24.0
   },
   {
    "id": "5ef3b5a127fd5ba4103dc807f5e4cc6d0ede0bc3",
@@ -1450,7 +1562,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.6
+   "hot_score": 23.7
   },
   {
    "id": "9231336d2e761cf2013120444f7381b465b62710",
@@ -1466,7 +1578,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.5
+   "hot_score": 23.6
   },
   {
    "id": "f8ff865f8809584cce7d2c20bd46411b684e7b10",
@@ -1482,7 +1594,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.4
+   "hot_score": 23.6
   },
   {
    "id": "8f470d9701bf33c28f15c116f7ff0a8f6389cd42",
@@ -1498,7 +1610,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.3
+   "hot_score": 23.4
   },
   {
    "id": "201ced87b1c7b5347f2fc99d47b363caae368505",
@@ -1514,7 +1626,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.3
+   "hot_score": 23.4
   },
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -1530,7 +1642,7 @@
    "reason": "官方来源",
    "is_new": false,
    "trend": "same",
-   "hot_score": 28.9
+   "hot_score": 27.9
   },
   {
    "id": "4eb5c606da180db7bd746b2adfff0a7282496071",
@@ -1546,7 +1658,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.1
+   "hot_score": 23.2
   },
   {
    "id": "e00107a03fa48327d3cf20a2115ed781982e59ea",
@@ -1562,7 +1674,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 24.0
+   "hot_score": 23.2
   },
   {
    "id": "b1ec315fa9dce11621d6cee1a8f2617d1fa68536",
@@ -1578,7 +1690,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.8
+   "hot_score": 23.0
   },
   {
    "id": "66cce1269a56aeaf3287d30280b5b5e03adafd4a",
@@ -1594,7 +1706,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.8
+   "hot_score": 22.9
   },
   {
    "id": "fabcda5f5319953fcb226b9492415f4dd5e64902",
@@ -1610,7 +1722,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.5
+   "hot_score": 22.7
   },
   {
    "id": "82a0209d95fbec8935199d6d6a8119b7fdfa27fc",
@@ -1626,7 +1738,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.4
+   "hot_score": 22.6
   },
   {
    "id": "00a2bf7226dda6f3899c3babead741928d908f76",
@@ -1642,7 +1754,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.3
+   "hot_score": 22.5
   },
   {
    "id": "f0da9e69dffe9090a9d5d39f50e90af96613d694",
@@ -1658,7 +1770,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.2
+   "hot_score": 22.4
   },
   {
    "id": "e345653cd7291053ee2f2bb3b8e74bb4dce9169d",
@@ -1674,7 +1786,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 23.0
+   "hot_score": 22.2
   },
   {
    "id": "d89e9cf214cf86d968c507fb2620b35d1cc6a114",
@@ -1690,7 +1802,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 22.7
+   "hot_score": 21.9
   },
   {
    "id": "68c059b85bf4d04451f166ee871567ee17c49a6a",
@@ -1706,7 +1818,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 21.6
+   "hot_score": 20.8
   },
   {
    "id": "97ba99091379f0365c771c0ce27d018bc3c9eab9",
@@ -1722,7 +1834,7 @@
    "reason": "官方来源 · 涉及performance",
    "is_new": false,
    "trend": "same",
-   "hot_score": 26.6
+   "hot_score": 25.7
   },
   {
    "id": "52b4309758a39c909bea4825a77707763c0eb20a",
@@ -1738,7 +1850,7 @@
    "reason": "官方来源 · 涉及optimization、workflow",
    "is_new": false,
    "trend": "same",
-   "hot_score": 25.8
+   "hot_score": 24.9
   },
   {
    "id": "cce0629d13e2b34c874605a4ea82e3749bca9cdf",
@@ -1754,7 +1866,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.9
+   "hot_score": 20.2
   },
   {
    "id": "e8fa2a2c06b9ecc7543e37dc18420d6544c5cfe1",
@@ -1770,7 +1882,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.6
+   "hot_score": 19.9
   },
   {
    "id": "14d710c63b178bfbac9ff7271102234d1ece93cc",
@@ -1786,7 +1898,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.2
+   "hot_score": 19.5
   },
   {
    "id": "6b40790e89cf07241ad682c14ace8c855571e3af",
@@ -1802,7 +1914,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.1
+   "hot_score": 19.4
   },
   {
    "id": "baa849e20dc9a141dc983de12e996c6b4b1f2ca4",
@@ -1818,7 +1930,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.0
+   "hot_score": 19.3
   },
   {
    "id": "05ca53fa67d31bf552e94530a74262bb74fde218",
@@ -1834,7 +1946,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.9
+   "hot_score": 19.2
   },
   {
    "id": "5cc77acecf7b8096f30008b669621a9c91205279",
@@ -1850,7 +1962,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.9
+   "hot_score": 19.2
   },
   {
    "id": "9ba6aa1897f76bd2cc5044913d8800d1511aee80",
@@ -1866,7 +1978,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.8
+   "hot_score": 19.1
   },
   {
    "id": "c4526501f36797aedc90fc6552ecb83da94c37ff",
@@ -1882,7 +1994,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.6
+   "hot_score": 18.9
   },
   {
    "id": "ac3b087391a04625ec86ae5e4de267c8dfca6cdc",
@@ -1898,7 +2010,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.6
+   "hot_score": 18.9
   },
   {
    "id": "41895422997981cb2baad599042021848e3924f4",
@@ -1914,7 +2026,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.4
+   "hot_score": 18.7
   },
   {
    "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
@@ -1930,7 +2042,7 @@
    "reason": "涉及data",
    "is_new": false,
    "trend": "same",
-   "hot_score": 20.4
+   "hot_score": 19.7
   },
   {
    "id": "8be5c5acd91f2eb2b46c601fb4bb7dbae563c67d",
@@ -1946,7 +2058,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.1
+   "hot_score": 18.4
   },
   {
    "id": "387d59961ecdd4eac90934fd99472f62f27cb4d6",
@@ -1962,7 +2074,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 17.1
+   "hot_score": 16.5
   },
   {
    "id": "7c6127fe20fbbc9a225b8b4fcd8cd92857f9b613",
@@ -1978,119 +2090,7 @@
    "reason": "",
    "is_new": false,
    "trend": "same",
-   "hot_score": 19.0
-  },
-  {
-   "id": "9c32bcd3c3b11649f880416aedbcdb8f3eb205c4",
-   "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-   "link": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-05T11:55:30+00:00",
-   "summary": "Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter. Read more",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 56,
-   "reason": "涉及revenue、sales",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 21.1
-  },
-  {
-   "id": "9921b12bdf523054608956e4c97d3a83c15d06b8",
-   "title": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in",
-   "link": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
-   "source": "Rock Paper Shotgun",
-   "source_id": "rps",
-   "published": "2026-11-05T10:51:50+00:00",
-   "summary": "Calls for the Canadian government to help ressurect recently shuttered RPG makers BioWare have progressed from a single post by a politician to a petition with enough signatures that it looks set to b…",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 18.7
-  },
-  {
-   "id": "7fdb3f5173cd55d0cb4cb3eb7e767159f11128c7",
-   "title": "‘Did a Monkey Write This?’ has you outsourcing book writing to AI",
-   "link": "https://indiegamesplus.com/did-a-monkey-write-this-preview",
-   "source": "Indie Games Plus",
-   "source_id": "indiegamesplus",
-   "published": "2026-11-05T10:00:00+00:00",
-   "summary": "In the era of 2026, more and more creative industries are being, confusingly, outsource to AI; creative writing, publishing games and more. In Did a Monkey Write This? you are a young... The post ‘Did…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 18.5
-  },
-  {
-   "id": "a1a6683ba08af07269cf5495d7019303b3b5b8e5",
-   "title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
-   "link": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-05T09:57:30+00:00",
-   "summary": "Nintendo reported a 12.1% decrease in net sales for the six months ended September 30, 2026, primarily due to reduced hardware sales. Read more",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 53,
-   "reason": "涉及sales",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 19.7
-  },
-  {
-   "id": "961a804d08016afc8c8cbc1bdfca47a70603a4f5",
-   "title": "Tripwire Presents expands publishing business to support smaller indie developers",
-   "link": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T20:48:50+00:00",
-   "summary": "Tripwire Interactive's publishing division, Tripwire Presents, is expanding to offer publishing support to smaller independent developers. Read more",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.4
-  },
-  {
-   "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
-   "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze",
-   "link": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
-   "source": "GamesIndustry.biz",
-   "source_id": "gamesindustry",
-   "published": "2026-11-04T20:17:10+00:00",
-   "summary": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the…",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "score": 45,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 14.7
-  },
-  {
-   "id": "e8eb66ee1992ee97af38048c8dfba99d8e91f239",
-   "title": "Tripwire Interactive expands publishing business to focus on smaller developers and games",
-   "link": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
-   "source": "Game Developer",
-   "source_id": "gamedeveloper",
-   "published": "2026-11-04T19:45:00+00:00",
-   "summary": "The publishing division of Tripwire Interactive seeks to broaden its initiative with a focus on smaller games with scaled support.",
-   "category": "industry",
-   "category_label": "行业与融资",
-   "score": 50,
-   "reason": "",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 16.2
+   "hot_score": 18.3
   }
  ]
 }

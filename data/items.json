@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T20:39:43.641584+00:00",
+ "updated_at": "2026-11-10T00:29:26.770823+00:00",
  "items": [
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -3380,6 +3380,76 @@
    "published": "2026-11-09T19:09:12+00:00",
    "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
    "fetched_at": "2026-11-09T20:39:43.641584+00:00"
+  },
+  {
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "link": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:39:40+00:00",
+   "summary": "Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.…",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "link": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-09T21:22:20+00:00",
+   "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
+   "title": "Demo update: Version 0.9.4",
+   "link": "https://gamedev.net/blogs/entry/2298640-demo-update-version-094",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T18:43:11+00:00",
+   "summary": "Hi all, I have released a new demo version! Change list: Added manual \"Crossroads\" UI improvements Combat short-cuts Remapping polishing New main menu New credits screen Origin class perks \"Immortals\"…",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
+   "title": "Looking for Feedback: What Makes Up a Player's Psychology?",
+   "link": "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:06:28+00:00",
+   "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "14c259b5b69f97353d329fcc727379d164f750e6",
+   "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+   "link": "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:17:24+00:00",
+   "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
+   "title": "[Android][US/UK] Dragon’s Prisms — volunteer closed-beta testers wanted",
+   "link": "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T22:20:16+00:00",
+   "summary": "Hi everyone! I’m the solo developer behind Harrold Interactive, and I’m looking for volunteer playtesters for Dragon’s Prisms, a fantasy match-3 puzzle game built with Godot. The game has 500 Adventur…",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
+  },
+  {
+   "id": "664139c220390900937d364a172c9f546e7d222e",
+   "title": "Indie Game Development with AI",
+   "link": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+   "source": "Hacker News：独立游戏",
+   "source_id": "hnrss-indie",
+   "published": "2026-11-09T21:33:55+00:00",
+   "summary": "Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 8 # Comments: 1",
+   "fetched_at": "2026-11-10T00:29:26.770823+00:00"
   }
  ]
 }
