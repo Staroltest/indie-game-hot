@@ -1159,6 +1159,8 @@ function applyFilters(){
      隐藏正常的精选/热点/时间线，显示搜索结果区。 */
   if(state.q){enterSearchMode();return;}
   exitSearchMode();
+  var hot=document.getElementById('hot');
+  if(hot)hot.style.display=(state.cat==='all')?'':'none';
   var shown=0;
   document.querySelectorAll('#featured .feed-item').forEach(function(el){
     var ok=itemVisible(el);el.style.display=ok?'':'none';if(ok)shown++;
@@ -1304,7 +1306,11 @@ document.addEventListener('click',function(e){
   if(oi)oi.value='';
   document.querySelectorAll('.unread-toggle').forEach(function(x){x.classList.remove('on');});
   setCat('all');
-  if(act==='featured'){var f=document.getElementById('featured');if(f)f.scrollIntoView();}
+  if(act==='featured'){
+    var f=document.getElementById('featured');
+    if(f){f.scrollIntoView();}
+    else{var br=document.querySelector('.topbar .brand')||document.querySelector('.sidebar .brand');if(br)location.href=br.getAttribute('href');}
+  }
 });
 /* 手机搜索浮层（B14）：全屏层 + 最近搜索 + 分类 chips + 热议 */
 var overlay=document.getElementById('searchOverlay');
@@ -1907,15 +1913,14 @@ def _logo(size):
 
 
 def _nav_items(prefix, base=""):
-    """prefix：首页为 ''（站内锚点），其它根页面为 'index.html'，
-    子目录页为 '../index.html'（base 拼在前面）。"""
-    def h(ref):
-        if not prefix:
-            return f"#{ref}"
-        return f"{base}{prefix}#{ref}"
+    """prefix：首页为 ''，其它根页面为 'index.html'，
+    子目录页为 '../index.html'（base 拼在前面）。
+    精选与全部动态是两个页面（对标 AIHOT / 与 /all），不再是站内锚点。"""
+    root = prefix or "index.html"
+    all_page = root.replace("index.html", "all.html")
     return [
-        ("featured", "精选", "zap", h("featured")),
-        ("all", "全部动态", "list", h("timeline")),
+        ("featured", "精选", "zap", f"{base}{root}"),
+        ("all", "全部动态", "list", f"{base}{all_page}"),
         ("hot", "热点榜", "trend", f"{base}hot.html"),
         ("daily", "日报", "doc", f"{base}daily.html"),
         ("starred", "收藏", "bookmark", f"{base}starred.html"),
@@ -1973,26 +1978,23 @@ def topbar_html(active, prefix="", base=""):
         center = ('<span class="title">'
                   + {"daily": "日报", "weekly": "周报", "monthly": "月报"}[active] + '</span>')
     else:
-        def h(ref):
-            if not prefix:
-                return f"#{ref}"
-            return f"{base}{prefix}#{ref}"
-        center = (f'<span class="switch"><a class="on" href="{h("featured")}">精选</a>'
-                  f'<a href="{h("timeline")}">全部</a></span>')
+        root = prefix or "index.html"
+        all_page = root.replace("index.html", "all.html")
+        center = (f'<span class="switch">'
+                  f'<a class="{"on" if active == "featured" else ""}" href="{base}{root}">精选</a>'
+                  f'<a class="{"on" if active == "all" else ""}" href="{base}{all_page}">全部</a></span>')
     return (f'<header class="topbar"><a class="brand" href="{base}index.html">{_logo(26)}<b>IndieHOT</b></a>'
             f'{center}{_theme_btn()}</header>')
 
 
 def tabbar_html(active, prefix="", base=""):
-    def h(ref):
-        if not prefix:
-            return f"#{ref}"
-        return f"{base}{prefix}#{ref}"
+    root = prefix or "index.html"
+    all_page = root.replace("index.html", "all.html")
     tabs = [
-        ("featured", "精选", "zap", h("featured")),
+        ("featured", "精选", "zap", f"{base}{root}"),
         ("hot", "热点", "trend", f"{base}hot.html"),
         ("daily", "日报", "doc", f"{base}daily.html"),
-        ("all", "全部", "list", h("timeline")),
+        ("all", "全部", "list", f"{base}{all_page}"),
         ("starred", "收藏", "bookmark", f"{base}starred.html"),
     ]
     links = "".join(
@@ -2151,6 +2153,31 @@ def timeline_group_slot(group, sel_ids, base=""):
 INDEX_SSR_SLOTS = 20
 
 
+def _tl_sections(items, sel_ids):
+    """时间线按天分组渲染（首页精选 feed 与全部动态页共用）。
+    首屏只渲染前 INDEX_SSR_SLOTS 条（全渲染会让单文件超过推送上限）；
+    其余由 JS 分页按需从 data/days/ 取。日期头上的条数按已渲染的算，
+    否则 JS 追加时再累加会把数算重。"""
+    rendered = items[:INDEX_SSR_SLOTS]
+    groups = group_similar(rendered)
+    days = {}
+    for g in groups:
+        days.setdefault(g["main"]["_pub"].astimezone(CST).date(), []).append(g)
+    day_counts = {}
+    for it in rendered:
+        d = it["_pub"].astimezone(CST).date()
+        day_counts[d] = day_counts.get(d, 0) + 1
+    today = datetime.now(CST).date()
+    tl_sections = ""
+    for n, (d, gs) in enumerate(days.items()):
+        slots = "".join(timeline_group_slot(g, sel_ids) for g in gs)
+        fake_items = [None] * day_counts[d]
+        tl_sections += (f'<section class="day-sec" data-date="{d.isoformat()}">'
+                        f'{day_header(d, fake_items, today, aside=(n == 0))}'
+                        f'<ol class="day-list">{slots}</ol></section>')
+    return tl_sections
+
+
 def render_index(site, cats, cfg, src_by_id, selected, hot, timeline, generated_at, counts):
     sel_ids = {it["id"] for it in selected}
     cat_opts = "".join(
@@ -2190,26 +2217,7 @@ def render_index(site, cats, cfg, src_by_id, selected, hot, timeline, generated_
         or "<li>暂无热点。</li>"
     hot_more = ('<a class="hot-more" href="hot.html">'
                 '完整榜单 <span aria-hidden="true">→</span></a>') if len(hot) > 5 else ""
-    # 首屏时间线只渲染前 INDEX_SSR_SLOTS 条（100 条全渲染会让 index.html 超过
-    # 推送单文件上限）；其余由 JS 分页按需从 data/days/ 取，数据本身仍是 100 条。
-    # 日期头上的条数按已渲染的算，否则 JS 追加时再累加会把数算重。
-    rendered = timeline[:INDEX_SSR_SLOTS]
-    groups = group_similar(rendered)
-    days = {}
-    for g in groups:
-        days.setdefault(g["main"]["_pub"].astimezone(CST).date(), []).append(g)
-    day_counts = {}
-    for it in rendered:
-        d = it["_pub"].astimezone(CST).date()
-        day_counts[d] = day_counts.get(d, 0) + 1
-    today = datetime.now(CST).date()
-    tl_sections = ""
-    for n, (d, gs) in enumerate(days.items()):
-        slots = "".join(timeline_group_slot(g, sel_ids) for g in gs)
-        fake_items = [None] * day_counts[d]
-        tl_sections += (f'<section class="day-sec" data-date="{d.isoformat()}">'
-                        f'{day_header(d, fake_items, today, aside=(n == 0))}'
-                        f'<ol class="day-list">{slots}</ol></section>')
+    tl_sections = _tl_sections(timeline, sel_ids)
     unread_row = ('<div class="unread-row"><button type="button" class="toggle-chip unread-toggle">'
                   '只看未读</button></div>')
     # 给 JS 分页/搜索用的配置：打分参数 + 关键词标签映射 + 信源分级（供动态渲染卡片时算分/理由/标签）
@@ -2255,7 +2263,99 @@ def render_index(site, cats, cfg, src_by_id, selected, hot, timeline, generated_
             + hot_more
             + '</section>'
             + f'<div id="featured">{sel_html}</div>'
-            + f'<div id="timeline"><h2 class="sec">全部动态</h2>'
+            + f'<div id="timeline">'
+            + unread_row
+            + tl_sections
+            + '</div>'
+            + f'<a class="more-row" href="all.html">{icon("list", 18)}'
+            + '<span class="m-label">查看全部动态</span><span class="m-arrow">›</span></a>'
+            + '<div id="searchResults" hidden>'
+            + '<div class="search-results-head"><h2>搜索结果</h2><span class="sr-count" id="srCount"></span></div>'
+            + '<div id="srList"></div></div>'
+            + empty_state
+            + '<div id="loadMoreSentinel"></div>'
+            + '<div class="load-more-wrap" id="loadMoreWrap">'
+            + '<button type="button" class="load-more-btn" id="loadMoreBtn">加载更多</button>'
+            + '<p class="load-more-state" id="loadMoreState"></p></div>'
+            + '<p class="feed-end" id="feedEnd" hidden>已经到底了</p>'
+            + f'<script id="ihConfig" type="application/json">{cfg_json}</script>'
+            + page_close(site, "featured"))
+
+
+def render_all(site, cats, cfg, src_by_id, selected, hot, pool, generated_at):
+    """全部动态页（对标 AIHOT /all）：30 天全量按时间倒序、按天分组；
+    首屏只渲染前 INDEX_SSR_SLOTS 条，其余由 JS 分页从 data/days/ 取。
+    无精选区、无热点框；分类筛选与搜索与首页共用同一套 JS。"""
+    sel_ids = {it["id"] for it in selected}
+    cat_opts = "".join(
+        f'<button type="button" class="chip" data-filter="{c["key"]}">{esc(c["label"])}</button>'
+        for c in cats)
+    cat_opts += '<button type="button" class="chip" data-filter="official">官方</button>'
+    search_html = (f'<div class="search" role="search">{icon("search", 16)}'
+                   f'<input id="siteSearch" type="text" placeholder="搜索标题、摘要…" '
+                   f'maxlength="200" autocomplete="off" aria-label="搜索标题和摘要">'
+                   f'<button type="button" class="clear" id="searchClear" aria-label="清空">✕</button>'
+                   f'<kbd>/</kbd></div>')
+    search_trigger = (f'<button type="button" class="search-trigger" aria-label="打开搜索">'
+                      f'{icon("search", 16)}<span>搜索标题、摘要…</span></button>')
+    overlay_cats = "".join(
+        f'<button type="button" class="chip" data-filter="{c["key"]}">{esc(c["label"])}</button>'
+        for c in cats)
+    overlay_cats += '<button type="button" class="chip" data-filter="official">官方</button>'
+    overlay_hot = "".join(
+        f'<li><span class="rank{" r1" if i == 0 else (" r2" if i == 1 else (" r3" if i == 2 else ""))}">{i + 1}</span>'
+        f'<a href="items/{esc(it["id"])}.html">{esc(it.get("zh_title") or it["title"])}</a></li>'
+        for i, it in enumerate(hot[:5]))
+    overlay_html = (
+        f'<div class="search-overlay" id="searchOverlay" hidden>'
+        f'<div class="overlay-bar"><button type="button" class="icon-btn" id="overlayClose" aria-label="关闭搜索">{icon("x", 20)}</button>'
+        f'<div class="search overlay-search">{icon("search", 16)}'
+        f'<input id="overlaySearch" type="text" placeholder="搜索标题、摘要…" maxlength="200" autocomplete="off" aria-label="搜索标题和摘要">'
+        f'<button type="button" class="clear" id="overlaySearchClear" aria-label="清空">✕</button></div></div>'
+        f'<div class="overlay-sec"><h3>最近搜索</h3><div id="recentList"></div>'
+        f'<button type="button" class="recent-clear" id="clearRecent">清除最近搜索</button></div>'
+        f'<div class="overlay-sec"><h3>按分类找</h3><div class="overlay-cats">{overlay_cats}</div></div>'
+        f'<div class="overlay-sec"><h3>正在热议</h3><ol class="overlay-hot">{overlay_hot}</ol></div>'
+        f'</div>')
+    tl_sections = _tl_sections(pool, sel_ids)
+    unread_row = ('<div class="unread-row"><button type="button" class="toggle-chip unread-toggle">'
+                  '只看未读</button></div>')
+    sc = cfg["scoring"]
+    ih_cfg = {
+        "base": sc["base"],
+        "recency": sc["recency"],
+        "tierBonus": sc["tier_bonus"],
+        "devBonus": sc["dev_keyword_bonus"],
+        "devCap": sc["dev_keyword_cap"],
+        "devLabels": REASON_LABELS,
+        "noiseKw": sc["noise_keywords"],
+        "noisePenalty": sc["noise_keyword_penalty"],
+        "noiseFloor": sc["noise_keyword_floor"],
+        "tagSlugs": TAG_SLUGS,
+        "tiers": {sid: s.get("tier", "T2") for sid, s in src_by_id.items()},
+    }
+    cfg_json = json.dumps(ih_cfg, ensure_ascii=False)
+    empty_state = (
+        '<div id="noResult" class="empty-state" hidden>'
+        f'<div class="empty-icon" id="noResultIcon">{icon("search", 40)}</div>'
+        '<h3 class="empty-title" id="noResultTitle">这个分类下暂无动态。</h3>'
+        '<p class="empty-text" id="noResultText"></p>'
+        '<div class="empty-actions">'
+        '<button type="button" class="empty-btn" data-empty-action="clear">清除筛选</button>'
+        '<button type="button" class="empty-btn primary" data-empty-action="featured">去看精选</button>'
+        '</div></div>')
+    return (page_open(site, "all", f'{site["title"]} · 全部动态',
+                      site["description"])
+            + f'<div class="m-title">全部动态</div>'
+            + f'<h1>全部动态</h1>'
+            + f'<p class="lede">更新于 {esc(generated_at)}（北京时间）<span class="lede-rest"> · 最近 30 天共 {len(pool)} 条 · '
+            f'只显示标题与摘要，点击标题查看详情，详情页里有原文链接。</span></p>'
+            + f'<div class="filter-row"><div class="tabs" role="tablist" aria-label="分类筛选">'
+            f'<span class="tabs-thumb" id="tabsThumb"></span>'
+            f'<button type="button" class="chip on" data-filter="all">全部</button>{cat_opts}</div>'
+            + search_trigger + search_html + '</div>'
+            + overlay_html
+            + f'<div id="timeline">'
             + unread_row
             + tl_sections
             + '</div>'
@@ -2269,7 +2369,7 @@ def render_index(site, cats, cfg, src_by_id, selected, hot, timeline, generated_
             + '<p class="load-more-state" id="loadMoreState"></p></div>'
             + '<p class="feed-end" id="feedEnd" hidden>已经到底了</p>'
             + f'<script id="ihConfig" type="application/json">{cfg_json}</script>'
-            + page_close(site, "featured"))
+            + page_close(site, "all"))
 
 
 LAUNCH_DATE = datetime(2026, 11, 9, tzinfo=CST).date()
@@ -2349,7 +2449,7 @@ def render_starred(site):
         '<h3 class="empty-title">还没有收藏</h3>'
         '<p class="empty-text">去点卡片右上角的书签，喜欢的动态就会出现在这里。</p>'
         '<div class="empty-actions">'
-        '<a class="empty-btn primary" href="index.html#featured">去看精选</a>'
+        '<a class="empty-btn primary" href="index.html">去看精选</a>'
         '</div></div>')
     return (page_open(site, "starred", f'{site["title"]} · 收藏',
                       site["description"], prefix="index.html",
@@ -2583,7 +2683,7 @@ def render_item(site, it, related, is_selected, daily_issue):
     domain = urllib.parse.urlparse(it["link"]).netloc
     canonical = f"{site_url}/items/{it['id']}.html"
     mid_name = "精选" if is_selected else "全部动态"
-    mid_anchor = "#featured" if is_selected else "#timeline"
+    mid_href = "/" if is_selected else "/all.html"
     ld_blocks = [
         {"@context": "https://schema.org", "@type": "Article",
          "headline": title, "description": desc,
@@ -2596,7 +2696,7 @@ def render_item(site, it, related, is_selected, daily_issue):
              {"@type": "ListItem", "position": 1, "name": "首页",
               "item": site_url + "/"},
              {"@type": "ListItem", "position": 2, "name": mid_name,
-              "item": site_url + "/index.html" + mid_anchor},
+              "item": site_url + mid_href},
              {"@type": "ListItem", "position": 3, "name": title,
               "item": canonical}]},
     ]
@@ -3044,6 +3144,11 @@ def main():
     with open(os.path.join(root, "index.html"), "w", encoding="utf-8") as f:
         f.write(render_index(site, cats, cfg, src_by_id, selected, hot, timeline,
                              gen_cst, hot_data["counts"]))
+    # 全部动态页（对标 AIHOT /all）：30 天全量按时间倒序
+    with open(os.path.join(root, "all.html"), "w", encoding="utf-8") as f:
+        f.write(render_all(site, cats, cfg, src_by_id, selected, hot,
+                           sorted(live, key=lambda x: x["_pub"], reverse=True),
+                           gen_cst))
     with open(os.path.join(root, "hot.html"), "w", encoding="utf-8") as f:
         f.write(render_hot(site, hot, gen_cst, hot_data["counts"], cfg))
 
@@ -3096,7 +3201,7 @@ def main():
         f.write(f"User-agent: *\nAllow: /\nSitemap: {site_url}/sitemap.xml\n")
     with open(os.path.join(root, "favicon.svg"), "w", encoding="utf-8") as f:
         f.write(LOGO_SVG)
-    sitemap_urls = ["", "hot.html", "daily.html", "weekly.html", "monthly.html",
+    sitemap_urls = ["", "all.html", "hot.html", "daily.html", "weekly.html", "monthly.html",
                     "starred.html", "more.html", "changelog.html", "about.html",
                     "terms.html", "privacy.html", "topics.html",
                     "daily/archive.html", "feed.xml"]

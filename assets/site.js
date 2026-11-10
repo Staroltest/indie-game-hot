@@ -108,6 +108,8 @@ function applyFilters(){
      隐藏正常的精选/热点/时间线，显示搜索结果区。 */
   if(state.q){enterSearchMode();return;}
   exitSearchMode();
+  var hot=document.getElementById('hot');
+  if(hot)hot.style.display=(state.cat==='all')?'':'none';
   var shown=0;
   document.querySelectorAll('#featured .feed-item').forEach(function(el){
     var ok=itemVisible(el);el.style.display=ok?'':'none';if(ok)shown++;
@@ -253,7 +255,11 @@ document.addEventListener('click',function(e){
   if(oi)oi.value='';
   document.querySelectorAll('.unread-toggle').forEach(function(x){x.classList.remove('on');});
   setCat('all');
-  if(act==='featured'){var f=document.getElementById('featured');if(f)f.scrollIntoView();}
+  if(act==='featured'){
+    var f=document.getElementById('featured');
+    if(f){f.scrollIntoView();}
+    else{var br=document.querySelector('.topbar .brand')||document.querySelector('.sidebar .brand');if(br)location.href=br.getAttribute('href');}
+  }
 });
 /* 手机搜索浮层（B14）：全屏层 + 最近搜索 + 分类 chips + 热议 */
 var overlay=document.getElementById('searchOverlay');
