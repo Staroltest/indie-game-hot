@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T23:12:39.061642+00:00",
+ "updated_at": "2026-11-10T00:51:35.273997+00:00",
  "items": [
   {
    "id": "703777948ca60a491f04561aaa8dc9c534614a73",
@@ -3468,7 +3468,9 @@
    "source_id": "godot-blog",
    "published": "2026-11-09T12:00:00+00:00",
    "summary": "Despite much of our team being at GodotFest this past week , there was still a healthy amount of progress made on our handful of remaining release blockers. It’s looking like it won’t be too much long…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "开发快照：Godot 4.8 beta 3",
+   "zh_summary": "尽管团队大半成员上周都在参加 GodotFest，剩余发布阻塞问题仍取得了可观进展，看起来离发布已不太远。"
   },
   {
    "id": "081fabed4ae40dc7c517842b5e142be750db3226",
@@ -3478,7 +3480,9 @@
    "source_id": "gamedeveloper",
    "published": "2026-11-09T17:30:00+00:00",
    "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "报道：星球大战新作开发商 Bit Reactor 裁员，人数未公布",
+   "zh_summary": "游戏发售几个月后，这家工作室似乎刚重整旗鼓，但新报道称这家星球大战回合制战术游戏的开发商正在裁员。"
   },
   {
    "id": "2eec9fc4736f7b6733a1906caee3d6b5c7dbf730",
@@ -3488,7 +3492,9 @@
    "source_id": "gamedeveloper",
    "published": "2026-11-09T16:39:06+00:00",
    "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "《魔兽世界：Forever》成系列史上最大规模上线，同时在线人数创纪录",
+   "zh_summary": "暴雪这款备受期待的作品上线表现亮眼，成为 Xbox 业务的一大亮点。"
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -3498,7 +3504,9 @@
    "source_id": "gamesindustry",
    "published": "2026-11-09T21:39:40+00:00",
    "summary": "Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "Take-Two CEO 谈 GTA 6、BioShock 与收购计划：我们这行没有轻松赚钱这回事",
+   "zh_summary": "Take-Two 公布第二财季财报，CEO Strauss Zelnick 谈及业绩、公司方向以及复活老 IP 的计划。"
   },
   {
    "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
@@ -3508,7 +3516,9 @@
    "source_id": "gamesindustry",
    "published": "2026-11-09T21:22:20+00:00",
    "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "Take-Two 第二财季净预订额跌 18% 至 16 亿美元，NBA 2K27 未达预期，但 GTA 6 预购量远超预期",
+   "zh_summary": "Take-Two 公布第二财季财报：净预订额同比下降 18% 至 16 亿美元，净收入下降 16% 至 15 亿美元。"
   },
   {
    "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
@@ -3518,7 +3528,9 @@
    "source_id": "gamesindustry",
    "published": "2026-11-09T19:43:10+00:00",
    "summary": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff. Read more",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "Tripwire Interactive 裁员 36 人",
+   "zh_summary": "《杀戮空间》与《食人鲨》开发商 Tripwire Interactive 裁员 36 人。"
   },
   {
    "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
@@ -3528,7 +3540,9 @@
    "source_id": "gamesindustry",
    "published": "2026-11-09T17:37:10+00:00",
    "summary": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch. Read more",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "PlayStation 取消《瑞奇与叮当：Ranger Rumble》，软启动一年后叫停",
+   "zh_summary": "PlayStation 取消了《瑞奇与叮当》免费手游衍生作 Ranger Rumble，该作进入软启动已有一年。"
   },
   {
    "id": "0a5f4f37eb3c1c750d9901f094fa09821d71366f",
@@ -3538,7 +3552,9 @@
    "source_id": "rps",
    "published": "2026-11-09T17:30:00+00:00",
    "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed a…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "《战锤 40K：暗黑异端》明年 1 月发售，留给玩家准备的时间不多了",
+   "zh_summary": "这款 CRPG 已确认明年 1 月发售，玩家很快就要面对大量艰难抉择与秘密战争。"
   },
   {
    "id": "ee4d3fad49b75d0e25a394b623f11694480fc5bf",
@@ -3548,7 +3564,9 @@
    "source_id": "rps",
    "published": "2026-11-09T17:05:10+00:00",
    "summary": "It is said that King Canute once placed his throne on the shore and commanded the sea not to get his feet wet, thus proving to his flattering courtiers that only God Almighty holds sway over the eleme…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "《Swarmbreaker》：敌人如流体般聚拢、碰撞、流动的迷人塔防游戏",
+   "zh_summary": "这款塔防新作中敌人会像流体一样聚拢、碰撞与流动，观感格外迷人。"
   },
   {
    "id": "24e078272b244f981aee3a69f17d385a564bcf0b",
@@ -3558,7 +3576,9 @@
    "source_id": "rps",
    "published": "2026-11-09T16:30:00+00:00",
    "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsl…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "世嘉第三方邮件服务商遭网络攻击，超 200 万邮箱泄露，世嘉账号未受影响",
+   "zh_summary": "世嘉透露，因日本邮件服务商 Arara 遭攻击，超 200 万个邮箱地址泄露，但世嘉账号本身未受影响。"
   },
   {
    "id": "e0e8b8e929a52f31c870f0040a44b8a8f531c0f7",
@@ -3568,7 +3588,9 @@
    "source_id": "rps",
    "published": "2026-11-09T16:00:30+00:00",
    "summary": "A group of \"concerned Microsoft workers\" have published an open letter criticising their employer's \"speed-at-all-costs\" approach to generative AI, which they argue is \"harming our customers, colleagu…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "微软员工指控公司让用户对 AI 上瘾，还强迫员工参与侵犯人权的行为",
+   "zh_summary": "一群微软员工发表公开信，批评公司不惜一切追求生成式 AI 速度的做法正在伤害客户与同事。"
   },
   {
    "id": "1405f7355d9e17c5223dfea2621b4941fc8f8811",
@@ -3578,7 +3600,9 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T18:43:11+00:00",
    "summary": "Hi all, I have released a new demo version! Change list: Added manual \"Crossroads\" UI improvements Combat short-cuts Remapping polishing New main menu New credits screen Origin class perks \"Immortals\"…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "试玩更新：0.9.4 版",
+   "zh_summary": "新试玩版发布：新增手动操作、十字路口界面改进、战斗快捷键、按键重映射打磨、新主菜单与制作人员名单等。"
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -3588,7 +3612,9 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T22:20:16+00:00",
    "summary": "Hi everyone! I’m the solo developer behind Harrold Interactive, and I’m looking for volunteer playtesters for Dragon’s Prisms, a fantasy match-3 puzzle game built with Godot. The game has 500 Adventur…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "[安卓][美/英]《Dragon's Prisms》招募志愿封闭测试玩家",
+   "zh_summary": "独立开发者 Harrold Interactive 为 Godot 制作的奇幻三消解谜游戏招募志愿测试玩家，游戏含 500 个冒险关卡。"
   },
   {
    "id": "5f525cefc8c405297fdcf42b9798c9f491aa3069",
@@ -3598,7 +3624,9 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T16:30:36+00:00",
    "summary": "\\\"Almost done\\\" sounds reassuring, but it says nothing about real progress. Give every element a checklist, tick the completed items, and IMS Creators calculates the readiness for you. For example, if…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "项目进展到哪了？给每张卡片做进度追踪",
+   "zh_summary": "「快做完了」听着安心，却说明不了真实进度。给每个元素加上检查清单、逐项打勾，工具会自动算出完成度。"
   },
   {
    "id": "4b3b7ec65e76d5e1ac0c440018aa6c2a31e63443",
@@ -3608,7 +3636,9 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T20:11:57+00:00",
    "summary": "I have to think of a Horror game idea. i was think point and click game, unlock doors.. find keys and unveil the true story.. somewhat like Granny. It's called The Hollow. i'll send some images, video…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "求助：2D 恐怖游戏创意",
+   "zh_summary": "想做一款 2D 恐怖游戏，类似点击解谜、开门找钥匙、揭开真相的玩法，暂名《The Hollow》。"
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -3618,7 +3648,9 @@
    "source_id": "gamedev-net",
    "published": "2026-11-09T16:04:46+00:00",
    "summary": "Our small team makes HTML5 games that run inside Telegram as Mini Apps. For a long time we tested performance the way most web developers do: Chrome DevTools, device mode, CPU throttling on. The pages…",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "在 Telegram 内用真机测 FPS：Chrome 设备模式永远发现不了的问题",
+   "zh_summary": "小团队在 Telegram 小程序里做 HTML5 游戏，长期用 Chrome 开发者工具加 CPU 节流测性能，结果与真机表现大相径庭。"
   },
   {
    "id": "664139c220390900937d364a172c9f546e7d222e",
@@ -3628,7 +3660,28 @@
    "source_id": "hnrss-indie",
    "published": "2026-11-09T21:33:55+00:00",
    "summary": "Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 4 # Comments: 0",
-   "fetched_at": "2026-11-09T23:12:39.061642+00:00"
+   "fetched_at": "2026-11-09T23:12:39.061642+00:00",
+   "zh_title": "用 AI 做独立游戏开发"
+  },
+  {
+   "id": "91d06c045c618426bd93f4f4e7e900c131bb07be",
+   "title": "Looking for Feedback: What Makes Up a Player's Psychology?",
+   "link": "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:06:28+00:00",
+   "summary": "I'm working on a new feature for the latest version of Wrong Crowd called Personas . The idea is to let players create profiles that express their personality and approach to competitive games. I'm co…",
+   "fetched_at": "2026-11-10T00:51:35.273997+00:00"
+  },
+  {
+   "id": "14c259b5b69f97353d329fcc727379d164f750e6",
+   "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+   "link": "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177",
+   "source": "GameDev.net",
+   "source_id": "gamedev-net",
+   "published": "2026-11-09T23:17:24+00:00",
+   "summary": "RELEASING A GAME DEMO? LEGAL STEPS TO PROTECT IT FROM AI CLONES More than 8,000 game demos were showcased at Steam Next Fest in October, but some planned demos never made it. For example, Alliance Art…",
+   "fetched_at": "2026-11-10T00:51:35.273997+00:00"
   }
  ]
 }
