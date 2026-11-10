@@ -65,7 +65,8 @@
  },
  "https://80.lv/articles/reimagining-street-fighter-6-s-a-k-i-in-zbrush-marmoset-toolbag": {
   "zh_title": "用 ZBrush 与 Marmoset Toolbag 重塑《Street Fighter 6》的 A.K.I.",
-  "zh_summary": "Jessie Chan 展示了她为《Street Fighter 6》的 A.K.I. 创作同人作品的工作流，讲解了 ZBrush 里对称低模如何与摆好姿势的高模联动，从而让 Substance 里的贴图制作更加顺手……"
+  "zh_summary": "Jessie Chan 展示了她为《Street Fighter 6》的 A.K.I. 创作同人作品的工作流，讲解了 ZBrush 里对称低模如何与摆好姿势的高模联动，从而让 Substance 里的贴图制作更加顺手……",
+  "zh_summary_full": "Jessie Chan 展示了她做《Street Fighter 6》角色 A.K.I. 同人图的流程：ZBrush 里对称低模与摆好姿势的高模雕刻联动，让 Substance 3D Painter 里的贴图制作更顺手；最后在 Marmoset Toolbag 里给角色打光。"
  },
  "https://80.lv/articles/creating-realistic-mountain-scene-with-custom-unreal-engine-5-tool": {
   "zh_title": "用自研 Unreal Engine 5 工具打造逼真高山场景",
@@ -401,7 +402,8 @@
  },
  "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-3": {
   "zh_title": "开发快照：Godot 4.8 beta 3",
-  "zh_summary": "尽管团队大半成员上周都在参加 GodotFest，剩余发布阻塞问题仍取得了可观进展，看起来离发布已不太远。"
+  "zh_summary": "尽管团队大半成员上周都在参加 GodotFest，剩余发布阻塞问题仍取得了可观进展，看起来离发布已不太远。",
+  "zh_summary_full": "尽管团队上周大部分人都在 GodotFest，但剩下的几个发版 blocker 还是取得了不错的进展。看起来离进入 RC 阶段不会太久了，现在正是用最新快照 Godot 4.8 beta 3 找新 bug、报回归问题的时候。如果你有能力，请考虑从经济上支持这个项目。Godot 靠志愿者和少数拿薪的贡献者维护，你的捐款用于赞助他们的工作，让他们能全心投入项目需求。可以直接跳到下载区试一试，或者继续往下读，了解这个版本有哪些改进。这个版本也可以试试网页编辑器、XR 编辑器或 Android 编辑器；如果对后者感兴趣，请申请加入测试组以获取预发布版本。封面图来自《Repel The Rifts》，一款塔防 Roguelike，你要指挥指挥官抵挡一个险恶异星世界的混乱。游戏已上架 Steam，也可以在 Bluesky 和 itch.io 上关注开发者！亮点部分：想了解 Godot 4.8 总体新增内容，可以看 4.8 beta 1 的亮点，覆盖了很多改动。这篇博客只讲 beta 2 到 beta 3 之间的变化。这部分讲最相关的……"
  },
  "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff": {
   "zh_title": "报道：星球大战新作开发商 Bit Reactor 裁员，人数未公布",
@@ -445,7 +447,8 @@
  },
  "https://gamedev.net/blogs/entry/2298640-demo-update-version-094": {
   "zh_title": "试玩更新：0.9.4 版",
-  "zh_summary": "新试玩版发布：新增手动操作、十字路口界面改进、战斗快捷键、按键重映射打磨、新主菜单与制作人员名单等。"
+  "zh_summary": "新试玩版发布：新增手动操作、十字路口界面改进、战斗快捷键、按键重映射打磨、新主菜单与制作人员名单等。",
+  "zh_summary_full": "大家好，新试玩版发布了！更新列表：新增手动操作“十字路口”、UI 改进、战斗快捷键、按键重映射打磨、新主菜单、新制作人员名单、起源职业特性；“Immortals”更新：新增巡游 NPC、炼金缸 bug 修复、消耗品重做、月升沙漠区域小改进、V3663L 开场。快来试试吧！谢谢。"
  },
  "https://gamedev.net/forums/topic/720784-androidusuk-dragons-prisms-volunteer-closed-beta-testers-wanted": {
   "zh_title": "[安卓][美/英]《Dragon's Prisms》招募志愿封闭测试玩家",
@@ -461,7 +464,8 @@
  },
  "https://gamedev.net/blogs/entry/2298636-measuring-fps-on-real-phones-inside-telegram-what-chromes-device-mode-never-showed-us": {
   "zh_title": "在 Telegram 内用真机测 FPS：Chrome 设备模式永远发现不了的问题",
-  "zh_summary": "小团队在 Telegram 小程序里做 HTML5 游戏，长期用 Chrome 开发者工具加 CPU 节流测性能，结果与真机表现大相径庭。"
+  "zh_summary": "小团队在 Telegram 小程序里做 HTML5 游戏，长期用 Chrome 开发者工具加 CPU 节流测性能，结果与真机表现大相径庭。",
+  "zh_summary_full": "我们的小团队做在 Telegram 里以 Mini App 运行的 HTML5 游戏。很长一段时间里，我们像大多数 Web 开发者一样测性能：Chrome DevTools、设备模式、CPU 节流全开。在那里页面看起来都没问题。后来我们在几台旧手机上试了游戏，发现有的屏幕上什么都不动，只有 15 帧。设备模式会改视口、拖慢 CPU，但用的还是你笔记本 GPU 上的 Chrome 引擎。在 iOS 上，Telegram 里的游戏跑在 WebKit 里；在 Android 上则用手机自带 GPU 的系统 WebView。"
  },
  "https://www.sandromaglione.com/articles/indie-game-development-with-ai": {
   "zh_title": "用 AI 做独立游戏开发",
@@ -469,30 +473,37 @@
  },
  "https://gamedev.net/tutorials/business/business-and-law/releasing-a-game-demo-legal-steps-to-protect-it-from-ai-clones-r6177": {
   "zh_title": "发布游戏试玩 Demo？防 AI 克隆的法律步骤",
-  "zh_summary": "10 月 Steam 新品节上展出了 8,000 多个游戏 Demo，但也有一些计划中的 Demo 没能参展。比如 Alliance Art……"
+  "zh_summary": "10 月 Steam 新品节上展出了 8,000 多个游戏 Demo，但也有一些计划中的 Demo 没能参展。比如 Alliance Art……",
+  "zh_summary_full": "发布游戏试玩 Demo？防 AI 克隆的法律步骤。10 月 Steam 新品节上展示了 8,000 多个游戏 Demo，但有些原定的 Demo 没能上。举个例子，Alliance Arts 在活动前几天取消了《Drunken Goddess Reflux》的公开 Demo；同一周，《Moonlighter》的开发商 Digital Sun 取消了《ReVamp》的公开测试，改成封闭 Discord 测试。两者的原因相同：担心有人在游戏发售前用 AI 工具把它复刻出来。这种风险是真实存在的，仿冒者……"
  },
  "https://gamedev.net/forums/topic/720783-looking-for-feedback-what-makes-up-a-players-psychology": {
   "zh_title": "求反馈：玩家心理由什么构成？",
-  "zh_summary": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我正在……"
+  "zh_summary": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我正在……",
+  "zh_summary_full": "我正在给新版《Wrong Crowd》做一个叫 Personas 的新功能：让玩家创建档案，表达自己的性格和竞技游戏打法。我想用一组维度来描述每个玩家的心理，每个维度由两个对立特质表示：时间：耐心 ↔ 冲动；风险：谨慎 ↔ 大胆；策略：规划 ↔ 直觉；运气：相信 ↔ 怀疑。我想请教两点：我漏了什么？有没有玩家心理的重要方面是这四个维度没覆盖到的？我正在考虑再加第五个维度，……"
  },
  "https://gamedev.net/forums/topic/720809-creating-iosandroid-game": {
   "zh_title": "做一款 iOS/Android 游戏",
-  "zh_summary": "大家好，我叫 Marshall。我计划做一款让人印象深刻的手游，完全没有广告和“pay-to-win”机制。简单说，……"
+  "zh_summary": "大家好，我叫 Marshall。我计划做一款让人印象深刻的手游，完全没有广告和“pay-to-win”机制。简单说，……",
+  "zh_summary_full": "大家好，我叫 Marshall。有一段时间了，我一直在计划做一款让人印象深刻的手游——完全没有广告，没有“付费取胜”机制。简单说，游戏主要围绕地牢和 Boss 团战，最多 6 名玩家组队协作。通过游玩，玩家会赚到一种货币，用来升级角色。游戏设计得对新手友好有趣，同时也足够耐玩，值得反复游玩——无论单人还是和朋友一起。可惜现阶段我还不能透露更多细节，但……"
  },
  "https://gamedev.net/forums/topic/720808-four-spacecraft-asset-packs-procedural-sfx-ambience-and-vector-ui-free-browser-samples": {
   "zh_title": "四套飞船素材包：程序化音效、环境音与矢量 UI，浏览器可免费试听",
-  "zh_summary": "我以 Derico 的名字在 itch.io 上发布这些素材包，覆盖飞船主题项目的四个层面，每页都有免费试听和浏览器可看的简短演示视频……"
+  "zh_summary": "我以 Derico 的名字在 itch.io 上发布这些素材包，覆盖飞船主题项目的四个层面，每页都有免费试听和浏览器可看的简短演示视频……",
+  "zh_summary_full": "我以 Derico 的名字在 itch.io 上发布这些素材包。它们覆盖飞船主题项目的四个层面，每页都有免费试听和一段可在浏览器里打开的简短展示视频。Dockline——飞船界面音效：36 个界面动作，分柔和与明亮两个版本，共 72 个单声道 WAV 文件，完整包 6 美元。Orbital Rooms——飞船环境氛围循环：8 段 24 秒房间循环、8 个立体声混音和 16 个单声道机械/空气声干声，完整包 7 美元。Shipboard UI——矢量面板与……"
  },
  "https://gamedev.net/forums/topic/720807-clean-the-map-city-cleanup-my-free-relaxing-idle-game-is-out-on-ios": {
   "zh_title": "《Clean The Map：城市清理》：我的免费休闲放置游戏已上架 iOS",
-  "zh_summary": "大家好！我是 Afonso，一名独立开发者，我的游戏刚上架 App Store。昨晚 Brightwater 市举办了有史以来最大的 SUNFEST 节日，今天早上却有 1……"
+  "zh_summary": "大家好！我是 Afonso，一名独立开发者，我的游戏刚上架 App Store。昨晚 Brightwater 市举办了有史以来最大的 SUNFEST 节日，今天早上却有 1……",
+  "zh_summary_full": "大家好！我是 Afonso，一名独立开发者，我的游戏刚刚上架 App Store。昨晚，Brightwater 市举办了有史以来最大的节日 SUNFEST，今天早上街上留下了 1,000 万件垃圾。在九个城区里清理垃圾，从节日广场到阳光海滩，追逐金色垃圾、打连击、收集 27 件失落宝藏和 26 个奖杯。清掉最后一件垃圾会放烟花庆祝，之后开启新节日并获得永久金币加成。免费、轻松，适合碎片时间玩。欢迎反馈……"
  },
  "https://gamedev.net/forums/topic/720806-hobbyunpaidgodot-4-kagami-recruiting-programmers-and-2d-artists": {
   "zh_title": "[爱好][无偿][Godot 4]《KAGAMI》招募程序员与 2D 美术",
-  "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……"
+  "zh_summary": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，SK3 Productions 出品。第一章已发布可玩，我……",
+  "zh_summary_full": "大家好！我是《KAGAMI》的独立创作者，这是一款日式 2D 心理像素恐怖游戏，用 Godot 4 开发，隶属 SK3 Productions。第一章已经发布可玩，我现在想为第二章及后续章节组建一支小型志愿开发团队。游戏特色：废弃旅馆、探索、解谜、追逐和心理恐怖。我们在找：Godot 4 / GDScript 程序员、像素美术与场景美术、角色立绘与表情美术、2D 精灵动画师。故事、角色和整体方向由我负责。第一章在独立开发期间借助 AI 辅助完成了代码和美术，但……"
  },
  "https://gamedev.net/blogs/entry/2298641-monday-dev-note-polish-continues": {
   "zh_title": "周一开发笔记：《Primeval》继续打磨",
-  "zh_summary": "关于《Primeval》的周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画……）还在做。"
+  "zh_summary": "关于《Primeval》的周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画……）还在做。",
+  "zh_summary_full": "Primeval 周一简报。上周悄悄放到 itch 上的版本仍是最新版，底层做了一轮性能优化；更大的画面升级（树木、草地、建筑与动画）还在做，不在当前版本里，做好了再分享，不赶工。与此同时，打磨继续：动画、单位编组与移动、音效和平衡性。当前版本里恐龙已经有性格和流畅的移动，有真实的生命周期：恐龙会繁殖、进食、互相争斗，还有饥饿、口渴、天气和食腐……"
  }
 }
