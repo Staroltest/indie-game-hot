@@ -2161,6 +2161,27 @@ def group_similar(items):
     return groups
 
 
+def _same_topic(a, b):
+    """跨来源同事件判定（2026-11-11 把关新增）：归一化标题一短一长、
+    短者是长者的前缀且至少 10 字 -> 同一事件（如两家媒体同报 UE 5.9 预览）。
+    只用于精选/热点/日报的取前 N 去重，时间线不受影响。"""
+    na = _norm_title(a.get("zh_title") or a["title"])
+    nb = _norm_title(b.get("zh_title") or b["title"])
+    if len(na) < 10 or len(nb) < 10:
+        return False
+    return na.startswith(nb) or nb.startswith(na)
+
+
+def dedup_topics(items):
+    """按顺序去重同事件条目，保留先出现的（调用前已按分数排好序）。"""
+    kept = []
+    for it in items:
+        if any(_same_topic(it, k) for k in kept):
+            continue
+        kept.append(it)
+    return kept
+
+
 def timeline_slot(it, sel_ids, base=""):
     pub = it["_pub"].astimezone(CST)
     badge = it["id"] in sel_ids
@@ -2886,10 +2907,13 @@ def render_hot(site, hot, generated_at, counts, cfg):
         rest = "<p>暂无热点。</p>"
     rec = sc["recency"]
     rec_txt = "、".join(f'{r["max_hours"]} 小时内 +{r["bonus"]}' for r in rec)
+    tier_txt = f'官方信源 +{sc["tier_bonus"].get("T1", 0)}'
+    if "T3" in sc["tier_bonus"]:
+        tier_txt += f'；综合游戏媒体 {sc["tier_bonus"]["T3"]}'
     method = (
         f'<section class="well hot-method"><span class="kicker">热度是怎么算的？</span>'
         f'<p>每条动态先按规则打分：基础 {sc["base"]} 分；新鲜度（{rec_txt}）；'
-        f'官方信源 +{sc["tier_bonus"].get("T1", 0)}；命中开发者关键词（教程、工具、数据、开源、指南、复盘、引擎、优化、性能、营收、销量、经验、源码、工作流）'
+        f'{tier_txt}；命中开发者关键词（教程、工具、数据、开源、指南、复盘、引擎、优化、性能、营收、销量、经验、源码、工作流）'
         f'每个 +{sc["dev_keyword_bonus"]}、上限 +{sc["dev_keyword_cap"]}；噪音关键词每个 {sc["noise_keyword_penalty"]}、'
         f'下限 {sc["noise_keyword_floor"]}；总分封顶 100 分。热度 = 评分 × {sc["decay_base"]}'
         f'^天数（每天衰减），只看最近 {sc["hot_days"]} 天。趋势对照上一轮榜单：名次上升 2 名以上为上升，'
@@ -3010,6 +3034,9 @@ def main():
     for _it in history.values():  # 老条目回填（以前的 items.json 没有这些字段）
         if "tags" not in _it or "tier" not in _it or "category" not in _it:
             enrich_store_item(_it)
+        # 分级跟随 sources.json 实时刷新：改了某源的 tier，历史条目下一轮立即生效，
+        # 否则旧条目会一直沿用首次收录时的分级（2026-11-11 把关发现 T3 改完旧条目仍按 T2 打分）
+        _it["tier"] = src_by_id.get(_it.get("source_id", ""), {}).get("tier", "T2")
 
     fetched, failed = 0, []
     # 中文翻译（data/zh_draft.json，按规范化链接匹配；每日精选把关时更新草稿，
@@ -3102,13 +3129,13 @@ def main():
     recent_48h = [it for it in live if (now - it["_pub"]) <= timedelta(hours=sc["selected_hours"])]
     selected = [it for it in recent_48h if it["score"] >= sc["selected_min"]]
     selected.sort(key=lambda x: x["score"], reverse=True)
-    selected = selected[:sc["daily_top"]]
+    selected = dedup_topics(selected)[:sc["daily_top"]]
 
     last_7d = [it for it in live if (now - it["_pub"]) <= timedelta(days=sc["hot_days"])]
     for it in last_7d:
         age_days = (now - it["_pub"]).total_seconds() / 86400.0
         it["hot_score"] = round(it["score"] * (sc["decay_base"] ** age_days), 1)
-    hot = sorted(last_7d, key=lambda x: x["hot_score"], reverse=True)[:sc["hot_top"]]
+    hot = dedup_topics(sorted(last_7d, key=lambda x: x["hot_score"], reverse=True))[:sc["hot_top"]]
     timeline = sorted(last_7d, key=lambda x: x["_pub"], reverse=True)[:sc["timeline_max"]]
 
     # 趋势：对照上一轮已发布的榜单名次与热度（读旧 data/hot.json，写新文件之前）
@@ -3289,7 +3316,7 @@ def main():
     if args.daily:
         def build_period(kind, pool, window_label):
             pool_sorted = sorted(pool, key=lambda x: x["score"], reverse=True)
-            items = pool_sorted[:sc["daily_top"]]
+            items = dedup_topics(pool_sorted)[:sc["daily_top"]]
             per_cat = {}
             for it in items:
                 per_cat[it["category_label"]] = per_cat.get(it["category_label"], 0) + 1

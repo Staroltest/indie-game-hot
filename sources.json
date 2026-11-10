@@ -1,5 +1,5 @@
 {
-  "comment": "独立游戏信源（2026-11-09 逐个实测，全部 HTTP 200 且能解析出条目才收录；只展示标题+摘要+原文链接）。tier: T1 官方一手，T2 媒体/社区。weight: 参与精选时的附加分（目前与 tier_bonus 共用，见 config.json）。2026-11-10 移除 gamedaily：站点自 2023-11 停更，RSS 只剩 2023 年旧文，30 天 0 条。unreal-blog：Cloudflare 拦截，时而 403、时而返回无条目的空 feed，30 天 0 条，暂留观察。2026-11-10 新增 9 源：indienova（经 rsshub.rssforever.com 镜像，因官网无原生 RSS、rsshub.app 403）、机核、触乐、GameLook、游研社、IndieDB 新闻（经 rss.indiedb.com，官网 www 路径 404）、Kenney、OpenGameArt、Lostgarden（2026-05 后停更，偶发长文，留作观点源）。未收录：游戏葡萄/feed 404、游戏时光/rss 404、奶牛关无 RSS、Cocos 博客无 feed、Unity 中国 404、itch.io 博客 404 且新游页 429、TIGSource 拒连、YouTube RSS（GMTK/GDC）本机 404、GDQuest/Catlike/KidsCanCode/GameDev.tv 404、Kodeco 非游戏向、Alpha Beta Gamer 拒连。2026-11-10 新增 8 源（22→30）：Dev.to 游戏开发、Steam 新闻、Nintendo Life、Xbox Wire、PlayStation Blog、Destructoid、PC Gamer、Eurogamer。IndieGames.com 的 RSS 实际指向 indiegamesplus.com（与已有源重复，0 新增）、Indie Game Website 自 2021-12 停更（hibernation），两者已剔除。未收录：Reddit r/gamedev 等 3 个（403）、ModDB（403）、Ludum Dare/GDC/IGF（无 RSS）、TapTap/掘金（无 RSS）、游民星空/3DM（403）、IGN（404）、少数派/SegmentFault（太泛、非游戏向）、GitHub Blog/Humble（非游戏向）、TouchArcade/Gamezebo（手游为主、量大）。",
+  "comment": "独立游戏信源（2026-11-09 逐个实测，全部 HTTP 200 且能解析出条目才收录；只展示标题+摘要+原文链接）。tier: T1 官方一手，T2 媒体/社区。weight: 参与精选时的附加分（目前与 tier_bonus 共用，见 config.json）。2026-11-10 移除 gamedaily：站点自 2023-11 停更，RSS 只剩 2023 年旧文，30 天 0 条。unreal-blog：Cloudflare 拦截，时而 403、时而返回无条目的空 feed，30 天 0 条，暂留观察。2026-11-10 新增 9 源：indienova（经 rsshub.rssforever.com 镜像，因官网无原生 RSS、rsshub.app 403）、机核、触乐、GameLook、游研社、IndieDB 新闻（经 rss.indiedb.com，官网 www 路径 404）、Kenney、OpenGameArt、Lostgarden（2026-05 后停更，偶发长文，留作观点源）。未收录：游戏葡萄/feed 404、游戏时光/rss 404、奶牛关无 RSS、Cocos 博客无 feed、Unity 中国 404、itch.io 博客 404 且新游页 429、TIGSource 拒连、YouTube RSS（GMTK/GDC）本机 404、GDQuest/Catlike/KidsCanCode/GameDev.tv 404、Kodeco 非游戏向、Alpha Beta Gamer 拒连。2026-11-10 新增 8 源（22→30）：Dev.to 游戏开发、Steam 新闻、Nintendo Life、Xbox Wire、PlayStation Blog、Destructoid、PC Gamer、Eurogamer。IndieGames.com 的 RSS 实际指向 indiegamesplus.com（与已有源重复，0 新增）、Indie Game Website 自 2021-12 停更（hibernation），两者已剔除。未收录：Reddit r/gamedev 等 3 个（403）、ModDB（403）、Ludum Dare/GDC/IGF（无 RSS）、TapTap/掘金（无 RSS）、游民星空/3DM（403）、IGN（404）、少数派/SegmentFault（太泛、非游戏向）、GitHub Blog/Humble（非游戏向）、TouchArcade/Gamezebo（手游为主、量大）。2026-11-11 新增 T3 综合游戏媒体（Destructoid、PC Gamer、Eurogamer、RPS、Xbox Wire、Nintendo Life、PlayStation Blog、Steam 新闻）、IndieDB 新闻（同日补加：清掉综合媒体后它以每天 26 条发售公告占了热点 5 席）：玩家向为主，tier_bonus −15，需带开发者关键词且够新才能进精选/热点（2026-11-11 把关：热点 20 条里 13 条是这批源的玩家新闻，另有 UE 5.9 预览跨源重复占了精选两席）。",
   "sources": [
     {
       "category_hint": "engine",
@@ -47,7 +47,7 @@
       "category_hint": "reviews",
       "id": "rps",
       "name": "Rock Paper Shotgun",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.rockpapershotgun.com/feed"
     },
     {
@@ -124,7 +124,7 @@
       "category_hint": "devlog",
       "id": "indiedb-news",
       "name": "IndieDB 新闻",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://rss.indiedb.com/news/feed/rss.xml"
     },
     {
@@ -166,49 +166,49 @@
       "category_hint": "publishing",
       "id": "steam-news",
       "name": "Steam 新闻",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://store.steampowered.com/feeds/news.xml"
     },
     {
       "category_hint": "reviews",
       "id": "nintendolife",
       "name": "Nintendo Life",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.nintendolife.com/feeds/latest"
     },
     {
       "category_hint": "industry",
       "id": "xbox-wire",
       "name": "Xbox Wire",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://news.xbox.com/en-us/feed/"
     },
     {
       "category_hint": "industry",
       "id": "ps-blog",
       "name": "PlayStation Blog",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://blog.playstation.com/feed/"
     },
     {
       "category_hint": "industry",
       "id": "destructoid",
       "name": "Destructoid",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.destructoid.com/feed"
     },
     {
       "category_hint": "industry",
       "id": "pcgamer",
       "name": "PC Gamer",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.pcgamer.com/rss/"
     },
     {
       "category_hint": "industry",
       "id": "eurogamer",
       "name": "Eurogamer",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.eurogamer.net/feed"
     }
   ]
