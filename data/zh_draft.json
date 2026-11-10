@@ -618,5 +618,10 @@
   "zh_title": "Maya Workflow Toolkit：把 Blender 变成 Maya",
   "zh_summary": "你是想转 Blender 又舍不得熟悉的工具和界面的 Maya 用户吗？Maya Workflow Toolkit 是 Blender 的一个新插件，基本把 Blender 变成了 Maya，让你在 Blender 里用上 Maya 的工作方式。",
   "zh_summary_full": "你是想转 Blender 又舍不得熟悉的工具和界面的 Maya 用户吗？Maya Workflow Toolkit 是 Blender 的一个新插件，基本把 Blender 变成了 Maya，让你在 Blender 里用上 Maya 的工作方式。"
+ },
+ "https://80.lv/articles/making-an-ethereal-moonlight-inspired-fantasy-character-in-3d": {
+  "zh_title": "用 3D 制作空灵的月光奇幻角色",
+  "zh_summary": "Alex Borkovskiy 聊了他的电影感个人项目 Galatea 背后的概念设计，讲了他如何处理角色服装与鞋子上的精细贴图，还分享了灯光方案——既保持了风格化质感，又不会显得塑料感。",
+  "zh_summary_full": "Alex Borkovskiy 聊了他的电影感个人项目 Galatea 背后的概念设计，讲了他如何处理角色服装与鞋子上的精细贴图，还分享了灯光方案——既保持了风格化质感，又不会显得塑料感。"
  }
 }
