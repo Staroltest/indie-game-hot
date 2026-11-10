@@ -153,16 +153,22 @@ def parse_feed(body, source):
         summary = strip_html(fields.get("description") or fields.get("summary") or "")
         if not summary:
             summary = strip_html(fields.get("content") or fields.get("encoded") or "")
+        # 完整摘要：详情页用（卡片仍用 200 字短摘要）。只有比短摘要明显更长时
+        # 才存，短摘要本身已完整的条目不存，省体积。
+        summary_full = shorten(summary, 1500) if len(summary) > 250 else ""
         pub = parse_date(fields.get("pubDate") or fields.get("published")
                          or fields.get("updated"))
-        items.append({
+        item = {
             "title": title,
             "link": link,
             "source": source["name"],
             "source_id": source["id"],
             "published": pub,  # datetime 或 None（调用方补抓取时间）
             "summary": shorten(summary),
-        })
+        }
+        if summary_full:
+            item["summary_full"] = summary_full
+        items.append(item)
     return items
 
 
@@ -2562,12 +2568,16 @@ def render_privacy(site):
 
 def render_item(site, it, related, is_selected, daily_issue):
     """文章详情页（items/<id>.html）：只有标题、摘要、来源、评分、理由、标签、
-    相关条目——不编造正文，不转载全文。原文只通过“打开原文”按钮出去。"""
+    相关条目——不编造正文，不转载全文。原文只通过“打开原文”按钮出去。
+    导读可用完整摘要（源站 RSS 描述截到 1500 字，仍是摘要不是全文）：
+    有中文完整摘要就显示它；否则短导读不变，另加“原文摘要”一节放英文完整摘要。"""
     site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
     title = it.get("zh_title") or it["title"]
     en_title = it["title"] if (it.get("zh_title") and it["zh_title"] != it["title"]) else ""
     summary = it.get("zh_summary") or it.get("summary") or ""
     has_zh_summary = bool(it.get("zh_summary"))
+    zh_full = it.get("zh_summary_full") or ""
+    en_full = it.get("summary_full") or ""
     desc = shorten(summary, 120) if summary else title
     pub = _pub_dt(it)
     domain = urllib.parse.urlparse(it["link"]).netloc
@@ -2596,8 +2606,13 @@ def render_item(site, it, related, is_selected, daily_issue):
             + ('<span class="pick">精选</span>' if is_selected else "")
             + f'<span class="sp">{score_pill(it["score"])}</span>')
     en_html = (f'<p class="item-en-title">原文标题：{esc(en_title)}</p>' if en_title else "")
-    guide_note = ("" if has_zh_summary
+    guide_note = ("" if (has_zh_summary or zh_full)
                   else '<p class="guide-note">暂无中文摘要，以下是原文摘要。</p>')
+    guide_text = zh_full or summary
+    full_en_html = ""
+    if not zh_full and en_full:
+        full_en_html = (f'<section class="item-sec"><h2>原文摘要</h2>'
+                        f'<p>{esc(en_full)}</p></section>')
     reason_html = (f'<section class="item-sec"><h2>推荐理由</h2>'
                    f'<p>{esc(it.get("reason", ""))}</p></section>' if it.get("reason") else "")
     tags_html = ""
@@ -2626,8 +2641,9 @@ def render_item(site, it, related, is_selected, daily_issue):
             + en_html
             + f'<div class="well item-guide"><span class="kicker">导读</span>'
             + guide_note
-            + (f'<p>{esc(summary)}</p>' if summary else '<p>这条动态没有摘要。</p>')
+            + (f'<p>{esc(guide_text)}</p>' if guide_text else '<p>这条动态没有摘要。</p>')
             + '</div>'
+            + full_en_html
             + reason_html
             + f'<div class="item-actions">'
             f'<a class="item-open-btn" href="{esc(it["link"])}" target="_blank" rel="noopener">打开原文 ↗</a>'
@@ -2846,6 +2862,8 @@ def main():
                     it["zh_title"] = tr["zh_title"]
                 if tr.get("zh_summary"):
                     it["zh_summary"] = tr["zh_summary"]
+                if tr.get("zh_summary_full"):
+                    it["zh_summary_full"] = tr["zh_summary_full"]
                 applied += 1
             if applied:
                 print(f"zh: {applied} items matched from zh_draft.json")
@@ -2871,6 +2889,8 @@ def main():
                 "published": it["published"], "summary": it["summary"],
                 "fetched_at": now.isoformat(),
             }
+            if it.get("summary_full"):
+                entry["summary_full"] = it["summary_full"]
             enrich_store_item(entry)
             history[it["id"]] = entry
     # 淘汰超过 history_days 的旧条目
@@ -3252,8 +3272,15 @@ def main():
                     picked.append(cand)
                 if len(picked) >= 5:
                     break
+        # 详情页要完整摘要：pub_item 只含发布用的短字段，完整摘要另外并进去，
+        # 不进 hot.json/日报 JSON/feed.xml，不进 data/days 分块。
+        detail = dict(pub_item(it))
+        if it.get("summary_full"):
+            detail["summary_full"] = it["summary_full"]
+        if it.get("zh_summary_full"):
+            detail["zh_summary_full"] = it["zh_summary_full"]
         with open(os.path.join(items_dir, it["id"] + ".html"), "w", encoding="utf-8") as f:
-            f.write(render_item(site, pub_item(it), [pub_item(r) for r in picked],
+            f.write(render_item(site, detail, [pub_item(r) for r in picked],
                                 it["id"] in sel_ids,
                                 daily_issue.get(it["id"])))
         n_items += 1
