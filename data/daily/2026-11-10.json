@@ -29,7 +29,8 @@
    "trend": "same",
    "hot_score": 69.5,
    "prev_rank": 9,
-   "prev_hot_score": 69.6
+   "prev_hot_score": 69.6,
+   "zh_oneliner": "分享用 ZBrush 雕刻与 Substance 贴图重塑格斗角色的完整流程，适合学习角色美术的开发者参考。"
   },
   {
    "id": "dfd1297fd6207b4f1a89427f98a1b0adbba88c77",
@@ -52,7 +53,8 @@
    "trend": "same",
    "hot_score": 69.4,
    "prev_rank": 10,
-   "prev_hot_score": 69.5
+   "prev_hot_score": 69.5,
+   "zh_oneliner": "开发者拆解高山森林项目，介绍自研植被工具 FoliageLab 如何生成 Nanite 可用的植被，帮 UE5 开发者提升场景真实感。"
   },
   {
    "id": "1365b1c9a157e45f85edd0570c6ba25adb51e4f1",
@@ -72,7 +74,8 @@
    "trend": "same",
    "hot_score": 70.0,
    "prev_rank": 8,
-   "prev_hot_score": 70.1
+   "prev_hot_score": 70.1,
+   "zh_oneliner": "Godot 4.8 第三个测试版正在清理最后的发布障碍，团队呼吁开发者试用并反馈新出现的错误与回归问题。"
   },
   {
    "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
@@ -94,7 +97,8 @@
    "trend": "same",
    "hot_score": 76.3,
    "prev_rank": 1,
-   "prev_hot_score": 76.5
+   "prev_hot_score": 76.5,
+   "zh_oneliner": "解读 Take-Two 财报里 NBA 2K27 失利与 GTA 6 预购火爆的反差，帮开发者读懂大厂的营收逻辑。"
   },
   {
    "id": "c2653bd426d8e7a0a3273506b8d2cc425adcaf70",
@@ -116,7 +120,8 @@
    "trend": "same",
    "hot_score": 61.8,
    "prev_rank": null,
-   "prev_hot_score": null
+   "prev_hot_score": null,
+   "zh_oneliner": "一位开发者分享为贷款机构和房产中介做的客户跟进工具，虽与游戏无关，但独立开发者可借鉴其小型工具产品的创业思路。"
   },
   {
    "id": "5c1cb086f4017f7a332187ad77daf95128266441",
@@ -138,7 +143,8 @@
    "trend": "same",
    "hot_score": 66.6,
    "prev_rank": 16,
-   "prev_hot_score": 66.7
+   "prev_hot_score": 66.7,
+   "zh_oneliner": "作者分享用 Substance 3D Designer 搭建手绘风格地基生成器的过程，讲渐变处理与节点图的踩坑经验，适合想做程序化手绘贴图的美术参考。"
   },
   {
    "id": "afdbe909e1f670370b7d1242c3abc284f04fa3d1",
@@ -160,7 +166,8 @@
    "trend": "same",
    "hot_score": 67.5,
    "prev_rank": 15,
-   "prev_hot_score": 67.6
+   "prev_hot_score": 67.6,
+   "zh_oneliner": "探讨用有向无环图与帧图统一组织游戏循环里的各系统更新，帮引擎开发者理清多线程调度的思路。"
   },
   {
    "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
@@ -180,7 +187,8 @@
    "trend": "same",
    "hot_score": 71.7,
    "prev_rank": 6,
-   "prev_hot_score": 71.9
+   "prev_hot_score": 71.9,
+   "zh_oneliner": "Take-Two CEO 谈 GTA 6、BioShock 与收购计划，直言这行没有轻松赚钱的路子，老 IP 复活也要看时机。"
   },
   {
    "id": "1dc179a0b22a6734ffe7a62410668b9bdffae50c",
@@ -200,7 +208,8 @@
    "trend": "same",
    "hot_score": 72.2,
    "prev_rank": 5,
-   "prev_hot_score": 72.3
+   "prev_hot_score": 72.3,
+   "zh_oneliner": "独立开发者用 Godot 做的三消解谜游戏招募封闭测试玩家，适合想参与测试或学习招募流程的人。"
   },
   {
    "id": "2069bf6a7c7915311edda076f5e5c545d8c70b4d",
@@ -223,7 +232,8 @@
    "trend": "same",
    "hot_score": 68.1,
    "prev_rank": 14,
-   "prev_hot_score": 68.3
+   "prev_hot_score": 68.3,
+   "zh_oneliner": "团队分享了在 Telegram 内用真机测试 HTML5 游戏帧率的经验，指出 Chrome 设备模式测不出低端机上真实的卡顿问题。"
   }
  ]
 }

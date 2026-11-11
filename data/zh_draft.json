@@ -548,7 +548,8 @@
   "zh_oneliner": "Kenney 推出免费 2D 迷你城市素材包，共 130 个文件，适合快速搭建像素风城市原型。"
  },
  "https://kenney.nl/assets/mini-skate": {
-  "zh_title": "Kenney 免费资源：Mini Skate 迷你滑板包"
+  "zh_title": "Kenney 免费资源：Mini Skate 迷你滑板包",
+  "zh_oneliner": "Kenney 的「Mini」系列又添一个免费 3D 资源包，含滑板与滑板场相关模型共 40 个文件。"
  },
  "https://opengameart.org/content/opengameartorg-winter-game-jam-2027-neo-retro": {
   "zh_title": "OpenGameArt 2027 冬季 Game Jam：Neo-Retro 复古未来",
@@ -2083,7 +2084,8 @@
   "zh_oneliner": "Soft Crunch Games 分享如何用一个 Unity 项目把《Foxy Dumplings》带到 PC、主机与移动端，涵盖输入抽象与云存档。"
  },
  "https://unity.com/blog/game-art-styles-guide": {
-  "zh_title": "为你的游戏找视觉风格：新手小贴士"
+  "zh_title": "为你的游戏找视觉风格：新手小贴士",
+  "zh_oneliner": "Unity 这篇新手指南介绍了像素风、低多边形、赛璐璐、手绘等美术风格，并给出保持游戏外观统一的五个习惯。"
  },
  "https://unity.com/blog/one-page-game-design-document": {
   "zh_title": "从简单开始：给你的第一款游戏写一页设计文档",
