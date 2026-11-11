@@ -3914,5 +3914,41 @@
  "https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace": {
   "zh_title": "《上古卷轴5》15 周年之际，大型 Mod《Beyond Skyrim: Bruma》迎来 2.0 更新",
   "zh_oneliner": "这款为《上古卷轴5》重现赛洛迪尔 Bruma 地区的大型 Mod 在 2.0 版中加入新任务、额外地牢与扩大的世界空间，长期运营 Mod 项目的开发者可以参考它的更新节奏。"
+ },
+ "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry": {
+  "zh_title": "数字公平法案对游戏行业意味着什么",
+  "zh_oneliner": "欧盟正式公布《数字公平法案》草案，若通过将重塑游戏内虚拟货币等规则，独立开发者需提前了解合规影响。"
+ },
+ "https://gamedev.net/forums/topic/720818-making-the-switch-to-hand-painted-puzzled-about-light-and-shadow": {
+  "zh_title": "转向手绘风格后，我被光影问题难住了",
+  "zh_oneliner": "一位开发者把等距 RPG 改成手绘风格后卡在光影处理上，讨论同一物件在不同光源位置下如何统一绘制阴影与高光。"
+ },
+ "https://gamedev.net/forums/topic/720816-android-starlight-library-three-kingdoms-x-olympus-idle-rpg-pre-registration-now-open": {
+  "zh_title": "[Android]《星光图书馆》——三国 × 奥林匹斯放置 RPG，预注册已开启",
+  "zh_oneliner": "韩国独立开发者分享新作《星光图书馆》，三国武将与奥林匹斯诸神同队冒险的放置 RPG，现已开放预注册。"
+ },
+ "https://www.gcores.com/articles/222226": {
+  "zh_title": "星海贝 ×《赛博朋克 2077》：夜之城除了义体，还有一副耳机和一块声卡",
+  "zh_oneliner": "星海贝推出《赛博朋克 2077》联名音频装备，耳机 999 元、声卡 1499 元，12 月开启预售。"
+ },
+ "http://www.chuapp.com/article/291751.html": {
+  "zh_title": "触乐夜话：我画地为牢，Chloe！",
+  "zh_oneliner": "本期夜话从热门综艺《后会友期》聊起，谈友情、旅行与游戏之外的生活观察。"
+ },
+ "https://dev.to/flyrock_tech_dd25c8f2988c/agents-that-play-for-a-prize-and-can-publish-for-a-share-4h0p": {
+  "zh_title": "为奖金而战的 AI 智能体，还能靠发布游戏分成",
+  "zh_oneliner": "Build Sonny 是一个让 AI 智能体同台竞技赢奖金的开放平台，发布游戏供其他智能体游玩也能分成，值得关注 AI 玩法的新动向。"
+ },
+ "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker": {
+  "zh_title": "Jackbox CEO 谈派对游戏与新潮流的关联：未必是贬义",
+  "zh_oneliner": "Jackbox Games 的 CEO 认为派对游戏与新兴的“friendslop”潮流确有关联，但这未必是个贬义词，折射出派对游戏类型正当红。"
+ },
+ "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend": {
+  "zh_title": "《怪物猎人：荒野》资料片 Ascendance 或将推出测试版，Steam 后台更新露出端倪",
+  "zh_oneliner": "Steam 后台的异常更新暗示《怪物猎人：荒野》首个资料片 Ascendance 可能先行开启测试，玩家或能提前体验新内容。"
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-now-playing": {
+  "zh_title": "《魔兽世界：Forever》开服首周的魔力：MMO 的魅力与时间黑洞",
+  "zh_oneliner": "一位编辑在《魔兽世界：Forever》首周投入 78 小时，感叹这款焕新 MMO 的吸引力与它对自由时间的吞噬。"
  }
 }
