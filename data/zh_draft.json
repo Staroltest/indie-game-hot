@@ -3722,5 +3722,15 @@
  "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc": {
   "zh_title": "一位《上古卷轴》粉丝正在复活并升级失传的 Nokia N-Gage 衍生作《Shadowkey》，还把它移植到 PC",
   "zh_summary": "还记得《Shadowkey》吗？一位《上古卷轴》粉丝正在复活并升级这款失传的 Nokia N-Gage 衍生作品，并把它移植到 PC 上。"
+ },
+ "https://www.indiedb.com/games/doctrine-strike/news/new-update-walls-that-break-where-you-hit-them-and-take-over-any-unit-yourself": {
+  "zh_title": "新更新：墙体按命中点逐块破碎，还能亲自操控任意单位",
+  "zh_summary": "《Doctrine Strike》的两大新增内容：每发炮弹都会在命中点精确击碎墙体，建筑会逐层倒塌；你现在还可以亲自接管己方任意单位，以第三人称视角驾驶它。",
+  "zh_summary_full": "《Doctrine Strike》的两大新增内容：每发炮弹都会在命中点精确击碎墙体，直至建筑逐层倒塌；你现在还可以亲自接管己方任意单位，以第三人称视角驾驶它。"
+ },
+ "https://dev.to/chromaticpact/3-quebra-cabecas-taticos-de-card-game-em-que-1-ponto-de-dano-decide-tudo-teste-no-navegador-32md": {
+  "zh_title": "3 道战术卡牌谜题，1 点伤害定胜负（浏览器内直接试玩）",
+  "zh_summary": "在最优秀的战术卡牌游戏中——就像每日象棋残局一样——败北与一回合将死（Spot the Lethal）之间的差距，往往就藏在 1 点伤害或两个行动的精确顺序里。下面是 Chromatic Pact 战术谜题系列中的 3 道真实谜题：无需事先了解游戏，每张图都用 3 行规则讲清解题所需信息，还附有直接链接，2 秒即可在浏览器中打开对应棋盘实测你的走法（无需下载、无需注册）。",
+  "zh_summary_full": "在最优秀的战术卡牌游戏中——就像每日象棋残局一样——败北与一回合将死（Spot the Lethal）之间的差距，往往就藏在 1 点伤害或两个行动的精确顺序里。下面是 Chromatic Pact 战术谜题系列中的 3 道真实谜题：你无需事先了解这款游戏，每张图都用 3 行规则讲清解题所需信息，还附有直接链接，2 秒即可在浏览器中打开对应棋盘实测你的走法（无需下载、无需注册）。谜题 #01——坩埚的苏醒（目标：18 点生命）：局面是，对手君主有 18 点生命，由 3 面带守卫与神圣护盾的城墙保护在前排。你手头有 7 点精华，前线有 3 名待命的攻击者（加成前分别为 3/3、3/2 和 2/1）。你手牌与场上的选择有：熔炉王之砧（费用 4——后排遗物）：部署到后排 [R] 时，为所有友军提供 +1/+1，并召唤一只 2/1 的龙裔。火蜥蜴（费用 3）：普通地面生物（无疾行）。绯红领域扩张（领域 6/6，费用 3）：为场上所有单位提供 +1/+1、疾行与必中（本回合可无视敌方守卫直接攻击君主）。问题：本回合造成正好 18 点伤害的唯一顺序是什么？（提示：颠倒顺序，伤害会降到 11 点！）"
  }
 }
