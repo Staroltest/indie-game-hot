@@ -3762,5 +3762,21 @@
  "https://dev.to/antonmakarevich/four-evenings-one-walking-atlas-ai-agents-are-not-just-for-coding-ce7": {
   "zh_title": "四个晚上，一台行走的机甲图鉴：AI 智能体不只是用来写代码",
   "zh_oneliner": "作者用四个晚上给静态桌游《BattleTech》加上了会动的机甲动画，分享了不用自己画画、又尽量避开 AI 味的 AI 智能体工作流。"
+ },
+ "https://dev.to/itsevilduck/pygame-non-blocking-world-generation-keep-menus-responsive-ii": {
+  "zh_title": "Pygame 非阻塞世界生成：让主菜单保持响应",
+  "zh_oneliner": "用一小段代码把耗时的程序化世界生成挪出主循环，菜单在生成世界时也不再卡死。"
+ },
+ "https://dev.to/ziva/why-does-chatgpt-keep-giving-me-godot-3-code-we-tested-150-answers-58b7": {
+  "zh_title": "为什么 ChatGPT 总给 Godot 3 代码？我们测了 150 个回答",
+  "zh_oneliner": "实测 150 条回答后发现，模型混淆两个大版本是主因，Godot 4 改名或删除了大量 Godot 3 的类与关键字。"
+ },
+ "https://dev.to/lullwoodgamer/lullwood-enemy-line-of-sight-in-threejs-without-a-raycaster-kbi": {
+  "zh_title": "Lullwood：不用 Raycaster 在 three.js 里实现敌人视线",
+  "zh_oneliner": "用距离判定加空间哈希逐格检测遮挡，浏览器恐怖游戏里的狼不用射线检测也能判断是否看见玩家。"
+ },
+ "https://www.nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch": {
+  "zh_title": "“太棒了”——Take-Two 老板盛赞塞尔达重制版高分，GTA VI 发售在即",
+  "zh_oneliner": "塞尔达重制版 Metacritic 96 分引发热议，Take-Two 首席执行官在 GTA VI 发售前夕公开肯定了这份成绩。"
  }
 }
