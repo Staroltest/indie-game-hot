@@ -6,7 +6,7 @@
   --surface:#fff; --surface-2:#fdfdfb; --sidebar:#fdfdfb; --daybar:#f0f2ee;
   --ink:#202a30; --ink-2:#303c42; --ink-3:#59656b; --ink-4:#657176;
   --line:#dfe4e1; --line-strong:#d1d9d5; --line-soft:#e9ede9;
-  --accent:#176b75; --accent-ink:#145f68; --accent-soft:rgba(23,107,117,.08); --accent-softer:rgba(23,107,117,.05);
+  --accent:#176b75; --accent-strong:#0f565e; --accent-ink:#145f68; --accent-soft:rgba(23,107,117,.08); --accent-softer:rgba(23,107,117,.05);
   --note:#526f72; --hot:#b3402a; --hot-soft:rgba(179,64,42,.08);
   --amber:#b8873a; --amber-ink:#7c5a24; --amber-soft:rgba(184,135,58,.1); --ok:#2f7d5c;
   --rank-1:#b3402a; --rank-2:#a3642f; --rank-3:#96702e; --rank-rest:#6b7684;
@@ -29,7 +29,7 @@
   --surface:#1a2226; --surface-2:#1d272b; --sidebar:#161e21; --daybar:#182024;
   --ink:#e7eceb; --ink-2:#d2dada; --ink-3:#a5b0b3; --ink-4:#89979d;
   --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.12); --line-soft:rgba(255,255,255,.06);
-  --accent:#12ccd8; --accent-ink:#2ce2e8; --accent-soft:rgba(18,204,216,.12); --accent-softer:rgba(18,204,216,.06);
+  --accent:#12ccd8; --accent-strong:#0db2bd; --accent-ink:#2ce2e8; --accent-soft:rgba(18,204,216,.12); --accent-softer:rgba(18,204,216,.06);
   --note:#8fb8a8; --hot:#d86a52; --hot-soft:rgba(216,106,82,.12);
   --amber:#d3b26a; --amber-ink:#d3b26a; --amber-soft:rgba(211,178,106,.12); --ok:#5fc79a;
   --rank-1:#d86a52; --rank-2:#d18a5e; --rank-3:#d3b26a; --rank-rest:#7b869a;
@@ -527,6 +527,7 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .item-open-btn{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 20px;
   border-radius:9999px;background:var(--accent);color:#fff;font-size:15px;font-weight:600}
 .item-open-btn:hover{background:var(--accent-strong)}
+.item-open-btn:visited,.item-open-btn:active{color:#fff}
 .item-ghost-btn{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 16px;
   border-radius:9999px;border:1px solid var(--line-strong);background:var(--surface);
   font-size:14px;color:var(--ink-2)}
