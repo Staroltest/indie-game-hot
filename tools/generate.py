@@ -997,9 +997,9 @@ def _pub_dt(it):
 
 
 def feed_item(it, rank=None, badge=False, base=""):
-    """AIHOT FeedItem 的静态版：来源行 + 标题 + 摘要 + 分类 + 推荐理由 + 星标。
-    有中文翻译时优先显示中文（缺中文回落英文）；英文标题+摘要留在 data-en 里，
-    搜索同时匹配中英文。base 是到站根的目录前缀（'' 或 '../'，日报存档页用）。"""
+    """AIHOT FeedItem 的静态版：来源行 + 标题 + 一句话简介 + 分类 + 推荐理由 + 星标。
+    标题有中文翻译时优先显示中文；简介是本站自己写的一句话（zh_oneliner），
+    不展示源站摘要原文。base 是到站根的目录前缀（'' 或 '../'，日报存档页用）。"""
     pub = _pub_dt(it)
     rank_html = ""
     if rank:
@@ -1017,8 +1017,8 @@ def feed_item(it, rank=None, badge=False, base=""):
             f'<a class="tag" href="{base}topics/{TAG_SLUGS.get(t, t)}.html">#{esc(t)}</a>'
             for t in tags[:3]) + '</div>')
     title = it.get("zh_title") or it["title"]
-    summary = it.get("zh_summary") or it.get("summary")
-    en_text = (it["title"] + " " + (it.get("summary") or ""))
+    summary = it.get("zh_oneliner") or ""
+    en_text = it["title"]
     return (f'<article class="feed-item" data-id="{esc(it["id"])}" data-category="{esc(it["category"])}"'
             f' data-official="{"1" if it.get("_tier") == "T1" else "0"}"'
             f' data-en="{esc(en_text)}">'
@@ -1552,7 +1552,7 @@ function computeMeta(it){
       if(ageH<=r.max_hours){score+=r.bonus;break;}
     }
     score+=((IH_CFG.tierBonus||{})[tier]||0);
-    var text=((it.title||'')+' '+(it.summary||'')).toLowerCase();
+    var text=((it.title||'')+' '+(it.zh_oneliner||'')).toLowerCase();
     var devHits=0;
     Object.keys(IH_CFG.devLabels||{}).forEach(function(kw){
       if(text.indexOf(kw.toLowerCase())>-1)devHits++;
@@ -1588,8 +1588,8 @@ function computeMeta(it){
 function cardHTML(it){
   var m=computeMeta(it);
   var title=it.zh_title||it.title;
-  var summary=it.zh_summary||it.summary||'';
-  var en=(it.title+' '+(it.summary||''));
+  var summary=it.zh_oneliner||'';
+  var en=it.title;
   var pub=cstParts(new Date(it.published));
   var off=m.tier==='T1'?'<span class="off-tag">官方</span>':'';
   var isNew=false;
@@ -1803,7 +1803,7 @@ function renderSearchResults(){
     items.forEach(function(it){
       if(!matchFiltersData(it))return;
       var title=((it.zh_title||it.title||'')+'').toLowerCase();
-      var sum=((it.zh_summary||it.summary||'')+'').toLowerCase();
+      var sum=((it.zh_oneliner||'')+'').toLowerCase();
       var src=(it.source||'').toLowerCase();
       var tier=0;
       if(title.indexOf(q)>-1)tier=3;
@@ -2730,19 +2730,15 @@ def render_privacy(site):
 
 
 def render_item(site, it, related, is_selected, daily_issue):
-    """文章详情页（items/<id>.html）：只有标题、摘要、来源、评分、理由、标签、
-    相关条目——不编造正文，不转载全文。原文只通过“打开原文”按钮出去。
-    导读可用完整摘要（源站 RSS 描述收成完整的一段话，仍是摘要不是全文）：
-    有中文完整摘要就显示它；否则短导读不变，另加“原文摘要”一节放英文完整摘要。
-    导读与正文摘要都不允许截断到半句、末尾挂 …：一律收成完整的一段话。"""
+    """文章详情页（items/<id>.html）：只有标题、一句话简介、来源、评分、理由、标签、
+    相关条目——不编造正文，不转载全文，不展示源站摘要或完整摘要原文。
+    导读就是本站自己写的一句话简介（zh_oneliner）；没有简介时只显示标题与链接，
+    原文只通过“打开原文”按钮出去。"""
     site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
     title = it.get("zh_title") or it["title"]
     en_title = it["title"] if (it.get("zh_title") and it["zh_title"] != it["title"]) else ""
-    summary = it.get("zh_summary") or it.get("summary") or ""
-    has_zh_summary = bool(it.get("zh_summary"))
-    zh_full = it.get("zh_summary_full") or ""
-    en_full = it.get("summary_full") or ""
-    desc = shorten(summary, 120) if summary else title
+    oneliner = it.get("zh_oneliner") or ""
+    desc = oneliner if oneliner else title
     pub = _pub_dt(it)
     domain = urllib.parse.urlparse(it["link"]).netloc
     canonical = f"{site_url}/items/{it['id']}.html"
@@ -2770,36 +2766,8 @@ def render_item(site, it, related, is_selected, daily_issue):
             + ('<span class="pick">精选</span>' if is_selected else "")
             + f'<span class="sp">{score_pill(it["score"])}</span>')
     en_html = (f'<p class="item-en-title">原文标题：{esc(en_title)}</p>' if en_title else "")
-    # 导读：优先完整中文摘要；短导读本身已是完整句时用它（中文短导读优先于英文全文）；
-    # 短导读断在半句时，改用英文完整摘要（完整的一段话），不再另出“原文摘要”一节
-    # （那节会与导读重复）。都不完整时尽力收成完整句。
-    def _complete(t):
-        t = (t or "").strip()
-        if t.endswith("…"):
-            t = t[:-1].rstrip()
-        return bool(t) and t[-1] in SENT_END
-    if zh_full:
-        guide_text = complete_para(zh_full, 1500)
-        guide_is_en = False
-        show_full_en = False
-    elif _complete(summary):
-        guide_text = complete_para(summary, 1500)
-        guide_is_en = not has_zh_summary
-        show_full_en = bool(en_full)
-    elif en_full:
-        guide_text = complete_para(en_full, 1500)
-        guide_is_en = True
-        show_full_en = False
-    else:
-        guide_text = complete_para(summary, 1500)
-        guide_is_en = not has_zh_summary
-        show_full_en = False
-    guide_note = ("" if not guide_is_en
-                  else '<p class="guide-note">暂无中文摘要，以下是原文摘要。</p>')
-    full_en_html = ""
-    if show_full_en:
-        full_en_html = (f'<section class="item-sec"><h2>原文摘要</h2>'
-                        f'<p>{esc(complete_para(en_full, 1500))}</p></section>')
+    # 导读：只显示本站自己写的一句话简介；没有简介时不展示任何源站摘要文字。
+    guide_text = oneliner
     reason_html = (f'<section class="item-sec"><h2>推荐理由</h2>'
                    f'<p>{esc(it.get("reason", ""))}</p></section>' if it.get("reason") else "")
     tags_html = ""
@@ -2827,10 +2795,8 @@ def render_item(site, it, related, is_selected, daily_issue):
             + f'<h1 class="item-h1">{esc(title)}</h1>'
             + en_html
             + f'<div class="well item-guide"><span class="kicker">导读</span>'
-            + guide_note
-            + (f'<p>{esc(guide_text)}</p>' if guide_text else '<p>这条动态没有摘要。</p>')
+            + (f'<p>{esc(guide_text)}</p>' if guide_text else '<p>这条动态暂无简介，点“打开原文”查看。</p>')
             + '</div>'
-            + full_en_html
             + reason_html
             + f'<div class="item-actions">'
             f'<a class="item-open-btn" href="{esc(it["link"])}" target="_blank" rel="noopener">打开原文 ↗</a>'
@@ -2876,7 +2842,7 @@ def render_hot(site, hot, generated_at, counts, cfg):
     rest = ""
     if hot:
         h0 = hot[0]
-        latest = (h0.get("zh_summary") or h0.get("summary") or "")
+        latest = h0.get("zh_oneliner") or ""
         hero = (
             f'<article class="card hot-hero"><div class="hot-hero-top">'
             f'<span class="no-tag">NO.01</span>{hot_badges(h0)}</div>'
@@ -2943,7 +2909,7 @@ def build_feed_xml(site, items):
     items_xml = ""
     for it in items[:20]:
         title = it.get("zh_title") or it["title"]
-        desc = it.get("zh_summary") or it.get("summary") or ""
+        desc = it.get("zh_oneliner") or ""
         pub = _pub_dt(it)
         items_xml += ("<item><title>" + esc(title) + "</title>"
                       "<link>" + esc(it["link"]) + "</link>"
@@ -3053,10 +3019,8 @@ def main():
                     continue
                 if tr.get("zh_title"):
                     it["zh_title"] = tr["zh_title"]
-                if tr.get("zh_summary"):
-                    it["zh_summary"] = tr["zh_summary"]
-                if tr.get("zh_summary_full"):
-                    it["zh_summary_full"] = tr["zh_summary_full"]
+                if tr.get("zh_oneliner"):
+                    it["zh_oneliner"] = tr["zh_oneliner"]
                 applied += 1
             if applied:
                 print(f"zh: {applied} items matched from zh_draft.json")
@@ -3167,9 +3131,9 @@ def main():
     def pub_item(it):
         return {"id": it["id"], "title": it["title"], "link": it["link"],
                 "source": it["source"], "source_id": it["source_id"],
-                "published": it["published"], "summary": it["summary"],
+                "published": it["published"],
                 "zh_title": it.get("zh_title", ""),
-                "zh_summary": it.get("zh_summary", ""),
+                "zh_oneliner": it.get("zh_oneliner", ""),
                 "category": it["category"], "category_label": it["category_label"],
                 "tier": it.get("_tier", "T2"), "tags": it.get("tags", []),
                 "score": it["score"],
@@ -3194,8 +3158,7 @@ def main():
     def chunk_item(it):
         return {"id": it["id"], "title": it["title"],
                 "zh_title": it.get("zh_title", ""),
-                "summary": it.get("summary", ""),
-                "zh_summary": it.get("zh_summary", ""),
+                "zh_oneliner": it.get("zh_oneliner", ""),
                 "link": it["link"], "source": it["source"],
                 "source_id": it.get("source_id", ""),
                 "published": it["published"],
@@ -3470,13 +3433,8 @@ def main():
                     picked.append(cand)
                 if len(picked) >= 5:
                     break
-        # 详情页要完整摘要：pub_item 只含发布用的短字段，完整摘要另外并进去，
-        # 不进 hot.json/日报 JSON/feed.xml，不进 data/days 分块。
+        # 详情页只用 pub_item 的发布字段（标题 + 一句话简介），不并完整摘要。
         detail = dict(pub_item(it))
-        if it.get("summary_full"):
-            detail["summary_full"] = it["summary_full"]
-        if it.get("zh_summary_full"):
-            detail["zh_summary_full"] = it["zh_summary_full"]
         with open(os.path.join(items_dir, it["id"] + ".html"), "w", encoding="utf-8") as f:
             f.write(render_item(site, detail, [pub_item(r) for r in picked],
                                 it["id"] in sel_ids,

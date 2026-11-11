@@ -459,7 +459,7 @@ function computeMeta(it){
       if(ageH<=r.max_hours){score+=r.bonus;break;}
     }
     score+=((IH_CFG.tierBonus||{})[tier]||0);
-    var text=((it.title||'')+' '+(it.summary||'')).toLowerCase();
+    var text=((it.title||'')+' '+(it.zh_oneliner||'')).toLowerCase();
     var devHits=0;
     Object.keys(IH_CFG.devLabels||{}).forEach(function(kw){
       if(text.indexOf(kw.toLowerCase())>-1)devHits++;
@@ -495,8 +495,8 @@ function computeMeta(it){
 function cardHTML(it){
   var m=computeMeta(it);
   var title=it.zh_title||it.title;
-  var summary=it.zh_summary||it.summary||'';
-  var en=(it.title+' '+(it.summary||''));
+  var summary=it.zh_oneliner||'';
+  var en=it.title;
   var pub=cstParts(new Date(it.published));
   var off=m.tier==='T1'?'<span class="off-tag">官方</span>':'';
   var isNew=false;
@@ -710,7 +710,7 @@ function renderSearchResults(){
     items.forEach(function(it){
       if(!matchFiltersData(it))return;
       var title=((it.zh_title||it.title||'')+'').toLowerCase();
-      var sum=((it.zh_summary||it.summary||'')+'').toLowerCase();
+      var sum=((it.zh_oneliner||'')+'').toLowerCase();
       var src=(it.source||'').toLowerCase();
       var tier=0;
       if(title.indexOf(q)>-1)tier=3;
