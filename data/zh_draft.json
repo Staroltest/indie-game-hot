@@ -4070,5 +4070,17 @@
  "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets": {
   "zh_title": "传闻 24GB 版 RTX 5080 不会来了，这对钱包或许反而是好事",
   "zh_oneliner": "传闻中的 24GB 显存版 RTX 5080 似乎不会推出，考虑到原版定价已然不菲，这对玩家的钱包未必是坏消息。"
+ },
+ "https://dev.to/riteshsonilogpile/i-built-an-offline-first-pc-game-launcher-that-calculated-my-18838-hour-backlog-debt-52a9": {
+  "zh_title": "我做了个离线优先的 PC 游戏启动器，算出自己积压了 18,838 小时的游戏债",
+  "zh_oneliner": "一位开发者把散落在 8 个平台的 1420 款游戏收进自制离线启动器，顺手算出全部通关要花 18,838 小时，并分享了本地聚合与去重的做法。"
+ },
+ "https://www.destructoid.com/who-is-the-explorer-from-motunui-in-disney-dreamlight-valley": {
+  "zh_title": "《迪士尼梦光谷》里来自莫图努伊的探险者是谁？",
+  "zh_oneliner": "一篇解谜向小指南，帮玩家确认《迪士尼梦光谷》中那位来自莫图努伊的探险者身份，顺带说明任务的触发条件。"
+ },
+ "https://www.destructoid.com/all-fc-27-hall-of-fut-unleashed-players-and-release-countdown": {
+  "zh_title": "《FC 27》FUT Unleashed 名人堂全部球员名单与上线倒计时",
+  "zh_oneliner": "汇总《FC 27》FUT Unleashed 活动入选名人堂的全部球员名单，并附上活动上线倒计时，方便玩家提前规划阵容。"
  }
 }
