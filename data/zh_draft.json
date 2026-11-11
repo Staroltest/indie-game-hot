@@ -4178,5 +4178,29 @@
  "https://www.destructoid.com/all-fish-in-dreadmoor-bait-traits-and-more": {
   "zh_title": "《DREADMOOR》全鱼类图鉴：鱼饵、特性与更多内容",
   "zh_oneliner": "汇总了钓鱼游戏《DREADMOOR》中全部鱼种的鱼饵与特性，方便玩家按图索骥完成收集。"
+ },
+ "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains": {
+  "zh_title": "报道：PlayStation 取消《Fairgames》，开发商无人被裁",
+  "zh_oneliner": "索尼取消了 2023 年公布的多人射击游戏《Fairgames》，但 Haven 工作室的员工不会因此遭到裁员。"
+ },
+ "https://www.pcgamer.com/hardware/storage/kioxia-has-chained-together-640-ssds-to-create-a-157-petabyte-storage-solution-because-ai-data-centers-get-all-the-cool-toys": {
+  "zh_title": "Kioxia 把 640 块 SSD 串成 157PB 存储方案，只因 AI 数据中心总能拿到好玩具",
+  "zh_oneliner": "Kioxia 用 640 块固态硬盘拼出 157PB 的存储系统，折射出 AI 数据中心对超大容量存储的旺盛需求。"
+ },
+ "https://www.indiedb.com/games/scape/news/scape-is-out-in-early-access-on-steam-from-11-november": {
+  "zh_title": "《Scape》11 月 11 日起在 Steam 开启抢先体验",
+  "zh_oneliner": "《Scape》的首个游戏《Gravity》已在 Steam 抢先体验，百名玩家同场攀爬比拼，首周 85 折。"
+ },
+ "https://www.indiedb.com/games/fleischfresser/news/fleischfresser-is-out-now-grow-a-carnivorous-fortress": {
+  "zh_title": "《Fleischfresser》现已发售：种出一座食肉要塞",
+  "zh_oneliner": "这款塔防新作让玩家培育植物塔楼、喂养一颗食肉巨心，把它养成一座活体要塞，含 80 关与 15 种植物。"
+ },
+ "https://www.indiedb.com/games/stasis-protocol/news/stasis-protocol-is-out-now-on-steam-full-game-and-free-demo": {
+  "zh_title": "《STASIS PROTOCOL》现已登陆 Steam，正式版与免费试玩同步上线",
+  "zh_oneliner": "这款游戏的完整版与免费试玩（前五层）已在 Steam 上线，11 月 26 日前享 4 折首发优惠。"
+ },
+ "https://www.indiedb.com/games/aidventure/news/aidventure-visual-novel-update-coming-soon": {
+  "zh_title": "《AIdventure》视觉小说更新即将到来",
+  "zh_oneliner": "这款由 AI 担任叙事者的文字冒险游戏内置 25 个以上开局场景，还支持玩家自写自分享剧情。"
  }
 }
