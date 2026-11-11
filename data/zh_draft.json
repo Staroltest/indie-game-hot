@@ -4422,5 +4422,33 @@
  "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards": {
   "zh_title": "《猩红沙漠》夺得 2026 金摇杆奖年度 PC 游戏",
   "zh_oneliner": "《猩红沙漠》在 2026 金摇杆奖上拿下年度 PC 游戏，同场获奖的还有《生化危机：安魂曲》，可顺带观察今年大奖对开放世界新作的偏好。"
+ },
+ "https://www.yystv.cn/p/14614": {
+  "zh_title": "因使用不到0.1%的AI代码，年度独立游戏黑马《Big Walk》陷入“抵制风暴”",
+  "zh_oneliner": "《Big Walk》销量破百万、好评率 95%，却因开发后期用了不到 0.1% 的生成式 AI 代码遭到玩家抵制，折射出独立游戏圈对 AI 辅助的敏感态度。"
+ },
+ "https://www.yystv.cn/p/14615": {
+  "zh_title": "今天疯传的“AI生成国产3A大作”，到底是哪传出来的乐子？",
+  "zh_oneliner": "一款自称“国产 3A”的 AI 生成小游戏《几猫》在中文互联网疯传，文章追溯了它最初以 HTML 文件形式经群聊传播开来的来龙去脉。"
+ },
+ "https://www.yystv.cn/p/14616": {
+  "zh_title": "两人团队做了款轻小说浓度爆表的卡牌独游，开局就把主角团灭了？",
+  "zh_oneliner": "两人团队做的轻小说风卡牌独游开局就让主角团灭，靠“勇者小队围坐打牌”的荒诞设定来讲故事。"
+ },
+ "https://dev.to/dasred/reviving-a-2016-ios-game-from-swift-2-to-swift-6-with-an-ai-pair-programmer-50ai": {
+  "zh_title": "复活一款 2016 年的 iOS 游戏：从 Swift 2 升级到 Swift 6，搭档 AI 结对编程",
+  "zh_oneliner": "作者把一款 2016 年的 SpriteKit 老游戏带回 App Store，修了 588 个编译错误，并聊了 AI 结对编程真正帮上忙的地方。"
+ },
+ "https://www.destructoid.com/skyrim-15th-anniversary": {
+  "zh_title": "《上古卷轴 5》迎来 15 周年，希望 Bethesda 这些年真的学到了点什么",
+  "zh_oneliner": "《上古卷轴 5》发售 15 周年之际，作者回顾 Bethesda 此后的作品，质疑它是否吸取了教训。"
+ },
+ "https://www.destructoid.com/witcher-3-devs-used-ai-to-tune-polish-geralt-voice": {
+  "zh_title": "《巫师 3》波兰版杰洛特配音将用 AI 微调，因配音演员健康状况不佳",
+  "zh_oneliner": "因配音演员健康问题影响了嗓音，《巫师 3》衍生作将用 AI 微调波兰语版杰洛特的配音。"
+ },
+ "https://www.destructoid.com/all-bosses-in-warhammer-survivors-and-how-to-unlock-them": {
+  "zh_title": "《战锤幸存者》全部 Boss 及解锁方法",
+  "zh_oneliner": "一份《战锤幸存者》全 Boss 清单，说明每位 Boss 的解锁条件。"
  }
 }
