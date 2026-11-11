@@ -4126,5 +4126,57 @@
  "https://dev.to/coddyrun/cubiterre-mon-petit-monde-de-cubes-programme-en-francais-2bfa": {
   "zh_title": "⛏️ Cubiterre：用法语编程语言 CoddyRun 写出的方块小世界 🌍",
   "zh_oneliner": "作者用全法语编程语言 CoddyRun 从零写了一个可挖掘建造的体素小世界，分享了这套教学向的开发实践。"
+ },
+ "https://www.rockpapershotgun.com/there-were-47-graphics-chip-makers-in-1998-where-did-they-all-go": {
+  "zh_title": "1998 年有 47 家显卡芯片厂商，它们都去哪了？",
+  "zh_oneliner": "回顾上世纪末显卡芯片市场的群雄逐鹿，梳理 47 家厂商如何在大浪淘沙中只剩寥寥数家，对理解硬件生态变迁很有启发。"
+ },
+ "https://80.lv/articles/pull-stretch-explore-realistic-stocking-physics-in-unity": {
+  "zh_title": "在 Unity 里拉伸探索逼真的丝袜物理效果",
+  "zh_oneliner": "作者分享了在 Unity 中实现丝袜拉伸与形变的物理模拟演示，适合想研究布料与柔体表现的开发者参考。"
+ },
+ "https://gamefromscratch.com/blender-5-3-released": {
+  "zh_title": "Blender 5.3 发布",
+  "zh_oneliner": "Blender 5.3 正式发布，新增高斯泼溅支持等多项功能，独立开发者做美术资产又多了一批趁手工具。"
+ },
+ "https://dev.to/4um4/your-ai-npc-is-lying-to-you-its-not-the-model-its-your-architecture-138e": {
+  "zh_title": "你的 AI NPC 在撒谎，问题不在模型而在架构",
+  "zh_oneliner": "文章指出 AI 角色前后矛盾的根源往往是记忆与状态架构设计不当，而非模型本身，并给出了改进思路。"
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/what-makes-a-custom-yu-gi-oh-card-look-real-4e65": {
+  "zh_title": "怎样让自制游戏王卡片看起来像真卡",
+  "zh_oneliner": "作者拆解了自制游戏王卡片以假乱真的关键细节，从边框、字体到效果文本排版，适合做卡牌类同人或桌游原型的开发者参考。"
+ },
+ "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs": {
+  "zh_title": "《Luma Island》如何为 Xbox Series X|S 上的所有玩家而打造",
+  "zh_oneliner": "荷兰独立团队 Feel Free Games 分享了处女作《Luma Island》登陆 Xbox 的开发历程与无障碍设计考量。"
+ },
+ "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-players-are-gathering-in-virtual-vigils-to-honour-the-passing-of-the-games-most-prestigious-bass-player": {
+  "zh_title": "《最终幻想 14》玩家自发线上守夜，悼念游戏最负盛名的贝斯手",
+  "zh_oneliner": "《最终幻想 14》乐队 The Primals 的贝斯手岩井英吉去世，享年 57 岁，玩家们在游戏内自发集会悼念。"
+ },
+ "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts": {
+  "zh_title": "Reddit Reviews 上线，搜索评测不用再手动加 reddit 关键词了",
+  "zh_oneliner": "Reddit 推出 Reviews 功能，聚合各子版块对产品的讨论与评价，买硬件前查口碑又多了一个入口。"
+ },
+ "https://www.pcgamer.com/hardware/cooling/sudokoo-sk700v-review": {
+  "zh_title": "Sudokoo SK700V 散热器评测",
+  "zh_oneliner": "这款风冷散热塔的表现让评测者感叹，如果风冷都做成这样，或许再也不需要一体式水冷了。"
+ },
+ "https://www.pcgamer.com/games/fps/overwatch-is-adding-6v6-role-queue-to-its-competitive-play-weve-realised-that-there-doesnt-have-to-be-a-winner-between-5v5-and-6v6": {
+  "zh_title": "《守望先锋》竞技模式将加入 6v6 职责队列：5v5 与 6v6 不必分胜负",
+  "zh_oneliner": "暴雪宣布《守望先锋》竞技模式回归 6v6 职责队列，5v5 与 6v6 两种模式将并存。"
+ },
+ "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date": {
+  "zh_title": "《Hell Let Loose》原班人马的拿破仑时代撤离射击游戏《Hunger》12 月开启抢先体验，本月先开公测",
+  "zh_oneliner": "《Hell Let Loose》原开发团队的新作《Hunger》公布了 12 月抢先体验日期，这款拿破仑时代背景的撤离射击游戏本月还会开启公开测试。"
+ },
+ "https://www.destructoid.com/probably-stolen-cadet-serpico-quest-walkthrough-all-choices-and-endings": {
+  "zh_title": "《Probably Stolen》学员 Serpico 任务攻略：全部选择与结局",
+  "zh_oneliner": "这篇攻略整理了《Probably Stolen》中学员 Serpico 任务的全部选项与对应结局，方便玩家一次打全分支。"
+ },
+ "https://www.destructoid.com/all-fish-in-dreadmoor-bait-traits-and-more": {
+  "zh_title": "《DREADMOOR》全鱼类图鉴：鱼饵、特性与更多内容",
+  "zh_oneliner": "汇总了钓鱼游戏《DREADMOOR》中全部鱼种的鱼饵与特性，方便玩家按图索骥完成收集。"
  }
 }
