@@ -4042,5 +4042,33 @@
  "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026": {
   "zh_title": "本周 PlayStation 5 累计销量突破 1 亿台",
   "zh_oneliner": "PS5 上市近六年销量破亿，索尼更新的装机量数据可为开发者评估主机平台的发行策略提供参考。"
+ },
+ "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act": {
+  "zh_title": "欧盟拟推《数字公平法案》，开箱、氪金与虚拟货币或迎重磅监管",
+  "zh_oneliner": "欧盟正式向成员国提交《数字公平法案》草案，拟对开箱、暗黑模式、虚拟货币与订阅付费等玩法全面立法，做内购与货币化的独立开发者需留意合规风向。"
+ },
+ "https://80.lv/articles/building-wayfinder-inspired-stylized-french-cottage-environment": {
+  "zh_title": "打造受 Wayfinder 启发的风格化法式乡村小屋场景",
+  "zh_oneliner": "作者拆解自己的法式阿尔卑斯木屋项目，分享风格化雕刻、手绘贴图与氛围光照的做法，适合想做手绘风场景的开发者参考。"
+ },
+ "https://80.lv/articles/indie-publisher-devolver-digital-announces-new-large-scale-roguelike-auto-battler": {
+  "zh_title": "独立发行商 Devolver Digital 公布大型 Roguelike 自走棋新作",
+  "zh_oneliner": "Devolver 公布的大规模 Roguelike 自走棋《All Army Attack》，将于 11 月 16 日至 23 日开放试玩。"
+ },
+ "https://dev.to/dailygamespage/building-a-daily-word-ladder-bfs-word-lists-and-picking-fair-puzzles-50p1": {
+  "zh_title": "做一个每日单词阶梯：BFS、词表与公平谜题设计",
+  "zh_oneliner": "作者把每日单词阶梯拆解成一个小型图论问题，分享用 BFS、词表筛选与难度调校做出公平谜题的思路，适合做每日小游戏的开发者借鉴。"
+ },
+ "https://dev.to/aikata/montore-dev-diary-3-the-mass-production-phase-past-300-designs-and-cutout-hell-was-waiting-11al": {
+  "zh_title": "Montore 开发日志 #3：量产阶段——300 多个设计之后，「镂空地狱」在等着",
+  "zh_oneliner": "独立开发者分享 Montore 量产阶段的实战记录：300 多个设计、生成额度撞墙、144 个造型一次性抠图，以及把美术真正塞进游戏的过程。"
+ },
+ "https://www.nintendolife.com/features/opinion-a-pokemon-rave-just-might-have-been-the-strangest-night-of-my-life": {
+  "zh_title": "观点：一场宝可梦锐舞派对，或许是我人生中最奇怪的一夜",
+  "zh_oneliner": "作者回忆在宝可梦主题锐舞派对上与数千粉丝一起听 EDM 的奇妙一夜，聊聊线下同人活动如何把玩家聚在一起。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets": {
+  "zh_title": "传闻 24GB 版 RTX 5080 不会来了，这对钱包或许反而是好事",
+  "zh_oneliner": "传闻中的 24GB 显存版 RTX 5080 似乎不会推出，考虑到原版定价已然不菲，这对玩家的钱包未必是坏消息。"
  }
 }
