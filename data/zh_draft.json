@@ -4338,5 +4338,29 @@
  "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice": {
   "zh_title": "《Exterminauts》像《绝地潜兵 2》，实则更对《深岩银河》玩家的胃口",
   "zh_oneliner": "《黎明杀机》工作室的新作是款合作射击游戏，表面像《绝地潜兵 2》，内核更接近《深岩银河》的爽点。"
+ },
+ "https://80.lv/articles/ocarina-of-time-remake-is-already-one-of-switch-2-s-best-selling-games": {
+  "zh_title": "《时之笛》重制版已成 Switch 2 最畅销游戏之一",
+  "zh_oneliner": "重制版发售仅四天销量就逼近《马里奥赛车 世界》的首月成绩，老 IP 重制叠加新平台红利的打法值得独立开发者参考。"
+ },
+ "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon": {
+  "zh_title": "创作者在 Tripo AI 首届 3D 世界黑客松做出可玩世界、VR 游戏与数字宠物",
+  "zh_oneliner": "两千多支队伍用 AI 生成 3D 资产快速搭建可玩世界与 VR 原型，展示了这条管线的实际落地形态。"
+ },
+ "https://gamedev.net/forums/topic/720749-how-do-aaa-games-animate-multiple-usable-guns-with-different-modelsgodot-4-3d": {
+  "zh_title": "AAA 游戏如何为多把不同模型的枪械做动画（Godot 4 3D）",
+  "zh_oneliner": "一位 Godot 开发者请教多枪械动画的组织方式，讨论涉及模型切换与动画复用的实操思路。"
+ },
+ "https://dev.to/idlecultivation/idle-game-updates-the-card-that-stayed-forty-minutes-7ek": {
+  "zh_title": "放置游戏开发日志：一张卡牌留住了玩家四十分钟",
+  "zh_oneliner": "三位首测玩家接连拆穿了作者自认完成的部分，三十次提交全部围绕真实游玩记录改动，适合参考其迭代方式。"
+ },
+ "https://www.destructoid.com/ball-x-pit-risen-ballbylon-dlc-release-countdown-exact-date-and-time": {
+  "zh_title": "《Ball x Pit》DLC“Risen Ballbylon”发售倒计时与准确时间",
+  "zh_oneliner": "独立弹幕幸存者类游戏的新 DLC 即将上线，公布了具体的发售时间点。"
+ },
+ "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda": {
+  "zh_title": "Bethesda：别指望短期内听到更多《上古卷轴 6：Sentinel》的消息",
+  "zh_oneliner": "刚正式公布副标题就浇了冷水，大作的长线宣发节奏可作独立游戏宣发规划的反面参照。"
  }
 }
