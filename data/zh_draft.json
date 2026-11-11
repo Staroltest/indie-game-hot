@@ -4202,5 +4202,17 @@
  "https://www.indiedb.com/games/aidventure/news/aidventure-visual-novel-update-coming-soon": {
   "zh_title": "《AIdventure》视觉小说更新即将到来",
   "zh_oneliner": "这款由 AI 担任叙事者的文字冒险游戏内置 25 个以上开局场景，还支持玩家自写自分享剧情。"
+ },
+ "https://80.lv/articles/edit-your-blender-animations-just-like-editing-mesh-with-this-free-tool": {
+  "zh_title": "像编辑网格一样编辑 Blender 动画，这款免费工具做到了",
+  "zh_oneliner": "这款免费工具让动画编辑像改网格一样直观，不用再去曲线编辑器里逐条调 F 曲线，适合想快速迭代角色动作的独立开发者。"
+ },
+ "https://www.nintendolife.com/news/2026/11/eu-digital-fairness-act-could-have-a-huge-impact-on-loot-boxes-and-virtual-currency": {
+  "zh_title": "欧盟《数字公平法案》或将重创开箱与虚拟货币",
+  "zh_oneliner": "欧盟委员会正式提出《数字公平法案》，拟加强对开箱、虚拟货币等机制的监管，含内购的独立游戏发行时需留意合规成本。"
+ },
+ "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review": {
+  "zh_title": "Antec C6 Curve Air 机箱评测",
+  "zh_oneliner": "这款价格适中的机箱在散热、走线与外观上表现均衡，适合想给开发机换个顺手外壳的开发者参考。"
  }
 }
