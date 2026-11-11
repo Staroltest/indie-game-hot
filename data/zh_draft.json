@@ -3704,5 +3704,17 @@
  "https://www.gcores.com/radios/222194": {
   "zh_title": "Vol.144 脚感一般，手感极佳——《影之刃: 零》体验报告",
   "zh_oneliner": "机核主播与嘉宾复盘《影之刃零》的试玩体验：行走脚感时常被地形卡住，但冷兵器战斗的手感酣畅淋漓，是一期值得独立开发者听的动作手感拆解。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606110": {
+  "zh_title": "网易暴雪一起笑！《魔兽世界：无限》没崩，国服和全球服创造历史新高",
+  "zh_oneliner": "《魔兽世界：无限》全球同步上线首日表现强劲，国服与全球服同时创下历史新高，老牌 IP 的新资料片仍有爆发力。"
+ },
+ "https://dev.to/uditrajmr3/the-missing-city-simulator-a-game-that-could-redesign-india-31l1": {
+  "zh_title": "《失落之城模拟器》：一款可能重塑印度的游戏",
+  "zh_oneliner": "作者认为印度空气污染、缺水、拥挤等难题的根源在城市设计本身，并用一款城市模拟游戏来推演另一种可能。"
+ },
+ "https://dev.to/alexispher/building-pocketport-anything-an-open-source-nintendo-3ds-porting-research-tool-mlk": {
+  "zh_title": "打造 PocketPort Anything：一款开源任天堂 3DS 移植研究工具",
+  "zh_oneliner": "一位开发者开源了协助把游戏移植到 3DS 的研究工具，并分享了借助 AI 编程助手搭建它的过程。"
  }
 }
