@@ -4262,5 +4262,49 @@
  "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-from-crime-sim-to-train-sim": {
   "zh_title": "我把《GTA 5》从犯罪模拟改造成了火车模拟",
   "zh_oneliner": "一位玩家用模组把《GTA 5》玩成了火车模拟，看看开放世界模组能把玩法带到多远。"
+ },
+ "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released": {
+  "zh_title": "铁拳制作人原田胜弘：希望 Xbox Series S 这类低配主机“别再出了”",
+  "zh_oneliner": "原田胜弘直言低配主机的性能下限拖累了跨平台开发，独立开发者做多平台版本时也要为最低配置留出优化预算。"
+ },
+ "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands": {
+  "zh_title": "遭微软裁员的前 Doom 开发者成立员工所有制新工作室，做受 Smash TV 启发的 FPS",
+  "zh_oneliner": "几位被裁的 id Software 老将抱团成立员工持股工作室 Hidden Horses，不靠投资人也能把射击游戏做出来。"
+ },
+ "https://dev.to/orellanaed/opus-55-vs-gpt-61-sol-in-blender-one-cost-7x-more-5gg4": {
+  "zh_title": "Opus 5.5 对决 GPT-6.1：用 Blender 建模，成本差了 7 倍",
+  "zh_oneliner": "同一任务下两个顶级模型在 Blender 里建模的效果与账单对比，给想用 AI 做美术的开发者一个成本参照。"
+ },
+ "https://dev.to/orellanaed/4-ai-models-build-the-same-walking-3d-character-in-godot-oj8": {
+  "zh_title": "4 个 AI 模型在 Godot 里做同一个行走 3D 角色，结果如何",
+  "zh_oneliner": "四个模型同题竞技，看谁能在 Godot 里做出走起来不散架的 3D 角色，顺带摸清 AI 生成角色动画的上限。"
+ },
+ "https://www.destructoid.com/how-does-camping-work-in-wow-forever-camp-buffs-cozy-sleeping-bag-explained": {
+  "zh_title": "《魔兽世界：永恒》露营系统怎么玩？营地增益与舒适睡袋详解",
+  "zh_oneliner": "这篇攻略拆解了新露营系统的增益机制，独立开发者可以借鉴它用轻量社交玩法拉住玩家。"
+ },
+ "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size": {
+  "zh_title": "GTA 6 在日本或遭审查：安装包更小且缺少“强烈性内容”警告",
+  "zh_oneliner": "从安装体积和分级标识的差异推测日版内容可能有删减，提醒面向多地区发行的开发者提前核对各国分级要求。"
+ },
+ "https://www.indiedb.com/games/plpe-world/news/devlog-1-inside-plpe-world-settlements-kingdoms-and-joining-the-tests": {
+  "zh_title": "开发日志 #1：走进 PLPE World——定居点、王国与测试招募",
+  "zh_oneliner": "首篇开发日志展示了这款浏览器策略游戏的世界地图、定居点建设与兵营铁匠铺，并放出测试版实机截图与限量测试申请方式。"
+ },
+ "https://www.indiedb.com/games/super-video-golf/news/progress-update-making-it-rain-and-then-fixing-it": {
+  "zh_title": "进度更新：先让它下雨，然后再修好它",
+  "zh_oneliner": "开发者聊了给高尔夫游戏加入下雨效果又回头修 bug 的过程，天气系统做起来远比看起来麻烦。"
+ },
+ "https://www.indiedb.com/games/florin-camping-tycoon/news/devlog-1-welcome-to-florin-camping-tycoon": {
+  "zh_title": "开发日志 #1：欢迎来到 Florin 露营大亨！",
+  "zh_oneliner": "首篇日志介绍了这款法式露营地经营游戏已有的内容、正在做的功能和下一步计划。"
+ },
+ "https://www.indiedb.com/engines/sector-studio/news/first-playable-build-available-now-alpha-v010": {
+  "zh_title": "首个可玩版本上线！Sector Studio Alpha v0.1.0",
+  "zh_oneliner": "这款引擎的首个 Alpha 构建已发布，支持通用硬件并附带第一个探索关卡，可在引擎页面下载体验。"
+ },
+ "https://www.indiedb.com/games/fleshbag/news/fleshbag-has-arrived-to-steam": {
+  "zh_title": "FLESHBAG 已上架 Steam！",
+  "zh_oneliner": "一款关于倒霉蛋的物理沙盒游戏登陆 Steam，角色有情绪正是笑点所在，值得看看小体量沙盒怎么做传播。"
  }
 }
