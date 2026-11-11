@@ -13,8 +13,10 @@ IndieHOT 是一个给独立游戏开发者看的热点站：每天从一批公�
 
 ## 在线看
 
+在线地址：[https://staroltest.github.io/indie-game-hot/](https://staroltest.github.io/indie-game-hot/)
+
 GitHub Pages：仓库 Settings → Pages → Source 选 `Deploy from a branch`、
-分支 `main`、目录 `/ (root)`，保存后访问 `https://<用户名>.github.io/indie-game-hot/`。
+分支 `main`、目录 `/ (root)`，保存后访问上面的地址。
 
 ## 本地预览
 
