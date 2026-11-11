@@ -3750,5 +3750,17 @@
  "https://www.indiedb.com/games/crybble-wars/news/crybble-wars-now-runs-in-your-browser": {
   "zh_title": "《Crybble Wars》现已可在浏览器中游玩",
   "zh_oneliner": "这款游戏从 Telegram 搬到了浏览器，几秒即可游客身份开玩，支持完整桌面操作、自适应分辨率与八种语言。"
+ },
+ "https://80.lv/articles/sony-s-live-service-heist-simulator-fairgames-has-been-canceled": {
+  "zh_title": "索尼取消直播服务抢劫模拟游戏《Fairgames》",
+  "zh_oneliner": "索尼砍掉了这款主打合作抢劫的直播服务游戏且暂无裁员计划，给同类长线运营项目提了个醒。"
+ },
+ "https://dev.to/jpuidev/turning-a-phone-hinge-into-a-fishing-rod-building-fold-fish-4ck": {
+  "zh_title": "把手机铰链变成鱼竿：打造《Fold Fish》",
+  "zh_oneliner": "独立开发者把折叠屏手机的铰链当作鱼竿操控方式，做了一款没有虚拟摇杆的钓鱼游戏，玩法直接长在硬件形态上。"
+ },
+ "https://dev.to/antonmakarevich/four-evenings-one-walking-atlas-ai-agents-are-not-just-for-coding-ce7": {
+  "zh_title": "四个晚上，一台行走的机甲图鉴：AI 智能体不只是用来写代码",
+  "zh_oneliner": "作者用四个晚上给静态桌游《BattleTech》加上了会动的机甲动画，分享了不用自己画画、又尽量避开 AI 味的 AI 智能体工作流。"
  }
 }
