@@ -3716,5 +3716,9 @@
  "https://dev.to/alexispher/building-pocketport-anything-an-open-source-nintendo-3ds-porting-research-tool-mlk": {
   "zh_title": "打造 PocketPort Anything：一款开源任天堂 3DS 移植研究工具",
   "zh_oneliner": "一位开发者开源了协助把游戏移植到 3DS 的研究工具，并分享了借助 AI 编程助手搭建它的过程。"
+ },
+ "https://www.gcores.com/articles/222196": {
+  "zh_title": "索尼中止“搜打撤”游戏《Fairgame$》开发",
+  "zh_oneliner": "索尼砍掉 Haven 工作室开发三年的服务型射击游戏《Fairgame$》，数千人规模测试后留存未达预期，工作室转而支援其他 PlayStation 团队。"
  }
 }
