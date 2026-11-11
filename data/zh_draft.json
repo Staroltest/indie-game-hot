@@ -3966,5 +3966,65 @@
  "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60": {
   "zh_title": "《魔兽世界：Forever》将给高等级任务追加金币奖励，满级后原来没有额外收入",
   "zh_oneliner": "满级玩家做任务竟拿不到额外金币，开发团队决定给高等级任务补发奖励，聊聊老游戏经济数值调优时容易踩的坑。"
+ },
+ "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts": {
+  "zh_title": "《GTA 6》成为 PlayStation 与 Xbox 商店预购量最高的游戏",
+  "zh_oneliner": "头部 3A 的预购纪录再被刷新，独立开发者可以对照看看大作的宣发节奏与商店页转化打法。"
+ },
+ "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december": {
+  "zh_title": "《天外世界 2》首个剧情扩展 12 月上线，玩家将为治愈“爆炸性细胞死亡”寻找解药",
+  "zh_oneliner": "黑曜石在裁员与转向新《辐射》之际仍为续作推出剧情扩展，小团队如何兼顾老项目更新值得留意。"
+ },
+ "https://gamedev.net/forums/topic/720819-non-programming-options-for-cousin": {
+  "zh_title": "给不会编程的表亲推荐做游戏的办法",
+  "zh_oneliner": "一位想一生只做一款游戏的非程序员求推荐，帖子讨论了零代码工具与协作分工的入门路径。"
+ },
+ "https://www.gcores.com/articles/222231": {
+  "zh_title": "《足球经理2027》，一场迟到了两年的正式重逢",
+  "zh_oneliner": "经历取消与换引擎风波后《足球经理》系列回归，老牌模拟游戏的口碑修复过程对长线运营很有参考价值。"
+ },
+ "https://dev.to/nefayran/my-godot-level-load-fell-from-345-s-to-27-s-and-the-best-fix-removed-work-nobody-needed-2e4p": {
+  "zh_title": "我的 Godot 关卡加载从 34.5 秒降到 2.7 秒，最有效的优化是删掉没人需要的工作",
+  "zh_oneliner": "作者把 34.5 秒的加载压到 2.7 秒，关键不是多线程或缓存，而是砍掉对几十万面模型的无用足迹计算。"
+ },
+ "https://dev.to/mohamedgado/phbot-telegram-and-discord-notifications-how-my-xnotify-plugin-works-1h72": {
+  "zh_title": "phBot 的 Telegram 与 Discord 通知：我的 xNotify 插件工作原理",
+  "zh_oneliner": "作者为《丝路传说》机器人写了通知插件，角色死亡、断线等事件会实时推送到 Telegram 与 Discord。"
+ },
+ "https://www.nintendolife.com/news/2026/11/what-happens-when-two-games-have-the-same-title-indie-publisher-reveals-heartwarming-answer": {
+  "zh_title": "两款游戏撞名了怎么办？独立发行商给出暖心答案",
+  "zh_oneliner": "两款同名独立游戏撞车后，发行商选择同时签下并发行，撞名未必是纠纷，也可以是合作契机。"
+ },
+ "https://www.destructoid.com/main-sequence-release-countdown-exact-date-and-time": {
+  "zh_title": "《Main Sequence》发售倒计时：确切日期与时间",
+  "zh_oneliner": "太空题材新作《Main Sequence》进入发售倒计时，独立团队可以参考它上线前的倒计时宣发打法。"
+ },
+ "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful": {
+  "zh_title": "微软自研超分技术登陆 Xbox Ally X 掌机，真正用上了 NPU",
+  "zh_oneliner": "微软的 FSR 替代方案随 Xbox Ally X 上线并调用 NPU 加速，掌机硬件的 AI 超分正成为新的性能战场。"
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword": {
+  "zh_title": "《魔兽世界：Forever》秘密猎人已找到游戏首件隐藏宝藏",
+  "zh_oneliner": "新版本上线不久，玩家就挖出一条隐藏任务链并拿到专属宝剑，长线内容里的秘密设计依然能点燃社区热情。"
+ },
+ "https://www.indiedb.com/games/rebirth-td/news/rebirth-td-is-out-now-on-steam": {
+  "zh_title": "《Rebirth TD》现已登陆 Steam！",
+  "zh_oneliner": "单人开发的塔防游戏《Rebirth TD》正式上架 Steam，玩家要治愈森林、培育灵树，抵御虚空入侵。"
+ },
+ "https://www.indiedb.com/games/komok/news/komok-day-cycle-real-shadows-and-music-that-grows-with-your-ball": {
+  "zh_title": "《Komok》：昼夜循环、真实阴影与随小球成长的音乐",
+  "zh_oneliner": "《Komok》每局从清晨打到黄昏，桌面版加入真实阴影与分层音乐，吃掉其他玩家的规则也做了调整。"
+ },
+ "https://www.indiedb.com/games/lofi-cozy-room/news/lofi-cozy-room-a-quiet-walk-beyond-the-desk": {
+  "zh_title": "《Lofi Cozy Room》：走出书桌的安静漫步",
+  "zh_oneliner": "新实机片段带玩家走过小桥、红枫林、沼泽与瀑布，展示这款休闲原型的“工作、烹饪与探索”玩法。"
+ },
+ "https://www.indiedb.com/games/zero-point/news/zero-point-devlog-48-the-night-the-grid-faltered": {
+  "zh_title": "《Zero Point》开发日志 48：电网失灵之夜",
+  "zh_oneliner": "预报给了船员准备时间，随后极光照亮山脊、飞行生物逼近，前哨站断电，开发日志展示了第六天的实机内容。"
+ },
+ "https://dev.to/joacod/arcade-lab-from-playing-games-to-building-them-4g5l": {
+  "zh_title": "Arcade Lab：从玩游戏到做游戏",
+  "zh_oneliner": "作者因游戏走上编程之路，多年做软件后回头自己做游戏，分享了这段从玩家到开发者的心路历程。"
  }
 }
