@@ -3862,5 +3862,49 @@
  "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo": {
   "zh_title": "《塞尔达传说：时之笛》重制版大卖，成为 Switch 2 史上最快销售游戏",
   "zh_oneliner": "任天堂宣布该重制版四天售出超 520 万份，刷新 Switch 2 首发纪录，给重制老牌 IP 的商业回报提供了一个新参照。"
+ },
+ "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards": {
+  "zh_title": "《Casualties: Unknown》：极致痛苦模拟器，让其他生存游戏都显得像胆小鬼",
+  "zh_oneliner": "这款生存游戏把折磨感拉到极致，值得想研究高压生存体验设计的开发者一看。"
+ },
+ "https://80.lv/articles/bioware-co-founder-explores-bringing-back-mass-effect-dragon-age": {
+  "zh_title": "BioWare 联合创始人探讨重启《质量效应》与《龙腾世纪》",
+  "zh_oneliner": "Trent Oster 正在设法拿回工作室 IP 的授权，James Ohlen 也有意加入，老牌 RPG 系列的回归有了新动向。"
+ },
+ "https://gamedev.net/forums/topic/720817-making-the-switch-to-hand-painted-puzzled-about-light-and-shadow": {
+  "zh_title": "改用手绘风后，我被光影问题难住了",
+  "zh_oneliner": "一位开发者把等距 RPG 改成手绘风格后，卡在了手绘阴影与高光如何随光源位置变化的问题上，帖子里在讨论可行的解法。"
+ },
+ "https://gamedev.net/forums/topic/720815-unity-game-jam-makelore-is-recruiting-volunteer-developers-creators": {
+  "zh_title": "[Unity][Game Jam]MakeLore 正在招募志愿开发者与创作者",
+  "zh_oneliner": "一个小型协作开发社区正在为 Unity 游戏开发大赛招人，想参与完整做一款原创游戏的开发者可以去看看。"
+ },
+ "https://gamedev.net/forums/topic/720814-browser-yoofi-ai-story-games-for-players-and-creators": {
+  "zh_title": "[浏览器]Yoofi：面向玩家与创作者的 AI 剧情游戏平台",
+  "zh_oneliner": "一个浏览器端的 AI 剧情游戏平台，玩家可以体验角色驱动的故事，创作者能把创意变成可玩的游戏。"
+ },
+ "https://dev.to/saeedpanahi/how-to-make-an-advanced-tic-tac-toe-game-with-javascript-part-4-4cl4": {
+  "zh_title": "如何用 JavaScript 做一个进阶版井字棋游戏（第四部分）",
+  "zh_oneliner": "系列完结篇，收尾计分引擎并完成整个游戏，适合想跟着做一个完整小游戏的新手开发者。"
+ },
+ "https://dev.to/gudmundur_kristjansson/how-to-make-a-browser-game-with-ai-step-by-step-5fp": {
+  "zh_title": "如何一步步用 AI 做一款浏览器游戏",
+  "zh_oneliner": "用一两句简单描述让 AI 生成可玩版本，再通过对话迭代修改并发布，适合想快速验证玩法原型的开发者。"
+ },
+ "https://www.indiedb.com/games/arrow-out/news/hanzi-mode-arrows-out-of-brush-characters": {
+  "zh_title": "汉字模式：用毛笔字玩《Arrow Out》",
+  "zh_oneliner": "《Arrow Out》新增汉字模式，棋盘变成毛笔书法剪影，首批收录一、二、三等十一个汉字，玩法与汉字学习结合得挺有意思。"
+ },
+ "https://www.indiedb.com/games/a-dogs-dream/news/a-dogs-dream-is-now-available-on-steam": {
+  "zh_title": "《a DOGs DREAM》现已登陆 Steam",
+  "zh_oneliner": "一款关于老狗与外星人的超现实点击冒险游戏，怪诞梦境、手绘美术与分支选择俱全，现已上架 Steam。"
+ },
+ "https://www.indiedb.com/games/luiza-76/news/luiza-76-reputation-romance-and-choices-from-paris-to-spa": {
+  "zh_title": "《Luiza 76》：从巴黎到斯帕的声望、浪漫与抉择",
+  "zh_oneliner": "在 18 世纪的沙龙里经营人际关系与声望，故事从巴黎延续到 1786 年的斯帕，玩家的每个选择都会影响主角的未来。"
+ },
+ "https://www.indiedb.com/games/metrosystem/news/metrosystem17": {
+  "zh_title": "《Metrosystem》17 号更新",
+  "zh_oneliner": "地铁建造模拟游戏《Metrosystem》发布 11 月 11 日更新，带来新内容与改进。"
  }
 }
