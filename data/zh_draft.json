@@ -3778,5 +3778,17 @@
  "https://www.nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch": {
   "zh_title": "“太棒了”——Take-Two 老板盛赞塞尔达重制版高分，GTA VI 发售在即",
   "zh_oneliner": "塞尔达重制版 Metacritic 96 分引发热议，Take-Two 首席执行官在 GTA VI 发售前夕公开肯定了这份成绩。"
+ },
+ "https://80.lv/articles/fortis-games-shuts-down-over-400-jobs-may-be-affected": {
+  "zh_title": "Fortis Games 倒闭，400 多个岗位或受影响",
+  "zh_oneliner": "由前华纳游戏高管创立、获拉斯维加斯金沙注资的发行商 Fortis Games 在投资方撤资后关门，独立发行圈又少了一个资金来源。"
+ },
+ "https://dev.to/mohamedgado/how-to-write-a-phbot-plugin-the-python-api-hooks-and-a-working-example-5e16": {
+  "zh_title": "如何写一个 phBot 插件：Python API、钩子与完整示例",
+  "zh_oneliner": "一篇手把手教程，讲如何用单个 Python 文件为 phBot 写插件，通过 phBot 与 QtBind 两个模块响应游戏内事件。"
+ },
+ "https://www.nintendolife.com/news/2026/11/deltarune-chapter-6-sneak-peek-video-vote-announced-pick-a-candidate": {
+  "zh_title": "《Deltarune》第六章先行预告片投票开启，任选一位候选人",
+  "zh_oneliner": "Toby Fox 暂别开发工作，发起第六章先行预告片的投票活动，让玩家选出心仪的候选内容。"
  }
 }
