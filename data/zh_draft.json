@@ -4118,5 +4118,13 @@
  "https://80.lv/articles/crafting-intricate-flintlock-pepperbox-pistol-in-3d": {
   "zh_title": "用 3D 打造精致的燧发多管手枪",
   "zh_oneliner": "作者分享了手工旋转式七发燧发多管手枪的制作过程，讲解如何在 1 万个三角面以内做出精细造型与自然的木质质感。"
+ },
+ "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group": {
+  "zh_title": "《毁灭全人类！》重制版团队 Black Forest Games 脱离 THQ Nordic，组建新独立工作室集团",
+  "zh_oneliner": "曾操刀《毁灭全人类！》重制版的 Black Forest Games 通过管理层收购脱离 THQ Nordic，将以新独立工作室集团的身份继续做游戏，并称过去十年最好的游戏不少出自五十人规模的团队。"
+ },
+ "https://dev.to/coddyrun/cubiterre-mon-petit-monde-de-cubes-programme-en-francais-2bfa": {
+  "zh_title": "⛏️ Cubiterre：用法语编程语言 CoddyRun 写出的方块小世界 🌍",
+  "zh_oneliner": "作者用全法语编程语言 CoddyRun 从零写了一个可挖掘建造的体素小世界，分享了这套教学向的开发实践。"
  }
 }
