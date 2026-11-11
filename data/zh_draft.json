@@ -3722,5 +3722,13 @@
  "https://www.gcores.com/articles/222196": {
   "zh_title": "索尼中止“搜打撤”游戏《Fairgame$》开发",
   "zh_oneliner": "索尼砍掉 Haven 工作室开发三年的服务型射击游戏《Fairgame$》，数千人规模测试后留存未达预期，工作室转而支援其他 PlayStation 团队。"
+ },
+ "https://dev.to/wordleunlimitedbest/how-i-optimized-a-lightweight-wordle-unlimited-web-game-for-99-pagespeed-58ki": {
+  "zh_title": "我如何把一款轻量级 Wordle 无限版网页游戏优化到 99+ PageSpeed 分数",
+  "zh_oneliner": "分享把一款浏览器猜词游戏做到零布局偏移、秒开的优化思路，适合做轻量网页游戏的开发者参考。"
+ },
+ "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy": {
+  "zh_title": "综述：媒体评测出炉，《皮克敏 4》Switch 2 版 + 丹多里学院",
+  "zh_oneliner": "汇总各家媒体对《皮克敏 4》Switch 2 版及新模式丹多里学院的评价，看看热门 IP 重制版的市场反响。"
  }
 }
