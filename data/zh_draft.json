@@ -4026,5 +4026,21 @@
  "https://dev.to/joacod/arcade-lab-from-playing-games-to-building-them-4g5l": {
   "zh_title": "Arcade Lab：从玩游戏到做游戏",
   "zh_oneliner": "作者因游戏走上编程之路，多年做软件后回头自己做游戏，分享了这段从玩家到开发者的心路历程。"
+ },
+ "https://indiegamesplus.com/mad-mojo-preview": {
+  "zh_title": "《Mad Mojo》：一款古怪小巧的怪物收集卡牌构筑游戏",
+  "zh_oneliner": "以扑克规则为灵感的怪物收集卡牌构筑游戏，表层玩法之下还藏着打破世界规则的另一层设计，值得留意这种双层结构的创意。"
+ },
+ "https://www.gcores.com/radios/211464": {
+  "zh_title": "推理作家本人的创作方法论是……？谜题构筑法Vol.6",
+  "zh_oneliner": "播客系列最终集由推理作家亲自拆解动机、诡计与凶手设定等创作方法，想写推理故事的开发者可以参考其中的叙事结构。"
+ },
+ "https://www.gcores.com/articles/222232": {
+  "zh_title": "专访《足球经理2027》主创团队：经历30年来最大的引擎阵痛后，如何赢回玩家的信任",
+  "zh_oneliner": "FM 系列在取消 FM25、全面转向 Unity 的阵痛之后，主创团队谈 UI 重构、战术底层与 Mod 生态，复盘大型体育模拟游戏如何重建玩家信任。"
+ },
+ "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026": {
+  "zh_title": "本周 PlayStation 5 累计销量突破 1 亿台",
+  "zh_oneliner": "PS5 上市近六年销量破亿，索尼更新的装机量数据可为开发者评估主机平台的发行策略提供参考。"
  }
 }
