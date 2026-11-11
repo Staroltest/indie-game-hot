@@ -4378,5 +4378,37 @@
  "https://www.pcgamer.com/gaming-industry/former-id-software-developers-form-their-own-employee-owned-shooter-studio-in-the-wake-of-microsofts-mass-layoffs": {
   "zh_title": "前 id Software 开发者组建员工持股射击游戏工作室，应对微软大规模裁员",
   "zh_oneliner": "约 20 名前 id Software 开发者在微软裁员潮后联合创办员工持股工作室 Hidden Horses，计划通过众筹为首个射击游戏项目融资。"
+ },
+ "https://www.indiedb.com/games/ultra-nebulum/news/chapters-and-choices-a-story-comes-to-ultra-nebulum": {
+  "zh_title": "章节与抉择：故事来到 Ultra Nebulum",
+  "zh_oneliner": "独立游戏用五章剧情、三块新地图和会被邻居记住的抉择，把叙事做成玩法的一部分。"
+ },
+ "https://www.indiedb.com/games/dungeon-packer/news/dungeon-packer-a-inventory-management-roguelike1": {
+  "zh_title": "Dungeon Packer：一款背包管理 Roguelike",
+  "zh_oneliner": "以整理背包为核心循环的 Roguelike，靠装备搭配打出协同，在地牢里边打边整理。"
+ },
+ "https://www.indiedb.com/games/burgher1400/news/major-content-update-burgher-epochs": {
+  "zh_title": "重大内容更新：Burgher Epochs",
+  "zh_oneliner": "Burgher 迎来 1400 与 1700 两个时代的大型内容更新，老游戏靠版本更新续命的样本。"
+ },
+ "https://www.indiedb.com/games/american-truck-simulator/news/route-66-paint-jobs-pack-release": {
+  "zh_title": "66 号公路涂装包发布",
+  "zh_oneliner": "American Truck Simulator 推出 66 号公路主题涂装 DLC，小体量外观付费内容的发行样本。"
+ },
+ "https://www.indiedb.com/games/the-trench/news/the-trench-1916-trailer-2026": {
+  "zh_title": "THE TRENCH 1916：2026 年新预告",
+  "zh_oneliner": "一战背景的第一人称射击加 RPG 元素新作放出 2026 年预告，题材与氛围是主要卖点。"
+ },
+ "https://dev.to/kelvaro/why-your-ai-assistant-hallucinates-roblox-apis-and-how-a-project-knowledge-vault-fixes-it-1e8b": {
+  "zh_title": "为什么你的 AI 助手总在编造 Roblox API，以及项目知识库如何解决它",
+  "zh_oneliner": "针对 Roblox 开发中 AI 编造不存在 API 的痛点，介绍用项目知识库约束模型输出的做法。"
+ },
+ "https://news.xbox.com/en-us/2026/11/11/answer-the-call-this-veterans-day": {
+  "zh_title": "响应号召：退伍军人节特辑",
+  "zh_oneliner": "Xbox 官方的退伍军人节主题内容，主要是平台动向，对独立开发者参考意义有限。"
+ },
+ "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer": {
+  "zh_title": "Destroy All Humans 重制版开发商独立，脱离 THQ Nordic 与 Embracer Group",
+  "zh_oneliner": "曾重制两部 Destroy All Humans 的 Black Forest Games 脱离 THQ Nordic 与 Embracer 独立运营，中型工作室出走大厂的又一案例。"
  }
 }
