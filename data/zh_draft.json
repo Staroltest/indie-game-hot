@@ -4306,5 +4306,21 @@
  "https://www.indiedb.com/games/fleshbag/news/fleshbag-has-arrived-to-steam": {
   "zh_title": "FLESHBAG 已上架 Steam！",
   "zh_oneliner": "一款关于倒霉蛋的物理沙盒游戏登陆 Steam，角色有情绪正是笑点所在，值得看看小体量沙盒怎么做传播。"
+ },
+ "https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity": {
+  "zh_title": "众神已死，但并非永恒：走进 Azra Games 的《UnGodly》",
+  "zh_oneliner": "Azra Games 详解这款以 Unity 打造的黑暗幻想动作 RPG，如何把主机级体验搬上手机、Mac、PC 与 Vision Pro。"
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-b8": {
+  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻给游戏加上打击感",
+  "zh_oneliner": "不用物理引擎，只需在渲染循环里加几行画布平移代码，就能让 2D HTML5 小游戏拥有街机般的打击感。"
+ },
+ "https://www.destructoid.com/new-dcu-chief-will-go-the-family-friendly-route": {
+  "zh_title": "DC 宇宙或将告别旧时代：新掌舵人称将走合家欢漫威路线",
+  "zh_oneliner": "新任 DCU 负责人透露未来方向可能效仿漫威的合家欢模式，引发外界对系列风格转向的讨论。"
+ },
+ "https://www.gcores.com/articles/222155": {
+  "zh_title": "以克罗姆之名！《柯南：黑色金字塔》于金摇杆奖正式公布",
+  "zh_oneliner": "Games Farm 打造的动作 Roguelite RPG《柯南：黑色金字塔》在金摇杆奖上公布，预计 2027 年登陆 Steam，商店页已上线。"
  }
 }
