@@ -3842,5 +3842,25 @@
  "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days": {
   "zh_title": "官方确认：《塞尔达传说：时光之笛》重制版 4 天销量突破 520 万份",
   "zh_oneliner": "经典重制 4 天卖出 520 万份，说明怀旧 IP 的重制仍有强劲的市场号召力。"
+ },
+ "https://80.lv/articles/blender-5-3-has-finally-arrived": {
+  "zh_title": "Blender 5.3 正式发布",
+  "zh_oneliner": "新版原生支持 3D 高斯泼溅、DLSS 降噪与 Principled BSDF 色散，给独立开发者做 3D 美术又添了几件趁手工具。"
+ },
+ "https://gamedev.net/forums/topic/720677-free-tool-cutframe-sprite-sheet-slicing-animation-preview-and-png-export-in-your-browser": {
+  "zh_title": "[免费工具] Cutframe：在浏览器里切分精灵图、预览动画并导出 PNG",
+  "zh_oneliner": "一款免费的浏览器小工具，能把精灵图按网格或自定义矩形切成单帧、预览动画并导出 PNG，适合 2D 游戏快速准备动画素材。"
+ },
+ "https://www.gcores.com/articles/222200": {
+  "zh_title": "欢乐沙盒模拟游戏《加油添乱Gas N Cars》今日正式登陆Steam",
+  "zh_oneliner": "曾在社交媒体收获超 4 亿次观看的 VR 沙盒游戏以 PC 版登上 Steam，重新设计了操作与成长系统，保留了物理喜剧式的混乱玩法。"
+ },
+ "https://dev.to/voljulan/cicd-for-a-solo-project-from-the-first-test-to-release-eo1": {
+  "zh_title": "独立项目的 CI/CD：从第一次测试到发布",
+  "zh_oneliner": "一篇面向独立开发者的实践分享，讲单人项目如何从第一次测试起搭建持续集成与发布流程，让小团队也能稳定出包。"
+ },
+ "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo": {
+  "zh_title": "《塞尔达传说：时之笛》重制版大卖，成为 Switch 2 史上最快销售游戏",
+  "zh_oneliner": "任天堂宣布该重制版四天售出超 520 万份，刷新 Switch 2 首发纪录，给重制老牌 IP 的商业回报提供了一个新参照。"
  }
 }
