@@ -3738,5 +3738,17 @@
  "https://dev.to/dailyupdate/how-indie-games-are-using-ai-insights-from-igf-finalists-1gm5": {
   "zh_title": "独立游戏如何用 AI：来自 IGF 入围者的经验",
   "zh_oneliner": "结合 IGF 入围作品的实践，聊独立团队如何用 AI 加速原型、美术与重复性工作，同时回应创作边界上的争议。"
+ },
+ "https://www.indiedb.com/games/papertale/news/papertale-is-playable-now-a-2d-mmo-built-around-your-crew": {
+  "zh_title": "《Papertale》现已可玩：一款围绕你的小队展开的 2D MMO",
+  "zh_oneliner": "2D 横版 MMO 已开放公开 Alpha，可带一支四人固定小队探索共享世界、一起刷装备，且无内购商城、无抽卡。"
+ },
+ "https://www.indiedb.com/games/apocalypsehq/news/apocalypsehq-is-out-now-on-steam-with-a-20-launch-discount": {
+  "zh_title": "《ApocalypseHQ》已登陆 Steam，首发八折",
+  "zh_oneliner": "回合制僵尸生存策略游戏现已上架 Steam，管理幸存者、物资、设施与小队，首发八折至 11 月 24 日。"
+ },
+ "https://www.indiedb.com/games/crybble-wars/news/crybble-wars-now-runs-in-your-browser": {
+  "zh_title": "《Crybble Wars》现已可在浏览器中游玩",
+  "zh_oneliner": "这款游戏从 Telegram 搬到了浏览器，几秒即可游客身份开玩，支持完整桌面操作、自适应分辨率与八种语言。"
  }
 }
