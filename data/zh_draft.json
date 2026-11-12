@@ -4598,5 +4598,13 @@
  "https://dev.to/trendzbetagames/play-for-grandma-grandpa-4-5-a-new-android-horror-game-that-flips-the-hunter-role-3ojk": {
   "zh_title": "《Play for Grandma Grandpa 4-5》：一款反转猎手角色的安卓恐怖新游",
   "zh_oneliner": "Awecom Games 的新作让玩家扮演恐怖奶奶爷爷反过来追捕囚犯，五夜生存加追踪机制，值得参考这种角色反转的玩法设计。"
+ },
+ "https://dev.to/museailab/i-built-a-deduction-game-you-play-by-catching-records-that-contradict-each-other-517l": {
+  "zh_title": "我做了一款推理游戏：靠抓出互相矛盾的记录来破案",
+  "zh_oneliner": "作者用单个 HTML 文件做了一款推理游戏，玩家通过比对档案中自相矛盾的记录来还原极地科考站的真相。"
+ },
+ "https://gamedev.net/blogs/entry/2298655-improved-ai-behaviors-niagara-effect": {
+  "zh_title": "改进敌人 AI 行为，顺手加了 Niagara 特效",
+  "zh_oneliner": "开发者记录了打磨敌人 AI 的一天：用球形碰撞加事件触发给敌人做了靠近感知，行为树随之切换状态，还顺手补上了 Niagara 特效。"
  }
 }
