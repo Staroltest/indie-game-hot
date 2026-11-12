@@ -5462,5 +5462,21 @@
  "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game": {
   "zh_title": "《Doom》工作室 id Software 确认正在开发新作",
   "zh_oneliner": "id Software 证实新作正在开发，但表示还要等一段时间才会公布更多消息，关注 FPS 技术路线的开发者可以先记下这条。"
+ },
+ "https://dev.to/azimahmed/image-puzzle-studio-with-react-flow-build-an-interactive-jigsaw-puzzle-app-in-react-329e": {
+  "zh_title": "用 React Flow 做拼图工作室：打造交互式拼图应用",
+  "zh_oneliner": "把 React Flow 的节点画布换个玩法：上传照片生成拼图直接在浏览器里玩，适合想给 Web 游戏加交互画布的开发者参考。"
+ },
+ "https://dev.to/guillaumelessard/the-boring-half-of-a-game-jam-and-the-10-small-tools-i-built-to-skip-it-2lon": {
+  "zh_title": "Game Jam 里枯燥的那一半，以及我为跳过它做的 10 个小工具",
+  "zh_oneliner": "作者复盘了每次参赛都被琐事拖垮的经历，分享 10 个自制小工具，帮开发者把时间还给游戏本身。"
+ },
+ "https://dev.to/bptpolat/32-days-of-an-ai-bot-team-building-a-unity-game-on-a-pc-with-no-gpu-what-actually-mattered-5fff": {
+  "zh_title": "无显卡电脑上 AI 团队做 Unity 游戏 32 天：真正起作用的是什么",
+  "zh_oneliner": "一位开发者用 6 个 AI 智能体在 16GB 内存、无显卡的家用电脑上做了 32 天 Unity 塔防游戏，总结了这套流程里真正有效的部分。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/candy-crush-saga-game-on-halo-fallout-sea-of-thieves-xbox-25": {
+  "zh_title": "《Candy Crush Saga》联动 Halo、Fallout 等 IP 庆祝 Xbox 25 周年",
+  "zh_oneliner": "Xbox 25 周年联动登陆《Candy Crush Saga》，Halo、Fallout 等经典 IP 化身四周限时收集活动，值得关注 IP 联动的开发者看看。"
  }
 }
