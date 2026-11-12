@@ -4650,5 +4650,17 @@
  "https://www.indiedb.com/games/equation-of-humanity/news/veterans-day-salute": {
   "zh_title": "退伍军人节致敬",
   "zh_oneliner": "《Equation of Humanity》开发团队发帖向退伍军人致敬。"
+ },
+ "https://dev.to/zentaolabs/parsing-osu-skinini-files-the-quirks-nobody-documents-18hj": {
+  "zh_title": "解析 osu! 的 skin.ini 文件：那些没人记录的坑",
+  "zh_oneliner": "作者从数千个皮肤里挖出 skin.ini 的隐藏规则，并给出一个能扛住真实文件的 Python 解析器，适合想做皮肤预览或转换工具的开发者参考。"
+ },
+ "https://dev.to/shipitunity/a-unity-backend-you-own-c-tooling-for-supabase-40ai": {
+  "zh_title": "自己掌控的 Unity 后端：用 C# 工具链对接 Supabase",
+  "zh_oneliner": "讲如何在 Unity 2022.3+ 项目里用身份验证、行级安全、云存档与实时同步，搭一套自己说了算的后端数据通路。"
+ },
+ "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available": {
+  "zh_title": "提醒：最后一批星之卡比 Air Riders amiibo 已发售",
+  "zh_oneliner": "星之卡比 Air Riders 的 amiibo 系列至此全部到齐，收藏用的周边阵容已经完整。"
  }
 }
