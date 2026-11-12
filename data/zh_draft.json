@@ -4582,5 +4582,17 @@
  "https://www.gcores.com/articles/222249": {
   "zh_title": "《王权陨落》现已登陆PS5及Xbox平台，大型DLC《岩冠之境》同步上线PC及主机平台",
   "zh_oneliner": "极简策略塔防《王权陨落》登陆 PS5 与 Xbox 并加入 Game Pass，大型 DLC《岩冠之境》同步上线，可参考其白天建设、夜晚迎战的轻量循环与多平台发行节奏。"
+ },
+ "https://dev.to/leetoolreview/low-poly-game-assets-with-ai-3d-indie-workflow-f7g": {
+  "zh_title": "用 AI 3D 生成低多边形游戏资产：独立开发者工作流",
+  "zh_oneliner": "独立开发者借助 AI 3D 生成工具批量制作箱子、灯具、摊位等低多边形道具，省下外包预算与漫长的手工建模时间。"
+ },
+ "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off": {
+  "zh_title": "《上古卷轴5：天际》15 周年，Switch eShop 六折促销",
+  "zh_oneliner": "《天际》发售 15 周年之际在 Switch eShop 打六折，老牌开放世界 RPG 借周年节点再推一波销量。"
+ },
+ "https://www.indiedb.com/games/mahjong-a-cultural-journey-working-title/news/why-im-building-a-cultural-non-gambling-mahjong-game-in-unreal-engine-5": {
+  "zh_title": "为什么我要在 Unreal Engine 5 里做一款文化向、非赌博的麻将游戏",
+  "zh_oneliner": "一位开发者用 Unreal Engine 5 做免费跨平台多人麻将游戏，在玩法中融入规则教学与麻将背后的中国历史、语言与文化内涵。"
  }
 }
