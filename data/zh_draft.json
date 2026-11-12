@@ -4466,5 +4466,17 @@
  "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics": {
   "zh_title": "打击《绝地潜兵 2》“作弊”模组并再遭 Steam 差评潮后，Arrowhead 计划热修复放行无害外观模组",
   "zh_oneliner": "新反作弊措施未获玩家全盘接受，工作室以热修复松绑纯外观模组，独立开发者可从中看社区管理与反作弊之间的平衡取舍。"
+ },
+ "https://dev.to/kelvaro/luau-patterns-i-keep-re-explaining-to-my-ai-assistant-and-how-i-stopped-3a8k": {
+  "zh_title": "我反复向 AI 助手解释的 Luau 模式（以及我是如何不再这么做的）",
+  "zh_oneliner": "作者把 Roblox 开发中 AI 常犯的 Luau 错误整理成一份随项目走的模式文件，让每次新会话都不用再从头教起。"
+ },
+ "https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69": {
+  "zh_title": "用原生 JS、Canvas2D 和 PeerJS 做一款浏览器策略游戏 Siderform",
+  "zh_oneliner": "一款免安装的回合制太空策略网页游戏，用骰子收资源、两点行动力扩张领地，点对点联机就能直接开局。"
+ },
+ "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case": {
+  "zh_title": "CD Projekt 用 AI 还原了杰洛特波兰配音演员中风后改变的声音：“这是特例”",
+  "zh_oneliner": "杰洛特的波兰语配音演员中风后嗓音大变，CD Projekt 用 AI 技术帮他找回原来的声音，并强调这种做法只适用于这一特殊情况。"
  }
 }
