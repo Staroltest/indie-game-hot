@@ -4750,5 +4750,49 @@
  "https://www.destructoid.com/kizuna-high-trello-wiki-and-discord": {
   "zh_title": "Kizuna High 的 Trello、Wiki 与 Discord 入口汇总",
   "zh_oneliner": "一篇玩家向的信息汇总，集中给出《Kizuna High》的 Trello、Wiki 和 Discord 入口，方便玩家查找攻略与社区。"
+ },
+ "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses": {
+  "zh_title": "被裁的 id Software 开发者组建员工持股工作室 Hidden Horses",
+  "zh_oneliner": "一批受 Xbox 大规模裁员波及的 id Software 开发者自立门户，成立了员工持股的独立工作室 Hidden Horses，独立团队可以留意这种组织形式。"
+ },
+ "https://www.nintendolife.com/news/2026/11/new-limited-time-pokemon-champions-distribution-is-now-available": {
+  "zh_title": "《宝可梦 Champions》限时配信现已开启",
+  "zh_oneliner": "配合拉美国际锦标赛，《宝可梦 Champions》开启限时配信活动，输入兑换码可领取训练券，开发者可参考这类赛事联动的运营节奏。"
+ },
+ "https://www.destructoid.com/all-disney-dreamlight-valley-the-keepsake-sea-biomes-and-critters": {
+  "zh_title": "《迪士尼梦光谷》Keepsake Sea 区域生物与收集全指南",
+  "zh_oneliner": "一篇玩家向收集指南，梳理了《迪士尼梦光谷》新区域 Keepsake Sea 的各生物群落与可收集内容，开发者可参考其区域内容组织方式。"
+ },
+ "https://www.indiedb.com/games/switchroom/news/devlog-1-one-white-button-four-places-the-room-can-turn-into": {
+  "zh_title": "开发日志 #1：一个白色按钮，四种房间变身",
+  "zh_oneliner": "多人派对游戏 Switchroom 的首篇开发日志，讲一个白色按钮如何把房间变成太空、海底等四种场景，11 月 30 日上架 Steam，适合参考低成本场景切换的做法。"
+ },
+ "https://www.indiedb.com/games/zero-point/news/the-final-seconds-of-night-7-in-zero-point": {
+  "zh_title": "《Zero Point》第七夜最后 30 秒实录",
+  "zh_oneliner": "一段带游戏原声的实录，展示《Zero Point》当前版本第七夜殖民地防守的最后半分钟，独立开发者可看看紧张感是如何收尾的。"
+ },
+ "https://www.indiedb.com/games/lofi-cozy-room/news/a-tavern-and-a-library-in-lofi-cozy-room": {
+  "zh_title": "《Lofi Cozy Room》新增酒馆与图书馆",
+  "zh_oneliner": "《Lofi Cozy Room》扩展包 Work, Cook & Explore 的原型巡览，展示了灯笼酒馆与灯光图书馆两个新场景，适合参考 cozy 类游戏的场景扩展示例。"
+ },
+ "https://www.indiedb.com/games/deep-jaws/news/deep-jaws-pc-port-update-architecture-overhaul-steam-ui-new-gameplay-mechanics": {
+  "zh_title": "《Deep Jaws》PC 移植更新：架构重构、Steam 界面与新玩法",
+  "zh_oneliner": "《Deep Jaws》PC Steam 移植的深度复盘：大规模代码重构、干净的架构模式、零广告零内购、翻新的界面与自适应模式，移植老项目的开发者值得一看。"
+ },
+ "https://www.destructoid.com/dps-desktop-pension-squad-heroes-tier-list": {
+  "zh_title": "《DPS：Desktop Pension Squad》英雄强度榜",
+  "zh_oneliner": "一篇玩家向英雄强度榜，盘点了《DPS：Desktop Pension Squad》各英雄的可用性，开发者可顺带观察这类榜单文章的写法。"
+ },
+ "http://www.chuapp.com/article/291750.html": {
+  "zh_title": "在最挤的一届Steam新品节里，“最差一届”国产游戏登顶了",
+  "zh_oneliner": "独立团队顽核社的《我带过的最差一届》在 Steam 新品节上线三天在线人数从一千多涨到八千多，文章复盘了这支小团队的爆款经过。"
+ },
+ "https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke": {
+  "zh_title": "CDPR 用生成式 AI 补录杰洛特波兰语配音：原配音演员中风后的一种“合乎伦理的用法”",
+  "zh_oneliner": "CDPR 请乌克兰 AI 公司 Respeecher 用生成式 AI 调整了《巫师 3》新扩展中杰洛特的波兰语配音，起因是原配音演员中风，开发者可关注 AI 配音的伦理边界讨论。"
+ },
+ "https://dev.to/rory18439909614/how-i-built-a-spinning-schulte-table-game-3f3g": {
+  "zh_title": "我如何做了一个旋转舒尔特方格小游戏",
+  "zh_oneliner": "一篇开发手记，讲作者如何从刷到别人的周末小游戏开始，动手做了一个旋转舒尔特方格游戏，适合想快速做个小东西练手的开发者参考。"
  }
 }
