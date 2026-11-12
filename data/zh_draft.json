@@ -5034,5 +5034,29 @@
  "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales": {
   "zh_title": "日本销量榜：《塞尔达传说：时之笛》实体版占其日本销量大头",
   "zh_oneliner": "《时之笛》首发四天卖出 520 万份，日本市场实体版仍是销售主力，老 IP 重制的热度可见一斑。"
+ },
+ "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil": {
+  "zh_title": "群山回响《The Sound of Fury》：把钢琴当武器使的奇幻音乐砍杀游戏，对抗魔鬼",
+  "zh_oneliner": "一位陷入困境的古典音乐家下地狱拯救朋友，把钢琴变成武器——音乐题材砍杀游戏的新点子，值得看看它如何把演奏做成战斗系统。"
+ },
+ "https://dev.to/license_ejaw_8cca66dda7a1/why-slot-games-fail-after-launch-4b1l": {
+  "zh_title": "老虎机游戏为何总在上线后翻车",
+  "zh_oneliner": "数学模型、集成、玩家口碑、活动负载、运维压力——上线六周后出问题的五个集中点，签合同前就该把修复成本算进去。"
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us": {
+  "zh_title": "任天堂公布 Switch 2 黑色星期五优惠（美国）",
+  "zh_oneliner": "499.99 美元的 Switch 2 套装（含《Mario Kart World》数字版和三个月会员）基本抵消了今年的涨价，11 月 22 日至 12 月 5 日有效，关注主机装机量变化的开发者可以留意。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/25-years-of-xbox": {
+  "zh_title": "Xbox 25 周年",
+  "zh_oneliner": "微软发给 Xbox 团队的内部信，回顾从 1979 年文字冒险到今天的平台历程，是了解 Xbox 生态演变的一手材料。"
+ },
+ "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns": {
+  "zh_title": "争议数日后，Nvidia CEO 黄仁勋宣布辞职",
+  "zh_oneliner": "全球市值最高的公司之一换帅，GPU 与 AI 算力格局或生变数，做图形与 AI 方向的开发者值得关注后续动向。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it": {
+  "zh_title": "Nvidia 是怎么走到这一步的：黄仁勋风波与地缘政治时间线",
+  "zh_oneliner": "梳理黄仁勋风波从承认婚外情到辞职的来龙去脉，以及背后的地缘政治因素，帮开发者理解这场震动 GPU 行业的事件。"
  }
 }
