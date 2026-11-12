@@ -5150,5 +5150,49 @@
  "https://www.indiedb.com/games/tormentis/news/tormentis-updates-to-092-new-languages-and-gameplay-improvements": {
   "zh_title": "《Tormentis》更新 0.9.2：新增四种语言与玩法改进",
   "zh_oneliner": "《Tormentis》的 0.9.1 与 0.9.2 更新新增四种语言，改进手柄支持与地牢编辑，并修复多项玩法问题。"
+ },
+ "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year": {
+  "zh_title": "裁员、AI 与次世代：2600 多位游戏从业者今年向 GDC 讲述了什么",
+  "zh_oneliner": "GDC 行业现状报告出炉，2600 多位从业者的回答勾勒出裁员、AI 应用与次世代主机交织下的行业图景。"
+ },
+ "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027": {
+  "zh_title": "GDC 的 Mark DeLoura 回应 2026 年参会人数下滑，并详解 2027 年的调整计划",
+  "zh_oneliner": "GDC 2026 参会人数下滑约三成，负责人出面解释原因并公布了 2027 年的改革方向。"
+ },
+ "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work": {
+  "zh_title": "GDC 游戏行业现状报告：40% 的开发者已在工作中使用生成式 AI",
+  "zh_oneliner": "最新 GDC 行业报告显示，四成开发者已把生成式 AI 用进日常工作，AI 正在成为开发流程的一部分。"
+ },
+ "https://dev.to/nightnabbers/night-nabbers-just-landed-on-crazygames-1iek": {
+  "zh_title": "《Night Nabbers》刚刚登陆 CrazyGames",
+  "zh_oneliner": "免费浏览器游戏《Night Nabbers》上线 CrazyGames，扮演浣熊躲过看门狗、偷蛋孵伙伴，还能 16 人同场联机。"
+ },
+ "https://dev.to/zentaolabs/why-osu-hitsounds-feel-late-or-wrong-partial-sample-sets-mp3-padding-and-0-byte-files-2j68": {
+  "zh_title": "为什么 osu! 的打击音效总感觉迟到或不对：缺失采样、MP3 填充与 0 字节文件",
+  "zh_oneliner": "osu! 皮肤音效不对味，十有八九是文件问题：作者总结了三种常见毛病，并给出几行 Python 加一条 ffmpeg 命令的排查办法。"
+ },
+ "https://www.nintendolife.com/news/2026/11/nvidias-ceo-jensen-huang-resigns-following-infidelity-scandal": {
+  "zh_title": "英伟达 CEO 黄仁勋因婚外情丑闻辞职",
+  "zh_oneliner": "Switch 2 定制芯片的供应商英伟达卷入风波，CEO 黄仁勋在丑闻报道后辞职。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/halo-campaign-evolved-firefight-free-update-this-winter": {
+  "zh_title": "《Halo: Campaign Evolved》玩家今冬可免费体验 Firefight 模式",
+  "zh_oneliner": "经典四人合作 PvE 模式 Firefight 将以免费更新加入《Halo: Campaign Evolved》，今冬上线。"
+ },
+ "https://www.destructoid.com/ball-x-pit-risen-ballbylon-dlc-ball-busting-difficult-good": {
+  "zh_title": "《Ball x Pit》新 DLC「Risen Ballbylon」难度拉满、乐趣十足，价格依旧亲民",
+  "zh_oneliner": "《Ball x Pit》的「Risen Ballbylon」DLC 难度极高但玩得过瘾，售价和本体一样便宜。"
+ },
+ "https://www.destructoid.com/probably-stolen-lou-quest-walkthrough-how-to-complete-and-all-rewards": {
+  "zh_title": "「Probably Stolen Lou」任务攻略：如何完成及全部奖励",
+  "zh_oneliner": "一份任务流程攻略，讲清「Probably Stolen Lou」任务的完成步骤与全部奖励。"
+ },
+ "https://www.pcgamer.com/hardware/who-is-colette-kress-nvidias-new-interim-ceo": {
+  "zh_title": "Colette Kress 是谁？英伟达的新任临时 CEO",
+  "zh_oneliner": "黄仁勋离任后由谁暂掌英伟达？这篇介绍了新任临时 CEO Colette Kress 的背景。"
+ },
+ "https://www.pcgamer.com/hardware/trump-says-the-only-man-who-should-replace-ex-nvidia-ceo-jensen-huang-is-tim-cook-of-apple-fame": {
+  "zh_title": "特朗普称唯一能接替前英伟达 CEO 黄仁勋的人是苹果的 Tim Cook",
+  "zh_oneliner": "特朗普公开表态，认为苹果 CEO Tim Cook 是接替黄仁勋的唯一人选。"
  }
 }
