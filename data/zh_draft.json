@@ -5114,5 +5114,41 @@
  "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays": {
   "zh_title": "低质 AI 垃圾游戏持续涌入 Steam，更多开发者因审核积压宣布延期",
   "zh_oneliner": "Steam 审核积压日益严重，越来越多独立开发者被迫推迟游戏发售，矛头指向低质 AI 生成游戏的泛滥。"
+ },
+ "https://www.gamedeveloper.com/business/nvidia-ceo-jensen-huang-resigns-after-scandal": {
+  "zh_title": "英伟达 CEO 黄仁勋因婚外情丑闻辞职",
+  "zh_oneliner": "英伟达掌门人黄仁勋因婚外情丑闻辞职，开发者可留意这场高层变动对 GPU 供应与 AI 算力生态的后续影响。"
+ },
+ "https://gamedev.net/forums/topic/720751-android-neon-swarm-my-first-game-a-mech-survivor-roguelike-made-with-godot-feedback-welcome": {
+  "zh_title": "[Android]《Neon Swarm》：我用 Godot 做的第一款机甲幸存者 Roguelike，求反馈",
+  "zh_oneliner": "一位独立开发者用 Godot 4 打造的首款机甲幸存者 Roguelike 已上架 Google Play，正在向同行征集反馈。"
+ },
+ "https://dev.to/chocaroon-studios/replacing-unitywebrequest-boilerplate-with-a-visual-api-workflow-2aoe": {
+  "zh_title": "用可视化 API 工作流替代 UnityWebRequest 样板代码",
+  "zh_oneliner": "这篇教程介绍如何用可视化工作流替代 Unity 联网请求的重复样板代码，让后端对接更省事。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/free-play-days-11-12-2026": {
+  "zh_title": "免费试玩周末：《Sumerian Six》《Hypnospace Outlaw》等四款游戏限时畅玩",
+  "zh_oneliner": "Xbox 本周末向 Game Pass 会员开放四款游戏免费试玩，独立开发者可留意其中作品的曝光打法。"
+ },
+ "https://www.destructoid.com/resident-evil-requiem-gta-hurdle-at-tga": {
+  "zh_title": "《生化危机：安魂曲》横扫颁奖季开局，将与 GTA 争夺年度大奖",
+  "zh_oneliner": "《生化危机：安魂曲》在颁奖季开局强势，但年度大奖之争仍要直面 GTA 的挑战，值得留意 3A 大作的宣发节奏。"
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight": {
+  "zh_title": "《魔兽世界：Forever》澳新玩家为晒太阳发愁：新 MMO 太火爆",
+  "zh_oneliner": "《魔兽世界：Forever》在澳新地区上线后热度惊人，当地玩家却为晒不到太阳发愁，这波开局声势值得同行留意。"
+ },
+ "https://www.nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code": {
+  "zh_title": "《宝可梦传说 Z-A》限时神秘礼物码：免费领闪光传说宝可梦",
+  "zh_oneliner": "宝可梦 30 周年庆期间，《宝可梦传说 Z-A》推出限时神秘礼物活动，凭兑换码可免费领取闪光传说宝可梦。"
+ },
+ "https://www.indiedb.com/games/the-fallen-grid/news/the-fallen-grid-is-out-now-in-early-access": {
+  "zh_title": "《The Fallen Grid》抢先体验现已上线",
+  "zh_oneliner": "这款用 Unity 6 打造的合作打僵尸游戏已开启抢先体验，玩家组队抵御尸潮、解谜开锁，独立开发者可参考其联机合作玩法。"
+ },
+ "https://www.indiedb.com/games/tormentis/news/tormentis-updates-to-092-new-languages-and-gameplay-improvements": {
+  "zh_title": "《Tormentis》更新 0.9.2：新增四种语言与玩法改进",
+  "zh_oneliner": "《Tormentis》的 0.9.1 与 0.9.2 更新新增四种语言，改进手柄支持与地牢编辑，并修复多项玩法问题。"
  }
 }
