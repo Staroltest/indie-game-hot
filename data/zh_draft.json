@@ -5254,5 +5254,49 @@
  "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo": {
   "zh_title": "Xbox 负责人备忘录力挺生成式 AI：小团队也能做出过去需要数百人的世界",
   "zh_oneliner": "Xbox 负责人 Asha Sharma 在庆祝 Xbox 25 周年的备忘录中表态支持生成式 AI 开发，称小团队也能做出过去需要数百人才能搭建的世界。"
+ },
+ "https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes": {
+  "zh_title": "《Conan: The Black Pyramid》：柯南化身 Hades 式动作 Roguelite 主角，还有几位熟面孔英雄助阵",
+  "zh_oneliner": "借 Hades 的玩法框架套上柯南 IP 的动作 Roguelite 新作公布，聊聊「熟悉 IP 套熟悉玩法」的做法为什么总能吸引玩家。"
+ },
+ "https://gamedev.net/blogs/entry/2298660-clueffy-a-free-daily-history-clue-game": {
+  "zh_title": "Clueffy：一款免费的每日历史线索猜谜小游戏",
+  "zh_oneliner": "每天给一组历史线索猜事件或年份的免费网页小游戏，无需下载注册，还附带年份竞猜、生存解谜与数学谜题等玩法。"
+ },
+ "https://gamedev.net/blogs/entry/2298659-writing-a-one-sentence-prompt-for-a-small-game-what-to-put-in-what-to-leave-out": {
+  "zh_title": "给小游戏写一句提示词：该写什么、该省什么",
+  "zh_oneliner": "作者在做 AI 游戏生成器时总结的经验：先定类型再加 twist、写清操作与胜负规则，小游戏的提示词本质上是一次范围设计练习。"
+ },
+ "https://www.destructoid.com/how-to-find-a-guild-in-wow-forever": {
+  "zh_title": "《WoW Forever》里怎么找公会",
+  "zh_oneliner": "没有公会查找器也不妨碍玩家组建或加入公会，介绍几种在《WoW Forever》里找到合适公会的办法。"
+ },
+ "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board": {
+  "zh_title": "黄仁勋离任后，Intel 换帅的波折给 Nvidia 董事会敲了警钟",
+  "zh_oneliner": "接替黄仁勋的人要面对巨大的期待，文章借 Intel 迟迟找不到稳定 CEO 的经历，提醒 Nvidia 董事会谨慎挑选继任者。"
+ },
+ "https://www.pcgamer.com/games/fps/darktides-getting-a-sisters-of-battle-class-on-december-7": {
+  "zh_title": "《Darktide》12 月 7 日新增战斗修女职业",
+  "zh_oneliner": "严格说是见习修女，但新职业总算来了，聊聊这次职业更新的看点。"
+ },
+ "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between": {
+  "zh_title": "黄仁勋辞任 Nvidia CEO 后，舆论不是赞美就是政治指责，少有中间地带",
+  "zh_oneliner": "前 CEO 离任引发的舆论两极分化，悲伤是主流情绪，顺带观察高管变动如何牵动行业话题。"
+ },
+ "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting": {
+  "zh_title": "黄仁勋被赶下台后，Nvidia 股价反弹回升",
+  "zh_oneliner": "Nvidia 股价较盘前低点上涨约 10%，市场对这次人事变动的反应值得开发者关注。"
+ },
+ "https://80.lv/articles/recreating-cleopatra-s-temple-from-assassin-s-creed-origins-in-unreal-engine": {
+  "zh_title": "在 Unreal Engine 里重现《刺客信条：起源》中的克利奥帕特拉神庙",
+  "zh_oneliner": "作者拆解复刻神庙场景的完整流程：模块化建筑、Substance 3D Designer 制作的马赛克贴图，以及如何为不同时段打光。"
+ },
+ "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-giving-away-free-in-game-pokopia-furniture-and-its-adorable": {
+  "zh_title": "宝可梦公司免费送《Pokopia》游戏内家具，相当可爱",
+  "zh_oneliner": "继《宝可梦 冠军》与《传说 Z-A》的配信之后，宝可梦公司又放出一批《Pokopia》的免费家具兑换码。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now": {
+  "zh_title": "现在《GTA 5》里人人都是富兰克林",
+  "zh_oneliner": "一则轻松的玩家向趣闻：如今的《GTA 5》线上世界里，富兰克林成了人人都在扮演的角色。"
  }
 }
