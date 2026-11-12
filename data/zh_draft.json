@@ -4722,5 +4722,21 @@
  "http://www.chuapp.com/article/291753.html": {
   "zh_title": "对话在日从业者：腾讯”怪猎“手游为何在日本畅销榜登顶?",
   "zh_oneliner": "腾讯天美与卡普空合作的《怪物猎人：旅人》上线半月稳居日本 iOS 畅销榜前五，触乐对话在日从业者聊它在日本的打法与玩家口味。"
+ },
+ "https://dev.to/_eab1b6f07a8e6684e0285/i-built-an-arcade-tennis-game-in-unity-as-a-solo-dev-heres-rally-stars-tennis-testers-wanted-g7k": {
+  "zh_title": "独立开发者用 Unity 做了款街机网球游戏 Rally Stars Tennis，现招募测试者",
+  "zh_oneliner": "韩国独立开发者分享用 Unity 制作安卓街机网球游戏 Rally Stars Tennis 的经历，现已进入封闭测试并招募玩家试玩反馈。"
+ },
+ "https://dev.to/trendzbetagames/samonios-on-android-offline-first-design-in-an-open-world-survival-game-3h4e": {
+  "zh_title": "Samonios 安卓版：开放世界生存游戏的离线优先设计",
+  "zh_oneliner": "NoSpoon Studio 讲解新作 Samonios 如何以离线优先为核心设计开放世界生存玩法，摆脱广告、计时器与联网依赖。"
+ },
+ "https://dev.to/denshin/texture-atlases-for-a-browser-game-map-52nn": {
+  "zh_title": "浏览器游戏地图的纹理图集实践",
+  "zh_oneliner": "DENSHIN 团队分享如何用纹理图集打造浏览器游戏里清晰可读的城市地图，从街道标线到车辆细节逐一拆解。"
+ },
+ "https://www.destructoid.com/stand-out-trello-wiki-and-discord": {
+  "zh_title": "《Stand Out》Trello、Wiki 与 Discord 汇总",
+  "zh_oneliner": "Destructoid 汇总《Stand Out》的 Trello 看板、Wiki 与 Discord 入口，方便玩家查找最新资讯与社区资源。"
  }
 }
