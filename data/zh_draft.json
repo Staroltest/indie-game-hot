@@ -4862,5 +4862,53 @@
  "https://www.destructoid.com/complete-fortnite-kasane-teto-twindrill-diva-music-pass-all-skins-songs-and-more": {
   "zh_title": "《堡垒之夜》重音 Teto 音乐通行证全内容一览：皮肤、歌曲等",
   "zh_oneliner": "新音乐通行证带来联动皮肤与曲目，跨界 IP 合作仍是大型在线游戏维持热度的常用打法。"
+ },
+ "https://80.lv/articles/animation-studio-behind-sonic-dream-team-runescape-dragonwilds-super-spline-studios-is-hiring": {
+  "zh_title": "《Sonic Dream Team》与《RuneScape: Dragonwilds》背后的动画工作室 Super Spline Studios 正在招人",
+  "zh_oneliner": "曾参与《Sonic Dream Team》和《RuneScape: Dragonwilds》的动画工作室 Super Spline Studios 正在招聘初级与资深动画师，想进游戏动画行业的开发者可以留意。"
+ },
+ "https://dev.to/kanzakichiya/necrohex-semantic-patches-for-1990s-wad-map-files-built-with-kiro-5glh": {
+  "zh_title": "NecroHex：用 Kiro 打造的 1990 年代 WAD 地图文件语义补丁工具",
+  "zh_oneliner": "一款在浏览器里给 Doom 格式 WAD 地图打语义补丁的开源小工具，MIT 协议，顺带展示了 AI 编程助手 Kiro 在复古游戏工具开发里的用法。"
+ },
+ "https://dev.to/aikata/montore-dev-diary-4-the-system-phase-deciding-the-evolution-branches-and-rebuilding-the-damage-1j78": {
+  "zh_title": "Montore 开发日志 #4：系统阶段——定进化分支、重做伤害公式",
+  "zh_oneliner": "独立怪物养成游戏 Montore 的第四篇开发日志，讲进化分支按即时属性判定、伤害公式重构，以及战斗中隐藏进化时机等系统设计取舍。"
+ },
+ "https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals": {
+  "zh_title": "假如黄仁勋下台，谁能接替他？董事会可能的人选",
+  "zh_oneliner": "行业八卦向的猜测：若黄仁勋因绯闻风波离任，英伟达董事会短期可能从内部找个稳妥人选，长期则变数很大。"
+ },
+ "https://www.nintendolife.com/news/2026/11/romancing-saga-3-destinies-united-will-launch-earlier-than-expected-on-switch-2": {
+  "zh_title": "《Romancing SaGa 3: Destinies United》将在 Switch 2 上提前发售",
+  "zh_oneliner": "《浪漫沙加 3》重制版《Destinies United》宣布在 Switch 2 上提前发售，老牌 JRPG 粉丝可以留意发售窗口的变化。"
+ },
+ "https://www.pcgamer.com/software/platforms/humble-bundles-new-redesign-inexplicably-removes-2-factor-authentication-dramatically-weakening-account-security": {
+  "zh_title": "Humble Bundle 新版改版竟取消了双重验证，账号安全大幅削弱",
+  "zh_oneliner": "Humble Bundle 改版后移除了双重验证功能，账号安全性明显下降，提醒在上面卖游戏或买包的开发者及时检查自己的账号安全设置。"
+ },
+ "https://www.indiedb.com/games/mega-golf/news/mega-golf-you-ever-wonder-why-were-here": {
+  "zh_title": "Mega Golf：你有没有想过我们为什么会在这里？",
+  "zh_oneliner": "独立高尔夫游戏 Mega Golf 的新球场情报，介绍新球场的设计与玩法。"
+ },
+ "https://www.indiedb.com/games/saltwarden-online/news/livestock-on-the-farmsteads-guards-with-rank-and-spells-with-weight": {
+  "zh_title": "农庄添牲畜、守卫分等级、法术讲分量",
+  "zh_oneliner": "Saltwarden Online 的开发近况：农庄来了牲畜，守卫按地点重要性变强，高等级敌人更难被法术命中。"
+ },
+ "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar": {
+  "zh_title": "GTA 会有美国之外的舞台吗？Rockstar 给出了一线希望",
+  "zh_oneliner": "GTA 系列历来以美国为舞台，Rockstar 近期的表态给非美国背景的 GTA 留下了一线可能，聊聊系列选址的历史与未来。"
+ },
+ "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory": {
+  "zh_title": "传英伟达董事会准备让黄仁勋下台，第二起绯闻传闻令局势更糟",
+  "zh_oneliner": "继绯闻传闻后，传英伟达董事会正考虑让黄仁勋离任，聊聊这场高层风波对 AI 与显卡行业的可能影响。"
+ },
+ "https://80.lv/articles/this-slay-the-spire-style-game-is-built-from-thousands-of-stacked-illustrations": {
+  "zh_title": "这款类《杀戮尖塔》游戏由成千上万张堆叠插画搭建而成",
+  "zh_oneliner": "看看《Shroom and Gloom》的世界在引擎里是如何用成千上万张堆叠插画呈现出来的，给做卡牌肉鸽的开发者一点美术思路。"
+ },
+ "https://80.lv/articles/check-out-this-roguelike-deckbuilder-where-you-cheat-at-poker": {
+  "zh_title": "来看看这款能靠出千打牌的 Roguelike 构筑游戏",
+  "zh_oneliner": "《The Devil's Due》已在 Steam 发售，玩家在与怪物对战的扑克局里靠出千取胜，给做卡牌构筑的开发者提供一个玩法点子。"
  }
 }
