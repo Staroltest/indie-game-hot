@@ -4606,5 +4606,37 @@
  "https://gamedev.net/blogs/entry/2298655-improved-ai-behaviors-niagara-effect": {
   "zh_title": "改进敌人 AI 行为，顺手加了 Niagara 特效",
   "zh_oneliner": "开发者记录了打磨敌人 AI 的一天：用球形碰撞加事件触发给敌人做了靠近感知，行为树随之切换状态，还顺手补上了 Niagara 特效。"
+ },
+ "https://www.gcores.com/articles/222256": {
+  "zh_title": "叙事佳作《Gone Home》开发者新作《永泉》现已发售",
+  "zh_oneliner": "Fullbright 继《Gone Home》之后的第一人称叙事探索新作登陆 Steam，55 元首发八五折，讲一个男子在温泉度假村里追寻旧日恋情的故事。"
+ },
+ "https://www.gcores.com/radios/222254": {
+  "zh_title": "EP33 如何建立内容审美？· Thoughts",
+  "zh_oneliner": "一期关于内容审美的对谈，从古建筑 App 的制作经验聊到审美如何成为创作的索引而非目录。"
+ },
+ "https://www.gcores.com/radios/222252": {
+  "zh_title": "Vol.198｜Steam Frame 销量喜人｜Meta 喜提 AVP 版 Disney+｜PICO Space Pro 发售日",
+  "zh_oneliner": "VR 玩家闲聊电台，聊 Steam Frame 的硬件调查排名、Meta 与 PICO 的新动向，以及 AI 对开发者的影响。"
+ },
+ "https://www.gcores.com/radios/222253": {
+  "zh_title": "若中国原创动画多努努力，《时光代理人3》也不至如此！Ft.荟小荟",
+  "zh_oneliner": "一期播客回访国产原创动画《时光代理人》第三季，讨论它从独立小作长成大 IP 之后的变化与争议。"
+ },
+ "https://www.gcores.com/radios/222250": {
+  "zh_title": "Vol.273 腕上自由！细谈精工&西铁城",
+  "zh_oneliner": "腕表专题第二集，聊精工与西铁城的制表思路。"
+ },
+ "https://dev.to/daviddeng/mortal-shell-2-crash-triage-what-the-october-patch-notes-actually-fixed-4fdl": {
+  "zh_title": "《Mortal Shell 2》崩溃排查：十月补丁到底修了什么",
+  "zh_oneliner": "作者用 54 条实测崩溃记录对照十月补丁，逐条核对哪些 UE5 启动期问题真正修好了、哪些还在。"
+ },
+ "https://dev.to/nightnabbers/how-a-3d-multiplayer-stealth-game-runs-in-a-browser-tab-shared-sim-durable-objects-a-5-byte-1ogh": {
+  "zh_title": "浏览器里的 3D 多人潜行游戏是怎么做出来的：共享模拟、Durable Objects 与 5 字节输入协议",
+  "zh_oneliner": "免费网页游戏 Night Nabbers 的技术复盘，讲它如何用共享模拟与极简输入协议支撑 16 人同场潜行。"
+ },
+ "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake": {
+  "zh_title": "冷知识：年轻林克在《时之笛》重制版里翻滚依然更快",
+  "zh_oneliner": "Switch 2 版《时之笛》发售后，速通玩家确认年轻林克的翻滚速度优势在重制版里依然存在。"
  }
 }
