@@ -5058,5 +5058,21 @@
  "https://www.pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it": {
   "zh_title": "Nvidia 是怎么走到这一步的：黄仁勋风波与地缘政治时间线",
   "zh_oneliner": "梳理黄仁勋风波从承认婚外情到辞职的来龙去脉，以及背后的地缘政治因素，帮开发者理解这场震动 GPU 行业的事件。"
+ },
+ "https://dev.to/amrshadid/i-built-kernelfall-learn-linux-kernel-development-through-a-browser-game-3530": {
+  "zh_title": "我做了 Kernelfall：在浏览器游戏里学 Linux 内核开发",
+  "zh_oneliner": "作者做了一款浏览器游戏，把 Linux 内核开发的入门知识做成了可玩的关卡，边玩边学内核概念。"
+ },
+ "https://dev.to/arhan_khan/lua-for-beginners-the-tiny-language-inside-your-favourite-games-10j4": {
+  "zh_title": "Lua 新手入门：你最爱游戏里的那门小语言",
+  "zh_oneliner": "面向新手介绍 Lua 这门嵌入式脚本语言，讲它为什么被那么多游戏用作逻辑与模组语言。"
+ },
+ "https://www.pcgamer.com/games/call-of-duty/conor-mcgregor-picked-up-and-flipped-a-call-of-duty-dev-during-the-making-of-infinite-warfare-i-wanted-him-to-do-something-really-physical-to-demonstrate-how-capable-he-is": {
+  "zh_title": "康纳·麦格雷戈在《无限战争》制作期间抱摔了一名《使命召唤》开发者",
+  "zh_oneliner": "拍摄花絮：康纳·麦格雷戈在《无限战争》制作期间抱起并翻倒了一名开发者，说想让他做点真正展现身体能力的事。"
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-new-riverglades-zone-feels-more-like-the-burning-crusade-than-classic-and-you-know-what-im-absolutely-okay-with-that": {
+  "zh_title": "《魔兽世界：Forever》新区域 Riverglades 更像《燃烧的远征》加强版，而非经典版加强",
+  "zh_oneliner": "新区域 Riverglades 的体验更接近《燃烧的远征》的延续而非经典版的延伸，作者表示完全可以接受。"
  }
 }

@@ -99,3 +99,7 @@ MIT License，Copyright (c) 2026 Camille (IndieHOT)。见 [LICENSE](LICENSE)。
 <img src="assets/tip-usdt.png" alt="赞赏码：USDT TRC20" width="200">
 
 USDT · TRC20：`TBH8fAi6Vbr9G4VW3PDm3DugZU6fknr6na`
+
+<img src="assets/tip-usdt-sol.png" alt="赞赏码：USDT Solana" width="200">
+
+USDT · Solana：`7pitxN5xECR2NH2qdhFiSRC3fDdMsmVczqFSY4Zz4v5H`

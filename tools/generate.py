@@ -679,6 +679,8 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .foot p{margin:0 0 8px}
 @media(max-width:699px){.foot{padding-bottom:8px}}
 .tip{margin-top:20px;padding-top:16px;border-top:1px dashed var(--line);text-align:center}
+.tip-cards{display:flex;flex-wrap:wrap;gap:8px 32px;justify-content:center}
+.tip-card{max-width:300px}
 .tip-title{font-size:13px;color:var(--ink-3)}
 .tip-qr{width:150px;height:150px;border-radius:8px;background:#fff}
 .tip-label{font-size:13px;color:var(--ink-3)}
@@ -2066,9 +2068,14 @@ def footer_html(base=""):
             f'<a href="{base}terms.html">条款</a>'
             f'<a href="{base}privacy.html">隐私</a></nav>'
             f'<div class="tip"><p class="tip-title">赞赏支持</p>'
-            f'<img class="tip-qr" src="{base}assets/tip-usdt.png" alt="赞赏码：USDT TRC20" width="150" height="150">'
+            f'<div class="tip-cards">'
+            f'<div class="tip-card"><img class="tip-qr" src="{base}assets/tip-usdt.png" alt="赞赏码：USDT TRC20" width="150" height="150">'
             f'<p class="tip-label">USDT · TRC20</p>'
-            f'<p class="tip-addr">TBH8fAi6Vbr9G4VW3PDm3DugZU6fknr6na</p></div></footer>')
+            f'<p class="tip-addr">TBH8fAi6Vbr9G4VW3PDm3DugZU6fknr6na</p></div>'
+            f'<div class="tip-card"><img class="tip-qr" src="{base}assets/tip-usdt-sol.png" alt="赞赏码：USDT Solana" width="150" height="150">'
+            f'<p class="tip-label">USDT · Solana</p>'
+            f'<p class="tip-addr">7pitxN5xECR2NH2qdhFiSRC3fDdMsmVczqFSY4Zz4v5H</p></div>'
+            f'</div></div></footer>')
 
 
 def page_open(site, active, title, description, prefix="", base="", canonical="",

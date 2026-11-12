@@ -318,6 +318,8 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .foot p{margin:0 0 8px}
 @media(max-width:699px){.foot{padding-bottom:8px}}
 .tip{margin-top:20px;padding-top:16px;border-top:1px dashed var(--line);text-align:center}
+.tip-cards{display:flex;flex-wrap:wrap;gap:8px 32px;justify-content:center}
+.tip-card{max-width:300px}
 .tip-title{font-size:13px;color:var(--ink-3)}
 .tip-qr{width:150px;height:150px;border-radius:8px;background:#fff}
 .tip-label{font-size:13px;color:var(--ink-3)}
