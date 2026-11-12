@@ -4554,5 +4554,29 @@
  "https://www.indiedb.com/games/prophecia/news/alpha-v01611-one-click-updates-a-finale-and-fights-you-can-walk-away-from": {
   "zh_title": "《Prophecia》Alpha v0.1.611：一键更新、章节收尾与可脱身的战斗",
   "zh_oneliner": "Prophecia 免费 Alpha 升至 v0.1.611，支持一键更新，第一章迎来收尾，战斗中玩家可以逃跑、休整，失败也有真实代价。"
+ },
+ "https://dev.to/gamealia/publish-an-html5-game-from-claude-code-codex-cursor-gemini-cli-or-kimi-code-mcp-5f8n": {
+  "zh_title": "用 Claude Code、Codex、Cursor、Gemini CLI 或 Kimi Code（MCP）发布 HTML5 游戏",
+  "zh_oneliner": "介绍如何通过 MCP 把 AI 编程助手直接连进游戏发布流程，写完游戏不用离开对话就能打包、上架、填资料，省掉来回切换工具的麻烦。"
+ },
+ "https://dev.to/alchemicduncan/making-a-small-decision-model-part-3-playing-doom-3c5p": {
+  "zh_title": "做一个小型决策模型（第三部分）：让它玩 Doom",
+  "zh_oneliner": "系列第三篇，把之前能读文本工单做选择的小模型扩展到玩 Doom，用游戏验证小参数模型处理实时画面的能力。"
+ },
+ "https://dev.to/daviddeng/should-you-buy-the-blood-of-dawnwalker-this-black-friday-a-framework-from-a-month-of-price-history-16b7": {
+  "zh_title": "黑五该不该买《黎明行者之血》？用一个月价格史做个判断框架",
+  "zh_oneliner": "以《黎明行者之血》首个大促为例，结合一个月价格走势，讲怎么判断一款游戏现在买、再等等还是直接跳过。"
+ },
+ "https://www.nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case": {
+  "zh_title": "《巫师 3》新扩展让杰洛特波兰语配音演员与 AI 合作，但这是“特例”",
+  "zh_oneliner": "CDPR 为《巫师 3》新扩展用 AI 补录了中风后无法继续配音的波兰语演员的声音，强调这是经本人同意的个案，聊聊 AI 配音的边界在哪。"
+ },
+ "https://www.gcores.com/articles/222248": {
+  "zh_title": "全新温泉恐怖模拟游戏《异界宿帐》已于今日正式发售",
+  "zh_oneliner": "日式怪谈题材的温泉旅馆模拟游戏今日发售，白天打理旅馆生意、夜晚在层出不穷的怪异现象中求生，白天的选择会直接影响入夜后的走向。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606198": {
+  "zh_title": "“独游用了AI、就不许参加评奖”！《Big Walk》被IGF除名，AI修Bug也不行？",
+  "zh_oneliner": "《Big Walk》因开发中使用 AI 被 IGF 除名，在独立游戏圈引发争论：AI 到底在多大程度上参与，才会让一款游戏失去评奖资格。"
  }
 }
