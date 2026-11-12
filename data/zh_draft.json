@@ -4946,5 +4946,41 @@
  "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down": {
   "zh_title": "Paradox 首席执行官 Frederik Wester 将卸任",
   "zh_oneliner": "执掌 Paradox 十余年的 Frederik Wester 宣布卸任，发行商近年历经《城市：天际线》与《群星》等作的动荡期。"
+ },
+ "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth": {
+  "zh_title": "Eve Online 开发商 Fenris Creations 为开源 Carbon 引擎加入新渲染技术 CORTAO，承诺更精准的光影与更强的纵深感",
+  "zh_oneliner": "Fenris Creations 今年早些时候开源了 Carbon 引擎，如今又为其加入名为 CORTAO 的渲染技术，目标是让着色更准确、画面更有层次，值得关注开源引擎渲染管线演进的开发者留意。"
+ },
+ "https://dev.to/asenmitrev/i-built-bot-arena-a-1v1-strategy-game-where-you-dont-play-your-javascript-bot-does-write-it-in-13k4": {
+  "zh_title": "我做了 Bot Arena：一款 1v1 策略游戏，你不用亲自操作，你的 JavaScript 机器人替你打",
+  "zh_oneliner": "作者在浏览器里写 JavaScript 机器人，提交到排位天梯与其他玩家的机器人对战，用一场代码对决展示了“以代码为玩法”的独立游戏思路。"
+ },
+ "https://dev.to/shipitunity/backend-or-netcode-a-responsibility-map-for-unity-multiplayer-3p2k": {
+  "zh_title": "后端还是 Netcode？一份 Unity 多人游戏职责分工图",
+  "zh_oneliner": "存档服务、会话服务与 Netcode 都能管状态、传信息，作者把多人游戏拆成持久数据、会话协调与实时同步三项职责，帮开发者分清每部分该由谁负责。"
+ },
+ "https://www.destructoid.com/how-to-rescue-every-character-in-warhammer-survivors": {
+  "zh_title": "《战锤幸存者》全角色救援指南",
+  "zh_oneliner": "一篇面向玩家的角色救援攻略，介绍如何在《战锤幸存者》中救出每一位角色，开发者可顺带观察这类生存 Roguelike 的角色解锁设计。"
+ },
+ "https://www.gcores.com/articles/222275": {
+  "zh_title": "英伟达宣布黄仁勋辞去CEO",
+  "zh_oneliner": "机核转载财联社消息称，英伟达董事会已批准黄仁勋辞去总裁、CEO 及董事职务，由 CFO 科莱特·克雷斯暂任 CEO 并启动继任者遴选，开发者可关注这家 GPU 巨头高层变动对游戏硬件与 AI 生态的后续影响。"
+ },
+ "https://www.nintendolife.com/reviews/nintendo-switch-2/harold-halibut": {
+  "zh_title": "评测：《Harold Halibut》（Switch 2）——创意惊艳，后半程乏力",
+  "zh_oneliner": "这篇 Switch 2 版评测认为《Harold Halibut》以定格木偶质感的美术令人惊艳，但后半程体验有所下滑，开发者可参考其手工质感美术与叙事节奏的得失。"
+ },
+ "https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal": {
+  "zh_title": "黄仁勋已辞去在英伟达的所有职务，即刻生效",
+  "zh_oneliner": "PC Gamer 的滚动报道称黄仁勋已辞去在英伟达的所有职务，并提到所谓第二起绯闻传闻，内容涉及未经证实的人物传闻，开发者阅读时宜以官方消息为准。"
+ },
+ "https://80.lv/articles/solve-mysteries-in-this-psychological-horror-inspired-by-ancient-city-in-italy": {
+  "zh_title": "在这款受意大利古城启发的心理恐怖游戏中解开谜团",
+  "zh_oneliner": "《Encryption》是一款自 2018 年起开发的电影感第一人称恐怖冒险游戏，以意大利古城为灵感，开发者可参考其氛围营造与解谜叙事。"
+ },
+ "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month": {
+  "zh_title": "治愈系火车模拟游戏《Station to Station》本月晚些时候登陆 Switch 2",
+  "zh_oneliner": "治愈系火车模拟游戏《Station to Station》将于本月晚些时候登陆 Switch 2，开发者可留意这类轻松建造模拟游戏向主机平台的移植节奏。"
  }
 }
