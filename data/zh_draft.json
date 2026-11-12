@@ -5370,5 +5370,21 @@
  "https://dev.to/nesimrazon/how-we-guarantee-a-mahjong-solitaire-board-is-solvable-flm": {
   "zh_title": "我们如何保证每一局麻将接龙都有解",
   "zh_oneliner": "讲了《Tilelings》在发牌阶段就保证牌局可解的做法，提醒益智游戏开发者把可解性做进生成环节而不是事后补救。"
+ },
+ "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative": {
+  "zh_title": "Tripwire Interactive 宣布新发行计划后裁员 36 人",
+  "zh_oneliner": "《Killing Floor》开发商在公布新发行计划后裁员 36 人，这次裁员折射出中型工作室在业务扩张与成本控制之间的摇摆。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary": {
+  "zh_title": "《神鬼寓言》新任务实机演示亮相 Xbox 25 周年",
+  "zh_oneliner": "微软在 Xbox 25 周年之际放出《神鬼寓言》新任务实机片段，展示了这款重启之作的玩法面貌。"
+ },
+ "https://www.destructoid.com/all-fc-27-campaign-mix-upgrade-sbc-rewards": {
+  "zh_title": "FC 27 战役混合升级 SBC 奖励一览",
+  "zh_oneliner": "一份整理好的 FC 27 战役混合升级 SBC 奖励清单，供玩家对照兑换奖励。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order": {
+  "zh_title": "韩国评级机构险些叫停 GTA 6 发行，只因担心“脱离语境的生殖器裸露”扰乱社会秩序",
+  "zh_oneliner": "GTA 6 在韩国经历了三次分级审查才得以放行，这起插曲揭示了分级制度对大型游戏全球发行节奏的实际影响。"
  }
 }
