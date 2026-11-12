@@ -4514,5 +4514,45 @@
  "https://gamedev.net/forums/topic/720824-free-prototype-assets-12-ui-sounds-and-12-tileable-textures": {
   "zh_title": "免费原型素材：12 个 UI 音效与 12 张可平铺贴图",
   "zh_oneliner": "作者分享了两份免费原型素材包，含 12 个 UI 音效与 12 张可平铺贴图，下载前可在线试听试看，适合快速搭原型时直接拿来用。"
+ },
+ "https://indiegamereviewer.com/annihilated-review-dungeon-deck-delve": {
+  "zh_title": "《Annihilated》评测：地牢卡牌探索",
+  "zh_oneliner": "《Annihilated》把视觉小说叙事与卡牌构筑玩法融进地牢探索，评测认为它节奏虽有拖沓、整体体验仍有吸引力。"
+ },
+ "https://dev.to/echolin/slow-unity-il2cpp-builds-usually-come-in-three-kinds-298h": {
+  "zh_title": "Unity IL2CPP 构建慢，通常分三种情况",
+  "zh_oneliner": "作者梳理 Unity 论坛里关于 IL2CPP 构建慢的讨论，指出“慢”其实对应三种不同问题，修法各不相同，先定位瓶颈再动手。"
+ },
+ "https://dev.to/beey12345/local-ai-is-not-a-compromise-its-an-unlimited-ai-2kpg": {
+  "zh_title": "本地 AI 不是妥协，而是无限的 AI",
+  "zh_oneliner": "文章认为本地运行的 AI 模型能绕开云端服务的用量与付费限制，适合在游戏开发中自动化重复任务。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606181": {
+  "zh_title": "刀枪剑影激辩，“为何3A游戏默认玩家是傻子”？",
+  "zh_oneliner": "文章围绕 3A 游戏的引导设计展开讨论：引导太弱玩家摸不着头脑，太强又像把玩家当傻子，火候如何把握是开发中的老难题。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606179": {
+  "zh_title": "被玩家带坑里，Steam爆红独游《深空当铺》发文致歉！这是怎么了?",
+  "zh_oneliner": "Steam 爆红独游《深空当铺》作者就文本修改与本地化处理发文向中国玩家致歉，事件折射出独立游戏出海本地化的敏感与风险。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606171": {
+  "zh_title": "几乎“重做”一遍！《王者荣耀世界》S2要来一场绝地反击",
+  "zh_oneliner": "时隔 165 天，《王者荣耀世界》以近乎重做的姿态迎来 S2 赛季体验服，文章梳理了这次大改的来龙去脉。"
+ },
+ "https://www.indiedb.com/games/blocktrix/news/blocktrix-212-the-hall-of-fame-opens": {
+  "zh_title": "Blocktrix 2.12：名人堂开启",
+  "zh_oneliner": "Blocktrix 2.12 更新开放名人堂，2001 年以来的 22.9 万个 TetriNET 老玩家名录回归，老玩家可免费认领自己的昵称。"
+ },
+ "https://www.indiedb.com/news/othercrown-revealed-watch-the-ign-world-premiere-trailer": {
+  "zh_title": "《Othercrown》公布！看 IGN 全球首播预告",
+  "zh_oneliner": "《Othercrown》正式公布，定于 2027 年第一季度发售，公开试玩与测试报名即将开启。"
+ },
+ "https://www.indiedb.com/games/balladrion/news/balladrion-patch-00725-rhythm-of-battle": {
+  "zh_title": "《Balladrion》0.0725 补丁：战斗韵律",
+  "zh_oneliner": "Balladrion 0.0725 补丁让战斗音乐活起来，并调整了法术音效的音量，节奏感是本次更新的重点。"
+ },
+ "https://www.indiedb.com/games/prophecia/news/alpha-v01611-one-click-updates-a-finale-and-fights-you-can-walk-away-from": {
+  "zh_title": "《Prophecia》Alpha v0.1.611：一键更新、章节收尾与可脱身的战斗",
+  "zh_oneliner": "Prophecia 免费 Alpha 升至 v0.1.611，支持一键更新，第一章迎来收尾，战斗中玩家可以逃跑、休整，失败也有真实代价。"
  }
 }
