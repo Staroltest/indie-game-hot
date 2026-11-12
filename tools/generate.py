@@ -2050,7 +2050,7 @@ def footer_html(base=""):
     return ('<footer class="foot"><p>IndieHOT 是聚合摘要与阅读索引，标题与摘要版权归各来源所有。'
             '内容只作开发者资讯参考；本站不转载全文。</p>'
             '<p>信息架构与界面风格参考 AIHOT（采集—评分—精选—日报流水线、暖纸底色与侧栏导航），'
-            '代码为本站原创，MIT 协议开源。</p>'
+            '本站代码按 MIT 协议开源。</p>'
             f'<nav class="foot-links" aria-label="页脚链接">'
             f'<a href="{base}feed.xml">RSS 订阅</a>'
             f'<a href="{base}data/days/index.json">数据 JSON</a>'
