@@ -5410,5 +5410,25 @@
  "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time": {
   "zh_title": "Paradox Interactive 换帅，Fredrik Wester 第二次卸任",
   "zh_oneliner": "Paradox 创始人再次交棒，副 CEO Mattias Lilja 将于明年一月接任，可留意这家策略游戏大厂的管理层变动。"
+ },
+ "https://80.lv/articles/bioware-co-founder-explains-the-usd200-million-problem-with-reviving-mass-effect": {
+  "zh_title": "BioWare 联合创始人谈复活《质量效应》的 2 亿美元难题",
+  "zh_oneliner": "两位创始人算了一笔账，复活《质量效应》至少要烧掉 2 亿美元，并认为与其砸钱复活老 IP，不如扶持当年做出这款游戏的人与团队。"
+ },
+ "https://80.lv/articles/how-unreal-game-adur-uses-stylized-3d-character-creator-for-development": {
+  "zh_title": "《Adur》如何用风格化 3D 角色创作工具做开发",
+  "zh_oneliner": "四人小团队分享了用 Character Creator 5、iClone 8 与 Unreal Engine 5 打造风格化角色、过场动画与巴斯克风情世界的工作流。"
+ },
+ "https://gamedev.net/blogs/entry/2298661-scruthut-homebrew-progress": {
+  "zh_title": "Scrut.Hut 自制软件开发进展",
+  "zh_oneliner": "开发者更新了 Scrut.Hut 自制软件的开发进度，暂不承诺发售时间，计划按自己的节奏把能做的功能都做进去。"
+ },
+ "https://dev.to/wlz/why-scp-containment-breach-bet-on-blitz3d-the-dead-basic-engine-behind-free-horrors-blink-450n": {
+  "zh_title": "《SCP：收容失效》为何押注已停更的 Blitz3D 引擎",
+  "zh_oneliner": "回顾这款免费恐怖游戏如何用早已停更的 BASIC 引擎 Blitz3D 做出标志性的眨眼机制，并靠模组社区延续了十多年生命力。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16": {
+  "zh_title": "《毁灭战士：黑暗时代》屠杀模式 11 月 16 日上线",
+  "zh_oneliner": "《毁灭战士：黑暗时代》的 Revelations 更新将于 11 月 16 日加入屠杀模式。"
  }
 }
