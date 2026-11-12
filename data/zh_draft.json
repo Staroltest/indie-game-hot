@@ -5510,5 +5510,29 @@
  "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable": {
   "zh_title": "新 4 分钟《神鬼寓言》实机预告：看着不太像《神鬼寓言》",
   "zh_oneliner": "新出的 4 分钟《神鬼寓言》实机预告引发讨论：这部新作看起来和系列前作不太一样。"
+ },
+ "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at": {
+  "zh_title": "《杀戮尖塔 2》迄今最大 Beta 补丁：首位抢先体验新角色登场，新增两种游戏模式",
+  "zh_oneliner": "Mega Crit 称这是游戏迄今规模最大的补丁，新增首位抢先体验角色与两种模式，大量改动需在测试分支充分验证后才会进入正式版。"
+ },
+ "https://dev.to/indiebots/ai-3d-model-generators-for-unreal-engine-57-and-58-2026-3la6": {
+  "zh_title": "面向 Unreal Engine 5.7 与 5.8 的 AI 3D 模型生成器盘点（2026）",
+  "zh_oneliner": "对比多款 AI 3D 工具在 UE 5.7 与 5.8 上的插件支持、版本要求与商用授权，帮开发者判断哪款能直接拿来做游戏资产。"
+ },
+ "https://dev.to/maciahtohmas/i-built-a-whole-action-game-in-one-html-file-3dbh": {
+  "zh_title": "我用一个 HTML 文件做了一款完整动作游戏",
+  "zh_oneliner": "作者把一款千关武士动作平台游戏塞进单个约 650KB 的 HTML 文件，零引擎、零构建，详解单文件架构的取舍与三画布实现。"
+ },
+ "https://dev.to/akartit/i-gave-gemini-4-carbon-claude-fable-52-opus-55-and-gpt-61-sol-the-same-prompt-the-ai-judges-1o21": {
+  "zh_title": "同一提示词交给 Gemini 4、Claude 与 GPT-6.1 做游戏：AI 评委和我的结论不一致",
+  "zh_oneliner": "用同一提示词让四款 AI 编程模型分别做 Blender 跑车与浏览器驾驶游戏，再由 AI 评委盲评，结果与作者自己的判断出现分歧。"
+ },
+ "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1": {
+  "zh_title": "Xbox Insiders 新功能：主页、游戏库与指南支持更多个性化设置",
+  "zh_oneliner": "Xbox 向 Insider 会员推出主页轮换背景、游戏库筛选与指南位置调整等个性化选项。"
+ },
+ "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18": {
+  "zh_title": "《七日世界》第五赛季实机演示：合作挑战巨型 Colossus Boss，11 月 18 日上线",
+  "zh_oneliner": "第五赛季以会聆听并回应玩家枪声的巨型 Colossus 为核心，带来合作 Boss 战，11 月 18 日全球免费上线。"
  }
 }
