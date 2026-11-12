@@ -4662,5 +4662,13 @@
  "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available": {
   "zh_title": "提醒：最后一批星之卡比 Air Riders amiibo 已发售",
   "zh_oneliner": "星之卡比 Air Riders 的 amiibo 系列至此全部到齐，收藏用的周边阵容已经完整。"
+ },
+ "https://dev.to/lullwoodgamer/lullwood-a-threejs-browser-game-with-one-model-file-and-a-676-kb-first-load-5299": {
+  "zh_title": "Lullwood：一款仅用一个模型文件、首屏加载 676 KB 的 three.js 浏览器游戏",
+  "zh_oneliner": "免费恐怖小游戏 Lullwood 只用一个 226 KB 的 .glb 模型、零音频文件，把冷启动首载压到 676 KB，并分享了实测的体积拆解与瘦身思路。"
+ },
+ "https://80.lv/articles/golden-joystick-awards-2026-winners-revealed": {
+  "zh_title": "2026 年金摇杆奖获奖名单揭晓",
+  "zh_oneliner": "第 44 届金摇杆奖于 11 月 11 日揭晓 21 个类别的获奖者，从年度终极大奖到最佳主演，独立开发者可对照获奖名单看今年的市场风向。"
  }
 }
