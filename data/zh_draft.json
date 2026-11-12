@@ -5194,5 +5194,65 @@
  "https://www.pcgamer.com/hardware/trump-says-the-only-man-who-should-replace-ex-nvidia-ceo-jensen-huang-is-tim-cook-of-apple-fame": {
   "zh_title": "特朗普称唯一能接替前英伟达 CEO 黄仁勋的人是苹果的 Tim Cook",
   "zh_oneliner": "特朗普公开表态，认为苹果 CEO Tim Cook 是接替黄仁勋的唯一人选。"
+ },
+ "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years": {
+  "zh_title": "三分之一开发者表示过去两年内曾被裁员",
+  "zh_oneliner": "GDC 行业调查显示 34% 的受访开发者在过去两年里经历过裁员，独立团队招人留人时值得参考这份行业现状。"
+ },
+ "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan": {
+  "zh_title": "2026 年游戏行业现状调查还能再做一次吗？Beth Elderkin 与 Imran Khan 对谈",
+  "zh_oneliner": "播客嘉宾聊了再做一份 2026 年行业现状调查的可能，顺带复盘了新版报告里值得开发者留意的数据。"
+ },
+ "https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail": {
+  "zh_title": "卡通风轻类银河战士游戏《Lola's Familiars: Prison of Argnoh》首曝实机预告",
+  "zh_oneliner": "见习女巫带着召唤出的伙伴越狱的 2D 横版轻类银河战士游戏，首支实机预告展示了借用伙伴能力解谜的玩法。"
+ },
+ "https://gamedev.net/blogs/entry/2298657-from-2d-concept-art-to-a-prototype-figure-what-i-check-on-the-mesh-before-slicing": {
+  "zh_title": "从 2D 概念图到原型手办：切片前要检查的网格细节",
+  "zh_oneliner": "作者分享了把角色概念图快速转成可打印原型手办的流程，以及切片前检查网格时最容易踩的坑。"
+ },
+ "https://gamedev.net/forums/topic/720827-deferred-payment-looking-for-3d-clothing-artists-map-designers-vehicle-artists-animators": {
+  "zh_title": "[延期付费] 招募 3D 服装美术、地图设计、载具美术与动画师",
+  "zh_oneliner": "一支新成立的模组团队为战术游戏项目招募美术与动画人手，采用延期付费的合作方式。"
+ },
+ "https://gamedev.net/blogs/entry/2298656-what-broke-when-i-put-directional-sprite-sheets-into-godot-frame-size-pivots-and-loop-frames": {
+  "zh_title": "在 Godot 里接入方向精灵表时踩的坑：帧尺寸、轴心与循环帧",
+  "zh_oneliner": "作者记录了把多方向精灵表接进 Godot AnimatedSprite2D 时遇到的滑动、跳变与尺寸问题，以及对应的排查思路。"
+ },
+ "https://gamedev.net/blogs/entry/2298652-komok-devlog-adding-a-day-cycle-and-shadows-to-a-browser-game": {
+  "zh_title": "《Komok》开发日志：给浏览器游戏加昼夜循环与阴影",
+  "zh_oneliner": "多人浏览器游戏《Komok》的新版本加入了昼夜光照与阴影，作者聊了光线、音效与反馈打磨的取舍。"
+ },
+ "https://gamedev.net/forums/topic/720826-explore-verse-engine-by-ctruh": {
+  "zh_title": "Verse Engine：把 3D 作品一键发布成链接",
+  "zh_oneliner": "Verse Engine 能把编辑器里的 3D 场景一键发布成任意设备可打开的链接，适合快速分享作品与原型。"
+ },
+ "https://dev.to/s1ivker/why-clean-uiux-matters-when-playtesting-modded-game-launchers-5145": {
+  "zh_title": "测试改装游戏启动器时，干净的 UI/UX 为什么重要",
+  "zh_oneliner": "作者结合 Prism Launcher 等开源启动器的测试经验，聊了界面细节如何影响多版本游戏构建的测试效率。"
+ },
+ "https://dev.to/kelvaro/a-datastore-checklist-for-roblox-beginners-the-8-mistakes-that-wipe-player-data-1op1": {
+  "zh_title": "Roblox 新手 DataStore 清单：八个会清空玩家数据的错误",
+  "zh_oneliner": "一份面向 Roblox 初学者的存档检查清单，列出了八个最容易导致玩家数据丢失的 DataStore 用法错误。"
+ },
+ "https://dev.to/julianneagu/i-built-a-walkable-3d-space-station-to-replace-my-simulator-links-1ee3": {
+  "zh_title": "我做了一个可步行的 3D 空间站，用来替代模拟器链接列表",
+  "zh_oneliner": "作者把一堆教育模拟器放进浏览器里的可步行 3D 空间站，走到屏幕前就能打开，聊了这种呈现方式的取舍。"
+ },
+ "https://www.nintendolife.com/news/2026/11/professor-layton-and-the-new-world-of-steam-english-voice-cast-revealed": {
+  "zh_title": "《雷顿教授与蒸汽的新世界》英文配音阵容公布",
+  "zh_oneliner": "Level-5 公布了《雷顿教授与蒸汽的新世界》的英文配音阵容，确认为真人配音而非 AI 合成。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided": {
+  "zh_title": "美众议院委员会主席：下一任英伟达 CEO 须把国家安全放在首位",
+  "zh_oneliner": "美国国会相关委员会主席表态称英伟达下一任 CEO 必须优先考虑国家安全，芯片行业与游戏硬件供应链都值得留意。"
+ },
+ "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft": {
+  "zh_title": "安吉拉·桑塔尔巴诺谈《生化危机》电影，拿布莱恩类比格蕾丝",
+  "zh_oneliner": "演员安吉拉·桑塔尔巴诺聊了新《生化危机》电影的创作感受，并把角色布莱恩与游戏主角格蕾丝做了类比。"
+ },
+ "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo": {
+  "zh_title": "Xbox 负责人备忘录力挺生成式 AI：小团队也能做出过去需要数百人的世界",
+  "zh_oneliner": "Xbox 负责人 Asha Sharma 在庆祝 Xbox 25 周年的备忘录中表态支持生成式 AI 开发，称小团队也能做出过去需要数百人才能搭建的世界。"
  }
 }
