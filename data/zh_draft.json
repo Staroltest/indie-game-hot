@@ -4818,5 +4818,17 @@
  "http://www.chuapp.com/article/291752.html": {
   "zh_title": "游戏爆火后，离被AI抄袭只剩一星期",
   "zh_oneliner": "《翡翠刮刮刮》爆火后团队只剩约一周窗口期，市面上很快就会出现换皮盗版，独立开发者公开创意后如何自保成了现实问题。"
+ },
+ "https://dev.to/nickhu150/shipping-a-browser-game-as-a-static-site-and-why-game-portals-want-something-else-261p": {
+  "zh_title": "把浏览器游戏做成静态网站上线（以及游戏门户为何想要别的东西）",
+  "zh_oneliner": "一位开发者分享自己画赛道竞速游戏的静态站部署经验，并解释为何这套做法难以直接搬上游戏门户。"
+ },
+ "https://www.destructoid.com/all-season-11-battle-pass-skins-in-marvel-rivals-the-incursion": {
+  "zh_title": "《Marvel Rivals》第 11 赛季战斗通行证全部皮肤一览",
+  "zh_oneliner": "汇总新赛季通行证里的全部皮肤外观，给做通行证奖励设计的开发者作个参考。"
+ },
+ "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says": {
+  "zh_title": "Amy Hennig 的《Marvel 1943: Rise of Hydra》并未取消，Skydance 称仍在开发中",
+  "zh_oneliner": "针对取消传闻，Skydance 出面澄清这款漫威游戏仍在开发，并回顾了它一路以来的波折。"
  }
 }
