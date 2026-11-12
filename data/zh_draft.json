@@ -4702,5 +4702,25 @@
  "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo": {
   "zh_title": "Fredrik Wester 卸任 Paradox Interactive 首席执行官",
   "zh_oneliner": "Paradox Interactive 首席执行官 Fredrik Wester 将卸任，副首席执行官 Mattias Lilja 于 2027 年 1 月 4 日接任，留意这家策略游戏大厂的换帅动向。"
+ },
+ "https://www.gcores.com/radios/222255": {
+  "zh_title": "下班前闲聊网上冲浪，录音笔VOL.824",
+  "zh_oneliner": "机核办公室日常闲聊节目，记录下班前同事们的碎碎念与即兴吐槽。"
+ },
+ "https://www.gcores.com/articles/222264": {
+  "zh_title": "悬疑惊悚视觉小说游戏《审判官谢泼德》全新试玩版现已上线",
+  "zh_oneliner": "韩国团队 Narrowdeep 的悬疑视觉小说在 Steam 上线新试玩版，新增简体中文与日语配音，正式版计划 2027 年推出。"
+ },
+ "https://dev.to/kai_hui_46da6fdcab81c553c/building-a-browser-based-25d-microphone-reactive-pngtuber-pipeline-for-obs-studio-zero-local-koi": {
+  "zh_title": "为 OBS Studio 打造基于浏览器的 2.5D 麦克风响应式 PNGTuber 流程（零本地安装）",
+  "zh_oneliner": "用纯浏览器方案实现会眨眼、带表情切换的 2.5D 虚拟主播形象，无需本地安装即可接入 OBS，适合预算有限的新主播。"
+ },
+ "https://dev.to/cyberyogi/what-is-actually-free-for-ai-voice-music-and-sound-effects-in-2026-50bl": {
+  "zh_title": "2026 年 AI 配音、音乐与音效到底哪些是真正免费的",
+  "zh_oneliner": "盘点 2026 年可免费商用的 AI 配音、音乐与音效工具及各自的真实限制，帮独立开发者给游戏配音效时避开隐藏收费。"
+ },
+ "http://www.chuapp.com/article/291753.html": {
+  "zh_title": "对话在日从业者：腾讯”怪猎“手游为何在日本畅销榜登顶?",
+  "zh_oneliner": "腾讯天美与卡普空合作的《怪物猎人：旅人》上线半月稳居日本 iOS 畅销榜前五，触乐对话在日从业者聊它在日本的打法与玩家口味。"
  }
 }
