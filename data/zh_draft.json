@@ -4914,5 +4914,37 @@
  "https://dev.to/sergheipogor/ten-lines-of-ai-code-just-shook-the-indie-games-world-wheres-your-line-3klc": {
   "zh_title": "十行 AI 代码震动独立游戏界，你的底线在哪里？",
   "zh_oneliner": "House House 为在《Big Walk》中用 AI 建议修了一个 Unity 阴影性能问题而道歉，而 IGF 评委已表态拒投任何用过生成式 AI 的游戏——这场风波把「开发中到底能不能碰 AI」推到了每个独立开发者面前。"
+ },
+ "https://80.lv/articles/learn-to-build-procedural-game-environments-in-houdini": {
+  "zh_title": "用 Houdini 学做程序化游戏场景",
+  "zh_oneliner": "四小时工作坊讲解如何用 Houdini、ZBrush 与 Unreal Engine 的程序化流程搭建风格化奇幻场景。"
+ },
+ "http://www.chuapp.com/article/291747.html": {
+  "zh_title": "触乐夜话：迟到的秋天",
+  "zh_oneliner": "一篇关于南方迟来秋天、养鹦鹉日常与街边拼豆店倒闭的生活随笔。"
+ },
+ "https://dev.to/dimonb19a/kinewright-wheels-give-way-wait-never-cut-across-5gpj": {
+  "zh_title": "Kinewright 轮式机器人：让行、等待、绝不横穿",
+  "zh_oneliner": "第二代 Kinewright 引擎仅凭自身扫描感知移动物体，按设定数值减速、让行或等待，绝不横穿运动轨迹。"
+ },
+ "https://dev.to/cliffwang/how-to-generate-arrow-puzzles-7-algorithms-behind-procedural-level-generation-1p6h": {
+  "zh_title": "如何生成箭头谜题：程序化关卡生成背后的 7 种算法",
+  "zh_oneliner": "从逆向构造、图论到约束求解与演化算法，讲解如何自动生成可解、有趣且难度合适的箭头谜题关卡。"
+ },
+ "https://dev.to/xeroxislabz/our-game-font-had-no-turkish-letters-so-we-built-them-from-its-own-shapes-176o": {
+  "zh_title": "游戏字体缺土耳其字母，于是我们用它自己的笔画补上了",
+  "zh_oneliner": "Godot 游戏 Bombs Way 的展示字体缺少土耳其语字母，团队用字体原有笔画拼出缺失字符，补齐多语言支持。"
+ },
+ "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year": {
+  "zh_title": "《Vindictus: Defying Fate》明年登陆 PS5",
+  "zh_oneliner": "动作角色扮演新作《Vindictus: Defying Fate》正式宣布将于明年登陆 PS5。"
+ },
+ "https://www.destructoid.com/disney-dreamlight-valley-the-keepsake-sea-deluxe-edition-price-exclusive-bonus-rewards-and-more": {
+  "zh_title": "《迪士尼梦光谷》珍藏之海豪华版：价格、独占奖励一览",
+  "zh_oneliner": "整理《迪士尼梦光谷》珍藏之海豪华版的售价与独占奖励内容。"
+ },
+ "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down": {
+  "zh_title": "Paradox 首席执行官 Frederik Wester 将卸任",
+  "zh_oneliner": "执掌 Paradox 十余年的 Frederik Wester 宣布卸任，发行商近年历经《城市：天际线》与《群星》等作的动荡期。"
  }
 }
