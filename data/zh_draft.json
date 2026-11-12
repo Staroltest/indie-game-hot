@@ -4738,5 +4738,17 @@
  "https://www.destructoid.com/stand-out-trello-wiki-and-discord": {
   "zh_title": "《Stand Out》Trello、Wiki 与 Discord 汇总",
   "zh_oneliner": "Destructoid 汇总《Stand Out》的 Trello 看板、Wiki 与 Discord 入口，方便玩家查找最新资讯与社区资源。"
+ },
+ "https://80.lv/articles/despite-skydance-layoffs-marvel-1943-rise-of-hydra-is-reportedly-close-to-done": {
+  "zh_title": "尽管 Skydance 裁员，《Marvel 1943: Rise of Hydra》据称已“接近完成”",
+  "zh_oneliner": "针对取消传闻的澄清：Skydance 裁员并未波及该项目，游戏据称已接近完成，独立开发者可从中观察大厂动荡下项目的实际进展。"
+ },
+ "https://dev.to/basteez/wild-shift-devlog-2-its-always-the-semicolon-3nje": {
+  "zh_title": "Wild Shift 开发日志 #2：永远是分号的问题",
+  "zh_oneliner": "作者分享参加 GitHub Game Off 2026 的参赛作品进展：修掉两个真实 bug、加入会说话的鸭子和新寄存器机制，记录一款小型解谜游戏的迭代过程。"
+ },
+ "https://www.destructoid.com/kizuna-high-trello-wiki-and-discord": {
+  "zh_title": "Kizuna High 的 Trello、Wiki 与 Discord 入口汇总",
+  "zh_oneliner": "一篇玩家向的信息汇总，集中给出《Kizuna High》的 Trello、Wiki 和 Discord 入口，方便玩家查找攻略与社区。"
  }
 }
