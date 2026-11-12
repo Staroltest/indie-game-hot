@@ -4794,5 +4794,29 @@
  "https://dev.to/rory18439909614/how-i-built-a-spinning-schulte-table-game-3f3g": {
   "zh_title": "我如何做了一个旋转舒尔特方格小游戏",
   "zh_oneliner": "一篇开发手记，讲作者如何从刷到别人的周末小游戏开始，动手做了一个旋转舒尔特方格游戏，适合想快速做个小东西练手的开发者参考。"
+ },
+ "https://dev.to/dilippanicker/picking-daily-words-without-a-server-2al0": {
+  "zh_title": "不用服务器实现每日新词：Wordout 的日期哈希做法",
+  "zh_oneliner": "开发者用日期哈希从词库里取词，让这款 Wordle 式小游戏每天出三道新题，全程零后端。"
+ },
+ "https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief": {
+  "zh_title": "Tim Sweeney：赶走黄仁勋堪比苹果开除乔布斯，马斯克称很荣幸能挖他",
+  "zh_oneliner": "Epic 掌门人痛批换掉英伟达 CEO 的想法堪比苹果开除乔布斯，马斯克则表示很荣幸能请到黄仁勋。"
+ },
+ "https://80.lv/articles/what-is-the-eu-s-digital-fairness-act-what-it-means-for-games": {
+  "zh_title": "欧盟《数字公平法案》是什么，对游戏意味着什么",
+  "zh_oneliner": "80 Level 梳理欧盟《数字公平法案》草案对游戏的影响，虚拟货币定价、开箱与防沉迷机制都在监管范围里。"
+ },
+ "https://www.nintendolife.com/news/2026/11/danganronpa-creator-says-physical-game-production-is-reliant-on-day-one-patches": {
+  "zh_title": "弹丸论破制作人：实体版游戏生产已离不开首日补丁",
+  "zh_oneliner": "弹丸论破制作人坦言实体游戏如今几乎过不了平台认证，全靠首日补丁兜底。"
+ },
+ "https://www.gcores.com/articles/222271": {
+  "zh_title": "自动战斗Roguelite游戏《Othercrown》正式公布",
+  "zh_oneliner": "卡组构筑自动战斗 Roguelite《Othercrown》正式公布，玩家打造老虎机召唤怪物施法，2027 年第一季度发售。"
+ },
+ "http://www.chuapp.com/article/291752.html": {
+  "zh_title": "游戏爆火后，离被AI抄袭只剩一星期",
+  "zh_oneliner": "《翡翠刮刮刮》爆火后团队只剩约一周窗口期，市面上很快就会出现换皮盗版，独立开发者公开创意后如何自保成了现实问题。"
  }
 }
