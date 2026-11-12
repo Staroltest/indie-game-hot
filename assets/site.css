@@ -317,6 +317,11 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-4)}
 .foot p{margin:0 0 8px}
 @media(max-width:699px){.foot{padding-bottom:8px}}
+.tip{margin-top:20px;padding-top:16px;border-top:1px dashed var(--line);text-align:center}
+.tip-title{font-size:13px;color:var(--ink-3)}
+.tip-qr{width:150px;height:150px;border-radius:8px;background:#fff}
+.tip-label{font-size:13px;color:var(--ink-3)}
+.tip-addr{font-size:12px;color:var(--ink-4);word-break:break-all;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 /* 回到顶部：圆按钮，滚过一屏多再出现（仅桌面） */
 .to-top{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));
   z-index:30;display:none;width:44px;height:44px;align-items:center;justify-content:center;

@@ -4982,5 +4982,41 @@
  "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month": {
   "zh_title": "治愈系火车模拟游戏《Station to Station》本月晚些时候登陆 Switch 2",
   "zh_oneliner": "治愈系火车模拟游戏《Station to Station》将于本月晚些时候登陆 Switch 2，开发者可留意这类轻松建造模拟游戏向主机平台的移植节奏。"
+ },
+ "https://80.lv/articles/what-are-the-biggest-legal-questions-facing-game-developers": {
+  "zh_title": "游戏开发者最关心的法律问题有哪些？",
+  "zh_oneliner": "Xsolla 发起问卷征集开发者最常见的法律困惑，收集到的问题将在后续播客与文章中逐一解答，关心合同与合规的团队可以参与。"
+ },
+ "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek": {
+  "zh_title": "《巫师 3》用生成式 AI 修复杰洛特波兰语配音",
+  "zh_oneliner": "CD Projekt Red 在配音演员中风后用生成式 AI 处理其波兰语台词，展示了 AI 在尊重演员的前提下延续角色声音的一种做法。"
+ },
+ "https://www.eurogamer.net/dark-souls-2-3-servers-back-online": {
+  "zh_title": "《黑暗之魂 2》《黑暗之魂 3》联机服务器恢复",
+  "zh_oneliner": "FromSoftware 修复了持续近两周的多人服务器故障，两款老游戏的线上联机重新可用，老游戏长线运维值得参考。"
+ },
+ "https://80.lv/articles/tencent-launches-ai-gaming-companions-that-watch-you-play-offer-advice": {
+  "zh_title": "腾讯推出能看你玩游戏并给出建议的 AI 伙伴",
+  "zh_oneliner": "腾讯发布四款 AI 游戏陪伴角色，可在游玩过程中观察并提供建议，反映了 AI 助手向游戏场景渗透的新动向。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia": {
+  "zh_title": "黄仁勋辞任英伟达 CEO，CFO 暂代",
+  "zh_oneliner": "英伟达联合创始人黄仁勋辞职，首席财务官 Colette Kress 出任临时 CEO，显卡与 AI 芯片行业的格局或将生变。"
+ },
+ "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-draws-a-line-in-the-sand-when-it-comes-to-using-mods-and-configs-to-get-an-unfair-combat-advantage-but-that-doesnt-help-players-looking-for-a-stutter-fix": {
+  "zh_title": "《漫威争锋》严打改配置获利，但卡顿问题仍无解",
+  "zh_oneliner": "官方明确禁止用 Mod 与配置文件获取战斗优势，同时承诺推出优化客户端缓解卡顿，提醒开发者关注反作弊与性能优化的平衡。"
+ },
+ "https://www.destructoid.com/nvidia-ceo-resigns-amid-infidelity-scandal-chinese-spy-accusations": {
+  "zh_title": "英伟达 CEO 辞职，涉婚外情丑闻与间谍指控",
+  "zh_oneliner": "Destructoid 报道英伟达 CEO 辞职并牵涉婚外情与间谍指控，消息尚未经官方证实，芯片行业的高层变动值得持续关注。"
+ },
+ "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty": {
+  "zh_title": "德国游戏行业协会警告《数字公平法案》或致双重监管与法律不确定性",
+  "zh_oneliner": "德国游戏行业协会批评《数字公平法案》可能造成双重监管与法律不确定性，提醒在欧洲发行游戏的团队留意合规成本的变化。"
+ },
+ "https://www.indiedb.com/games/mars-sweepers/news/mars-sweepers-v03-is-out-urp-17-terraforming-the-orbital-patrol-arcade-and-a-living-base2": {
+  "zh_title": "《Mars Sweepers》v0.3 发布：URP 17、地形改造与轨道巡逻街机",
+  "zh_oneliner": "独立游戏《Mars Sweepers》推出 v0.3 版本，升级至 URP 17 渲染管线并加入可见的地形改造、生活化基地与可玩街机，适合参考中小团队的版本迭代节奏。"
  }
 }

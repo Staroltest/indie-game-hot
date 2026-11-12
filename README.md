@@ -91,3 +91,11 @@ GDC（404）。以后环境或地址变了可再测再加。
 ## 许可
 
 MIT License，Copyright (c) 2026 Camille (IndieHOT)。见 [LICENSE](LICENSE)。
+
+## 赞赏支持
+
+如果 IndieHOT 对你有帮助，可以扫码赞赏：
+
+<img src="assets/tip-usdt.png" alt="赞赏码：USDT TRC20" width="200">
+
+USDT · TRC20：`TBH8fAi6Vbr9G4VW3PDm3DugZU6fknr6na`

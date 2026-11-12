@@ -678,6 +678,11 @@ button.chip:hover{color:var(--accent);border-color:var(--line-strong)}
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-4)}
 .foot p{margin:0 0 8px}
 @media(max-width:699px){.foot{padding-bottom:8px}}
+.tip{margin-top:20px;padding-top:16px;border-top:1px dashed var(--line);text-align:center}
+.tip-title{font-size:13px;color:var(--ink-3)}
+.tip-qr{width:150px;height:150px;border-radius:8px;background:#fff}
+.tip-label{font-size:13px;color:var(--ink-3)}
+.tip-addr{font-size:12px;color:var(--ink-4);word-break:break-all;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 /* 回到顶部：圆按钮，滚过一屏多再出现（仅桌面） */
 .to-top{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));
   z-index:30;display:none;width:44px;height:44px;align-items:center;justify-content:center;
@@ -2059,7 +2064,11 @@ def footer_html(base=""):
             f'<a href="{base}more.html">我的</a>'
             f'<a href="{base}about.html">关于</a>'
             f'<a href="{base}terms.html">条款</a>'
-            f'<a href="{base}privacy.html">隐私</a></nav></footer>')
+            f'<a href="{base}privacy.html">隐私</a></nav>'
+            f'<div class="tip"><p class="tip-title">赞赏支持</p>'
+            f'<img class="tip-qr" src="{base}assets/tip-usdt.png" alt="赞赏码：USDT TRC20" width="150" height="150">'
+            f'<p class="tip-label">USDT · TRC20</p>'
+            f'<p class="tip-addr">TBH8fAi6Vbr9G4VW3PDm3DugZU6fknr6na</p></div></footer>')
 
 
 def page_open(site, active, title, description, prefix="", base="", canonical="",
