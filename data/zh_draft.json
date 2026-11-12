@@ -5298,5 +5298,49 @@
  "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now": {
   "zh_title": "现在《GTA 5》里人人都是富兰克林",
   "zh_oneliner": "一则轻松的玩家向趣闻：如今的《GTA 5》线上世界里，富兰克林成了人人都在扮演的角色。"
+ },
+ "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-": {
+  "zh_title": "用生成式 AI 的开发者称，主要用它做“调研与头脑风暴”",
+  "zh_oneliner": "调查显示，使用生成式 AI 的从业者最常用它做调研和头脑风暴，AI 写代码只排第三。"
+ },
+ "https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month": {
+  "zh_title": "《战锤 40K：暗潮》下个职业是修女见习生，下月上线",
+  "zh_oneliner": "《暗潮》下月推出新职业修女见习生，一群为神皇而战的狂热战士。"
+ },
+ "https://gamedev.net/blogs/entry/2298654-airships-airplanes-and-the-world-behind-briarglen": {
+  "zh_title": "飞艇、飞机与《荆棘谷》背后的世界",
+  "zh_oneliner": "开发者聊了聊《Briarglen》的世界观灵感：飞艇如何塑造了这个世界的样貌与氛围。"
+ },
+ "https://gamedev.net/forums/topic/720652-unityc-hobby-looking-for-gameplay-programmer-sleep-break-2d-horror-game": {
+  "zh_title": "【Unity/C#】【业余】招玩法程序员：《Sleep Break》（2D 恐怖游戏）",
+  "zh_oneliner": "2D 像素风动作恐怖游戏《Sleep Break》团队招募一名 Unity/C# 玩法程序员。"
+ },
+ "https://gamefromscratch.com/xogot-3d-modeler-level-tool-for-godot": {
+  "zh_title": "Xogot：面向 Godot 的 3D 建模与关卡工具",
+  "zh_oneliner": "Xogot 建模器推出测试版，把 3D 建模与关卡编辑功能带进 Godot，支持 Linux 与 Windows。"
+ },
+ "https://dev.to/orellanaed/opus-55-vs-gpt-61-sol-can-ai-build-a-save-system-2amj": {
+  "zh_title": "Opus 5.5 对 GPT-6.1 Sol：AI 能给游戏做存档系统吗？",
+  "zh_oneliner": "给 Claude Opus 5.5 与 GPT-6.1 Sol 同一款现成的 Godot 游戏，看谁能正确做出存档与读档功能。"
+ },
+ "https://dev.to/orellanaed/claude-haiku-55-can-the-cheapest-claude-build-celestes-jump-30mh": {
+  "zh_title": "Claude Haiku 5.5：最便宜的 Claude 能复刻《蔚蓝》的跳跃手感吗？",
+  "zh_oneliner": "用最便宜的 Claude 模型挑战复刻《Celeste》的跳跃手感：可变跳跃高度、土狼时间等六个要点能否一次做对。"
+ },
+ "https://www.destructoid.com/best-players-for-fc-27-streets-wont-forget-evolution": {
+  "zh_title": "FC 27“街头难忘”进化最佳球员推荐",
+  "zh_oneliner": "盘点 FC 27“Streets Won't Forget”进化里最值得培养的球员。"
+ },
+ "https://www.destructoid.com/xbox-playback-25th-anniversary-showcasing-gaming-history": {
+  "zh_title": "Xbox Playback 回顾 25 年：晒出你的个人游戏史",
+  "zh_oneliner": "Xbox 25 周年推出 Playback 回顾活动，展示每位玩家的个人游戏历程。"
+ },
+ "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations": {
+  "zh_title": "Xbox 掌门人展望未来：微软主机迎来 25 周年",
+  "zh_oneliner": "Xbox 负责人 Asha Sharma 在主机 25 周年之际谈未来：一个人很快就能拥有过去整个国家才具备的能力。"
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendos-delightful-my-mario-range-is-now-available-online": {
+  "zh_title": "任天堂“My Mario”系列周边现已在线发售",
+  "zh_oneliner": "任天堂可爱的“My Mario”系列周边现已上线开售。"
  }
 }
