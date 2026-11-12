@@ -4678,5 +4678,29 @@
  "https://dev.to/remojansen/the-gaming-industry-is-doomed-i2d": {
   "zh_title": "游戏行业正在走向末路",
   "zh_oneliner": "作者认为模拟器、原生重编译与 AI 逆向正在瓦解封闭平台的技术壁垒，独立开发者可从中看到平台格局松动带来的机会与风险。"
+ },
+ "https://80.lv/articles/former-id-software-developers-launch-new-studio-after-xbox-layoffs": {
+  "zh_title": "前 id Software 开发者在 Xbox 裁员后成立新工作室",
+  "zh_oneliner": "被 Xbox 裁员的前 id Software 成员组建新工作室 Hidden Horses，首作是一款单人 FPS，值得关注老牌射击游戏团队的去向。"
+ },
+ "https://www.gcores.com/articles/222262": {
+  "zh_title": "NS2版《暗喻幻想：ReFantazio》今日发售",
+  "zh_oneliner": "《暗喻幻想：ReFantazio》登陆 Switch 2，掌机与 TV 模式均可切换性能、均衡、画质三档，移植优化的做法值得参考。"
+ },
+ "https://www.gcores.com/articles/222261": {
+  "zh_title": "《战狗》第三赛季将于11.12晚上线",
+  "zh_oneliner": "《战狗》第三赛季今晚上线，新增首张城市地图与慈善 DLC，收益全数捐给男性健康公益组织。"
+ },
+ "https://www.gcores.com/articles/222260": {
+  "zh_title": "Pearl Abyss《红色沙漠：增强版》斩获2026年金摇杆奖“年度PC游戏”",
+  "zh_oneliner": "《红色沙漠：增强版》拿下金摇杆奖年度 PC 游戏，奖项与口碑双收的发行案例值得复盘。"
+ },
+ "https://www.indiedb.com/games/night-nabbers/news/night-nabbers-free-3d-raccoon-heist-in-the-browser-threejs-shared-deterministic-sim": {
+  "zh_title": "《Night Nabbers》：浏览器里免费玩的 3D 浣熊劫案潜行游戏",
+  "zh_oneliner": "免费的浏览器 3D 潜行小游戏，扮演浣熊躲过看门狗偷蛋孵伙伴，浏览器与 Cloudflare 共用同一套 30Hz 确定性模拟，网页游戏同步架构值得参考。"
+ },
+ "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo": {
+  "zh_title": "Fredrik Wester 卸任 Paradox Interactive 首席执行官",
+  "zh_oneliner": "Paradox Interactive 首席执行官 Fredrik Wester 将卸任，副首席执行官 Mattias Lilja 于 2027 年 1 月 4 日接任，留意这家策略游戏大厂的换帅动向。"
  }
 }
