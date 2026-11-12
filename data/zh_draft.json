@@ -4910,5 +4910,9 @@
  "https://80.lv/articles/check-out-this-roguelike-deckbuilder-where-you-cheat-at-poker": {
   "zh_title": "来看看这款能靠出千打牌的 Roguelike 构筑游戏",
   "zh_oneliner": "《The Devil's Due》已在 Steam 发售，玩家在与怪物对战的扑克局里靠出千取胜，给做卡牌构筑的开发者提供一个玩法点子。"
+ },
+ "https://dev.to/sergheipogor/ten-lines-of-ai-code-just-shook-the-indie-games-world-wheres-your-line-3klc": {
+  "zh_title": "十行 AI 代码震动独立游戏界，你的底线在哪里？",
+  "zh_oneliner": "House House 为在《Big Walk》中用 AI 建议修了一个 Unity 阴影性能问题而道歉，而 IGF 评委已表态拒投任何用过生成式 AI 的游戏——这场风波把「开发中到底能不能碰 AI」推到了每个独立开发者面前。"
  }
 }
