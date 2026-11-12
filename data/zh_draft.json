@@ -5342,5 +5342,33 @@
  "https://www.nintendolife.com/news/2026/11/nintendos-delightful-my-mario-range-is-now-available-online": {
   "zh_title": "任天堂“My Mario”系列周边现已在线发售",
   "zh_oneliner": "任天堂可爱的“My Mario”系列周边现已上线开售。"
+ },
+ "https://www.indiedb.com/games/gravediggers/news/november-pawtch-v023-smarter-minions-the-paw-swipe-and-a-big-multiplayer-cleanup": {
+  "zh_title": "《GraveDiggers》十一月更新 v0.2.3：更聪明的仆从、爪击与多人联机大清理",
+  "zh_oneliner": "六只猫联机合作埋葬的游戏迎来免费试玩新版本，仆从 AI 会看会听还会害怕，多人联机也做了大清理，值得看看小团队如何迭代联机合作玩法。"
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/how-to-build-60-fps-2d-particle-explosions-in-10-lines-of-vanilla-js-with-ai-prompt-nj3": {
+  "zh_title": "用 10 行原生 JS 写出 60 帧 2D 粒子爆炸（含 AI 提示词）",
+  "zh_oneliner": "教你用扁平数组加一句提示词让 AI 写出不触发垃圾回收卡顿的粒子爆炸，适合想给网页小游戏加打击感的开发者。"
+ },
+ "https://dev.to/nesimrazon/how-we-build-pentomino-levels-with-dancing-links-153h": {
+  "zh_title": "我们如何用 Dancing Links 算法生成五格骨牌关卡",
+  "zh_oneliner": "介绍了《Pentolings》如何用精确覆盖算法保证 150 个关卡都有解且随时能给提示，关卡设计者可以参考这套生成思路。"
+ },
+ "https://dev.to/nesimrazon/mahjong-solitaire-history-and-how-it-differs-from-mahjong-4ln5": {
+  "zh_title": "麻将接龙的历史，以及它和麻将的区别",
+  "zh_oneliner": "讲清了单人麻将接龙与四人麻将的渊源与玩法差异，做休闲益智游戏的开发者可以借此理解这类玩法的受众。"
+ },
+ "https://dev.to/nesimrazon/how-hundreds-of-puzzle-levels-are-generated-and-checked-18gj": {
+  "zh_title": "数百个解谜关卡如何自动生成并验证可解",
+  "zh_oneliner": "分享了用程序批量生成关卡再逐一证明可解的工作流，避免出现无解关卡毁掉玩家信任，适合关卡量大的益智游戏团队。"
+ },
+ "https://dev.to/nesimrazon/how-a-daily-puzzle-can-be-the-same-for-everyone-no-server-1gji": {
+  "zh_title": "不用服务器，如何让每日谜题对所有人都一样",
+  "zh_oneliner": "介绍了用确定性种子在本地生成全服一致的每日谜题，省去服务器成本，做每日挑战玩法的独立开发者可以直接借鉴。"
+ },
+ "https://dev.to/nesimrazon/how-we-guarantee-a-mahjong-solitaire-board-is-solvable-flm": {
+  "zh_title": "我们如何保证每一局麻将接龙都有解",
+  "zh_oneliner": "讲了《Tilelings》在发牌阶段就保证牌局可解的做法，提醒益智游戏开发者把可解性做进生成环节而不是事后补救。"
  }
 }
