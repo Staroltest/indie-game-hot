@@ -5478,5 +5478,37 @@
  "https://news.xbox.com/en-us/2026/11/12/candy-crush-saga-game-on-halo-fallout-sea-of-thieves-xbox-25": {
   "zh_title": "《Candy Crush Saga》联动 Halo、Fallout 等 IP 庆祝 Xbox 25 周年",
   "zh_oneliner": "Xbox 25 周年联动登陆《Candy Crush Saga》，Halo、Fallout 等经典 IP 化身四周限时收集活动，值得关注 IP 联动的开发者看看。"
+ },
+ "https://gamedev.net/blogs/entry/2298634-system-object-with-dynamic-architecture-faster-development": {
+  "zh_title": "动态架构的系统对象：让开发更快",
+  "zh_oneliner": "Scrut.Hut 工作室分享了一套运行时可配置的系统对象接口，用统一的开发库模式帮开发者少写重复代码、加快开发。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches": {
+  "zh_title": "Pocketpair 给员工放 5 天假去“罪恶都市出差”，只为等 GTA 6 发售",
+  "zh_oneliner": "《幻兽帕鲁》开发商 Pocketpair 宣布 GTA 6 发售时给全员放 5 天假，美其名曰去罪恶都市出差，独立团队的幽默福利。"
+ },
+ "https://www.indiedb.com/games/dominus-manager/news/devlog-1-sewers-bribes-the-roman-tabulae-roster-overhaul": {
+  "zh_title": "开发日志 #1：下水道、贿赂与罗马蜡板阵容大改",
+  "zh_oneliner": "《Dominus Manager》首篇开发日志详解黑市交易、赛前破坏玩法和全新的罗马蜡板界面，并预告将在 Steam 新品节推出试玩。"
+ },
+ "https://www.indiedb.com/games/kid-soldier-pc-advance-4/news/kid-soldier-pc-advance-4-maine-tavern-gameplay-showcase": {
+  "zh_title": "《Kid Soldier PC advance 4》缅因酒馆实机演示",
+  "zh_oneliner": "《Kid Soldier PC advance 4》放出新角色缅因酒馆的完整实机演示，展示这位缅因猫老兵的全部玩法机制。"
+ },
+ "https://www.indiedb.com/games/euro-truck-simulator-2/news/coaches-dlc-out-now": {
+  "zh_title": "《欧洲卡车模拟 2》客车 DLC 现已发售",
+  "zh_oneliner": "《欧洲卡车模拟 2》的客车 DLC 正式上线，玩家可以开上客车载客上路，车门已开、引擎已发动。"
+ },
+ "https://www.indiedb.com/games/kuroshio-neon-blood/news/kuroshio-neon-blood-launch-trailer-and-new-screenshots": {
+  "zh_title": "《黑潮：霓虹之血》发售预告与新截图",
+  "zh_oneliner": "《KUROSHIO: Neon Blood》发布发售预告并公开新截图，展示新桥、朧山、云井与虹丘游乐园等场景。"
+ },
+ "https://www.indiedb.com/games/drive-up-together/news/71-new-cars-hood-cam-per-car-assists": {
+  "zh_title": "《Drive Up Together》更新：71 辆新车、引擎盖视角与单车辅助",
+  "zh_oneliner": "《Drive Up Together》0.1.3 更新扩充车库 71 辆新车，从小钢炮到 6×6 怪兽，并加入引擎盖视角与按车设置的辅助功能。"
+ },
+ "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable": {
+  "zh_title": "新 4 分钟《神鬼寓言》实机预告：看着不太像《神鬼寓言》",
+  "zh_oneliner": "新出的 4 分钟《神鬼寓言》实机预告引发讨论：这部新作看起来和系列前作不太一样。"
  }
 }
