@@ -6098,5 +6098,37 @@
  "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam": {
   "zh_title": "QSSR 超分登陆《漫威蜘蛛侠 2》等五款游戏",
   "zh_oneliner": "索尼的 AI 超分技术 QSSR 扩展到更多 PS5 游戏，开发者可借此在不牺牲画质的前提下提升帧率表现。"
+ },
+ "https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games": {
+  "zh_title": "Origame Digital 如何借洛夫克拉夫特讲三部曲“本质上本土”的反法西斯游戏",
+  "zh_oneliner": "墨尔本工作室 Origame Digital 让一只跳岩企鹅走进洛夫克拉夫特式古城，把殖民者建立的现代城市拍成宇宙恐怖遗迹，三部曲讲的是本土视角下的反法西斯故事。"
+ },
+ "https://dev.to/babylone01/building-tarot-gothique-2026-a-gothic-french-tarot-card-game-as-a-mobile-app-3nla": {
+  "zh_title": "打造 Tarot Gothique 2026：一款哥特风法式塔罗牌手游",
+  "zh_oneliner": "作者用 Flutter 做了一款哥特风法式塔罗牌手游，同一套代码适配手机竖屏与平板横屏，3D 主界面与自适应 AI 对手都是边做边总结的经验。"
+ },
+ "https://dev.to/chromaticpact/7-best-free-tactical-card-games-you-can-play-in-your-browser-no-download-zero-pay-to-win-e2f": {
+  "zh_title": "7 款免费战术卡牌游戏，浏览器即开即玩、零氪也能玩",
+  "zh_oneliner": "不用下载十几 GB 客户端、不用抽卡氪金，这 7 款浏览器战术卡牌游戏靠真实站位深度和公平免费进度撑起可玩性，值得卡牌开发者参考。"
+ },
+ "https://dev.to/mejzun/your-game-backlog-is-not-a-to-do-list-stop-treating-it-like-one-53c5": {
+  "zh_title": "你的游戏积压清单不是待办事项，别再这样对待它",
+  "zh_oneliner": "129 份真实积压清单的数据显示，84% 的游戏永远停在“待办”里，清单真正的作用是菜单、备忘和愿望单，而不是等着被清零的任务队列。"
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/rewarding-study-time-without-punishing-short-sessions-the-shell-rules-in-a-windows-focus-app-3563": {
+  "zh_title": "奖励学习时间又不惩罚短时专注：一款 Windows 专注应用的贝壳规则",
+  "zh_oneliner": "免费专注应用 SeaSweep 用“每分钟 1 贝壳、45 分钟以上加 25%”的简单规则激励学习，短时段也算数，规则虽少却都是有意取舍的动机设计。"
+ },
+ "https://dev.to/melissa_isimbi_e02867c07d/i-played-three-mobile-games-to-find-the-math-hiding-inside-them-1eb9": {
+  "zh_title": "我玩了三款手游，找到了藏在里面的数学",
+  "zh_oneliner": "作者以开发者视角拆解《地铁跑酷》等三款手游，指出跳跃、镜头与计分背后都是距离、向量与插值等数学概念在起作用。"
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/45-browser-games-tagged-adventure-34-studios-10-categories-what-the-tag-actually-tells-a-player-2547": {
+  "zh_title": "45 款标“冒险”的浏览器游戏、34 家工作室：标签到底告诉了玩家什么",
+  "zh_oneliner": "统计 45 款浏览器冒险游戏后发现，“冒险”标签本身几乎没说明玩法，真正起作用的是其他标签、一句核心循环和一行操作说明。"
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/nine-notes-one-flashlight-three-keys-the-design-loop-of-a-browser-horror-game-411d": {
+  "zh_title": "九张纸条、一支手电、三把钥匙：一款浏览器恐怖游戏的设计循环",
+  "zh_oneliner": "免费浏览器恐怖游戏《The Tall Man》只用九张纸条、一个倒计时实体、手电电量与三键操作就撑起紧张感，是小体量网页恐怖游戏值得抄的设计范式。"
  }
 }
