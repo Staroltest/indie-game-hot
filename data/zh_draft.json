@@ -5698,5 +5698,33 @@
  "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back": {
   "zh_title": "塞尔达时之笛重制版里食尸鬼本打算“非常非常吓人”，任天堂最终决定收着点",
   "zh_oneliner": "制作人透露重制团队一度把食尸鬼做得过于恐怖，最后还是调低了惊吓程度——聊聊经典怪物在重制中如何把握尺度。"
+ },
+ "https://indienova.com/indie-game-news/guide-2026-1109-1115-part-5": {
+  "zh_title": "本周 Steam 值得关注的游戏 11.09 - 11.15（五）",
+  "zh_oneliner": "本周 Steam 新游发行清单第五部分，汇总即将上架的独立游戏与发售信息，方便开发者留意同期竞品与市场动向。"
+ },
+ "https://www.gcores.com/articles/222299": {
+  "zh_title": "《巴士模拟器 27》免费更新加入两款比亚迪授权电动巴士",
+  "zh_oneliner": "《巴士模拟器 27》免费更新加入两款比亚迪授权电动巴士，关注品牌授权合作与车辆内容更新的发行案例。"
+ },
+ "https://dev.to/nesimrazon/tic-tac-toe-a-solved-game-an-early-computer-and-its-variants-4bg7": {
+  "zh_title": "井字棋：一款已被解开的游戏、早期计算机与它的变体",
+  "zh_oneliner": "从井字棋讲起，回顾早期计算机如何下棋，以及这个已被完全解开的小游戏衍生出的种种变体。"
+ },
+ "https://dev.to/nesimrazon/pentominoes-the-story-of-the-12-pieces-and-golomb-4kg6": {
+  "zh_title": "五格骨牌：12 块拼板与戈洛姆的故事",
+  "zh_oneliner": "五格骨牌只有 12 种拼法，却启发了无数解谜设计，本文讲它的来历与背后的数学趣味。"
+ },
+ "https://dev.to/nesimrazon/game-feel-in-jetpack-compose-without-a-game-engine-4o70": {
+  "zh_title": "不用游戏引擎，在 Jetpack Compose 里做游戏手感",
+  "zh_oneliner": "以方块消除小游戏为例，讲如何在 Jetpack Compose 里只靠动画、音效与震动做出扎实的游戏反馈。"
+ },
+ "https://dev.to/night_gamestudio_f4b1a01/has-anyone-published-a-browser-game-on-pikiplay-fb2": {
+  "zh_title": "有人在 PikiPlay 上发布过网页游戏吗？",
+  "zh_oneliner": "一位开发者询问在 PikiPlay 发布网页游戏的流程，是直接提交还是走发行合作，适合想尝试新平台的独立开发者参考。"
+ },
+ "https://dev.to/wordlegion/drawing-a-whole-game-in-code-no-sprites-4e68": {
+  "zh_title": "用代码画一整个游戏：不用任何贴图",
+  "zh_oneliner": "这款文字游戏的全部画面都由代码实时绘制，作者分享了无贴图渲染的实现思路。"
  }
 }
