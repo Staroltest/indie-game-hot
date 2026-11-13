@@ -5862,5 +5862,41 @@
  "https://dev.to/khazp/i-built-a-racing-sim-that-runs-in-a-browser-tab-4n71": {
   "zh_title": "我做了一个能在浏览器标签页里跑的赛车模拟游戏",
   "zh_oneliner": "开源浏览器赛车模拟游戏 LibreCorsa 点开链接就能玩，内置十余条赛道与多种车型，500Hz 固定步长物理让不同刷新率的屏幕跑出一致手感。"
+ },
+ "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon": {
+  "zh_title": "MapleStory 系列第三季度收入增长 72%，带动 Nexon 整体增长",
+  "zh_oneliner": "老牌 IP 靠长线运营持续赚钱的案例，做持续运营型产品的独立开发者可以参考它的打法。"
+ },
+ "https://80.lv/articles/gdc-2026-survey-55-of-developers-consider-ai-s-impact-on-games-negative": {
+  "zh_title": "GDC 2026 调查：55% 的开发者认为 AI 对游戏的影响是负面的",
+  "zh_oneliner": "超过 2300 名从业者参与的年度调查，呈现了行业对 AI、裁员与平台选择的真实态度。"
+ },
+ "https://www.yystv.cn/p/14623": {
+  "zh_title": "为什么说 1.0 版本是入坑《流放之路：降临》的最佳时期？",
+  "zh_oneliner": "从玩法深度与刷宝节奏聊《流放之路2》1.0 正式版，适合想研究长线养成设计的开发者看看。"
+ },
+ "https://www.yystv.cn/p/14622": {
+  "zh_title": "《影之刃零》获得金摇杆大奖第二名，但魂大人已经创造了奇迹",
+  "zh_oneliner": "国产动作游戏在金摇杆仅以 1% 票差惜败年度大奖，聊聊它走到这一步靠的是什么。"
+ },
+ "https://dev.to/basteez/wild-shift-devlog-3-sigsegv-incoming-l4h": {
+  "zh_title": "Wild Shift 开发日志 #3：SIGSEGV 来袭",
+  "zh_oneliner": "一位开发者记录自己为 GitHub Game Off 2026 赶工参赛作品的过程，第三期讲到新 Boss 与崩溃排查。"
+ },
+ "https://www.destructoid.com/stand-out-tier-list": {
+  "zh_title": "《Ultimate Stand Out》替身强度榜 [发布]",
+  "zh_oneliner": "一份面向玩家的替身强度排行，罗列了 PvP 与 PvE 场景下的强势选择。"
+ },
+ "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach": {
+  "zh_title": "《GTA 6》会挤爆互联网吗？英国宽带运营商已严阵以待",
+  "zh_oneliner": "预购纪录不断刷新之际，运营商提前为发售周的流量高峰做准备，侧面反映这款大作的热度量级。"
+ },
+ "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode": {
+  "zh_title": "《Halo: Campaign Evolved》今冬免费加入四人合作 Firefight 模式",
+  "zh_oneliner": "经典 PvE 模式回归重制版，四人合作玩法免费更新，聊聊老 IP 如何用新内容留住玩家。"
+ },
+ "https://www.yystv.cn/p/14624": {
+  "zh_title": "我玩到了战锤味最正的“幸存者like”",
+  "zh_oneliner": "《战锤幸存者》把桌游世界观装进吸血鬼幸存者式的肉鸽玩法，聊聊这种热门玩法换皮为何总能吸引玩家。"
  }
 }
