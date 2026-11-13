@@ -5598,5 +5598,53 @@
  "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames": {
   "zh_title": "MachineGames 正在开发《德军总部 3》",
   "zh_oneliner": "MachineGames 确认正在制作《德军总部 3》，系列主角回归，值得关注后续玩法与发售消息。"
+ },
+ "https://gamedev.net/forums/topic/720832-im-a-young-indie-developer-of-a-rhythym-game-who-needs-someone-to-make-music-for-me-need-someone-to-colab-with-but-i-dont-have-any-money-to-hire-someone": {
+  "zh_title": "年轻独立开发者为节奏游戏寻音乐合作者：没钱雇人，求无偿协作",
+  "zh_oneliner": "一位年轻的节奏游戏开发者想尽快发布游戏，正在寻找愿意无偿合作、帮忙制作可玩曲目的音乐人。"
+ },
+ "https://gamedev.net/forums/topic/720831-rase-grotte-a-tight-helicopter-in-caves-game-16-worlds-android-free": {
+  "zh_title": "《Rase-Grotte》：洞穴直升机小游戏，16 个世界，安卓免费",
+  "zh_oneliner": "小团队 Hoplette 的首款作品，用“按住上升、松开俯冲”一条规则做出 16 个洞穴世界，操作紧凑、免费上架安卓。"
+ },
+ "https://gamedev.net/forums/topic/720828-headspace-os-a-browser-playable-story-world-looking-for-playtesters-through-dec-15": {
+  "zh_title": "《Headspace OS》：浏览器可玩的故事世界，招募试玩者（截至 12 月 15 日）",
+  "zh_oneliner": "一款在浏览器里直接玩的故事驱动作品，融合插画叙事与“心智操作系统”概念，作者 Erik 正在招募试玩反馈。"
+ },
+ "https://www.gcores.com/articles/222288": {
+  "zh_title": "打造星际工业帝国：太空工厂建造游戏《主星序》今日开启Steam抢先体验",
+  "zh_oneliner": "第一人称太空工厂建造游戏《主星序》今日登陆 Steam 开启抢先体验，玩家从一艘采矿船起步，逐步建立跨星系工业帝国。"
+ },
+ "https://www.gcores.com/articles/222286": {
+  "zh_title": "温馨治愈的放置收集游戏《Bottled by Bears》现已登陆Steam",
+  "zh_oneliner": "西班牙团队 Monoii 的治愈系放置收集游戏《Bottled by Bears》已上架 Steam，经营蜂蜜农场、收集蜜蜂卡包，首发七五折。"
+ },
+ "https://www.gcores.com/articles/222285": {
+  "zh_title": "阿莎·沙尔玛发布员工信，共庆Xbox25周年",
+  "zh_oneliner": "Xbox 新任负责人阿莎·沙尔玛在 25 周年员工信中谈到研发成本与风险压力，并认为 AI 正在让小团队获得更大的创作能力。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606252": {
+  "zh_title": "“双11”一飞冲天，米哈游怎么就杀疯了？",
+  "zh_oneliner": "《崩坏：星穹铁道》4.7 版本于双十一上线后冲上国内 iOS 总榜第一，文章拆解了米哈游这次爆发背后的打法。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606250": {
+  "zh_title": "NIKKE开发商收入利润双下滑，旗舰二游《Project Spirits》决定今年不露脸",
+  "zh_oneliner": "Shift Up 公布三季度财报，收入利润双双下滑，旗舰新作《Project Spirits》确定今年不再亮相。"
+ },
+ "https://dev.to/thiagolongom/what-would-a-daily-text-puzzle-cost-if-an-llm-wrote-every-prompt-a-back-of-envelope-model-ej4": {
+  "zh_title": "如果每天的文字谜题提示都由大语言模型来写，成本是多少？一份粗算模型",
+  "zh_oneliner": "作者用粗算模型对比了两种方案的成本：每天生成一次，还是每位玩家生成一次，帮小游戏开发者判断 LLM 生成内容到底贵不贵。"
+ },
+ "https://dev.to/thiagolongom/should-a-daily-puzzle-tell-you-how-close-you-were-or-only-whether-you-were-right-42b7": {
+  "zh_title": "每日谜题该告诉你离答案有多近，还是只说对错？",
+  "zh_oneliner": "文章讨论每日谜题的反馈设计：只给对错是一个比特的信息，给“接近程度”能教会玩家，但给得太细又可能剧透。"
+ },
+ "https://dev.to/derek_fowler_tech/from-prompt-or-photo-through-mesh-density-to-a-pbr-glb-mim": {
+  "zh_title": "从提示词或照片到 PBR GLB：一条可用的 3D 生成管线",
+  "zh_oneliner": "作者把 3D 生成拆成一条短管线：选输入、定网格密度、产出带贴图的 GLB，强调这不是一键操作，而是一组可控的选择。"
+ },
+ "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game": {
+  "zh_title": "《DOOM》开发商 id Software 确认正在开发新游戏",
+  "zh_oneliner": "id Software 确认正在开发一款新作，据传仍是《DOOM》系列新作，同时《Wolfenstein 3》的消息也一并传出。"
  }
 }
