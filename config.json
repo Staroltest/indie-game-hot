@@ -208,6 +208,7 @@
     ],
     "history_days": 30,
     "hot_days": 7,
+    "hot_per_source_max": 5,
     "hot_top": 20,
     "noise_keyword_floor": -15,
     "noise_keyword_penalty": -5,
@@ -221,7 +222,14 @@
       "cosplay",
       "mod",
       "壁纸",
-      "wallpaper"
+      "wallpaper",
+      "contest",
+      "giveaway",
+      "giving away",
+      "steam key",
+      "抽奖",
+      "best games to play",
+      "games to play"
     ],
     "recency": [
       {

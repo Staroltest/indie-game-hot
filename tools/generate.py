@@ -3132,7 +3132,19 @@ def main():
     for it in last_7d:
         age_days = (now - it["_pub"]).total_seconds() / 86400.0
         it["hot_score"] = round(it["score"] * (sc["decay_base"] ** age_days), 1)
-    hot = dedup_topics(sorted(last_7d, key=lambda x: x["hot_score"], reverse=True))[:sc["hot_top"]]
+    hot = dedup_topics(sorted(last_7d, key=lambda x: x["hot_score"], reverse=True))
+    # 单源上限：同一信源在热点榜最多占 hot_per_source_max 席，避免高产源
+    # （如 Dev.to 日更数十条）靠新鲜度独占榜单
+    _hot_cap = sc.get("hot_per_source_max", 5)
+    _seen_src = {}
+    _capped = []
+    for it in hot:
+        _sid = it.get("source_id", "")
+        if _seen_src.get(_sid, 0) >= _hot_cap:
+            continue
+        _seen_src[_sid] = _seen_src.get(_sid, 0) + 1
+        _capped.append(it)
+    hot = _capped[:sc["hot_top"]]
     timeline = sorted(last_7d, key=lambda x: x["_pub"], reverse=True)[:sc["timeline_max"]]
 
     # 趋势：对照上一轮已发布的榜单名次与热度（读旧 data/hot.json，写新文件之前）
