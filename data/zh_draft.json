@@ -6130,5 +6130,37 @@
  "https://dev.to/liza_18827c15bdd387c4cd9c/nine-notes-one-flashlight-three-keys-the-design-loop-of-a-browser-horror-game-411d": {
   "zh_title": "九张纸条、一支手电、三把钥匙：一款浏览器恐怖游戏的设计循环",
   "zh_oneliner": "免费浏览器恐怖游戏《The Tall Man》只用九张纸条、一个倒计时实体、手电电量与三键操作就撑起紧张感，是小体量网页恐怖游戏值得抄的设计范式。"
+ },
+ "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones": {
+  "zh_title": "如何保护你的 IP，抵御 AI 克隆大军",
+  "zh_oneliner": "生成式 AI 涌入游戏开发，Steam Next Fest 上万个 Demo 里不少出自 AI 之手，这篇聊独立开发者该如何守住自己的原创 IP。"
+ },
+ "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past": {
+  "zh_title": "CD Projekt Red 用 AI 改动了《巫师 3》杰洛特原波兰配音演员的声音",
+  "zh_oneliner": "《巫师 3》新资料片用 AI 调整了杰洛特原波兰配音的声音，聊聊大厂在配音 AI 化上的做法与争议。"
+ },
+ "https://80.lv/articles/see-how-kensyouen_y-modeled-this-cute-girl-s-head-in-blender": {
+  "zh_title": "看 Kensyouen_Y 如何在 Blender 里建出这个可爱女孩的头部",
+  "zh_oneliner": "一位建模师分享在 Blender 中塑造可爱风角色头部的全过程，适合想练角色建模的开发者参考。"
+ },
+ "https://80.lv/articles/learn-aaa-workflows-to-create-your-own-modular-environments": {
+  "zh_title": "学 AAA 工作流，打造自己的模块化场景",
+  "zh_oneliner": "8 周课程由资深环境美术带队，系统讲模块化场景的 AAA 级制作流程，适合想提升场景搭建效率的开发者。"
+ },
+ "https://www.gcores.com/radios/222023": {
+  "zh_title": "喜爱《影之刃零》，但有些场面真绷不住！游戏茶话会 Vol.134",
+  "zh_oneliner": "机核编辑们复盘《影之刃零》的通关体验：爽点与槽点并存，可作动作游戏手感与叙事设计的参考。"
+ },
+ "https://dev.to/freema/wallhammer-web-building-destruction-in-my-typescript-and-webgl2-engine-46ni": {
+  "zh_title": "Wallhammer Web：用 TypeScript 与 WebGL2 自研引擎实现建筑破坏",
+  "zh_oneliner": "开发者分享自研浏览器引擎的建筑破坏测试：拆墙、拆承重，楼体随之坍塌，全程 TypeScript 加原生 WebGL2。"
+ },
+ "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20": {
+  "zh_title": "下周 Xbox 新游：11 月 16 日至 20 日",
+  "zh_oneliner": "Xbox 官方盘点 11 月 16 日至 20 日上架的新游与 Game Pass 阵容，可作发行窗口参考。"
+ },
+ "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool": {
+  "zh_title": "《杀戮尖塔 2》迎来首个新角色“愚者”，随最大规模 Beta 更新一同上线",
+  "zh_oneliner": "抢先体验大获成功后，《杀戮尖塔 2》推出最大规模 Beta 补丁，首个新角色“愚者”登场，另有两个新模式。"
  }
 }
