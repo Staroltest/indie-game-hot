@@ -6478,5 +6478,17 @@
  "https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded": {
   "zh_title": "用 HTML5 Canvas 与 WebSockets 架构 60FPS 实时多人浏览器游戏（无需下载）",
   "zh_oneliner": "详解如何用 Canvas、WebSocket 与 Web Audio API 在浏览器里做出零下载、低延迟的多人街机游戏，含服务端架构与性能取舍。"
+ },
+ "https://dev.to/danieljsaldana/token-club-de-una-idea-sobre-ia-y-videojuegos-a-una-alfa-que-puedes-probar-j32": {
+  "zh_title": "Token Club：从一个关于 AI 与游戏的想法，到可以试玩的 Alpha 版",
+  "zh_oneliner": "作者用 AI 辅助开发了一款带大厅、多房间与虚拟形象的浏览器多人空间，现已放出可公开试玩的 Alpha 版，并邀请外部玩家帮忙验证体验。"
+ },
+ "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week": {
+  "zh_title": "是的，仍有勇敢的游戏选择在 GTA 6 发售周登陆 Steam",
+  "zh_oneliner": "面对 GTA 6 发售周的巨大流量压力，仍有一批独立游戏坚持原定档期不改，文章盘点了这些逆流而上的作品。"
+ },
+ "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline": {
+  "zh_title": "不喜欢游戏里的 AI？《Crimson Desert》开发商 Pearl Abyss 不在乎：正把 AI 扩展到整个开发流程",
+  "zh_oneliner": "Pearl Abyss 曾为《Crimson Desert》中的 AI 生成美术致歉，但如今明确表示将把 AI 应用推广到整个开发管线，引发关于 AI 在游戏开发中边界的讨论。"
  }
 }
