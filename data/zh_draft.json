@@ -5750,5 +5750,37 @@
  "https://dev.to/siegeradar/what-how-many-people-play-siege-actually-measures-2jbn": {
   "zh_title": "“有多少人在玩 Siege”这个数字到底在量什么",
   "zh_oneliner": "拆解《彩虹六号：围攻》玩家数统计口径的常见误读，提醒做仪表盘与游戏工具的开发者讲清数字的构成与遗漏。"
+ },
+ "https://www.gcores.com/articles/222304": {
+  "zh_title": "Behaviour Interactive 公布 WePlay 上海参展嘉宾阵容",
+  "zh_oneliner": "Behaviour Interactive 带 15 位嘉宾亮相 WePlay 上海，《黎明杀机》十周年特别发布值得独立开发者关注展会宣发打法。"
+ },
+ "https://www.gcores.com/articles/222303": {
+  "zh_title": "《Delve Survivors》现已正式发售",
+  "zh_oneliner": "回合制幸存者类新游《Delve Survivors》今日上架 Steam，敌人随玩家行动而动、节奏全由玩家掌控，首发 45 元八五折。"
+ },
+ "https://www.gcores.com/articles/222301": {
+  "zh_title": "《韵律源点》×《明日方舟》联动公布，带来游戏规模最大的联动合作",
+  "zh_oneliner": "《韵律源点》与《明日方舟》的史上最大联动曲包 11 月 17 日上线，含 8 首乐曲与新搭档，是观察音游跨界联动运营的现成案例。"
+ },
+ "https://dev.to/moguiris130/building-easy-sudoku-online-designing-a-calm-paper-like-daily-9x9-sudoku-for-the-web-1bcj": {
+  "zh_title": "做一个安静的在线数独：像报纸一样从容的每日 9×9 网页数独设计",
+  "zh_oneliner": "作者分享如何把网页数独做得像报纸谜题一样安静耐读，从配色留白到移动端排版，讲的都是网页小游戏的体验取舍。"
+ },
+ "https://dev.to/gabriel70/five-cold-emails-two-finished-tracks-zero-replies-a-game-music-ledger-35hk": {
+  "zh_title": "五封冷邮件、两首成品曲、零回复：一份游戏音乐接活账本",
+  "zh_oneliner": "一位游戏音乐作者公开两周接活的真实账本，包括报价成本与零回复的教训，给独立开发者做音频预算提供了难得的参考数字。"
+ },
+ "https://dev.to/poprecallgames/i-built-25-tiny-browser-games-with-vanilla-javascript-no-engine-no-framework-4j3n": {
+  "zh_title": "我用原生 JavaScript 做了 25 个迷你网页游戏，不用引擎也不用框架",
+  "zh_oneliner": "作者用纯 HTML、CSS 与原生 JavaScript 在几个月里上线了 25 个迷你网页游戏，聊零构建、秒开加载背后的取舍，适合想做轻量网页游戏的开发者参考。"
+ },
+ "https://dev.to/lullwoodgamer/horror-audio-with-zero-audio-files-procedural-web-audio-in-a-threejs-game-1aj4": {
+  "zh_title": "零音频文件的恐怖音效：Three.js 游戏里的程序化 Web Audio",
+  "zh_oneliner": "一款免费浏览器恐怖游戏完全不带音频文件，所有音效都由 Web Audio API 在运行时程序化生成，讲清了噪声、振荡器与滤波器的具体做法。"
+ },
+ "https://www.yystv.cn/p/14620": {
+  "zh_title": "曾经最好的“电影改编游戏”之一，现在看更是超前",
+  "zh_oneliner": "回顾《玩具总动员 3》同名游戏与电影联动游戏的兴衰，聊这种一度风靡的做法为何消失，以及它对今天 IP 改编游戏的启示。"
  }
 }
