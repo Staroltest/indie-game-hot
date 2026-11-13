@@ -5942,5 +5942,29 @@
  "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12": {
   "zh_title": "本周登陆 Nintendo Switch eShop 的 30 多款游戏（11 月 12 日）",
   "zh_oneliner": "汇总本周上架 Switch eShop 的三十多款新游与折扣信息，供独立开发者参考平台发行节奏。"
+ },
+ "https://80.lv/articles/you-guys-are-f-cking-idiots-jeff-kaplan-recalls-chaotic-overwatch-2-reveal": {
+  "zh_title": "「你们这帮蠢货」：Jeff Kaplan 回忆《守望先锋 2》混乱的发布现场",
+  "zh_oneliner": "前《守望先锋》总监复盘暴雪那场翻车的重磅发布，聊聊大型游戏公布环节是如何一步步失控的。"
+ },
+ "https://www.gcores.com/articles/222315": {
+  "zh_title": "沉迷《深空当铺》50小时后，我专访了游戏主创Bei Ning Pan",
+  "zh_oneliner": "记者在《深空当铺》里泡了 50 小时后专访主创，聊这款赛博朋克经营模拟的灵感来源与设计取舍。"
+ },
+ "https://dev.to/mold99210/make-100-npcs-for-your-game-in-5-minutes-5h10": {
+  "zh_title": "5 分钟给游戏做出 100 个 NPC",
+  "zh_oneliner": "作者用自研工具 MOLD 一键批量生成风格统一的低模角色，并导出可直接用于 Godot 与 Unity 的 GLB 文件。"
+ },
+ "https://dev.to/azeem_shafeeq/i-built-a-free-browser-shooter-set-in-a-pakistani-old-city-bazaar-599d": {
+  "zh_title": "我做了一款免费浏览器射击游戏，背景是巴基斯坦老城集市",
+  "zh_oneliner": "开发者分享在浏览器端打造 8v8 团队死斗射击游戏的经历，地图取材自真实老城集市且无需安装即玩。"
+ },
+ "https://www.destructoid.com/all-relics-in-warhammer-and-how-to-unlock-them": {
+  "zh_title": "《战锤》全部圣物及解锁方法一览",
+  "zh_oneliner": "汇总《战锤》中所有圣物的获取方式，方便玩家按图索骥逐一解锁。"
+ },
+ "https://www.destructoid.com/marvel-rivals-the-acts-of-kurt-wagner-event-guide": {
+  "zh_title": "《漫威争锋》夜行者传说活动指南",
+  "zh_oneliner": "解读活动中的预言机制，讲清如何阻止灾难来推进活动进度。"
  }
 }
