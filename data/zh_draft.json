@@ -6506,5 +6506,17 @@
  "https://www.destructoid.com/all-legendary-items-in-rob-run-and-how-to-get-them": {
   "zh_title": "《ROB RUN》全部传奇物品及获取方法",
   "zh_oneliner": "盘点这款游戏里最稀有的传奇物品，以及逐一入手的途径。"
+ },
+ "https://dev.to/ellis_john_bfe0348def630b/gat-2b1p": {
+  "zh_title": "gat",
+  "zh_oneliner": "一个用纯 HTML 与 JavaScript 写成的迷你城市游戏 Street Life，可直接在浏览器里运行，适合想快速上手网页小游戏开发的开发者参考。"
+ },
+ "https://dev.to/_9848c5582063b42abecb7/factorio-let-a-full-conveyor-explain-the-next-upgrade-2igb": {
+  "zh_title": "Factorio：让满载的传送带讲清下一次升级",
+  "zh_oneliner": "从 Factorio 的传送带出发，探讨资源管理游戏如何用可视化线索告诉玩家下一步该升级什么，适合做系统引导设计的开发者参考。"
+ },
+ "https://80.lv/articles/epic-is-taking-apple-s-27-web-fee-to-the-supreme-court": {
+  "zh_title": "Epic 把苹果 27% 的站外支付抽成告上了最高法院",
+  "zh_oneliner": "Epic 指控苹果把佣金与支付处理费捆绑、再用限制性链接设计让站外支付无利可图，官司打到最高法院，关心平台抽成与支付政策的开发者值得跟进。"
  }
 }
