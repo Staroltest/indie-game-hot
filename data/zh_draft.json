@@ -5818,5 +5818,9 @@
  "https://www.gcores.com/articles/222314": {
   "zh_title": "开普勒互动首度公开新作《坦克狂途》实机演示",
   "zh_oneliner": "开普勒互动首度公开坦克动作游戏《坦克狂途》的实机演示，展示了全新关卡铁袭与可远程夺取敌方单位控制权的操控仪机制。"
+ },
+ "https://dev.to/hugobachmann/when-the-database-and-the-game-disagree-idempotency-and-compensation-for-rcon-in-laravel-38e0": {
+  "zh_title": "当数据库与游戏意见不一致：用 Laravel 的 RCON 实现幂等与补偿",
+  "zh_oneliner": "作者复盘一次网页商城与游戏内交易对不上的事故，讲清如何用幂等键、补偿步骤和审计日志，让游戏服务器命令与数据库扣款始终一致。"
  }
 }
