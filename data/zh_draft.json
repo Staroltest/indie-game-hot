@@ -6370,5 +6370,41 @@
  "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development": {
   "zh_title": "欧盟拟议新法或将严格限制免费游戏",
   "zh_oneliner": "欧盟拟议的《数字公平法案》可能对免费游戏的设计与变现方式施加严格限制，涉及内购与暗黑模式，出海欧洲的独立开发者需要留意。"
+ },
+ "https://www.indiedb.com/games/sol-divided/news/version-090-watch-battles-run-your-own-server": {
+  "zh_title": "Sol Divided 0.9.0：可观战对局、自建服务器，新增西葡语支持",
+  "zh_oneliner": "0.9.0 版加入实时观战与自定义服务器支持，联机需升级到新版，顺带补上西班牙语和葡萄牙语。"
+ },
+ "https://www.indiedb.com/games/doughborn/news/doughborn-demo-update-v040-the-food-god-awakens": {
+  "zh_title": "Doughborn 试玩版 v0.4.0：「食物之神」苏醒",
+  "zh_oneliner": "试玩版迎来新威胁「食物之神」，主菜单扩展、敌人反馈优化，值得留意这款怪诞美食风游戏的更新节奏。"
+ },
+ "https://www.indiedb.com/games/norma-story-of-one-platform/news/norma-story-of-one-platform-v120-brings-new-minimap-and-visual-improvements": {
+  "zh_title": "NORMA：单平台物语 v1.2.0 新增小地图与画面改进",
+  "zh_oneliner": "1.2.0 版加入小地图、重做户外区域光照与氛围效果，导航与画面表现同步提升。"
+ },
+ "https://dev.to/smashycrossroads/how-i-made-every-crash-pay-the-chain-timer-in-smashy-crossroads-1p9f": {
+  "zh_title": "我是如何让每次撞车都有回报的：Smashy Crossroads 的连锁计时器",
+  "zh_oneliner": "作者分享用连锁计时器把单次弹射的撞车数变成得分杠杆的设计思路，小体量街机玩法也可参考。"
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/how-to-build-60-fps-2d-particle-explosions-in-10-lines-of-vanilla-js-with-ai-prompt-hkj": {
+  "zh_title": "用 10 行原生 JS 实现 60 帧 2D 粒子爆炸（含 AI 提示词）",
+  "zh_oneliner": "用扁平数组替代臃肿的粒子类，避免每次爆炸触发垃圾回收卡顿，附可直接套用的 AI 提示词。"
+ },
+ "https://www.destructoid.com/layoffs-gen-ai-overtime-study-bleak-2026-gaming-industry": {
+  "zh_title": "裁员、生成式 AI 与加班：新研究描绘 2026 游戏行业黯淡图景",
+  "zh_oneliner": "一项新研究指出裁员、生成式 AI 冲击与加班问题仍在加剧，独立开发者可借此把握行业大环境。"
+ },
+ "https://www.destructoid.com/best-players-for-fc-27-backline-bastion-evolution": {
+  "zh_title": "FC 27「后防堡垒」进化最佳球员推荐",
+  "zh_oneliner": "盘点 FC 27 后防堡垒进化中值得培养的球员与三种打法，偏玩家向内容。"
+ },
+ "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them": {
+  "zh_title": "你以为你了解游戏里的猫？来认出这 17 只",
+  "zh_oneliner": "一则轻松的游戏猫咪小测，盘点会说话的猫、魔法猫与自认是人的猫，偏玩家向趣味内容。"
+ },
+ "https://www.destructoid.com/horde-pvp-character-lock-in-wow-forever-explained": {
+  "zh_title": "《WoW Forever》部落 PVP 角色锁定机制解析",
+  "zh_oneliner": "解析《WoW Forever》中部落 PVP 的角色锁定规则，偏玩家向内容。"
  }
 }
