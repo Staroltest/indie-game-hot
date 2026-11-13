@@ -2120,10 +2120,21 @@ def page_open(site, active, title, description, prefix="", base="", canonical=""
             f'<div class="main">{topbar_html(active, prefix, base)}<div class="page{page_cls}">')
 
 
+def analytics_beacon(site):
+    """Cloudflare Web Analytics beacon; empty unless site.web_analytics_token is set."""
+    token = site.get("web_analytics_token", "")
+    if not token:
+        return ""
+    return (f"<!-- Cloudflare Web Analytics --><script type='module' "
+            f"src='https://static.cloudflareinsights.com/beacon.min.js' "
+            f"data-cf-beacon='{{\"token\": \"{token}\"}}'></script>"
+            f"<!-- End Cloudflare Web Analytics -->")
+
+
 def page_close(site, active, prefix="", base=""):
     to_top = (f'<button type="button" class="to-top" id="toTop" aria-label="回到顶部">'
               f'{icon("arrow-up", 18)}</button>')
-    return (f"{footer_html(base)}</div></div></div>{to_top}{tabbar_html(active, prefix, base)}<script src='{base}assets/site.js'></script></body></html>\n")
+    return (f"{footer_html(base)}</div></div></div>{to_top}{tabbar_html(active, prefix, base)}<script src='{base}assets/site.js'></script>{analytics_beacon(site)}</body></html>\n")
 
 
 def day_header(d, items, today, aside=False):
@@ -2852,7 +2863,7 @@ def render_404(site):
             f'<div class="empty-actions">'
             f'<a class="empty-btn primary" href="{site_url}/index.html">回首页</a>'
             f'<a class="empty-btn" href="{site_url}/hot.html">去看热点榜</a>'
-            f'</div></div></div></div></div></body></html>\n')
+            f'</div></div></div></div></div>{analytics_beacon(site)}</body></html>\n')
 
 
 def render_hot(site, hot, generated_at, counts, cfg):
