@@ -6470,5 +6470,13 @@
  "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus": {
   "zh_title": "《The Blood of Dawnwalker》下周更新加入二周目模式",
   "zh_oneliner": "吸血鬼题材 RPG 将在下周更新中加入二周目模式，看看中型团队如何用后续内容延长一款叙事驱动游戏的生命周期。"
+ },
+ "https://gamedev.net/forums/topic/720835-browser-pinball-em-lata-de-sardinha-six-pinball-tables-inside-a-sardine-can": {
+  "zh_title": "[浏览器] Pinball em Lata de Sardinha：六张弹珠桌装进一个沙丁鱼罐头",
+  "zh_oneliner": "免费 HTML5 浏览器弹珠游戏，太空、悬疑、恐怖、冒险、迷幻、克苏鲁六种主题桌台可选，适合想参考轻量网页游戏玩法的开发者。"
+ },
+ "https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded": {
+  "zh_title": "用 HTML5 Canvas 与 WebSockets 架构 60FPS 实时多人浏览器游戏（无需下载）",
+  "zh_oneliner": "详解如何用 Canvas、WebSocket 与 Web Audio API 在浏览器里做出零下载、低延迟的多人街机游戏，含服务端架构与性能取舍。"
  }
 }
