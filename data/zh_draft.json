@@ -5782,5 +5782,41 @@
  "https://www.yystv.cn/p/14620": {
   "zh_title": "曾经最好的“电影改编游戏”之一，现在看更是超前",
   "zh_oneliner": "回顾《玩具总动员 3》同名游戏与电影联动游戏的兴衰，聊这种一度风靡的做法为何消失，以及它对今天 IP 改编游戏的启示。"
+ },
+ "https://dev.to/eliautobot/my-virtual-world-260-one-command-install-and-30-animated-animal-species-5dm1": {
+  "zh_title": "《My Virtual World》2.6.0：一键安装，新增 30 种带动画的 3D 动物",
+  "zh_oneliner": "开源虚拟世界项目迎来 2.6.0 版，Docker 一条命令即可跑起来，还加入了 30 种带骨骼动画的 3D 野生动物，适合想参考开放世界氛围搭建的开发者看看。"
+ },
+ "https://dev.to/dhaval109/play-board-games-online-with-friends-how-i-added-online-rooms-to-22-browser-games-40ej": {
+  "zh_title": "给 22 款网页棋牌游戏加上在线房间，我是怎么做到的",
+  "zh_oneliner": "作者把 37 款传屏桌游中的 22 款改造成免注册在线联机，用链接或六位房间码就能跨设备开局，分享了处理隐藏信息与房间同步的做法。"
+ },
+ "https://www.gcores.com/articles/222312": {
+  "zh_title": "《疯狂出租车：极速环游》WePlay 2026参展详情公开",
+  "zh_oneliner": "世嘉宣布《疯狂出租车》新作将在 WePlay 2026 带来中国首次线下试玩，创意制作人还专门录了致中国玩家的问候视频。"
+ },
+ "https://www.gcores.com/articles/222311": {
+  "zh_title": "点击解谜游戏《老奶奶侦探社》Demo更新中文本地化",
+  "zh_oneliner": "法国独立团队的点击解谜游戏《老奶奶侦探社》Demo 补上了简繁中文，扮演退休鼠奶奶观察街景、追踪邻里秘密，填字等小游戏也针对中文做了优化。"
+ },
+ "https://www.gcores.com/articles/222307": {
+  "zh_title": "【会员抽奖】1-4人欢乐恐怖联机游戏《危险等级》正式版发售，同步登陆主机",
+  "zh_oneliner": "1 至 4 人联机恐怖生存游戏《危险等级》结束抢先体验正式发售，同步登陆 Steam 与主机，新增裂隙生物图鉴与不稳定的裂隙涌动事件。"
+ },
+ "https://www.gcores.com/articles/222310": {
+  "zh_title": "Gamirror Games宣布发行骰子计算游戏《算鼠英雄》，全新Demo今日上线",
+  "zh_oneliner": "骰子计算主题 Roguelike 卡牌游戏《算鼠英雄》由 Gamirror Games 代理发行，全新 Demo 今日上线，靠算式配对数值秒杀敌人是它的核心卖点。"
+ },
+ "https://80.lv/articles/fable-reboot-shows-combat-story-in-new-four-minute-gameplay-trailer": {
+  "zh_title": "《Fable》重启作放出四分钟实机预告，展示战斗与剧情",
+  "zh_oneliner": "《Fable》重启作公布了四分钟 PC 实机片段，集中展示战斗手感与剧情演出，游戏预计 2027 年 2 月发售。"
+ },
+ "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released": {
+  "zh_title": "索尼克 35 周年动画短片《Memories And Beyond》正式上线",
+  "zh_oneliner": "世嘉放出了索尼克 35 周年动画短片《Memories And Beyond》，全长约 13 分钟，讲述索尼克一行阻止蛋头博士用混沌翡翠强化金属索尼克的故事。"
+ },
+ "https://www.gcores.com/articles/222314": {
+  "zh_title": "开普勒互动首度公开新作《坦克狂途》实机演示",
+  "zh_oneliner": "开普勒互动首度公开坦克动作游戏《坦克狂途》的实机演示，展示了全新关卡铁袭与可远程夺取敌方单位控制权的操控仪机制。"
  }
 }
