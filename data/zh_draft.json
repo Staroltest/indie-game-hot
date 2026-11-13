@@ -6286,5 +6286,37 @@
  "https://www.destructoid.com/rockstar-teases-an-entire-animated-tv-show-you-can-watch-in-gta-6": {
   "zh_title": "Rockstar 预告《GTA 6》里能看一整部动画剧集",
   "zh_oneliner": "Rockstar 透露《GTA 6》内置了一部可完整观看的动画剧集，展示 3A 大作如何用游戏内媒体内容拓展世界观。"
+ },
+ "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining": {
+  "zh_title": "赛博朋克交易模拟游戏《Probably Stolen》将推三轮大更新，新增器官交易、废品帝国与高档餐饮等开局剧本",
+  "zh_oneliner": "这款赛博朋克店主模拟游戏未来一年将通过三轮更新加入器官买卖、废品帝国和高级餐厅等全新开局玩法，值得小体量模拟经营开发者参考剧本式内容扩展的打法。"
+ },
+ "https://www.rockpapershotgun.com/have-you-played-deaths-door": {
+  "zh_title": "当类魂游戏越做越大，《Death's Door》用更紧凑的冒险打开了另一种可能",
+  "zh_oneliner": "在类魂游戏纷纷走向超大体量的当下，这篇回顾认为《Death's Door》以更克制的规模和节奏证明了紧凑冒险同样能打动玩家，给独立团队在体量取舍上提供了一个参照。"
+ },
+ "https://80.lv/articles/master-hard-surface-weapon-creation-in-blender-with-this-course": {
+  "zh_title": "用这门课程掌握 Blender 硬表面武器制作",
+  "zh_oneliner": "资深武器与道具美术师 Navid Valizadeh 将带学员走完从硬表面建模到最终渲染的完整资产流程，适合想系统补齐武器美术管线的独立开发者。"
+ },
+ "https://80.lv/articles/eve-online-dev-open-sources-its-physically-based-ssao-technology": {
+  "zh_title": "《EVE Online》开发商开源其基于物理的 SSAO 技术",
+  "zh_oneliner": "CCP 将自研的基于物理的屏幕空间环境光遮蔽技术 CORTAO 开源，独立开发者可以直接研究或接入这套渲染方案来提升画面质感。"
+ },
+ "https://www.destructoid.com/nyc-mayor-mamdani-to-host-game-dev-contest-game-industry-growth": {
+  "zh_title": "纽约市长 Mamdani 将举办青少年游戏开发比赛，助力本地游戏产业发展",
+  "zh_oneliner": "纽约市政府计划通过青少年游戏开发比赛扶持本地游戏产业，关注地方政策如何为独立开发者创造机会的读者可以留意这一动向。"
+ },
+ "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review": {
+  "zh_title": "8BitDo Ultimate 3E 无线手柄评测",
+  "zh_oneliner": "这篇评测探讨 8BitDo 新款无线手柄的 Xbox 无线连接与模块化设计是否值回售价，关心外设适配与手柄手感的开发者可以参考其中的取舍分析。"
+ },
+ "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested": {
+  "zh_title": "《守望先锋》创意总监意外泄露第六赛季新英雄名字，并透露其测试评分创下队内最高",
+  "zh_oneliner": "创意总监在采访中不慎说出第六赛季新英雄的名字，还透露该英雄在内部测试中拿到了历代最高评分，算是大型在线游戏宣发管控翻车的一个小案例。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of": {
+  "zh_title": "“热咖啡”争议 22 年后，英国政客称《GTA 6》是“值得我们骄傲的作品”",
+  "zh_oneliner": "从 22 年前的“热咖啡”风波到如今政客公开为《GTA 6》站台，这篇报道折射出游戏在主流舆论场中的地位变迁，值得关注行业公共形象的开发者一读。"
  }
 }
