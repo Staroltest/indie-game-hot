@@ -5898,5 +5898,25 @@
  "https://www.yystv.cn/p/14624": {
   "zh_title": "我玩到了战锤味最正的“幸存者like”",
   "zh_oneliner": "《战锤幸存者》把桌游世界观装进吸血鬼幸存者式的肉鸽玩法，聊聊这种热门玩法换皮为何总能吸引玩家。"
+ },
+ "https://www.gcores.com/articles/222331": {
+  "zh_title": "《影之刃零》最轮椅的，竟然是给它做个Mod",
+  "zh_oneliner": "AI 原生 Mod 工具 ModCraft 让不会写代码的玩家也能用自然语言做 Mod，配套的《影之刃零》Mod 创作大赛正在报名，冠军奖品是 RTX 5070。"
+ },
+ "https://www.destructoid.com/all-boss-locations-in-fortnite-treasure-hunters": {
+  "zh_title": "《Fortnite》寻宝猎人模式全部 Boss 位置",
+  "zh_oneliner": "整理《Fortnite》寻宝猎人模式中全部 Boss 的出现位置，方便玩家提前规划挑战路线。"
+ },
+ "https://gamedev.net/blogs/entry/2298663-building-tarot-gothique-2026-a-gothic-french-tarot-card-game-as-a-mobile-app": {
+  "zh_title": "开发哥特风法国塔罗牌手游《Tarot Gothique 2026》",
+  "zh_oneliner": "作者用 Flutter 一套代码做出哥特风法国塔罗牌手游，复盘了同时适配手机与桌面两种屏幕的经验教训。"
+ },
+ "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations": {
+  "zh_title": "《Wolfenstein 3》确认开发中，id Software 新作也已启动",
+  "zh_oneliner": "Xbox 确认 MachineGames 正在开发《Wolfenstein 3》，id Software 也已启动《Doom》之后的新作。"
+ },
+ "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world": {
+  "zh_title": "微软称全球服务中断无恶意活动迹象",
+  "zh_oneliner": "微软表示此次影响多国政府与机构的全球服务中断没有恶意活动的证据，仍在调查具体原因。"
  }
 }
