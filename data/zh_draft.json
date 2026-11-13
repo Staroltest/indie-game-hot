@@ -5966,5 +5966,41 @@
  "https://www.destructoid.com/marvel-rivals-the-acts-of-kurt-wagner-event-guide": {
   "zh_title": "《漫威争锋》夜行者传说活动指南",
   "zh_oneliner": "解读活动中的预言机制，讲清如何阻止灾难来推进活动进度。"
+ },
+ "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches": {
+  "zh_title": "Steam 送审与审核积压，逼得独立开发者推迟发售",
+  "zh_oneliner": "多位独立开发者因 Steam 的送审与审核流程拖延，不得不推迟游戏上线，提醒开发者排期时为平台审核留出缓冲。"
+ },
+ "https://80.lv/articles/escape-evil-plants-hungry-for-blood-in-this-little-nightmares-style-puzzle-adventure": {
+  "zh_title": "在《小小梦魇》风解谜冒险里，躲开嗜血的邪恶植物",
+  "zh_oneliner": "《Floralis》是一款黑暗梦幻的电影感恐怖解谜冒险，玩家要在躲避食人植物的同时探索密道、揭开谜团，氛围与美术值得参考。"
+ },
+ "https://80.lv/articles/building-real-time-temple-environment-in-ue5-inspired-by-baldur-s-gate-3": {
+  "zh_title": "受《博德之门 3》启发，用 UE5 打造实时神殿场景",
+  "zh_oneliner": "作者复盘了以《博德之门 3》莎尔试炼为蓝本制作神殿场景的全过程，分享专业环境美术管线与打磨方法。"
+ },
+ "https://www.gcores.com/radios/222295": {
+  "zh_title": "黄朝落幕，机浪 Vol.133",
+  "zh_oneliner": "回顾黄仁勋在 72 小时内辞去英伟达全部职务的风波始末，聊聊这家 AI 基石公司突然换帅背后的来龙去脉。"
+ },
+ "https://www.destructoid.com/how-to-unlock-flounder-and-sebastian-in-disney-dreamlight-valley-the-keepsake-sea": {
+  "zh_title": "《迪士尼梦光谷》“纪念之海”：如何解锁比目鱼与塞巴斯蒂安",
+  "zh_oneliner": "解锁这两位角色需要付出不小代价，文章给出具体的解锁路径，供关注这款作品内容的开发者参考。"
+ },
+ "https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports": {
+  "zh_title": "报道称前英伟达 CEO 黄仁勋被指与第二名员工有“亲密关系”",
+  "zh_oneliner": "报道援引两位知情人士的消息，称黄仁勋离任风波背后还有新的传闻，事件仍在发酵。"
+ },
+ "https://www.pcgamer.com/hardware/i-stand-by-jensen-nvidia-employees-come-out-in-support-of-huang-after-resignation": {
+  "zh_title": "黄仁勋辞职后，英伟达员工发声力挺：“我支持 Jensen”",
+  "zh_oneliner": "黄仁勋离任后，多位英伟达员工公开表达支持，折射出这位联合创始人在公司内部的声望。"
+ },
+ "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more": {
+  "zh_title": "“形势很疯狂”：投资人与发行商谈 AI 山寨潮与可发现性危机",
+  "zh_oneliner": "伦敦 AI 与游戏大会上，发行商与投资人圆桌聊了 AI 对宣发、融资与发行带来的机会与难题，包括 AI 山寨游戏泛滥与游戏难被玩家发现的问题。"
+ },
+ "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox": {
+  "zh_title": "Xbox 负责人确认《德军总部 3》开发中，id Software 也有新作",
+  "zh_oneliner": "Xbox 负责人证实 MachineGames 正在开发《德军总部 3》，id Software 也在筹备一款新游戏，消息传出之际正值 Xbox 裁员风波。"
  }
 }
