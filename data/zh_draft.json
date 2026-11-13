@@ -5662,5 +5662,13 @@
  "https://dev.to/milaangames/frame-perfect-gameplay-videos-from-godot-4-without-a-screen-recorder-52ob": {
   "zh_title": "不用录屏软件，用 Godot 4 录制逐帧精准的实机视频",
   "zh_oneliner": "把摄像机搬进引擎内部，用 Godot 4 直接输出逐帧稳定的竖屏实机片段，告别录屏掉帧与弹窗入镜，适合批量做短视频宣发素材。"
+ },
+ "https://dev.to/jaehyun_cho_0dff271e0d2e5/i-made-a-free-browser-tool-that-takes-an-ai-generated-3d-model-from-98k-to-8k-triangles-and-gln": {
+  "zh_title": "我做了个免费浏览器工具：把 AI 生成的 3D 模型从 98k 面减到 8k 面并重烘贴图（无需上传）",
+  "zh_oneliner": "一款免安装的浏览器小工具，能把 AI 生成的高面数模型一键减面并重烘贴图，直接处理到可进游戏引擎的水准。"
+ },
+ "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port": {
+  "zh_title": "综述：《暗喻幻想：ReFantazio》Switch 2 版媒体评价出炉",
+  "zh_oneliner": "汇总各家媒体对《暗喻幻想：ReFantazio》Switch 2 移植版的评价，可作主机移植表现的参考。"
  }
 }
