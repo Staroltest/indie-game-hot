@@ -5858,5 +5858,9 @@
  "https://dev.to/no_momo/small-game-collection-site-retrospective-6-architecture-decisions-and-4-unfilled-pits-249g": {
   "zh_title": "小游戏合集站复盘：6 个架构决策与 4 个未填的坑",
   "zh_oneliner": "回顾六篇技术文章背后的决策依据与事后判断，总结哪些选择经住了检验、哪四个坑至今未填。"
+ },
+ "https://dev.to/khazp/i-built-a-racing-sim-that-runs-in-a-browser-tab-4n71": {
+  "zh_title": "我做了一个能在浏览器标签页里跑的赛车模拟游戏",
+  "zh_oneliner": "开源浏览器赛车模拟游戏 LibreCorsa 点开链接就能玩，内置十余条赛道与多种车型，500Hz 固定步长物理让不同刷新率的屏幕跑出一致手感。"
  }
 }
