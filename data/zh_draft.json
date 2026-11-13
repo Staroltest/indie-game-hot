@@ -5654,5 +5654,13 @@
  "https://www.indiedb.com/news/hustle-city-arcade-is-live-and-we-are-recruiting-developers": {
   "zh_title": "Hustle City Arcade 上线，正在招募开发者",
   "zh_oneliner": "浏览器街机平台 Hustle City Arcade 上线，开发者通过审核后缴纳 19.99 美元一次性费用即可上架，平台抽成仅 3%。"
+ },
+ "http://www.gamelook.com.cn/2026/11/606303": {
+  "zh_title": "落选金摇杆年度游戏，《影之刃零》官方回应：获得第二已大超预期！",
+  "zh_oneliner": "金摇杆年度游戏揭晓，《影之刃零》屈居第二，官方称这一成绩已远超预期，给国产动作游戏的出海成绩单又添一笔。"
+ },
+ "https://dev.to/milaangames/frame-perfect-gameplay-videos-from-godot-4-without-a-screen-recorder-52ob": {
+  "zh_title": "不用录屏软件，用 Godot 4 录制逐帧精准的实机视频",
+  "zh_oneliner": "把摄像机搬进引擎内部，用 Godot 4 直接输出逐帧稳定的竖屏实机片段，告别录屏掉帧与弹窗入镜，适合批量做短视频宣发素材。"
  }
 }
