@@ -6338,5 +6338,37 @@
  "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5": {
   "zh_title": "《GTA 5》里的路人都在盯着我看，停不下来",
   "zh_oneliner": "一篇轻松的玩家手记，讲《GTA 5》里路人直勾勾的眼神带来的奇妙代入感。"
+ },
+ "https://80.lv/articles/80-level-contest-win-an-old-school-rally-steam-key": {
+  "zh_title": "80 Level 抽奖：赢取《Old School Rally》Steam 激活码",
+  "zh_oneliner": "80 Level 正在抽送 5 枚《Old School Rally》的 Steam 激活码，这款复古拉力竞速作靠 90 年代街机情怀做宣发，抽奖式曝光的打法值得小团队参考。"
+ },
+ "https://dev.to/kamy_uwambaye_719fdeaa6de/game-analysis-report-jab": {
+  "zh_title": "游戏分析报告：手游背后的隐藏数学",
+  "zh_oneliner": "一篇学生作业式拆解，从《Subway Surfers》等手游里挖出藏在玩法背后的几何与数学，适合想练习游戏分析写作的开发者参考。"
+ },
+ "https://dev.to/zentaolabs/how-osu-skins-the-slider-ball-track-and-slider-ticks-40j8": {
+  "zh_title": "osu! 皮肤制作：滑条球、轨道与刻度的换肤方法",
+  "zh_oneliner": "一份实操清单，讲 osu! 皮肤里最容易翻车的滑条部分怎么做，滑条球、轨道与刻度的换肤要点，面向想做音游皮肤或 UI 换肤的开发者。"
+ },
+ "https://www.destructoid.com/vegas-baby-rainbow-six-reportedly-return-high-rolling": {
+  "zh_title": "传闻：《彩虹六号》将重回拉斯维加斯式的高光时刻",
+  "zh_oneliner": "传闻称《彩虹六号》系列将回归拉斯维加斯主题的高光设定，老牌战术射击 IP 如何靠经典场景唤回老玩家，值得关注。"
+ },
+ "https://www.destructoid.com/all-incantation-codes-in-warhammer-survivors": {
+  "zh_title": "《Warhammer Survivors》全部咒语兑换码汇总",
+  "zh_oneliner": "《Warhammer Survivors》的咒语兑换码一览，兑换码是独立小团队低成本拉新留存的常见手段。"
+ },
+ "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028": {
+  "zh_title": "《Crimson Desert》开发商将在整个开发流程中引入 AI，《DokeV》预计 2028 年推出",
+  "zh_oneliner": "Pearl Abyss 计划把生成式 AI 贯穿整个开发流程，同时确认《DokeV》2028 年发售，大厂的 AI 管线布局对独立团队的工具选型也有参考意义。"
+ },
+ "https://dev.to/anastasios_antoniadis_f1f/how-i-worked-out-palworlds-exact-pal-stat-formula-and-checked-it-in-game-bo1": {
+  "zh_title": "我如何推导出《幻兽帕鲁》帕鲁属性的精确公式，并在游戏中验证",
+  "zh_oneliner": "作者用 2310 个实测数值反推《幻兽帕鲁》帕鲁隐藏属性的精确公式，还提前锁定验证流程避开事后凑数，逆向数值设计的方法论值得一读。"
+ },
+ "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development": {
+  "zh_title": "欧盟拟议新法或将严格限制免费游戏",
+  "zh_oneliner": "欧盟拟议的《数字公平法案》可能对免费游戏的设计与变现方式施加严格限制，涉及内购与暗黑模式，出海欧洲的独立开发者需要留意。"
  }
 }
