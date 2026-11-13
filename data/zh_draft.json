@@ -6234,5 +6234,29 @@
  "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher": {
   "zh_title": "《Dressmaker》开发内幕：两位主创聊这匹 2026 黑马是怎样炼成的",
   "zh_oneliner": "《Dressmaker》是 2026 年的独立游戏黑马，两位主创在访谈中拆解了这款作品从立项到爆红背后的开发决策。"
+ },
+ "https://unity.com/blog/video-game-rules-states-win-conditions": {
+  "zh_title": "电子游戏中的规则、状态与胜负条件：一份指南",
+  "zh_oneliner": "从简单示例出发，用五步法帮你在动手搭建之前，先把游戏的规则、状态流转与胜负条件定义清楚。"
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/measuring-reaction-time-in-the-browser-six-things-that-went-wrong-l0l": {
+  "zh_title": "在浏览器里测反应时间：六个踩过的坑",
+  "zh_oneliner": "作者做了十二个反应力小测试，记录了计时看似一次减法、实则处处会出错的六个教训。"
+ },
+ "https://www.destructoid.com/xbox-cloud-gaming-ads": {
+  "zh_title": "Xbox 云游戏将引入广告，高管称这是避免行业大幅涨价的唯一办法",
+  "zh_oneliner": "Xbox 云游戏将引入广告，高管称此举是为了避免订阅价格大幅上涨，值得关注云游戏商业模式的变化。"
+ },
+ "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints": {
+  "zh_title": "《漫威争锋》第十赛季颇具挑战：官方将升级暴风女夏日皮肤以回应偏心质疑",
+  "zh_oneliner": "玩家质疑新皮肤存在偏心后，官方承诺升级暴风女的夏日皮肤，并于圣诞节前上线。"
+ },
+ "https://gamedev.net/forums/topic/720834-corps-royaux-2d-online-rpg-combat-dungeon-playtest-november-17": {
+  "zh_title": "《Corps Royaux》：2D 在线 RPG 战斗与地牢测试 | 11 月 17 日",
+  "zh_oneliner": "一款用 Intersect 引擎做的 2D 在线多人 RPG 正在招募玩家，11 月 17 日开放战斗与地牢玩法的测试。"
+ },
+ "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs": {
+  "zh_title": "《Worst Class Ever》把非对称多人带回校园：一名玩家扮演老师，在 NPC 中揪出捣蛋的孩子",
+  "zh_oneliner": "一款非对称多人新游让一名玩家扮演老师，在一群 NPC 学生中找出捣蛋的孩子，校园题材的玩法值得一看。"
  }
 }
