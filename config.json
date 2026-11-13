@@ -255,6 +255,7 @@
     "tagline": "每天盯着独立游戏圈，值得开发者看的，只有几条。",
     "timezone": "Asia/Shanghai",
     "title": "IndieHOT 独立游戏热点",
-    "url": "https://staroltest.github.io/indie-game-hot"
+    "url": "https://staroltest.github.io/indie-game-hot",
+    "web_analytics_token": "0f4951ef8dce4a4fb8fc15c0be803e23"
   }
 }
