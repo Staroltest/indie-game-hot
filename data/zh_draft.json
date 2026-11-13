@@ -5726,5 +5726,29 @@
  "https://dev.to/wordlegion/drawing-a-whole-game-in-code-no-sprites-4e68": {
   "zh_title": "用代码画一整个游戏：不用任何贴图",
   "zh_oneliner": "这款文字游戏的全部画面都由代码实时绘制，作者分享了无贴图渲染的实现思路。"
+ },
+ "https://80.lv/articles/making-the-portrait-of-a-harry-potter-inspired-goblin-with-realistic-skin-texture": {
+  "zh_title": "为哈利·波特风哥布林做肖像：写实皮肤纹理的雕刻心得",
+  "zh_oneliner": "作者分享在 ZBrush 里手 sculpt 夸张比例的哥布林解剖结构并保持平衡的心得，以及绘制逼真皮肤与梳理毛发的技巧。"
+ },
+ "https://www.gcores.com/articles/222300": {
+  "zh_title": "《黎明杀机》将在 WePlay 上海公布全新直播模式与血腥内容自定义选项",
+  "zh_oneliner": "Behaviour 将在 WePlay 上海介绍《黎明杀机》的新直播模式与血腥内容自定义选项，包括血液颜色切换，让主播在不同平台规范下更自由地分享恐怖体验。"
+ },
+ "https://www.gcores.com/articles/222297": {
+  "zh_title": "最后两站：2026《黑神话：悟空》全球音乐会西安、南京站现已开票",
+  "zh_oneliner": "《黑神话：悟空》全球音乐会 2026 巡演迎来收官，西安、南京两站开票，回顾这场以传统民乐与交响融合配乐为核心的音乐盛典。"
+ },
+ "https://dev.to/mst9tools/why-your-pixel-art-outline-looks-pasted-on-and-3-quick-fixes-in-aseprite-5eoa": {
+  "zh_title": "像素画描边为何看起来像贴上去的（以及 Aseprite 里的 3 个快速修正）",
+  "zh_oneliner": "解释纯黑描边为何让像素精灵显得与背景脱节，并给出在 Aseprite 里不用重画就能修好的三招。"
+ },
+ "https://dev.to/amran_ali_029a2ae4a7ae04c/showcase-i-built-thunderwing-strike-quest-a-free-browser-space-shooter-game-3jgp": {
+  "zh_title": "[展示] 我做了 Thunderwing Strike Quest——一款免费浏览器太空射击游戏",
+  "zh_oneliner": "作者分享自己做的免费浏览器太空射击小游戏，介绍玩法与无需下载、打开即玩的开发思路。"
+ },
+ "https://dev.to/siegeradar/what-how-many-people-play-siege-actually-measures-2jbn": {
+  "zh_title": "“有多少人在玩 Siege”这个数字到底在量什么",
+  "zh_oneliner": "拆解《彩虹六号：围攻》玩家数统计口径的常见误读，提醒做仪表盘与游戏工具的开发者讲清数字的构成与遗漏。"
  }
 }
