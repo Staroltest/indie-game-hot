@@ -6194,5 +6194,45 @@
  "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai": {
   "zh_title": "新报告称 40% 的游戏开发者在用生成式 AI，但更多人认为它有害",
   "zh_oneliner": "GDC 新报告显示四成在职开发者已在工作中使用生成式 AI，比去年又涨四个百分点，同时业内对它的质疑声也并未减弱。"
+ },
+ "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges": {
+  "zh_title": "Paradox 换帅：《十字军之王》发行商宣布 CEO 交接，称行业动荡期公司处境稳固",
+  "zh_oneliner": "策略游戏大厂 Paradox 宣布明年初由副手 Mattias Lilja 接替 Fredrik Wester 出任 CEO，并强调在行业普遍承压之际公司基本面依然稳健。"
+ },
+ "https://80.lv/articles/ocarina-of-time-s-link-reimagined-with-arcane-inspired-art-style": {
+  "zh_title": "《时之笛》林克以《Arcane》风格重绘：手绘贴图流程分享",
+  "zh_oneliner": "美术师 Mauricio Ataíde 以《Arcane》的动画风格重绘了《时之笛》中的林克，并分享了手绘贴图的制作心得。"
+ },
+ "https://gamedev.net/blogs/entry/2298666-devlog-2026-11-13": {
+  "zh_title": "开发日志 2026-11-13：《Infinite Stars》本周进展",
+  "zh_oneliner": "独立开发者记录《Infinite Stars》本周的开发进展，以及在全职工作之余推进项目的节奏与取舍。"
+ },
+ "https://dev.to/arhan_khan/odin-for-beginners-a-practical-language-for-games-and-systems-39a8": {
+  "zh_title": "Odin 入门：面向游戏与系统编程的实用语言指南",
+  "zh_oneliner": "一篇面向新手的 Odin 语言入门，介绍这门为游戏与系统编程设计的 C 替代语言如何保留性能与控制力、同时减少样板与心智负担。"
+ },
+ "https://dev.to/html5_games_studio/why-your-falling-blocks-game-feels-unfair-and-three-small-fixes-312l": {
+  "zh_title": "为什么你的方块游戏总让人觉得不公平：三个小改动",
+  "zh_oneliner": "即使完全遵守规则，方块游戏也可能让玩家觉得不公平，文章从出块随机、贴墙旋转与落地锁定三个细节给出可直接照做的修正思路。"
+ },
+ "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums": {
+  "zh_title": "台积电曝员工数据泄露：信息据称以三个比特币在论坛叫卖",
+  "zh_oneliner": "芯片巨头台积电被曝发生员工数据泄露，相关信息据称曾在论坛上以三个比特币的价格出售，给硬件与供应链从业者提了个内部数据安全的醒。"
+ },
+ "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win": {
+  "zh_title": "分享你最爱的 GTA 回忆，有机会赢得《GTA 6》",
+  "zh_oneliner": "Eurogamer 发起 GTA 回忆征集活动，参与者有机会赢得一本《GTA 6》，属于面向玩家的互动活动。"
+ },
+ "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks": {
+  "zh_title": "Eurogamer 推出三周 GTA 专题与“非 GTA”对冲栏目",
+  "zh_oneliner": "Eurogamer 为迎接《GTA 6》发售推出为期三周的 GTA 专题，并以“非 GTA”栏目对冲，是一次面向玩家的内容策划。"
+ },
+ "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park": {
+  "zh_title": "迷你评测：《Sonic Pico Park》回归：怀旧合作解谜平台",
+  "zh_oneliner": "《Pico Park》是开发者宫崎俊介十多年前在世嘉任职时做出的小品，如今以怀旧合作玩法登上 Switch，评测回顾了这款极简解谜平台作靠线上合作走红的历程。"
+ },
+ "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher": {
+  "zh_title": "《Dressmaker》开发内幕：两位主创聊这匹 2026 黑马是怎样炼成的",
+  "zh_oneliner": "《Dressmaker》是 2026 年的独立游戏黑马，两位主创在访谈中拆解了这款作品从立项到爆红背后的开发决策。"
  }
 }
