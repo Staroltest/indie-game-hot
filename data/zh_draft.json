@@ -6162,5 +6162,37 @@
  "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool": {
   "zh_title": "《杀戮尖塔 2》迎来首个新角色“愚者”，随最大规模 Beta 更新一同上线",
   "zh_oneliner": "抢先体验大获成功后，《杀戮尖塔 2》推出最大规模 Beta 补丁，首个新角色“愚者”登场，另有两个新模式。"
+ },
+ "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai": {
+  "zh_title": "《巫师 3》用 AI 帮波兰配音演员中风后重演杰洛特",
+  "zh_oneliner": "为杰洛特配音的波兰演员中风后无法继续献声，本人同意在新资料片中以 AI 还原其嗓音，聊聊这桩经本人授权的语音复刻案例。"
+ },
+ "https://gamedev.net/forums/topic/720833-androidios-memoria-visual-memory-games-at-your-own-pace-free-optional-ad-removal": {
+  "zh_title": "【Android/iOS】记忆游戏《Memoria Visual》：按自己的节奏玩，免费加可选去广告",
+  "zh_oneliner": "独立开发者自荐的记忆与注意力小游戏合集，主打大按钮、清晰文字与渐进难度，适合想做休闲益智游戏的开发者参考。"
+ },
+ "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions": {
+  "zh_title": "《塞尔达：众神的三角力量 2》官网出现 NSO 可玩标识，别急着下结论",
+  "zh_oneliner": "任天堂官网给《众神的三角力量 2》打上了 NSO 可玩标记，引发新游戏库猜测，文章提醒这未必意味着服务即将扩容。"
+ },
+ "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times": {
+  "zh_title": "“系列当时处境艰难”：Kit 与 Krysta 回顾《旷野之息》前的塞尔达低谷",
+  "zh_oneliner": "两位前任天堂主持人回忆《旷野之息》之前老公式销量与吸引力双双见顶的困境，值得做系列续作的开发者对照反思。"
+ },
+ "https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly": {
+  "zh_title": "Intel 意外抢回大块桌面 CPU 份额，或因 AMD 忙于游戏芯片",
+  "zh_oneliner": "桌面 CPU 市场出现意外逆转，Intel 份额大幅回升，分析认为与 AMD 把重心放在游戏芯片上、游戏 CPU 一时无人问津有关。"
+ },
+ "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content": {
+  "zh_title": "Reddit 称不会从 Reddit Reviews 的联盟链接中赚一分钱，正严防虚假内容",
+  "zh_oneliner": "Reddit 澄清其商品测评功能不从购买链接中抽成，并表示正在努力杜绝刷单式不实内容，对做社区电商的开发者有参考价值。"
+ },
+ "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition": {
+  "zh_title": "发售前一周，《GTA 6》实体地图疑因 350 英镑收藏版提前曝光",
+  "zh_oneliner": "距离发售不到一周，疑似收藏版附赠的实体地图照片在网上流出，拍自英国百货的《GTA 6》主题展区，聊聊宣发期实物周边泄密的老问题。"
+ },
+ "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai": {
+  "zh_title": "新报告称 40% 的游戏开发者在用生成式 AI，但更多人认为它有害",
+  "zh_oneliner": "GDC 新报告显示四成在职开发者已在工作中使用生成式 AI，比去年又涨四个百分点，同时业内对它的质疑声也并未减弱。"
  }
 }
