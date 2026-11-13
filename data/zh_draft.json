@@ -5822,5 +5822,17 @@
  "https://dev.to/hugobachmann/when-the-database-and-the-game-disagree-idempotency-and-compensation-for-rcon-in-laravel-38e0": {
   "zh_title": "当数据库与游戏意见不一致：用 Laravel 的 RCON 实现幂等与补偿",
   "zh_oneliner": "作者复盘一次网页商城与游戏内交易对不上的事故，讲清如何用幂等键、补偿步骤和审计日志，让游戏服务器命令与数据库扣款始终一致。"
+ },
+ "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees": {
+  "zh_title": "英伟达黄仁勋辞任 CEO，传与所谓中国间谍及两名员工有染",
+  "zh_oneliner": "英伟达联合创始人黄仁勋辞去总裁、CEO 及董事职务，相关报道称其卷入绯闻传闻。"
+ },
+ "https://80.lv/articles/palworld-studio-pocketpair-gives-employees-5-days-off-to-play-gta-6": {
+  "zh_title": "《幻兽帕鲁》开发商 Pocketpair 给员工放 5 天假玩《GTA 6》",
+  "zh_oneliner": "Pocketpair 将于 11 月 19 日至 23 日全员休假玩《GTA 6》，多家工作室也因该作发售纷纷调整档期。"
+ },
+ "https://dev.to/dalanchoo/how-to-build-an-enemy-spawn-trigger-in-unity-c-5ec1": {
+  "zh_title": "Unity（C#）敌人生成触发器制作教程",
+  "zh_oneliner": "手把手教你用 Unity 做一个敌人生成触发器：玩家走进触发区，敌人便在指定点出现。"
  }
 }
