@@ -88,6 +88,22 @@ GDC（404）。以后环境或地址变了可再测再加。
 （OpenAI 兼容的 `/chat/completions` 接口）；
 缺任何一个就跳过，调用失败也自动回退规则分。Key 绝不写进代码或配置文件。
 
+## MCP 接入
+
+本站提供 MCP（Model Context Protocol）接入点，AI 客户端可以直接查热点、
+日报、搜索最近动态，返回的同样只有标题、一句简介与原文链接：
+
+- 端点：`https://indie-game-hot.pages.dev/mcp`（Streamable HTTP，无需密钥）
+- 工具：`get_hot`（热点榜）、`get_daily`（最新日报）、`search_items`（关键词/分类搜索）
+- 实现：`_worker.js`（Cloudflare Pages Advanced Mode，单文件无依赖），
+  `_routes.json` 只把 `/mcp` 交给它，其余路径仍走静态托管。
+
+Claude Desktop 配置示例（`mcpServers` 里加一项）：
+
+```json
+"indiehot": { "type": "http", "url": "https://indie-game-hot.pages.dev/mcp" }
+```
+
 ## 许可
 
 MIT License，Copyright (c) 2026 Camille (IndieHOT)。见 [LICENSE](LICENSE)。

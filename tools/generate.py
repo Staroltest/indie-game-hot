@@ -2060,6 +2060,7 @@ def footer_html(base=""):
             '本站代码按 MIT 协议开源。</p>'
             f'<nav class="foot-links" aria-label="页脚链接">'
             f'<a href="{base}feed.xml">RSS 订阅</a>'
+            f'<a href="{base}about.html">MCP 接入</a>'
             f'<a href="{base}data/days/index.json">数据 JSON</a>'
             f'<a href="https://github.com/Staroltest/indie-game-hot">GitHub 仓库</a>'
             f'<a href="https://github.com/Staroltest/indie-game-hot/issues">反馈</a>'
@@ -2724,6 +2725,10 @@ def render_about(site):
                     "精选——每天 06:00（北京时间）出日报，每半小时更新。",
                     "出报——只展示标题、摘要与原文链接，不转载全文。"]),
         ("数据说明", ["内容来自各家公开 RSS，版权归原作者；翻译是我们自己做的中文标题与摘要，原文以链接为准。"]),
+        ("MCP 接入", ["本站提供 MCP（Model Context Protocol）接入点，AI 客户端可以直接查热点、日报、搜索最近动态——返回的同样只有标题、一句简介与原文链接。",
+                    "端点：<code>https://indie-game-hot.pages.dev/mcp</code>（Streamable HTTP，无需密钥，跑在 Cloudflare 镜像站上）。",
+                    "三个工具：get_hot（当前热点榜）、get_daily（最新一期日报）、search_items（按关键词与分类搜索最近动态）。",
+                    "以 Claude Desktop 为例，在配置文件里加一个 mcpServers 项，type 填 http，url 填上面这个端点即可。"]),
         ("制作人", ["Camille，独立游戏开发者（正在做太空贸易游戏《星穹商旅》）。"
                     "本站界面设计参考了卡兹克的开源项目 AIHOT（MIT 协议），品牌、内容与实现均为原创。"]),
         ("联系", ["有问题或想推荐信源，去 GitHub Issues 留言。"]),
