@@ -5918,5 +5918,29 @@
  "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world": {
   "zh_title": "微软称全球服务中断无恶意活动迹象",
   "zh_oneliner": "微软表示此次影响多国政府与机构的全球服务中断没有恶意活动的证据，仍在调查具体原因。"
+ },
+ "https://www.rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes": {
+  "zh_title": "Horu 是一款受《星球大战：帝国战争》启发的科幻 4X 即时战略游戏，飞船如同能召唤黑洞的施法者",
+  "zh_oneliner": "介绍一款把飞船做成施法单位的科幻 4X 即时战略新游，看看它如何把法术体系搬进太空战场。"
+ },
+ "https://80.lv/articles/check-out-vfx-breakdown-of-the-cg-jaguar-from-horror-drama-ferine": {
+  "zh_title": "解析恐怖剧情片《FERINE》中 CG 美洲豹的视觉特效制作",
+  "zh_oneliner": "拆解这只 CG 美洲豹如何通过脂肪与筋膜等多层解剖结构，让动作看起来自然可信。"
+ },
+ "https://www.gcores.com/articles/222337": {
+  "zh_title": "写在大战之前｜机事本 11.7-11.13",
+  "zh_oneliner": "机核编辑每周五的随笔合集，本期聊到博尔赫斯节目海报与各自的手头项目。"
+ },
+ "http://www.chuapp.com/article/291754.html": {
+  "zh_title": "触乐夜话：体会到开源的好",
+  "zh_oneliner": "一位女性向游戏玩家聊自己如何借助开源工具与 AI，动手解决市面产品满足不了的情感陪伴需求。"
+ },
+ "https://www.indiedb.com/games/irsen/news/devblog-39-enemy-ai-part-1-one-brain-for-the-entire-group": {
+  "zh_title": "开发日志 #39：敌人 AI（一）：整个敌群共用一个大脑",
+  "zh_oneliner": "分享如何把单个敌人的 AI 脚本升级为能协调整群敌人战斗行为的群体 AI 系统。"
+ },
+ "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12": {
+  "zh_title": "本周登陆 Nintendo Switch eShop 的 30 多款游戏（11 月 12 日）",
+  "zh_oneliner": "汇总本周上架 Switch eShop 的三十多款新游与折扣信息，供独立开发者参考平台发行节奏。"
  }
 }
