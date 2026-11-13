@@ -6318,5 +6318,25 @@
  "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of": {
   "zh_title": "“热咖啡”争议 22 年后，英国政客称《GTA 6》是“值得我们骄傲的作品”",
   "zh_oneliner": "从 22 年前的“热咖啡”风波到如今政客公开为《GTA 6》站台，这篇报道折射出游戏在主流舆论场中的地位变迁，值得关注行业公共形象的开发者一读。"
+ },
+ "https://dev.to/hitb1099/help-knj": {
+  "zh_title": "求助：第一次用 AI 做游戏设计文档，从核心机制开始",
+  "zh_oneliner": "一位新手分享第一次用 AI 写游戏设计文档的经历：先把玩法、细节讲清楚，从核心机制入手，再一步步往下做。"
+ },
+ "https://dev.to/heh/architecting-deterministic-multi-view-character-asset-pipelines-for-game-studios-493o": {
+  "zh_title": "为游戏工作室搭建确定性多视角角色与资产管线",
+  "zh_oneliner": "讲如何用正交一致的多视角流程，把 2D 概念图稳定地转成可投产的 3D 角色与逐帧资产，适合做前期美术管线的团队参考。"
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendos-on-the-hunt-for-a-digital-archivist-to-preserve-its-rich-history": {
+  "zh_title": "任天堂招聘数字档案管理员，守护自己的历史",
+  "zh_oneliner": "任天堂公开招募数字档案管理员，在数字商店陆续关闭、实体介质式微的背景下，系统保存公司的历史资料。"
+ },
+ "https://www.destructoid.com/cities-skylines-2-goes-free-to-play-but-only-for-a-limited-time": {
+  "zh_title": "《城市：天际线 2》限时免费游玩",
+  "zh_oneliner": "《城市：天际线 2》开启限时免费试玩，老玩家可以趁这段时间回去看看这座城市模拟游戏现在的变化。"
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5": {
+  "zh_title": "《GTA 5》里的路人都在盯着我看，停不下来",
+  "zh_oneliner": "一篇轻松的玩家手记，讲《GTA 5》里路人直勾勾的眼神带来的奇妙代入感。"
  }
 }
