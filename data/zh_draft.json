@@ -6002,5 +6002,45 @@
  "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox": {
   "zh_title": "Xbox 负责人确认《德军总部 3》开发中，id Software 也有新作",
   "zh_oneliner": "Xbox 负责人证实 MachineGames 正在开发《德军总部 3》，id Software 也在筹备一款新游戏，消息传出之际正值 Xbox 裁员风波。"
+ },
+ "https://indiegamesplus.com/pin-crawl-preview": {
+  "zh_title": "弹珠玩法焕发新生：《Pin-Crawl》前瞻",
+  "zh_oneliner": "这款弹珠题材新作把弹珠台改造成爬行探索玩法，值得留意它如何用极简机制玩出新意。"
+ },
+ "http://www.chuapp.com/article/291755.html": {
+  "zh_title": "《末日神枪》：英年早逝的《半衰期2》艺术总监，留下了一款类魂 FPS 遗作",
+  "zh_oneliner": "已故艺术总监 Viktor Antonov 生前主导的西部类魂 FPS 遗作，美术总监回顾了他如何把西部片美学与写实逻辑融进游戏世界。"
+ },
+ "https://www.indiedb.com/games/jolly-match-3-mr/news/jolly-match-3-mr-turns-classic-puzzle-gameplay-into-a-robot-boss-battle": {
+  "zh_title": "三消遇上机器人 Boss 战：《Jolly Match 3 MR》登陆 Meta Quest",
+  "zh_oneliner": "这款 MR 三消游戏新增 PvE 模式，玩家要在混合现实里与会放技能的机器人 Boss 斗智，展示了休闲玩法加 Boss 战的混搭思路。"
+ },
+ "https://www.indiedb.com/games/byzen-embers-of-revolution/news/devlog-10-a-replay-is-just-orders-and-a-seed-then-a-soldier-takes-a-step": {
+  "zh_title": "开发日志 #10：回放只是指令加种子",
+  "zh_oneliner": "开发者分享了如何让七分钟对战回放的 420 个状态哈希全部精确复现，关键是自研移动系统并把天气、水体和野生动物统一到固定 tick。"
+ },
+ "https://www.indiedb.com/games/the-penjikent-creature/news/thank-you-for-almost-100k-plays-weve-added-mobile-and-linux-support": {
+  "zh_title": "感谢近 10 万次游玩！《The Penjikent Creature》新增移动端与 Linux 支持",
+  "zh_oneliner": "这款独立游戏累计游玩接近 10 万次后推出了手机版与 Linux 版，是小团队靠持续更新把口碑慢慢滚大的案例。"
+ },
+ "https://dev.to/instant_games/jump-slide-outrun-designing-a-jungle-runner-obstacle-set-34je": {
+  "zh_title": "跳、滑、逃：设计一套丛林跑酷障碍",
+  "zh_oneliner": "作者以一款免费浏览器跑酷游戏为例，拆解了如何让跳跃、滑铲等少量动词各自对应明确的障碍类型，并用追击巨石制造紧迫感。"
+ },
+ "https://dev.to/trendzbetagames/how-to-check-youre-installing-the-right-android-app-run-away-as-an-example-o4f": {
+  "zh_title": "如何确认你装的是正确的安卓应用：以《Run Away》为例",
+  "zh_oneliner": "同名应用泛滥让玩家容易下错，文章以新游《Run Away》为例给出核对开发者名、包名等方法，对独立开发者也是起名与品牌一致性的提醒。"
+ },
+ "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake": {
+  "zh_title": "攻略：《塞尔达传说：时之笛》Switch 2 重制版主线与收集全指南",
+  "zh_oneliner": "这份 Switch 2 版《时之笛》全攻略覆盖主线、支线与收集，重制版约一成谜题与场景有改动，老玩家也值得翻一翻。"
+ },
+ "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027": {
+  "zh_title": "《Guild Saga: Vanished Worlds》战术冒险 2027 年 5 月登陆 PS5",
+  "zh_oneliner": "剧情驱动的战术 RPG《Guild Saga: Vanished Worlds》定档 2027 年 5 月登陆 PS5，首个英雄公会任务因神秘漩涡急转直下。"
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above": {
+  "zh_title": "AMD 已修复会“吃掉” SSD 的显卡驱动 Bug，RX 7000 系列及以上可选更新",
+  "zh_oneliner": "AMD 推送可选版 Adrenalin 驱动，修复了此前导致 SSD 异常的 Bug，但新版本自身似乎也带了点小毛病，升级前值得留意。"
  }
 }
