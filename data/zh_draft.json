@@ -6574,5 +6574,9 @@
  "https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae": {
   "zh_title": "导入四方向精灵图之前，先这样检查一遍",
   "zh_oneliner": "导入前快速核查四方向行走图的帧数与朝向，避免角色进游戏后走路错乱。"
+ },
+ "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2": {
+  "zh_title": "ICYMI：Limited Run Games 宣布补货 Switch 2 版《古墓丽影：决定版》",
+  "zh_oneliner": "实体限量发行商 Limited Run Games 罕见为 Switch 2 版《古墓丽影：决定版》安排补货，说明实体收藏版仍有稳定需求，独立开发者做实体发行时可以留意这类渠道的补货节奏。"
  }
 }
