@@ -1,3 +1,48 @@
+# IndieHOT — 允许搜索引擎与 AI 爬虫抓取公开内容
+# 规范域名为 https://staroltest.github.io/indie-game-hot/
+# Cloudflare Pages 镜像 indie-game-hot.pages.dev 内容相同，请以规范域名为准
+# 给 AI 看的站点说明见 llms.txt（站根 /llms.txt）
+
 User-agent: *
 Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
 Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml
