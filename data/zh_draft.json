@@ -10696,5 +10696,11 @@
   "zh_oneliner": "《耻辱2》总监 Harvey Smith 谈沉浸式模拟游戏的设计取舍：一边要兑现玩家对经典法则的期待，一边又想用新方式给他们惊喜。",
   "en_title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\"",
   "en_oneliner": "Dishonored 2 director Harvey Smith on the two pulls of immersive-sim design: honouring the genre's sacred texts while still finding new ways to surprise fans."
+ },
+ "https://dev.to/rabo1212/i-built-a-3d-multiplayer-web-game-where-you-wreck-an-office-with-friends-burning-office-33e0": {
+  "zh_title": "我做了个 3D 多人网页游戏，和朋友一起砸办公室（Burning Office）",
+  "zh_oneliner": "作者应朋友之邀做了款 3D 多人网页小游戏，最多 14 人点链接即玩，在下班前一分钟里砸显示器、放火、躺进零重力躺椅看办公室燃烧，顺带聊聊免安装多人玩法的实现思路。",
+  "en_title": "I built a 3D multiplayer web game where you wreck an office with friends (Burning Office)",
+  "en_oneliner": "At a friend’s request, the author built a 3D multiplayer web game where up to 14 people join via a single link—no install, no sign-up—and smash monitors, start fires, and watch the office burn from a zero-gravity recliner in the last minute before clocking out, with notes on how the install-free multiplayer works."
  }
 }
