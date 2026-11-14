@@ -10624,5 +10624,47 @@
   "zh_oneliner": "一个小团队用纯 JavaScript Canvas、不用引擎做了 41 款 HTML5 游戏，靠 Playgama Bridge SDK 一次打包分发到十几个平台，并复盘了多平台适配的真实成本与取舍。",
   "en_title": "41 browser games, one canvas codebase: how we ship them to a dozen portals",
   "en_oneliner": "A small team built 41 HTML5 games on a plain JavaScript canvas with no engine, shipping them to a dozen portals through the Playgama Bridge SDK and sharing the real costs and trade-offs of multi-portal distribution."
+ },
+ "https://80.lv/articles/vrchat-hairstyle-with-ponytails-that-turn-into-propellers": {
+  "zh_title": "VRChat 发型：马尾辫能变成螺旋桨",
+  "zh_oneliner": "一款可购买的 VRChat 发型把马尾辫做成了螺旋桨，展示了虚拟形象配饰还能玩出多少花样。",
+  "en_title": "VRChat Hairstyle With Ponytails That Turn Into Propellers",
+  "en_oneliner": "A purchasable VRChat hairstyle turns ponytails into propellers, showing how much room avatar accessories still have for playful ideas."
+ },
+ "https://dev.to/itech_accesories_b86af4c5/designing-a-gamified-fitness-loop-translating-raw-pedometer-streams-into-virtual-companion-state-2hfd": {
+  "zh_title": "设计游戏化健身循环：把原始计步数据变成虚拟伙伴的状态",
+  "zh_oneliner": "这篇开发手记讲了如何把系统健康 API 的计步流分层处理，驱动虚拟伙伴的状态变化，同时防刷又不显生硬。",
+  "en_title": "Designing a Gamified Fitness Loop: Translating Raw Pedometer Streams into Virtual Companion State",
+  "en_oneliner": "This dev diary explains how raw pedometer streams from OS health APIs are layered into a state engine that drives a virtual companion without feeling broken or exploitable."
+ },
+ "https://dev.to/cpcai_studio/a-web-game-in-a-native-shell-shipping-to-google-play-and-the-app-store-with-capacitor-in-five-days-5e59": {
+  "zh_title": "网页游戏套原生壳：五天内用 Capacitor 上架 Google Play 与 App Store",
+  "zh_oneliner": "一位独立开发者分享了不重写代码、直接用 Capacitor 壳把网页游戏送进两大应用商店的五天实战，优惠券系统是最耗时的坑。",
+  "en_title": "A web game in a native shell: shipping to Google Play and the App Store with Capacitor in five days",
+  "en_oneliner": "A solo developer recounts shipping a web game to Google Play and the App Store in five days inside a Capacitor shell, with the coupon system turning out to be the biggest time sink."
+ },
+ "https://dev.to/drew_grant_7c81ce9e84426a/how-to-play-chainle-a-better-way-to-connect-word-clues-2clg": {
+  "zh_title": "Chainle 玩法解析：把词语线索连起来的更好方式",
+  "zh_oneliner": "这篇文字游戏设计笔记拆解了线索联想的诀窍：先看整组线索再猜，别被第一条线索带偏。",
+  "en_title": "How to Play Chainle: A Better Way to Connect Word Clues",
+  "en_oneliner": "This word-game design note breaks down the trick of connecting clues: read the whole set first instead of letting the first clue steer the guess."
+ },
+ "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better": {
+  "zh_title": "观点：任天堂让《时之笛》最经典的一刻在 Switch 2 上更出色了",
+  "zh_oneliner": "这篇评论文章聊的是《时之笛》登陆 Switch 2 后，任天堂如何让原作最动人的瞬间更上一层楼。",
+  "en_title": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
+  "en_oneliner": "This opinion piece looks at how Nintendo made Ocarina of Time's most memorable moment even better on Switch 2."
+ },
+ "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby": {
+  "zh_title": "F1 迎来一位奇特的金主：赛马娘手游《Umamusume: Pretty Derby》",
+  "zh_oneliner": "一级方程式多了一位出人意料的赞助方——赛马娘抽卡手游，跨界联动的脑洞又开大了一圈。",
+  "en_title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+  "en_oneliner": "Formula 1 has gained an unlikely financial backer in the horse-girl gacha game Umamusume: Pretty Derby, a crossover nobody saw coming."
+ },
+ "https://gamedev.net/forums/topic/720836-androidios-cannon-king-worms-style-turn-based-artillery-built-by-one-person-free-feedback-welcome": {
+  "zh_title": "《Cannon King》：一人开发的百战天虫式回合制炮战手游，双端免费上架求反馈",
+  "zh_oneliner": "首尔一位独立开发者独自做出了这款回合制炮战手游，已在安卓与 iOS 上架，正在征集玩家反馈。",
+  "en_title": "[Android/iOS] Cannon King — Worms-style turn-based artillery, built by one person (free, feedback welcome)",
+  "en_oneliner": "A solo developer in Seoul shipped this Worms-style turn-based artillery game for Android and iOS and is now gathering player feedback."
  }
 }
