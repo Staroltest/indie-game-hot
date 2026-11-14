@@ -10768,5 +10768,35 @@
   "zh_oneliner": "Switch 上难得一见的冰球 Roguelite 小品评测，讲它如何把冰球做成耐玩的肉鸽循环，值得做体育题材的独立开发者参考。",
   "en_title": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
   "en_oneliner": "A mini review of a rare hockey roguelite on Switch, showing how the sport translates into a replayable roguelike loop — a useful reference for devs working on sports themes."
+ },
+ "https://gamefromscratch.com/humble-fumbles-november-gamedev-deals-round-up": {
+  "zh_title": "11 月游戏开发优惠合集：Humble 捆绑包与各平台折扣盘点",
+  "zh_oneliner": "盘点 11 月各平台面向游戏开发者的折扣与捆绑包，包括 Unity 素材商店低多边形大包，适合趁打折补齐工具与美术资源。",
+  "en_title": "Humble Fumbles & November GameDev Deals Round-Up",
+  "en_oneliner": "A round-up of November deals and bundles for game developers, including the Unity Asset Store low-poly mega bundle — a good moment to stock up on tools and art assets at a discount."
+ },
+ "https://dev.to/favoritedevx/show-dev-i-built-github-multiverse-a-decentraland-style-3d-virtual-world-where-devs-walk-as-3d-4l3c": {
+  "zh_title": "开发者展示：我做了 GitHub Multiverse——开发者化身 3D 鼠标光标漫步的虚拟世界",
+  "zh_oneliner": "作者用 Three.js 与 Node.js 从零搭建了一个面向开发者的 3D 协作虚拟世界，参与者以 3D 鼠标光标的形象在其中行走互动。",
+  "en_title": "Show DEV: I built GitHub Multiverse — a Decentraland-style 3D virtual world where devs walk as 3D mouse cursors",
+  "en_oneliner": "Built from scratch with Three.js and Node.js, this 3D collaborative virtual world for developers lets participants walk around as 3D mouse cursors."
+ },
+ "https://dev.to/playgamalabs/gravity-forge-a-browser-game-in-one-folder-52e5": {
+  "zh_title": "Gravity Forge：一整个文件夹装下的浏览器小游戏",
+  "zh_oneliner": "一款极简自包含的浏览器游戏：你不直接移动物体，而是通过放置引力节点弯曲空间，引导从天而降的星核。",
+  "en_title": "Gravity Forge — a browser game in one folder",
+  "en_oneliner": "A tiny self-contained browser game where you never touch the falling star cores — you bend space around them by placing gravity nodes."
+ },
+ "https://dev.to/zentaolabs/whats-inside-an-osk-file-packaging-an-osu-skin-correctly-2m58": {
+  "zh_title": ".osk 文件里有什么？正确打包 osu! 皮肤的方法",
+  "zh_oneliner": "讲解 .osk 文件的内部结构与打包规范，写皮肤工具或想把改好的皮肤发给朋友时，照着做就不会出错。",
+  "en_title": "What's inside an .osk file? Packaging an osu! skin correctly",
+  "en_oneliner": "A clear breakdown of what's inside an .osk file and how to package an osu! skin correctly, whether you're building skin tools or sharing an edited skin with a friend."
+ },
+ "https://dev.to/playgamalabs/echo-warden-fight-beside-your-past-selves-14cc": {
+  "zh_title": "Echo Warden：与过去的自己并肩作战",
+  "zh_oneliner": "一款时间循环竞技场游戏：你守护核心的同时，上一轮的自己会以残影重现，精确复现此前的走位与射击，每一轮都多一位真正的战友。",
+  "en_title": "Echo Warden: Fight beside your past selves",
+  "en_oneliner": "A time-loop arena game where you defend a core while an echo of your previous run fights beside you, replaying your exact moves and shots so every loop adds a real defender."
  }
 }
