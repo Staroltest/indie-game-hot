@@ -8,7 +8,7 @@
 > Mirror: https://indie-game-hot.pages.dev/
 > Language: Chinese (zh-CN). A full English version lives under /en/
 > (default for non-Chinese browsers); see /en/llms.txt.
-> Updated: 2026-11-14
+> Updated: 2026-11-15
 
 ## About
 
