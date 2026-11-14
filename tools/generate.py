@@ -2080,12 +2080,13 @@ def footer_html(base=""):
 
 
 def page_open(site, active, title, description, prefix="", base="", canonical="",
-              ld_items=None, page_cls="", ld_blocks=None):
+              ld_items=None, page_cls="", ld_blocks=None, og_type="website",
+              extra_head=""):
     site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
     canon = canonical or site_url + "/"
     og = (f'<meta property="og:title" content="{esc(title)}">\n'
           f'<meta property="og:description" content="{esc(description)}">\n'
-          f'<meta property="og:type" content="website">\n'
+          f'<meta property="og:type" content="{og_type}">\n'
           f'<meta property="og:url" content="{esc(canon)}">\n'
           f'<meta property="og:image" content="{site_url}/favicon.svg">\n'
           f'<meta name="twitter:card" content="summary">\n'
@@ -2094,6 +2095,7 @@ def page_open(site, active, title, description, prefix="", base="", canonical=""
           f'<meta name="twitter:image" content="{site_url}/favicon.svg">\n')
     ld = {"@context": "https://schema.org", "@type": "WebSite",
           "name": "IndieHOT", "url": site_url,
+          "inLanguage": "zh-CN",
           "description": site.get("description", "")}
     ld_parts = [json.dumps(ld, ensure_ascii=False)]
     if ld_items:
@@ -2112,6 +2114,12 @@ def page_open(site, active, title, description, prefix="", base="", canonical=""
             f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
             f"<title>{esc(title)}</title>\n"
             f"<meta name=\"description\" content=\"{esc(description)}\">\n"
+            f'<link rel="canonical" href="{esc(canon)}">\n'
+            f'<link rel="alternate" hreflang="zh-CN" href="{esc(canon)}">\n'
+            f'<link rel="alternate" hreflang="x-default" href="{esc(canon)}">\n'
+            f'<meta name="robots" content="index, follow, max-image-preview:large">\n'
+            f'<link rel="alternate" type="application/rss+xml" title="IndieHOT" href="{site_url}/feed.xml">\n'
+            f"{extra_head}"
             f'<link rel="icon" type="image/svg+xml" href="{base}favicon.svg">\n'
             f"{og}"
             f'{ld_html}'
@@ -2509,7 +2517,8 @@ def render_period(site, kind, report, base="", prev=None, next_=None, canonical=
         f'<a href="{base}daily.html">日报</a> · <a href="{base}weekly.html">周报</a> · '
         f'<a href="{base}monthly.html">月报</a> · <a href="{base}daily/archive.html">往期存档</a></p>')
     return (page_open(site, kind, f'{site["name"]}{name} · {report["date"]}',
-                      site["description"], prefix="index.html", base=base,
+                      report.get("summary") or site["description"],
+                      prefix="index.html", base=base,
                       canonical=canonical, ld_items=report["items"], page_cls=" page-reading")
             + f'<div class="m-title">{name}</div>'
             + f'<div class="report-shell"><div class="masthead"><div class="mp-brand">'
@@ -2780,6 +2789,8 @@ def render_item(site, it, related, is_selected, daily_issue):
         {"@context": "https://schema.org", "@type": "Article",
          "headline": title, "description": desc,
          "datePublished": pub.astimezone(timezone.utc).isoformat(),
+         "dateModified": pub.astimezone(timezone.utc).isoformat(),
+         "inLanguage": "zh-CN",
          "author": {"@type": "Organization", "name": it["source"]},
          "publisher": {"@type": "Organization", "name": "IndieHOT"},
          "mainEntityOfPage": canonical},
@@ -2818,9 +2829,14 @@ def render_item(site, it, related, is_selected, daily_issue):
         cards = "".join(feed_item(r, base="../") for r in related)
         related_html = (f'<section class="item-sec"><h2>相关条目</h2>'
                         f'<div class="item-related-list">{cards}</div></section>')
+    pub_iso = pub.astimezone(timezone.utc).isoformat()
+    article_head = (f'<meta property="article:published_time" content="{pub_iso}">\n'
+                    f'<meta property="article:modified_time" content="{pub_iso}">\n'
+                    f'<meta property="article:author" content="IndieHOT">\n')
     return (page_open(site, "all", f"{title} · IndieHOT", desc,
                       prefix="index.html", base="../", canonical=canonical,
-                      page_cls=" page-reading", ld_blocks=ld_blocks)
+                      page_cls=" page-reading", ld_blocks=ld_blocks,
+                      og_type="article", extra_head=article_head)
             + f'<article class="item-page" data-item-id="{esc(it["id"])}">'
             + f'<button type="button" class="item-back" id="backBtn" data-home="../index.html">← 返回</button>'
             + f'<div class="item-meta">{meta}</div>'
@@ -2980,6 +2996,242 @@ def load_period_archive(dirpath):
 
 
 # ---------------------------------------------------------------- 主流程
+
+# ---------------------------------------------------------------- SEO / GEO
+
+def _sitemap_lastmod(sub, fn, default):
+    """按存档文件名推算真实 lastmod：daily=YYYY-MM-DD，monthly=当月 1 日，
+    weekly=ISO 周的周一；解析失败时用默认值。"""
+    stem = fn[:-5] if fn.endswith(".html") else fn
+    try:
+        if sub == "daily":
+            return datetime.strptime(stem, "%Y-%m-%d").strftime("%Y-%m-%d")
+        if sub == "monthly":
+            return datetime.strptime(stem, "%Y-%m").strftime("%Y-%m-%d")
+        if sub == "weekly":
+            y, w = stem.split("-W")
+            return datetime.fromisocalendar(int(y), int(w), 1).strftime("%Y-%m-%d")
+    except (ValueError, AttributeError):
+        return default
+    return default
+
+
+def build_robots_txt(site_url):
+    """完整版 robots.txt：明确放行主流 AI 爬虫，禁 Bytespider / PetalBot。"""
+    allow_bots = ["GPTBot", "ChatGPT-User", "OAI-SearchBot", "ClaudeBot",
+                  "Claude-Web", "PerplexityBot", "Perplexity-User",
+                  "Google-Extended", "CCBot", "Meta-ExternalAgent",
+                  "Applebot-Extended"]
+    deny_bots = ["Bytespider", "PetalBot"]
+    lines = ["# IndieHOT — 允许搜索引擎与 AI 爬虫抓取公开内容",
+             "# 规范域名为 https://staroltest.github.io/indie-game-hot/",
+             "# Cloudflare Pages 镜像 indie-game-hot.pages.dev 内容相同，请以规范域名为准",
+             "# 给 AI 看的站点说明见 llms.txt（站根 /llms.txt）",
+             "",
+             "User-agent: *",
+             "Allow: /",
+             ""]
+    for bot in allow_bots:
+        lines += [f"User-agent: {bot}", "Allow: /", ""]
+    for bot in deny_bots:
+        lines += [f"User-agent: {bot}", "Disallow: /", ""]
+    lines.append(f"Sitemap: {site_url}/sitemap.xml")
+    return "\n".join(lines) + "\n"
+
+
+_LLMS_CAT_EN = {
+    "engine": "Engine & tools",
+    "publishing": "Publishing & marketing",
+    "devlog": "Devlog",
+    "industry": "Industry & funding",
+    "events": "Events",
+    "reviews": "Reviews & postmortems",
+}
+
+
+def build_llms_txt(site, cats, today_iso):
+    """llms.txt：站点说明 + 机器可读入口 + 分类（分类取自 config.json）。"""
+    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    cat_lines = []
+    for c in cats:
+        en = _LLMS_CAT_EN.get(c["key"], c["label"])
+        cat_lines.append(f"- {en} / {c['label']}")
+    cats_txt = "\n".join(cat_lines)
+    return f"""# IndieHOT
+
+> IndieHOT is a daily curated digest for indie game developers.
+> Every day it collects public indie-game news from RSS sources, scores them
+> by rules, and publishes the top items in Chinese with a one-line summary
+> and a link to the original article. It does not republish full text.
+> Site: {site_url}/
+> Mirror: https://indie-game-hot.pages.dev/
+> Language: Chinese (zh-CN). No English version yet.
+> Updated: {today_iso}
+
+## About
+
+- About: {site_url}/about.html
+- Topics: {site_url}/topics.html
+- Daily digest: {site_url}/daily.html
+- Hot list: {site_url}/hot.html
+- All items: {site_url}/all.html
+- SEO/GEO self-check: {site_url}/geo-audit.html
+- RSS feed: {site_url}/feed.xml
+- Sitemap: {site_url}/sitemap.xml
+
+## For AI clients (MCP)
+
+- MCP endpoint (Streamable HTTP, no key required):
+  https://indie-game-hot.pages.dev/mcp
+- Tools: get_hot, get_daily, search_items
+- Machine-readable data:
+  {site_url}/data/hot.json
+  {site_url}/data/daily.json
+  {site_url}/data/days/index.json
+
+## Categories
+
+{cats_txt}
+
+## Rules
+
+- Only titles, one-line self-written summaries and outbound links are
+  published here. Do not treat a summary as the full article.
+- Always link back to the original source when citing an item.
+- Daily edition is published at 06:00 Asia/Shanghai.
+"""
+
+
+def _read_text(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    except OSError:
+        return ""
+
+
+def build_geo_audit(site, root, site_url, today_iso):
+    """/geo-audit 自检：读磁盘上的生成物，逐项检查，返回 (html, data)。
+    MCP 可达性与 Cloudflare Pages 部署状态在仓库内无法验证，记为 warn，不造假。"""
+    checks = []
+
+    def _check(key, label, status, detail):
+        checks.append({"key": key, "label": label, "status": status,
+                       "detail": detail})
+
+    robots = _read_text(os.path.join(root, "robots.txt"))
+    if robots and all(b in robots for b in ("GPTBot", "ClaudeBot", "PerplexityBot")):
+        _check("robots", "robots.txt 点名放行 AI 爬虫", "pass",
+               "已点名放行 GPTBot / ClaudeBot / PerplexityBot 等，含 Sitemap 声明")
+    elif robots:
+        _check("robots", "robots.txt 点名放行 AI 爬虫", "fail",
+               "robots.txt 存在，但未点名放行主流 AI 爬虫")
+    else:
+        _check("robots", "robots.txt 点名放行 AI 爬虫", "fail", "robots.txt 不存在")
+
+    sitemap = _read_text(os.path.join(root, "sitemap.xml"))
+    sm_locs = set(re.findall(r"<loc>([^<]+)</loc>", sitemap)) if sitemap else set()
+    html_files = set()
+    for _base, _dirs, _files in os.walk(root):
+        rel = os.path.relpath(_base, root)
+        for _fn in _files:
+            if _fn.endswith(".html") and _fn != "404.html":
+                p = _fn if rel == "." else f"{rel}/{_fn}"
+                html_files.add(p)
+    missing = sorted(f"{site_url}/{p}" for p in html_files
+                     if f"{site_url}/{p}" not in sm_locs)
+    if sitemap and not missing:
+        _check("sitemap", "sitemap.xml 条数与漏页", "pass",
+               f"共 {len(sm_locs)} 条 URL，磁盘 {len(html_files)} 个 HTML 页全部在列")
+    elif sitemap:
+        _check("sitemap", "sitemap.xml 条数与漏页", "fail",
+               f"共 {len(sm_locs)} 条 URL，漏 {len(missing)} 页："
+               + "、".join(missing[:5]) + ("…" if len(missing) > 5 else ""))
+    else:
+        _check("sitemap", "sitemap.xml 条数与漏页", "fail", "sitemap.xml 不存在")
+
+    llms = _read_text(os.path.join(root, "llms.txt"))
+    if llms and "pages.dev/mcp" in llms:
+        _check("llms", "llms.txt 存在", "pass", "已生成，含 MCP 端点与数据 JSON 入口")
+    elif llms:
+        _check("llms", "llms.txt 存在", "warn", "llms.txt 存在，但未写 MCP 端点")
+    else:
+        _check("llms", "llms.txt 存在", "fail", "llms.txt 不存在")
+
+    index_html = _read_text(os.path.join(root, "index.html"))
+    if 'rel="canonical"' in index_html and 'hreflang="zh-CN"' in index_html:
+        _check("canonical", "首页 canonical / hreflang", "pass",
+               "canonical、hreflang=zh-CN 与 x-default 齐全")
+    else:
+        _check("canonical", "首页 canonical / hreflang", "fail",
+               "首页缺少 canonical 或 hreflang（需下次生成后生效）")
+    if '"@type": "WebSite"' in index_html and '"inLanguage"' in index_html:
+        _check("jsonld", "首页 JSON-LD（WebSite）", "pass",
+               "WebSite 结构化数据含 inLanguage=zh-CN")
+    elif '"@type": "WebSite"' in index_html:
+        _check("jsonld", "首页 JSON-LD（WebSite）", "warn",
+               "WebSite 存在，但缺 inLanguage")
+    else:
+        _check("jsonld", "首页 JSON-LD（WebSite）", "fail", "首页缺少 WebSite 结构化数据")
+
+    items_dir = os.path.join(root, "items")
+    newest_item = ""
+    if os.path.isdir(items_dir):
+        _htmls = [os.path.join(items_dir, f) for f in os.listdir(items_dir)
+                  if f.endswith(".html")]
+        if _htmls:
+            newest_item = max(_htmls, key=os.path.getmtime)
+    item_html = _read_text(newest_item) if newest_item else ""
+    if item_html and '"dateModified"' in item_html and '"datePublished"' in item_html \
+            and 'og:type" content="article"' in item_html:
+        _check("item", "详情页 Article（抽查最新 1 篇）", "pass",
+               "含 datePublished / dateModified，og:type=article")
+    elif item_html:
+        _check("item", "详情页 Article（抽查最新 1 篇）", "fail",
+               "详情页缺 dateModified 或 og:type 不是 article")
+    else:
+        _check("item", "详情页 Article（抽查最新 1 篇）", "warn", "未找到详情页可抽查")
+
+    _check("mcp", "MCP 端点可达性", "warn",
+           "端点 https://indie-game-hot.pages.dev/mcp 已写入 llms.txt；"
+           "本轮未做在线请求，可达性需线上验证")
+    _check("pages", "Cloudflare Pages 部署", "warn",
+           "仓库内无法验证部署状态，请以 Cloudflare Pages 控制台最新部署为准")
+    feed = _read_text(os.path.join(root, "feed.xml"))
+    if feed and "<rss" in feed and "<item>" in feed:
+        _check("feed", "feed.xml 正常", "pass",
+               f"RSS 2.0 正常，含 {feed.count('<item>')} 条")
+    else:
+        _check("feed", "feed.xml 正常", "fail", "feed.xml 不存在或内容异常")
+
+    n_pass = sum(1 for c in checks if c["status"] == "pass")
+    n_warn = sum(1 for c in checks if c["status"] == "warn")
+    n_fail = sum(1 for c in checks if c["status"] == "fail")
+    data = {"generated_at": today_iso, "site": site_url,
+            "summary": {"total": len(checks), "passed": n_pass,
+                        "warn": n_warn, "failed": n_fail},
+            "checks": checks}
+    icon = {"pass": "✅", "warn": "⚠️", "fail": "❌"}
+    rows = "".join(
+        f'<tr><td>{icon[c["status"]]} {esc(c["label"])}</td>'
+        f'<td>{esc(c["detail"])}</td></tr>\n' for c in checks)
+    body = (f'<div class="m-title">SEO / GEO 自检</div>'
+            f'<h1>IndieHOT · SEO / GEO 自检</h1>'
+            f'<p class="lede">最后检查：{today_iso}（每轮生成后自动刷新；'
+            f'通过 {n_pass}/{len(checks)}，警告 {n_warn}，失败 {n_fail}）</p>'
+            f'<table class="audit-table"><thead><tr><th>检查项</th><th>结果</th></tr></thead>'
+            f'<tbody>{rows}</tbody></table>'
+            f'<p class="more-note">数据文件：<a href="data/geo-audit.json">data/geo-audit.json</a>'
+            f' · 站点说明：<a href="llms.txt">llms.txt</a>'
+            f' · 站点地图：<a href="sitemap.xml">sitemap.xml</a></p>')
+    html = (page_open(site, "more", f'{site["title"]} · SEO / GEO 自检',
+                      "IndieHOT SEO 与 GEO 自检页：robots、sitemap、llms、canonical、"
+                      "结构化数据、详情页、MCP 与订阅源的逐项检查结果。",
+                      prefix="index.html",
+                      canonical=site_url + "/geo-audit.html")
+            + body + page_close(site, "more", prefix="index.html"))
+    return html, data
+
 
 def main():
     ap = argparse.ArgumentParser()
@@ -3297,24 +3549,55 @@ def main():
     feed_items = sorted(recent_48h, key=lambda x: x["score"], reverse=True)[:20]
     with open(os.path.join(root, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(build_feed_xml(site, [pub_item(it) for it in feed_items]))
+    # robots.txt（SEO/GEO：明确放行 AI 爬虫，禁高频低价值抓取；llms.txt 见下方）
     with open(os.path.join(root, "robots.txt"), "w", encoding="utf-8") as f:
-        f.write(f"User-agent: *\nAllow: /\nSitemap: {site_url}/sitemap.xml\n")
+        f.write(build_robots_txt(site_url))
     with open(os.path.join(root, "favicon.svg"), "w", encoding="utf-8") as f:
         f.write(LOGO_SVG)
-    sitemap_urls = ["", "all.html", "hot.html", "daily.html", "weekly.html", "monthly.html",
-                    "starred.html", "more.html", "changelog.html", "about.html",
-                    "terms.html", "privacy.html", "topics.html",
-                    "daily/archive.html", "feed.xml"]
-    sitemap_urls += ["topics/" + slug + ".html" for _l, slug, _n in tag_counts]
-    sitemap_urls += ["items/" + it_id + ".html" for it_id in history]
+    # sitemap.xml：真实 lastmod + 全量页面（历史 + 本轮 live + 磁盘已有详情页/存档页）
     today_iso = now_cst.strftime("%Y-%m-%d")
+    sitemap_entries = {}
+
+    def _add_sitemap(path, lastmod):
+        if path and path != "404.html" and path not in sitemap_entries:
+            sitemap_entries[path] = lastmod or today_iso
+
+    for _p in ["", "all.html", "hot.html", "daily.html", "weekly.html", "monthly.html",
+               "starred.html", "more.html", "changelog.html", "about.html",
+               "terms.html", "privacy.html", "topics.html",
+               "daily/archive.html", "feed.xml", "geo-audit.html"]:
+        _add_sitemap(_p, today_iso)
+    for _l, slug, _n in tag_counts:
+        _add_sitemap("topics/" + slug + ".html", today_iso)
+    _pub_dates = {}
+    for _it in live:
+        _pub_dates[_it["id"]] = _it["_pub"].astimezone(CST).date().isoformat()
+    for _it_id, _it in history.items():
+        _pub_dates.setdefault(_it_id, (_it.get("published") or "")[:10] or today_iso)
+    for _it_id in list(history.keys()) + [_it["id"] for _it in live]:
+        _add_sitemap("items/" + _it_id + ".html", _pub_dates.get(_it_id, today_iso))
+    for _sub in ("daily", "weekly", "monthly"):
+        _sub_dir = os.path.join(root, _sub)
+        if os.path.isdir(_sub_dir):
+            for _fn in sorted(os.listdir(_sub_dir)):
+                if _fn.endswith(".html"):
+                    _add_sitemap(f"{_sub}/{_fn}",
+                                 _sitemap_lastmod(_sub, _fn, today_iso))
+    _items_dir = os.path.join(root, "items")
+    if os.path.isdir(_items_dir):
+        for _fn in sorted(os.listdir(_items_dir)):
+            if _fn.endswith(".html"):
+                _add_sitemap("items/" + _fn, _pub_dates.get(_fn[:-5], today_iso))
     sm = ["<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
           "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">"]
-    for p in sitemap_urls:
-        sm.append(f"<url><loc>{site_url}/{p}</loc><lastmod>{today_iso}</lastmod></url>")
+    for _p, _lm in sitemap_entries.items():
+        sm.append(f"<url><loc>{site_url}/{_p}</loc><lastmod>{_lm}</lastmod></url>")
     sm.append("</urlset>")
     with open(os.path.join(root, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write("\n".join(sm) + "\n")
+    # llms.txt：每轮重写，给 AI 客户端的站点说明 + 机器可读入口
+    with open(os.path.join(root, "llms.txt"), "w", encoding="utf-8") as f:
+        f.write(build_llms_txt(site, cats, today_iso))
     print(f"fetch: {fetched} items parsed from {len(sources) - len(failed)}/{len(sources)} sources"
           + (f"; failed: {failed}" if failed else ""))
     print(f"history: {len(history)} items; 7d: {len(last_7d)}; "
@@ -3432,16 +3715,28 @@ def main():
         os.makedirs(os.path.join(root, "daily"), exist_ok=True)
         with open(os.path.join(root, "daily", "archive.html"), "w", encoding="utf-8") as f:
             f.write(render_archive(site, d_entries, w_entries, m_entries))
-        # sitemap 补上存档页（日报页在 daily/ 下）
-        sm_extra = [f"<url><loc>{site_url}/daily/{r['key']}.html</loc>"
-                    f"<lastmod>{today_iso}</lastmod></url>" for r in daily_reports]
-        sm_extra += [f"<url><loc>{site_url}/weekly/{r['key']}.html</loc>"
-                     f"<lastmod>{today_iso}</lastmod></url>" for r in weekly_reports]
-        sm_extra += [f"<url><loc>{site_url}/monthly/{r['key']}.html</loc>"
-                     f"<lastmod>{today_iso}</lastmod></url>" for r in monthly_reports]
-        sm_all = sm[:-1] + sm_extra + ["</urlset>"]
-        with open(os.path.join(root, "sitemap.xml"), "w", encoding="utf-8") as f:
-            f.write("\n".join(sm_all) + "\n")
+        # sitemap 补上本轮新出的存档页（主 sitemap 已扫描磁盘，只补还没有的；
+        # lastmod 用报告真实日期，不再全写当天）
+        try:
+            with open(os.path.join(root, "sitemap.xml"), encoding="utf-8") as _sf:
+                _existing_locs = set(re.findall(r"<loc>([^<]+)</loc>", _sf.read()))
+        except OSError:
+            _existing_locs = set()
+        _sm_extra = []
+        for _out, _reps in (("daily", daily_reports), ("weekly", weekly_reports),
+                            ("monthly", monthly_reports)):
+            for _r in _reps:
+                _loc = f"{site_url}/{_out}/{_r['key']}.html"
+                if _loc not in _existing_locs:
+                    _sm_extra.append(f"<url><loc>{_loc}</loc>"
+                                     f"<lastmod>{_r['date_iso']}</lastmod></url>")
+        if _sm_extra:
+            with open(os.path.join(root, "sitemap.xml"), encoding="utf-8") as _sf:
+                _sm_text = _sf.read()
+            _sm_text = _sm_text.replace("</urlset>",
+                                        "\n".join(_sm_extra) + "\n</urlset>")
+            with open(os.path.join(root, "sitemap.xml"), "w", encoding="utf-8") as f:
+                f.write(_sm_text)
         print(f"archive: daily {len(d_entries)}, weekly {len(w_entries)}, monthly {len(m_entries)}")
 
     # --- 文章详情页（items/<id>.html）：30 天库里的每条内容各一页；
@@ -3485,6 +3780,13 @@ def main():
                                 daily_issue.get(it["id"])))
         n_items += 1
     print(f"items: {n_items} detail pages")
+    # --- /geo-audit 自检页 + 数据（SEO/GEO：每轮生成后自检，日报复用同一份数据）---
+    geo_html, geo_data = build_geo_audit(site, root, site_url, today_iso)
+    with open(os.path.join(root, "geo-audit.html"), "w", encoding="utf-8") as f:
+        f.write(geo_html)
+    save_json(os.path.join(data_dir, "geo-audit.json"), geo_data)
+    print(f"geo-audit: {geo_data['summary']['passed']} passed, "
+          f"{geo_data['summary']['warn']} warn, {geo_data['summary']['failed']} failed")
 
 
 if __name__ == "__main__":
