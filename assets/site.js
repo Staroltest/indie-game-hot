@@ -496,7 +496,7 @@ function cardHTML(it){
   var m=computeMeta(it);
   var title=it.zh_title||it.title;
   var summary=it.zh_oneliner||'';
-  var en=it.title;
+  var en=it.en_title||it.title;
   var pub=cstParts(new Date(it.published));
   var off=m.tier==='T1'?'<span class="off-tag">官方</span>':'';
   var isNew=false;

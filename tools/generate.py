@@ -1119,7 +1119,7 @@ def feed_item(it, rank=None, badge=False, base="", lang="zh"):
     else:
         title = it.get("zh_title") or it["title"]
         summary = it.get("zh_oneliner") or ""
-    en_text = it["title"]
+    en_text = it.get("en_title") or it["title"]
     return (f'<article class="feed-item" data-id="{esc(it["id"])}" data-category="{esc(it["category"])}"'
             f' data-official="{"1" if it.get("_tier") == "T1" else "0"}"'
             f' data-en="{esc(en_text)}">'
@@ -1690,7 +1690,7 @@ function cardHTML(it){
   var m=computeMeta(it);
   var title=it.zh_title||it.title;
   var summary=it.zh_oneliner||'';
-  var en=it.title;
+  var en=it.en_title||it.title;
   var pub=cstParts(new Date(it.published));
   var off=m.tier==='T1'?'<span class="off-tag">官方</span>':'';
   var isNew=false;
@@ -4698,6 +4698,14 @@ def main():
                                 daily_issue_en.get(it["id"]), lang="en"))
         n_items += 1
     print(f"items: {n_items} detail pages (x2 trees)")
+    # 清掉已出 30 天窗口的孤儿详情页：历史淘汰后不再生成，旧文件会一直残留
+    # （2026-11-15 发现 7 个中文 + 2 个英文孤儿页，其中一个还带着旧的源站标题
+    # 原文；已核对孤儿页无任何站内链接，删了不影响归档）。
+    _live_ids = {it["id"] for it in live}
+    for _d in (items_dir, en_items_dir):
+        for _fn in os.listdir(_d):
+            if _fn.endswith(".html") and _fn[:-5] not in _live_ids:
+                os.remove(os.path.join(_d, _fn))
     print(f"en: {len(tag_counts_en)} topics, {len(en_day_index)} day files")
     # --- /geo-audit 自检页 + 数据（SEO/GEO：每轮生成后自检，日报复用同一份数据）---
     geo_html, geo_data = build_geo_audit(site, root, site_url, today_iso)
