@@ -10576,5 +10576,29 @@
   "zh_oneliner": "作者按玩法类型梳理了一批每日解谜游戏，从文字到网格逻辑各有侧重，适合想参考每日挑战机制的开发者快速扫一遍。",
   "en_title": "Beyond Wordle: Where to Find Your Next Favorite Daily Puzzle",
   "en_oneliner": "The author rounds up daily puzzle games by play style, from word games to grid logic — a quick survey for developers studying the daily-challenge format."
+ },
+ "https://dev.to/ganesh_rajendran_art/the-invisible-brush-generative-art-and-the-algorithms-that-paint-32ig": {
+  "zh_title": "隐形的画笔：生成式艺术与作画的算法",
+  "zh_oneliner": "用 Clojure 与 Quil 把程序化内容生成讲成一门创作手艺，从种子到地形、星系，带开发者亲手做出第一件生成艺术。",
+  "en_title": "The Invisible Brush: Generative Art and the Algorithms That Paint",
+  "en_oneliner": "A hands-on tour of procedural content generation as a creative craft in Clojure and Quil, from seeds to terrain and galaxies, ending with a working piece of generative art."
+ },
+ "https://dev.to/antgamesai/auto-battler-without-rarity-tuning-100-heroes-to-equal-win-rates-by-simulation-2dmg": {
+  "zh_title": "没有稀有度的自走棋：用模拟把 100 名英雄调到胜率均等",
+  "zh_oneliner": "取消稀有度后靠模拟而非手感调平衡，百名英雄同价、同强度，附真实代码与实测数据，讲清大规模数值调校怎么做。",
+  "en_title": "Auto battler without rarity: tuning 100 heroes to equal win rates by simulation",
+  "en_oneliner": "With rarity removed, balance comes from simulation rather than feel: a hundred same-cost heroes tuned to near-equal win rates, with real code and re-measured numbers."
+ },
+ "https://dev.to/open-madscience/handheld-ops-52p9": {
+  "zh_title": "Handheld Ops",
+  "zh_oneliner": "一键把三款经典使命召唤装进掌机，自动配好手柄、瞄准辅助与 Steam 启动项，让老游戏在 Steam Deck 上开箱即玩。",
+  "en_title": "Handheld Ops",
+  "en_oneliner": "A one-tap app that sets up three classic Call of Duty games for handheld PCs, wiring up gamepad support, aim assist and Steam launch options so they just work on Steam Deck."
+ },
+ "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report": {
+  "zh_title": "传闻：育碧正在开发新的《彩虹六号：维加斯》，距上一作已近二十年",
+  "zh_oneliner": "时隔十八年，《彩虹六号：维加斯》系列据传将回归，独立开发者可留意大厂老 IP 复活背后的立项与宣发信号。",
+  "en_title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+  "en_oneliner": "Eighteen years after Vegas 2, a new Rainbow Six Vegas is reportedly in the works at Ubisoft, a useful signal for indies watching how big publishers revive old IP."
  }
 }
