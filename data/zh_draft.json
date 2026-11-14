@@ -10666,5 +10666,11 @@
   "zh_oneliner": "首尔一位独立开发者独自做出了这款回合制炮战手游，已在安卓与 iOS 上架，正在征集玩家反馈。",
   "en_title": "[Android/iOS] Cannon King — Worms-style turn-based artillery, built by one person (free, feedback welcome)",
   "en_oneliner": "A solo developer in Seoul shipped this Worms-style turn-based artillery game for Android and iOS and is now gathering player feedback."
+ },
+ "https://dev.to/arjunaj7/building-a-3d-pool-game-that-runs-in-the-browser-with-ai-assistance-42i6": {
+  "zh_title": "用 AI 辅助在浏览器里做了一款 3D 台球游戏",
+  "zh_oneliner": "印度独立开发者用 AI 辅助写代码、做美术和音效，独立做出一款免下载、免注册的浏览器 3D 台球游戏，采用真实物理模拟且故意不给瞄准线，并分享了两点经验：手感仍是最难啃的部分，去除游玩门槛比堆功能更重要。",
+  "en_title": "Building a 3D pool game that runs in the browser - with AI assistance",
+  "en_oneliner": "A solo developer from India used AI assistance for code, art and sound to build a free 3D pool game that runs entirely in the browser with real physics simulation and deliberately no aiming lines, and shares two lessons: game feel is still the hard part, and removing friction matters more than adding features."
  }
 }
