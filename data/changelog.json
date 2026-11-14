@@ -12,7 +12,16 @@
     "日报改成每天 06:00 出刊，并加上期号"
    ],
    "title": "v9 大改版：热点榜、手机体验与新页面",
-   "version": "2026-11-10"
+   "version": "2026-11-10",
+   "title_en": "v9 overhaul: hot list, mobile experience, and new pages",
+   "items_en": [
+    "Hot list redesign: No.1 headline card, No.2-3 secondary cards, ranking rows with gains/losses, and a how-the-score-works note",
+    "Frosted-glass top/bottom bars on mobile, a starred entry in the bottom bar, tap the current tab to scroll to top",
+    "New pages: Me, Starred, Changelog, and past daily-digest archive",
+    "New RSS feed (feed.xml); theme switcher now offers dark / follow system / light",
+    "Mobile search is now a full-screen overlay (recent searches + hot topics); recommendation reasons no longer show English keywords",
+    "Daily digest now publishes at 06:00 every day, with issue numbers"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -21,7 +30,12 @@
     "日报出刊时间改成每天 06:00"
    ],
    "title": "半小时自动更新上线",
-   "version": "2026-11-10-auto"
+   "version": "2026-11-10-auto",
+   "title_en": "Half-hourly auto-updates go live",
+   "items_en": [
+    "Updates now run every 30 minutes: Muse fetches sources, translates, and uploads; GitHub Actions retired",
+    "Daily digest now publishes at 06:00 every day"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -30,7 +44,12 @@
     "新到条目翻译补 6 条，时间线标题全部中文"
    ],
    "title": "v8：锚点遮字修复",
-   "version": "2026-11-10-v8"
+   "version": "2026-11-10-v8",
+   "title_en": "v8: anchor text-overlap fix",
+   "items_en": [
+    "Fixed card text on the left being covered by a beige bar after tapping All Activity in nav (a nav CSS class had leaked into the timeline track)",
+    "Translated 6 newly arrived items; all timeline titles now in Chinese"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -40,7 +59,13 @@
     "修掉搜索在时间线上失效的问题"
    ],
    "title": "v7：翻译、颜色与搜索修复",
-   "version": "2026-11-10-v7"
+   "version": "2026-11-10-v7",
+   "title_en": "v7: translation, colors, and search fixes",
+   "items_en": [
+    "Top stories translated into Chinese (100 items), falling back to English where missing; search works in both languages",
+    "Colors aligned with AIHOT (dark-mode tokens identical)",
+    "Fixed search not working on the timeline"
+   ]
   },
   {
    "date": "2026-11-09",
@@ -48,7 +73,11 @@
     "界面改版：侧栏导航、热点条、时间线时间轨、评分徽章"
    ],
    "title": "界面改版",
-   "version": "2026-11-09-ui"
+   "version": "2026-11-09-ui",
+   "title_en": "Interface redesign",
+   "items_en": [
+    "Redesign: sidebar nav, hot strip, timeline time rail, score badges"
+   ]
   },
   {
    "date": "2026-11-09",
@@ -56,7 +85,11 @@
     "IndieHOT 上线：13 个信源，每 4 小时更新一次，GitHub Pages 静态站"
    ],
    "title": "上线",
-   "version": "2026-11-09"
+   "version": "2026-11-09",
+   "title_en": "Launch",
+   "items_en": [
+    "IndieHOT launches: 13 sources, updates every 4 hours, a GitHub Pages static site"
+   ]
   }
  ]
 }

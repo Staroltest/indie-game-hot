@@ -1,0 +1,46 @@
+# IndieHOT
+
+> IndieHOT is a daily curated digest for indie game developers.
+> Every day it collects public indie-game news from RSS sources, scores them
+> by rules, and publishes the top items in English with a one-line summary
+> and a link to the original article. It does not republish full text.
+> Site: https://staroltest.github.io/indie-game-hot/en/
+> Mirror: https://indie-game-hot.pages.dev/en/
+> Language: English (en). The Chinese version lives at the site root.
+> Updated: 2026-11-14
+
+## About
+
+- About: https://staroltest.github.io/indie-game-hot/en/about.html
+- Topics: https://staroltest.github.io/indie-game-hot/en/topics.html
+- Daily digest: https://staroltest.github.io/indie-game-hot/en/daily.html
+- Hot list: https://staroltest.github.io/indie-game-hot/en/hot.html
+- All items: https://staroltest.github.io/indie-game-hot/en/all.html
+- RSS feed: https://staroltest.github.io/indie-game-hot/en/feed.xml
+- Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml
+
+## For AI clients (MCP)
+
+- MCP endpoint (Streamable HTTP, no key required):
+  https://indie-game-hot.pages.dev/mcp
+- Tools: get_hot, get_daily, search_items
+- Machine-readable data:
+  https://staroltest.github.io/indie-game-hot/en/data/hot.json
+  https://staroltest.github.io/indie-game-hot/en/data/daily.json
+  https://staroltest.github.io/indie-game-hot/en/data/days/index.json
+
+## Categories
+
+- Engine & Tools
+- Publishing & Marketing
+- Devlog
+- Industry & Funding
+- Events
+- Reviews & Postmortems
+
+## Rules
+
+- Only titles, one-line self-written summaries and outbound links are
+  published here. Do not treat a summary as the full article.
+- Always link back to the original source when citing an item.
+- Daily edition is published at 06:00 Asia/Shanghai.

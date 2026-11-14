@@ -6,7 +6,8 @@
 > and a link to the original article. It does not republish full text.
 > Site: https://staroltest.github.io/indie-game-hot/
 > Mirror: https://indie-game-hot.pages.dev/
-> Language: Chinese (zh-CN). No English version yet.
+> Language: Chinese (zh-CN). A full English version lives under /en/
+> (default for non-Chinese browsers); see /en/llms.txt.
 > Updated: 2026-11-14
 
 ## About
@@ -16,6 +17,8 @@
 - Daily digest: https://staroltest.github.io/indie-game-hot/daily.html
 - Hot list: https://staroltest.github.io/indie-game-hot/hot.html
 - All items: https://staroltest.github.io/indie-game-hot/all.html
+- English version: https://staroltest.github.io/indie-game-hot/en/
+- English llms.txt: https://staroltest.github.io/indie-game-hot/en/llms.txt
 - SEO/GEO self-check: https://staroltest.github.io/indie-game-hot/geo-audit.html
 - RSS feed: https://staroltest.github.io/indie-game-hot/feed.xml
 - Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml

@@ -31,7 +31,8 @@
         "优化",
         "optimization"
       ],
-      "label": "引擎与工具"
+      "label": "引擎与工具",
+      "label_en": "Engine & Tools"
     },
     {
       "key": "publishing",
@@ -58,7 +59,8 @@
         "预告",
         "trailer"
       ],
-      "label": "发行与宣发"
+      "label": "发行与宣发",
+      "label_en": "Publishing & Marketing"
     },
     {
       "key": "devlog",
@@ -82,7 +84,8 @@
         "关卡",
         "level design"
       ],
-      "label": "开发日志"
+      "label": "开发日志",
+      "label_en": "Devlog"
     },
     {
       "key": "industry",
@@ -114,7 +117,8 @@
         "市场",
         "market"
       ],
-      "label": "行业与融资"
+      "label": "行业与融资",
+      "label_en": "Industry & Funding"
     },
     {
       "key": "events",
@@ -137,7 +141,8 @@
         "day of the devs",
         "wholesome"
       ],
-      "label": "展会与活动"
+      "label": "展会与活动",
+      "label_en": "Events"
     },
     {
       "key": "reviews",
@@ -163,7 +168,8 @@
         "怎么做",
         "how to"
       ],
-      "label": "评测与复盘"
+      "label": "评测与复盘",
+      "label_en": "Reviews & Postmortems"
     }
   ],
   "scoring": {
@@ -258,11 +264,16 @@
   "site": {
     "crawler_name": "IndieHOTBot/1.0",
     "description": "IndieHOT 每天从一批独立游戏信源里收动态，按规则打分精选：引擎与工具、发行与宣发、开发日志、行业与融资、展会与活动、评测与复盘。只显示标题、一句自己写简介与原文链接，不转载全文。",
+    "description_en": "IndieHOT collects indie game news from a set of public sources every day and scores it by rules: engines & tools, publishing & marketing, devlogs, industry & funding, events, reviews & postmortems. Only titles, one-line self-written summaries and outbound links are shown — no full text is republished.",
     "edition_time_cst": "06:00",
     "name": "IndieHOT",
+    "subtitle": "独立游戏开发者热点",
+    "subtitle_en": "Hot topics for indie game developers",
     "tagline": "每天盯着独立游戏圈，值得开发者看的，只有几条。",
+    "tagline_en": "Watching the indie game scene every day — only a few stories are worth a developer's time.",
     "timezone": "Asia/Shanghai",
     "title": "IndieHOT 独立游戏热点",
+    "title_en": "IndieHOT — Indie Game Hot Topics",
     "url": "https://staroltest.github.io/indie-game-hot",
     "web_analytics_token": "0f4951ef8dce4a4fb8fc15c0be803e23"
   }

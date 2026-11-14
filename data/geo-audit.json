@@ -18,31 +18,31 @@
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
    "status": "pass",
-   "detail": "共 1784 条 URL，磁盘 1783 个 HTML 页全部在列"
+   "detail": "共 3557 条 URL，磁盘 3551 个 HTML 页全部在列"
   },
   {
    "key": "llms",
    "label": "llms.txt 存在",
    "status": "pass",
-   "detail": "已生成，含 MCP 端点与数据 JSON 入口"
+   "detail": "中英 llms.txt 已生成，含 MCP 端点与数据 JSON 入口"
   },
   {
    "key": "canonical",
    "label": "首页 canonical / hreflang",
    "status": "pass",
-   "detail": "canonical、hreflang=zh-CN 与 x-default 齐全"
+   "detail": "中英首页 canonical、hreflang=zh-CN/en 与 x-default 齐全"
   },
   {
    "key": "jsonld",
    "label": "首页 JSON-LD（WebSite）",
    "status": "pass",
-   "detail": "WebSite 结构化数据含 inLanguage=zh-CN"
+   "detail": "中英首页 WebSite 结构化数据含 inLanguage（zh-CN / en）"
   },
   {
    "key": "item",
    "label": "详情页 Article（抽查最新 1 篇）",
    "status": "pass",
-   "detail": "含 datePublished / dateModified，og:type=article"
+   "detail": "中英详情页含 datePublished / dateModified，og:type=article"
   },
   {
    "key": "mcp",
@@ -60,7 +60,7 @@
    "key": "feed",
    "label": "feed.xml 正常",
    "status": "pass",
-   "detail": "RSS 2.0 正常，含 20 条"
+   "detail": "RSS 2.0 正常，中英各含 20 / 20 条"
   }
  ]
 }
