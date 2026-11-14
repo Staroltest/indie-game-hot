@@ -11032,5 +11032,53 @@
   "zh_oneliner": "机核编辑们复盘《影之刃零》的通关体验：爽点与槽点并存，可作动作游戏手感与叙事设计的参考。",
   "en_title": "Loving Phantom Blade Zero, But Some Scenes Are Unbearable! Games Tea Party Vol.134",
   "en_oneliner": "Gcores editors review their Phantom Blade Zero playthrough: highlights and frustrations coexist, usable as a reference for action game feel and narrative design."
+ },
+ "https://www.gcores.com/articles/222374": {
+  "zh_title": "《英雄联盟：曙光》正式宣布",
+  "zh_oneliner": "拳头公布《英雄联盟》新版本“曙光”，客户端、召唤师峡谷与玩法都将升级，更多细节明年 1 月揭晓。",
+  "en_title": "League of Legends: Dawn Officially Announced",
+  "en_oneliner": "Riot has unveiled League of Legends: Dawn, a new update bringing client, Summoner's Rift and gameplay upgrades, with more details coming next January."
+ },
+ "https://dev.to/playgamalabs/crystal-stream-sand-alchemy-steer-the-stream-and-grow-crystals-3dg5": {
+  "zh_title": "Crystal Stream：沙粒炼金，引导沙流培育水晶",
+  "zh_oneliner": "一款单画布、无引擎的网页小游戏：用手指引导流动的沙粒，单色沙脉积攒到一定质量便凝结成宝石。",
+  "en_title": "Crystal Stream: Sand alchemy: steer the stream and grow crystals",
+  "en_oneliner": "A single-canvas, engine-free web game where you steer a living stream of sand so veins of one colour gather enough mass to freeze into gems."
+ },
+ "https://dev.to/playgamalabs/tangent-the-comet-circles-a-planet-one-tap-and-it-breaks-orbit-flying-off-along-the-tangent-towa-5hbb": {
+  "zh_title": "TANGENT：彗星绕行星运转，点一下便沿切线飞出",
+  "zh_oneliner": "一款轨道跳跃小游戏：彗星绕行星运转，轻点即沿切线脱离轨道飞向下一环，连续命中还有连击加分。",
+  "en_title": "TANGENT: The comet circles a planet. One tap and it breaks orbit, flying off along the tangent toward the next ring",
+  "en_oneliner": "A tiny orbital-hopping game: a comet circles a planet, and one tap sends it flying off along the tangent toward the next ring, with streak bonuses for precise landings."
+ },
+ "https://dev.to/playgamalabs/nechist-a-forest-roguelike-hordes-of-folk-monsters-2pn8": {
+  "zh_title": "Nechist：森林 Roguelike，对抗民间传说中的怪物群",
+  "zh_oneliner": "一款森林题材 Roguelike：战士在林间空地独自迎战民间怪物潮，玩家用手指或 WASD 引导，拾取经验火花、升级抽卡。",
+  "en_title": "Nechist: A forest roguelike: hordes of folk monsters",
+  "en_oneliner": "A forest roguelike where a lone warrior holds off waves of folkloric monsters in a dark clearing, guided by finger or WASD, gathering experience sparks and picking upgrades from cards."
+ },
+ "https://dev.to/playgamalabs/matryoshka-merge-drop-matryoshka-dolls-and-merge-the-matching-ones-4i6g": {
+  "zh_title": "Matryoshka Merge：投放套娃，相同即合并",
+  "zh_oneliner": "一款套娃合成小游戏：把套娃投进木托盘，相同的两两合并，连锁合并最高可得 8 倍连击加分，还有每日挑战。",
+  "en_title": "Matryoshka Merge: Drop matryoshka dolls and merge the matching ones",
+  "en_oneliner": "A matryoshka-merging puzzle: drop dolls into a wooden tray and merge the matching ones, with chain combos up to x8, golden dolls and a daily challenge."
+ },
+ "https://dev.to/playgamalabs/neon-reaper-neon-roguelike-light-shards-evolutions-15-minutes-in-the-abyss-1lld": {
+  "zh_title": "NEON REAPER：霓虹 Roguelike，收集光之碎片，在深渊中坚持 15 分钟",
+  "zh_oneliner": "一款霓虹风 Roguelike 生存游戏：在深渊中驾驶飞船躲避一波波吞噬者，收集光之碎片升级武器与模块，撑满 15 分钟。",
+  "en_title": "NEON REAPER: Neon roguelike: light shards, evolutions, 15 minutes in the abyss",
+  "en_oneliner": "A neon roguelike survival game where you pilot a ship through the abyss, dodging waves of Devourers and collecting light shards to level weapons and modules across 15 minutes."
+ },
+ "https://dev.to/playgamalabs/aquasort-sort-colourful-liquids-into-tubes-51k8": {
+  "zh_title": "AquaSort：把彩色液体分进试管",
+  "zh_oneliner": "一款液体分类益智小游戏：十秒上手、关卡无限，难度随颜色与锁定试管递增，另有每日挑战、成就与皮肤收集。",
+  "en_title": "AquaSort: Sort colourful liquids into tubes",
+  "en_oneliner": "A liquid-sorting puzzle that takes ten seconds to learn and never runs out of levels, with growing difficulty, locked tubes, a daily challenge, achievements and skins."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party": {
+  "zh_title": "《魔兽世界：恒久》：副本小怪对队伍中任何人过于简单时不再给经验",
+  "zh_oneliner": "暴雪堵住了“恒久”服的带练口子：只要队伍里有人觉得副本小怪过于简单，全队都拿不到经验。",
+  "en_title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+  "en_oneliner": "Blizzard closes a boosting loophole in WoW: Forever — if dungeon mobs are trivial for anyone in the party, nobody earns experience from them."
  }
 }
