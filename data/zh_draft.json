@@ -10492,5 +10492,23 @@
  "https://www.indiedb.com/games/thalos-food-truck/news/free-demo-out-now-run-a-monster-fighting-food-truck": {
   "zh_title": "免费试玩上线：开着餐车打怪兽",
   "zh_oneliner": "《Thalos Food Truck》免费试玩已上线：经营一辆会变形的餐车，用打败的怪物做食材，在 10 天、5 个区域里边做饭边战斗。"
+ },
+ "https://dev.to/cpcai_studio/i-built-a-worms-like-mobile-game-alone-48-tanks-destructible-terrain-and-the-parts-that-actually-3mg7": {
+  "zh_title": "独自一人做了款类《百战天虫》手游：48 辆坦克、可破坏地形，以及真正花时间的地方",
+  "zh_oneliner": "一个人用一套 Flutter 代码做了款回合制炮战手游并上架双平台，作者复盘了真正耗时的部分：先让每一发炮弹“讲清楚自己为什么打偏”，再谈内容量。",
+  "en_title": "I built a Worms-like mobile game alone: 48 tanks, destructible terrain, and the parts that actually took the time",
+  "en_oneliner": "A solo dev shipped a turn-based artillery mobile game on one Flutter codebase and explains where the time really went: making every shot readable before adding any content."
+ },
+ "https://www.gcores.com/articles/222361": {
+  "zh_title": "拳头游戏公布《英雄联盟》赛事未来展望",
+  "zh_oneliner": "拳头公布了《英雄联盟》未来几年的国际赛事规划，包括 2027 年在中国举办的特别版全球先锋赛和首次落地西班牙的季中冠军赛。",
+  "en_title": "Riot Games Unveils the Future of League of Legends Esports",
+  "en_oneliner": "Riot has laid out the coming years of League of Legends international events, including a special expanded First Stand in China in 2027 and the first MSI in Spain."
+ },
+ "https://www.destructoid.com/how-to-complete-fc-27-hof-unleashed-league-without-disconnection": {
+  "zh_title": "《FC 27》名人堂 Unleashed 联赛不断线通关方法",
+  "zh_oneliner": "针对 FC 27 名人堂 Unleashed 联赛里反复掉线的恼人问题，这篇指南给出了能顺利打完的绕过办法。",
+  "en_title": "How to complete FC 27 HOF: Unleashed League without disconnection",
+  "en_oneliner": "A workaround guide for the persistent disconnection bug that keeps interrupting the FC 27 Hall of Fame: Unleashed League."
  }
 }

@@ -3190,8 +3190,8 @@ def render_about(site, lang="zh"):
                             "Three tools: get_hot (current hot list), get_daily (latest daily digest), search_items (search recent items by keyword and category).",
                             "In Claude Desktop, for example, add an mcpServers entry to the config file with type http and the endpoint URL above."]),
             ("Made by", ["Camille, an indie game developer (currently building the space trading game Star Merchant). "
-                          "This site's interface design references Kazix's open-source project AIHOT (MIT License); "
-                          "the brand, content and implementation are our own."]),
+                          "This site's information architecture and visual style reference Kazix's open-source project AIHOT; "
+                          "this site's code is open source under the MIT License."]),
             ("Contact", ["Questions or source suggestions? Leave a message on GitHub Issues."]),
         ], "about.html", lang=lang)
     return render_simple_page(site, "about", "关于", "IndieHOT 是什么、怎么做、谁做的。", [
@@ -3207,7 +3207,7 @@ def render_about(site, lang="zh"):
                     "三个工具：get_hot（当前热点榜）、get_daily（最新一期日报）、search_items（按关键词与分类搜索最近动态）。",
                     "以 Claude Desktop 为例，在配置文件里加一个 mcpServers 项，type 填 http，url 填上面这个端点即可。"]),
         ("制作人", ["Camille，独立游戏开发者（正在做太空贸易游戏《星穹商旅》）。"
-                    "本站界面设计参考了卡兹克的开源项目 AIHOT（MIT 协议），品牌、内容与实现均为原创。"]),
+                    "本站信息架构与界面风格参考了卡兹克的开源项目 AIHOT，本站代码按 MIT 协议开源。"]),
         ("联系", ["有问题或想推荐信源，去 GitHub Issues 留言。"]),
     ], "about.html")
 
