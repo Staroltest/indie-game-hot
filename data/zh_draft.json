@@ -6978,5 +6978,13 @@
  "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina": {
   "zh_title": "我们最近在玩什么——“不管有意无意，他满城都是毒舌”",
   "zh_oneliner": "编辑部每周例行分享：聊聊最近在玩的游戏与玩后的随感。"
+ },
+ "https://dev.to/antgamesai/music-and-sound-effects-with-no-audio-files-synthesising-everything-in-web-audio-for-browser-games-358f": {
+  "zh_title": "不用任何音频文件做音乐和音效：用 Web Audio 为浏览器游戏合成一切",
+  "zh_oneliner": "介绍如何完全用代码在 Web Audio 中合成浏览器游戏的全部音乐与音效，零音频文件，适合想给网页小游戏做程序化音频、省掉音频资源的开发者参考。"
+ },
+ "https://dev.to/nesimrazon/how-a-tombala-card-is-generated-six-cards-ninety-numbers-2hbi": {
+  "zh_title": "宾果卡如何生成：六张卡、九十个数字",
+  "zh_oneliner": "作者为自己的 Tombalings 游戏写了一个生成器，用 1 到 90 的数字恰好各一次生成六张公平的宾果卡，适合对卡牌生成算法感兴趣的开发者。"
  }
 }
