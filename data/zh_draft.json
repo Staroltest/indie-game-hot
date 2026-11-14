@@ -10570,5 +10570,11 @@
   "zh_oneliner": "《使命召唤》基金会借阵亡将士纪念日与成立 17 周年之际推广 Valor Pack，动视的全部净收益将用于帮助退伍军人找工作。",
   "en_title": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
   "en_oneliner": "The Call of Duty Endowment is marking Remembrance Day and its 17th anniversary with a Valor Pack push, with all of Activision's net proceeds going toward helping veterans find jobs."
+ },
+ "https://dev.to/movzart/beyond-wordle-where-to-find-your-next-favorite-daily-puzzle-25i4": {
+  "zh_title": "超越 Wordle：去哪找你下一个最爱的每日解谜游戏",
+  "zh_oneliner": "作者按玩法类型梳理了一批每日解谜游戏，从文字到网格逻辑各有侧重，适合想参考每日挑战机制的开发者快速扫一遍。",
+  "en_title": "Beyond Wordle: Where to Find Your Next Favorite Daily Puzzle",
+  "en_oneliner": "The author rounds up daily puzzle games by play style, from word games to grid logic — a quick survey for developers studying the daily-challenge format."
  }
 }
