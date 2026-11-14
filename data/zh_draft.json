@@ -10618,5 +10618,11 @@
   "zh_oneliner": "GDC 最新报告显示生成式 AI 的使用率小幅上升，但多数开发者仍认为这项技术对游戏行业弊大于利，态度分化值得关注。",
   "en_title": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
   "en_oneliner": "GDC's latest report shows generative AI use ticking up among developers, yet more than half still see the technology as a net negative for the games industry — a split worth watching."
+ },
+ "https://dev.to/playgamalabs/41-browser-games-one-canvas-codebase-how-we-ship-them-to-a-dozen-portals-2p4a": {
+  "zh_title": "41 款浏览器游戏、一套 Canvas 代码：我们如何把它们发行到十几个平台",
+  "zh_oneliner": "一个小团队用纯 JavaScript Canvas、不用引擎做了 41 款 HTML5 游戏，靠 Playgama Bridge SDK 一次打包分发到十几个平台，并复盘了多平台适配的真实成本与取舍。",
+  "en_title": "41 browser games, one canvas codebase: how we ship them to a dozen portals",
+  "en_oneliner": "A small team built 41 HTML5 games on a plain JavaScript canvas with no engine, shipping them to a dozen portals through the Playgama Bridge SDK and sharing the real costs and trade-offs of multi-portal distribution."
  }
 }
