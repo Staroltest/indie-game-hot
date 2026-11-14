@@ -6586,5 +6586,9 @@
  "https://dev.to/evgenii_zinner/throwing-out-the-widget-tree-building-a-2d-game-engine-underneath-flutter-sting-3n6p": {
   "zh_title": "抛弃 Widget 树：在 Flutter 底层打造 2D 游戏引擎（Sting）",
   "zh_oneliner": "作者分享在 Flutter 之下从零搭建 2D 游戏引擎 Sting 的实践，重点是六边形网格上的大规模单位模拟。"
+ },
+ "https://dev.to/cpcai_studio/turn-based-multiplayer-that-survives-bad-networks-the-state-model-i-use-in-flutter-8i0": {
+  "zh_title": "回合制多人游戏如何扛住烂网络：我在 Flutter 里用的状态模型",
+  "zh_oneliner": "作者分享一款回合制炮击游戏的实战经验：不同步世界状态、只同步操作事件日志，靠确定性重放让断线重连的玩家快速追上进度。"
  }
 }
