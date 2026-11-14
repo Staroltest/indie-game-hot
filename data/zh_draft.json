@@ -6558,5 +6558,9 @@
  "https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl": {
   "zh_title": "浏览器里的同词游戏：状态、计分与平局问题",
   "zh_oneliner": "作者分享在浏览器里做双人同词游戏的实战经验，讲房间状态同步、计分规则和平局判定的取舍。"
+ },
+ "https://dev.to/dumbgamelab/my-fortune-app-made-4-won-in-two-weeks-and-i-patched-it-three-times-anyway-4bim": {
+  "zh_title": "我的算命 App 两周只赚了 4 韩元，我还是连打了三个补丁",
+  "zh_oneliner": "一款上线两周仅靠 4 次广告展示赚了 4 韩元的算命小应用，作者却仍为它连打三个补丁，聊聊小产品上线后的真实收益与坚持打磨的心态。"
  }
 }
