@@ -6562,5 +6562,17 @@
  "https://dev.to/dumbgamelab/my-fortune-app-made-4-won-in-two-weeks-and-i-patched-it-three-times-anyway-4bim": {
   "zh_title": "我的算命 App 两周只赚了 4 韩元，我还是连打了三个补丁",
   "zh_oneliner": "一款上线两周仅靠 4 次广告展示赚了 4 韩元的算命小应用，作者却仍为它连打三个补丁，聊聊小产品上线后的真实收益与坚持打磨的心态。"
+ },
+ "https://www.indiedb.com/games/envara/news/visit-envara-now-100-continent": {
+  "zh_title": "来逛 ENVARA 吧！如今 100% 连成一片大陆",
+  "zh_oneliner": "独立游戏 ENVARA 的世界现已连成一块完整大陆，21 个区域无缝衔接，还有五片豪华沼泽等你探索。"
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/why-optimized-gifs-turn-into-haunted-sprite-sheets-and-4-tiny-canvas-fixes-for-2d-game-devs-3960": {
+  "zh_title": "为什么“优化过”的 GIF 会变成闹鬼精灵图（附 4 个 2D 游戏开发 Canvas 小修复）",
+  "zh_oneliner": "往自定义导入器里塞“优化过”的 GIF 时常遇到精灵图错位，本文拆解成因并给出 4 个 Canvas 小修复。"
+ },
+ "https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae": {
+  "zh_title": "导入四方向精灵图之前，先这样检查一遍",
+  "zh_oneliner": "导入前快速核查四方向行走图的帧数与朝向，避免角色进游戏后走路错乱。"
  }
 }
