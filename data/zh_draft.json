@@ -6930,5 +6930,13 @@
  "https://www.youxituoluo.com/535014.html": {
   "zh_title": "沉迷养鸟、搬家、当裁缝，越来越多的游戏玩家喜欢上不干正事",
   "zh_oneliner": "Steam 上带 Cozy 标签的新作同比增长约 186%，温馨治愈类游戏正成为独立开发者值得关注的赛道。"
+ },
+ "https://indienova.com/indie-game-news/metacritic-recap-2026-10": {
+  "zh_title": "2026 年 10 月媒体评分汇总",
+  "zh_oneliner": "indienova 每月初汇总上月发售游戏的媒体评分，本期按平台列出各游戏的 Metacritic 评分，方便开发者对照同类作品的口碑表现。"
+ },
+ "https://dev.to/mold99210/i-built-a-free-3d-character-creator-and-put-it-on-itchio-f10": {
+  "zh_title": "我做了一个免费 3D 角色创建器并发布到了 itch.io",
+  "zh_oneliner": "浏览器里就能用的免费 3D 角色创建器 MOLD，提供 12 种角色原型，可导出后直接用于自己的游戏项目。"
  }
 }
