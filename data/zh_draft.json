@@ -6590,5 +6590,9 @@
  "https://dev.to/cpcai_studio/turn-based-multiplayer-that-survives-bad-networks-the-state-model-i-use-in-flutter-8i0": {
   "zh_title": "回合制多人游戏如何扛住烂网络：我在 Flutter 里用的状态模型",
   "zh_oneliner": "作者分享一款回合制炮击游戏的实战经验：不同步世界状态、只同步操作事件日志，靠确定性重放让断线重连的玩家快速追上进度。"
+ },
+ "https://www.gcores.com/radios/222351": {
+  "zh_title": "Vol.24 《影之刃零》：黑神话悟空之后，国产3A游戏是武指赢了，策划输了？",
+  "zh_oneliner": "五位主播从美术、战斗到叙事复盘《影之刃零》，聊一款把动作做爽的国产游戏为何仍被追问设计深度。"
  }
 }
