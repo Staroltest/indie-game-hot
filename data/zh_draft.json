@@ -11020,5 +11020,17 @@
   "zh_oneliner": "喜剧游戏的测试自带难题：笑声可能来自玩家而非游戏本身，Jackbox 的喜剧编剧团队也常遇到“假阳性”反馈。",
   "en_title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
   "en_oneliner": "Testing comedy games has a unique challenge: the laughs may come from the players, not the game — Jackbox's CEO talks about the \"false positives\" their staff of comedy writers keep running into."
+ },
+ "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks": {
+  "zh_title": "《Rasen》抢先体验上线：主打 PvP 的类魂游戏，借鉴了格斗游戏的回滚式网络代码",
+  "zh_oneliner": "这款只做魂系 PvP（也可打电脑敌人）的独立游戏已开启抢先体验，亮点是借鉴格斗游戏的回滚式联网技术来保证对战手感。",
+  "en_title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
+  "en_oneliner": "This PvP-focused Soulslike — playable against real opponents or AI — has entered early access, with rollback netcode borrowed from fighting games to keep duels responsive."
+ },
+ "https://dev.to/koztechie/building-nichlyst-the-gate-that-stayed-open-33-endings-32-green-tests-one-honest-caveat-159b": {
+  "zh_title": "开发日志：做《NICHLYST》——敞开的门：33 个结局、32 项测试全过与一个诚实的保留意见",
+  "zh_oneliner": "作者在修好 704 个失败断言后，用一连串小而窄的检查验证了 33 个结局与双语字段等细节，最后坦言：阶段关卡虽全过，但设备端已知的启动报错仍未实测排除，绿色测试只证明它所证明的东西。",
+  "en_title": "Building NICHLYST: The Gate That Stayed Open — 33 Endings, 32 Green Tests, One Honest Caveat",
+  "en_oneliner": "After fixing 704 failing assertions, the author validates 33 endings and bilingual fields with a run of small, narrow checks — then admits the phase gates passed while a known device-side startup error still awaits a real device run, so green tests prove only what they prove."
  }
 }
