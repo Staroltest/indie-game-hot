@@ -3,9 +3,9 @@
  "site": "https://staroltest.github.io/indie-game-hot",
  "summary": {
   "total": 9,
-  "passed": 3,
-  "warn": 3,
-  "failed": 3
+  "passed": 6,
+  "warn": 2,
+  "failed": 1
  },
  "checks": [
   {
@@ -18,7 +18,7 @@
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
    "status": "fail",
-   "detail": "共 1660 条 URL，漏 13 页（daily 2026-11-10~14、weekly 2026-W46、monthly 2026-11、5 篇详情页；审计实测 2026-11-14，待下次生成后修复）"
+   "detail": "共 1673 条 URL，漏 1 页：https://staroltest.github.io/indie-game-hot/index.html"
   },
   {
    "key": "llms",
@@ -29,20 +29,20 @@
   {
    "key": "canonical",
    "label": "首页 canonical / hreflang",
-   "status": "fail",
-   "detail": "首页 canonical 0 个、hreflang 0 个（审计实测，待下次生成后生效）"
+   "status": "pass",
+   "detail": "canonical、hreflang=zh-CN 与 x-default 齐全"
   },
   {
    "key": "jsonld",
    "label": "首页 JSON-LD（WebSite）",
-   "status": "warn",
-   "detail": "WebSite 存在，但缺 inLanguage（待下次生成后补）"
+   "status": "pass",
+   "detail": "WebSite 结构化数据含 inLanguage=zh-CN"
   },
   {
    "key": "item",
    "label": "详情页 Article（抽查最新 1 篇）",
-   "status": "fail",
-   "detail": "详情页缺 dateModified，og:type 为 website（待下次生成后改为 article）"
+   "status": "pass",
+   "detail": "含 datePublished / dateModified，og:type=article"
   },
   {
    "key": "mcp",
@@ -54,7 +54,7 @@
    "key": "pages",
    "label": "Cloudflare Pages 部署",
    "status": "warn",
-   "detail": "仓库内无法验证部署状态；Cloudflare Pages 上次成功部署 2026-11-14，请以控制台最新部署为准"
+   "detail": "仓库内无法验证部署状态，请以 Cloudflare Pages 控制台最新部署为准"
   },
   {
    "key": "feed",
@@ -62,6 +62,5 @@
    "status": "pass",
    "detail": "RSS 2.0 正常，含 20 条"
   }
- ],
- "note": "静态快照：robots.txt 与 llms.txt 已随本次提交更新；sitemap、canonical、JSON-LD 与详情页的修复在生成器里，需下次生成运行后生效，本页届时自动刷新。"
+ ]
 }

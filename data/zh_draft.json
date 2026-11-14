@@ -6554,5 +6554,9 @@
  "https://www.indiedb.com/games/melancholy1/news/melancholy-100-launch": {
   "zh_title": "恐怖游戏《Melancholy》1.0 正式版发布",
   "zh_oneliner": "《Melancholy》从 0.8.0 走到 1.0 正式版，着重强化了实体感、重做了追踪者机制并加入完整视觉自定义，是独立恐怖游戏迭代的参考案例。"
+ },
+ "https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl": {
+  "zh_title": "浏览器里的同词游戏：状态、计分与平局问题",
+  "zh_oneliner": "作者分享在浏览器里做双人同词游戏的实战经验，讲房间状态同步、计分规则和平局判定的取舍。"
  }
 }
