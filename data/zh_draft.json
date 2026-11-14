@@ -6942,5 +6942,21 @@
  "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included": {
   "zh_title": "皮克敏手游原声已上线 Nintendo Music，收录曲目一览",
   "zh_oneliner": "为庆祝《皮克敏 Bloom》上线五周年，任天堂把这款手游的原声音乐加入 Nintendo Music 应用，本文列出了全部收录曲目。"
+ },
+ "https://www.indiedb.com/games/equation-of-humanity/news/eoh-archives-volume-1the-fulcrum-effect": {
+  "zh_title": "《人类方程式》档案卷一：支点效应",
+  "zh_oneliner": "开发者以档案形式披露《人类方程式》的世界观设定，讲述知识落到最需要它的人手中后引发的连锁变化。"
+ },
+ "https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7": {
+  "zh_title": "单个 HTML 页面、零网络请求：我们的浏览器游戏如何交付",
+  "zh_oneliner": "作者分享把浏览器游戏做成单个离线 HTML 文件的实践，严苛的约束反而成了让交付更轻量的设计方法。"
+ },
+ "https://dev.to/wenchao_builds/what-a-gacha-launch-week-taught-me-about-building-a-bilingual-fan-wiki-fn4": {
+  "zh_title": "抽卡游戏上线首周教会我的事：做一个双语粉丝维基",
+  "zh_oneliner": "作者复盘为一款新上线的抽卡手游搭建双语维基的经历，总结如何快速回答新手最常问的开局问题。"
+ },
+ "https://dev.to/mst9tools/level-prop-scatter-fill-a-godot-4-level-with-trees-and-rocks-in-one-click-free-lite-1fbj": {
+  "zh_title": "Level Prop Scatter：一键为 Godot 4 关卡铺满树木与岩石（免费 Lite 版）",
+  "zh_oneliner": "一款 Godot 4 插件可在编辑器里一键在指定区域散布树木、岩石等场景道具，附免费 Lite 版供试用。"
  }
 }
