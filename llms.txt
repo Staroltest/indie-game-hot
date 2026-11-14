@@ -1,0 +1,47 @@
+# IndieHOT
+
+> IndieHOT is a daily curated digest for indie game developers.
+> Every day it collects public indie-game news from RSS sources, scores them
+> by rules, and publishes the top items in Chinese with a one-line summary
+> and a link to the original article. It does not republish full text.
+> Site: https://staroltest.github.io/indie-game-hot/
+> Mirror: https://indie-game-hot.pages.dev/
+> Language: Chinese (zh-CN). No English version yet.
+> Updated: 2026-11-14
+
+## About
+
+- About: https://staroltest.github.io/indie-game-hot/about.html
+- Topics: https://staroltest.github.io/indie-game-hot/topics.html
+- Daily digest: https://staroltest.github.io/indie-game-hot/daily.html
+- Hot list: https://staroltest.github.io/indie-game-hot/hot.html
+- All items: https://staroltest.github.io/indie-game-hot/all.html
+- SEO/GEO self-check: https://staroltest.github.io/indie-game-hot/geo-audit.html
+- RSS feed: https://staroltest.github.io/indie-game-hot/feed.xml
+- Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml
+
+## For AI clients (MCP)
+
+- MCP endpoint (Streamable HTTP, no key required):
+  https://indie-game-hot.pages.dev/mcp
+- Tools: get_hot, get_daily, search_items
+- Machine-readable data:
+  https://staroltest.github.io/indie-game-hot/data/hot.json
+  https://staroltest.github.io/indie-game-hot/data/daily.json
+  https://staroltest.github.io/indie-game-hot/data/days/index.json
+
+## Categories
+
+- Engine & tools / 引擎与工具
+- Publishing & marketing / 发行与宣发
+- Devlog / 开发日志
+- Industry & funding / 行业与融资
+- Events / 展会与活动
+- Reviews & postmortems / 评测与复盘
+
+## Rules
+
+- Only titles, one-line self-written summaries and outbound links are
+  published here. Do not treat a summary as the full article.
+- Always link back to the original source when citing an item.
+- Daily edition is published at 06:00 Asia/Shanghai.
