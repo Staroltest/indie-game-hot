@@ -6594,5 +6594,341 @@
  "https://www.gcores.com/radios/222351": {
   "zh_title": "Vol.24 《影之刃零》：黑神话悟空之后，国产3A游戏是武指赢了，策划输了？",
   "zh_oneliner": "五位主播从美术、战斗到叙事复盘《影之刃零》，聊一款把动作做爽的国产游戏为何仍被追问设计深度。"
+ },
+ "https://www.gcores.com/radios/222354": {
+  "zh_title": "等了13年，《GTA6》还能再次成为传奇吗？",
+  "zh_oneliner": "主播们回顾 GTA 系列的过去，再聊对《GTA6》的期待，拆解一款现象级续作要接住多大的期望。"
+ },
+ "https://defold.com/2026/11/12/Creator-Spotlight-Snowfall-Games-Portentum": {
+  "zh_title": "从 Unity 与 UEFN 转向 Defold：Snowfall Games 谈《Portentum》的开发历程",
+  "zh_oneliner": "Snowfall Games 分享从 Unity 和 UEFN 转投 Defold 的原因，以及用它做《Portentum》的实战经验。"
+ },
+ "https://defold.com/2026/11/10/Defold-1-14-1": {
+  "zh_title": "Defold 1.14.1 发布",
+  "zh_oneliner": "新版带来运行时矢量字体与表情符号支持、3D 资源流程与调试改进，文本渲染是本次重点。"
+ },
+ "https://defold.com/2026/11/03/Good-practices-for-web-games-on-Poki": {
+  "zh_title": "网页游戏的好做法（尤其是在 Poki 上）",
+  "zh_oneliner": "提醒开发者别忽略玩家第一次打开游戏的体验，从操作引导到加载细节聊网页游戏的打磨要点。"
+ },
+ "https://www.pocketgamer.biz/the-allegations-behind-nvidias-scandal-and-gta-6s-record-breaking-pre-launch-week-in-views": {
+  "zh_title": "英伟达风波背后的指控与《GTA6》破纪录的预售 | 本周观点",
+  "zh_oneliner": "本周专栏回看两件大事：英伟达高层的风波，以及《GTA6》发售前就刷新纪录的热度。"
+ },
+ "https://www.pocketgamer.biz/key-takeaways-from-migs-and-pgc-montreal": {
+  "zh_title": "打入中国市场、用好 AI、做强长线运营：PGC 蒙特利尔峰会与 MIGS 的关键收获",
+  "zh_oneliner": "整理两场大会演讲的要点，覆盖出海中国、AI 提效与长线运营，帮开发者快速抓住行业共识。"
+ },
+ "https://www.pocketgamer.biz/new-release-roundup-football-manager-27-mobile-pubg-mobile-flash-transformers-eternal-war-ungodly-and-more": {
+  "zh_title": "新游速览：《足球经理 27》手游版、《PUBG Mobile Flash》、《变形金刚：永恒战争》等",
+  "zh_oneliner": "盘点近期上线的手游新品，从体育经营到 IP 改编，看本期值得留意的发行动态。"
+ },
+ "https://www.pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects": {
+  "zh_title": "Nexon 砍掉六个项目后计划进一步削减开支",
+  "zh_oneliner": "Nexon 在三季度财报中透露将继续降本聚焦，六个项目已在近几个月内取消。"
+ },
+ "https://www.pocketgamer.biz/shinji-mikami-kim-hyung-tae-and-greg-kasavin-to-speak-at-g-stars-g-con-2026": {
+  "zh_title": "三上真司、金亨泰与 Greg Kasavin 将出席 G-STAR 的 G-CON 2026",
+  "zh_oneliner": "G-CON 2026 公布完整议程，三位知名创作者同台分享，对独立开发者是难得的学习机会。"
+ },
+ "https://www.pocketgamer.biz/minecraft-china-reaches-100m-annual-active-players": {
+  "zh_title": "中国版《我的世界》年活跃玩家达 1 亿",
+  "zh_oneliner": "网易运营的中国版《我的世界》上线近十年后年活突破一亿，沙盒长青的运营样本值得研究。"
+ },
+ "https://www.pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry": {
+  "zh_title": "芬兰与德国游戏协会警告欧盟《数字公平法案》可能伤害行业",
+  "zh_oneliner": "两国行业协会批评欧盟拟议法案对内购、虚拟货币与年龄分级的规则，认为会增加开发者的负担。"
+ },
+ "https://www.pocketgamer.biz/candy-crush-crossover-celebrates-25-years-of-xbox": {
+  "zh_title": "《糖果传奇》联动多款 Xbox 游戏庆祝品牌 25 周年",
+  "zh_oneliner": "《糖果传奇》与 Halo、Spyro 等八个 Xbox 旗下 IP 联动，借周年节点做了一次跨游戏的营销。"
+ },
+ "https://www.pocketgamer.biz/nvidia-ceo-jensen-huang-resigns": {
+  "zh_title": "英伟达 CEO 黄仁勋辞职",
+  "zh_oneliner": "英伟达总裁兼 CEO 黄仁勋即刻辞职，此前有报道称其卷入与一名员工的绯闻。"
+ },
+ "https://www.pocketgamer.biz/supercell-ceo-believes-digital-fairness-act-will-hurt-consumers": {
+  "zh_title": "Supercell CEO 认为《数字公平法案》会伤害消费者",
+  "zh_oneliner": "Supercell CEO 延续去年的批评，称欧盟新提案对消费者未必是好事，值得关注法案走向。"
+ },
+ "https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357": {
+  "zh_title": "AI 正在改变曝光方式：《会说话的汤姆猫》AI 引流增长 357%",
+  "zh_oneliner": "越来越多玩家向 AI 提问找游戏，《会说话的汤姆猫》借此把 AI 带来的流量提升了三倍多。"
+ },
+ "https://www.pocketgamer.biz/mohanad-games-on-developing-in-syria-publishing-through-the-uae-and-reaching-syrians-abroad": {
+  "zh_title": "Mohanad Games 谈在叙利亚做游戏、经阿联酋发行、触达海外叙利亚玩家",
+  "zh_oneliner": "叙利亚开发者聊在制裁下如何获取服务、开设开发者账号并把游戏送到海外同胞手里。"
+ },
+ "https://www.pocketgamer.biz/playnest-shuts-down-after-four-years-of-mobile-game-development": {
+  "zh_title": "Playnest 在手游开发四年后关停",
+  "zh_oneliner": "芬兰手游公司 Playnest 宣布停止运营，成立四年间未能把项目推向完整上线。"
+ },
+ "https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures": {
+  "zh_title": "Anorak 获 500 万美元种子前融资，投资方包括 Supercell 与 MTG",
+  "zh_oneliner": "互动娱乐公司 Anorak 完成 500 万美元融资，将开发围绕玩家兴趣爱好的游戏与体验。"
+ },
+ "https://www.pocketgamer.biz/nvidia-shares-fall-8-as-board-reportedly-considers-ousting-jensen-huang": {
+  "zh_title": "英伟达股价跌 8%，据传董事会正考虑罢免黄仁勋",
+  "zh_oneliner": "有报道称董事会考虑撤换 CEO 后，英伟达股价盘后下跌约 8%。"
+ },
+ "https://www.pocketgamer.biz/get-the-latest-insights-on-canadas-games-industry-with-our-free-region-report": {
+  "zh_title": "免费获取加拿大游戏产业最新洞察报告",
+  "zh_oneliner": "一份免费的加拿大地区报告，梳理当地工作室的处境与税收激励等行业背景。"
+ },
+ "https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix": {
+  "zh_title": "《赛马娘》成为 2027 F1 日本大奖赛首位创始合作伙伴",
+  "zh_oneliner": "Cygames 与 F1 日本大奖赛达成合作，游戏将成为赛事首位创始合作伙伴。"
+ },
+ "https://www.pocketgamer.biz/save-up-to-260-on-pg-connects-london-2027-before-early-bird-ends-tonight": {
+  "zh_title": "PG Connects London 2027 早鸟优惠今晚截止，最高省 260 英镑",
+  "zh_oneliner": "年度最大规模的 PG Connects 伦敦站早鸟票今晚截止，提醒有意参会的开发者抓紧时间。"
+ },
+ "https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry": {
+  "zh_title": "《数字公平法案》对欧洲游戏业是“游戏结束”？",
+  "zh_oneliner": "欧洲游戏开发者联合会与 Video Games Europe 联合发声，称欧盟法案草案将重创地区游戏业。"
+ },
+ "https://www.pocketgamer.biz/digital-fairness-act-raises-questions-over-mobile-game-monetisation": {
+  "zh_title": "《数字公平法案》让手游变现的未来蒙上问号",
+  "zh_oneliner": "泄露的欧盟法案草案引发担忧，内购、战利品箱与付费获胜机制都可能面临新的限制。"
+ },
+ "https://www.pocketgamer.biz/ukie-warns-eu-digital-fairness-act-could-harm-uk-games-industry-and-parental-choice": {
+  "zh_title": "UKIE 警告欧盟《数字公平法案》可能损害英国游戏业与家长选择权",
+  "zh_oneliner": "英国游戏行业协会 UKIE 称法案可能推高开发者成本、削弱家长对孩子游戏消费的掌控。"
+ },
+ "https://www.pocketgamer.biz/does-the-eus-digital-services-act-apply-to-your-game-a-practical-guide-for-studios": {
+  "zh_title": "欧盟《数字服务法案》适用于你的游戏吗？给工作室的实用指南",
+  "zh_oneliner": "一份面向工作室的实务指南，讲清《数字服务法案》的裁决对游戏开发者意味着什么。"
+ },
+ "https://www.pocketgamer.biz/strategic-alternatives-rhys-dekle-how-to-keep-the-value-ai-creates-at-your-studio": {
+  "zh_title": "Strategic Alternatives 的 Rhys Dekle：如何留住 AI 在工作室创造的价值",
+  "zh_oneliner": "AI 能降低开发成本，但不一定提升工作室估值，这篇演讲整理聊如何把 AI 创造的价值留在自己手里。"
+ },
+ "https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165": {
+  "zh_title": "Sensor Tower 数据：中国占头部手游收入 40%，美国跌至 16.5%",
+  "zh_oneliner": "中国发行商在全球头部手游收入中的占比已达四成，美国发行商则滑落至 16.5%。"
+ },
+ "https://www.pocketgamer.biz/november-2026-collabs-corner": {
+  "zh_title": "11 月联动盘点：《June's Journey》联动《老大哥》，索尼克加入 Lingokids 等",
+  "zh_oneliner": "盘点本月手游跨界联动，从真人秀到经典 IP，看厂商如何用联动给老游戏续命。"
+ },
+ "https://www.pocketgamer.biz/google-releases-open-source-sign-in-with-google-plugin-for-unity": {
+  "zh_title": "谷歌发布开源的 Unity 版 Sign in with Google 插件",
+  "zh_oneliner": "谷歌开源了 Unity 的 Google 登录插件，开发者可为安卓与 iOS 手游接入谷歌账号认证。"
+ },
+ "https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting": {
+  "zh_title": "Layer 推出 Motion Designer Agent：聊天就能生成买量视频",
+  "zh_oneliner": "Layer 的新 AI 工具让营销团队用对话描述就能产出可直接投放的用户获取视频。"
+ },
+ "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios": {
+  "zh_title": "Merak Capital 领投 Lambda Studios 130 万美元融资",
+  "zh_oneliner": "沙特工作室 Lambda Studios 完成 130 万美元融资，将扩展到 Steam 等新平台。"
+ },
+ "https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies": {
+  "zh_title": "沙特 PIF 探索新融资方式，从投资组合公司释放资金",
+  "zh_oneliner": "沙特主权财富基金 PIF 正在寻找不依赖新增拨款的融资办法，为未来的游戏投资腾挪资金。"
+ },
+ "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk": {
+  "zh_title": "Fortis Games 关停，多达 440 个岗位受影响",
+  "zh_oneliner": "Fortis Games 在资方撤资后关停，旗下游戏始终未能完整上线，多达 440 名员工受波及。"
+ },
+ "https://www.pocketgamer.biz/pg-connects-jordan-2026-highlighted-the-unique-energy-of-the-regions-games-development-community": {
+  "zh_title": "PG Connects 约旦 2026 展现地区游戏开发社区的独特活力",
+  "zh_oneliner": "约旦站迎来 1500 多名参会者，两天的活动把当地游戏开发社区推到了台前。"
+ },
+ "https://www.pocketgamer.biz/pg-connects-summit-montreal-kicks-off-whats-on-the-agenda": {
+  "zh_title": "PGC 蒙特利尔峰会开幕：议程一览",
+  "zh_oneliner": "峰会首次落地蒙特利尔并与 MIGS 同场，介绍本届的演讲与活动安排。"
+ },
+ "https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design": {
+  "zh_title": "泄露的欧盟提案剑指战利品箱与成瘾性游戏设计",
+  "zh_oneliner": "泄露的《数字公平法案》草案可能对战利品箱、付费获胜与成瘾性设计设限，开发者应提前了解。"
+ },
+ "https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor": {
+  "zh_title": "My.Games 达成管理层收购，获阿联酋投资者支持",
+  "zh_oneliner": "My.Games 签署管理层收购协议，从唯一股东手中买回公司，由 CEO 牵头、阿联酋投资者支持。"
+ },
+ "https://www.pocketgamer.biz/ukie-ceo-nick-poole-bullish-on-games-industrys-investment-prospects": {
+  "zh_title": "UKIE CEO Nick Poole 看好游戏业投资前景",
+  "zh_oneliner": "UKIE 首席执行官在融资大会上表示，英国游戏业仍是增长赛道，投资机会值得关注。"
+ },
+ "https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio": {
+  "zh_title": "乐高数字游戏收购《高尔夫冲突》创始人的 ForthStar 工作室",
+  "zh_oneliner": "乐高数字游戏收购曼彻斯特手游工作室 ForthStar，进一步扩大在移动游戏市场的布局。"
+ },
+ "https://www.pocketgamer.biz/how-monopoly-go-stays-fresh-with-seasonal-mechanics": {
+  "zh_title": "《Monopoly Go》如何用赛季机制保持新鲜感",
+  "zh_oneliner": "拆解 Scopely 旗舰产品如何靠赛季内容与 IP 联动，让一款手游长期保持玩家热度。"
+ },
+ "https://www.pocketgamer.biz/aream-and-cos-kartik-prabhakara-mobile-gaming-has-shifted-east": {
+  "zh_title": "Aream & Co 的 Kartik Prabhakara：手游市场已向东转移",
+  "zh_oneliner": "演讲指出手游新增收入大多来自东方市场，开发者应重新思考全球发行的重心。"
+ },
+ "https://www.pocketgamer.biz/fingersoft-otto-simola-hill-climb-racing-2-10-years": {
+  "zh_title": "Fingersoft 的 Otto Simola 谈《登山赛车 2》的第一个十年与未来",
+  "zh_oneliner": "《登山赛车 2》上线十年后，产品营销经理回顾其物理玩法长青的秘密与下一步计划。"
+ },
+ "https://www.pocketgamer.biz/the-green-and-red-flags-of-games-investment-and-publishing-deals": {
+  "zh_title": "游戏投资与发行交易的绿灯与红灯",
+  "zh_oneliner": "演讲嘉宾分享签约前要看的信号：哪些条件值得推进，哪些是该叫停的危险信号。"
+ },
+ "https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive": {
+  "zh_title": "DoubleU Games 同意收购 DoubleDown Interactive 剩余股份",
+  "zh_oneliner": "韩国 DoubleU Games 将以每股 16.25 美元现金要约收购 DoubleDown 剩余股份。"
+ },
+ "https://www.pocketgamer.biz/skydance-games-cuts-jobs-following-warner-bros-merger": {
+  "zh_title": "Skydance Games 在华纳兄弟合并后裁员",
+  "zh_oneliner": "派拉蒙与华纳兄弟合并一个多月后，Skydance Games 开始裁员，波及多个业务部门。"
+ },
+ "https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition": {
+  "zh_title": "中国批准 Savvy Games Group 收购沐瞳",
+  "zh_oneliner": "中国市场监管总局批准 Savvy 收购沐瞳，这笔超 60 亿美元的交易又向前推进了一步。"
+ },
+ "https://www.pocketgamer.biz/netflix-adds-full-episodes-to-kids-gaming-app-playground": {
+  "zh_title": "Netflix 在儿童游戏应用 Playground 中加入完整剧集",
+  "zh_oneliner": "Netflix 让孩子在 Playground 里看完整集动画，不必在观看与游戏之间来回切换。"
+ },
+ "https://www.pocketgamer.biz/pgc-london-2027-the-first-speakers-and-save-up-to-260-this-week": {
+  "zh_title": "PGC London 2027：首批演讲嘉宾公布，本周省 260 英镑",
+  "zh_oneliner": "伦敦站公布首批演讲嘉宾，早鸟优惠本周截止，附参会与 networking 的安排。"
+ },
+ "https://www.pocketgamer.biz/the-top-30-canada-game-makers-of-2026": {
+  "zh_title": "2026 年加拿大 Top 30 游戏厂商",
+  "zh_oneliner": "盘点加拿大最值得关注的 30 家游戏厂商，从国际大厂到独立工作室一并入选。"
+ },
+ "https://www.pocketgamer.biz/state-of-play-canadas-games-industry-looks-towards-its-next-chapter": {
+  "zh_title": "行业现状：加拿大游戏业展望下一篇章",
+  "zh_oneliner": "作为加拿大地区报告的一部分，梳理当地产业现状与工作室面临的机遇和挑战。"
+ },
+ "https://www.pocketgamer.biz/is-the-games-industry-becoming-more-optimistic-about-ai-mobile-mavens-part-2": {
+  "zh_title": "游戏业对 AI 的态度更乐观了吗？| Mobile Mavens 第二期",
+  "zh_oneliner": "专栏第二期继续聊 AI 如何改变开发与运营，有人看到机会，也有人仍存顾虑。"
+ },
+ "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company": {
+  "zh_title": "Playtika 排除出售可能，将继续独立运营",
+  "zh_oneliner": "完成战略评估后，Playtika 董事会决定不出售，公司将继续作为独立上市公司运营。"
+ },
+ "https://www.pocketgamer.biz/apples-new-ios-terms-in-the-eu-are-live-what-alternative-app-stores-now-mean-for-game-studios": {
+  "zh_title": "苹果欧盟新 iOS 条款已生效：替代应用商店对游戏工作室意味着什么",
+  "zh_oneliner": "苹果在欧盟的新商务条款开始执行，这篇文章讲清替代应用商店对开发者分发渠道的影响。"
+ },
+ "https://www.youxituoluo.com/535053.html": {
+  "zh_title": "业界代表在深探讨AI时代国游出海新挑战",
+  "zh_oneliner": "深圳出海主题研讨会上，业界代表围绕 AI 时代国产游戏出海的新挑战展开讨论。"
+ },
+ "https://www.youxituoluo.com/535052.html": {
+  "zh_title": "杀疯了！10月王者iOS月收11亿，率土暴涨90%，鸣潮涨57%",
+  "zh_oneliner": "Sensor Tower 10 月榜单显示头部格局稳固，中腰部洗牌明显，《率土之滨》与《鸣潮》收入大幅上涨。"
+ },
+ "https://www.youxituoluo.com/535050.html": {
+  "zh_title": "AI冲击下，2026年游戏行业的“热钱”到底藏哪儿了？",
+  "zh_oneliner": "AI 让做 Demo 变快却让好产品更难被看见，这篇文章追踪 2026 年游戏行业的资金流向。"
+ },
+ "https://www.youxituoluo.com/535049.html": {
+  "zh_title": "美团也入局AI游戏开发？开源模型的一句话，到哪一步了？",
+  "zh_oneliner": "美团背后的 Longcat 模型号称一句话能生成可玩游戏界面，文章实测它目前到底做到了哪一步。"
+ },
+ "https://www.youxituoluo.com/535048.html": {
+  "zh_title": "今年的双十一，腾讯收获了一个“双破亿”",
+  "zh_oneliner": "腾讯游戏在双十一迎来《无畏契约》端手游双破亿，盘点其长青产品与新品的双线表现。"
+ },
+ "https://www.youxituoluo.com/535045.html": {
+  "zh_title": "游戏行业的策划，正在“抽卡师”化吗？",
+  "zh_oneliner": "虎扑 AI 工坊让普通用户也能做小游戏，文章聊这种变化对游戏策划职业意味着什么。"
+ },
+ "https://www.youxituoluo.com/535044.html": {
+  "zh_title": "9000万DAU, Discord CBO谈开发商如何利用其工具运营游戏？",
+  "zh_oneliner": "Discord 首席商务官分享开发者如何用它的工具留住玩家、低成本召回流失用户。"
+ },
+ "https://www.youxituoluo.com/535043.html": {
+  "zh_title": "创下2项历史记录，国服在线人数创新高，魔兽世界又双叒火了？",
+  "zh_oneliner": "《魔兽世界》“无限服”周末在线人数创下新高，文章记录老游戏回潮的现场。"
+ },
+ "https://www.youxituoluo.com/535041.html": {
+  "zh_title": "米哈游新游定档，游族签下42亿GPU采购大单，腾讯鹰角又投新团队丨陀螺周报",
+  "zh_oneliner": "本周产业要点汇总：米哈游新游定档、游族 42 亿 GPU 采购大单，以及腾讯与鹰角的投资动态。"
+ },
+ "https://www.youxituoluo.com/535040.html": {
+  "zh_title": "官宣再投10亿、即将端手互通，腾讯赛道的头牌产品来到了新拐点？",
+  "zh_oneliner": "《金铲铲之战》宣布再投 10 亿并推进端手互通，复盘这款产品走到新拐点的底气。"
+ },
+ "https://www.youxituoluo.com/535039.html": {
+  "zh_title": "不卷开放世界，赖在畅销榜Top15不走：中轻度二游真是宝藏赛道？",
+  "zh_oneliner": "《篮球少女》以中轻度二游冲进畅销榜前列，文章探讨这条赛道对中小团队是否真有机会。"
+ },
+ "https://www.youxituoluo.com/535038.html": {
+  "zh_title": "A股游戏三季报：头部狂揽63亿，腰部陷买量泥潭，边缘厂已不聊游戏了",
+  "zh_oneliner": "三季度 A 股游戏公司财报呈现剧烈分化，头部靠出海赚钱，腰部深陷买量泥潭。"
+ },
+ "https://www.youxituoluo.com/535036.html": {
+  "zh_title": "拟250亿美元收购Unity，沙特土豪继续“氪金”游戏圈",
+  "zh_oneliner": "传沙特 PIF 与银湖资本拟以约 250 亿美元收购 Unity，谈判仍处早期，引擎格局或再生变。"
+ },
+ "https://www.youxituoluo.com/535035.html": {
+  "zh_title": "超额认购！游戏投资机构DENMU電夢首期基金完成募集，多款大作曝光进展",
+  "zh_oneliner": "游戏投资机构 DENMU 電夢首期基金超额完成募集，认缴超 5000 万美元目标，覆盖独立到 3A 的多款作品。"
+ },
+ "https://www.youxituoluo.com/535034.html": {
+  "zh_title": "《GTA6》前瞻：8年打造，本世代最贵大作，为何让人“不放心”",
+  "zh_oneliner": "《GTA6》历时 8 年、成本创纪录，文章拆解这款万众期待的大作为何仍让人捏一把汗。"
+ },
+ "https://www.youxituoluo.com/535033.html": {
+  "zh_title": "米哈游也打“价格战”？《崩坏:因缘精灵》公测定档2027年春季",
+  "zh_oneliner": "米哈游宣布《崩坏：因缘精灵》2027 年春季公测，捉宠加自走棋的玩法组合值得留意。"
+ },
+ "https://www.youxituoluo.com/535032.html": {
+  "zh_title": "小游戏分化：微信大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+  "zh_oneliner": "QuestMobile 秋季报告显示微信小游戏大盘碾压抖音，多款抖音老游戏月活暴跌超八成。"
+ },
+ "https://www.youxituoluo.com/535025.html": {
+  "zh_title": "DENMU電夢首期基金完成超额募集，超过5000万美元目标",
+  "zh_oneliner": "DENMU 電夢首期基金完成最终募集，超额认购超 5000 万美元目标，将支持开发者从研发到上线全程。"
+ },
+ "https://www.youxituoluo.com/535031.html": {
+  "zh_title": "告别“六边形战士”执念，我们该怎样看待《影之刃零》",
+  "zh_oneliner": "《影之刃零》首发 400 万份后，文章提醒别只盯着“六边形战士”式的期待看这款国产动作游戏。"
+ },
+ "https://www.youxituoluo.com/535030.html": {
+  "zh_title": "42.25亿买GPU、首年利润归团队：游族把AI赌注压到台前",
+  "zh_oneliner": "游族斥资 42.25 亿采购 GPU 并把首年利润归团队，AI 投入正式摆上台面。"
+ },
+ "https://www.youxituoluo.com/535024.html": {
+  "zh_title": "当大肥鱼开始替人找游戏，独立开发者反而更难了？",
+  "zh_oneliner": "AI 工具 DSH 让 DeepSeek 能刷 B 站找游戏，文章聊这种变化对独立开发者曝光的影响。"
+ },
+ "https://www.youxituoluo.com/535023.html": {
+  "zh_title": "报名角逐游戏行业奖项！第十一届金陀螺奖正式启动",
+  "zh_oneliner": "第十一届金陀螺奖正式启动报名，历届已吸引近万个项目参赛，是国产游戏年终的重要评选。"
+ },
+ "https://www.youxituoluo.com/535022.html": {
+  "zh_title": "实测｜Kimi一句话做游戏：国产模型，到底走到哪了？",
+  "zh_oneliner": "陀螺君实测 Kimi 一句话做游戏的能力，检验国产模型在玩法原型验证上到底走到了哪一步。"
+ },
+ "https://www.youxituoluo.com/535021.html": {
+  "zh_title": "Kimi 入局游戏 AI 开发：从帮你写代码，到替你操作引擎",
+  "zh_oneliner": "Kimi 发布游戏开发解决方案，号称能帮没编程经验的策划一两天做出可试玩原型，甚至直接操作引擎。"
+ },
+ "https://www.youxituoluo.com/535020.html": {
+  "zh_title": "成立近5年，去年公布首作，大厂投资过的海外工作室正式宣布解散",
+  "zh_oneliner": "由名越稔洋创办、网易投资的名越工作室正式宣布解散，成立近五年、首作公布仅一年。"
+ },
+ "https://www.youxituoluo.com/535019.html": {
+  "zh_title": "20+新游定档、10+产品测试！11月手游市场迎来“内容型产品”大爆发",
+  "zh_oneliner": "11 月有 27 款新游上线、18 款产品开测，发行重心转向二次元、MMO 与沙盒生存等内容型产品。"
+ },
+ "https://www.youxituoluo.com/535018.html": {
+  "zh_title": "轻松收回3-4亿成本？《影之刃零》销量破400万，流水或超10亿元",
+  "zh_oneliner": "《影之刃零》72 小时销量破 400 万、流水或超 10 亿，按 3 至 4 亿成本算首发三天大概率已回本。"
+ },
+ "https://www.youxituoluo.com/535017.html": {
+  "zh_title": "《星布谷地》《白银之城》定档，《影之刃零》在线超70万人，世纪华通Q3营收111亿元 | 陀螺周报",
+  "zh_oneliner": "本周产业要点汇总：多款新游定档、《影之刃零》在线人数破 70 万，以及世纪华通三季度营收。"
+ },
+ "https://www.youxituoluo.com/535016.html": {
+  "zh_title": "预约破1500万，乐元素《白银之城》官宣定档12月14日",
+  "zh_oneliner": "乐元素 UE5 动作 RPG《白银之城》官宣 12 月 14 日全球公测，预约已破 1500 万。"
+ },
+ "https://www.youxituoluo.com/535014.html": {
+  "zh_title": "沉迷养鸟、搬家、当裁缝，越来越多的游戏玩家喜欢上不干正事",
+  "zh_oneliner": "Steam 上带 Cozy 标签的新作同比增长约 186%，温馨治愈类游戏正成为独立开发者值得关注的赛道。"
  }
 }
