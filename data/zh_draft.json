@@ -6958,5 +6958,13 @@
  "https://dev.to/mst9tools/level-prop-scatter-fill-a-godot-4-level-with-trees-and-rocks-in-one-click-free-lite-1fbj": {
   "zh_title": "Level Prop Scatter：一键为 Godot 4 关卡铺满树木与岩石（免费 Lite 版）",
   "zh_oneliner": "一款 Godot 4 插件可在编辑器里一键在指定区域散布树木、岩石等场景道具，附免费 Lite 版供试用。"
+ },
+ "https://dev.to/uchitchakma/engineering-60fps-multiplayer-browser-games-with-html5-canvas-websockets-ludo-stickman--1ghd": {
+  "zh_title": "用 HTML5 Canvas 与 WebSockets 打造 60FPS 多人浏览器游戏（飞行棋、火柴人与点击小游戏）",
+  "zh_oneliner": "作者拆解了零安装浏览器多人游戏如何用客户端预测与确定性状态机锁住 60 帧，适合想做轻量网页联机玩法的独立开发者参考。"
+ },
+ "https://gamedev.net/blogs/entry/2298671-welcome-to-firegames-studios": {
+  "zh_title": "欢迎来到 FIREGAMES STUDIOS！",
+  "zh_oneliner": "新工作室 FIREGAMES STUDIOS 亮相，正在开发开放世界生活模拟游戏 CityBound Simulator，值得关注其后续开发日志。"
  }
 }
