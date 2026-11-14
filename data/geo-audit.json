@@ -1,0 +1,67 @@
+{
+ "generated_at": "2026-11-14",
+ "site": "https://staroltest.github.io/indie-game-hot",
+ "summary": {
+  "total": 9,
+  "passed": 3,
+  "warn": 3,
+  "failed": 3
+ },
+ "checks": [
+  {
+   "key": "robots",
+   "label": "robots.txt 点名放行 AI 爬虫",
+   "status": "pass",
+   "detail": "已点名放行 GPTBot / ClaudeBot / PerplexityBot 等，含 Sitemap 声明"
+  },
+  {
+   "key": "sitemap",
+   "label": "sitemap.xml 条数与漏页",
+   "status": "fail",
+   "detail": "共 1660 条 URL，漏 13 页（daily 2026-11-10~14、weekly 2026-W46、monthly 2026-11、5 篇详情页；审计实测 2026-11-14，待下次生成后修复）"
+  },
+  {
+   "key": "llms",
+   "label": "llms.txt 存在",
+   "status": "pass",
+   "detail": "已生成，含 MCP 端点与数据 JSON 入口"
+  },
+  {
+   "key": "canonical",
+   "label": "首页 canonical / hreflang",
+   "status": "fail",
+   "detail": "首页 canonical 0 个、hreflang 0 个（审计实测，待下次生成后生效）"
+  },
+  {
+   "key": "jsonld",
+   "label": "首页 JSON-LD（WebSite）",
+   "status": "warn",
+   "detail": "WebSite 存在，但缺 inLanguage（待下次生成后补）"
+  },
+  {
+   "key": "item",
+   "label": "详情页 Article（抽查最新 1 篇）",
+   "status": "fail",
+   "detail": "详情页缺 dateModified，og:type 为 website（待下次生成后改为 article）"
+  },
+  {
+   "key": "mcp",
+   "label": "MCP 端点可达性",
+   "status": "warn",
+   "detail": "端点 https://indie-game-hot.pages.dev/mcp 已写入 llms.txt；本轮未做在线请求，可达性需线上验证"
+  },
+  {
+   "key": "pages",
+   "label": "Cloudflare Pages 部署",
+   "status": "warn",
+   "detail": "仓库内无法验证部署状态；Cloudflare Pages 上次成功部署 2026-11-14，请以控制台最新部署为准"
+  },
+  {
+   "key": "feed",
+   "label": "feed.xml 正常",
+   "status": "pass",
+   "detail": "RSS 2.0 正常，含 20 条"
+  }
+ ],
+ "note": "静态快照：robots.txt 与 llms.txt 已随本次提交更新；sitemap、canonical、JSON-LD 与详情页的修复在生成器里，需下次生成运行后生效，本页届时自动刷新。"
+}
