@@ -6534,5 +6534,25 @@
  "https://www.destructoid.com/all-weapons-in-warhammer-survivors-and-how-to-unlock-them": {
   "zh_title": "《战锤 Survivors》全武器一览及解锁方法",
   "zh_oneliner": "整理这款战锤生存类新作的全部武器与解锁条件，开荒时可对照搭配。"
+ },
+ "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible": {
+  "zh_title": "TGA 2026 提名名单下周公布，《塞尔达》与 GTA 6 均有资格参选",
+  "zh_oneliner": "2026 年 The Game Awards 将于 12 月 10 日举行，提名名单 11 月 17 日直播公布，独立游戏可对照提名动向把握年底宣发窗口。"
+ },
+ "https://dev.to/yanisboudjemai69gmailco/the-last-christmas-chapter-1-one-night-one-house-one-terrible-secret-le-compte-a-rebours-399p": {
+  "zh_title": "独立恐怖游戏《最后的圣诞节》第一章发布：用 Godot 打造的北极平安夜冒险",
+  "zh_oneliner": "一款用 Godot 开发的独立恐怖游戏，第一章把玩家丢进北极平安夜的神秘小屋，适合参考小型叙事恐怖的氛围营造。"
+ },
+ "https://dev.to/neural_ethos/a-pipeline-note-the-generator-hands-off-glb-and-stl-obj-is-a-local-conversion-step-k24": {
+  "zh_title": "流水线笔记：生成器只交 GLB，STL 与 OBJ 互转是本地步骤",
+  "zh_oneliner": "厘清 AI 生成 3D 模型的交付边界：生成器产出带贴图的 GLB 网格，STL 与 OBJ 转换是之后在浏览器本地完成的独立环节，对做生成式 3D 工具的开发者有参考价值。"
+ },
+ "https://www.indiedb.com/games/heroes-of-the-forgotten-land/news/heroes-of-the-forgotten-land-is-out-on-the-epic-games-store": {
+  "zh_title": "北欧塔防《被遗忘之地的英雄》登陆 Epic 商店",
+  "zh_oneliner": "一位独立开发者做的北欧风塔防，12 关横跨森林、雪原与火焰地貌，五种防御塔各带技能，附带英雄、符文与村庄重建系统，现已上架 Windows 与 Mac。"
+ },
+ "https://www.indiedb.com/games/melancholy1/news/melancholy-100-launch": {
+  "zh_title": "恐怖游戏《Melancholy》1.0 正式版发布",
+  "zh_oneliner": "《Melancholy》从 0.8.0 走到 1.0 正式版，着重强化了实体感、重做了追踪者机制并加入完整视觉自定义，是独立恐怖游戏迭代的参考案例。"
  }
 }
