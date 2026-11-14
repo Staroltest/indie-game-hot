@@ -10672,5 +10672,29 @@
   "zh_oneliner": "印度独立开发者用 AI 辅助写代码、做美术和音效，独立做出一款免下载、免注册的浏览器 3D 台球游戏，采用真实物理模拟且故意不给瞄准线，并分享了两点经验：手感仍是最难啃的部分，去除游玩门槛比堆功能更重要。",
   "en_title": "Building a 3D pool game that runs in the browser - with AI assistance",
   "en_oneliner": "A solo developer from India used AI assistance for code, art and sound to build a free 3D pool game that runs entirely in the browser with real physics simulation and deliberately no aiming lines, and shares two lessons: game feel is still the hard part, and removing friction matters more than adding features."
+ },
+ "https://www.gcores.com/radios/222022": {
+  "zh_title": "规则是流动的，核周报 11.14",
+  "zh_oneliner": "本周游戏圈要闻盘点：《GTA6》开发完成、预购创纪录，《影之刃零》国区三连庄，另有 Switch 固件更新与《塞尔达传说：时光之笛》重制版销量等消息。",
+  "en_title": "The Rules Are in Flux: Gcores Weekly, Nov 14",
+  "en_oneliner": "This week in games: GTA 6 development is complete with record-breaking pre-orders, Shadow Blade Zero tops the China charts for a third straight week, plus Switch firmware updates and Ocarina of Time remake sales news."
+ },
+ "https://dev.to/aplusgamesstudio/in-app-purchase-implementation-guide-for-mobile-games-445m": {
+  "zh_title": "手游内购实现指南",
+  "zh_oneliner": "手把手讲手游内购全流程：从商店拉取商品、发起购买，到服务端校验交易再发货，帮独立开发者避开内购实现里的常见坑。",
+  "en_title": "In-App Purchase Implementation Guide for Mobile Games",
+  "en_oneliner": "A practical walkthrough of the full mobile in-app purchase flow — fetching products, starting purchases, validating transactions server-side, then granting items — to help indie developers avoid common IAP pitfalls."
+ },
+ "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes": {
+  "zh_title": "《光环：战役进化版》将免费更新加入烈火战模式，但未必能扭转重制版的颓势",
+  "zh_oneliner": "《光环：战役进化版》将通过免费更新加入烈火战模式，更多细节将于 12 月 Halo Fest 公布，但作者认为这未必能改变重制版的口碑走向。",
+  "en_title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+  "en_oneliner": "Halo: Campaign Evolved is getting Firefight as a free update, with more details due at Halo Fest in December — though the author doubts it will do much to change the remake's fortunes."
+ },
+ "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me": {
+  "zh_title": "《耻辱2》总监 Harvey Smith：既要致敬沉浸式模拟的经典法则，也要给玩家新惊喜",
+  "zh_oneliner": "《耻辱2》总监 Harvey Smith 谈沉浸式模拟游戏的设计取舍：一边要兑现玩家对经典法则的期待，一边又想用新方式给他们惊喜。",
+  "en_title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\"",
+  "en_oneliner": "Dishonored 2 director Harvey Smith on the two pulls of immersive-sim design: honouring the genre's sacred texts while still finding new ways to surprise fans."
  }
 }
