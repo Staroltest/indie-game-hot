@@ -10483,15 +10483,21 @@
  },
  "http://www.chuapp.com/article/291756.html": {
   "zh_title": "触乐本周行业大事：《虚环》二测招募开启，《影之刃零》错失金摇杆奖大奖",
-  "zh_oneliner": "一周行业大事盘点：《虚环》二测招募开启、《蛋仔派对》停运 B 站渠道服，另有《影之刃零》错失金摇杆大奖等消息，适合快速扫一眼本周风向。"
+  "zh_oneliner": "一周行业大事盘点：《虚环》二测招募开启、《蛋仔派对》停运 B 站渠道服，另有《影之刃零》错失金摇杆大奖等消息，适合快速扫一眼本周风向。",
+  "en_title": "ChuApp Big Industry News of the Week: Rings of the Void Second Beta Sign-Ups Open, Phantom Blade Zero Misses the Golden Joystick Grand Prize",
+  "en_oneliner": "A weekly industry roundup: Rings of the Void opens sign-ups for its second beta, Eggy Party shuts down its Bilibili channel server, and Phantom Blade Zero misses out on the Golden Joystick grand prize — a quick scan of the week's direction."
  },
  "https://www.indiedb.com/news/four-bug-factory-games-now-all-on-xbox": {
   "zh_title": "Bug Factory 四款游戏现已全部登陆 Xbox",
-  "zh_oneliner": "《Millfall》登陆 Xbox 后，Bug Factory 的四款游戏已全数上架主机端，另有三款作品同步推出优化加载与开局体验的更新。"
+  "zh_oneliner": "《Millfall》登陆 Xbox 后，Bug Factory 的四款游戏已全数上架主机端，另有三款作品同步推出优化加载与开局体验的更新。",
+  "en_title": "Four Bug Factory Games Now All on Xbox",
+  "en_oneliner": "With Millfall landing on Xbox, all four of Bug Factory's games are now on console, and three of them also ship updates improving loading and the opening experience."
  },
  "https://www.indiedb.com/games/thalos-food-truck/news/free-demo-out-now-run-a-monster-fighting-food-truck": {
   "zh_title": "免费试玩上线：开着餐车打怪兽",
-  "zh_oneliner": "《Thalos Food Truck》免费试玩已上线：经营一辆会变形的餐车，用打败的怪物做食材，在 10 天、5 个区域里边做饭边战斗。"
+  "zh_oneliner": "《Thalos Food Truck》免费试玩已上线：经营一辆会变形的餐车，用打败的怪物做食材，在 10 天、5 个区域里边做饭边战斗。",
+  "en_title": "Free Demo Out Now: Run a Monster-Fighting Food Truck",
+  "en_oneliner": "The free demo for Thalos Food Truck is out: run a transforming food truck, cook with the monsters you defeat, and fight and serve your way through 10 days across 5 regions."
  },
  "https://dev.to/cpcai_studio/i-built-a-worms-like-mobile-game-alone-48-tanks-destructible-terrain-and-the-parts-that-actually-3mg7": {
   "zh_title": "独自一人做了款类《百战天虫》手游：48 辆坦克、可破坏地形，以及真正花时间的地方",
@@ -10510,5 +10516,17 @@
   "zh_oneliner": "针对 FC 27 名人堂 Unleashed 联赛里反复掉线的恼人问题，这篇指南给出了能顺利打完的绕过办法。",
   "en_title": "How to complete FC 27 HOF: Unleashed League without disconnection",
   "en_oneliner": "A workaround guide for the persistent disconnection bug that keeps interrupting the FC 27 Hall of Fame: Unleashed League."
+ },
+ "https://www.eurogamer.net/gta-vice-city-retrospective": {
+  "zh_title": "《罪恶都市》是奠定 Rockstar 杀手级公式的那部 GTA——24 年过去，它仍是有史以来最好的游戏之一",
+  "zh_oneliner": "回顾《罪恶都市》如何把开放世界、明星配音与八十年代氛围捏合成 Rockstar 此后沿用二十多年的成功模板，顺带讲了 Burt Reynolds 与 Dan Houser 在录音棚里差点动手的轶事。",
+  "en_title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+  "en_oneliner": "A look back at how Vice City fused open-world design, a star voice cast and an '80s atmosphere into the template Rockstar has reused for over two decades, including the anecdote of Burt Reynolds nearly coming to blows with Dan Houser in the recording studio."
+ },
+ "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-14th-november": {
+  "zh_title": "话题：这个周末你在玩什么？（11 月 14 日）",
+  "zh_oneliner": "Nintendo Life 每周例行闲聊：聊聊本周打通的《时之笛》、在等的《Dandori Academy》，以及这个周末打算玩什么。",
+  "en_title": "Talking Point: What Are You Playing This Weekend? (14th November)",
+  "en_oneliner": "Nintendo Life's weekly check-in: what you've been playing this week — from finishing Ocarina of Time to awaiting Dandori Academy — and what's on for the weekend."
  }
 }
