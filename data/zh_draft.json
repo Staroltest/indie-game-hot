@@ -10990,5 +10990,35 @@
   "zh_oneliner": "从 Revit 等软件导出的建筑模型动辄上万次 Draw Call，作者用分层实例化静态网格批量合并重复构件，实测把大型场景稳定在 60 帧。",
   "en_title": "Unreal Engine 5.4 ArchViz Optimization: Slashing Draw Calls from 10,000 to Under 1,200",
   "en_oneliner": "Architectural models imported from Revit and similar tools can easily hit 10,000 draw calls, so the author batches repeated elements with hierarchical instanced static meshes and holds large scenes at a steady 60 FPS."
+ },
+ "https://www.indiedb.com/games/catnip-wars/news/catnip-wars-free-demo-grab-three-friends-and-hold-the-farm": {
+  "zh_title": "《Catnip Wars》免费试玩版上线：叫上三位好友一起守住农场",
+  "zh_oneliner": "六边形网格合作塔防，1–4 人种猫薄荷、布防线、顶住一波波敌人，Steam 免费试玩已上线。",
+  "en_title": "Catnip Wars free demo - grab three friends and hold the farm",
+  "en_oneliner": "A hex-grid co-op tower defense for 1–4 players: grow catnip, build defenses and hold the farm against the waves — the free demo is live on Steam."
+ },
+ "https://www.indiedb.com/games/himmelsblte/news/himmelsblte-is-out-fly-a-tiny-fairy-through-four-magical-skies": {
+  "zh_title": "《Himmelsblüte》正式发售：化身小精灵飞越四片魔法天空",
+  "zh_oneliner": "可爱风竖版射击游戏，4 片天空、40 个领域、8 位女主角与 20 名同伴，1.0 版本已登陆 itch.io。",
+  "en_title": "Himmelsblüte is out – fly a tiny fairy through four magical skies!",
+  "en_oneliner": "A cute vertical shooter out now on itch.io, with four skies, 40 realms, 40 guardians, eight heroines and 20 companions in version 1.0.0."
+ },
+ "https://www.indiedb.com/games/glupsch/news/glupsch-is-out-start-as-a-crumb-eater-end-up-eating-the-city": {
+  "zh_title": "《Glupsch》正式发售：从吃碎屑开始，一路吃掉整座城市",
+  "zh_oneliner": "黏糊糊的吃吃长大动作游戏，从一小团史莱姆起步，一路吃掉碎屑、奶牛、行人、房屋乃至整座城市与军队，现已登陆 itch.io。",
+  "en_title": "Glupsch is out – start as a crumb-eater, end up eating the city!",
+  "en_oneliner": "A gooey eat-and-grow action game out now on itch.io: start as a tiny blob and eat your way up from crumbs to cows, people, houses, the whole city and the army."
+ },
+ "https://dev.to/siteypk/one-game-fifteen-midnights-working-out-when-gta-6-unlocks-on-every-clock-5822": {
+  "zh_title": "一款游戏、十五个午夜：算清《GTA 6》在各地时区到底何时解锁",
+  "zh_oneliner": "《GTA 6》11 月 19 日发售，但“午夜解锁”在不同时区是十五个不同时刻，作者按 Rockstar 官方说明逐区算清了各地的解锁时间。",
+  "en_title": "One game, fifteen midnights: working out when GTA 6 unlocks on every clock",
+  "en_oneliner": "GTA 6 launches on 19 November 2026, but midnight means fifteen different moments — this piece works out the unlock time for every time zone from Rockstar's own rules."
+ },
+ "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers": {
+  "zh_title": "游戏好笑，还是玩家好笑？Jackbox CEO 谈喜剧游戏测试的“假阳性”难题",
+  "zh_oneliner": "喜剧游戏的测试自带难题：笑声可能来自玩家而非游戏本身，Jackbox 的喜剧编剧团队也常遇到“假阳性”反馈。",
+  "en_title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+  "en_oneliner": "Testing comedy games has a unique challenge: the laughs may come from the players, not the game — Jackbox's CEO talks about the \"false positives\" their staff of comedy writers keep running into."
  }
 }
