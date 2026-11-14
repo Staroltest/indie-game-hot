@@ -6578,5 +6578,13 @@
  "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2": {
   "zh_title": "ICYMI：Limited Run Games 宣布补货 Switch 2 版《古墓丽影：决定版》",
   "zh_oneliner": "实体限量发行商 Limited Run Games 罕见为 Switch 2 版《古墓丽影：决定版》安排补货，说明实体收藏版仍有稳定需求，独立开发者做实体发行时可以留意这类渠道的补货节奏。"
+ },
+ "https://www.gcores.com/radios/222350": {
+  "zh_title": "《影之刃》组织说江湖得有规矩？我呸！",
+  "zh_oneliner": "机核播客节目，聊《影之刃》里的江湖规矩与组织设定，偏玩家向内容。"
+ },
+ "https://dev.to/evgenii_zinner/throwing-out-the-widget-tree-building-a-2d-game-engine-underneath-flutter-sting-3n6p": {
+  "zh_title": "抛弃 Widget 树：在 Flutter 底层打造 2D 游戏引擎（Sting）",
+  "zh_oneliner": "作者分享在 Flutter 之下从零搭建 2D 游戏引擎 Sting 的实践，重点是六边形网格上的大规模单位模拟。"
  }
 }

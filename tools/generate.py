@@ -3138,8 +3138,10 @@ def build_geo_audit(site, root, site_url, today_iso):
             if _fn.endswith(".html") and _fn != "404.html":
                 p = _fn if rel == "." else f"{rel}/{_fn}"
                 html_files.add(p)
+    # 首页以规范根路径 site_url/ 入 sitemap，等价于磁盘上的 index.html
     missing = sorted(f"{site_url}/{p}" for p in html_files
-                     if f"{site_url}/{p}" not in sm_locs)
+                     if f"{site_url}/{p}" not in sm_locs
+                     and not (p == "index.html" and f"{site_url}/" in sm_locs))
     if sitemap and not missing:
         _check("sitemap", "sitemap.xml 条数与漏页", "pass",
                f"共 {len(sm_locs)} 条 URL，磁盘 {len(html_files)} 个 HTML 页全部在列")
@@ -3559,7 +3561,8 @@ def main():
     sitemap_entries = {}
 
     def _add_sitemap(path, lastmod):
-        if path and path != "404.html" and path not in sitemap_entries:
+        # 空字符串是首页（规范根路径 /），必须入 sitemap，不能被真值判断丢掉
+        if path != "404.html" and path not in sitemap_entries:
             sitemap_entries[path] = lastmod or today_iso
 
     for _p in ["", "all.html", "hot.html", "daily.html", "weekly.html", "monthly.html",

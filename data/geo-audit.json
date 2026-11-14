@@ -3,9 +3,9 @@
  "site": "https://staroltest.github.io/indie-game-hot",
  "summary": {
   "total": 9,
-  "passed": 6,
+  "passed": 7,
   "warn": 2,
-  "failed": 1
+  "failed": 0
  },
  "checks": [
   {
@@ -17,8 +17,8 @@
   {
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
-   "status": "fail",
-   "detail": "共 1678 条 URL，漏 1 页：https://staroltest.github.io/indie-game-hot/index.html"
+   "status": "pass",
+   "detail": "共 1681 条 URL，磁盘 1680 个 HTML 页全部在列"
   },
   {
    "key": "llms",
