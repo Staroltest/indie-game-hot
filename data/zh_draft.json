@@ -10798,5 +10798,29 @@
   "zh_oneliner": "一款时间循环竞技场游戏：你守护核心的同时，上一轮的自己会以残影重现，精确复现此前的走位与射击，每一轮都多一位真正的战友。",
   "en_title": "Echo Warden: Fight beside your past selves",
   "en_oneliner": "A time-loop arena game where you defend a core while an echo of your previous run fights beside you, replaying your exact moves and shots so every loop adds a real defender."
+ },
+ "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus": {
+  "zh_title": "《The Blood of Dawnwalker》下周更新加入二周目，错过的剧情可以重打一遍",
+  "zh_oneliner": "《The Blood of Dawnwalker》下周的 1.2 更新将加入二周目模式，首周目限时 30 天没看完的内容可以在新周目里继续探索。",
+  "en_title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+  "en_oneliner": "The Blood of Dawnwalker's 1.2 update next week adds a New Game Plus mode, so content missed during the 30-day first run can be revisited in a fresh playthrough."
+ },
+ "https://www.indiedb.com/games/reincarnation-100-idle-rpg/news/update-113-reworked-shop-login-streak-and-russian": {
+  "zh_title": "放置 RPG《Reincarnation 100》1.13 更新：商店重做、登录奖励与俄语支持",
+  "zh_oneliner": "《Reincarnation 100》的 1.13 更新已上线，商店系统重做并加入登录连击奖励，浏览器版还新增了完整俄语翻译。",
+  "en_title": "Update 1.13: reworked shop, login streak and Russian",
+  "en_oneliner": "Reincarnation 100's 1.13 update is live with a reworked shop, login streak rewards, and a full Russian translation in the browser version."
+ },
+ "https://dev.to/aplusgamesstudio/game-mvp-development-what-to-build-first-and-why-55en": {
+  "zh_title": "游戏 MVP 开发：先做什么、为什么",
+  "zh_oneliner": "这篇开发指南拆解了游戏 MVP 的取舍：一个打磨好的核心玩法循环、20 到 30 分钟内容和基础成长系统，帮你用最小成本验证玩家是否愿意回来。",
+  "en_title": "Game MVP Development: What to Build First and Why",
+  "en_oneliner": "This guide breaks down what a game MVP should include — one polished core loop, 20 to 30 minutes of content, and basic progression — to test whether players will come back with minimal cost."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit": {
+  "zh_title": "你喜欢老派 MMO 的抢怪机制，还是已经受够了为任务怪争抢？",
+  "zh_oneliner": "PC Gamer 探讨了老派 MMO 的抢怪机制：任务怪归属之争是怀旧乐趣的一部分，还是早该淘汰的设计。",
+  "en_title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+  "en_oneliner": "PC Gamer asks whether mob tagging in old-school MMOs is a nostalgic part of the genre or a design that should have been left behind."
  }
 }
