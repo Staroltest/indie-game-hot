@@ -11452,5 +11452,23 @@
   "zh_oneliner": "这款 Godot 4 持久幻想世界把各区域打通成一块可步行穿越的连续流式地图，本篇日志回顾了两个月来的世界拼接、显存优化与村民渲染进展。",
   "en_title": "OTHERREACH devlog #1: one world, a cliff town, and four new peoples",
   "en_oneliner": "This persistent fantasy world built in Godot 4 stitches its regions into one continuous streamed map you can cross on foot; the first devlog recaps two months of world-joining work, VRAM optimization and villager rendering."
+ },
+ "https://www.indiedb.com/games/prophecia/news/alpha-v01646-rivals-defenders-and-blood-that-shows": {
+  "zh_title": "Prophecia 免费 Alpha 升级至 v0.1.646：敌对势力、村庄防守与血溅效果",
+  "zh_oneliner": "Prophecia 免费 Alpha 更新到 v0.1.646，强盗与哥布林会互相争斗，村庄会主动抵御你引来的怪物，每次打击都有血溅效果且所有生物都有了音效。",
+  "en_title": "Alpha v0.1.646: rivals, defenders and blood that shows",
+  "en_oneliner": "Prophecia's free alpha moves to v0.1.646, with brigands and goblins fighting each other, villages standing up to the monsters you lead home, visible blood on every hit, and sounds for every creature."
+ },
+ "https://dev.to/juegostudiosofficial/a-30-minute-smoke-test-before-every-game-build-goes-out-e27": {
+  "zh_title": "每次发版前的 30 分钟冒烟测试",
+  "zh_oneliner": "多数流到玩家手里的坏版本并非死于细节，而是启动崩溃、丢存档或手柄拔掉就卡死，一套 30 分钟可重复的冒烟测试能在发版前把它们拦下来。",
+  "en_title": "A 30-Minute Smoke Test Before Every Game Build Goes Out",
+  "en_oneliner": "Most broken builds that reach players don't fail subtly — they crash on launch, lose a save, or freeze when a controller is unplugged, and a short repeatable 30-minute smoke test catches those failures before release."
+ },
+ "https://dev.to/abdelkrim_amrani_ac2770b1/closed-test-swap-loop-pop-one-tap-arcade-game-needs-testers-ill-test-yours-too-gk8": {
+  "zh_title": "封闭测试互换：单指街机游戏 Loop Pop 招募测试者，也愿帮你测",
+  "zh_oneliner": "独立开发者为安卓游戏 Loop Pop 的 Google Play 封闭测试招募测试者，需连续参与 14 天，作为交换他也愿意测试你的游戏。",
+  "en_title": "Closed test swap: Loop Pop (one-tap arcade game) needs testers, I'll test yours too",
+  "en_oneliner": "An indie developer is looking for testers for the Google Play closed test of Loop Pop, a one-tap arcade game, asking testers to stay opted in for 14 days and offering to test your game in return."
  }
 }
