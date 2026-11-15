@@ -11266,5 +11266,11 @@
   "zh_oneliner": "开发者用 AI 判断模型指挥炮艇机在僵尸围城中作战，715 次目标判定几乎全对、远胜手写规则，但 48 次对比任务里结局毫无差别，提醒把模型接进已有系统时要先想清楚“更好的决策”是否真能换来更好的结果。",
   "en_title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
   "en_oneliner": "A developer let an AI judgment model command a gunship over a zombie-infested city, and its 715 targeting calls beat hand-written rules by a wide margin, yet across 48 paired missions the better decisions changed nothing measurable — a reminder to check whether bolting a model onto a working system actually improves outcomes."
+ },
+ "https://dev.to/uzairxdev/build-an-arrow-puzzle-game-in-flutter-2fki": {
+  "zh_title": "用 Flutter 做一款箭头解谜游戏",
+  "zh_oneliner": "作者以自己的休闲解谜游戏 KnotGlide 为例，讲清如何用 Flutter 实现箭头滑出棋盘的核心玩法：纯 Dart 数据建模、路径检测、滑行动画与每日谜题全套做法。",
+  "en_title": "Build an Arrow Puzzle Game in Flutter",
+  "en_oneliner": "Using his own calm puzzle game KnotGlide as the example, the author walks through building the arrow-escape mechanic in Flutter — plain Dart data models, clear-path checks, glide animation and a daily puzzle, all on-device."
  }
 }
