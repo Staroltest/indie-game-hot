@@ -11500,5 +11500,41 @@
   "zh_oneliner": "这篇技术报告拆解了 Unity WebGL 游戏里浏览器与引擎之间的 JS 桥接瓶颈，用零拷贝文件系统和无分支查找把内存占用与 CPU 负载降了下来，适合想做网页端发行的开发者参考。",
   "en_title": "Engineered in Japan GCC: Optimizing Unity WebGL / Emscripten JS Bridge (Zero-Copy FS & Branchless Lookup)",
   "en_oneliner": "This technical report breaks down the JavaScript bridge bottleneck between the browser and the engine in Unity WebGL games, cutting memory use and CPU load with a zero-copy filesystem and branchless lookup — a useful reference for developers shipping games on the web."
+ },
+ "https://www.rockpapershotgun.com/the-sunday-papers-836": {
+  "zh_title": "《周日读物》第 836 期",
+  "zh_oneliner": "RPS 每周一期的游戏写作精选合集，汇总本周值得一读的行业文章与观点。",
+  "en_title": "The Sunday Papers",
+  "en_oneliner": "RPS's weekly roundup of the best games writing from the past week."
+ },
+ "https://www.indiedb.com/games/sol-divided/news/version-091-battle-phrases-and-14-languages": {
+  "zh_title": "0.9.1 版本：战斗语音与 14 种语言",
+  "zh_oneliner": "《Sol Divided》更新 0.9.1，加入战斗语音、9 种新语言、10 张卡牌新美术与模组任务剧情。",
+  "en_title": "Version 0.9.1: battle phrases and 14 languages",
+  "en_oneliner": "Sol Divided's 0.9.1 update adds battle phrases, nine new languages, new art for 10 cards, and story scenes for mod missions."
+ },
+ "https://www.indiedb.com/games/resupply/news/about22": {
+  "zh_title": "《Resupply》简介",
+  "zh_oneliner": "塔防新作《Resupply》把弹药补给做成核心玩法，胜负取决于补给网络而非炮塔本身。",
+  "en_title": "About",
+  "en_oneliner": "Resupply is a tower defense game where delivering ammunition matters more than the guns themselves."
+ },
+ "https://dev.to/samellis/designing-a-location-game-that-keeps-working-when-the-phone-has-no-signal-4hkb": {
+  "zh_title": "设计一款断网也能玩的位置游戏",
+  "zh_oneliner": "一篇实战总结，讲位置类游戏如何摆脱对服务器的依赖，在手机断网时依然能正常游玩。",
+  "en_title": "Designing a location game that keeps working when the phone has no signal",
+  "en_oneliner": "A hands-on guide to designing location games that keep working offline instead of dying the moment the signal drops."
+ },
+ "https://dev.to/virtuarian/how-to-publish-the-game-you-just-built-on-free-tiers-lessons-from-7000-players-and-one-dead-3ail": {
+  "zh_title": "如何用免费套餐发布刚做好的游戏——7000 名玩家与一个挂掉的数据库带来的教训",
+  "zh_oneliner": "作者复盘自己用免费云服务发布游戏的经历：排行榜、服务器与账单该怎么安排，以及数据库挂掉时学到的教训。",
+  "en_title": "How to Publish the Game You Just Built on Free Tiers — Lessons From 7,000 Players and One Dead Database",
+  "en_oneliner": "A postmortem on publishing a finished game on free tiers — leaderboards, servers, bills, and what a dead database taught the author."
+ },
+ "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives": {
+  "zh_title": "《沙丘：觉醒》上线离线模式，单机全程无需联网",
+  "zh_oneliner": "生存 MMO《沙丘：觉醒》终于加入呼声已久的离线模式，创建与删除单机角色全程无需联网。",
+  "en_title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+  "en_oneliner": "Survival MMO Dune: Awakening finally adds its much-requested offline mode, letting players create and delete single-player characters without ever touching the web."
  }
 }
