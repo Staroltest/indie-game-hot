@@ -11218,5 +11218,17 @@
   "zh_oneliner": "哔哩哔哩电竞 BLG 在纽约以 3 比 1 击败 Gen.G，首次夺得《英雄联盟》全球总决赛冠军，这是 LPL 赛区自 2021 年以来的首座 S 赛冠军。",
   "en_title": "BLG Wins the League of Legends S16 World Championship",
   "en_oneliner": "Bilibili Gaming's BLG beat Gen.G 3-1 in New York to win its first League of Legends World Championship, the LPL's first title since 2021."
+ },
+ "https://indienova.com/indie-game-news/itch-new-games-summary-of-last-week-2026-1102-1108-part2": {
+  "zh_title": "itch 一周游戏汇：11月2日-11月8日（下）",
+  "zh_oneliner": "indienova 盘点了 11 月 2 日至 8 日上架 itch.io 的新游戏下半部分，含多款用 Godot 开发的独立作品，适合想找灵感或参考玩法的开发者翻一翻。",
+  "en_title": "itch.io Weekly New Games Roundup: Nov 2–8 (Part 2)",
+  "en_oneliner": "indienova rounds up the second half of the new games released on itch.io from Nov 2 to 8, including several indie titles built with Godot — worth a browse for developers looking for inspiration or gameplay references."
+ },
+ "https://dev.to/antgamesai/a-xiangqi-chinese-chess-engine-in-one-html-file-move-generation-perpetual-check-and-an-ai-in-a-1i5m": {
+  "zh_title": "一个 HTML 文件里的中国象棋引擎：走法生成、长将判定与 Web Worker 里的 AI",
+  "zh_oneliner": "作者把中国象棋的走法生成、长将规则和 AI 全部塞进一个 HTML 文件，还用 Web Worker 跑 AI 避免卡住界面，适合想学棋类 AI 或单文件架构的开发者参考。",
+  "en_title": "A xiangqi (Chinese chess) engine in one HTML file: move generation, perpetual check and an AI in a Web Worker",
+  "en_oneliner": "The author packs xiangqi move generation, perpetual-check rules and an AI into a single HTML file, running the AI in a Web Worker so the interface stays responsive — a handy reference for developers interested in board-game AI or single-file architecture."
  }
 }
