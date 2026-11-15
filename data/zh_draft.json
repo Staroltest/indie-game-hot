@@ -1512,10 +1512,10 @@
   "en_oneliner": "World of Warcraft's Forever servers set new weekend online records, with the article recording the veteran game's resurgence."
  },
  "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-5c26": {
-  "zh_title": "6 行 JS 屏幕震动 + 顿帧技巧，立刻给游戏加上打击感",
-  "zh_oneliner": "只需 6 行 JS 就能给 2D 网页游戏加上屏幕震动与顿帧打击感，附带完整代码，浏览器小游戏开发者随取随用。",
+  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻提升游戏打击感",
+  "zh_oneliner": "不用物理引擎，只要在渲染循环里加 6 行画布平移震动代码，就能让 2D HTML5 浏览器游戏的打击和碰撞立刻有街机般的分量。",
   "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
-  "en_oneliner": "Just six lines of JS add screen shake and hit-stop game feel to 2D web games, with complete code ready for browser mini-game developers to use."
+  "en_oneliner": "No physics engine needed: just six lines of canvas translation shake inside your render loop to make weapon hits and collisions in a 2D HTML5 browser game feel ten times heavier."
  },
  "https://naavik.co/ai-gaming/prompt-to-game-is-here-which-platforms-are-positioned-to-win": {
   "zh_title": "一句话生成游戏已经来了，谁能赢？",
@@ -11382,10 +11382,10 @@
   "en_oneliner": "The author dug hidden skin.ini rules out of thousands of skins and offers a Python parser that survives real-world files, a useful reference for developers building skin preview or conversion tools."
  },
  "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-b8": {
-  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻给游戏加上打击感",
-  "zh_oneliner": "不用物理引擎，只需在渲染循环里加几行画布平移代码，就能让 2D HTML5 小游戏拥有街机般的打击感。",
+  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻提升游戏打击感",
+  "zh_oneliner": "不用物理引擎，只要在渲染循环里加 6 行画布平移震动代码，就能让 2D HTML5 浏览器游戏的打击和碰撞立刻有街机般的分量。",
   "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
-  "en_oneliner": "Without a physics engine, a few lines of canvas translation code in the render loop give 2D HTML5 mini-games arcade-style impact."
+  "en_oneliner": "No physics engine needed: just six lines of canvas translation shake inside your render loop to make weapon hits and collisions in a 2D HTML5 browser game feel ten times heavier."
  },
  "https://www.youxituoluo.com/535049.html": {
   "zh_title": "美团也入局AI游戏开发？开源模型的一句话，到哪一步了？",
@@ -11812,5 +11812,35 @@
   "zh_oneliner": "本期播客聊英伟达风波与欧盟《数字公平法案》对手游行业的潜在影响，帮开发者把握监管风向。",
   "en_title": "Nvidia scandal and the EU's Digital Fairness Act problem | Week in Mobile Games podcast",
   "en_oneliner": "This week’s podcast unpacks the Nvidia scandal and what the EU’s Digital Fairness Act could mean for the mobile games industry, helping developers read the regulatory winds."
+ },
+ "https://www.indiedb.com/games/wordlyplay/news/a-free-live-word-tournament-every-weekend-the-wordlyplay-grand-slam": {
+  "zh_title": "每周末免费直播文字锦标赛：WordlyPlay 大满贯",
+  "zh_oneliner": "每周六日晚 8 点（美东时间），最多 100 名玩家同场竞技，三轮资格词后进入一对一淘汰赛，角逐大满贯冠军，参赛和观赛都免费。",
+  "en_title": "A free live word tournament every weekend: the WordlyPlay Grand Slam",
+  "en_oneliner": "Every Saturday and Sunday at 8 PM ET, up to 100 players share one court: three qualifying words, then a one-on-one knockout to crown the Grand Slam Champion, free to enter and free to watch."
+ },
+ "https://www.indiedb.com/games/nightware/news/nightware-is-out-a-cute-desktop-assistant-who-wont-let-you-log-off": {
+  "zh_title": "《Nightware》已发售：可爱的桌面助手，不让你下线",
+  "zh_oneliner": "一款发生在一台旧电脑上的超现实恐怖冒险游戏，一夜流程，现已登陆 itch.io，首周八折。",
+  "en_title": "Nightware is out: a cute desktop assistant who won't let you log off",
+  "en_oneliner": "A surreal horror adventure that lasts one night on an old computer, out now on itch.io and 20% off for its first week."
+ },
+ "https://www.indiedb.com/games/restless-inn/news/restless-inn-is-out-run-a-hotel-where-the-ghosts-check-in-too": {
+  "zh_title": "《Restless Inn》已发售：经营一家连鬼魂都会入住的旅馆",
+  "zh_oneliner": "一款闹鬼旅馆经营游戏，要为每位客人匹配合适的鬼魂，现已登陆 itch.io，支持 Windows 与英德双语。",
+  "en_title": "Restless Inn is out – run a hotel where the ghosts check in too!",
+  "en_oneliner": "A haunted hotel tycoon about matching guests with the right ghosts, out now on itch.io for Windows in English and German."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-3paj": {
+  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻提升游戏打击感",
+  "zh_oneliner": "不用物理引擎，只要在渲染循环里加 6 行画布平移震动代码，就能让 2D HTML5 浏览器游戏的打击和碰撞立刻有街机般的分量。",
+  "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+  "en_oneliner": "No physics engine needed: just six lines of canvas translation shake inside your render loop to make weapon hits and collisions in a 2D HTML5 browser game feel ten times heavier."
+ },
+ "https://dev.to/maciahtohmas/what-i-learned-shipping-my-first-game-338h": {
+  "zh_title": "发售第一款游戏，我学到了什么",
+  "zh_oneliner": "一位退伍后单人开发《Samurai Vengeance》的开发者，复盘发售后才暴露的盲区，比如高刷屏上游戏速度翻倍，以及真正改变他工作方式的几条教训。",
+  "en_title": "What I learned shipping my first game",
+  "en_oneliner": "A solo developer who shipped the samurai action platformer Samurai Vengeance looks back at the blind spots only launch exposed, like the game running at double speed on 120Hz phones, and the lessons that changed how he works."
  }
 }
