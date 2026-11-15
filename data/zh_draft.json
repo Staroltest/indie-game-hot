@@ -11734,5 +11734,71 @@
   "zh_oneliner": "一款全程用法语编程语言 CoddyRun 写成的停车解谜小游戏：点击车辆按箭头方向驶出车位、接上对应颜色的乘客，站台只有四个车位，约 900 行代码还带自动生成关卡与星级评分。",
   "en_title": "Bus Parking Out, codé en CoddyRun",
   "en_oneliner": "A parking puzzle game written entirely in CoddyRun, a French-language programming language: click vehicles to slide them out along their arrows and pick up matching passengers, with only four dock slots, auto-generated solvable levels, and a star rating — all in about 900 lines of code."
+ },
+ "https://dev.to/creatiosoftin/which-tech-stack-should-a-poker-app-use-cocos-creator-nodejs-socketio-emd": {
+  "zh_title": "扑克应用该用什么技术栈？（Cocos Creator、Node.js、Socket.IO）",
+  "zh_oneliner": "从实时对战到流畅手感，拆解一款在线扑克应用背后的技术选型思路。",
+  "en_title": "Which Tech Stack Should a Poker App Use? (Cocos Creator, Node.js, Socket.IO)",
+  "en_oneliner": "A breakdown of the tech choices behind a smooth real-time online poker app, from multiplayer sync to game feel."
+ },
+ "https://dev.to/creatiosoftin/how-does-real-time-multiplayer-poker-software-work-nodejs-socketio-1hi6": {
+  "zh_title": "实时多人扑克软件是如何运作的？（Node.js + Socket.IO）",
+  "zh_oneliner": "讲清多人同桌实时对局的同步机制，以及 Node.js 与 Socket.IO 在其中的分工。",
+  "en_title": "How Does Real-Time Multiplayer Poker Software Work? (Node.js + Socket.IO)",
+  "en_oneliner": "How real-time multiplayer poker keeps everyone at the same table in sync, and where Node.js and Socket.IO fit in."
+ },
+ "https://dev.to/creatiosoftin/what-is-rng-in-poker-software-and-why-your-game-needs-it-4bbf": {
+  "zh_title": "扑克软件里的 RNG 是什么，你的游戏为什么需要它？",
+  "zh_oneliner": "随机数生成器如何保证线上扑克的公平与不可预测，以及实现时要注意什么。",
+  "en_title": "What is RNG in Poker Software and Why Your Game Needs It?",
+  "en_oneliner": "How a random number generator keeps online poker fair and unpredictable, and what to watch for when implementing one."
+ },
+ "https://dev.to/freetablegames/how-to-build-a-javascript-solitaire-game-modeling-klondike-state-run-moves-and-draw-3-rules-2n6i": {
+  "zh_title": "如何用 JavaScript 做一款纸牌游戏：建模 Klondike 状态、连牌移动与 Draw-3 规则",
+  "zh_oneliner": "拖拽只是表面功夫，这篇教程把重点放在纸牌游戏的状态建模与规则实现上。",
+  "en_title": "How to Build a JavaScript Solitaire Game: Modeling Klondike State, Run Moves, and Draw-3 Rules",
+  "en_oneliner": "Dragging cards is the easy half — this tutorial focuses on modeling Klondike state, moves, and Draw-3 rules."
+ },
+ "https://dev.to/lucas_oliveira_d1efc2dbeb/building-meu-acervo-3d-an-open-source-hub-for-3d-creators-7c3": {
+  "zh_title": "打造 Meu Acervo 3D：一个面向 3D 创作者的开源资源中心",
+  "zh_oneliner": "聚合 Sketchfab、Poly Haven 等多个素材库的开源项目，还附带给创作者用的小工具。",
+  "en_title": "Building Meu Acervo 3D: an open-source hub for 3D creators",
+  "en_oneliner": "An open-source hub that gathers 3D assets across Sketchfab, Poly Haven, and ambientCG, plus tools for creators."
+ },
+ "https://dev.to/dailyfungames/how-dailyfungames-handles-player-privacy-l64": {
+  "zh_title": "DailyFunGames 是如何处理玩家隐私的",
+  "zh_oneliner": "游客即玩、无广告 Cookie、不收集真实姓名，一个小团队的轻量隐私实践可供参考。",
+  "en_title": "How DailyFunGames handles player privacy",
+  "en_oneliner": "Guest play, no ad cookies, no real names — a small team's lightweight approach to player privacy."
+ },
+ "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client": {
+  "zh_title": "《英雄联盟》将迎来名为 New Dawn 的大改版：新视觉、新出装选择与新客户端",
+  "zh_oneliner": "大型长线运营游戏如何通过视觉与客户端翻新来延长生命周期，值得独立团队借鉴思路。",
+  "en_title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+  "en_oneliner": "How a long-running live game extends its lifespan with a visual and client overhaul — a playbook worth studying."
+ },
+ "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name": {
+  "zh_title": "疫情如何改变了 Jackbox：从玩家圈内的名字变成家喻户晓的品牌",
+  "zh_oneliner": "靠屏幕共享与 Zoom 聚会出圈，Jackbox 的派对游戏在疫情期间完成了从小众到大众的跨越。",
+  "en_title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+  "en_oneliner": "How screen-sharing party games turned Jackbox from a gamer's name into a household one during the pandemic."
+ },
+ "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested": {
+  "zh_title": "Xbox 工作室 inXile 所在办公园区遭驾车枪击，警方已逮捕嫌疑人",
+  "zh_oneliner": "位于加州图斯汀的办公园区发生枪击事件，警方已逮捕一名嫌疑人，工作室人员安全是首要关注。",
+  "en_title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+  "en_oneliner": "Police arrested a suspect after a drive-by shooting at the Tustin office campus housing Xbox studio inXile."
+ },
+ "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod": {
+  "zh_title": "《赛博朋克 2077》Mod Torrent 为夜之城带来 3D 雨滴、雷暴与轮胎水花",
+  "zh_oneliner": "把平面雨效换成逐滴 3D 雨水并加入雷暴天气，这个 Mod 展示了天气系统改装的上限。",
+  "en_title": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
+  "en_oneliner": "Swapping flat rain for individual 3D drops plus lightning storms, this mod shows how far weather modding can go."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator": {
+  "zh_title": "你更喜欢氛围音乐，还是戏剧化的场景氛围？",
+  "zh_oneliner": "一篇聊《魔兽世界》音乐氛围的玩家向短文，对做游戏氛围设计的开发者也有参考价值。",
+  "en_title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+  "en_oneliner": "A short piece on World of Warcraft's musical atmosphere — player-facing, but useful for developers thinking about ambient sound design."
  }
 }
