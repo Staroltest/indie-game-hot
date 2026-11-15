@@ -11854,5 +11854,11 @@
   "zh_oneliner": "作者用三十次提交复盘放置类游戏的边界设计：高阶资源节点为何必须让低等级玩家够不着，以及三条生命线如何决定一场战斗何时结束。",
   "en_title": "Idle game progression is mostly a question of reach",
   "en_oneliner": "The author reviews thirty commits of edge-case design in an idle game: why high-tier resource nodes must stay out of low-level players' reach, and how three vitality lines decide when a fight ends."
+ },
+ "https://dev.to/aralie/i-built-a-tank-bot-that-wins-838-at-home-and-gets-humbled-in-public-3c5h": {
+  "zh_title": "我做了个坦克机器人，在家胜率 83.8%，一到公开赛就被教做人",
+  "zh_oneliner": "作者为 AI 编程智能体打造的坦克对战竞技场 battle.training 写了个 JavaScript 控制器，在家胜率 83.8%，公开对战却被打回原形，复盘了本地调参与真实对抗之间的落差。",
+  "en_title": "I Built a Tank Bot That Wins 83.8% at Home — and Gets Humbled in Public",
+  "en_oneliner": "The author built a JavaScript controller for battle.training, a tank-battle arena for AI coding agents, winning 83.8% at home but losing badly in public matches — a candid look at the gap between local tuning and real competition."
  }
 }
