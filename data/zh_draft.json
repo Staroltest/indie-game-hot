@@ -11440,5 +11440,17 @@
   "zh_oneliner": "临近《GTA 6》发售，Eurogamer 的“大哉问”栏目请编辑和读者一起争论系列里哪一款 GTA 才是最好的一作。",
   "en_title": "The Big Question: What's the best GTA?",
   "en_oneliner": "With GTA 6 approaching, Eurogamer's Big Question column has its writers and readers debating which Grand Theft Auto is the best of the series."
+ },
+ "https://dev.to/captainhandsome/capybara-island-dev-log-1-six-residents-with-minds-of-their-own-and-an-old-laptop-that-streams-15n2": {
+  "zh_title": "为 Capybara Island 打造会记忆、会动情、会改变信念的 AI 角色（开发日志 #1）",
+  "zh_oneliner": "作者用十天做了一个 24 小时直播的 3D 世界，六位 AI 居民各自拥有记忆、情绪与信念并随时间演变，本篇开发日志拆解了这些“心智”是如何搭建与实测的。",
+  "en_title": "Building AI characters with memory, feelings and beliefs that change: inside Capybara Island's minds (dev log #1)",
+  "en_oneliner": "Over ten days the author built a live 3D world where six AI residents keep their own memories, feelings and beliefs that evolve over time; this first dev log breaks down how those minds are built and measured."
+ },
+ "https://dev.to/captainhandsome/otherreach-devlog-1-one-world-a-cliff-town-and-four-new-peoples-da4": {
+  "zh_title": "OTHERREACH 开发日志 #1：一个世界、一座悬崖小镇与四个新种族",
+  "zh_oneliner": "这款 Godot 4 持久幻想世界把各区域打通成一块可步行穿越的连续流式地图，本篇日志回顾了两个月来的世界拼接、显存优化与村民渲染进展。",
+  "en_title": "OTHERREACH devlog #1: one world, a cliff town, and four new peoples",
+  "en_oneliner": "This persistent fantasy world built in Godot 4 stitches its regions into one continuous streamed map you can cross on foot; the first devlog recaps two months of world-joining work, VRAM optimization and villager rendering."
  }
 }
