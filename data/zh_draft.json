@@ -11896,5 +11896,11 @@
   "zh_oneliner": "免费像素风烹饪小游戏 Caldos & Cia 面向竖屏手机浏览器，选厨师、买食材、靠手势做汤上菜，最新公开版已含四种汤与寿司选项。",
   "en_title": "[Browser/Mobile] Caldos & Cia: cook Brazilian soups with touch gestures",
   "en_oneliner": "Caldos & Cia is a free pixel-art cooking game for portrait mobile browsers: pick a chef, buy ingredients, prepare soups with touch gestures and serve customers, with four soups and a sushi option in the latest public build."
+ },
+ "https://dev.to/admire_chagaresango_fa630/the-world-of-math-and-games-3fia": {
+  "zh_title": "数学与游戏的世界",
+  "zh_oneliner": "从跳跃手感到漂移过弯，拆解《Brawlhalla》与《FUMES》两款游戏背后让手感成立的简单数学。",
+  "en_title": "The world of Math and Games",
+  "en_oneliner": "From jump feel to drifting through corners, it breaks down the simple math behind the game feel in Brawlhalla and FUMES."
  }
 }
