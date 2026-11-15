@@ -11362,5 +11362,23 @@
   "zh_oneliner": "任天堂通过 Zelda Notes 统计《时之笛》重制版的全球玩家数据，公开了最常见的 Game Over 原因等信息，展示了官方应用收集并回馈游玩数据的做法。",
   "en_title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
   "en_oneliner": "Nintendo is using Zelda Notes to track global player data for the Ocarina of Time remake on Switch 2, revealing the most common Game Over causes and more — an example of how an official companion app collects and feeds back play data."
+ },
+ "https://dev.to/tao_li_a9489b720b5123f192/locate-isnt-nearest-testing-a-minecraft-seed-map-against-the-official-server-14an": {
+  "zh_title": "《/locate》不一定指向最近目标：用官方服务器验证 Minecraft 种子地图",
+  "zh_oneliner": "作者拿官方服务器实测自研种子地图 Seedari，讲清游戏外重建世界生成时地图出错的隐蔽方式，以及如何用真实数据校准它。",
+  "en_title": "/locate isn't nearest: testing a Minecraft seed map against the official server",
+  "en_oneliner": "The author tests the self-built seed map Seedari against the official server, showing how world generation rebuilt outside the game can go wrong in subtle ways and how real server data can calibrate it."
+ },
+ "https://dev.to/coddyrun/geometry-dash-v2-le-cube-revient-en-version-neon-2kg": {
+  "zh_title": "Geometry Dash v2：霓虹版小方块回归",
+  "zh_oneliner": "作者用法语编程语言 CoddyRun 从头重写了自己的 Geometry Dash 复刻，从单关卡扩展成霓虹风格的完整续作，并分享了复刻过程中的做法。",
+  "en_title": "🟨 Geometry Dash v2, le cube revient en version néon",
+  "en_oneliner": "The author rebuilt their Geometry Dash remake from scratch in CoddyRun, a French programming language, expanding it from a single level into a neon-styled full sequel, and shares how the remake was made."
+ },
+ "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture": {
+  "zh_title": "《饿狼传说：群狼之城》下周新增电影反派 Laocorn",
+  "zh_oneliner": "SNK 将于 11 月 19 日为《饿狼传说：群狼之城》加入 1994 年动画电影的反派 Laocorn，延续用跨界角色扩充阵容的做法。",
+  "en_title": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture",
+  "en_oneliner": "SNK is adding Laocorn, the antagonist from the 1994 anime film Fatal Fury: The Motion Picture, to Fatal Fury: City of the Wolves on November 19, continuing its run of crossover roster additions."
  }
 }
