@@ -11470,5 +11470,23 @@
   "zh_oneliner": "独立开发者为安卓游戏 Loop Pop 的 Google Play 封闭测试招募测试者，需连续参与 14 天，作为交换他也愿意测试你的游戏。",
   "en_title": "Closed test swap: Loop Pop (one-tap arcade game) needs testers, I'll test yours too",
   "en_oneliner": "An indie developer is looking for testers for the Google Play closed test of Loop Pop, a one-tap arcade game, asking testers to stay opted in for 14 days and offering to test your game in return."
+ },
+ "http://www.gamelook.com.cn/2026/11/606310": {
+  "zh_title": "凤凰山巅京城德比 北京WB荣耀加冕2026KPL年总决赛冠军",
+  "zh_oneliner": "北京 WB 以 4:3 击败北京 JDG，在 KPL 十周年之战中捧起圣龙杯，夺得 2026 年度总决赛冠军。",
+  "en_title": "Beijing WB Crowned 2026 KPL Grand Finals Champions After 4:3 Beijing Derby Win",
+  "en_oneliner": "Beijing WB beat Beijing JDG 4:3 to lift the Sacred Dragon Cup and win the 2026 KPL Grand Finals in the league's tenth-anniversary match."
+ },
+ "https://dev.to/laoleedesign/fitting-an-animated-emote-under-discords-256-kb-which-lever-actually-saves-bytes-3eih": {
+  "zh_title": "把动态表情压进 Discord 的 256 KB 上限：到底哪个办法真正省体积",
+  "zh_oneliner": "导出动态表情时，减色、减帧、缩小画布是三条瘦身路子，作者实测对比了颜色与帧数哪个更管用。",
+  "en_title": "Fitting an animated emote under Discord's 256 KB: which lever actually saves bytes",
+  "en_oneliner": "When exporting an animated emote, fewer colours, fewer frames, or a smaller canvas are the three ways to slim it down, and the author tests which of colours versus frames actually works better."
+ },
+ "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain": {
+  "zh_title": "《Chronicles: Medieval》开发商宣布困境当天即破产，获 Coffee Stain 500 万美元注资后开发继续",
+  "zh_oneliner": "开发商在宣布陷入困境当天进入破产程序，Coffee Stain 拿出 500 万美元接手，历史策略游戏的开发得以继续。",
+  "en_title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+  "en_oneliner": "The developer entered bankruptcy on the same day it announced it was in trouble, and Coffee Stain stepped in with $5 million so work on the historical strategy game can continue."
  }
 }
