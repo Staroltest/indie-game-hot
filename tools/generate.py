@@ -2548,6 +2548,20 @@ def dedup_topics(items):
     return kept
 
 
+def cap_by_source(items, cap):
+    """单源上限：同一信源在榜单里最多占 cap 席，避免高产源
+    （如 Dev.to 日更数十条）靠新鲜度独占榜单。调用前已按分数排好序。"""
+    seen = {}
+    kept = []
+    for it in items:
+        sid = it.get("source_id", "")
+        if seen.get(sid, 0) >= cap:
+            continue
+        seen[sid] = seen.get(sid, 0) + 1
+        kept.append(it)
+    return kept
+
+
 def timeline_slot(it, sel_ids, base="", lang="zh"):
     pub = it["_pub"].astimezone(CST)
     badge = it["id"] in sel_ids
@@ -4001,7 +4015,11 @@ def main():
     recent_48h = [it for it in live if (now - it["_pub"]) <= timedelta(hours=sc["selected_hours"])]
     selected = [it for it in recent_48h if it["score"] >= sc["selected_min"]]
     selected.sort(key=lambda x: x["score"], reverse=True)
-    selected = dedup_topics(selected)[:sc["daily_top"]]
+    # 单源上限：与热点榜同理，同一信源在精选里最多占 selected_per_source_max 席，
+    # 避免高产源（如 Dev.to 日更数十条）靠新鲜度独占精选（2026-11-15 把关：
+    # 当日精选 10 条里 Dev.to 占 8 条）
+    selected = dedup_topics(
+        cap_by_source(selected, sc.get("selected_per_source_max", 4)))[:sc["daily_top"]]
 
     last_7d = [it for it in live if (now - it["_pub"]) <= timedelta(days=sc["hot_days"])]
     for it in last_7d:
@@ -4369,7 +4387,9 @@ def main():
     if args.daily:
         def build_period(kind, pool, window_label):
             pool_sorted = sorted(pool, key=lambda x: x["score"], reverse=True)
-            items = dedup_topics(pool_sorted)[:sc["daily_top"]]
+            items = dedup_topics(
+                cap_by_source(pool_sorted, sc.get("selected_per_source_max", 4))
+            )[:sc["daily_top"]]
             per_cat = {}
             for it in items:
                 per_cat[it["category_label"]] = per_cat.get(it["category_label"], 0) + 1
@@ -4402,7 +4422,9 @@ def main():
             """build_period 的英文版：同一批条目，英文日期/导读/条目数据。
             导读含本轮池子规模（仅新报告有该数据）。"""
             pool_sorted = sorted(pool, key=lambda x: x["score"], reverse=True)
-            items = dedup_topics(pool_sorted)[:sc["daily_top"]]
+            items = dedup_topics(
+                cap_by_source(pool_sorted, sc.get("selected_per_source_max", 4))
+            )[:sc["daily_top"]]
             per_cat = {}
             for it in items:
                 lab = it.get("category_label_en") or it["category"]

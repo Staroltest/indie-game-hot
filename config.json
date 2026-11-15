@@ -253,6 +253,7 @@
     ],
     "selected_hours": 48,
     "selected_min": 65,
+    "selected_per_source_max": 4,
     "tier_bonus": {
       "T1": 10,
       "T2": 0,
