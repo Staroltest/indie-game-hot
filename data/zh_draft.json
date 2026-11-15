@@ -11884,5 +11884,17 @@
   "zh_oneliner": "一位开发者分享了如何把包含职业、技能与天赋点的完整配装用位打包压进很短的 URL 片段，以及如何让旧链接标明版本、提醒哪些部分可能被后续补丁改坏。",
   "en_title": "Fitting a whole game build into a URL fragment, stamped with the patch it was made for",
   "en_oneliner": "A developer shows how to bit-pack a full game build — class, skills, and talent points — into a short URL fragment, and how to stamp each link with its patch version so old builds can flag what a later patch may have broken."
+ },
+ "https://gamedev.net/blogs/entry/2298674-house-misi": {
+  "zh_title": "House Misi：新年更新开发日志",
+  "zh_oneliner": "开发者继续打磨恐怖氛围小游戏 House Misi，为新年加入季节装饰细节，同时保持阴森诡异的基调。",
+  "en_title": "House Misi – New Year Update",
+  "en_oneliner": "The developer keeps polishing the unsettling horror game House Misi, adding seasonal details for the New Year while preserving its dark, eerie atmosphere."
+ },
+ "https://gamedev.net/forums/topic/720845-browsermobile-caldos-cia-cook-brazilian-soups-with-touch-gestures": {
+  "zh_title": "【浏览器/移动端】Caldos & Cia：用触屏手势烹饪巴西汤品",
+  "zh_oneliner": "免费像素风烹饪小游戏 Caldos & Cia 面向竖屏手机浏览器，选厨师、买食材、靠手势做汤上菜，最新公开版已含四种汤与寿司选项。",
+  "en_title": "[Browser/Mobile] Caldos & Cia: cook Brazilian soups with touch gestures",
+  "en_oneliner": "Caldos & Cia is a free pixel-art cooking game for portrait mobile browsers: pick a chef, buy ingredients, prepare soups with touch gestures and serve customers, with four soups and a sushi option in the latest public build."
  }
 }
