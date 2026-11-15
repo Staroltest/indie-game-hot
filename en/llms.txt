@@ -24,6 +24,7 @@
 - MCP endpoint (Streamable HTTP, no key required):
   https://indie-game-hot.pages.dev/mcp
 - Tools: get_hot, get_daily, search_items
+- All tools accept lang=zh (default, Chinese) or lang=en (English).
 - Machine-readable data:
   https://staroltest.github.io/indie-game-hot/en/data/hot.json
   https://staroltest.github.io/indie-game-hot/en/data/daily.json
