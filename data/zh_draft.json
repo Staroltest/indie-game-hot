@@ -11488,5 +11488,11 @@
   "zh_oneliner": "开发商在宣布陷入困境当天进入破产程序，Coffee Stain 拿出 500 万美元接手，历史策略游戏的开发得以继续。",
   "en_title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
   "en_oneliner": "The developer entered bankruptcy on the same day it announced it was in trouble, and Coffee Stain stepped in with $5 million so work on the historical strategy game can continue."
+ },
+ "https://dev.to/samellis/location-privacy-in-a-scavenger-hunt-app-what-to-collect-what-to-delete-and-what-never-to-log-29k5": {
+  "zh_title": "寻宝类应用的位置隐私：该收集什么、该删什么、绝不能记录什么",
+  "zh_oneliner": "寻宝游戏每句“往北走 40 米”背后都是玩家的位置轨迹，这篇拆解了这类应用该收哪些数据、该删哪些、哪些打死也不能记。",
+  "en_title": "Location privacy in a scavenger hunt app: what to collect, what to delete, and what never to log",
+  "en_oneliner": "Every \"walk 40 metres north\" in a scavenger hunt game leaves a trail of player movement — this piece breaks down which location data to collect, which to delete, and which should never be logged."
  }
 }
