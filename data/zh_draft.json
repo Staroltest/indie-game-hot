@@ -11620,5 +11620,11 @@
   "zh_oneliner": "独立开发者刚发布的免费 iPhone 游戏 Christmas Town，在雪夜圣诞集市里布置小屋与圣诞树，展示了小体量温馨题材如何靠氛围取胜。",
   "en_title": "[iOS] Christmas Town - a cozy snowy-village game about decorating your house and tree (free, solo dev)",
   "en_oneliner": "A solo developer just released Christmas Town, a free iPhone game about decorating a house and tree in a snowy Christmas village — a small, cozy title that wins on atmosphere."
+ },
+ "https://dev.to/coddyrun/decouvrez-coddyrun-le-langage-de-programmation-moderne-entierement-en-francais-5dba": {
+  "zh_title": "认识 CoddyRun：一门完全用法语编写的现代编程语言",
+  "zh_oneliner": "CoddyRun 是一门语法完全用法语写成的解释型语言，支持面向对象、矢量图形与并行处理，适合快速原型和小型 2D 游戏开发，也能帮法语区新手绕过英语门槛入门编程。",
+  "en_title": "Découvrez CoddyRun : Le langage de programmation moderne... entièrement en français 🇫🇷",
+  "en_oneliner": "CoddyRun is an interpreted language written entirely in French, with object-oriented programming, vector graphics and parallel processing built in — handy for quick prototypes and small 2D games, and a gentler on-ramp for French-speaking beginners."
  }
 }
