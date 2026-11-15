@@ -11248,5 +11248,17 @@
   "zh_oneliner": "用 issue 下注、workflow 读牌、README 重绘牌面，把经典的 README 小游戏玩法搬到了二十一点上。",
   "en_title": "A Blackjack Table That Lives in a README, Dealt by GitHub Actions",
   "en_oneliner": "A playable blackjack table that lives in a README: place a bet via an issue, a workflow reads it, and the README redraws the hand."
+ },
+ "https://www.gcores.com/articles/222316": {
+  "zh_title": "【会员抽奖】原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+  "zh_oneliner": "真人互动影视《东北往事》登陆 Xbox 与 PS5，Switch 版 11 月 26 日发售，原作者执导、原版演员回归。",
+  "en_title": "Live-Action Game DONGDA Gangster Launches on Consoles, Directed by the Original Creator with the Original Cast Returning",
+  "en_oneliner": "DONGDA Gangster, a live-action interactive drama set in 1980s–90s Northeast China, is now out on Xbox and PS5, with the Switch version arriving November 26."
+ },
+ "https://dev.to/milaangames/how-we-made-300-block-puzzle-levels-provably-solvable-1hpi": {
+  "zh_title": "我们如何让 300 个方块解谜关卡可证明有解",
+  "zh_oneliner": "Blokito 的冒险模式有 300 个手工设计关卡，作者分享了如何用求解器验证每一关都有解，避免玩家卡在无解的关卡上。",
+  "en_title": "How we made 300 block puzzle levels provably solvable",
+  "en_oneliner": "The Blokito team shares how they verified all 300 hand-designed Adventure-mode levels are solvable, so no player ever gets stuck on an impossible puzzle."
  }
 }
