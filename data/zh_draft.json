@@ -11842,5 +11842,11 @@
   "zh_oneliner": "一位退伍后单人开发《Samurai Vengeance》的开发者，复盘发售后才暴露的盲区，比如高刷屏上游戏速度翻倍，以及真正改变他工作方式的几条教训。",
   "en_title": "What I learned shipping my first game",
   "en_oneliner": "A solo developer who shipped the samurai action platformer Samurai Vengeance looks back at the blind spots only launch exposed, like the game running at double speed on 120Hz phones, and the lessons that changed how he works."
+ },
+ "https://dev.to/hssolution/godot-4-evenly-spaced-points-along-a-path-77-stitch-holes-1p03": {
+  "zh_title": "Godot 4：沿路径均匀布点（77 个缝线孔）",
+  "zh_oneliner": "作者在做皮革工艺游戏时发现，沿折线每隔固定距离布点看似简单，拐角处却会扎堆甚至重合，文章拆解了逐段取整、短线段和重复连接点这三个坑并给出修正思路。",
+  "en_title": "Godot 4: evenly spaced points along a path (77 stitch holes)",
+  "en_oneliner": "While building a leathercraft game, the author found that spacing points evenly along a polyline looks trivial until corners bunch holes together or overlap them, and breaks down the three pitfalls—per-segment rounding, short segments, and duplicate join points—along with a fix."
  }
 }
