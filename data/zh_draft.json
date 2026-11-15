@@ -11800,5 +11800,17 @@
   "zh_oneliner": "一篇聊《魔兽世界》音乐氛围的玩家向短文，对做游戏氛围设计的开发者也有参考价值。",
   "en_title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
   "en_oneliner": "A short piece on World of Warcraft's musical atmosphere — player-facing, but useful for developers thinking about ambient sound design."
+ },
+ "https://dev.to/russell_munn_5ab594df99db/how-i-built-a-chess-engine-style-ai-for-a-6-dice-strategy-game-natively-on-my-pixel-9-pro-5abi": {
+  "zh_title": "我如何在 Pixel 9 Pro 上为六骰策略游戏打造了一个“象棋引擎”式 AI",
+  "zh_oneliner": "独立开发者在手机上从零搭建六骰桌游的 AI 对手，用类似象棋引擎的概率模拟取代固定套路，还让 AI 读懂对手记分牌来动态调整冒险程度。",
+  "en_title": "How I built a \"chess-engine\" style AI for a 6-dice strategy game natively on my Pixel 9 Pro",
+  "en_oneliner": "A solo developer built an AI opponent for a six-dice tabletop game entirely on his phone, using chess-engine-style probability simulation instead of fixed rules — and teaching the AI to read the opponent’s scorecard and adjust its risk appetite on the fly."
+ },
+ "https://www.pocketgamer.biz/nvidia-scandal-and-the-eus-digital-fairness-act-problem-week-in-mobile-games-podcast": {
+  "zh_title": "英伟达风波与欧盟《数字公平法案》难题 | 每周手游播客",
+  "zh_oneliner": "本期播客聊英伟达风波与欧盟《数字公平法案》对手游行业的潜在影响，帮开发者把握监管风向。",
+  "en_title": "Nvidia scandal and the EU's Digital Fairness Act problem | Week in Mobile Games podcast",
+  "en_oneliner": "This week’s podcast unpacks the Nvidia scandal and what the EU’s Digital Fairness Act could mean for the mobile games industry, helping developers read the regulatory winds."
  }
 }
