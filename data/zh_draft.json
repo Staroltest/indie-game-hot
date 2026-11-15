@@ -11272,5 +11272,11 @@
   "zh_oneliner": "作者以自己的休闲解谜游戏 KnotGlide 为例，讲清如何用 Flutter 实现箭头滑出棋盘的核心玩法：纯 Dart 数据建模、路径检测、滑行动画与每日谜题全套做法。",
   "en_title": "Build an Arrow Puzzle Game in Flutter",
   "en_oneliner": "Using his own calm puzzle game KnotGlide as the example, the author walks through building the arrow-escape mechanic in Flutter — plain Dart data models, clear-path checks, glide animation and a daily puzzle, all on-device."
+ },
+ "https://dev.to/honestlittleapps/designing-a-one-rule-number-puzzle-one-path-every-tile-target-sums-in-order-5ea5": {
+  "zh_title": "设计一款单规则数字谜题：一条路径、走遍每个格子、按顺序达成目标和",
+  "zh_oneliner": "开发者用一款只有一条规则的数字解谜游戏，拆解如何让单条路径、累计求和与目标顺序三者互相咬合，适合想做轻量谜题玩法的人参考。",
+  "en_title": "Designing a one-rule number puzzle: one path, every tile, target sums in order",
+  "en_oneliner": "The developer breaks down a number puzzle built on a single rule, showing how one continuous path, running sums, and ordered targets fit together — a useful reference for anyone designing a lightweight puzzle game."
  }
 }
