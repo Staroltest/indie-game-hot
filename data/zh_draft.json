@@ -11278,5 +11278,11 @@
   "zh_oneliner": "开发者用一款只有一条规则的数字解谜游戏，拆解如何让单条路径、累计求和与目标顺序三者互相咬合，适合想做轻量谜题玩法的人参考。",
   "en_title": "Designing a one-rule number puzzle: one path, every tile, target sums in order",
   "en_oneliner": "The developer breaks down a number puzzle built on a single rule, showing how one continuous path, running sums, and ordered targets fit together — a useful reference for anyone designing a lightweight puzzle game."
+ },
+ "https://dev.to/honestlittleapps/virtual-pets-that-choose-for-themselves-and-tell-you-why-designing-puffgrove-1pm2": {
+  "zh_title": "会自己做选择、还会告诉你原因的虚拟宠物：Puffgrove 的设计思路",
+  "zh_oneliner": "Puffgrove 抛弃了饥饿条加喂食的定时器套路，让每只宠物按需求、性格与过往经历自主行动并说出理由，世界布置与因果发现共同构成玩法核心。",
+  "en_title": "Virtual pets that choose for themselves and tell you why: designing Puffgrove",
+  "en_oneliner": "Puffgrove drops hunger-bar timers in favor of pets that act on their own needs, personality and history — and explain why — turning world arrangement and cause-and-effect discoveries into the core loop."
  }
 }
