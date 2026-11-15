@@ -11638,5 +11638,89 @@
   "zh_oneliner": "BLG 3-1 战胜 Gen.G 夺得 S16 全球总决赛冠军，LPL 时隔五年再捧杯，一穿四的夺冠之路成了电竞出圈的典型案例。",
   "en_title": "BLG's Four-in-a-Row Title Run: From Saying Good Night to Saying Good Morning",
   "en_oneliner": "BLG beat Gen.G 3-1 to win the S16 world championship, LPL's first title in five years — a four-match underdog run that became a breakout esports story."
+ },
+ "https://www.indiedb.com/games/desecrated-deck/news/desecrated-deck-surpasses-1200-wishlists-new-website-reveal": {
+  "zh_title": "《Desecrated Deck》愿望单突破 1200，官网全新改版上线",
+  "zh_oneliner": "卡牌游戏《Desecrated Deck》Steam 愿望单突破 1200，借势上线全新官网，内置开发日志、互动留言板与卡牌图鉴。",
+  "en_title": "Desecrated Deck Surpasses 1,200 Wishlists + New Website Reveal!",
+  "en_oneliner": "Card game Desecrated Deck passed 1,200 Steam wishlists and celebrated with a redesigned official site featuring a dev blog, guestbook, and card collection."
+ },
+ "https://www.indiedb.com/games/the-last-eagle/news/devlog-vol-xii-xiii-new-steel-a-shepherd-dog-and-the-first-fights": {
+  "zh_title": "开发日志第 12、13 期：新武器、牧羊犬与首版战斗系统",
+  "zh_oneliner": "《The Last Eagle》两期开发日志合集：市场可试穿的更大武器库、村里会自己生活的牧羊犬，以及基于自研动捕的首版战斗系统。",
+  "en_title": "Devlog Vol. XII & XIII: New steel, a shepherd dog and the first fights",
+  "en_oneliner": "The Last Eagle's combined devlogs add a bigger armoury to try on at the market, a shepherd dog living its own life in the villages, and a first combat system built on custom motion capture."
+ },
+ "https://www.indiedb.com/games/doctrine-strike/news/design-it-sell-it-earn-30-every-time-a-player-buys-it": {
+  "zh_title": "设计它、卖掉它，每次玩家购买都能抽成 30%",
+  "zh_oneliner": "《Doctrine Strike》的工坊玩法让玩家自己设计坦克挂上黑市出售，之后每卖出一辆，设计者都能拿回售价的三成。",
+  "en_title": "Design it, sell it, earn 30% every time a player buys it",
+  "en_oneliner": "Doctrine Strike's Workshop lets players design their own tank, list it on the Black Market, and earn 30% of the price every time another player buys it."
+ },
+ "https://www.indiedb.com/games/lofi-cozy-room/news/set-the-mood-for-your-workday-in-lofi-cozy-room": {
+  "zh_title": "用《Lofi Cozy Room》给工作日调个氛围",
+  "zh_oneliner": "已上线的桌面陪伴应用《Lofi Cozy Room》展示了两间房间与氛围调节功能，Steam 上可试玩免费 Demo。",
+  "en_title": "Set the Mood for Your Workday in Lofi Cozy Room",
+  "en_oneliner": "Released desktop companion Lofi Cozy Room shows off two rooms and its ambience controls, with a free demo available on Steam."
+ },
+ "https://www.indiedb.com/games/ultiro/news/ultiro-can-now-be-played-in-3d-on-the-same-server-as-2d": {
+  "zh_title": "《Ultiro》现已支持 3D 游玩，与 2D 共用同一服务器",
+  "zh_oneliner": "浏览器全掉落 MMORPG《Ultiro》推出 3D 客户端，与 2D 版同世界、同服务器、同角色，可随时切换，另有两张地图重绘与自动配装等更新。",
+  "en_title": "Ultiro can now be played in 3D, on the same server as 2D",
+  "en_oneliner": "Browser full-loot MMORPG Ultiro now has a 3D client sharing the same world, server, and heroes as 2D, with switching at any time, plus two redrawn regions and auto-builds."
+ },
+ "https://www.indiedb.com/games/euro-truck-simulator-2/news/euro-truck-simulator-2-iceland-coaches-steam-sale": {
+  "zh_title": "《欧洲卡车模拟 2》：冰岛 DLC、客车玩法与 Steam 特卖",
+  "zh_oneliner": "《欧洲卡车模拟 2》迎来冰岛扩展与客车载客玩法，Steam 特卖期间本体最高优惠 75%。",
+  "en_title": "Euro Truck Simulator 2 - Iceland + Coaches + Steam Sale",
+  "en_oneliner": "Euro Truck Simulator 2 adds an Iceland expansion and coach passenger gameplay, with the game up to 75% off in the Steam sale."
+ },
+ "https://www.indiedb.com/games/steel-and-rubble-line-of-contact/news/version-923-is-out": {
+  "zh_title": "《Steel and Rubble: Line of Contact》9.23 版本发布",
+  "zh_oneliner": "9.23 版本新增 T-84、T-64BM 等多款载具与反坦克武器，连队可在战斗间保留，战场时间与天气还会中途变化。",
+  "en_title": "Steel and Rubble: Line of Contact — Version 9.23 is out",
+  "en_oneliner": "Version 9.23 adds the T-84 Oplot, T-64BM Bulat and more vehicles plus new anti-tank weapons, lets your company carry over between battles, and changes time and weather mid-fight."
+ },
+ "https://dev.to/indiebots/best-godot-ai-coding-assistants-and-mcp-plugins-2026-4olc": {
+  "zh_title": "2026 年最佳 Godot AI 编程助手与 MCP 插件",
+  "zh_oneliner": "面向独立开发者盘点 Godot 的 AI 编程助手与 MCP 插件：多数人用免费 MCP 插件接自己已有的 AI 助手即可，文中给出具体搭配建议。",
+  "en_title": "Best Godot AI coding assistants and MCP plugins (2026)",
+  "en_oneliner": "A roundup of Godot AI coding assistants and MCP plugins for indie devs, recommending free MCP plugins wired into an AI agent you already use."
+ },
+ "https://dev.to/aplusgamesstudio/game-analytics-the-events-every-mobile-game-should-track-3bkn": {
+  "zh_title": "游戏数据分析：每款手游都该追踪的事件",
+  "zh_oneliner": "手游埋点别贪多：先按会话、首启漏斗、进度、经济、变现与技术健康六组定好追踪计划，再动手写事件。",
+  "en_title": "Game Analytics: The Events Every Mobile Game Should Track",
+  "en_oneliner": "Mobile game analytics should start with a small planned set of events across six groups — sessions, first-launch funnel, progression, economy, monetization, and technical health."
+ },
+ "https://dev.to/basteez/wild-shift-devlog-4-dont-lose-your-run-4k86": {
+  "zh_title": "《Wild Shift》开发日志 #4：别丢了这趟流程",
+  "zh_oneliner": "GitHub Game Off 2026 参赛作《The Debugger 0x03: Wild Shift》第四期开发日志，聊这轮跑局里不能丢的东西。",
+  "en_title": "Wild Shift Devlog #4: Don't lose your run",
+  "en_oneliner": "The fourth devlog for GitHub Game Off 2026 entry The Debugger 0x03: Wild Shift covers what not to lose during a run."
+ },
+ "https://dev.to/alwaysaladdin/moving-a-browser-games-controls-into-the-arena-2p1m": {
+  "zh_title": "把浏览器游戏的操作挪进竞技场里",
+  "zh_oneliner": "免费卡通浏览器游戏《SlapLoop》的作者分享了一次界面改动：把计时玩法的操作集中到竞技场内，免得玩家视线来回跑。",
+  "en_title": "Moving a browser game's controls into the arena",
+  "en_oneliner": "The maker of free cartoon browser game SlapLoop explains moving a timing game's controls into the arena so players stop looking in too many places."
+ },
+ "https://dev.to/tora_scripts/throw-food-for-animals-script-how-i-automated-perfect-throws-with-runservice-34g4": {
+  "zh_title": "《Throw Food for Animals》脚本：用 RunService 实现完美投掷自动化",
+  "zh_oneliner": "一篇 Roblox 模拟器脚本教程：用 RunService 自动化投食小游戏的时机判定，命中绿色甜区可获得 +20 投掷力量加成。",
+  "en_title": "Throw Food for Animals Script: Automate Perfect Throws with RunService",
+  "en_oneliner": "A Roblox simulator scripting tutorial on automating the timing in Throw Food for Animals with RunService to land perfect throws in the green sweet spot."
+ },
+ "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine": {
+  "zh_title": "Xbox 25 周年纪念杂志：回顾 25 年的游戏、故事与回忆",
+  "zh_oneliner": "Xbox 25 周年纪念杂志上线，回顾四分之一个世纪的游戏、故事与回忆，老玩家可以顺着它重温一路走来的里程碑。",
+  "en_title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+  "en_oneliner": "The Xbox 25th Anniversary Magazine looks back on 25 years of games, stories, and memories for longtime fans."
+ },
+ "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever": {
+  "zh_title": "YouTuber 兼喜剧演员 Ashens：《博德之门 3》玩了 1000 小时，还聊了他玩过最烂的复古游戏",
+  "zh_oneliner": "《烂老游戏》作者 Ashens 带着他的 Steam 库做客访谈：聊了 1000 小时的《博德之门 3》，也聊了让他觉得最折腾、最不好玩的一款复古游戏。",
+  "en_title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+  "en_oneliner": "Filmmaker and Terrible Old Games author Ashens tours his Steam library, on 1,000 hours in Baldur's Gate 3 and the worst retro game he has ever played."
  }
 }
