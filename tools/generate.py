@@ -3202,6 +3202,7 @@ def render_about(site, lang="zh"):
                             "the daily digest, and search recent items — returning only titles, one-line summaries and outbound links.",
                             "Endpoint: <code>https://indie-game-hot.pages.dev/mcp</code> (Streamable HTTP, no API key, served from the Cloudflare mirror).",
                             "Three tools: get_hot (current hot list), get_daily (latest daily digest), search_items (search recent items by keyword and category).",
+                            "All three tools accept a lang argument: Chinese by default, lang=en returns the English version.",
                             "In Claude Desktop, for example, add an mcpServers entry to the config file with type http and the endpoint URL above."]),
             ("Made by", ["Camille, an indie game developer (currently building the space trading game Star Merchant). "
                           "This site's information architecture and visual style reference Kazix's open-source project AIHOT; "
@@ -3219,6 +3220,7 @@ def render_about(site, lang="zh"):
         ("MCP 接入", ["本站提供 MCP（Model Context Protocol）接入点，AI 客户端可以直接查热点、日报、搜索最近动态——返回的同样只有标题、一句简介与原文链接。",
                     "端点：<code>https://indie-game-hot.pages.dev/mcp</code>（Streamable HTTP，无需密钥，跑在 Cloudflare 镜像站上）。",
                     "三个工具：get_hot（当前热点榜）、get_daily（最新一期日报）、search_items（按关键词与分类搜索最近动态）。",
+                    "三个工具都支持 lang 参数：默认返回中文，lang=en 返回英文版。",
                     "以 Claude Desktop 为例，在配置文件里加一个 mcpServers 项，type 填 http，url 填上面这个端点即可。"]),
         ("制作人", ["Camille，独立游戏开发者（正在做太空贸易游戏《星穹商旅》）。"
                     "本站信息架构与界面风格参考了卡兹克的开源项目 AIHOT，本站代码按 MIT 协议开源。"]),
@@ -3636,6 +3638,7 @@ def build_llms_txt(site, cats, today_iso, lang="zh"):
 - MCP endpoint (Streamable HTTP, no key required):
   https://indie-game-hot.pages.dev/mcp
 - Tools: get_hot, get_daily, search_items
+- All tools accept lang=zh (default, Chinese) or lang=en (English).
 - Machine-readable data:
   {site_url}/en/data/hot.json
   {site_url}/en/data/daily.json
@@ -3687,6 +3690,7 @@ def build_llms_txt(site, cats, today_iso, lang="zh"):
 - MCP endpoint (Streamable HTTP, no key required):
   https://indie-game-hot.pages.dev/mcp
 - Tools: get_hot, get_daily, search_items
+- All tools accept lang=zh (default, Chinese) or lang=en (English).
 - Machine-readable data:
   {site_url}/data/hot.json
   {site_url}/data/daily.json

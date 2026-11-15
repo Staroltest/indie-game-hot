@@ -93,6 +93,7 @@ GDC（404）。以后环境或地址变了可再测再加。
 
 - 端点：`https://indie-game-hot.pages.dev/mcp`（Streamable HTTP，无需密钥）
 - 工具：`get_hot`（热点榜）、`get_daily`（最新日报）、`search_items`（关键词/分类搜索）
+- 语言：三个工具都支持 `lang` 参数，默认中文，`lang=en` 返回英文版
 - 实现：`_worker.js`（Cloudflare Pages Advanced Mode，单文件无依赖），
   `_routes.json` 只把 `/mcp` 交给它，其余路径仍走静态托管。
 
