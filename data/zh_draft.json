@@ -11290,5 +11290,11 @@
   "zh_oneliner": "让玩家在激战中自由与 Boss 对话时，UI、动画、音频与战斗判定会同时冲突，这段 4 分 44 秒的实机测试展示了作者如何一一处理这些碰撞。",
   "en_title": "Handling Live Boss Interrupts, Stamina Guards, and Grounded AI Negotiation in HTML5 Canvas (V.E.T.O.R — A Ruptura)",
   "en_oneliner": "Letting players talk freely to a boss mid-fight makes UI, animation, audio, and combat hitboxes collide at once — this 4m44s unscripted test run shows how the author handles those collisions."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards": {
+  "zh_title": "《GTA 6》原声带泄露被证实属实，新曲来自 Lana Del Rey、Playboi Carti 与 Keith Richards",
+  "zh_oneliner": "《GTA 6》泄露的原声带曲目单得到证实，收录 Lana Del Rey 等艺人的新歌，大作宣发期的泄露消息仍在持续发酵。",
+  "en_title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+  "en_oneliner": "The leaked GTA 6 soundtrack tracklist has been confirmed accurate, featuring new songs from Lana Del Rey, Playboi Carti and Keith Richards."
  }
 }
