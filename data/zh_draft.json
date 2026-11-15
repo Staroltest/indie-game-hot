@@ -11260,5 +11260,11 @@
   "zh_oneliner": "Blokito 的冒险模式有 300 个手工设计关卡，作者分享了如何用求解器验证每一关都有解，避免玩家卡在无解的关卡上。",
   "en_title": "How we made 300 block puzzle levels provably solvable",
   "en_oneliner": "The Blokito team shares how they verified all 300 hand-designed Adventure-mode levels are solvable, so no player ever gets stuck on an impossible puzzle."
+ },
+ "https://dev.to/copyleftdev/zombies-a-gunship-and-a-judgment-model-what-could-go-wrong-2k95": {
+  "zh_title": "僵尸、一架炮艇机与一个判断模型：能出什么岔子？",
+  "zh_oneliner": "开发者用 AI 判断模型指挥炮艇机在僵尸围城中作战，715 次目标判定几乎全对、远胜手写规则，但 48 次对比任务里结局毫无差别，提醒把模型接进已有系统时要先想清楚“更好的决策”是否真能换来更好的结果。",
+  "en_title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
+  "en_oneliner": "A developer let an AI judgment model command a gunship over a zombie-infested city, and its 715 targeting calls beat hand-written rules by a wide margin, yet across 48 paired missions the better decisions changed nothing measurable — a reminder to check whether bolting a model onto a working system actually improves outcomes."
  }
 }
