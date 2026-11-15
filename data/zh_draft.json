@@ -11494,5 +11494,11 @@
   "zh_oneliner": "寻宝游戏每句“往北走 40 米”背后都是玩家的位置轨迹，这篇拆解了这类应用该收哪些数据、该删哪些、哪些打死也不能记。",
   "en_title": "Location privacy in a scavenger hunt app: what to collect, what to delete, and what never to log",
   "en_oneliner": "Every \"walk 40 metres north\" in a scavenger hunt game leaves a trail of player movement — this piece breaks down which location data to collect, which to delete, and which should never be logged."
+ },
+ "https://dev.to/therichmodernmagician/engineered-in-japan-gcc-optimizing-unity-webgl-emscripten-js-bridge-zero-copy-fs-branchless-4n32": {
+  "zh_title": "日本 GCC 工程实践：优化 Unity WebGL / Emscripten JS 桥接（零拷贝文件系统与无分支查找）",
+  "zh_oneliner": "这篇技术报告拆解了 Unity WebGL 游戏里浏览器与引擎之间的 JS 桥接瓶颈，用零拷贝文件系统和无分支查找把内存占用与 CPU 负载降了下来，适合想做网页端发行的开发者参考。",
+  "en_title": "Engineered in Japan GCC: Optimizing Unity WebGL / Emscripten JS Bridge (Zero-Copy FS & Branchless Lookup)",
+  "en_oneliner": "This technical report breaks down the JavaScript bridge bottleneck between the browser and the engine in Unity WebGL games, cutting memory use and CPU load with a zero-copy filesystem and branchless lookup — a useful reference for developers shipping games on the web."
  }
 }
