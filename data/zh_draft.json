@@ -11566,5 +11566,41 @@
   "zh_oneliner": "受《星球大战：帝国战争》启发的新 RTS《Horu》主打超大规模太空遭遇战与行星战役，单场可达数十万单位，预计明年年底发售。",
   "en_title": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
   "en_oneliner": "Horu, a new RTS inspired by Star Wars: Empire at War, promises colossal space encounters and planetary battles with hundreds of thousands of units, aiming to launch at the end of next year."
+ },
+ "https://www.gcores.com/radios/222021": {
+  "zh_title": "听完这期，搞清楚游戏里的所有反派！解析《影之刃零》里的局",
+  "zh_oneliner": "一期音频节目拆解《影之刃零》的反派布局与剧情脉络，聊聊叙事钩子是怎么埋的。",
+  "en_title": "Listen to This Episode to Untangle Every Villain: Breaking Down the Plot of Phantom Blade Zero",
+  "en_oneliner": "An audio episode unpacking Phantom Blade Zero's villain setup and story threads, showing how narrative hooks get planted."
+ },
+ "https://www.indiedb.com/games/iron-command/news/throw-it-back-new-animations-smarter-soldiers-four-hours-of-campaign": {
+  "zh_title": "回炉重做：新动画、更聪明的士兵与四小时战役内容",
+  "zh_oneliner": "独立策略游戏《Iron Command》更新开发日志，步兵新增大量动作与新招式，并汇报了战役模式的当前进度。",
+  "en_title": "Throw it back: new animations, smarter soldiers, four hours of campaign",
+  "en_oneliner": "Indie strategy game Iron Command shares a dev log on new infantry animations and tricks, plus where its campaign stands."
+ },
+ "https://dev.to/aplusgamesstudio/how-to-reduce-mobile-game-app-size-a-practical-guide-10ie": {
+  "zh_title": "如何给手游应用瘦身：一份实用指南",
+  "zh_oneliner": "先测再砍：贴图通常是手游体积的大头，其次是音频与模型，文章给出逐项压缩与取舍的实操方法。",
+  "en_title": "How to Reduce Mobile Game App Size: A Practical Guide",
+  "en_oneliner": "Measure before you cut: textures are usually the biggest share of a mobile game's size, followed by audio and meshes, with practical steps to trim each."
+ },
+ "https://dev.to/samellis/what-we-learned-measuring-a-location-game-the-metrics-that-actually-tell-you-if-it-works-21hg": {
+  "zh_title": "测一款位置游戏教会我们的事：哪些指标才真正说明它行得通",
+  "zh_oneliner": "位置游戏不能照搬坐着玩的 App 那套指标，文章分享哪些数据才能真正判断这类游戏是否成立。",
+  "en_title": "What we learned measuring a location game: the metrics that actually tell you if it works",
+  "en_oneliner": "Location games can't be measured with sit-down app metrics — this piece shares which numbers actually show whether one works."
+ },
+ "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1": {
+  "zh_title": "《Queen's Domain》是自《黑暗之魂 1》以来最像《黑暗之魂 1》的作品",
+  "zh_oneliner": "一篇评测把《Queen's Domain》比作《黑暗之魂 1》的精神续作，聊聊它如何复刻那种探索与受苦的味道。",
+  "en_title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+  "en_oneliner": "A review frames Queen's Domain as the closest thing to Dark Souls 1 since Dark Souls 1, on how it recreates that exploration and suffering."
+ },
+ "https://www.eurogamer.net/blade-runner-2099-triple-a-talks": {
+  "zh_title": "《银翼杀手 2099》主创暗示未来或有 3A 级《银翼杀手》游戏，但别指望很快",
+  "zh_oneliner": "《银翼杀手 2099》剧集主创透露未来可能推出 3A 级同名游戏，不过短期内不会落地。",
+  "en_title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+  "en_oneliner": "The Blade Runner 2099 showrunners hint a triple-A Blade Runner game could happen someday — just not any time soon."
  }
 }
