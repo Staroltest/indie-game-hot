@@ -2,8 +2,8 @@
  "generated_at": "2026-11-16",
  "site": "https://staroltest.github.io/indie-game-hot",
  "summary": {
-  "total": 9,
-  "passed": 7,
+  "total": 10,
+  "passed": 8,
   "warn": 2,
   "failed": 0
  },
@@ -18,7 +18,7 @@
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
    "status": "pass",
-   "detail": "共 4099 条 URL，磁盘 4097 个 HTML 页全部在列"
+   "detail": "共 4107 条 URL，磁盘 4105 个 HTML 页全部在列"
   },
   {
    "key": "llms",
@@ -43,6 +43,12 @@
    "label": "详情页 Article（抽查最新 1 篇）",
    "status": "pass",
    "detail": "中英详情页含 datePublished / dateModified，og:type=article"
+  },
+  {
+   "key": "og",
+   "label": "OG 图与图标链接（batch 2 落地检查）",
+   "status": "pass",
+   "detail": "首页与最新详情页 og:image / twitter:image 均指向 /assets/og-image.png，twitter:card 为 summary_large_image，含 favicon.ico 与 apple-touch-icon 链接。"
   },
   {
    "key": "mcp",

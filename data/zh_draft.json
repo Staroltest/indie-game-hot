@@ -12142,5 +12142,29 @@
   "zh_oneliner": "一位 UE5 格斗游戏开发者请教如何用物理实现出拳受击反应，正在研究 GASP 与蓝图方案。",
   "en_title": "how to make physics based hit reactions from a punch?",
   "en_oneliner": "A UE5 fighting-game developer asks how to drive punch hit reactions with physics, exploring GASP and Blueprint-based approaches."
+ },
+ "http://www.gamelook.com.cn/2026/11/606395": {
+  "zh_title": "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
+  "zh_oneliner": "Nexon 携手腾讯为《OVERKILL》做深度本地化，值得留意一款韩式动作 IP 如何针对中国 PC 玩家重新打磨。",
+  "en_title": "Nexon Teams Up with Tencent on a Hyper-Localized PC Game — Can OVERKILL Carry the Weight?",
+  "en_oneliner": "Nexon is working with Tencent to deeply localize OVERKILL for Chinese PC players — a case study in adapting a Korean action IP for a new market."
+ },
+ "http://www.gamelook.com.cn/2026/11/606370": {
+  "zh_title": "AI谈虎色变，马化腾布阵腾讯伏虎！",
+  "zh_oneliner": "腾讯 28 周年之际，AI 引发的组织调整与裁员传闻刷屏，折射出大厂在 AI 浪潮下的战略焦虑与布局动向。",
+  "en_title": "As AI Anxiety Spreads, Pony Ma Positions Tencent to Tame the Tiger",
+  "en_oneliner": "Around Tencent's 28th anniversary, AI-driven restructuring rumors reveal how a giant is repositioning itself amid the AI wave."
+ },
+ "http://www.gamelook.com.cn/2026/11/606355": {
+  "zh_title": "GDC 2026数据报告：40%开发者在用AI，34%过去两年被裁员",
+  "zh_oneliner": "GDC 行业现状报告显示 AI 已成四成开发者的日常工具，同时三分之一开发者在两年内经历过裁员，值得独立开发者对照自身处境。",
+  "en_title": "GDC 2026 Report: 40% of Developers Use AI, 34% Were Laid Off in the Past Two Years",
+  "en_oneliner": "GDC's State of the Game Industry report finds AI in 40% of developers' daily work while a third faced layoffs in two years — sobering context for indies."
+ },
+ "https://www.youxituoluo.com/535054.html": {
+  "zh_title": "广东省首届电竞粤超总决赛11月28日深圳南山开赛",
+  "zh_oneliner": "广东首个覆盖 21 个地市的全民电竞赛事总决赛 11 月 28 日在深圳开赛，面向非职业选手、总奖金超百万元。",
+  "en_title": "Guangdong's First Esports 'Yue Chao' Finals Kick Off in Shenzhen on November 28",
+  "en_oneliner": "Guangdong's first province-wide amateur esports finals land in Shenzhen on November 28, with over one million yuan in prizes for non-pro players."
  }
 }
