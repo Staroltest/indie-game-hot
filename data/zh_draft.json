@@ -13198,5 +13198,29 @@
   "zh_oneliner": "一款小体量多人策略游戏，玩家经营犯罪组织、与敌对帮派和警方争夺城市控制权，支持最多 32 人的公开房间。",
   "en_title": "UnderWorld.IO",
   "en_oneliner": "A small multiplayer strategy game where players run a criminal organization and battle rival gangs and the police for control of the city, with public rooms for up to 32 players."
+ },
+ "https://unity.com/the-unity-cli-1.0-is-here": {
+  "zh_title": "Unity CLI 1.0 正式发布！",
+  "zh_oneliner": "Unity 命令行工具走出测试版，开发者可把 Claude Code 等 AI 编程助手接进 Unity 项目，在终端里自动跑构建和测试。",
+  "en_title": "The Unity CLI 1.0 is here!",
+  "en_oneliner": "Unity's command-line tool is out of beta, letting developers connect Claude Code and other AI coding assistants to a Unity project and automate builds and tests from the terminal."
+ },
+ "https://www.nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal": {
+  "zh_title": "传闻：Atlus 或将公布《女神异闻录 6》",
+  "zh_oneliner": "有消息称 Atlus 正在为《女神异闻录 6》的大规模亮相做准备，系列在 Switch 2 上的布局也值得关注。",
+  "en_title": "Rumour: Atlus May Be Gearing Up For A Huge Persona 6 Reveal",
+  "en_oneliner": "Atlus may be preparing a major reveal for Persona 6, as the series goes all-in on Switch 2 after a long wait."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges": {
+  "zh_title": "泄露《GTA 6》的黑客对全部指控认罪",
+  "zh_oneliner": "提前一年多公开数十段《GTA 6》视频的黑客 Arion Kurtaj 已对全部指控认罪。",
+  "en_title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+  "en_oneliner": "Arion Kurtaj, who leaked dozens of GTA 6 videos more than a year before the game's formal reveal, has pleaded guilty to all charges."
+ },
+ "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer": {
+  "zh_title": "《星球大战：银河竞速》2027 年加入分屏多人模式",
+  "zh_oneliner": "这款街机风竞速游戏应玩家呼声，将在 2027 年加入备受期待的分屏多人模式和新玩法。",
+  "en_title": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
+  "en_oneliner": "The arcade podracing game will add much-requested split-screen multiplayer and a new mode in 2027, developer Fuse Games has announced."
  }
 }
