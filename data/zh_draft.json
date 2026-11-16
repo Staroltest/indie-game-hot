@@ -12220,5 +12220,23 @@
   "zh_oneliner": "开源 PC Engine CD BIOS 替代项目本周从观测调用推进到实际执行三项实验性服务，开发 ROM 已实现 81 个候选入口中的 18 个。",
   "en_title": "PC Engine CD BIOS Devlog: Three Experimental Services in One Boot Path, 18 DEV Entries",
   "en_oneliner": "The open-source PC Engine CD BIOS replacement moves from observing calls to actually running three experimental services, with the dev ROM now implementing 18 of 81 candidate entry points."
+ },
+ "https://www.gcores.com/articles/222401": {
+  "zh_title": "【会员抽奖】电影《饥饿游戏：收获日出》预售开启 竞技场升级美丽之下遍地杀机",
+  "zh_oneliner": "同名小说改编电影开启预售，11月20日中美同步上映，聚焦黑密斯少年时代的第50届饥饿游戏。",
+  "en_title": "[Member Giveaway] The Hunger Games: Sunrise on the Reaping Presale Opens — The Arena Gets an Upgrade, Beauty Hides Danger Everywhere",
+  "en_oneliner": "The film adaptation of the bestselling novel opens presales for a November 20 simultaneous release in China and North America, centering on a young Haymitch in the 50th Hunger Games."
+ },
+ "https://www.gcores.com/radios/222396": {
+  "zh_title": "通关撒花・影之刃零丨这一切原来都是你的阴谋！",
+  "zh_oneliner": "两位主播通关《影之刃零》后复盘，从关卡、战斗到支线逐项聊这款国产动作游戏到底值不值得玩。",
+  "en_title": "Cleared and Celebrating — Phantom Blade Zero: So It Was All Your Scheme!",
+  "en_oneliner": "Two hosts who finished Phantom Blade Zero break it down level by level, combat system to side quests, asking whether the long-awaited Chinese action game lives up to the hype."
+ },
+ "https://www.gcores.com/radios/222397": {
+  "zh_title": "[294]游戏回_影之刃零的返场再谈",
+  "zh_oneliner": "本期先聊金摇杆与 Steam 大奖等一周新闻，再回头重谈《影之刃零》，回应上期节目引发的讨论。",
+  "en_title": "[294] Games Recap: Revisiting Phantom Blade Zero",
+  "en_oneliner": "The episode opens with the week's news — Golden Joystick results and the Steam Awards' tenth anniversary — then returns to Phantom Blade Zero to answer listener feedback from the previous show."
  }
 }
