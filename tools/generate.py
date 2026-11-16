@@ -161,11 +161,12 @@ def local_name(tag):
 
 # ---------------------------------------------------------------- 抓取与解析
 
-def fetch(url, timeout=25, attempts=2):
+def fetch(url, timeout=25, attempts=2, ua=None):
     last_err = None
+    headers = {"User-Agent": ua} if ua else UA
     for i in range(attempts):
         try:
-            req = urllib.request.Request(url, headers=UA)
+            req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except (urllib.error.URLError, TimeoutError, OSError) as e:
@@ -180,7 +181,20 @@ def parse_feed(body, source):
     try:
         root = ET.fromstring(body)
     except ET.ParseError:
-        return []
+        # 有些源会在 XML 文档后追加脚本等尾巴（如 Cloudflare 挑战脚本），
+        # 严格解析会报 junk after document element：截断到根元素闭合处再试
+        try:
+            text = body.decode("utf-8", "replace") if isinstance(body, bytes) else body
+            end = -1
+            for close in ("</feed>", "</rss>", "</rdf:RDF>"):
+                i = text.rfind(close)
+                if i >= 0:
+                    end = max(end, i + len(close))
+            if end <= 0:
+                return []
+            root = ET.fromstring(text[:end])
+        except ET.ParseError:
+            return []
     items = []
     for el in root.iter():
         name = local_name(el.tag)
@@ -197,7 +211,7 @@ def parse_feed(body, source):
                     fields.setdefault("link", href or (child.text or "").strip())
                 else:
                     fields.setdefault(cn, (child.text or "").strip())
-        title = fields.get("title", "").strip()
+        title = strip_html(fields.get("title", "")).strip()
         link = norm_link(fields.get("link", ""))
         if not title or not link:
             continue
@@ -3957,7 +3971,7 @@ def main():
             print("zh_draft.json skipped (%s)" % e, file=sys.stderr)
     for src in sources:
         try:
-            body = fetch(src["url"])
+            body = fetch(src["url"], ua=src.get("ua"))
             new_items = parse_feed(body, src)
         except Exception as e:  # noqa: BLE001 - 单个信源失败不中断整轮
             failed.append((src["id"], str(e)[:80]))
