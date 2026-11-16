@@ -12364,5 +12364,35 @@
   "zh_oneliner": "作者用一个晚上、86 行服务端代码给免费多人浏览器街机站加上四子棋，并总结了这套小规则文件里沉淀出的通用模式。",
   "en_title": "Connect Four in 86 lines: how I coded the rules for a multiplayer browser game",
   "en_oneliner": "The author added Connect Four to a free multiplayer browser arcade in one evening with an 86-line server-side rules file, and shares the reusable patterns it taught them."
+ },
+ "https://80.lv/articles/gta-6-will-encourage-empathy-rockstar-says": {
+  "zh_title": "GTA 6 将鼓励玩家共情，Rockstar 称",
+  "zh_oneliner": "Rockstar North 的 Rob Nelson 解释了主角 Jason 与 Lucia 为何没有理由制造混乱，以及玩家行为将如何影响故事走向。",
+  "en_title": "GTA 6 Will Encourage Empathy, Rockstar Says",
+  "en_oneliner": "Rockstar North's Rob Nelson explains why protagonists Jason and Lucia have no reason to cause chaos, and how player actions will shape the story."
+ },
+ "https://www.gcores.com/radios/222410": {
+  "zh_title": "丰富碾平一切问题，录音笔VOL.826",
+  "zh_oneliner": "机核办公室的日常碎碎念合集，十几分钟的短节目，聊聊团队里发生的琐事与突发奇想。",
+  "en_title": "Abundance Flattens Every Problem — Recorder VOL.826",
+  "en_oneliner": "A short, roughly ten-minute slice of life from the GCORES office — casual chatter, odd tangents, and whatever the team happened to record that day."
+ },
+ "https://www.indiedb.com/games/saltwarden-online/news/east-the-strandline-opens-and-the-level-cap-rises-to-22": {
+  "zh_title": "《Saltwarden Online》向东开放新区域 Strandline，等级上限升至 22 级",
+  "zh_oneliner": "封闭测试向东扩展出一片无海之岸，新增 41 个任务、17 种敌人，职业训练师开放至 22 级。",
+  "en_title": "East: the Strandline opens and the level cap rises to 22",
+  "en_oneliner": "The Saltwarden Online closed alpha grows east with a coast without a sea, adding 41 quests, 17 new enemy types, and class trainers up to level 22."
+ },
+ "https://www.indiedb.com/games/shield-line-riot-police-tactics/news/shield-line-a-real-time-tactics-game-where-too-much-force-makes-the-crowd-grow-out-december-15": {
+  "zh_title": "《Shield Line》：以暴制暴只会让人群更壮大的实时战术游戏，12 月 15 日发售",
+  "zh_oneliner": "一款关于人群管控的实时战术游戏，降温往往比武力更管用，2026 年 12 月 15 日登陆 Steam。",
+  "en_title": "Shield Line: a real-time tactics game where too much force makes the crowd grow, out December 15",
+  "en_oneliner": "A real-time tactics game about crowd control where too much force makes the crowd grow — de-escalation usually beats force. It launches on Steam on December 15, 2026."
+ },
+ "https://www.youxituoluo.com/535063.html": {
+  "zh_title": "上线两月流水破2亿美元，《哈利波特：魔法觉醒》今日官宣停服",
+  "zh_oneliner": "授权协议到期，《哈利波特：魔法觉醒》宣布停运：12 月 21 日停充并下架，2027 年 3 月 3 日正式关服，IP 授权游戏的生命周期风险值得开发者留意。",
+  "en_title": "After $200M in Two Months, Harry Potter: Magic Awakened Announces Shutdown",
+  "en_oneliner": "With its license agreement expiring, Harry Potter: Magic Awakened will stop top-ups and delist on December 21, 2026, and shut down its servers on March 3, 2027 — a reminder of the lifecycle risks behind licensed-IP games."
  }
 }
