@@ -13000,5 +13000,89 @@
   "zh_oneliner": "首款 Panther Lake 主板亮相，但 G3 芯片仅配 4 个 Xe3 核心，迷你游戏 PC 的期望恐怕要落空。",
   "en_title": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC",
   "en_oneliner": "The first Panther Lake motherboard is here and tiny, but with only four Xe3 cores on the G3 chip, a mini gaming PC build looks unlikely."
+ },
+ "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details": {
+  "zh_title": "Xbox 预热代号 Helix 新主机：既是主机，也能玩 PC 游戏",
+  "zh_oneliner": "Xbox 透露了下一代主机的更多信息，称它既是一台主机，也能运行 PC 游戏，但具体细节仍未公布。",
+  "en_title": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
+  "en_oneliner": "Xbox shared more details about its next console, describing it as a console that can also play PC games, though concrete specifics remain undisclosed."
+ },
+ "https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar": {
+  "zh_title": "每一代 GTA 都让系列离初代《黑手党》更近一步",
+  "zh_oneliner": "文章认为 GTA 系列在开放世界犯罪题材上的演变，正越来越接近当年在叙事与氛围上超越 Rockstar 的《黑手党》。",
+  "en_title": "Each new GTA moves the series closer and closer to the original Mafia, the open-world game that bettered Rockstar",
+  "en_oneliner": "The piece argues that each new GTA brings the series closer to the original Mafia, the open-world game that once outdid Rockstar on storytelling and atmosphere."
+ },
+ "https://gamedev.net/forums/topic/720850-no-ai-looking-for-a-small-team-to-help-develop-an-existing-unreal-engine-game": {
+  "zh_title": "招募：为一款 Unreal 引擎动作 Roguelite 找小型开发团队",
+  "zh_oneliner": "一位独立开发者为自己做了约一年的 Unreal 引擎第三人称动作 Roguelite 招募小型团队，希望把项目推向下一阶段。",
+  "en_title": "NO AI Looking for a small team to help develop an existing Unreal Engine game",
+  "en_oneliner": "An indie developer who has spent about a year on a third-person action roguelite in Unreal Engine is looking for a small team to help take the game to its next stage."
+ },
+ "https://www.gcores.com/articles/222426": {
+  "zh_title": "罗伯特·帕丁森确认饰演新一任《007》詹姆斯·邦德",
+  "zh_oneliner": "亚马逊 MGM 影业宣布罗伯特·帕丁森将接任詹姆斯·邦德，影片主创团队也已敲定，导演维伦纽瓦称赞他为角色带来了全新气质。",
+  "en_title": "Robert Pattinson confirmed as the next James Bond",
+  "en_oneliner": "Amazon MGM has announced Robert Pattinson as the next James Bond, with the film's core creative team confirmed and director Villeneuve praising the fresh quality he brings to the role."
+ },
+ "https://www.yystv.cn/p/14636": {
+  "zh_title": "网易《哈利波特：魔法觉醒》宣布停运，月流水曾超11亿元",
+  "zh_oneliner": "因授权协议到期，网易《哈利波特：魔法觉醒》将于 2027 年 3 月 3 日停运，12 月 21 日起停止充值与新用户注册，独立开发者可从中看到 IP 授权手游的生命周期风险。",
+  "en_title": "NetEase's Harry Potter: Magic Awakened to shut down after licensing deal expires; monthly revenue once topped 1.1 billion yuan",
+  "en_oneliner": "NetEase announced that Harry Potter: Magic Awakened will shut down on March 3, 2027 after its licensing agreement expired, with top-ups and new registrations ending December 21 — a reminder of the lifecycle risks IP-licensed mobile games carry."
+ },
+ "https://www.yystv.cn/p/14635": {
+  "zh_title": "曾经最好的“电影改编游戏”之一，现在看更是超前",
+  "zh_oneliner": "回顾《玩具总动员 3》等电影联动游戏的兴衰，拆解这种曾风靡一时的发行模式为何走向没落。",
+  "en_title": "Once one of the best movie tie-in games, it looks even more ahead of its time today",
+  "en_oneliner": "Looking back at movie tie-in games like Toy Story 3, the piece unpacks why a once-popular publishing model faded away."
+ },
+ "https://www.indiedb.com/games/blue-leaf-striker/news/blue-leaf-striker-is-out-free-demo-in-your-browser": {
+  "zh_title": "《Blue Leaf Striker》上线：免费试玩版可直接在浏览器里玩",
+  "zh_oneliner": "一位日本独立开发者制作的横版射击游戏，免费试玩版已上线浏览器，双机体、能量槽与五场 Boss 战都可以在 PC 与手机上直接体验。",
+  "en_title": "Blue Leaf Striker is out: free demo in your browser",
+  "en_oneliner": "A solo-made horizontal shoot-'em-up from Japan is out with a free demo that runs in the browser on PC and phone, featuring two ships, a power-up gauge and five boss fights."
+ },
+ "https://www.indiedb.com/games/metalmercs/news/from-a-1997-high-school-fan-game-to-metalmercs-free-demo-out-now": {
+  "zh_title": "从 1997 年高中同人游戏到《MetalMercs》：免费试玩版现已上线",
+  "zh_oneliner": "作者把 1997 年高中时期做的机甲同人游戏一路打磨成将于 2027 年 3 月发售的《MetalMercs》，全新免费试玩版已在 Steam 上线。",
+  "en_title": "From a 1997 High School Fan Game to MetalMercs: Free Demo Out Now",
+  "en_oneliner": "A mech game first made as a high-school fan project in 1997 has grown into MetalMercs, launching in March 2027, with a brand-new free demo out now on Steam."
+ },
+ "https://dev.to/aplusgamesstudio/game-economy-design-currencies-sources-and-sinks-2g80": {
+  "zh_title": "游戏经济设计：货币、产出与消耗",
+  "zh_oneliner": "从货币、产出、消耗与三者之间的兑换率讲起，教你按预期的成长节奏来设计游戏经济系统。",
+  "en_title": "Game Economy Design: Currencies, Sources and Sinks",
+  "en_oneliner": "Starting from currencies, sources, sinks and the rates between them, the guide shows how to design a game economy around the progression pace you want."
+ },
+ "https://dev.to/playgamalabs/29-free-browser-games-from-one-canvas-codebase-no-install-14-languages-5gom": {
+  "zh_title": "一套 Canvas 代码做出 29 款免费浏览器游戏（免安装、14 种语言）",
+  "zh_oneliner": "两人工作室分享如何用同一套 Canvas 代码库与 14 语言 UI 层做出 29 款 HTML5 小游戏，并通过 Playgama Bridge SDK 分发。",
+  "en_title": "29 free browser games from one canvas codebase (no install, 14 languages)",
+  "en_oneliner": "A two-person studio shares how one canvas codebase and a 14-language UI layer power 29 small HTML5 games, shipped through the Playgama Bridge SDK."
+ },
+ "https://www.nintendolife.com/news/2026/11/that-was-very-tough-indiana-jones-dev-struggled-to-transition-from-gunplay": {
+  "zh_title": "“那真的很难”——《夺宝奇兵》开发组谈从枪战转向近战的挣扎",
+  "zh_oneliner": "以枪战见长的 MachineGames 谈《夺宝奇兵：古老之圈》如何艰难地从枪战玩法转向以鞭子与近战为主的设计。",
+  "en_title": "\"That Was Very Tough\" - Indiana Jones Dev Struggled To Transition From Gunplay",
+  "en_oneliner": "MachineGames, known for its gunplay, talks about how tough it was to shift Indiana Jones and the Great Circle toward whip and melee combat."
+ },
+ "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it": {
+  "zh_title": "《最终幻想 14》想让 500 小时主线不再吓人，8 月差点落地却被吉田推迟",
+  "zh_oneliner": "制作人吉田直树谈《最终幻想 14》如何设法降低 500 小时主线剧情的门槛，一个方案 8 月差点推出，最终还是决定推迟。",
+  "en_title": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it",
+  "en_oneliner": "Producer Naoki Yoshida discusses Final Fantasy 14's effort to make its 500-hour story less daunting — a plan that nearly shipped in August before he decided to postpone it."
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust": {
+  "zh_title": "《魔兽世界：Forever》收藏玩家反弹：暴雪先给强力玩具，又准备收回",
+  "zh_oneliner": "《魔兽世界：Forever》上线后一件强力玩具引发全收集玩家不满，暴雪给出之后又准备将其收回，收藏向设计的取舍值得独立开发者参考。",
+  "en_title": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away",
+  "en_oneliner": "With World of Warcraft: Forever live, one powerful toy has drawn pushback from completionists after Blizzard handed it out and then prepared to take it away."
+ },
+ "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1": {
+  "zh_title": "我的杀人葡萄酒商想在《十字军之王 3》“丝绸与白银”里争共和统治权，图的可不只是钱",
+  "zh_oneliner": "试玩《十字军之王 3》“丝绸与白银”扩展：商人共和国玩法如何让贸易帝国与王位争夺交织在一起。",
+  "en_title": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money",
+  "en_oneliner": "A hands-on look at Crusader Kings 3's Silk and Silver expansion, where merchant republic play weaves a trade empire together with the scramble for the throne."
  }
 }
