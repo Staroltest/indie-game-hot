@@ -3826,6 +3826,35 @@ def build_geo_audit(site, root, site_url, today_iso):
     else:
         _check("item", "详情页 Article（抽查最新 1 篇）", "warn", "未找到详情页可抽查")
 
+    og_samples = [("index.html", index_html)]
+    if item_html:
+        og_samples.append(("详情页（最新 1 篇）", item_html))
+    bad_og = []
+    for _label, _h in og_samples:
+        _lacks = []
+        if "/assets/og-image.png" not in _h:
+            _lacks.append("og:image/twitter:image 未指向 /assets/og-image.png")
+        if 'content="summary_large_image"' not in _h:
+            _lacks.append("twitter:card 不是 summary_large_image")
+        if "favicon.ico" not in _h:
+            _lacks.append("favicon.ico 链接缺失")
+        if "apple-touch-icon" not in _h:
+            _lacks.append("apple-touch-icon 链接缺失")
+        if _lacks:
+            bad_og.append(f"{_label} 缺 {';'.join(_lacks)}")
+    if og_samples and not bad_og:
+        _check("og", "OG 图与图标链接（batch 2 落地检查）", "pass",
+               "首页与最新详情页 og:image / twitter:image 均指向 "
+               "/assets/og-image.png，twitter:card 为 summary_large_image，"
+               "含 favicon.ico 与 apple-touch-icon 链接。")
+    elif og_samples:
+        _check("og", "OG 图与图标链接（batch 2 落地检查）", "fail",
+               "；".join(bad_og))
+    else:
+        _check("og", "OG 图与图标链接（batch 2 落地检查）", "warn",
+               "未抽到页面可检查。")
+
+
     _check("mcp", "MCP 端点可达性", "warn",
            "端点 https://indie-game-hot.pages.dev/mcp 已写入 llms.txt；"
            "本轮未做在线请求，可达性需线上验证")
