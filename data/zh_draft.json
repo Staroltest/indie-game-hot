@@ -13264,5 +13264,11 @@
   "zh_oneliner": "特朗普公开表态支持黄仁勋重返英伟达 CEO，但董事会兴趣不大，这场高层人事风波可能左右未来 AI 芯片的走向。",
   "en_title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
   "en_oneliner": "Trump backs Jensen Huang's return as Nvidia CEO, but the board seems uninterested — a boardroom drama that could shape the future of AI chips."
+ },
+ "https://dev.to/tyrboai/how-to-make-a-game-with-ai-from-the-idea-to-your-phone-4n0e": {
+  "zh_title": "用 AI 做游戏：从一句话创意到手机上可玩",
+  "zh_oneliner": "一句话描述创意、审 AI 写的开发计划、在手机上试玩，再用自然语言让 AI 改——这篇指南以 Tyrbo 引擎为例，手把手带新手走完 AI 做游戏的完整流程，并点出新手最容易踩的坑。",
+  "en_title": "How to Make a Game with AI, From the Idea to Your Phone",
+  "en_oneliner": "Describe your idea in a sentence, review the plan the AI writes, play the build on your phone, then tune it by telling the AI what to change — this guide walks first-time makers through the full AI game-making loop with the Tyrbo engine, and flags the mistakes that cost beginners the most."
  }
 }
