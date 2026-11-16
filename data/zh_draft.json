@@ -13234,5 +13234,23 @@
   "zh_oneliner": "怪物猎人手游上线两周多内购收入破千万美元，这份变现成绩单能给独立开发者做手游商业化时当个参照。",
   "en_title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks",
   "en_oneliner": "The Monster Hunter mobile spin-off passed $10.2 million in in-app purchase revenue in just over two weeks — a handy benchmark for indie developers weighing mobile monetization."
+ },
+ "https://www.indiedb.com/games/seamfall-worlds-collide/news/seamfall-1085-enhance-your-spare-heroes-stacked-duplicates-and-a-bigger-roster": {
+  "zh_title": "Seamfall 1.0.85：强化闲置英雄、重复英雄可叠加、阵容上限扩大",
+  "zh_oneliner": "免费收集类英雄 RPG《Seamfall: Worlds Collide》新增强化系统，用闲置英雄培养主力并有概率提升技能等级，重复英雄可叠加以腾出阵容空间。",
+  "en_title": "Seamfall 1.0.85: Enhance your spare heroes, stacked duplicates and a bigger roster",
+  "en_oneliner": "The free collectible hero RPG Seamfall: Worlds Collide adds an Enhance system that spends spare heroes to level up a favourite, with a chance at a higher skill level, while duplicates now stack to free up roster space."
+ },
+ "https://www.indiedb.com/mods/openlocoland/news/openlocoland-locoland-on-current-windows-with-a-map-editor": {
+  "zh_title": "OpenLocoland：让《Locoland》在现代 Windows 上运行，还自带地图编辑器",
+  "zh_oneliner": "开源项目 OpenLocoland 让 2003 年的老游戏《Locoland》在现代 Windows 上以任意分辨率和宽屏运行，修复了部分 bug，内置地图编辑器仍在开发中。",
+  "en_title": "OpenLocoland - Locoland on current Windows, with a map editor",
+  "en_oneliner": "OpenLocoland is an open-source project that keeps the 2003 game Locoland playable on modern Windows at any resolution and in widescreen, fixes some bugs, and ships a map editor that is still in progress."
+ },
+ "https://www.indiedb.com/games/nebesa-2d-space-sim-sandbox-mmo/news/welcome-to-the-frontier-nebesa-open-alpha-is-live-in-your-browser": {
+  "zh_title": "欢迎来到边境：《Nebesa》公开 Alpha 已可在浏览器中游玩",
+  "zh_oneliner": "浏览器直开的 2D 太空沙盒 MMO《Nebesa》开启公开 Alpha，四个互联星系、39 种飞船与永久船只损失机制，挖矿与行星登陆均可直接体验。",
+  "en_title": "Welcome to the Frontier: Nebesa Open Alpha is Live in Your Browser",
+  "en_oneliner": "Nebesa, a persistent 2D space sandbox MMO that runs entirely in the browser, opens its public alpha with four connected star systems, 39 ships with permanent Tier-one loss, mining, and on-foot exploration."
  }
 }
