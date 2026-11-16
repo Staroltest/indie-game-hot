@@ -12952,5 +12952,53 @@
   "zh_oneliner": "从与 Epic 联合打造 Unreal 系列，到靠 Warframe 转型免费网游，再到开发 Soulframe，Digital Extremes 总裁回顾这家加拿大工作室 33 年的长线经营。",
   "en_title": "From Unreal to Soulframe: Digital Extremes president on the studio’s 33-year history",
   "en_oneliner": "From co-creating Unreal with Epic to building Warframe and now Soulframe, Digital Extremes’ president reflects on 33 years of playing the long game."
+ },
+ "https://www.unrealengine.com/developer-interviews/say-cheese-recreating-an-iconic-2d-art-style-with-ue5-in-blueys-happy-snaps": {
+  "zh_title": "用 UE5 还原《Bluey》标志性 2D 画风：Gameloft Brisbane 的开发访谈",
+  "zh_oneliner": "Gameloft Brisbane 团队分享如何用 Unreal Engine 5 的动画工具，把热门儿童动画《Bluey》的 2D 世界搬进 3D 游戏。",
+  "en_title": "Say cheese! Recreating an iconic 2D art style with UE5 in Bluey's Happy Snaps",
+  "en_oneliner": "The Gameloft Brisbane team shares how Unreal Engine 5 animation tools helped translate the hit kids' TV show Bluey's iconic 2D world into a 3D game."
+ },
+ "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes": {
+  "zh_title": "英特尔因涉嫌误导投资者被起诉：AI 推高涨价致大量 PC 库存积压",
+  "zh_oneliner": "英特尔被指控向投资者隐瞒生成式 AI 引发的元器件涨价对 PC 销量的冲击，面临集体诉讼。",
+  "en_title": "Intel are being sued for \"misleading\" investors about \"a massive glut of unwanted PC inventory\" thanks to AI-fuelled price hikes",
+  "en_oneliner": "Intel faces a class action for allegedly misleading investors about how generative AI-driven component price hikes hit PC sales and left a glut of unwanted inventory."
+ },
+ "https://gamefromscratch.com/pixijs-moves-into-3d-pixijs-3d": {
+  "zh_title": "PixiJS 进军 3D：PixiJS 3D 发布",
+  "zh_oneliner": "流行 2D WebGL/WebGPU 框架 PixiJS 正式支持 3D，GDevelop、RPG Maker 等引擎的开发者都能用上。",
+  "en_title": "PixiJS Moves Into 3D – PixiJS 3D",
+  "en_oneliner": "PixiJS, the popular 2D WebGL and WebGPU framework, has moved into 3D, opening it up to developers using engines like GDevelop and RPG Maker."
+ },
+ "https://dev.to/mold99210/make-100-npcs-for-your-game-in-5-minutes-free-in-the-browser-4ed8": {
+  "zh_title": "5 分钟免费在浏览器里给游戏做 100 个 NPC",
+  "zh_oneliner": "不用 Blender、不用付费素材包，作者分享如何用免费在线工具 MOLD 在 5 分钟内批量生成风格统一的游戏角色。",
+  "en_title": "Make 100 NPCs for your game in 5 minutes (free, in the browser)",
+  "en_oneliner": "No Blender, no paid asset packs: the author shows how to fill a game with unique characters in under five minutes using the free browser tool MOLD."
+ },
+ "https://dev.to/nilsharker/two-ai-poker-bots-announced-a-full-house-only-one-had-it-58cd": {
+  "zh_title": "两个 AI 扑克机器人都宣称拿到了葫芦，只有一个是真的",
+  "zh_oneliner": "作者运营的 AI 扑克对战站上，大语言模型与传统规则引擎同桌竞技，一手牌暴露了两者在读牌与诈唬上的真实差距。",
+  "en_title": "Two AI poker bots announced a full house. Only one had it.",
+  "en_oneliner": "On the author's AI poker site, language models play against old-school rule engines, and one hand exposes the real gap between them in reading cards and bluffing."
+ },
+ "https://dev.to/zentaolabs/creating-sd-versions-of-2x-osu-skin-files-with-python-and-pillow-without-dark-edges-5h6c": {
+  "zh_title": "用 Python 和 Pillow 给 osu! 皮肤批量生成 SD 版 @2x 素材（无黑边）",
+  "zh_oneliner": "针对只有高清 @2x 素材的 osu! 皮肤，作者分享一套 Python 脚本，批量下采样生成低分辨率版本且避免边缘发黑。",
+  "en_title": "Creating SD versions of @2x osu! skin files with Python and Pillow (without dark edges)",
+  "en_oneliner": "For osu! skins drawn only at high resolution, the author shares a Python script that batch-generates SD versions without the dark edges downsampling usually causes."
+ },
+ "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty": {
+  "zh_title": "差点就有了中世纪版《使命召唤》：骑士与剑的战争故事",
+  "zh_oneliner": "开发者透露曾探讨过以骑士与冷兵器为主题的中世纪《使命召唤》，只要是战争故事就能成立。",
+  "en_title": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'",
+  "en_oneliner": "Developers reveal a medieval Call of Duty with knights and swords was once on the table, since any war story can be a Call of Duty."
+ },
+ "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc": {
+  "zh_title": "映泰发布首款英特尔 Panther Lake 主板，体积虽小但别指望塞进迷你游戏 PC",
+  "zh_oneliner": "首款 Panther Lake 主板亮相，但 G3 芯片仅配 4 个 Xe3 核心，迷你游戏 PC 的期望恐怕要落空。",
+  "en_title": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC",
+  "en_oneliner": "The first Panther Lake motherboard is here and tiny, but with only four Xe3 cores on the G3 chip, a mini gaming PC build looks unlikely."
  }
 }
