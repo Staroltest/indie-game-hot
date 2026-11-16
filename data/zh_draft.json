@@ -12784,5 +12784,29 @@
   "zh_oneliner": "一位独立开发者花数月做了浏览器里的多人开放世界城市 Balak City，PC 与手机都能玩，还能嵌进 Telegram，城市会持续运转，无需下载。",
   "en_title": "[Browser/Telegram] Balak City - a living open-world city MMO you play in the browser (solo dev)",
   "en_oneliner": "A solo developer spent months building Balak City, a multiplayer open-world city that runs in the browser on PC and phone, and inside Telegram too, with a living city and no download required."
+ },
+ "https://unity.com/blog/ai-in-mobile-gaming-advertising-reshaping-targeting-and-workflows": {
+  "zh_title": "AI 如何真正重塑手游广告：定向、创意与工作流",
+  "zh_oneliner": "Unity 拆解 AI 在手游广告中的实际落地：更精准的定向、动态创意生成与自动化投放流程，少谈概念、多讲做法。",
+  "en_title": "How AI Is Actually Reshaping Mobile Gaming Advertising",
+  "en_oneliner": "Unity breaks down how AI is actually being used in mobile game advertising — sharper targeting, dynamic creative, and automated workflows — with less hype and more practical detail."
+ },
+ "https://80.lv/articles/full-circle-building-terminal-escape-from-tarkov-s-final-location": {
+  "zh_title": "闭环收官：《逃离塔科夫》最终地图 Terminal 的搭建历程",
+  "zh_oneliner": "Battlestate Games 分享了为《逃离塔科夫》打造最后一张地图 Terminal 的挑战：低光照环境搭建与角色动画制作的难点。",
+  "en_title": "Full Circle: Building Terminal, Escape from Tarkov's Final Location",
+  "en_oneliner": "Battlestate Games talks through the challenges of building Terminal, Escape from Tarkov's final map — low-light environments and the tricky work of character animation."
+ },
+ "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox": {
+  "zh_title": "来自“XBOX 博士”的喊话：请个假，好好玩一天 Xbox",
+  "zh_oneliner": "DJ Khaled 化身“XBOX 博士”，号召玩家放下手头的事、请一天假专心玩游戏，是一篇轻松的品牌趣味营销。",
+  "en_title": "A Message From Dr. XBOX: It's Time to Take the Day Off and Play XBOX",
+  "en_oneliner": "DJ Khaled becomes “Dr. XBOX” and urges players to take the day off and just play — a lighthearted piece of brand marketing."
+ },
+ "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps": {
+  "zh_title": "“游戏开发从来不是一帆风顺”：《守望先锋》总监回应第六赛季新英雄是输出位的玩家不满",
+  "zh_oneliner": "《守望先锋》总监回应玩家对第六赛季新英雄定为输出位的不满，坦言开发取舍并不总是如玩家所愿。",
+  "en_title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+  "en_oneliner": "Overwatch's director responds to players upset that season 6's new hero is a DPS, noting that game development is rarely straightforward."
  }
 }
