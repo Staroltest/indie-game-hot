@@ -13270,5 +13270,17 @@
   "zh_oneliner": "一句话描述创意、审 AI 写的开发计划、在手机上试玩，再用自然语言让 AI 改——这篇指南以 Tyrbo 引擎为例，手把手带新手走完 AI 做游戏的完整流程，并点出新手最容易踩的坑。",
   "en_title": "How to Make a Game with AI, From the Idea to Your Phone",
   "en_oneliner": "Describe your idea in a sentence, review the plan the AI writes, play the build on your phone, then tune it by telling the AI what to change — this guide walks first-time makers through the full AI game-making loop with the Tyrbo engine, and flags the mistakes that cost beginners the most."
+ },
+ "https://dev.to/sultanofniyyat_87d4bb0836/building-an-eat-and-grow-ball-game-in-unity-sizes-pouring-piles-and-fair-timers-7d9": {
+  "zh_title": "用 Unity 做一款吃吃长大的滚球游戏：体型、掉落堆与公平计时器",
+  "zh_oneliner": "独立开发者分享休闲滚球游戏的开发心得：如何调体型成长、掉落物堆叠与计时器公平性。",
+  "en_title": "Building an eat-and-grow ball game in Unity: sizes, pouring piles and fair timers",
+  "en_oneliner": "A solo developer shares lessons from building a casual eat-and-grow ball game: tuning size growth, item pile drops, and fair timers."
+ },
+ "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry": {
+  "zh_title": "Gabe Newell 善待游艇船员让业内人士惊讶：“我们这行从没见过这样”",
+  "zh_oneliner": "Valve 掌门人 Gabe Newell 善待超级游艇船员的做法引发热议，船员留任率达到同行平均水平的六倍。",
+  "en_title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
+  "en_oneliner": "Valve chief Gabe Newell draws praise for treating his superyacht crew well, with crew retention six times the industry average."
  }
 }
