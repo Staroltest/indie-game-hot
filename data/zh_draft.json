@@ -12826,5 +12826,83 @@
   "zh_oneliner": "《赛博朋克 2077》的多人 Mod CyberMP 进入公开测试，独立开发者可以关注社区 Mod 如何为老游戏续命并形成新的联机玩法。",
   "en_title": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
   "en_oneliner": "The Cyberpunk 2077 multiplayer mod CyberMP is now in open beta — a look at how community mods can give an older game a new lease on life."
+ },
+ "https://80.lv/articles/create-gross-organic-webs-with-this-blender-generator": {
+  "zh_title": "用这款 Blender 生成器制作逼真的有机蛛网",
+  "zh_oneliner": "一款轻量可定制的 Blender 生成器，能快速做出逼真的有机蛛网效果，适合给场景加细节。",
+  "en_title": "Create Gross Organic Webs With This Blender Generator",
+  "en_oneliner": "A lightweight, customizable Blender generator for creating gross organic webs to add detail to your scenes."
+ },
+ "https://www.yystv.cn/p/14631": {
+  "zh_title": "GTA6里“遛鸟”场景太多，韩国审查人员麻了",
+  "zh_oneliner": "GTA6 规模与尺度空前，韩国分级机构面对海量待审内容压力不小，聊聊分级背后的工作量。",
+  "en_title": "GTA6's Abundance of Nude Scenes Has Left Korean Ratings Reviewers Overwhelmed",
+  "en_oneliner": "With GTA6's unprecedented scale and content, Korean ratings reviewers face a mountain of material to assess — a look at the workload behind game classification."
+ },
+ "https://www.yystv.cn/p/14630": {
+  "zh_title": "专访《锈湖》团队：建起了庞大世界观的锈湖，为什么还坚持做“小游戏”",
+  "zh_oneliner": "锈湖团队用 11 年、19 部作品搭起庞大世界观，却仍坚持做小体量解谜游戏，专访聊聊这份坚持背后的选择。",
+  "en_title": "Interview with the Rusty Lake Team: Why Keep Making \"Small Games\" After Building Such a Vast World?",
+  "en_oneliner": "Over 11 years and 19 puzzle games, the Rusty Lake team built a sprawling interconnected world — yet still chooses small-scale games; this interview explores why."
+ },
+ "https://www.indiedb.com/games/sound-system/news/sound-system-is-out-now-in-steam-early-access": {
+  "zh_title": "《Sound System》已登陆 Steam 抢先体验",
+  "zh_oneliner": "音乐主题独立游戏《Sound System》开启 Steam 抢先体验，将分三个阶段开发，欢迎玩家参与反馈。",
+  "en_title": "Sound System is out now in Steam Early Access",
+  "en_oneliner": "Music-themed indie game Sound System is now in Steam Early Access, developed in three phases with player feedback welcome."
+ },
+ "https://www.indiedb.com/games/dhitd-down-here-in-the-dark/news/faces-in-the-dark-and-the-unmaking": {
+  "zh_title": "黑暗中的面孔与“解构”",
+  "zh_oneliner": "免费恐怖小游戏《Down Here in the Dark》本周更新：每位玩家都有自己的面孔，战斗方式也变得更加诡异。",
+  "en_title": "Faces in the dark, and the Unmaking",
+  "en_oneliner": "This week's update to the free browser horror game Down Here in the Dark gives every player a face and makes combat move in a new, unsettling way."
+ },
+ "https://dev.to/aplusgamesstudio/game-server-hosting-cost-what-multiplayer-really-costs-1eho": {
+  "zh_title": "游戏服务器托管成本：多人游戏真正的开销是多少",
+  "zh_oneliner": "多人游戏的服务器成本取决于同时在线人数与架构，而非下载量，小团队上线初期每月约 500 美元，爆火后可能突破 2 万美元。",
+  "en_title": "Game Server Hosting Cost: What Multiplayer Really Costs",
+  "en_oneliner": "Multiplayer hosting costs follow concurrent players and architecture, not downloads — a small backend may run about $500 a month at launch, while a viral hit can pass $20,000."
+ },
+ "https://dev.to/itech_accesories_b86af4c5/how-we-calibrated-step-to-reward-curves-for-a-gamified-fitness-app-53nf": {
+  "zh_title": "我们如何为游戏化健身应用校准步数奖励曲线",
+  "zh_oneliner": "步数直接按固定比例兑换游戏货币会在两端都失衡，这篇文章分享如何校准奖励曲线，让健身类游戏的经济系统更耐玩。",
+  "en_title": "How We Calibrated Step-to-Reward Curves for a Gamified Fitness App\"",
+  "en_oneliner": "Mapping raw steps straight to in-game currency at a flat rate breaks at both ends — this piece shares how to calibrate step-to-reward curves for a gamified fitness app."
+ },
+ "https://www.nintendolife.com/reviews/mobapad-m12-pro-joy-con-for-switch-2-the-best-option-for-handheld": {
+  "zh_title": "评测：Mobapad M12 Pro Switch 2 手柄，掌机模式的最佳选择",
+  "zh_oneliner": "Mobapad 的 Switch 2 手柄在手感与做工上多处胜过官方产品，是掌机模式下值得考虑的替代选择。",
+  "en_title": "Review: Mobapad M12 Pro Joy-Con For Switch 2 - The Best Option For Handheld",
+  "en_oneliner": "Mobapad's M12 HD Joy-Con for Switch 2 beats Nintendo's official offering in several ways, making it a strong handheld-mode alternative."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean": {
+  "zh_title": "《魔兽世界》怀旧服玩家把圣骑士练成近乎不死的治疗机器，30 级单挑 60 级怪物",
+  "zh_oneliner": "一位《魔兽世界》怀旧服玩家把圣骑士打造成近乎不死的治疗机器，30 级单挑 60 级怪物，花了 20 分钟。",
+  "en_title": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+  "en_oneliner": "A World of Warcraft: Forever player turned their paladin into a near-unkillable healbot, soloing a level 60 monster at level 30 — it took 20 minutes."
+ },
+ "https://www.pocketgamer.biz/unity-launches-50000-fellowship-for-indie-game-studios": {
+  "zh_title": "Unity Fellowship 将向 10 支独立团队各发放 5 万美元现金资助",
+  "zh_oneliner": "Unity 推出 Fellowship 计划，为准备发售游戏的独立工作室提供资金与开发支持，共选出 10 支团队，每队获 5 万美元。",
+  "en_title": "Unity Fellowship to award 10 indie teams a $50,000 cash grant",
+  "en_oneliner": "Unity's new Fellowship programme offers funding and development support to indie studios preparing to launch, selecting 10 teams for a $50,000 cash grant each."
+ },
+ "http://www.chuapp.com/article/291763.html": {
+  "zh_title": "B站新作定档平安夜：SLG赛道凭什么需要“王道”",
+  "zh_oneliner": "B站发行的《三国：王道天下》定档 12 月 24 日，文章从 SLG 赛道的宣发格调聊起，谈这款新作如何讲“王道”。",
+  "en_title": "Bilibili's New Release Set for Christmas Eve: Why the SLG Genre Needs \"the Rightful Way\"",
+  "en_oneliner": "Bilibili's Three Kingdoms SLG is set for December 24; the piece looks at how the genre markets itself and what this new title's \"rightful way\" positioning means."
+ },
+ "https://www.yystv.cn/p/14632": {
+  "zh_title": "《影之刃零》在抖音的热度，有点夸张了",
+  "zh_oneliner": "《影之刃零》在抖音上热度惊人，文章从一段断桥跳关的经历聊起，谈这款国产 3A 是如何出圈的。",
+  "en_title": "Phantom Blade Zero's Popularity on Douyin Is Kind of Insane",
+  "en_oneliner": "Phantom Blade Zero is blowing up on Douyin; the piece starts from a broken-bridge jump shortcut and looks at how the Chinese AAA title broke into the mainstream."
+ },
+ "https://www.gcores.com/articles/222424": {
+  "zh_title": "同一款《影之刃零》，抖音玩家玩出了不同的江湖",
+  "zh_oneliner": "《影之刃零》上线后在抖音上火出圈，文章聊聊普通玩家之外，短视频玩家如何玩出另一个江湖。",
+  "en_title": "The Same Phantom Blade Zero, a Different Jianghu on Douyin",
+  "en_oneliner": "Phantom Blade Zero is a hit on Douyin; the piece looks at how short-video players experience a different jianghu from regular players."
  }
 }
