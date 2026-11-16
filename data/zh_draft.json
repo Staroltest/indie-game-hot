@@ -12274,5 +12274,35 @@
   "zh_oneliner": "Discord 已秘密提交 IPO 申请，文章分析了这家公司上市路上为何必须重新赢回游戏开发者的支持。",
   "en_title": "Discord’s Path to IPO Needs Game Developers",
   "en_oneliner": "Discord has confidentially filed for an IPO, and the piece looks at why winning back game developers is central to its path to the public market."
+ },
+ "https://80.lv/articles/jensen-huang-is-reportedly-helping-nvidia-find-a-new-ceo": {
+  "zh_title": "传黄仁勋正协助 NVIDIA 物色新任 CEO",
+  "zh_oneliner": "黄仁勋据传正在帮 NVIDIA 寻找接班人，现任临时 CEO 为 Colette Kress，他本人也有可能回归掌舵。",
+  "en_title": "Jensen Huang Is Reportedly Helping NVIDIA Find a New CEO",
+  "en_oneliner": "Huang is reportedly helping NVIDIA find its next CEO while Colette Kress serves as interim chief, with a possible return of Huang himself still on the table."
+ },
+ "https://www.indiedb.com/games/just-madness-earth-apocalypse-1979/news/walking-on-the-wasteland-and-enemy-ai-test-in-unreal-engine": {
+  "zh_title": "《Just Madness: Earth Apocalypse 1979》荒原漫步与 Unreal Engine 敌人 AI 测试",
+  "zh_oneliner": "这支开发日志展示了末世开放世界 RPG 里的荒原漫步场景，以及 Unreal Engine 中基础敌人 AI 对玩家的反应方式。",
+  "en_title": "Walking on the Wasteland and Enemy AI test in Unreal Engine",
+  "en_oneliner": "This devlog shows off wasteland exploration in the post-apocalyptic open-world RPG and how a basic enemy AI reacts to the player in Unreal Engine."
+ },
+ "https://dev.to/talhaseo98/township-mod-apk-7j9": {
+  "zh_title": "Township MOD APK",
+  "zh_oneliner": "一篇介绍非官方修改版《Township》的帖子，声称提供无限金币等内容，但文件安全性未经核实，开发者可作反面参考。",
+  "en_title": "Township MOD APK",
+  "en_oneliner": "A post about an unofficial modified build of Township claiming unlimited money and unlocked items, with file safety unverified — useful mainly as a cautionary example."
+ },
+ "https://dev.to/cobuildx-ai/strangler-fig-city-modernize-an-entire-city-25c": {
+  "zh_title": "Strangler Fig City：用一款浏览器游戏学会现代化改造整座城市",
+  "zh_oneliner": "这款 12 关浏览器小游戏把绞杀榕模式搬进城市改造：每栋建筑就是一个旧系统，玩家在 React 重构中体会渐进迁移、等价测试与切换开关。",
+  "en_title": "Strangler Fig City: Modernize an Entire City",
+  "en_oneliner": "A 12-level browser game that turns the strangler fig pattern into city renewal: each building is a legacy system to rebuild in React while learning gradual migration, parity testing, and kill switches."
+ },
+ "https://www.youxituoluo.com/535059.html": {
+  "zh_title": "将重金砸公测抢量！SLG 赛道，B 站还能再“掀桌”吗？",
+  "zh_oneliner": "B 站 SLG 新游《三国：王道天下》定档 12 月 24 日，文章结合实测与市场数据，分析它能否在存量竞争的 SLG 赛道里靠差异化玩法突围。",
+  "en_title": "Bilibili Bets Big on Open Beta to Grab Share: Can It Shake Up the SLG Market Again?",
+  "en_oneliner": "Bilibili's new SLG Three Kingdoms: Royal Path launches December 24; the piece pairs hands-on impressions with market data to ask whether differentiated gameplay can break through a saturated SLG market."
  }
 }
