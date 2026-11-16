@@ -12190,5 +12190,29 @@
   "zh_oneliner": "《三角洲行动》主播赛把直播间里的配枪与对战思路办成有选拔、有导师和线下决赛的赛事，越办越有看头。",
   "en_title": "From Player Tricks to Esports IP: Why Delta Force's Streamer Tournament Keeps Getting Better",
   "en_oneliner": "Delta Force's streamer tournament turns loadout and tactics talk from livestreams into a structured competition with qualifiers, mentors and an offline final."
+ },
+ "http://www.gamelook.com.cn/2026/11/606430": {
+  "zh_title": "GTA6被“偷家”？Steam干到30万在线，氪金手游厂给同行上了一课",
+  "zh_oneliner": "一款名不见经传的俄罗斯游戏赶在 GTA6 上线前一周登上 Steam 并冲到 30 万同时在线，聊聊它靠什么抢走了风头、给同行留下了哪些可借鉴的打法。",
+  "en_title": "A Little-Known Russian Game Beat GTA6 to the Punch: 300K Concurrent on Steam, and a Gacha Studio Just Taught the Industry a Lesson",
+  "en_oneliner": "A little-known Russian game hit 300,000 concurrent players on Steam a week before GTA6 launches — a look at how it stole the spotlight and what other developers can learn from it."
+ },
+ "http://www.gamelook.com.cn/2026/11/606432": {
+  "zh_title": "13 万博士在线插旗，《明日方舟》舟友地图爆火！",
+  "zh_oneliner": "一张玩家自制的《明日方舟》交互地图让 13 万玩家在线“插旗”，把游戏里的泰拉大陆铺满现实版图，看看社区自制内容如何反向点燃一款老游戏的热度。",
+  "en_title": "130K Players Planting Flags: A Fan-Made Arknights Map Takes Off",
+  "en_oneliner": "A fan-made interactive Arknights map drew 130,000 players to plant flags across a real-world map of Terra — a look at how community-made content can reignite buzz around an established game."
+ },
+ "https://www.indiedb.com/games/cordonfall/news/cordonfall-is-coming-to-steam-and-its-city-has-people-in-it-now": {
+  "zh_title": "Cordonfall 即将登陆 Steam，城里终于住进了人",
+  "zh_oneliner": "Cordonfall 开了 Steam 商店页并计划 2027 年第二季度抢先体验，围城 Siege 已重建成 3D 城市，400 名居民藏身楼宇之间，夜里庇护所亮起灯火。",
+  "en_title": "Cordonfall is coming to Steam, and its city has people in it now",
+  "en_oneliner": "Cordonfall has a Steam page and is planned for Early Access in Q2 2027, with the city of Siege rebuilt in 3D — 400 people hiding in its buildings and shelters lighting up at night."
+ },
+ "https://dev.to/domtechgaming/magickness-dev-log-04-building-a-2d-world-lobby-inside-an-unreal-engine-5-mmorpg-4904": {
+  "zh_title": "MAGICKNESS 开发日志 #04：在 Unreal Engine 5 的 MMORPG 里搭建 2D 世界大厅",
+  "zh_oneliner": "开发日志分享了如何把 2D 叙事场景接入多人奇幻模拟、调试网络同步问题，让剧情体验在可玩的 MMORPG 演示中落地。",
+  "en_title": "MAGICKNESS Dev Log #04: Building a 2D World Lobby Inside an Unreal Engine 5 MMORPG",
+  "en_oneliner": "This dev log covers connecting a 2D narrative environment to a multiplayer fantasy simulation, debugging replication issues, and bringing story development into a playable MMORPG demo."
  }
 }
