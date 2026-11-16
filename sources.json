@@ -72,13 +72,6 @@
       "url": "https://www.gamedev.net/feed/"
     },
     {
-      "category_hint": "industry",
-      "id": "hnrss-indie",
-      "name": "Hacker News：独立游戏",
-      "tier": "T2",
-      "url": "https://hnrss.org/newest?q=indie+game"
-    },
-    {
       "category_hint": "reviews",
       "id": "indiegamereviewer",
       "name": "Indie Game Reviewer",
@@ -219,10 +212,17 @@
       "url": "https://defold.com/feed"
     },
     {
+      "category_hint": "engine",
+      "id": "bevy-blog",
+      "name": "Bevy 引擎博客",
+      "tier": "T2",
+      "url": "https://bevy.org/atom.xml"
+    },
+    {
       "category_hint": "industry",
       "id": "youxituoluo",
       "name": "游戏陀螺",
-      "tier": "T2",
+      "tier": "T3",
       "url": "https://www.youxituoluo.com/feed"
     },
     {
