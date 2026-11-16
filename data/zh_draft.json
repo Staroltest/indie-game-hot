@@ -12508,5 +12508,47 @@
   "zh_oneliner": "《Minecraft Dungeons II》新内容“谦逊者觉醒”将于 12 月 1 日上线，关注续作如何延续地牢爬行玩法的热度。",
   "en_title": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
   "en_oneliner": "Minecraft Dungeons II: The Humblers Awaken arrives on December 1, offering a look at how the sequel keeps its dungeon-crawling momentum going."
+ },
+ "https://80.lv/articles/satisfactory-developer-coffee-stain-acquires-chronicles-medieval-ip": {
+  "zh_title": "《异星工厂》开发商 Coffee Stain 收购中世纪沙盒策略游戏 Chronicles: Medieval IP，原开发商已破产",
+  "zh_oneliner": "原开发商 Raw Power Games 破产后，这款中世纪沙盒策略游戏的全部资产将转入 Coffee Stain 新成立的公司，独立开发者可以从中看到小团队 IP 在资金链断裂后的另一种出路。",
+  "en_title": "Satisfactory Developer Coffee Stain Acquires Chronicles: Medieval IP as Its Developer Goes Bankrupt",
+  "en_oneliner": "After Raw Power Games went bankrupt, all assets of its medieval sandbox strategy game move to a newly established Coffee Stain company — a look at what happens to a small team's IP when its funding runs out."
+ },
+ "https://80.lv/articles/machinegames-wolfenstein-3-is-officially-in-production": {
+  "zh_title": "MachineGames 确认《德军总部 3》已正式投入制作",
+  "zh_oneliner": "开发团队在社交媒体上晒出一段剧本片段，确认系列新作已进入制作阶段，做叙事驱动射击的开发者可以留意它的剧本打磨方式。",
+  "en_title": "MachineGames' Wolfenstein 3 Is Officially in Production",
+  "en_oneliner": "The team teased a script fragment on social media, confirming the new entry is now in production — worth watching for how a narrative-driven shooter shapes its script."
+ },
+ "https://dev.to/wordlegion/making-a-word-game-bot-that-is-beatable-on-purpose-5437": {
+  "zh_title": "如何做一个“故意能被打败”的文字游戏机器人",
+  "zh_oneliner": "作者在实时文字对战游戏 Word Legion 里设计了一个新手机器人，分享怎样让 AI 既会犯错、又输得自然，让第一局的玩家体验到赢的乐趣而不是被碾压。",
+  "en_title": "Making a word-game bot that is beatable on purpose",
+  "en_oneliner": "The author built a beginner bot for the real-time word duel Word Legion, sharing how to make an AI that loses gracefully so first-time players feel the fun of winning instead of being crushed."
+ },
+ "https://dev.to/instant_games/measuring-puzzle-difficulty-with-random-play-12-mahjong-layouts-d28": {
+  "zh_title": "用随机游玩测算谜题难度：12 套麻将布局的实践",
+  "zh_oneliner": "牌数多少并不能说明一关有多难，作者给麻将接龙加了 12 套布局后，用随机游玩跑出一个真正能反映难度的数字，做法简单，任何做关卡的开发者都能照着试。",
+  "en_title": "Measuring Puzzle Difficulty With Random Play (12 Mahjong Layouts)",
+  "en_oneliner": "Tile counts say little about how hard a level feels, so the author added 12 layouts to a mahjong solitaire and used random play to produce a difficulty number that actually means something — a cheap trick any level designer can copy."
+ },
+ "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year": {
+  "zh_title": "《斯普拉遁 Raiders》明年将推出 336 页官方画集",
+  "zh_oneliner": "任天堂与 KADOKAWA 合作推出这本 336 页画集，2027 年 2 月 9 日先在日本发售，做 IP 衍生品的开发者可以参考这种“游戏未发、画集先行”的宣发节奏。",
+  "en_title": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+  "en_oneliner": "Nintendo and KADOKAWA are publishing a 336-page art book launching in Japan on 9 February 2027 — a useful reference for developers planning merchandising around an unreleased game."
+ },
+ "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030": {
+  "zh_title": "《赛马娘》母公司 CyberAgent 计划 2030 年前推出七款新游，自称手游“88% 命中率”",
+  "zh_oneliner": "Cygames 的母公司 CyberAgent 在财报中晒出手游成绩单并放出七款新游的计划，独立开发者可以从中读到一家中型发行商如何用高成功率讲增长故事。",
+  "en_title": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+  "en_oneliner": "In its earnings presentation, Cygames parent CyberAgent touted its mobile hit rate and a plan for seven new games by 2030 — a case study in how a mid-size publisher frames growth."
+ },
+ "https://www.pocketgamer.biz/hot-five-dfa-dominance-playtika-rules-out-sale-and-nexon-cancels-six-projects": {
+  "zh_title": "本周手游热点五则：DFA 领跑、Playtika 否认出售、Nexon 砍掉六个项目",
+  "zh_oneliner": "一周手游大事速览：欧盟新规瞄准开箱与成瘾设计、Playtika 排除出售可能、Nexon 一口气取消六个项目，关注移动市场的开发者值得花几分钟扫一遍。",
+  "en_title": "Hot Five: DFA dominance, Playtika rules out sale, and Nexon cancels six projects",
+  "en_oneliner": "A weekly mobile-gaming roundup covering an EU proposal on loot boxes, Playtika ruling out a sale, and Nexon cancelling six projects — a quick scan for developers watching the mobile market."
  }
 }
