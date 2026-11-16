@@ -12622,5 +12622,89 @@
   "zh_oneliner": "微软强调新主机首先是台游戏机、也能玩 PC 游戏，并把神经渲染与跨世代兼容作为下一代的重点方向。",
   "en_title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
   "en_oneliner": "Microsoft stresses the next Xbox is a console first that can also play PC games, with neural rendering and cross-generation compatibility as key focuses."
+ },
+ "https://www.pocketgamer.biz/voting-now-open-for-the-pocket-gamer-awards-2027": {
+  "zh_title": "2027 年 Pocket Gamer Awards 投票现已开启",
+  "zh_oneliner": "移动游戏奖项 Pocket Gamer Awards 开启投票，独立开发者可以关注入围名单，看看今年行业在推崇哪些移动游戏。",
+  "en_title": "Voting now open for the Pocket Gamer Awards 2027",
+  "en_oneliner": "Voting is open for the 2027 Pocket Gamer Awards, a good moment for indie devs to check the shortlist and see which mobile games the industry is celebrating."
+ },
+ "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program": {
+  "zh_title": "Unity 推出新奖学金计划：为独立开发者提供资金与专属支持",
+  "zh_oneliner": "10 名入选开发者各获 5 万美元，以及开发收尾阶段的资源、人脉与支持，计划一年内发售游戏的独立团队可以留意申请条件。",
+  "en_title": "Unity's new fellowship program offers cash and dedicated support for indie devs",
+  "en_oneliner": "Ten selected developers will each receive $50,000 plus resources, support and networks for the final stretch of development."
+ },
+ "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment": {
+  "zh_title": "Unity 面向独立开发者推出 5 万美元资助，无需出让股权、无需偿还",
+  "zh_oneliner": "面向计划 12 个月内发售游戏的独立开发者，资助不附带股权与还款义务，是一笔真正无负担的开发资金。",
+  "en_title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+  "en_oneliner": "Unity's Fellowship offers indie devs planning to launch within 12 months a $50,000 grant with no equity taken and nothing to repay."
+ },
+ "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer": {
+  "zh_title": "本周 PC 游戏：去罪恶都市开启新生活、在黑洞蒸发前逃离垂死宇宙、用大锤为鸽子复仇",
+  "zh_oneliner": "一周 PC 游戏新作与话题速览，从《GTA 6》发售在即的热议到各色新作，玩家向内容为主。",
+  "en_title": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+  "en_oneliner": "A roundup of this week's notable PC games, from the buzz around the imminent GTA 6 launch to an eclectic batch of new releases."
+ },
+ "https://indiegamesplus.com/shelldiver-review": {
+  "zh_title": "在《Shelldiver》中化身老海龟捕捞水母",
+  "zh_oneliner": "一款画风可爱的放置游戏，玩家扮演一只老海龟，在小岛上捕捞水母、悠闲度日，适合想参考轻松玩法节奏的开发者。",
+  "en_title": "Harvest Jellyfish in ‘Shelldiver’",
+  "en_oneliner": "Shelldiver is a cute idle game where you play an old turtle catching jellyfish and living a slow life on a tiny island."
+ },
+ "https://80.lv/articles/build-atmospheric-cinematic-new-york-city-environments-with-this-modular-pack": {
+  "zh_title": "用这套模块化资产搭建电影感十足的纽约城市场景",
+  "zh_oneliner": "Leartes Studios 的资产包收录纽约褐石公寓、砖砌店面等标志性元素，适合快速搭建氛围感十足的城市环境。",
+  "en_title": "Build Atmospheric, Cinematic New York City Environments with This Modular Pack",
+  "en_oneliner": "Leartes Studios' modular pack offers NYC brownstone apartments, brick shopfronts and more for building atmospheric, cinematic city environments."
+ },
+ "https://80.lv/articles/magic-the-gathering-is-getting-netflix-animated-series": {
+  "zh_title": "《万智牌》将推出 Netflix 动画剧集",
+  "zh_oneliner": "Netflix 动画《PLANESWALKER》首曝，卡牌 IP 的动画改编值得关注其美术风格与叙事手法。",
+  "en_title": "Magic: The Gathering Is Getting Netflix Animated Series",
+  "en_oneliner": "Magic: The Gathering is getting a Netflix animated series, PLANESWALKER, with a first look now out."
+ },
+ "https://www.gcores.com/radios/222414": {
+  "zh_title": "Gadio Spec《博尔赫斯 迷宫与顿悟》试听集",
+  "zh_oneliner": "一期以博尔赫斯为主题的音频节目，从迷宫与顿悟聊起，带听众走进这位作家的文学世界。",
+  "en_title": "Gadio Spec: Borges — Mazes and Epiphanies (Preview)",
+  "en_oneliner": "An audio program on Borges, using mazes and epiphanies as a way into the writer's literary world."
+ },
+ "https://www.gcores.com/radios/221869": {
+  "zh_title": "《巴别图书馆》：世界是一本无限的书，放在无穷的图书馆中 | 博尔赫斯 迷宫与顿悟 Vol.1",
+  "zh_oneliner": "从博尔赫斯的短篇《巴别图书馆》聊起，探讨无限、文本与迷宫的意象，叙事结构上对游戏编剧也有借鉴意义。",
+  "en_title": "The Library of Babel: The World Is an Infinite Book in an Endless Library | Borges: Mazes and Epiphanies Vol.1",
+  "en_oneliner": "Starting from Borges' short story The Library of Babel, this episode explores infinity, texts and mazes, with ideas game writers can borrow for narrative structure."
+ },
+ "https://dev.to/cruxquest/i-made-a-block-puzzle-whose-piece-dealer-is-tuned-for-fun-not-ad-revenue-27cf": {
+  "zh_title": "我做了一款方块消除游戏，它的发牌器为乐趣调校，而非广告收入",
+  "zh_oneliner": "免费 iPhone 方块消除游戏 Crux 的开发者分享发牌逻辑：如何读牌、忽略什么、怎样安排接下来三块，兼谈为乐趣而非广告收入做设计。",
+  "en_title": "I made a block puzzle whose piece dealer is tuned for fun, not ad revenue",
+  "en_oneliner": "The dev of Crux, a free iPhone block puzzler, explains how its piece dealer is tuned for fun rather than ad revenue: what it reads, what it ignores, and how it picks your next three pieces."
+ },
+ "https://dev.to/artanidos/the-first-game-built-with-forge4d-4ic": {
+  "zh_title": "第一款用 Forge4D 打造的游戏",
+  "zh_oneliner": "开发者回顾用自研引擎 Forge4D 完成首款游戏的经历，从一款塔防变体出发，做了一款与战争无关的游戏。",
+  "en_title": "The First Game Built with Forge4D",
+  "en_oneliner": "A developer looks back at building the first game with Forge4D, his own engine, turning a tower-defense idea into a game that isn't about war."
+ },
+ "https://dev.to/nefayran/i-cut-121-of-2093-godot-draw-calls-and-the-frame-time-didnt-move-564o": {
+  "zh_title": "我砍掉了 2093 次 Godot 绘制调用中的 121 次，帧时间却纹丝不动",
+  "zh_oneliner": "开发者复盘一次反直觉的性能优化：绘制调用数降了，帧时间却没变，真正的瓶颈原来在别处。",
+  "en_title": "I cut 121 of 2,093 Godot draw calls and the frame time didn't move",
+  "en_oneliner": "A developer recounts a counterintuitive optimization: cutting 121 of 2,093 Godot draw calls left frame time unchanged, because the real bottleneck was elsewhere."
+ },
+ "https://www.pocketgamer.biz/crippling-devastating-not-acceptable-how-the-dfa-threatens-mobile-gaming-as-we-know-it": {
+  "zh_title": "“摧毁性的、不可接受的”：DFA 如何威胁移动游戏的未来",
+  "zh_oneliner": "移动游戏从业者对数字公平法案的担忧：新规可能重创移动游戏生态，独立手游开发者值得关注后续进展。",
+  "en_title": "'Crippling, devastating, not acceptable': How the DFA threatens mobile gaming as we know it",
+  "en_oneliner": "Mobile game insiders warn the Digital Fairness Act could be crippling and devastating for the industry, and indie mobile devs should watch how it develops."
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes": {
+  "zh_title": "任天堂商店 App 迎来一次小而实用的更新，附完整更新说明",
+  "zh_oneliner": "任天堂商店移动应用迎来新补丁，改进了游玩记录等功能，小更新但值得留意。",
+  "en_title": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes",
+  "en_oneliner": "Nintendo's Store mobile app gets a small but worthwhile update, improving play activity features, with full patch notes included."
  }
 }
