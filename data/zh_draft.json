@@ -12442,5 +12442,71 @@
   "zh_oneliner": "本期游戏行业人事盘点汇总了 Stillfront、SciPlay、Scopely、King、Zynga 等多家公司的关键岗位变动，顺带覆盖 Moonton、Voodoo 等厂商的最新动向。",
   "en_title": "Jobs digest: big moves at Stillfront, SciPlay, Scopely, King, Zynga, Playtika, Dream and more",
   "en_oneliner": "This round-up of games-industry job moves covers key hires and departures at Stillfront, SciPlay, Scopely, King, Zynga and more, with Moonton, Voodoo and others in the mix."
+ },
+ "https://80.lv/articles/riot-announces-the-new-dawn-a-major-league-of-legends-overhaul": {
+  "zh_title": "Riot 公布《英雄联盟》大型革新计划“新黎明”",
+  "zh_oneliner": "Riot 宣布对《英雄联盟》进行全面革新，包括现代化客户端、召唤师峡谷视觉重做与玩法演进，更多细节将于 2027 年公布，值得关注头部产品如何做长线翻新。",
+  "en_title": "Riot Announces The New Dawn, a Major League of Legends Overhaul",
+  "en_oneliner": "Riot has announced a sweeping overhaul of League of Legends, covering a modernized client, a visual revamp of Summoner's Rift and evolved gameplay, with more details coming in 2027 — a useful case study in how a flagship live game reinvents itself."
+ },
+ "https://www.indiedb.com/games/mops-mobs-a-sweeping-dungeon-novel/news/dev-log-for-the-week-from-26-11-09": {
+  "zh_title": "《Mops & Mobs》本周开发日志（11 月 9 日起）",
+  "zh_oneliner": "地牢冒险新作《Mops & Mobs》更新本周开发日志，记录这部扫帚与怪物主题地牢小说的最新进展。",
+  "en_title": "Dev log for the week from 26-11-09",
+  "en_oneliner": "The dungeon adventure Mops & Mobs shares its latest weekly dev diary, chronicling progress on its sweeping dungeon novel."
+ },
+ "https://www.indiedb.com/games/zero-point/news/the-cold-is-back-on-day-9-zero-point": {
+  "zh_title": "寒潮再袭第 9 天 |《Zero Point》",
+  "zh_oneliner": "《Zero Point》放出第 9 天开发实机片段，展示殖民地船员如何在又一轮寒潮中检查供暖系统。",
+  "en_title": "The Cold Is Back on Day 9 | Zero Point",
+  "en_oneliner": "Zero Point shares day-9 footage from its current build, showing the colony crew checking the heating as another cold snap rolls in."
+ },
+ "https://www.indiedb.com/games/cliff-walker/news/cliff-walker-a-3d-cliff-path-building-game-where-your-safety-rope-snaps-if-you-hang-too-long": {
+  "zh_title": "《Cliff Walker》：在云端峭壁上修路，安全绳吊太久就会断",
+  "zh_oneliner": "韩国团队带来的免费 3D 建造游戏，玩家独自在云端石柱上逐孔钻洞、逐根打桩，铺出一条通往高处的木板路。",
+  "en_title": "CLIFF WALKER: a 3D cliff path building game where your safety rope snaps if you hang too long",
+  "en_oneliner": "A free 3D construction game from Korea where you build a plank path up a stone pillar above the clouds, one drilled hole and one iron stake at a time — and your safety rope snaps if you hang too long."
+ },
+ "https://www.indiedb.com/games/match-cut/news/dev-log-directing-a-game-the-way-the-game-directs-you": {
+  "zh_title": "开发日志：像导演一样指挥游戏开发",
+  "zh_oneliner": "《MATCH CUT》团队分享四天参加 2026 Epic AI MegaJam 的经历：作者像导演一样逐版试玩提意见，AI 智能体负责把意见变成代码、关卡、测试与构建。",
+  "en_title": "Dev log: directing a game the way the game directs you",
+  "en_oneliner": "The MATCH CUT team shares how the game was made in four days for the 2026 Epic AI MegaJam: the author played every build and gave notes like a director while AI agents turned them into code, levels, tests and builds."
+ },
+ "https://www.indiedb.com/games/face-your-fate/news/build-up-poison-then-spend-it-on-a-finisher": {
+  "zh_title": "先叠毒，再用终结技一次打光",
+  "zh_oneliner": "《Face Your Fate》放出 15 秒实机片段，演示木系叠毒、再以金木火组合一次消耗 5 层毒打出终结技的混合元素打法。",
+  "en_title": "Build up poison, then spend it on a finisher",
+  "en_oneliner": "Face Your Fate shows a 15.1-second gameplay clip of a mixed-element build: Wood stacks poison, and a Metal + Wood + Fire match spends 5 stacks on an elite finisher."
+ },
+ "https://dev.to/dayu2333jinyul/i-tracked-every-roblox-rivals-code-for-a-month-most-of-them-die-in-2-weeks-1435": {
+  "zh_title": "我追踪了《Roblox Rivals》的全部兑换码一个月：大多数两周就失效",
+  "zh_oneliner": "作者花一个月追踪《Roblox Rivals》的兑换码，发现所谓“全部有效”清单大多过时，免费码系列轮换极快，做直播运营的可以参考这份实测规律。",
+  "en_title": "I Tracked Every Roblox Rivals Code for a Month — Most of Them Die in 2 Weeks",
+  "en_oneliner": "After a month of tracking Roblox Rivals codes, the author found most of them die within two weeks and that 'all working codes' lists are usually stale — a useful reference for anyone running live-service giveaways."
+ },
+ "https://dev.to/feet_greet_ca43f275a38303/i-play-legislator-my-ai-plays-consequences-2373": {
+  "zh_title": "我当立法者，我的 AI 演后果",
+  "zh_oneliner": "一位不会写代码的公司律师与 AI 合作，把枯燥的制度研究变成一款立法模拟游戏：每回合改一条制度，AI 模拟它在四个时间尺度上的连锁反应。",
+  "en_title": "I Play Legislator. My AI Plays Consequences.",
+  "en_oneliner": "A corporate lawyer who can't code teamed up with AI to turn dry institutional research into a legislation game: he plays a legislator with one country and one term, and the AI plays the consequences across four time horizons."
+ },
+ "https://dev.to/feet_greet_ca43f275a38303/the-wall-won-every-game-the-last-game-found-what-kills-it-53": {
+  "zh_title": "“高墙”赢下了每一局，最后一局找到了克制它的办法",
+  "zh_oneliner": "《Victoria 2026》立法模拟的最新一局：AI 扮演的“高墙”此前战无不胜，作者终于找到打破它的策略，顺带总结了每项改革必须附带套利报告的玩法规则。",
+  "en_title": "The Wall Won Every Game. The Last Game Found What Kills It.",
+  "en_oneliner": "In the latest session of the Victoria 2026 legislation game, the AI's 'Wall' had won every game until the author finally found what kills it — a neat lesson in designing systems with built-in counterplay."
+ },
+ "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool": {
+  "zh_title": "趣闻：Modder 把 DS 改造成家用主机，效果惊艳",
+  "zh_oneliner": "Modder KOUZEX 用原版 DS 主板打造了 DualStation，把掌机变成支持 60Hz HDMI 输出与触控的家用主机，给怀旧硬件改装提供了新思路。",
+  "en_title": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool",
+  "en_oneliner": "Modder KOUZEX turned an original DS motherboard into the DualStation, a home console with full 60Hz HDMI output and touch controls — a fresh take on retro hardware modding."
+ },
+ "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1": {
+  "zh_title": "《Minecraft Dungeons II：谦逊者觉醒》12 月 1 日上线",
+  "zh_oneliner": "《Minecraft Dungeons II》新内容“谦逊者觉醒”将于 12 月 1 日上线，关注续作如何延续地牢爬行玩法的热度。",
+  "en_title": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
+  "en_oneliner": "Minecraft Dungeons II: The Humblers Awaken arrives on December 1, offering a look at how the sequel keeps its dungeon-crawling momentum going."
  }
 }
