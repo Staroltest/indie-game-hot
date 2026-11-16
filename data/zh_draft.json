@@ -12112,5 +12112,35 @@
   "zh_oneliner": "全新无尽战斗挑战上线，在随机变化的恶魔狂潮里一路杀出最高分，收集骷髅解锁奖励，每到检查点都要在见好就收与冒险一搏之间抉择。",
   "en_title": "DOOM: The Dark Ages 'Slaughter Mode' Is Live Today",
   "en_oneliner": "A new endless combat challenge is live: fight through ever-harder, ever-changing demon waves to chase a high score, collect skulls to unlock rewards, and decide at every checkpoint whether to bank them or risk it all."
+ },
+ "https://www.gcores.com/articles/222387": {
+  "zh_title": "全面重制：《超级肉肉男孩Again+》正式公布",
+  "zh_oneliner": "Team Meat 公布《超级肉肉男孩》的全面重制版，保留 300 多关高难度平台跳跃与电锯机关，美术、音乐与过场动画全部翻新，原作曲家 Danny B 回归配乐。",
+  "en_title": "Full Remake: Super Meat Boy Again+ Officially Announced",
+  "en_oneliner": "Team Meat announces a full remake of Super Meat Boy with 300+ hardcore platforming levels and sawblade hazards, overhauled visuals, music and cinematics, and returning composer Danny B."
+ },
+ "https://www.gcores.com/articles/222386": {
+  "zh_title": "《闪客快打》创作者打造：《灾异档案》正式公布",
+  "zh_oneliner": "《闪客快打》创作者带来 2D 科幻惊悚动作冒险新作，玩家扮演灾异体应对管理局执裁官深入封锁区搜集线索、拼出灾异真相，剧集式关卡结构，即将开启 Steam 抢先体验。",
+  "en_title": "From the Creator of Flash Fight: Catastrophe Files Officially Announced",
+  "en_oneliner": "The creator of Flash Fight unveils a 2D sci-fi thriller action-adventure where you play an agent of the OMEGA disaster-response bureau, gathering clues in sealed zones to piece together the truth, with episodic chapters and Steam Early Access coming soon."
+ },
+ "http://www.gamelook.com.cn/2026/11/606340": {
+  "zh_title": "蒋大卫谈《崩坏：因缘精灵》：跳出舒适区、不重复长板",
+  "zh_oneliner": "米哈游蒋大卫谈《崩坏：因缘精灵》如何跳出舒适区，放弃重复已有长板，尝试一条完全陌生的新路。",
+  "en_title": "David Jiang on Honkai: Nexus Anima: Stepping Out of the Comfort Zone Instead of Repeating Past Strengths",
+  "en_oneliner": "HoYoverse producer David Jiang explains how Honkai: Nexus Anima steps out of the team comfort zone instead of repeating what already worked, taking the series down an unfamiliar new path."
+ },
+ "https://gamedev.net/blogs/entry/2298673-seven-checks-before-an-environment-leaves-blockout": {
+  "zh_title": "环境脱离白盒前必做的七项检查",
+  "zh_oneliner": "环境过早细化是小团队最烧钱的错误之一，作者给出白盒收尾前的七项检查，帮你在锁死布局前把关卡结构、性能与可读性一次过关。",
+  "en_title": "Seven Checks Before an Environment Leaves Blockout",
+  "en_oneliner": "Detailing an environment too early is one of the most expensive mistakes a small team can make; the author shares seven checks to run before an environment leaves blockout, covering layout, performance and readability."
+ },
+ "https://gamedev.net/forums/topic/720843-how-to-make-physics-based-hit-reactions-from-a-punch": {
+  "zh_title": "如何用物理驱动出拳的受击反应？",
+  "zh_oneliner": "一位 UE5 格斗游戏开发者请教如何用物理实现出拳受击反应，正在研究 GASP 与蓝图方案。",
+  "en_title": "how to make physics based hit reactions from a punch?",
+  "en_oneliner": "A UE5 fighting-game developer asks how to drive punch hit reactions with physics, exploring GASP and Blueprint-based approaches."
  }
 }
