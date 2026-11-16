@@ -12088,5 +12088,11 @@
   "zh_oneliner": "一份设计提案建议在跃迁指令中明确标注仍可取消的时间窗口，附带原型思路。",
   "en_title": "Elite Dangerous: Show When a Jump Can Still Be Cancelled",
   "en_oneliner": "A design proposal suggests showing the window in which a jump command can still be cancelled, with a prototype to illustrate it."
+ },
+ "https://dev.to/canad1an/a-react-ready-flag-that-was-true-for-the-wrong-map-3pf8": {
+  "zh_title": "React 的“就绪”标志指向了错误的地图",
+  "zh_oneliner": "作者在开发浏览器策略游戏《Last Thaw》时踩了一个 React 状态坑：就绪标志在错误的地图上提前变真，并复盘了定位过程。",
+  "en_title": "A React \"ready\" flag that was true for the wrong map",
+  "en_oneliner": "While building the browser strategy game Last Thaw, the author hit a React state pitfall where a ready flag turned true on the wrong map — and walks through how they tracked it down."
  }
 }

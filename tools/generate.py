@@ -2300,10 +2300,7 @@ def rail_html(active, prefix="", base="", lang="zh", alt_href=None):
         for key, label, ic, href in items)
     links += (f'<a class="rail-link{" on" if active == "more" else ""}" href="{base}more.html">'
               f'{icon("user", 20)}<span>{_L(lang, "我的", "My")}</span></a>')
-    if alt_href:
-        other = "en" if lang == "zh" else "zh"
-        links += (f'<a class="rail-link" href="{alt_href}" {_lang_onclick(other)}>'
-                  f'{icon("globe", 20)}<span>{_L(lang, "EN", "中文")}</span></a>')
+    # 语言切换只放侧栏左下角（.side-foot，与 GitHub 仓库同排），窄栏不再重复放。
     return (f'<aside class="rail"><a class="brand" href="{base}index.html" aria-label="{_L(lang, "IndieHOT 首页", "IndieHOT home")}">'
             f'{_logo(28)}</a><nav aria-label="{_L(lang, "主导航", "Main navigation")}">{links}</nav></aside>')
 
@@ -2328,13 +2325,9 @@ def topbar_html(active, prefix="", base="", lang="zh", alt_href=None):
         center = (f'<span class="switch">'
                   f'<a class="{"on" if active == "featured" else ""}" href="{base}{root}">{_L(lang, "精选", "Featured")}</a>'
                   f'<a class="{"on" if active == "all" else ""}" href="{base}{all_page}">{_L(lang, "全部", "All")}</a></span>')
-    lang_btn = ""
-    if alt_href:
-        other = "en" if lang == "zh" else "zh"
-        lang_btn = (f'<a class="icon-btn" href="{alt_href}" {_lang_onclick(other)} '
-                    f'aria-label="{_L(lang, "切换到英文版", "Switch to the Chinese version")}">{_L(lang, "EN", "中文")}</a>')
+    # 语言切换只放侧栏左下角（.side-foot，与 GitHub 仓库同排），顶栏不再重复放。
     return (f'<header class="topbar"><a class="brand" href="{base}index.html">{_logo(26)}<b>IndieHOT</b></a>'
-            f'{center}{lang_btn}{_theme_btn(lang)}</header>')
+            f'{center}{_theme_btn(lang)}</header>')
 
 
 def tabbar_html(active, prefix="", base="", lang="zh"):
