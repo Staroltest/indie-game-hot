@@ -13150,5 +13150,41 @@
   "zh_oneliner": "一位正在自学 Blender 的新人发帖毛遂自荐，想以帮手或学徒的身份参与游戏开发。",
   "en_title": "A friend",
   "en_oneliner": "A Blender learner introduces themself and offers to help out as an apprentice on a game project."
+ },
+ "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards": {
+  "zh_title": "宫本茂将获第 30 届 DICE 大奖首届传奇奖",
+  "zh_oneliner": "互动艺术与科学学院新设传奇奖，首位得主是任天堂的宫本茂，表彰其对游戏行业的终身贡献。",
+  "en_title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards",
+  "en_oneliner": "The Academy of Interactive Arts & Sciences has created a new Legend Award, and Nintendo's Shigeru Miyamoto is its first recipient, honoring a lifetime of contributions to games."
+ },
+ "https://www.indiedb.com/mods/project-zomboid-map-interactive-b42-map-item-database/news/mapping-all-of-knox-country-the-full-project-zomboid-map-live-in-your-browser": {
+  "zh_title": "诺克斯县全图上线浏览器：僵尸毁灭工程完整互动地图",
+  "zh_oneliner": "僵尸毁灭工程 Build 42 的诺克斯县完整地图搬进浏览器，还附带 5092 件物品的战利品数据库，免费免下载。",
+  "en_title": "Mapping All of Knox Country: The Full Project Zomboid Map, Live in Your Browser",
+  "en_oneliner": "The complete Build 42 map of Knox County for Project Zomboid is now live in the browser, with a 5,092-item database of loot locations — free, no download."
+ },
+ "https://dev.to/freema/this-isnt-threejs-this-world-is-code-meet-wallhammer-web-19j": {
+  "zh_title": "不用 Three.js：纯代码生成的 Web 世界 Wallhammer Web",
+  "zh_oneliner": "Wallhammer Web 自研 WebGL2 渲染器，村庄里的房屋、石路、树木、村民与流水全部由代码生成，不用任何外部模型与贴图。",
+  "en_title": "This isn't Three.js. This world is code. Meet Wallhammer Web.",
+  "en_oneliner": "Wallhammer Web runs its own WebGL2 renderer, generating every house, cobblestone, tree, villager and stream in this village from code — no imported models, no texture files."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/the-4-line-camera-lerp-formula-every-html5-ai-game-developer-needs-1ige": {
+  "zh_title": "四行代码搞定相机平滑：HTML5 与 AI 游戏开发者必备的相机插值公式",
+  "zh_oneliner": "相机死锁玩家坐标会让 2D 网页游戏显得生硬卡顿，四行线性插值代码就能让镜头获得电影般的平滑跟随。",
+  "en_title": "The 4-Line Camera Lerp Formula Every HTML5 & AI Game Developer Needs",
+  "en_oneliner": "Locking the camera rigidly to the player makes 2D browser games feel robotic and jittery; a four-line linear interpolation formula gives the camera cinematic, AAA-style smoothing."
+ },
+ "https://www.nintendolife.com/news/2026/11/nba-2k27-brings-a-slice-of-gta-6s-vice-city-to-switch-2-this-month": {
+  "zh_title": "NBA 2K27 本月把 GTA 6 的罪恶都市一角带上 Switch 2",
+  "zh_oneliner": "GTA 6 不登陆 Switch 2，但 NBA 2K27 用联动内容把罪恶都市的一角搬了过来，算是 Switch 2 玩家最接近 GTA 6 的一次。",
+  "en_title": "NBA 2K27 Brings A Slice Of GTA 6's Vice City To Switch 2 This Month",
+  "en_oneliner": "GTA 6 isn't coming to Switch 2, but NBA 2K27 brings a slice of Vice City over through crossover content — the closest Switch 2 players will get to GTA 6."
+ },
+ "https://www.eurogamer.net/gta-6-leaker-pleads-guilty": {
+  "zh_title": "泄露 GTA 6 的最初黑客认罪：曾入侵 Rockstar 并曝光露西娅",
+  "zh_oneliner": "2022 年入侵 Rockstar 并泄露 GTA 6 开发画面的 21 岁黑客已对多项指控认罪，结束了这场持续多年的案件。",
+  "en_title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+  "en_oneliner": "The 21-year-old who hacked Rockstar Games and leaked in-development GTA 6 footage in 2022 has pleaded guilty to multiple offenses."
  }
 }
