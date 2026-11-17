@@ -13402,5 +13402,41 @@
   "zh_oneliner": "小团队零 AI、零广告上线首款 iPhone 策略游戏，复盘了冷启动发行的真实打法。",
   "en_title": "Shipping a persistent iPhone kingdom strategy game with no generative AI and no paid ads",
   "en_oneliner": "A tiny studio launched its first iPhone strategy game with no generative AI and no paid ads, sharing an honest account of cold-start publishing."
+ },
+ "https://unity.com/blog/synty-studios-acquisition": {
+  "zh_title": "Synty Studios 加入 Unity，艺术家制作的资产将登陆 Unity Spark",
+  "zh_oneliner": "Unity 收购了 POLYGON 资产包的制作方 Synty Studios，其素材库将并入 Unity Spark，现有资产包与授权保持不变。",
+  "en_title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
+  "en_oneliner": "Unity has acquired Synty Studios, maker of the POLYGON asset packs; its library is coming to Unity Spark while existing packs and licenses stay unchanged."
+ },
+ "https://indiegamereviewer.com/center-ice-hockey-review-arcade-action-hat-trick": {
+  "zh_title": "《Center Ice Hockey》评测：简单上手的街机冰球也有意外深度",
+  "zh_oneliner": "这款街机冰球游戏主打极简上手，却在简单外表下藏着出人意料的深度。",
+  "en_title": "Center Ice Hockey Review – Arcade Action Hat Trick",
+  "en_oneliner": "A stripped-down arcade hockey game that stays easy to pick up yet hides surprising depth beneath its simple surface."
+ },
+ "https://indiegamereviewer.com/atuel-review-a-meditation-on-an-argentinian-river": {
+  "zh_title": "《Atuel》评测：一条阿根廷河流的冥想",
+  "zh_oneliner": "这款短小有力的探索游戏沿着一条河流展开，讲述它在历史中的位置与对沿岸居民的意义。",
+  "en_title": "Atuel Review – A Meditation on an Argentinian River",
+  "en_oneliner": "A short, powerful exploration of a river, its place in history, and what it means to the people who live along its banks."
+ },
+ "https://www.gcores.com/articles/222425": {
+  "zh_title": "Treyarch首席编剧Craig Houston遭解雇",
+  "zh_oneliner": "在 Treyarch 效力约 20 年的资深编剧 Craig Houston 透露自己遭裁员，此次裁员据称属于 Xbox 今年早些时候宣布的大规模重组计划的一部分。",
+  "en_title": "Treyarch Lead Writer Craig Houston Laid Off",
+  "en_oneliner": "Veteran Treyarch writer Craig Houston says he was laid off after nearly 20 years at the studio, reportedly as part of the large-scale restructuring Xbox announced earlier this year."
+ },
+ "https://www.gcores.com/articles/222422": {
+  "zh_title": "《怪猎：荒野》制作人回应性能修复耗时近一年，盛赞自研引擎灵活性",
+  "zh_oneliner": "《怪物猎人：荒野》制作人辻本良三表示，若没有自研 RE 引擎，性能修复耗时会更久，引擎工程师直接参与开发是关键。",
+  "en_title": "Monster Hunter Wilds Producer on Year-Long Performance Fixes, Praises In-House Engine Flexibility",
+  "en_oneliner": "Monster Hunter Wilds producer Ryozo Tsujimoto says fixing the game's performance would have taken even longer without Capcom's in-house RE Engine, with engine engineers embedded in development."
+ },
+ "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us": {
+  "zh_title": "《塞尔达传说：时之笛》重制版成 2026 年美国最畅销实体游戏",
+  "zh_oneliner": "Switch 2 版《时之笛》重制版发售仅四天销量就超过 500 万份，首周即登顶 2026 年美国实体游戏销量榜。",
+  "en_title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
+  "en_oneliner": "The Switch 2 remake of Ocarina of Time sold over five million copies in four days, becoming the best-selling physical game in the US in 2026 after just one week."
  }
 }
