@@ -13558,5 +13558,11 @@
   "zh_oneliner": "作者拆解一款实时多人棋盘游戏的引擎架构，讲 Canvas 渲染与 WebSocket 同步如何支撑回合制对局。",
   "en_title": "Building a Real-Time Multiplayer Board Game Engine with HTML5 Canvas & WebSockets: The Architecture of Ludo Classic",
   "en_oneliner": "The author breaks down the architecture of a real-time multiplayer board game engine, showing how HTML5 Canvas rendering and WebSocket sync power turn-based play."
+ },
+ "http://www.chuapp.com/article/291768.html": {
+  "zh_title": "新门派万花！《剑侠世界 4：无限》“万花惊鸿”资料片今日公测",
+  "zh_oneliner": "西山居《剑侠世界 4：无限》今日上线“万花惊鸿”资料片，新增以书画为武器的治疗辅助门派万花，并同步开启万人大服与跨服大世界玩法。",
+  "en_title": "New Sect Wanhua Arrives as Sword World 4: Infinity Launches Its “Wanhua Jinghong” Expansion Today",
+  "en_oneliner": "Kingsoft's Sword World 4: Infinity launches its “Wanhua Jinghong” expansion today, adding the brush-and-fan Wanhua sect focused on healing and support, alongside a 10,000-player server and cross-server open-world play."
  }
 }
