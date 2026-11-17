@@ -14476,5 +14476,59 @@
   "zh_oneliner": "《Ygdrassil》迎来迄今最大更新，新增三章内容深入地下三十层，队伍扩至五人，倒下的队友会被带回家而非直接游戏结束，还加入了拍照模式。",
   "en_title": "Three chapters deeper, and a party of five",
   "en_oneliner": "Ygdrassil's biggest update yet adds three new chapters thirty floors down, grows the party to five, carries fallen party members home instead of a game over, and adds a photo mode."
+ },
+ "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs": {
+  "zh_title": "今年游戏格莱美提名背后：学院似乎偏爱无人声配乐",
+  "zh_oneliner": "格莱美表彰了一批出色的游戏原声，但一位独立开发者透露，自己的配乐因人声占比过高而遭到学院冷遇，折射出游戏音乐评奖的隐性偏好。",
+  "en_title": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals",
+  "en_oneliner": "The Grammys celebrated a strong crop of game soundtracks, yet one indie developer says their vocal-heavy score was passed over, hinting at an unspoken bias in how game music is judged."
+ },
+ "https://www.rockpapershotgun.com/what-would-rockstar-have-done-if-gta-hadnt-taken-off-former-tech-director-obbe-vermeij-on-scottish-zombies-james-bond-and-the-curse-of-success": {
+  "zh_title": "如果 GTA 没有大获成功，Rockstar 会做什么？前技术总监 Obbe Vermeij 谈苏格兰僵尸、詹姆斯·邦德与成功的“诅咒”",
+  "zh_oneliner": "Rockstar 前技术总监回顾了工作室在 GTA 爆红之前的种种设想，从苏格兰僵尸题材到 007 游戏，聊了聊被一款超级大作定义命运的另一面。",
+  "en_title": "What would Rockstar have done if GTA hadn't taken off? Former tech director Obbe Vermeij on Scottish zombies, James Bond and the \"curse\" of success",
+  "en_oneliner": "The former Rockstar tech director looks back at the studio's pre-GTA what-ifs, from Scottish zombies to a Bond game, and reflects on the other side of being defined by one mega-hit."
+ },
+ "https://dev.to/hugomsl/converting-a-minecraft-resource-pack-from-java-to-bedrock-in-the-browser-2ji1": {
+  "zh_title": "在浏览器里把 Minecraft 资源包从 Java 版转成 Bedrock 版",
+  "zh_oneliner": "Java 版与 Bedrock 版资源包并不互通，作者拆解了两种格式的差异，并演示如何用 JavaScript 在浏览器里完成转换。",
+  "en_title": "Converting a Minecraft resource pack from Java to Bedrock in the browser",
+  "en_oneliner": "Java and Bedrock resource packs are not interchangeable, so the author breaks down the format differences and shows how to convert between them in the browser with JavaScript."
+ },
+ "https://dev.to/hugomsl/why-my-minecraft-hosting-comparison-site-has-no-scores-50h3": {
+  "zh_title": "我的 Minecraft 服务器托管对比站为什么不打分",
+  "zh_oneliner": "托管对比站常见的十分制评分掩盖了服务器性能的真实差异，作者结合 Minecraft 每 tick 仅 50 毫秒的运行机制，解释了为何拒绝给服务商打分。",
+  "en_title": "Why my Minecraft hosting comparison site has no scores",
+  "en_oneliner": "Ten-point scores on hosting comparison sites hide how servers really perform, so the author explains why they refuse to rank providers, using Minecraft's 50-millisecond tick budget as the yardstick."
+ },
+ "https://dev.to/itech_accesories_b86af4c5/rethinking-fitness-gamification-why-streaks-fail-and-care-loops-work-1b19": {
+  "zh_title": "重新思考健身游戏化：打卡连击为何失效，关怀循环为何奏效",
+  "zh_oneliner": "严格的打卡连击靠损失厌恶驱动玩家，一旦中断就容易彻底弃坑，作者以自己的健身游戏为例，探讨用照顾虚拟宠物的正向循环替代惩罚式连击。",
+  "en_title": "Rethinking Fitness Gamification: Why Streaks Fail and Care Loops Work",
+  "en_oneliner": "Rigid streaks run on loss aversion and push players to quit for good once broken, so the author shows how their fitness game replaces punitive streaks with a gentler loop of caring for virtual pets."
+ },
+ "https://www.nintendolife.com/news/2026/11/civilization-developer-firaxis-games-cuts-a-third-of-its-staff-studio-head-departs": {
+  "zh_title": "《文明》开发商 Firaxis 裁员三分之一，工作室负责人离任",
+  "zh_oneliner": "彭博社报道称 Firaxis 裁减约三分之一员工、约 60 人受影响，新 XCOM 项目因错过重要节点而停滞，工作室负责人 Heather Hazen 也将离职。",
+  "en_title": "Civilization Developer Firaxis Games Cuts A Third Of Its Staff, Studio Head Departs",
+  "en_oneliner": "Bloomberg reports Firaxis cut about a third of its staff, around 60 people, as its new XCOM stalled after missing a major milestone, with studio head Heather Hazen also departing."
+ },
+ "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs": {
+  "zh_title": "《文明》开发商 Firaxis 据报裁员三分之一，工作室负责人离任",
+  "zh_oneliner": "据报道，Firaxis 在研的新 XCOM 错过了今年初的一个重要节点，随之而来的裁员波及约三分之一员工，工作室负责人也将离开。",
+  "en_title": "Civilization dev Firaxis reportedly lays off a third of its staff, studio head departs",
+  "en_oneliner": "Firaxis reportedly cut a third of its staff after its new XCOM missed a major milestone earlier this year, with the studio head also leaving."
+ },
+ "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel": {
+  "zh_title": "报道：《文明》开发商 Firaxis 因 XCOM 续作开发受阻裁员三分之一",
+  "zh_oneliner": "彭博社记者 Jason Schreier 报道称，拥有 30 年历史的 Firaxis 将裁减三分之一员工、约 60 人，2023 年起执掌工作室的负责人 Heather Hazen 也将随之离任。",
+  "en_title": "Report: Civilization dev Firaxis lays off a third of its staff following development difficulties with XCOM sequel",
+  "en_oneliner": "Bloomberg's Jason Schreier reports the 30-year-old studio is cutting a third of its staff, about 60 people, with studio head Heather Hazen, in charge since 2023, leaving as part of the cuts."
+ },
+ "https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners": {
+  "zh_title": "Google Play 2026 年度最佳游戏揭晓：《明日方舟：终末地》《地铁跑酷：城市版》《星之海》等获奖",
+  "zh_oneliner": "Google Play 年度 Best of Play 榜单出炉，《明日方舟：终末地》拿下最佳游戏，榜单还覆盖了玩法、画面与角色等多个维度的获奖作品。",
+  "en_title": "Google Play’s Best of Play 2026 winners: Arknights: Endfield, Subway Surfers City, Sea of Stars and more",
+  "en_oneliner": "Google Play's annual Best of Play awards are out, with Arknights: Endfield taking Best Game and the list spanning winners across gameplay, visuals, and characters."
  }
 }
