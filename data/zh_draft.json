@@ -14686,5 +14686,23 @@
   "zh_oneliner": "GameDiscoverCo 换了一个角度看正在冒头的 PC 游戏趋势，顺带带来新一期节目与发行发现动态。",
   "en_title": "Examining PC game trends: beyond the Steam tag!",
   "en_oneliner": "GameDiscoverCo looks at emerging PC game trends from a fresh angle beyond Steam tags, alongside the latest show and discovery news."
+ },
+ "https://dev.to/idlecultivation/xianxia-game-development-one-buy-button-at-a-time-39p9": {
+  "zh_title": "仙侠游戏开发：从一个购买按钮做起",
+  "zh_oneliner": "一位独立开发者用三十次提交打磨修仙游戏商店页上的一张购买卡片，聊定价、文案与平台差异这些上线前最容易被忽略的细节。",
+  "en_title": "Xianxia game development, one buy button at a time",
+  "en_oneliner": "An indie dev walks through thirty commits spent polishing a single buy button on a xianxia game store page, covering pricing, copy, and platform differences that are easy to overlook before launch."
+ },
+ "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering": {
+  "zh_title": "《Mondrayn》：在炼狱中逃生的腐朽像素 RPG，死亡也不是解脱",
+  "zh_oneliner": "一款阴郁的像素风 JRPG，死亡只是苦难的延续，生存元素与压抑氛围是它最吸引人的地方。",
+  "en_title": "Mondrayn is a putrid, crunchy pixel art RPG about escaping from limbo where \"dying doesn't mean the end of your suffering\"",
+  "en_oneliner": "A grim pixel-art JRPG with survival elements about escaping limbo, where death is only the start of more suffering — bleak, crunchy, and strangely compelling."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/the-game-awards-2026-nominees-on-xbox": {
+  "zh_title": "TGA 2026 提名公布：在 Xbox 上玩《战争机器：E-Day》《GTA VI》等大作",
+  "zh_oneliner": "Xbox 盘点入围 2026 年游戏大奖的自家阵容，从《战争机器：E-Day》到《GTA VI》，顺带回顾了品牌 25 周年的发行成绩。",
+  "en_title": "The Game Awards 2026 Nominees – Play Gears of War: E-Day, Grand Theft Auto VI, Resident Evil Requiem, and More on XBOX",
+  "en_oneliner": "Xbox rounds up its 2026 Game Awards nominees, from Gears of War: E-Day to Grand Theft Auto VI, while looking back on 25 years of releases."
  }
 }
