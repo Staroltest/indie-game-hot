@@ -216,7 +216,7 @@
     "hot_days": 7,
     "hot_per_source_max": 5,
     "hot_top": 20,
-    "noise_keyword_floor": -15,
+    "noise_keyword_floor": -25,
     "noise_keyword_penalty": -5,
     "noise_keywords": [
       "免费领取",
@@ -236,7 +236,19 @@
       "抽奖",
       "best games to play",
       "games to play",
-      "bundle"
+      "bundle",
+      "buy wechat accounts",
+      "buy wechat",
+      "wechat accounts",
+      "buy accounts",
+      "verified accounts",
+      "verified account",
+      "fully verified",
+      "telegram accounts",
+      "facebook accounts",
+      "instagram accounts",
+      "gmail accounts",
+      "accounts for sale"
     ],
     "recency": [
       {

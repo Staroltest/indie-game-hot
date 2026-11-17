@@ -5,8 +5,8 @@
  "date": "2026年11月18日",
  "date_iso": "2026-11-18",
  "issue": 10,
- "generated_at": "2026-11-17T22:04:01.806453+00:00",
- "summary": "过去 24 小时共收录 251 条动态，精选 10 条（引擎与工具 6 条、评测与复盘 1 条、开发日志 2 条、行业与融资 1 条）。头条：用 Unreal Engine 把 Anyma 的 Coachella 演出扩展为广播 AR。",
+ "generated_at": "2026-11-17T23:55:09.614973+00:00",
+ "summary": "过去 24 小时共收录 253 条动态，精选 10 条（引擎与工具 8 条、开发日志 1 条、行业与融资 1 条）。头条：用 Unreal Engine 把 Anyma 的 Coachella 演出扩展为广播 AR。",
  "items": [
   {
    "id": "337da5318251a6bfe1b582440f1fa57277a240c1",
@@ -28,33 +28,9 @@
    "reason": "官方来源 · 涉及引擎与性能 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 73.3,
+   "hot_score": 72.1,
    "prev_rank": 10,
-   "prev_hot_score": 73.3
-  },
-  {
-   "id": "e17dc5b4c9c27b40eaf0fe5ec13cc3beff8d9cd5",
-   "title": "Are the new wave of solo AI game-makers making any money? No, not really",
-   "link": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really",
-   "source": "MobileGamer.biz",
-   "source_id": "mobilegamer-biz",
-   "published": "2026-11-17T16:19:43+00:00",
-   "zh_title": "新一波单人 AI 游戏制作者赚到钱了吗？并没有",
-   "zh_oneliner": "用 Claude Code 等 AI 工具做的游戏正涌入应用商店，但真正赚到钱或获得下载量的寥寥无几，单人 AI 开发的变现现实远比热度冷清。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "工具",
-    "营收"
-   ],
-   "score": 85,
-   "reason": "涉及工具与营收 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 80.6,
-   "prev_rank": 1,
-   "prev_hot_score": 80.6
+   "prev_hot_score": 72.3
   },
   {
    "id": "c31d0d34a17ff92ab6443e4ceed4062fe025d009",
@@ -73,78 +49,33 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.0,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "30165aea524d568907d7cce49c4d80b680a4dc2f",
-   "title": "Buy WeChat Accounts (All Documents Fully Verified)",
-   "link": "https://dev.to/buywechataccounts/buy-wechat-accounts-all-documents-fully-verified-4j18",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-17T16:07:52+00:00",
-   "zh_title": "购买微信账号（全部证件已完全验证）",
-   "zh_oneliner": "一篇介绍购买已实名验证微信账号的推广文章，与游戏开发关系不大，浏览时注意甄别。",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "tier": "T2",
-   "tags": [
-    "指南"
-   ],
-   "score": 80,
-   "reason": "涉及指南 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 75.7,
-   "prev_rank": 7,
-   "prev_hot_score": 75.7
-  },
-  {
-   "id": "cc0afd93ff7f3c1153d516b0706479b611b0d403",
-   "title": "Hand Tracking vs Controllers in VR: How to Choose",
-   "link": "https://dev.to/aplusgamesstudio/hand-tracking-vs-controllers-in-vr-how-to-choose-4nkd",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-17T17:00:00+00:00",
-   "zh_title": "VR 手势追踪还是手柄？如何选择",
-   "zh_oneliner": "需要精准操作、按键和触觉反馈的动作类 VR 游戏选手柄，追求易上手和沉浸感的培训、休闲与演示场景更适合手势追踪。",
+   "id": "e17dc5b4c9c27b40eaf0fe5ec13cc3beff8d9cd5",
+   "title": "Are the new wave of solo AI game-makers making any money? No, not really",
+   "link": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really",
+   "source": "MobileGamer.biz",
+   "source_id": "mobilegamer-biz",
+   "published": "2026-11-17T16:19:43+00:00",
+   "zh_title": "新一波单人 AI 游戏制作者赚到钱了吗？并没有",
+   "zh_oneliner": "用 Claude Code 等 AI 工具做的游戏正涌入应用商店，但真正赚到钱或获得下载量的寥寥无几，单人 AI 开发的变现现实远比热度冷清。",
    "category": "engine",
    "category_label": "引擎与工具",
    "tier": "T2",
    "tags": [
-    "工具"
+    "工具",
+    "营收"
    ],
    "score": 80,
-   "reason": "涉及工具 · 6 小时内发布",
+   "reason": "涉及工具与营收 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.3,
-   "prev_rank": 5,
-   "prev_hot_score": 76.4
-  },
-  {
-   "id": "d2b33330218eeea13f1f4ec4e7835e04293602c5",
-   "title": "Designing a browser game older players can start in ten seconds: what the classics get right",
-   "link": "https://dev.to/liza_18827c15bdd387c4cd9c/designing-a-browser-game-older-players-can-start-in-ten-seconds-what-the-classics-get-right-cco",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-17T16:48:59+00:00",
-   "zh_title": "让年长玩家十秒上手的浏览器游戏：经典作品做对了什么",
-   "zh_oneliner": "经典纸牌、棋盘与益智游戏无需教程、不惩罚慢反应、允许悔棋，这些设计选择任何浏览器游戏都可以借鉴。",
-   "category": "devlog",
-   "category_label": "开发日志",
-   "tier": "T2",
-   "tags": [
-    "教程"
-   ],
-   "score": 80,
-   "reason": "涉及教程 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.2,
-   "prev_rank": 6,
-   "prev_hot_score": 76.2
+   "hot_score": 74.5,
+   "prev_rank": 7,
+   "prev_hot_score": 74.8
   },
   {
    "id": "95bd7b59d4114444d1502b6bf750928c8691292d",
@@ -163,7 +94,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.0,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -186,9 +117,9 @@
    "reason": "涉及教程 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.2,
-   "prev_rank": 4,
-   "prev_hot_score": 77.2
+   "hot_score": 75.9,
+   "prev_rank": 5,
+   "prev_hot_score": 76.1
   },
   {
    "id": "b4548191cad6ee15ad071122209764cb6ea31cc1",
@@ -209,9 +140,78 @@
    "reason": "涉及性能 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 78.6,
+   "hot_score": 77.2,
+   "prev_rank": 4,
+   "prev_hot_score": 77.5
+  },
+  {
+   "id": "09abe47809036a41c1a8ea64ad61adc3ddca23e8",
+   "title": "How I built unofficial native 64-bit Linux/ARM64 SDL2 engines for a few classic PC games",
+   "link": "https://dev.to/aionedge/how-i-built-unofficial-native-64-bit-linuxarm64-sdl2-engines-for-a-few-classic-pc-games-2694",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-17T21:18:39+00:00",
+   "zh_title": "我如何为几款经典 PC 游戏写了非官方原生 64 位 Linux/ARM64 SDL2 引擎",
+   "zh_oneliner": "作者分享自己为几款老游戏手写原生 64 位 Linux 与 ARM64 引擎的技术笔记，让它们摆脱 Wine 与旧 32 位环境的束缚。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎"
+   ],
+   "score": 80,
+   "reason": "涉及引擎 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.1,
    "prev_rank": 3,
-   "prev_hot_score": 78.6
+   "prev_hot_score": 78.3
+  },
+  {
+   "id": "67deaa1a246e0e0931d393934ba4868c6845acde",
+   "title": "Spine vs Exode: Skeletal Animation for Games vs Skeletal Animation for Interfaces",
+   "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/spine-vs-exode-skeletal-animation-for-games-vs-skeletal-animation-for-interfaces-4oab",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-17T22:24:37+00:00",
+   "zh_title": "Spine 对比 Exode：游戏骨骼动画与界面骨骼动画之争",
+   "zh_oneliner": "Spine 是游戏 2D 骨骼动画十余年的默认选择，Exode 近一年补齐了骨骼、IK 与权重绘制，两者功能表面重叠，实则面向不同的产物，选错会浪费数月，文章具体划清了各自的适用边界。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "工具"
+   ],
+   "score": 80,
+   "reason": "涉及工具 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.9,
+   "prev_rank": 2,
+   "prev_hot_score": 79.1
+  },
+  {
+   "id": "002cd5ef16f3d8854b3bcc8c5ddea938d10320bb",
+   "title": "gta4-reversed: Starting a C++20 Runtime Reimplementation of GTA IV (1.0.7.0) — Crossing 1%",
+   "link": "https://dev.to/master4824/gta4-reversed-starting-a-c20-runtime-reimplementation-of-gta-iv-1070-crossing-1-e5",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-17T23:00:59+00:00",
+   "zh_title": "gta4-reversed：用 C++20 运行时重实现 GTA IV，进度突破 1%",
+   "zh_oneliner": "这个开源项目直接对 PC 版 GTA IV 1.0.7.0 可执行文件做运行时 ASI 注入重写，现已实现 462 个函数、跨过 1% 里程碑，代码按 MIT 协议开源。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎"
+   ],
+   "score": 80,
+   "reason": "涉及引擎 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 79.3,
+   "prev_rank": 1,
+   "prev_hot_score": 79.6
   },
   {
    "id": "834fa9ad8d3bea420b598799b0d706ddfa44e302",
@@ -232,7 +232,7 @@
    "reason": "涉及营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.7,
+   "hot_score": 60.6,
    "prev_rank": null,
    "prev_hot_score": null
   }
