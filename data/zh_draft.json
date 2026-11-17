@@ -13672,5 +13672,11 @@
   "zh_oneliner": "免费浏览器恐怖游戏 Lullwood 分享如何用 64 个分块、每块三组 InstancedMesh 渲染出 5200 棵树的森林，且只构建玩家附近的区块。",
   "en_title": "Lullwood: How Many Trees Can three.js Render? 5,200, With Chunked InstancedMesh",
   "en_oneliner": "Free browser horror game Lullwood explains how it renders a 5,200-tree forest with 64 chunks of three.js InstancedMesh, building only the chunks near the player."
+ },
+ "https://80.lv/articles/xbox-dj-khaled-prescribe-a-day-off-to-play-gta-6": {
+  "zh_title": "Xbox 联手 DJ Khaled 开出“玩 GTA 6 请假条”",
+  "zh_oneliner": "Xbox 与 DJ Khaled 联手推出一张玩笑式“处方单”，给玩家在 GTA 6 发售当天请假打游戏找个名正言顺的借口。",
+  "en_title": "Xbox & DJ Khaled \"Prescribe\" a Day Off to Play GTA 6",
+  "en_oneliner": "Xbox teamed up with DJ Khaled on a tongue-in-cheek \"prescription\" giving players an excuse to take launch day off and play GTA 6."
  }
 }
