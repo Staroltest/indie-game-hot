@@ -14098,5 +14098,59 @@
   "zh_oneliner": "AMD 向 Linux 内核提交容量感知调度，让系统更高效地利用大小核，这一动向被解读为 Zen 6 低功耗核心的前奏。",
   "en_title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
   "en_oneliner": "AMD is bringing capacity-aware scheduling to the Linux kernel for more efficient use of big and little cores, a move read as groundwork for next year's Zen 6 LP cores."
+ },
+ "https://80.lv/articles/zelda-mario-creator-shigeru-miyamoto-will-get-aias-s-new-legend-award": {
+  "zh_title": "宫本茂将获 AIAS 新设传奇奖",
+  "zh_oneliner": "互动艺术与科学学会将把十年至多颁发一次的新设传奇奖授予《塞尔达》《马里奥》之父宫本茂，肯定他对游戏行业的终身贡献。",
+  "en_title": "Zelda & Mario Creator Shigeru Miyamoto Will Get AIAS's New Legend Award",
+  "en_oneliner": "The Academy of Interactive Arts & Sciences will present its new Legend Award — given no more than once a decade — to Shigeru Miyamoto, creator of Zelda and Mario, in recognition of his lifetime contribution to games."
+ },
+ "https://80.lv/articles/this-free-blender-add-on-lets-you-generate-scatter-animate-fallen-leaves": {
+  "zh_title": "免费 Blender 插件：快速生成、散布并动态化飘落的树叶",
+  "zh_oneliner": "这款免费 Blender 插件能快速生成、散布并让落叶动起来，帮独立开发者几分钟搭出有氛围感的秋日场景。",
+  "en_title": "This Free Blender Add-on Lets You Generate, Scatter & Animate Fallen Leaves",
+  "en_oneliner": "This free Blender add-on generates, scatters and animates fallen leaves, letting indie developers build atmospheric autumn scenes in minutes."
+ },
+ "https://gamedev.net/forums/topic/720788-introducing-sobitech-and-blackout-city-a-turn-based-robot-puzzle-for-mobile": {
+  "zh_title": "Sobitech 带来回合制机器人解谜手游《Blackout City》",
+  "zh_oneliner": "独立团队 Sobitech 正在为移动端开发回合制解谜游戏《Blackout City》，玩家拖动机器人调换位置，为全城断电后的街区恢复供电。",
+  "en_title": "Introducing Sobitech and Blackout City, a turn-based robot puzzle for mobile",
+  "en_oneliner": "Indie team Sobitech is preparing Blackout City for mobile, a turn-based puzzle where you drag robots to swap positions and restore power after a citywide blackout."
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/obs-33-froze-every-controller-overlay-the-bug-is-three-windows-input-apis-deep-3kmn": {
+  "zh_title": "OBS 33 冻住了所有手柄覆盖层，病根藏在三层 Windows 输入 API 里",
+  "zh_oneliner": "OBS Studio 33 发布后所有浏览器源手柄覆盖层都会卡住，作者顺着三层 Windows 输入 API 挖到了病根，给直播开发者一份可复用的排障思路。",
+  "en_title": "OBS 33 froze every controller overlay. The bug is three Windows input APIs deep",
+  "en_oneliner": "After OBS Studio 33 shipped, every browser-source controller overlay froze; the author traces the fault through three layers of Windows input APIs, offering stream developers a reusable debugging approach."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/why-krillion-unlimited-waits-for-15-answers-before-it-trusts-the-crowd-m06": {
+  "zh_title": "《Krillion Unlimited》为何要等够 15 个答案才相信玩家群体",
+  "zh_oneliner": "冷门答案竞猜游戏最难的是让“冷门”有意义，作者分享自己如何用 15 个答案的门槛解决新题无人可比的冷启动问题。",
+  "en_title": "Why Krillion Unlimited Waits for 15 Answers Before It Trusts the Crowd",
+  "en_oneliner": "In a rare-answer quiz game, 'rare' only means something once a crowd exists; the author explains how a 15-answer threshold solves the cold-start problem for new prompts."
+ },
+ "https://www.pocketgamer.biz/candy-crush-being-part-of-the-xbox-family-opens-up-opportunities-to-collaborate-across-iconic-games-characters-and-worlds": {
+  "zh_title": "《Candy Crush Saga》为何联动 Halo、Fallout 等八大 Xbox IP",
+  "zh_oneliner": "为庆祝 Xbox 25 周年，《Candy Crush Saga》新赛季一次联动八个 IP，聊聊头部休闲游戏借主机品牌破圈的打法。",
+  "en_title": "Why Candy Crush Saga tapped Halo, Fallout and more for an Xbox crossover",
+  "en_oneliner": "To mark Xbox's 25th anniversary, Candy Crush Saga's new season teams up with eight IPs at once — a look at how a top casual game borrows console brands to break out of its own audience."
+ },
+ "https://www.pocketgamer.biz/report-south-koreas-mobile-game-downloads-fall-28-as-revenue-holds-near-5bn": {
+  "zh_title": "报告：韩国手游下载量跌 28%，收入仍接近 50 亿美元",
+  "zh_oneliner": "Sensor Tower 新报告显示韩国手游下载量五年间从 5.4 亿跌至 3.9 亿，但内购收入依然坚挺，手游市场正从拼下载转向拼留存与付费。",
+  "en_title": "Report: South Korea's mobile game downloads fall 28% as revenue holds near $5bn",
+  "en_oneliner": "Sensor Tower's new report shows South Korean mobile game downloads fell from 540 million to 390 million over five years while in-app revenue held firm, as the market shifts from chasing downloads to retention and monetisation."
+ },
+ "https://blog.playstation.com/2026/11/17/first-details-on-mlb-the-show-27": {
+  "zh_title": "《MLB The Show 27》首批细节公布",
+  "zh_oneliner": "官方公布《MLB The Show 27》的首批细节并回顾了 2026 年，体育年货新作的玩法与模式走向值得留意。",
+  "en_title": "First details on MLB The Show 27",
+  "en_oneliner": "The team shares the first details on MLB The Show 27 and looks back on 2026, outlining where the annual sports series is headed next."
+ },
+ "https://80.lv/articles/this-trippy-cube-transformation-will-make-your-brain-hurt": {
+  "zh_title": "这个迷幻立方体变形会让你大脑发晕",
+  "zh_oneliner": "作者 higgsas 拆解了这个让人眼花缭乱的立方体变形效果是怎么做的，适合想玩视觉特效的开发者参考。",
+  "en_title": "This Trippy Cube Transformation Will Make Your Brain Hurt",
+  "en_oneliner": "Creator higgsas breaks down how he built this mind-bending cube transformation — a handy reference for developers experimenting with visual effects."
  }
 }
