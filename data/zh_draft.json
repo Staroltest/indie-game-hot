@@ -14842,5 +14842,35 @@
   "zh_oneliner": "黄仁勋表示愿意接受复职，但英伟达董事会并不打算请他回来，这场重返传闻就此画上句号。",
   "en_title": "Jensen Huang isn't coming back, says Nvidia board",
   "en_oneliner": "Huang said he would accept reinstatement, but Nvidia's board isn't offering it, closing the door on his return."
+ },
+ "https://www.indiedb.com/games/signs-of-fear-the-hunt-of-graystone/news/announcing-signs-of-fear-the-hunt-of-graystone-now-available-for-wishlist": {
+  "zh_title": "《恐惧征兆：格雷斯通的狩猎》开启愿望单",
+  "zh_oneliner": "以 19 世纪美国边疆为背景的第一人称恐怖冒险，现已上架 Steam 开启愿望单。",
+  "en_title": "Announcing Signs of Fear - The Hunt of Graystone: Now available for Wishlist",
+  "en_oneliner": "A first-person horror adventure set on the 19th-century American frontier, now available to wishlist on Steam."
+ },
+ "https://www.indiedb.com/games/tome-of-ruin-the-word-dungeon/news/tome-of-ruin-the-word-dungeon-a-dark-fantasy-rpg-where-every-word-is-a-weapon": {
+  "zh_title": "《毁灭之书：文字地牢》：每个单词都是一件武器",
+  "zh_oneliner": "在这款黑暗奇幻 RPG 里，拼写单词就是攻击手段，200 层、8 座地牢等你刷五星战利品，12 月 7 日登陆 Steam，免费试玩版即将推出。",
+  "en_title": "Tome of Ruin: The Word Dungeon – a dark fantasy RPG where every word is a weapon",
+  "en_oneliner": "In this dark fantasy RPG, spelling words is how you strike — chase five-star loot through 200 floors and 8 dungeons when it lands on Steam on 7 December 2026, with a free demo on the way."
+ },
+ "https://dev.to/sbdmarketing/save-points-for-law-firm-intake-forms-a-game-design-lesson-58f9": {
+  "zh_title": "从游戏存档点看律所 intake 表单设计",
+  "zh_oneliner": "现代游戏把进度丢失算作设计失误、悄悄在合理时机自动存档，这篇把同一思路搬到律所 intake 表单上，聊聊如何别让填表人因一次中断就前功尽弃。",
+  "en_title": "Save Points for Law Firm Intake Forms: A Game Design Lesson",
+  "en_oneliner": "Modern games treat lost progress as a design failure and autosave quietly at sensible moments — this piece applies the same thinking to law firm intake forms, so one interruption doesn't wipe out everything a stressed visitor typed."
+ },
+ "https://dev.to/master4824/gta4-reversed-starting-a-c20-runtime-reimplementation-of-gta-iv-1070-crossing-1-e5": {
+  "zh_title": "gta4-reversed：用 C++20 运行时重实现 GTA IV，进度突破 1%",
+  "zh_oneliner": "这个开源项目直接对 PC 版 GTA IV 1.0.7.0 可执行文件做运行时 ASI 注入重写，现已实现 462 个函数、跨过 1% 里程碑，代码按 MIT 协议开源。",
+  "en_title": "gta4-reversed: Starting a C++20 Runtime Reimplementation of GTA IV (1.0.7.0) — Crossing 1%",
+  "en_oneliner": "An open-source C++20 project that reimplements the PC GTA IV 1.0.7.0 binary at runtime via ASI injection, now past its first milestone with 462 of 43,740 functions done; the code is MIT-licensed and ships no game files."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game": {
+  "zh_title": "迈阿密热火亮出“罪恶都市”主题地板，迎战 GTA 6 篮球之夜",
+  "zh_oneliner": "热火队为配合 GTA 6 主题篮球赛换上了罪恶都市风格的球场地板和新球衣，算是一次挺有意思的跨界联动。",
+  "en_title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
+  "en_oneliner": "The Heat rolled out Vice City-themed court flooring and new uniforms ahead of a Grand Theft Auto 6-themed basketball night — a neat bit of cross-promotion between the NBA and Rockstar's Miami."
  }
 }
