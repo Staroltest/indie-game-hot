@@ -13960,5 +13960,35 @@
   "zh_oneliner": "不用现成模型也不用照片贴图，这位 Blender 艺术家演示了如何从零开始做出一片逼真的树叶。",
   "en_title": "Blender Artist Shows How To Create Realistic Leaf From Scratch",
   "en_oneliner": "No pre-made models or photo textures involved — this Blender artist shows how to create a realistic leaf entirely from scratch."
+ },
+ "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai": {
+  "zh_title": "“游戏最好由人来做”：欧洲多国游戏工会联合发布宣言，呼吁抵制生成式 AI",
+  "zh_oneliner": "英国 IWGB 等欧洲五国游戏工会联合发声，指出生成式 AI 正在损害游戏行业与从业者，并给出从业者、雇主与玩家各自能采取的应对行动。",
+  "en_title": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
+  "en_oneliner": "Game worker unions from five European countries jointly warn that generative AI is harming the games industry and its workers, and lay out actions workers, employers and players can take in response."
+ },
+ "https://dev.to/nan_nan_d86f644d31091c00f/texforge-is-out-a-open-source-image-workbench-for-games-and-batch-work-3e66": {
+  "zh_title": "开源图像工作台 TexForge 发布：为游戏美术与批量处理而生",
+  "zh_oneliner": "一款 MIT 协议的跨平台桌面工具，把法线贴图、通道打包、Mipmap 链与批量处理等 113 个图像操作收进一个工作台，覆盖 Unity、Unreal、Godot 等引擎的美术管线。",
+  "en_title": "TexForge is out: a open-source image workbench for games and batch work",
+  "en_oneliner": "An MIT-licensed cross-platform desktop app that folds normal maps, channel packing, mipmap chains and 113 batch image actions into one workbench for Unity, Unreal, Godot and other engines."
+ },
+ "https://dev.to/giftclub/how-a-mines-multiplier-is-calculated-1-edge-psurvive-in-javascript-29fn": {
+  "zh_title": "Mines 倍率是怎么算出来的：(1 - 庄家优势) / 存活概率，附 JavaScript 实现",
+  "zh_oneliner": "用概率推导扫雷式网格游戏的倍率公式，指出其中两个容易踩的坑，并给出可直接运行的 JavaScript 代码。",
+  "en_title": "How a Mines multiplier is calculated: (1 - edge) / P(survive), in JavaScript",
+  "en_oneliner": "A probability-first derivation of the Mines multiplier formula, flagging two easy mistakes and providing JavaScript code you can run as-is."
+ },
+ "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama": {
+  "zh_title": "《勇者斗恶龙》该退休了吗？《时空之轮》作曲家光田康典如是说",
+  "zh_oneliner": "在鸟山明去世后，《时空之轮》作曲家光田康典反思了《勇者斗恶龙》系列的走向，认为 Square Enix 或许该考虑让这个系列落幕。",
+  "en_title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+  "en_oneliner": "Chrono Trigger composer Yasunori Mitsuda reflects on Dragon Quest's direction after Akira Toriyama's death and suggests Square Enix may need to consider retiring the series."
+ },
+ "https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us": {
+  "zh_title": "Zynga 虚拟工作室 Access All Areas 扩展至印度、加拿大与美国",
+  "zh_oneliner": "这个免费线上项目用 360 度虚拟参观与业内人士访谈，向年轻人介绍游戏开发职业，继英国之后又覆盖了三个国家。",
+  "en_title": "Zynga expands Access All Areas virtual studio to India, Canada and US",
+  "en_oneliner": "The free online programme introduces young people to game development careers through a 360-degree virtual studio tour and interviews with industry professionals, now expanding from the UK to three more countries."
  }
 }
