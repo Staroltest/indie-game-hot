@@ -14314,5 +14314,65 @@
   "zh_oneliner": "一次 45 分钟的实战剖析，讲如何在中端 Android 设备上排查内存与帧时间问题。",
   "en_title": "Profiling a Mid-Range Android Build: A 45-Minute Memory and Frame-Time Pass",
   "en_oneliner": "A 45-minute hands-on profiling pass on memory and frame time for a mid-range Android build."
+ },
+ "https://dev.to/amran_ali_029a2ae4a7ae04c/try-my-new-game-memory-vault-magic-memory-cards-1lcp": {
+  "zh_title": "试试我的新游戏：Memory Vault——魔法记忆卡牌！",
+  "zh_oneliner": "一款魔法主题的记忆配对小游戏，翻牌破咒、解锁古老宝库的秘密，适合想快速做个休闲小品练手的开发者参考。",
+  "en_title": "Try My New Game: Memory Vault - Magic Memory Cards! 🔮",
+  "en_oneliner": "A magic-themed memory-matching mini-game about flipping enchanted cards to break a dark spell — a handy reference for devs prototyping a quick casual game."
+ },
+ "https://dev.to/zentaolabs/list-missing-osu-skin-files-with-python-before-you-upload-the-osk-80g": {
+  "zh_title": "用 Python 在上传 .osk 之前列出缺失的 osu! 皮肤文件",
+  "zh_oneliner": "分享一段 Python 脚本，在打包上传前自动检查 osu! 皮肤缺失的贴图与音效文件，避免皮肤上线后才发现缺素材。",
+  "en_title": "List missing osu! skin files with Python before you upload the .osk",
+  "en_oneliner": "A Python script that checks an osu! skin for missing sprites and hitsounds before you upload the .osk, so nothing ships broken."
+ },
+ "https://dev.to/imran_joia_2cb09dea15cf58/try-my-new-game-memory-vault-magic-memory-cards-458a": {
+  "zh_title": "试试我的新游戏：Memory Vault——魔法记忆卡牌！",
+  "zh_oneliner": "同一款魔法记忆配对小游戏的另一篇发布帖，玩法是翻牌配对、破解咒语，适合参考休闲小游戏的发布打法。",
+  "en_title": "Try My New Game: Memory Vault - Magic Memory Cards! 🔮",
+  "en_oneliner": "Another launch post for the same magic memory-matching game — flip cards, break the spell, and a look at how a tiny casual game gets announced."
+ },
+ "https://dev.to/pavel_kleschenok_6548f96a/making-3d-bowling-run-on-a-2019-tv-browser-chromium-79-phones-as-controllers-3b1p": {
+  "zh_title": "让 3D 保龄球跑在 2019 年的电视浏览器上（Chromium 79，手机当手柄）",
+  "zh_oneliner": "讲怎么把 3D 保龄球塞进老电视的 Chromium 79 浏览器，还能拿手机当控制器，聚会场景的轻量多人玩法值得借鉴。",
+  "en_title": "Making 3D bowling run on a 2019 TV browser (Chromium 79, phones as controllers)",
+  "en_oneliner": "How to squeeze a 3D bowling game into a 2019 TV's Chromium 79 browser with phones as controllers — a neat trick for lightweight party multiplayer."
+ },
+ "https://dev.to/basteez/wild-shift-devlog-5-someone-else-played-it-39om": {
+  "zh_title": "《Wild Shift》开发日志 #5：终于有人玩了",
+  "zh_oneliner": "GitHub Game Off 2026 参赛作《Wild Shift》的第五篇开发日志，讲别人第一次上手试玩后的反馈，以及存档、手柄与练习模式的打磨。",
+  "en_title": "Wild Shift Devlog #5: Someone else played it",
+  "en_oneliner": "The fifth devlog for GitHub Game Off 2026 entry Wild Shift, on what happened when someone else finally played it, plus save, gamepad and practice-mode polish."
+ },
+ "https://dev.to/makerio/what-the-first-60-seconds-of-two-idle-browser-games-taught-us-with-real-numbers-3l5h": {
+  "zh_title": "两款放置类网页游戏的前 60 秒教会了我们什么（附真实数据）",
+  "zh_oneliner": "用两款 1.6MB 纯 JS 放置小游戏的真实数据，拆解开局 60 秒的留存关键，给做网页放置游戏的开发者一份实测参考。",
+  "en_title": "What the first 60 seconds of two idle browser games taught us (with real numbers)",
+  "en_oneliner": "Real numbers from two tiny 1.6 MB JavaScript idle games break down what keeps players past the first 60 seconds — practical data for web idle-game devs."
+ },
+ "https://dev.to/juegotech/unreal-insights-in-the-sprint-a-short-performance-pass-you-can-finish-before-standup-i3b": {
+  "zh_title": "冲刺里的 Unreal Insights：站会前就能做完的一次短性能排查",
+  "zh_oneliner": "教你在站会前用 Unreal Insights 快速过一遍性能瓶颈，把 profiling 变成日常习惯，而不是等到卡顿了才救火。",
+  "en_title": "Unreal Insights in the Sprint: A Short Performance Pass You Can Finish Before Standup",
+  "en_oneliner": "A quick Unreal Insights performance pass you can finish before standup, turning profiling into a routine instead of a fire drill."
+ },
+ "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox": {
+  "zh_title": "GDC 调查：开发者更想为 Switch 2 做游戏，而非 PS5 或 Xbox",
+  "zh_oneliner": "GDC 最新行业调查显示，开发者对 Switch 2 平台的兴趣超过 PS5 与 Xbox，附带 AI、裁员等话题的行业现状数据。",
+  "en_title": "GDC Survey Suggests Devs Want To Make Games For Switch 2 More Than PS5 Or Xbox",
+  "en_oneliner": "GDC's latest industry survey finds developers more interested in making games for Switch 2 than for PS5 or Xbox, alongside data on AI and layoffs."
+ },
+ "https://www.pcgamer.com/hardware/memory/i-want-to-be-clear-i-want-people-to-have-a-lot-of-ram-says-sam-altman-weeks-after-seeming-to-say-the-opposite": {
+  "zh_title": "Sam Altman：“我要说清楚，我希望大家都有很多内存”，几周前他似乎还说过相反的话",
+  "zh_oneliner": "Sam Altman 就内存表态再作澄清，称此前言论被断章取义；硬件成本话题与游戏开发的内存预算多少有点关系。",
+  "en_title": "'I want to be clear, I want people to have a lot of RAM' says Sam Altman, weeks after seeming to say the opposite",
+  "en_oneliner": "Sam Altman clarifies his remarks on RAM, saying they were taken out of context — a hardware-cost talking point with some relevance to memory budgets in game dev."
+ },
+ "https://www.rockpapershotgun.com/embracer-begin-yet-another-round-of-layoffs-at-crystal-dynamics-while-theyre-still-midway-through-development-on-two-tomb-raider-games": {
+  "zh_title": "Embracer 又在 Crystal Dynamics 裁员，两款《古墓丽影》仍在开发中",
+  "zh_oneliner": "Embracer 再次裁减《古墓丽影》工作室 Crystal Dynamics 的人手，而两款新作还在开发途中，行业裁员潮仍在继续。",
+  "en_title": "Embracer begin yet another round of layoffs at Crystal Dynamics, while they're still midway through development on two Tomb Raider games",
+  "en_oneliner": "Embracer is cutting staff at Tomb Raider studio Crystal Dynamics yet again, with two Tomb Raider games still mid-development — the industry's layoff wave rolls on."
  }
 }
