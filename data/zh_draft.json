@@ -13714,5 +13714,23 @@
   "zh_oneliner": "多数问答游戏只奖励答对，但“最稀有答案”机制让冷门知识也有价值，本文拆解了这种玩法的设计思路。",
   "en_title": "Building Better Browser Trivia Games: Why Rare Answers Beat Fast Answers",
   "en_oneliner": "Most trivia games only reward correct answers, while rarest-answer scoring gives obscure knowledge real value, and this piece breaks down how that design works."
+ },
+ "https://www.indiedb.com/mods/infantry-ragdoll-physics-irp/news/infantry-ragdoll-physics-v2061-game-1068-update": {
+  "zh_title": "《Infantry Ragdoll Physics》v2.0.61：适配游戏 1.068 更新",
+  "zh_oneliner": "这款步兵布娃娃物理模组已适配游戏 1.068，阵亡士兵会化作 Jolt 物理布娃娃，依据死法落在建筑、沙袋、树木和尸体上。",
+  "en_title": "Infantry Ragdoll Physics v2.0.61: Game 1.068 Update",
+  "en_oneliner": "This infantry ragdoll physics mod now runs on game 1.068, turning fallen soldiers into Jolt physics ragdolls that land on buildings, sandbags, trees and other bodies depending on how they died."
+ },
+ "https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6": {
+  "zh_title": "EA 可不希望你为了给《GTA 6》腾地方删掉《Madden NFL 27》",
+  "zh_oneliner": "主机存储空间本就紧张，EA 显然不希望玩家为了迎接《GTA 6》而删掉《Madden NFL 27》，这篇报道聊的是大作发售季里的存储空间争夺。",
+  "en_title": "EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6",
+  "en_oneliner": "With console storage already stretched thin, EA would rather players didn't delete Madden NFL 27 to make room for GTA 6 — a look at the storage squeeze around big release season."
+ },
+ "https://www.youxituoluo.com/535068.html": {
+  "zh_title": "BLG捧杯点燃电竞热度，年内电竞相关企业注册量超去年全年",
+  "zh_oneliner": "BLG 捧起召唤师奖杯后电竞热度再起，今年电竞相关企业注册量已超过去年全年，赛事联名与观赛消费也在拉动产业链。",
+  "en_title": "BLG's Championship Ignites Esports Buzz as New Esports Company Registrations Surpass Last Year's Total",
+  "en_oneliner": "After BLG lifted the Summoner's Cup, esports buzz surged and new esports-related company registrations this year have already topped last year's total, with merch collabs and cinema watch parties driving the industry."
  }
 }
