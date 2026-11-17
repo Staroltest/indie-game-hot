@@ -14200,5 +14200,77 @@
   "zh_oneliner": "《GTA 6》确认加入 62 种鸟类，虽不及佛罗里达真实的 500 多种，但足见 3A 开放世界在生态细节上的投入。",
   "en_title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
   "en_oneliner": "GTA 6 will feature 62 bird species — short of Florida's 500-plus native species, but a telling sign of how much AAA open worlds invest in ecological detail."
+ },
+ "https://www.unrealengine.com/spotlights/expanding-anymas-coachella-performance-into-broadcast-ar-with-unreal-engine": {
+  "zh_title": "用 Unreal Engine 把 Anyma 的 Coachella 演出扩展为广播 AR",
+  "zh_oneliner": "Anyma 的 Coachella 现场借助 Unreal Engine、MetaHuman 与广播 AR 技术，把音乐视觉体验带给了线上观众。",
+  "en_title": "Expanding Anyma’s Coachella performance into broadcast AR with Unreal Engine",
+  "en_oneliner": "Anyma's Coachella show used Unreal Engine, MetaHuman and broadcast AR to bring its live-music visuals to a wide online audience."
+ },
+ "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6": {
+  "zh_title": "《Tanuki: Pon's Summer》甘当《时之笛》与《GTA 6》之间的“可爱小黑马”",
+  "zh_oneliner": "多数游戏都避开了《时之笛》重制版与《GTA 6》之间的档期，Denkiworks 却偏偏让首作《Tanuki: Pon's Summer》在夹缝中发售，而且是深思熟虑的决定。",
+  "en_title": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6",
+  "en_oneliner": "While most games fled the release window between the Ocarina of Time remake and GTA 6, Denkiworks deliberately launched its debut Tanuki: Pon's Summer right in the middle of it."
+ },
+ "https://www.rockpapershotgun.com/im-not-saying-sleeping-dogs-is-the-worlds-best-life-of-crime-sim-but-no-other-game-has-replicated-the-importance-of-pork-buns-to-whole-manhood-as-deftly": {
+  "zh_title": "我不是说《Sleeping Dogs》是世上最好的犯罪模拟游戏，但没有哪款游戏像它一样讲清了叉烧包的分量",
+  "zh_oneliner": "多年后重温《Sleeping Dogs》，它依然独树一帜，介于 GTA 的讥讽与《黑道圣徒》的荒诞之间，自成一派。",
+  "en_title": "I'm not saying Sleeping Dogs is the world's best life of crime sim, but no other game has replicated the importance of pork buns to whole manhood as deftly",
+  "en_oneliner": "Revisiting Sleeping Dogs years later, it still holds its own corner between GTA's sneering arrogance and Saints Row's chaotic nonchalance."
+ },
+ "https://www.gcores.com/radios/222327": {
+  "zh_title": "谁能告诉我，Roguelike到底是什么：详细介绍“柏林诠释”",
+  "zh_oneliner": "从“柏林诠释”出发，梳理 Roguelike 从 80 年代延续至今的概念源流，帮开发者想清楚这一品类的趣味到底来自哪里。",
+  "en_title": "What Exactly Is a Roguelike? A Close Look at the 'Berlin Interpretation'",
+  "en_oneliner": "Starting from the 'Berlin Interpretation', this piece traces the roguelike concept from the 1980s to today to pin down where the genre's appeal really comes from."
+ },
+ "https://www.gcores.com/articles/222457": {
+  "zh_title": "开始一场棋境冒险！策略新游《王国棋境》新pv公开，Demo版本将于 11 月 17 日登录steam",
+  "zh_oneliner": "卡牌建造加空间管理的异步自走棋新游《王国棋境》放出新 PV，Demo 于 11 月 17 日登陆 Steam 自走棋游戏节。",
+  "en_title": "Kingdom Chessrealm: New PV for the Strategy Game, Demo Coming to Steam on November 17",
+  "en_oneliner": "The async auto-battler Kingdom Chessrealm, built on card drafting and spatial management, releases a new PV with its demo arriving on Steam on November 17."
+ },
+ "https://dev.to/aplusgamesstudio/cross-play-and-cross-progression-how-they-work-i6e": {
+  "zh_title": "跨平台联机与跨平台进度是怎么实现的",
+  "zh_oneliner": "跨平台联机靠共享服务器与统一协议，跨平台进度靠独立于平台的账号与云存档，后者成本更低、往往也更有价值。",
+  "en_title": "Cross-Play and Cross-Progression: How They Work",
+  "en_oneliner": "Cross-play needs shared servers and a common protocol, while cross-progression rests on a platform-independent account and cloud saves — the cheaper feature, and often the more valuable one."
+ },
+ "https://dev.to/mia_pu_cea9dd9d29db42cba4/how-modern-slot-games-are-built-a-developers-look-at-rng-and-multiplier-reels-2m3m": {
+  "zh_title": "现代老虎机游戏是怎么做的：从 RNG 与倍率转轴看开发者视角",
+  "zh_oneliner": "三轴老虎机看似简单，实则是对正确性要求极严的实时系统，文章以有种子随机数、状态机与赔付表拆解其结构。",
+  "en_title": "How Modern Slot Games Are Built: A Developer's Look at RNG and Multiplier Reels",
+  "en_oneliner": "Beneath three reels and a spin button, a modern slot game is a strict real-time system — this walkthrough breaks down its seeded RNG, state machine and payout tables."
+ },
+ "https://dev.to/huckler/i-drive-a-taxi-by-day-and-ship-two-products-by-night-here-are-the-numbers-kh0": {
+  "zh_title": "白天开出租、晚上做产品：一位独立开发者的真实数字",
+  "zh_oneliner": "失业十一个月后，他白天开十二小时出租、夜里做产品，如今一款 Windows 应用已上架微软商店，另一款游戏正接受玩家测试。",
+  "en_title": "I Drive a Taxi by Day and Ship Two Products by Night. Here Are the Numbers.",
+  "en_oneliner": "Eleven months after losing his warehouse job, he drives a taxi ten to twelve hours a day and builds products at night — a Windows app now on the Microsoft Store and a game strangers test for free."
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us": {
+  "zh_title": "任天堂 Switch 2 假日体验活动下月或将来到你附近的城市（美国）",
+  "zh_oneliner": "任天堂宣布 Switch 2 假日体验快闪活动将于 11 月 25 日至 12 月 23 日在美国多座城市巡回，提供多款游戏的掌机与主机模式试玩。",
+  "en_title": "Nintendo's 'Switch 2 Holiday Experience' Might Be Coming To A City Near You Next Month (US)",
+  "en_oneliner": "Nintendo's Switch 2 Holiday Experience pop-up tours select US cities from November 25 to December 23, with hands-on demos of this year's hits in handheld and docked mode."
+ },
+ "https://www.indiedb.com/games/dread-omen/news/survival-horror-dread-omen-reveal": {
+  "zh_title": "生存恐怖新作《Dread Omen》公开",
+  "zh_oneliner": "以克苏鲁神话为灵感的生存恐怖新作《Dread Omen》公开，融合经典《生化危机》式玩法与桌游元素，支持固定视角与越肩视角切换。",
+  "en_title": "Survival-Horror Dread Omen Reveal",
+  "en_oneliner": "Dread Omen is a fresh take on Lovecraftian horror from a Resident Evil fan, blending classic survival-horror gameplay with board-game inspiration and offering both fixed camera angles and over-the-shoulder view."
+ },
+ "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027": {
+  "zh_title": "《Hounded》公开：与狗狗一起的手作冒险，2027 年登陆 PS5",
+  "zh_oneliner": "手作冒险游戏《Hounded》公开，2027 年登陆 PS5，玩家将与狗狗伙伴一起踏上冒险。",
+  "en_title": "Introducing Hounded: Crafting the dog adventure coming to PS5 in 2027",
+  "en_oneliner": "Hounded, a crafting dog adventure from Imprnt Studios and Silver Lining Interactive, is coming to PS5 in 2027."
+ },
+ "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free": {
+  "zh_title": "Roblox 推出创作者计划，开发者可免费把游戏带上平台",
+  "zh_oneliner": "Roblox 推出新的创作者计划，开发者可以免费把已有游戏移植到 Roblox 平台。",
+  "en_title": "Roblox launches creator program for devs to bring games to its platform for free",
+  "en_oneliner": "Roblox has launched a new creator program that lets developers bring their existing games to its platform for free."
  }
 }
