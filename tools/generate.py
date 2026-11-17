@@ -224,6 +224,11 @@ def parse_feed(body, source):
         summary_full = complete_para(summary, 1500) if len(summary) > 200 else ""
         pub = parse_date(fields.get("pubDate") or fields.get("published")
                          or fields.get("updated"))
+        # 个别源把北京时间标成 GMT（如游戏陀螺，见 sources.json 的
+        # pubdate_shift_hours）：按源配置平移已解析时间，修正后的才是真 UTC。
+        shift = source.get("pubdate_shift_hours")
+        if pub is not None and shift:
+            pub = pub + timedelta(hours=shift)
         item = {
             "title": title,
             "link": link,

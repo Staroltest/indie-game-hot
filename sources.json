@@ -222,6 +222,7 @@
       "category_hint": "industry",
       "id": "youxituoluo",
       "name": "游戏陀螺",
+      "pubdate_shift_hours": -8,
       "tier": "T3",
       "url": "https://www.youxituoluo.com/feed"
     },
