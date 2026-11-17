@@ -13990,5 +13990,89 @@
   "zh_oneliner": "这个免费线上项目用 360 度虚拟参观与业内人士访谈，向年轻人介绍游戏开发职业，继英国之后又覆盖了三个国家。",
   "en_title": "Zynga expands Access All Areas virtual studio to India, Canada and US",
   "en_oneliner": "The free online programme introduces young people to game development careers through a 360-degree virtual studio tour and interviews with industry professionals, now expanding from the UK to three more countries."
+ },
+ "https://dev.to/tora_scripts/roblox-studio-version-747-speeds-up-native-code-native-4nd1": {
+  "zh_title": "Roblox Studio 747 版让原生代码（--!native）跑得更快",
+  "zh_oneliner": "Roblox Studio 747 优化了 --!native 原生代码，CFrame 与向量乘法提速最高 2 倍，实例交互也更快，写 Luau 性能敏感代码的开发者值得留意。",
+  "en_title": "Roblox Studio Version 747 Speeds Up Native Code (--!native)",
+  "en_oneliner": "Roblox Studio 747 speeds up --!native code, with CFrame and vector math up to 2x faster — a handy win for developers writing performance-sensitive Luau."
+ },
+ "https://dev.to/cendyandreoli/undefined-441b": {
+  "zh_title": "用代码实现巴西多米诺：batida、carroça、lá-e-lô 与 cruzada",
+  "zh_oneliner": "一篇用代码还原巴西酒吧多米诺规则的实践分享，不同的收尾方式对应不同的计分，适合想练手写棋牌规则逻辑的开发者参考。",
+  "en_title": "Coding Brazilian domino: batida, carroça, lá-e-lô and cruzada",
+  "en_oneliner": "A hands-on walkthrough of coding Brazilian bar domino rules, where how you finish a round changes the score — useful reference for developers practicing board-game logic."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee": {
+  "zh_title": "英伟达收紧国家安全政策管控，新设董事会直属委员会",
+  "zh_oneliner": "英伟达新设由董事会直接管辖的委员会来把控国家安全相关政策，显示芯片巨头正把合规提升到公司治理层面，值得关注硬件生态的开发者留意。",
+  "en_title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+  "en_oneliner": "Nvidia has set up a board-controlled committee to oversee its national-security policies, a sign the chip giant is moving compliance up to the governance level."
+ },
+ "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward": {
+  "zh_title": "《使命召唤》差点变成中世纪骑士游戏：Infinity Ward 的实验原型",
+  "zh_oneliner": "据报道 Infinity Ward 曾试验把《使命召唤》做成中世纪题材，枪炮坦克换成骑士长剑，展现了大系列在立项期也曾认真考虑过彻底换皮。",
+  "en_title": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out",
+  "en_oneliner": "Infinity Ward reportedly prototyped a medieval take on Call of Duty, swapping guns and tanks for knights and swords — a look at how even a flagship series weighs a radical reskin early on."
+ },
+ "https://www.pocketgamer.biz/how-xbox-game-camp-africa-works-and-why-its-open-to-mobile-developers": {
+  "zh_title": "Xbox 非洲游戏营如何运作，以及为何向手游开发者开放",
+  "zh_oneliner": "Xbox 非洲游戏营 2026 届从 75 多家申请者中选出 16 家非洲工作室，文章拆解了它的选拔与扶持机制，对关注新兴市场与发行扶持的开发者有参考价值。",
+  "en_title": "How Xbox Game Camp Africa works and why it's open to mobile developers",
+  "en_oneliner": "Xbox Game Camp Africa picked 16 African studios from over 75 applicants for 2026; the piece breaks down how the program works and why it welcomes mobile developers."
+ },
+ "https://80.lv/articles/andrew-garfield-who-plays-sam-altman-in-artificial-wonders-how-openai-ceo-sleeps-at-night": {
+  "zh_title": "饰演 Sam Altman 的 Andrew Garfield 好奇：OpenAI CEO 晚上怎么睡得着",
+  "zh_oneliner": "在电影《Artificial》中饰演 Sam Altman 的 Andrew Garfield 谈到，他很好奇这位 OpenAI 首席执行官面对种种争议时晚上如何安眠，一段演员视角的行业侧写。",
+  "en_title": "Andrew Garfield, Who Plays Sam Altman in Artificial, Wonders How OpenAI CEO Sleeps at Night",
+  "en_oneliner": "Andrew Garfield, who plays Sam Altman in the film Artificial, wonders how the OpenAI CEO sleeps at night — an actor's-eye side note on the industry."
+ },
+ "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer": {
+  "zh_title": "评测：《TANUKI: Pon's Summer》（Switch 2）——骑 BMX 送快递的治愈小游戏",
+  "zh_oneliner": "《TANUKI: Pon's Summer》是一款扮演狸猫快递员、在小镇骑 BMX 送件的治愈系小游戏，评测认为它轻松可爱，适合想找轻量灵感的开发者一瞥。",
+  "en_title": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames",
+  "en_oneliner": "TANUKI: Pon's Summer is a cosy game about a tanuki postie delivering parcels around town by BMX — a light, charming watch for developers hunting small-game inspiration."
+ },
+ "https://www.indiedb.com/games/nerathol-wrath-of-the-deep/news/nerathol-wrath-of-the-deep-is-out-become-the-kraken": {
+  "zh_title": "《Nerathol：深渊之怒》已发售：化身海怪出击",
+  "zh_oneliner": "独立游戏《Nerathol：深渊之怒》正式发售，玩家将化身海怪在深海中展开冒险，开发团队分享了上线消息。",
+  "en_title": "Nerathol - Wrath of the Deep is out: become the kraken!",
+  "en_oneliner": "Indie game Nerathol: Wrath of the Deep is out, letting players become the kraken in a deep-sea adventure."
+ },
+ "https://www.indiedb.com/games/iron-swarm/news/bigger-ants-with-guns": {
+  "zh_title": "《Iron Swarm》：更大、还拿着枪的蚂蚁",
+  "zh_oneliner": "《Iron Swarm》开发日志介绍了新加入的持枪大蚂蚁敌人，展示了独立团队如何给虫群战术玩法加料。",
+  "en_title": "Bigger Ants with Guns",
+  "en_oneliner": "The Iron Swarm devlog introduces bigger gun-toting ant enemies, showing how an indie team spices up swarm tactics."
+ },
+ "https://www.indiedb.com/games/chronicles-of-denzar/news/november-update-thanksgiving-event": {
+  "zh_title": "《Chronicles of Denzar》十一月更新：感恩节活动",
+  "zh_oneliner": "《Chronicles of Denzar》十一月更新带来感恩节主题活动，开发团队借节日内容保持玩家活跃度。",
+  "en_title": "November Update: Thanksgiving Event",
+  "en_oneliner": "Chronicles of Denzar's November update brings a Thanksgiving event, using seasonal content to keep players engaged."
+ },
+ "https://www.indiedb.com/games/atomic-astra-the-ninth-horizon-aurelia-awakens/news/the-elietes-are-awakening-five-creatures-taking-shape-in-godot": {
+  "zh_title": "精英生物正在苏醒：Godot 打造的五只新生物成型",
+  "zh_oneliner": "《Atomic Astra》开发日志展示了用 Godot 制作的五只精英生物逐步成型的过程，适合关注 Godot 实战的开发者参考。",
+  "en_title": "THE ELIETES ARE AWAKENING — Five Creatures Taking Shape in Godot",
+  "en_oneliner": "The Atomic Astra devlog shows five elite creatures taking shape in Godot — a useful look at Godot in practice."
+ },
+ "https://www.indiedb.com/games/sol-divided/news/version-092-a-big-balance-pass-and-stronger-base-defences": {
+  "zh_title": "《Sol Divided》0.9.2 版：大规模平衡调整与更强的基地防御",
+  "zh_oneliner": "《Sol Divided》0.9.2 版本做了一轮大规模数值平衡，并强化了基地防御，开发团队分享了调优思路。",
+  "en_title": "Version 0.9.2: a big balance pass and stronger base defences",
+  "en_oneliner": "Sol Divided 0.9.2 brings a big balance pass and stronger base defences, with the team sharing its tuning approach."
+ },
+ "https://www.indiedb.com/games/zero-point/news/a-fault-line-opens-on-day-11": {
+  "zh_title": "《Zero Point》：第 11 天，一道断层裂开",
+  "zh_oneliner": "《Zero Point》开发日志记录到第 11 天，游戏世界里裂开了一道断层，开发者分享了事件系统的推进过程。",
+  "en_title": "A Fault Line Opens on Day 11",
+  "en_oneliner": "The Zero Point devlog reaches day 11, as a fault line opens in the game world — a peek at the event system in progress."
+ },
+ "https://www.indiedb.com/games/iridium-bones/news/energy-system-in-my-game": {
+  "zh_title": "《Iridium Bones》：我游戏里的能量系统",
+  "zh_oneliner": "《Iridium Bones》开发者分享了自己游戏能量系统的设计，讲了资源循环如何支撑玩法节奏。",
+  "en_title": "Energy system in my game",
+  "en_oneliner": "The Iridium Bones developer shares how the game's energy system is designed and how its resource loop drives the pace."
  }
 }
