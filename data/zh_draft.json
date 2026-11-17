@@ -13882,5 +13882,83 @@
   "zh_oneliner": "一位 Modder 自己动手给 Steam Frame 做了 Steam Controller 追踪支持，并表示至少会维护到 Valve 推出官方支持为止。",
   "en_title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
   "en_oneliner": "A modder beat Valve to it, adding Steam Controller tracking support for the Steam Frame — and plans to maintain it at least until Valve ships official support."
+ },
+ "https://gamedev.net/forums/topic/720853-panda3d-developers-this-is-for-you": {
+  "zh_title": "Panda3D 开发者看过来：有偿远程项目招募中",
+  "zh_oneliner": "micro1 正在招募有经验的 Panda3D 开发者参与有偿远程项目，把实战经验用在 AI 与 3D 游戏开发上。",
+  "en_title": "Panda3D Developers, this is for you!",
+  "en_oneliner": "micro1 is hiring experienced Panda3D developers for a paid remote project, putting hands-on engine expertise to work on AI and 3D game development."
+ },
+ "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games": {
+  "zh_title": "Xbox 澄清 Project Helix：它首先是主机，而非“能玩主机游戏的 PC”",
+  "zh_oneliner": "Xbox 次世代负责人 Jason Ronald 明确 Project Helix 的定位是“能玩游戏的主机”，而非“也能玩主机游戏的 PC”，给新硬件定了调。",
+  "en_title": "Xbox's Project Helix \"is not a PC that can also play console games\"",
+  "en_oneliner": "Xbox's Jason Ronald clarified that Project Helix is designed as a console that can also play games, not a PC that can also play console games, setting the positioning for the next hardware."
+ },
+ "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months": {
+  "zh_title": "Unity 推出 Fellowship 计划：向一年内发售游戏的独立开发者提供 5 万美元无偿还资助",
+  "zh_oneliner": "Unity 新设 Fellowship 资助计划，向计划 12 个月内发售游戏的 Unity 独立开发者提供 5 万美元现金，无需偿还、不分成、不干预创作。",
+  "en_title": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
+  "en_oneliner": "Unity's new Fellowship program offers a $50,000 no-recoup grant to indie developers using Unity who plan to launch within 12 months, with no revenue share or creative control attached."
+ },
+ "https://80.lv/articles/the-weather-channel-has-shared-new-screenshots-of-gta-6-s-dynamic-weather": {
+  "zh_title": "气象频道分享《GTA 6》动态天气新截图",
+  "zh_oneliner": "新截图展示了 Leonida 的暴雨、风暴、海雾与薄雾，呈现《GTA 6》动态天气系统的视觉效果。",
+  "en_title": "The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather",
+  "en_oneliner": "The new screenshots show heavy rain, storms, sea fog and mist across Leonida, offering a look at GTA 6's dynamic weather."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early": {
+  "zh_title": "《WoW: Forever》经济出问题：早期玩家靠已修复的刷金方法大赚一笔",
+  "zh_oneliner": "一个已被修复的刷金漏洞让先行玩家在《WoW: Forever》中攒下数千金币，给游戏经济留下了隐患。",
+  "en_title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+  "en_oneliner": "A now-hotfixed gold grind let early players rake in thousands of gold in WoW: Forever, leaving the game's economy with a problem to solve."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips": {
+  "zh_title": "美国机构确认对 Megaspeed 展开刑事调查，涉英伟达芯片纠纷",
+  "zh_oneliner": "美国机构确认正对数据中心公司 Megaspeed 展开刑事调查，该公司因英伟达芯片问题陷入巨大纠纷，调查自 2024 年就已开始。",
+  "en_title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
+  "en_oneliner": "US agencies confirmed a criminal investigation into datacenter company Megaspeed, which is entangled in a major dispute over Nvidia chips, with the probe dating back to 2024."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down": {
+  "zh_title": "“他们永远停不下来”：《GTA 6》开发本可拖得更久，只因收尾实在太难",
+  "zh_oneliner": "知情人士称《GTA 6》的开发本可以延续更久，因为这款游戏实在太难收尾，团队总想再打磨一点。",
+  "en_title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+  "en_oneliner": "GTA 6's development could have gone on even longer, because a game of its scale is genuinely hard to finish and the team always found more to polish."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on": {
+  "zh_title": "大作纷纷为《GTA 6》让路，看看那些迎面硬上的勇敢开发者",
+  "zh_oneliner": "众多大作选择避开《GTA 6》的发售窗口，但仍有一些开发者决定正面迎战，本文介绍了这些逆势发行的团队。",
+  "en_title": "As blockbuster game releases run scared from GTA 6, meet the brave developers tackling Rockstar's behemoth head-on",
+  "en_oneliner": "While many blockbuster releases are steering clear of GTA 6, a few brave developers are launching head-on, and this piece introduces the teams taking Rockstar's behemoth on directly."
+ },
+ "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold": {
+  "zh_title": "Square Enix 以免费游戏时间吸引《最终幻想 14》玩家回归，填补新资料片前的空档",
+  "zh_oneliner": "在新资料片 Evercold 明年 2 月上线前，Square Enix 以免费游戏时间活动吸引《最终幻想 14》老玩家回归，维持游戏热度。",
+  "en_title": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill quiet time before new expansion",
+  "en_oneliner": "With the Evercold expansion due in February, Square Enix is offering free game time to tempt Final Fantasy 14 players back and keep the game populated in the quiet months."
+ },
+ "https://mobilegamer.biz/netflix-games-lays-off-staff-as-team-shifts-how-it-approaches-making-games": {
+  "zh_title": "Netflix Games 裁员，团队“转变做游戏的方式”",
+  "zh_oneliner": "Netflix Games 正在裁员，团队将调整做游戏的方式，此前该团队专注于以手机为手柄的云串流游戏。",
+  "en_title": "Netflix Games lays off staff as team “shifts how it approaches making games”",
+  "en_oneliner": "Netflix Games is laying off staff as the team shifts how it approaches making games, after working on cloud-streamed titles played with phones as controllers."
+ },
+ "https://gamedev.net/blogs/entry/2298677-exploring-audio-driven-facial-performance-for-longer-npc-dialogue": {
+  "zh_title": "探索音频驱动的面部表演，让 NPC 长对话更生动",
+  "zh_oneliner": "长对话带来两个制作难题：如何生成可信的面部表演、又如何让表演在整场戏里保持一致，本文探讨用音频驱动的方案来解决。",
+  "en_title": "Exploring audio-driven facial performance for longer NPC dialogue",
+  "en_oneliner": "Longer NPC dialogue raises two production questions — how to generate convincing facial performance and keep it consistent across a scene — and this piece explores audio-driven approaches to both."
+ },
+ "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest": {
+  "zh_title": "“我不觉得这是个好方向”：《时空之轮》作曲家认为《勇者斗恶龙》该落幕了",
+  "zh_oneliner": "《时空之轮》作曲家光田康典发文称《勇者斗恶龙》系列已难再创新，或许是时候画上句号。",
+  "en_title": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest",
+  "en_oneliner": "Chrono Trigger composer Yasunori Mitsuda wrote that it may be time for the Dragon Quest series to end, saying it is no longer possible to create anything new."
+ },
+ "https://80.lv/articles/blender-artist-shows-how-to-create-realistic-leaf-from-scratch": {
+  "zh_title": "Blender 艺术家演示如何从零做出逼真树叶",
+  "zh_oneliner": "不用现成模型也不用照片贴图，这位 Blender 艺术家演示了如何从零开始做出一片逼真的树叶。",
+  "en_title": "Blender Artist Shows How To Create Realistic Leaf From Scratch",
+  "en_oneliner": "No pre-made models or photo textures involved — this Blender artist shows how to create a realistic leaf entirely from scratch."
  }
 }
