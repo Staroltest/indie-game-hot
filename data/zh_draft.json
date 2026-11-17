@@ -13492,5 +13492,41 @@
   "zh_oneliner": "一批互动短剧团队开始用 AI 提速变现，智令互动上线一站式 AI 互动影游创作平台，覆盖创作、玩法编排与发行全链路。",
   "en_title": "The First Interactive Drama Teams Start Cashing In as a One-Stop AI Interactive Film-Game Platform Enters",
   "en_oneliner": "As interactive drama teams race to monetize with AI, a new one-stop platform covers the full pipeline from AI creation and interactive design to packaging and distribution."
+ },
+ "https://dev.to/idlecultivation/idle-game-design-notes-one-recipe-that-paid-for-itself-470e": {
+  "zh_title": "放置游戏设计笔记：一个自我造血的配方",
+  "zh_oneliner": "作者复盘自家放置游戏里一条被忽略的经济漏洞：某丹药配方在满级成功率下每次循环能返还 1.076 倍投入，睡着也在印钱；修正检测口径并把回收率调到 0.36 后，最差配方回落到 0.968，刚好卡在自给自足线之下。",
+  "en_title": "Idle game design notes: one recipe that paid for itself",
+  "en_oneliner": "The author dissects an economy leak in their own idle game: one pill recipe returned 1.076 times its input cost every cycle at max mastery, printing currency while the player slept; fixing the balance check to test the success ceiling and cutting the recycle rate to 0.36 brings the worst recipe down to 0.968, just below the self-funding line."
+ },
+ "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today": {
+  "zh_title": "《斯普拉遁 Raiders》试玩版今日登陆 Switch 2 eShop",
+  "zh_oneliner": "《斯普拉遁 Raiders》试玩版今日上架 Switch 2 eShop，含螺旋石群岛三张地图与三套预设装备，还能与 Deep Cut 小队重聚，先试后买。",
+  "en_title": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
+  "en_oneliner": "The Splatoon Raiders demo is out today on the Switch 2 eShop with three stages set in the Spirhalite Islands, three preselected loadouts, and a reunion with the Deep Cut crew — try before you buy."
+ },
+ "http://www.gamelook.com.cn/2026/11/606529": {
+  "zh_title": "开发者急求助：“封了作弊玩家、遭刷Steam差评，这可咋办？” 网友热烈支招",
+  "zh_oneliner": "一位开发者封禁作弊玩家后遭到 Steam 差评轰炸，社区纷纷支招如何应对恶意差评、维护社区秩序。",
+  "en_title": "Developer Seeks Help: \"I Banned Cheaters and Got Review-Bombed on Steam — What Do I Do?\" Community Rushes In With Advice",
+  "en_oneliner": "A developer banned cheaters and got review-bombed on Steam; the community weighs in with advice on handling malicious reviews and keeping the community in order."
+ },
+ "http://www.gamelook.com.cn/2026/11/606552": {
+  "zh_title": "B站要让老盟友再开一次荒？《三国志：王道天下》定档12月24日",
+  "zh_oneliner": "B站与老盟友奇侠互娱合作的《三国志：王道天下》定档 12 月 24 日公测，B站再一次押注三国题材。",
+  "en_title": "Bilibili Brings Back an Old Ally for Another Launch? Romance of the Three Kingdoms: Royal Way Sets December 24 Release",
+  "en_oneliner": "Romance of the Three Kingdoms: Royal Way, developed by Qixia Interactive and published by Bilibili Games, launches on December 24, marking Bilibili's latest bet on the Three Kingdoms theme."
+ },
+ "https://www.youxituoluo.com/535065.html": {
+  "zh_title": "上海游戏大厂将AI实验室并入技术中台，买量战场转向AI漫剧？",
+  "zh_oneliner": "巨人网络把 AI 实验室并入技术中台，AI 从技术项目变成内容生产线；多家大厂已把 AI 漫剧当作买量素材的新打法，用工业化剧情钩子降低获客成本。",
+  "en_title": "Shanghai Game Giant Folds AI Lab Into Tech Platform as User-Acquisition Battlefield Shifts to AI Drama?",
+  "en_oneliner": "Giant Network has folded its AI lab into its tech platform, turning AI from a lab project into a content production line, while several major studios are using AI drama series as a new user-acquisition play, churning out plot hooks at industrial scale to cut customer-acquisition costs."
+ },
+ "https://dev.to/poprecallgames/62-tiny-browser-games-and-counting-pop-recalls-daily-shipping-log-223": {
+  "zh_title": "62 款微型浏览器游戏还在涨：Pop Recall 的每日发版日志",
+  "zh_oneliner": "Pop Recall 四天前以 25 款纯原生 JavaScript 微型浏览器游戏上线，如今已涨到 62 款仍在每日更新；每款新游戏都要过同一套发版关卡——能通关、适配手机、暂停真正锁输入，上线后还要实测。",
+  "en_title": "62 tiny browser games and counting: Pop Recall's daily shipping log",
+  "en_oneliner": "Pop Recall launched four days ago with 25 tiny browser games in vanilla JavaScript and has already grown to 62, still shipping daily; every new game must pass the same ship gates — a real win state, mobile widths, a pause that actually locks input — and gets live-checked after deploy."
  }
 }
