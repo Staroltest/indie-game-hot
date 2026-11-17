@@ -13438,5 +13438,35 @@
   "zh_oneliner": "Switch 2 版《时之笛》重制版发售仅四天销量就超过 500 万份，首周即登顶 2026 年美国实体游戏销量榜。",
   "en_title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
   "en_oneliner": "The Switch 2 remake of Ocarina of Time sold over five million copies in four days, becoming the best-selling physical game in the US in 2026 after just one week."
+ },
+ "https://gamedev.net/forums/topic/720852-doomsday-demon-realm-we-made-a-windows-tower-defense-around-path-blocking-tiles": {
+  "zh_title": "小团队做了款塔防《Doomsday Demon Realm》：用地形瓷砖改写敌人路线",
+  "zh_oneliner": "玩家守卫恶魔之门，金色地砖封路、青色地砖造成伤害，路线由玩家自己塑造，13 位恶魔将领各有分工。",
+  "en_title": "Doomsday Demon Realm — we made a Windows tower defense around path-blocking tiles",
+  "en_oneliner": "A small team built a Windows tower defense where gold tiles block the path and cyan tiles deal damage, so players shape the route themselves, with 13 demon generals each filling a distinct role."
+ },
+ "https://gamedev.net/forums/topic/720851-composer-looking-for-a-game-to-write-for": {
+  "zh_title": "作曲人求合作：想为游戏写 Deltarune 风格配乐",
+  "zh_oneliner": "一位作曲人自 2024 年起写了不少 Deltarune / Undertale 风格的配乐，现公开寻找能落地的游戏项目合作。",
+  "en_title": "Composer looking for a game to write for!",
+  "en_oneliner": "A composer who has been writing Deltarune / Undertale-style soundtracks since 2024 is looking for a game project to score."
+ },
+ "http://www.gamelook.com.cn/2026/11/606499": {
+  "zh_title": "外媒捧杀：美国失去全球手游市场控制权，中国取而代之！",
+  "zh_oneliner": "文章梳理中国厂商如何在全球手游畅销榜上站稳脚跟，并讨论美国市场主导地位变化背后的行业格局。",
+  "en_title": "Foreign Media Hype: The US Has Lost Control of the Global Mobile Game Market, China Has Taken Its Place!",
+  "en_oneliner": "The article looks at how Chinese developers secured their place on global mobile bestseller charts and what the shift in market leadership means for the industry."
+ },
+ "https://dev.to/juegotech/a-cert-week-regression-set-for-ps5-xbox-and-nintendo-switch-submissions-2fg": {
+  "zh_title": "送审前两周必跑的回归测试清单：覆盖 PS5、Xbox 与 Switch",
+  "zh_oneliner": "针对索尼 TRC、微软 XR 与任天堂 Lotcheck 的共性要求，给出一套可重复的回归测试清单，让送审最后一周只做确认而非发现问题。",
+  "en_title": "A Cert-Week Regression Set for PS5, Xbox and Nintendo Switch Submissions",
+  "en_oneliner": "A repeatable regression checklist built around what Sony's TRC, Microsoft's XRs and Nintendo's Lotcheck have in common, so submission week becomes confirmation rather than discovery."
+ },
+ "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4": {
+  "zh_title": "《Castlevania: Belmont's Curse》更新至 1.1.4 版",
+  "zh_oneliner": "Konami 为上月发售的《Castlevania: Belmont's Curse》推送 1.1.4 更新，包含一批修复与调整，现已可下载。",
+  "en_title": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4",
+  "en_oneliner": "Konami has pushed version 1.1.4 for Castlevania: Belmont's Curse, a small update with fixes and adjustments that is available to download now."
  }
 }
