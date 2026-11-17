@@ -14758,5 +14758,53 @@
   "zh_oneliner": "Crystal Dynamics 确认再次裁员 8 人，这是不到两年内的第五轮，折射出 3A 工作室持续的成本压力。",
   "en_title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
   "en_oneliner": "Crystal Dynamics confirmed eight more layoffs, its fifth round in under two years, reflecting the ongoing cost pressure on AAA studios."
+ },
+ "https://www.indiedb.com/games/stack-680/news/stack-680-a-free-educational-game-about-credit-repair-and-stacking-business-funding": {
+  "zh_title": "STACK 680：免费教人修复信用、叠加商业信用的教育游戏",
+  "zh_oneliner": "一款免费浏览器游戏，用玩法讲清信用修复与零利率商业信用的叠加思路，定位是科普而非理财建议。",
+  "en_title": "STACK 680: a free educational game about credit repair and stacking business funding",
+  "en_oneliner": "A free browser game that teaches credit repair and how to stack 0% business credit, presented as education rather than financial advice."
+ },
+ "https://www.indiedb.com/games/3d-crackanoid-ultra/news/3d-crackanoid-ultra-the-1999-brick-breaker-in-real-3d-now-with-40-winter-levels": {
+  "zh_title": "3D Crackanoid Ultra：1999 年打砖块以真 3D 重制，新增 40 个冬季关卡",
+  "zh_oneliner": "1998-1999 年的老牌打砖块以真 3D 从头重做，现已登陆多平台，2.1 更新带来分属四个主题包的 40 个冬季关卡。",
+  "en_title": "3D Crackanoid Ultra: the 1999 brick breaker in real 3D, now with 40 winter levels",
+  "en_oneliner": "A 1998–1999 brick breaker rebuilt from the ground up in real 3D, now on iPhone, iPad, Mac, Apple TV, Android and Meta Quest, with 40 winter levels across four packs in update 2.1."
+ },
+ "https://dev.to/aionedge/how-i-built-unofficial-native-64-bit-linuxarm64-sdl2-engines-for-a-few-classic-pc-games-2694": {
+  "zh_title": "我如何为几款经典 PC 游戏写了非官方原生 64 位 Linux/ARM64 SDL2 引擎",
+  "zh_oneliner": "作者分享自己为几款老游戏手写原生 64 位 Linux 与 ARM64 引擎的技术笔记，让它们摆脱 Wine 与旧 32 位环境的束缚。",
+  "en_title": "How I built unofficial native 64-bit Linux/ARM64 SDL2 engines for a few classic PC games",
+  "en_oneliner": "A technical note on writing unofficial native 64-bit Linux and ARM64 SDL2 engines so a few classic PC games can run cleanly without Wine or an old 32-bit stack."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/carenado-releases-a-microsoft-flight-simulator-marketplace-exclusive-the-do228-200": {
+  "zh_title": "Carenado 在微软飞行模拟器商城独家上架 DO228-200",
+  "zh_oneliner": "飞行模拟器机型开发商 Carenado 推出 DO228-200，作为微软飞行模拟器商城的独占机型发售。",
+  "en_title": "Carenado Releases a Microsoft Flight Simulator Marketplace Exclusive: The DO228-200",
+  "en_oneliner": "Carenado releases the DO228-200 as a Microsoft Flight Simulator Marketplace exclusive."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/world-of-fallout-expansion": {
+  "zh_title": "拉斯维加斯原子博物馆的《辐射》世界展览扩容，彩蛋满满",
+  "zh_oneliner": "拉斯维加斯国家原子测试博物馆把《辐射》世界展区扩大一倍，用游戏中的复刻物件对照真实历史文物，埋了不少粉丝彩蛋。",
+  "en_title": "World of Fallout Exhibit at the Las Vegas Atomic Museum Expands – and It’s Full of Easter Eggs for Fans",
+  "en_oneliner": "The National Atomic Testing Museum in Las Vegas doubles its World of Fallout exhibit, pairing recreated objects from the game universe with real-life artifacts and plenty of fan easter eggs."
+ },
+ "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage": {
+  "zh_title": "欧洲游戏从业者工会联合发布宣言，警惕生成式 AI 的无节制使用",
+  "zh_oneliner": "爱尔兰、西班牙与米兰的游戏工会成员联合发声，梳理生成式 AI 带来的隐患与应对方案，呼吁行业正视 AI 对从业者权益的影响。",
+  "en_title": "European Game Worker unions publish manifesto warning against unchecked AI usage",
+  "en_oneliner": "Game worker unions in Ireland, Spain and Milan jointly outline the risks of unchecked generative AI and propose ways to protect developers' livelihoods."
+ },
+ "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year": {
+  "zh_title": "《黎明杀机》被用户生成内容的诱惑捕获，Behaviour 宣布明年大改版",
+  "zh_oneliner": "Behaviour Interactive 透露《黎明杀机》明年将迎来一次大改版，核心是引入用户生成内容，让玩家自己为游戏添砖加瓦。",
+  "en_title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
+  "en_oneliner": "Behaviour Interactive outlines a major Dead by Daylight revamp slated for next year, built around user-generated content that lets players create for the game."
+ },
+ "https://www.gcores.com/articles/222465": {
+  "zh_title": "杀出重围，创造历史！《影之刃零》获TGA五项提名",
+  "zh_oneliner": "灵游坊的国产 3A 武侠动作游戏《影之刃零》在 TGA 2026 拿下五项提名，涵盖年度游戏、最佳导演与最佳动作游戏，成为获提名最多的国产单机游戏。",
+  "en_title": "Breaking Out and Making History! Phantom Blade Zero Earns Five TGA Nominations",
+  "en_oneliner": "S-GAME's Chinese AAA wuxia action game Phantom Blade Zero earns five nominations at TGA 2026, including Game of the Year, Best Game Direction and Best Action Game — the most nominations ever for a Chinese single-player game."
  }
 }
