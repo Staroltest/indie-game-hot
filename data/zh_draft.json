@@ -13678,5 +13678,11 @@
   "zh_oneliner": "Xbox 与 DJ Khaled 联手推出一张玩笑式“处方单”，给玩家在 GTA 6 发售当天请假打游戏找个名正言顺的借口。",
   "en_title": "Xbox & DJ Khaled \"Prescribe\" a Day Off to Play GTA 6",
   "en_oneliner": "Xbox teamed up with DJ Khaled on a tongue-in-cheek \"prescription\" giving players an excuse to take launch day off and play GTA 6."
+ },
+ "https://dev.to/mympgames/forced-captures-and-multi-jumps-how-i-coded-checkers-rules-for-a-multiplayer-browser-game-il5": {
+  "zh_title": "强制吃子与多重跳吃：我如何为多人浏览器游戏实现跳棋规则",
+  "zh_oneliner": "作者拆解了跳棋里最容易写错的两条规则——强制吃子与同子连续跳吃，并结合服务端规则模块的真实代码讲清实现思路。",
+  "en_title": "Forced captures and multi-jumps: how I coded checkers rules for a multiplayer browser game",
+  "en_oneliner": "The author breaks down the two checkers rules most often implemented wrong — mandatory captures and same-piece multi-jumps — and walks through the server-side rules module with real code."
  }
 }
