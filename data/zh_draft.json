@@ -14272,5 +14272,47 @@
   "zh_oneliner": "Roblox 推出新的创作者计划，开发者可以免费把已有游戏移植到 Roblox 平台。",
   "en_title": "Roblox launches creator program for devs to bring games to its platform for free",
   "en_oneliner": "Roblox has launched a new creator program that lets developers bring their existing games to its platform for free."
+ },
+ "https://gamefromscratch.com/november-free-gamedev-assets-round-up-2": {
+  "zh_title": "11 月免费游戏开发资源汇总（第 2 期）",
+  "zh_oneliner": "Epic 在 Fab 商城的新一轮双月免费赠送，11 月 17 日至 12 月 1 日可领 3 款 Unreal 引擎资产，领到即永久拥有。",
+  "en_title": "November Free GameDev Assets Round-Up #2",
+  "en_oneliner": "Epic's latest bi-monthly Fab giveaway offers 3 free Unreal Engine assets from November 17 to December 1 — claim them once and they're yours to keep forever."
+ },
+ "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation": {
+  "zh_title": "TCL 华星新款 OLED 面板或更便宜、高刷，还能免去烧屏补偿等待",
+  "zh_oneliner": "TCL 华星的新款 OLED 面板据称价格更低、刷新率更高，还可能省去像素补偿循环的等待时间。",
+  "en_title": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation",
+  "en_oneliner": "TCL CSOT's new OLED panels are said to be cheaper with high refresh rates — and may even remove the wait for pixel burn-in compensation cycles."
+ },
+ "https://www.eurogamer.net/exodus-femjun-femshep-mass-effect-bioware-sci-fi-rpg": {
+  "zh_title": "科幻 RPG《Exodus》公布女主角，官方昵称 FemJun 致敬《质量效应》",
+  "zh_oneliner": "科幻 RPG《Exodus》公布了主角 Jun 的女性版本，工作室在宣传中称她为 FemJun，延续了与《质量效应》的呼应。",
+  "en_title": "Sci-fi RPG Exodus continues evoking Mass Effect by revealing female lead and nicknaming her FemJun",
+  "en_oneliner": "Sci-fi RPG Exodus revealed the female version of its lead Jun, with studio Archetype calling her FemJun in marketing — leaning further into the Mass Effect comparisons."
+ },
+ "https://www.pocketgamer.biz/pikmin-bloom-soundtrack-waltzes-onto-nintendo-music-as-first-mobile-game-featured": {
+  "zh_title": "《皮克敏 Bloom》原声登陆 Nintendo Music，首款入驻的手游原声",
+  "zh_oneliner": "Nintendo Music 首次收录手游原声，27 首《皮克敏 Bloom》曲目上线，距离这款原声应用发布已两年多。",
+  "en_title": "Pikmin Bloom soundtrack waltzes onto Nintendo Music as first mobile game featured",
+  "en_oneliner": "Nintendo Music added its first mobile-game soundtrack, bringing 27 Pikmin Bloom tracks to the app, just over two years after the OST service launched."
+ },
+ "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year": {
+  "zh_title": "前《耻辱》设计师加入 New Blood 团队，《Gloomwood》今年将推新关卡与新武器",
+  "zh_oneliner": "维多利亚风沉浸式模拟游戏《Gloomwood》迎来前《耻辱》设计师加入团队，今年还将推出新关卡和新武器。",
+  "en_title": "Former Dishonored designer joins the team on New Blood's Victorian immersive sim Gloomwood, with a new level and new weapons coming this year",
+  "en_oneliner": "Victorian immersive sim Gloomwood gains a former Dishonored designer on the team, with a new level and new weapons arriving this year."
+ },
+ "http://www.chuapp.com/article/291762.html": {
+  "zh_title": "触乐夜话：误打误撞",
+  "zh_oneliner": "触乐夜话栏目的一篇新文章，讲一次误打误撞的经历。",
+  "en_title": "ChuApp Night Talk: A Happy Accident",
+  "en_oneliner": "A new ChuApp Night Talk piece about a serendipitous mishap."
+ },
+ "https://gamedev.net/blogs/entry/2298678-profiling-a-mid-range-android-build-a-45-minute-memory-and-frame-time-pass": {
+  "zh_title": "给中端 Android 机型做性能剖析：45 分钟内存与帧时间分析",
+  "zh_oneliner": "一次 45 分钟的实战剖析，讲如何在中端 Android 设备上排查内存与帧时间问题。",
+  "en_title": "Profiling a Mid-Range Android Build: A 45-Minute Memory and Frame-Time Pass",
+  "en_oneliner": "A 45-minute hands-on profiling pass on memory and frame time for a mid-range Android build."
  }
 }
