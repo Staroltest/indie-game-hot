@@ -13528,5 +13528,17 @@
   "zh_oneliner": "Pop Recall 四天前以 25 款纯原生 JavaScript 微型浏览器游戏上线，如今已涨到 62 款仍在每日更新；每款新游戏都要过同一套发版关卡——能通关、适配手机、暂停真正锁输入，上线后还要实测。",
   "en_title": "62 tiny browser games and counting: Pop Recall's daily shipping log",
   "en_oneliner": "Pop Recall launched four days ago with 25 tiny browser games in vanilla JavaScript and has already grown to 62, still shipping daily; every new game must pass the same ship gates — a real win state, mobile widths, a pause that actually locks input — and gets live-checked after deploy."
+ },
+ "https://www.yystv.cn/p/14637": {
+  "zh_title": "阵容首发！2026星图游戏嘉年华首批参展厂商揭晓！",
+  "zh_oneliner": "2026星图游戏嘉年华公布首批参展阵容，独立创作生态与高校创作展区同台，独立开发者可借此摸清国内线下展会的入场机会。",
+  "en_title": "First Lineup Revealed! First Exhibitors Announced for the 2026 StarMap Game Carnival",
+  "en_oneliner": "The 2026 StarMap Game Carnival has unveiled its first exhibitor lineup, with an indie creation zone and a student creator showcase alongside major studios — a useful look at how domestic game expos open doors for indie developers."
+ },
+ "https://dev.to/succday/the-score-is-fusing-neutral-building-a-trade-calculator-for-805-game-items-51f4": {
+  "zh_title": "分数是融合中性的：为 805 件游戏道具做一个交易计算器",
+  "zh_oneliner": "作者用宠物融合的等价关系做了一款交易计算器，帮玩家判断看似亏本的交换其实价值相当，思路可直接复用到任何带合成系统的游戏经济设计里。",
+  "en_title": "The score is fusing-neutral: building a trade calculator for 805 game items",
+  "en_oneliner": "The author built a trade calculator around pet-fusion equivalence, showing why trades that look like a loss are actually fair value — an approach any game with a crafting economy can borrow."
  }
 }
