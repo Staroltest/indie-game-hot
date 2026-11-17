@@ -13354,5 +13354,11 @@
   "zh_oneliner": "indienova 每周盘点本周 Steam 值得关注的新游下半部分，覆盖放置、模拟经营、平台解谜等多个类型，附发行日期与中文支持情况。",
   "en_title": "Steam Games Worth Watching This Week, Nov 16-22 (Part 2)",
   "en_oneliner": "indienova’s weekly roundup of notable Steam releases for the second half of the week, spanning idle, simulation, and puzzle-platformer titles, with release dates and Chinese-language support noted."
+ },
+ "https://dev.to/cybermax/how-to-make-a-pet-hatching-system-in-roblox-studio-server-checked-luau-d64": {
+  "en_oneliner": "This tutorial turns pet hatching into a small server-authoritative system you can paste straight into Studio: one config table handles payment, the random draw, and saving what each player owns.",
+  "en_title": "How to make a pet hatching system in Roblox Studio (server-checked Luau)",
+  "zh_oneliner": "蛋孵化看着是界面功能，实际上几乎全是服务端逻辑：这篇教程给了一份能直接粘进 Studio 的完整小版本，用一张配置表管住付费、抽取与存档。",
+  "zh_title": "如何在 Roblox Studio 里做一个宠物孵化系统（服务端校验的 Luau 实现）"
  }
 }
