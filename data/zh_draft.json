@@ -13756,5 +13756,41 @@
   "zh_oneliner": "一个副本刷金漏洞让部分玩家短时间内攒下大量金币，服务器经济刚开服就受到冲击，后续如何处理值得关注。",
   "en_title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
   "en_oneliner": "A dungeon farming exploit let some players amass thousands of gold shortly after launch, shaking the server's young economy — all eyes on how it gets handled."
+ },
+ "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield": {
+  "zh_title": "前《使命召唤》在线服务负责人加盟 EA，出任《Battlefield》新任总经理",
+  "zh_oneliner": "前《使命召唤》在线服务负责人转投 EA 执掌《Battlefield》，引发玩家对系列“使命召唤化”的担忧，高层变动对长线运营方向的影响值得关注。",
+  "en_title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+  "en_oneliner": "The former Call of Duty live service chief joining EA to run Battlefield has fans worried the series is heading toward COD-ification, a leadership change worth watching for its effect on long-term live service direction."
+ },
+ "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply": {
+  "zh_title": "法官驳回三星、SK 海力士与美光的撤诉动议，内存价格操纵案继续推进",
+  "zh_oneliner": "美国法官拒绝撤销针对三星、SK 海力士与美光的诉讼，三家芯片厂商被控操纵内存价格与供应、加剧内存危机，案件将继续审理，硬件成本走势值得开发者留意。",
+  "en_title": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+  "en_oneliner": "A US judge has refused to dismiss the lawsuit accusing Samsung, SK Hynix and Micron of fixing memory prices and supply and worsening the RAM crisis, so the case proceeds — a development worth tracking for hardware cost trends."
+ },
+ "http://www.chuapp.com/article/291766.html": {
+  "zh_title": "当一款国民电竞赛事，走入自己的第十年",
+  "zh_oneliner": "KPL 走到第十年，年度总决赛现场用十年记忆人物与巅峰对决串起联赛的十年历程，回顾一款国民电竞赛事如何沉淀出自己的历史叙事。",
+  "en_title": "As a National Esports League Enters Its Tenth Year",
+  "en_oneliner": "The KPL marks its tenth year, with the annual finals weaving a decade of players and showdowns into a shared history — a look at how a national esports league builds its own narrative over time."
+ },
+ "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6": {
+  "zh_title": "《GTA：圣安地列斯》没有《GTA 5》的精致，为何重温这款 2004 年的老游戏仍让人着迷",
+  "zh_oneliner": "重访 2004 年的《GTA：圣安地列斯》，那些粗糙甚至带点未完成感的角落反而成了独特的魅力来源，老游戏的“瑕疵”如何变成值得回味的设计，值得做开放世界的开发者细品。",
+  "en_title": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?",
+  "en_oneliner": "Revisiting 2004’s GTA: San Andreas, its rough and even unfinished-feeling corners turn out to be part of its strange charm — a reminder for open-world developers of how a game’s flaws can become something worth savoring."
+ },
+ "https://www.pocketgamer.biz/fantastic-fringe-events-at-januarys-pg-connects-london": {
+  "zh_title": "明年一月 Pocket Gamer Connects London 周边活动一览",
+  "zh_oneliner": "Pocket Gamer Connects London 将于 2027 年 1 月 18 日至 19 日回归伦敦，附带一系列周边活动，是独立开发者拓展人脉、接触发行与融资机会的重要场合。",
+  "en_title": "Fantastic fringe events at January’s Pocket Gamer Connects London",
+  "en_oneliner": "Pocket Gamer Connects London returns to London on January 18–19, 2027, with a slate of fringe events alongside the main conference — a key chance for indie developers to network and meet publishers and investors."
+ },
+ "https://mobilegamer.biz/fake-mobile-game-ads-uk-regulator-steps-up-monitoring-while-us-agencies-stay-hands-off": {
+  "zh_title": "虚假手游广告：英国监管机构加强监控，美国机构仍袖手旁观",
+  "zh_oneliner": "针对虚假手游广告，英国监管机构正在加强监控，而美国同行基本没有动作，对照两地监管态度，开发者可以看清买量素材合规的风向差异。",
+  "en_title": "Fake mobile game ads: UK regulator steps up monitoring while US agencies stay hands-off",
+  "en_oneliner": "The UK regulator is stepping up monitoring of fake mobile game ads while US agencies stay hands-off — a useful contrast for developers tracking where ad-creative compliance is heading."
  }
 }
