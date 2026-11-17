@@ -14602,5 +14602,65 @@
   "zh_oneliner": "参加 GitHub Game Off 2026 的 ASCII 风格小游戏《Wild Shift》更新了第六篇开发日志，作者分享了玩家角色在满屏同色字符里“隐身”的小插曲，以及为此做的可读性调整。",
   "en_title": "Wild Shift Devlog #6: I couldn't find my own @",
   "en_oneliner": "The sixth devlog for Wild Shift, a GitHub Game Off 2026 entry, recounts a small readability bug — the player character @ kept vanishing into the grass — and the tweaks made so the hero stands out in a screen full of monochrome ASCII glyphs."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/how-to-build-60-fps-2d-particle-explosions-in-10-lines-of-vanilla-js-with-ai-prompt-2bih": {
+  "zh_title": "用 10 行原生 JS 实现 60 帧 2D 粒子爆炸（含 AI 提示词）",
+  "zh_oneliner": "用扁平数组替代臃肿的粒子类，避免每次爆炸触发垃圾回收卡顿，附可直接喂给 AI 编程助手的提示词。",
+  "en_title": "How to Build 60 FPS 2D Particle Explosions in 10 Lines of Vanilla JS (With AI Prompt)",
+  "en_oneliner": "Use a flat array instead of bloated particle classes to avoid garbage-collection lag on every explosion, with a prompt you can paste straight into your AI coding assistant."
+ },
+ "https://dev.to/buzzman/chain-beta-3l1": {
+  "zh_title": "Chain 测试版：一款异步协作游戏",
+  "zh_oneliner": "一次只有一名玩家在线，每人只有二十秒：谨慎推进、停下离开，或牺牲自己为后来者点亮道路。",
+  "en_title": "Chain - beta",
+  "en_oneliner": "Only one player at a time gets twenty seconds: advance carefully, stop and leave, or sacrifice yourself to light the way for the next player."
+ },
+ "https://dev.to/nunc/five-playtest-rounds-to-make-my-npcs-walk-past-each-other-1ngg": {
+  "zh_title": "五轮测试，让我的 NPC 学会擦肩而过",
+  "zh_oneliner": "一位点击式冒险游戏开发者记录五轮测试，终于让第二章的 NPC 从原地站桩变成在场景里自然走动。",
+  "en_title": "Five Playtest Rounds to Make My NPCs Walk Past Each Other",
+  "en_oneliner": "A point-and-click adventure dev recounts five playtest rounds that finally got the Act II NPCs walking around the scene instead of standing still."
+ },
+ "https://www.nintendolife.com/news/2026/11/video-long-journey-coming-up-here-are-our-favourite-switch-2-travel-accessories": {
+  "zh_title": "视频：长途出行必备，我们最爱的 Switch 2 旅行配件",
+  "zh_oneliner": "假期出行季将至，编辑团队挑出几款最顺手的 Switch 2 旅行配件，从收纳包到便携装备一次讲清。",
+  "en_title": "Video: Long Journey Coming Up? Here Are Our Favourite Switch 2 Travel Accessories",
+  "en_oneliner": "With the holiday travel season coming up, the editors round up their favourite Switch 2 travel accessories, from cases to portable gear."
+ },
+ "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun": {
+  "zh_title": "科幻 RPG《Exodus》女主角更像《质量效应》了，官方称她为 Femjun",
+  "zh_oneliner": "官方确认《Exodus》的女主角将延续《质量效应》式的叙事气质，并给她起了 Femjun 这个昵称。",
+  "en_title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
+  "en_oneliner": "The developers confirm Exodus's female lead leans further into Mass Effect territory, and they are calling her Femjun."
+ },
+ "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6": {
+  "zh_title": "《GTA 6》还没发售就已拿到 8 项游戏大奖提名",
+  "zh_oneliner": "游戏大奖评委可能提前玩到未发售的游戏参与评审，这让《GTA 6》在发售前就拿下八项提名。",
+  "en_title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
+  "en_oneliner": "The Game Awards judges may get advance access to unreleased games, which is how GTA 6 picked up eight nominations before launch."
+ },
+ "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6": {
+  "zh_title": "2026 游戏大奖提名公布，《GTA 6》以八项提名领跑",
+  "zh_oneliner": "2026 年游戏大奖完整提名名单出炉，尚未发售的《GTA 6》以八项提名领跑全场。",
+  "en_title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
+  "en_oneliner": "The full nominee list for The Game Awards 2026 is out, with the not-yet-released GTA 6 leading the field on eight nominations."
+ },
+ "https://www.nintendolife.com/news/2026/11/sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-and-a-gorgeous-final-merch-drop": {
+  "zh_title": "《星之海》将推出 Switch 2 实体“日落版”，并带来最后一波周边",
+  "zh_oneliner": "iam8bit 为《星之海》推出最后一批周边，包含 Switch 2 实体日落版，为这款独立 RPG 的周边企划画上句号。",
+  "en_title": "Sea Of Stars Is Getting A 'Sunset Edition' Switch 2 Physical And A Gorgeous Final Merch Drop",
+  "en_oneliner": "iam8bit is releasing one final merch collection for Sea of Stars, including a Switch 2 physical Sunset Edition, closing out the indie RPG's merch run."
+ },
+ "https://www.indiedb.com/games/barracuda/news/barracuda-01-is-out-freediving-and-spearfishing-in-the-mediterranean": {
+  "zh_title": "《Barracuda》0.1 版发布：在地中海自由潜水与鱼叉捕鱼",
+  "zh_oneliner": "一款免费的第一人称自由潜水与鱼叉捕鱼游戏登陆 Windows 与 Linux，目前仍在积极开发中。",
+  "en_title": "Barracuda 0.1 is out: freediving and spearfishing in the Mediterranean",
+  "en_oneliner": "A free first-person freediving and spearfishing game is out for Windows and Linux, and still in active development."
+ },
+ "https://www.indiedb.com/games/petrimin/news/petrimin-is-out-run-the-world-from-2023-to-2060-in-your-browser": {
+  "zh_title": "《Petrimin》发布：在浏览器里从 2023 年治理世界到 2060 年",
+  "zh_oneliner": "一款关于 AI 时代的免费浏览器游戏：你不统治任何国家，只在各国的十字路口轻轻推一把，再看世界走向何方。",
+  "en_title": "Petrimin is out: run the world from 2023 to 2060 in your browser",
+  "en_oneliner": "A free browser game about the AI age: you rule no country, you just nudge nations at their crossroads and watch where the world ends up."
  }
 }
