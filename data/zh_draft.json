@@ -14662,5 +14662,29 @@
   "zh_oneliner": "一款关于 AI 时代的免费浏览器游戏：你不统治任何国家，只在各国的十字路口轻轻推一把，再看世界走向何方。",
   "en_title": "Petrimin is out: run the world from 2023 to 2060 in your browser",
   "en_oneliner": "A free browser game about the AI age: you rule no country, you just nudge nations at their crossroads and watch where the world ends up."
+ },
+ "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards": {
+  "zh_title": "《塞尔达》与《GTA》领衔 2027 年 The Game Awards 提名",
+  "zh_oneliner": "《GTA VI》与《塞尔达传说：时之笛》主导了本届 The Game Awards 各奖项提名，独立开发者可以从这份名单里看出当下大作的风向与玩家口味。",
+  "en_title": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
+  "en_oneliner": "GTA VI and The Legend of Zelda: Ocarina of Time dominate this year's The Game Awards nominations, offering indie developers a useful read on where big-budget tastes are heading."
+ },
+ "https://dev.to/trendzbetagames/mobile-game-design-notes-what-village-life-simulator-does-with-car-restoration-4d87": {
+  "zh_title": "手游设计笔记：乡村生活模拟器如何做汽车修复玩法",
+  "zh_oneliner": "作者通过实机游玩拆解了这款安卓新游的汽车修复设计，几个小选择很值得做休闲模拟类手游的开发者参考。",
+  "en_title": "Mobile Game Design Notes: What Village Life Simulator Does With Car Restoration",
+  "en_oneliner": "Based on hands-on play, the author breaks down the car-restoration design choices in this new Android life sim — small decisions worth studying for casual simulation developers."
+ },
+ "https://dev.to/kevilondo/how-i-built-a-ai-that-beat-almost-everyone-at-quoridor-1bm1": {
+  "zh_title": "我如何做了一个几乎打败所有人的 Quoridor AI",
+  "zh_oneliner": "作者没用机器学习，只靠传统算法就写出了一个几乎横扫对手的 Quoridor 棋盘游戏 AI，过程写得轻松又实用。",
+  "en_title": "How I built a AI that beat (almost) everyone at Quoridor",
+  "en_oneliner": "Without any machine learning, the author built a Quoridor board-game AI that beats almost everyone, and walks through the surprisingly practical approach."
+ },
+ "https://newsletter.gamediscover.co/p/examining-pc-game-trends-beyond-the": {
+  "zh_title": "审视 PC 游戏趋势：超越 Steam 标签",
+  "zh_oneliner": "GameDiscoverCo 换了一个角度看正在冒头的 PC 游戏趋势，顺带带来新一期节目与发行发现动态。",
+  "en_title": "Examining PC game trends: beyond the Steam tag!",
+  "en_oneliner": "GameDiscoverCo looks at emerging PC game trends from a fresh angle beyond Steam tags, alongside the latest show and discovery news."
  }
 }
