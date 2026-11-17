@@ -14428,5 +14428,53 @@
   "zh_oneliner": "Switch 2 发售首年钥匙卡大行其道，XSEED 却坚持推出完整卡带版；随着任天堂推出更小容量卡带，发行商会不会转向更便宜的钥匙卡。",
   "en_title": "\"Pressure To Go For The Cheaper Option Grows\" - XSEED Reckons Game-Key Cards Are Here To Stay",
   "en_oneliner": "As Switch 2's first year fills up with Game-Key Card releases, XSEED has stuck to complete-on-card editions — but with Nintendo's smaller cart option, will publishers drift toward the cheaper key-card route?"
+ },
+ "https://dev.to/aplusgamesstudio/hand-tracking-vs-controllers-in-vr-how-to-choose-4nkd": {
+  "zh_title": "VR 手势追踪还是手柄？如何选择",
+  "zh_oneliner": "需要精准操作、按键和触觉反馈的动作类 VR 游戏选手柄，追求易上手和沉浸感的培训、休闲与演示场景更适合手势追踪。",
+  "en_title": "Hand Tracking vs Controllers in VR: How to Choose",
+  "en_oneliner": "Choose controllers when a VR game needs precision, buttons and haptic feedback, and hand tracking when ease of use matters more, such as training, casual play and public demos."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/building-a-game-like-wordle-in-2026-five-ways-indie-developers-changed-the-formula-3412": {
+  "zh_title": "2026 年还做类 Wordle 游戏？独立开发者改写公式的五种方法",
+  "zh_oneliner": "独立开发者不再照搬 Wordle，而是各改一条规则——词长、隐藏词数、输入方式、共享棋盘或叙事包装，做出各有特色的变体。",
+  "en_title": "Building a game like Wordle in 2026? Five ways indie developers changed the formula",
+  "en_oneliner": "Independent developers stopped cloning Wordle and instead each changed one rule — word length, hidden word count, input method, shared board or story framing — to make their own variant."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/designing-a-browser-game-older-players-can-start-in-ten-seconds-what-the-classics-get-right-cco": {
+  "zh_title": "让年长玩家十秒上手的浏览器游戏：经典作品做对了什么",
+  "zh_oneliner": "经典纸牌、棋盘与益智游戏无需教程、不惩罚慢反应、允许悔棋，这些设计选择任何浏览器游戏都可以借鉴。",
+  "en_title": "Designing a browser game older players can start in ten seconds: what the classics get right",
+  "en_oneliner": "Classic card, board and puzzle games need no tutorial, never punish slow reactions and allow undoing a mistake — design choices any browser game can borrow."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2": {
+  "zh_title": "登陆 Xbox Game Pass：《Hela：鼠与魔法》《逃生试炼》《狙击手：幽灵战士契约 2》等",
+  "zh_oneliner": "微软公布 11 月第二波 Game Pass 新增阵容，包括《Hela：鼠与魔法》《逃生试炼》和《狙击手：幽灵战士契约 2》等多款作品。",
+  "en_title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
+  "en_oneliner": "Microsoft announces the second wave of November Game Pass additions, including Hela: of Mice & Magic, The Outlast Trials and Sniper Ghost Warrior Contracts 2."
+ },
+ "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis": {
+  "zh_title": "GTA 6 发售前两天，Take-Two 裁掉《文明》《XCOM》开发商 Firaxis 员工",
+  "zh_oneliner": "Take-Two 在 GTA 6 发售前两天裁减 Firaxis 员工，这家《文明》与《XCOM》开发商一年多前才经历过上一轮裁员。",
+  "en_title": "Only two days out from GTA 6, its publisher Take-Two lay off staff at XCOM and Civilization developer Firaxis",
+  "en_oneliner": "Take-Two is laying off staff at Firaxis, the studio behind Civilization and XCOM, just two days before the launch of GTA 6 and a little over a year after the studio's last round of cuts."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview": {
+  "zh_title": "黄仁勋称若美国需要他愿回归担任英伟达 CEO",
+  "zh_oneliner": "已卸任的英伟达前 CEO 黄仁勋表示，如果美国需要，他很荣幸能回来担任 CEO，业内仍在观望他是否会真的回归。",
+  "en_title": "Jensen Huang would come back as Nvidia's CEO if America needs him – a technique I now intend to use at my next job interview",
+  "en_oneliner": "Former Nvidia CEO Jensen Huang says he would be honored to return as CEO if America needs him, as speculation about a comeback continues."
+ },
+ "https://www.indiedb.com/games/knight-descending/news/official-trailer-is-here-and-1-on-foundplay": {
+  "zh_title": "《Knight Descending》官方预告发布，网页试玩登顶 Foundplay 本周新游第一",
+  "zh_oneliner": "《Knight Descending》发布官方预告，其早期网页试玩版被评为 Foundplay 11 月 2 日当周最佳新游第一名。",
+  "en_title": "Official Trailer Is Here — and #1 on Foundplay",
+  "en_oneliner": "Knight Descending releases its official trailer, and its early web demo was named the #1 best new game on Foundplay for the week of Nov 2."
+ },
+ "https://www.indiedb.com/games/ygdrassil/news/three-chapters-deeper-and-a-party-of-five": {
+  "zh_title": "《Ygdrassil》迄今最大更新：三章新内容，队伍扩至五人",
+  "zh_oneliner": "《Ygdrassil》迎来迄今最大更新，新增三章内容深入地下三十层，队伍扩至五人，倒下的队友会被带回家而非直接游戏结束，还加入了拍照模式。",
+  "en_title": "Three chapters deeper, and a party of five",
+  "en_oneliner": "Ygdrassil's biggest update yet adds three new chapters thirty floors down, grows the party to five, carries fallen party members home instead of a game over, and adds a photo mode."
  }
 }
