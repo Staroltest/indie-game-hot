@@ -14710,5 +14710,53 @@
   "zh_oneliner": "BeamNG 团队分享在 PS5 上完整保留柔体物理的做法，讲他们如何针对主机优化内存与性能。",
   "en_title": "How BeamNG.drive Brought Its Soft-Body Physics to PS5",
   "en_oneliner": "The BeamNG team shares how it kept the game's soft-body physics intact on PS5, and how it optimized memory and performance for the console."
+ },
+ "https://gamedev.net/blogs/entry/2298679-async-auto-battlers-at-steams-auto-battler-rpg-fest-2026": {
+  "zh_title": "Steam 自走棋 RPG 节 2026 开幕，异步自走棋成焦点",
+  "zh_oneliner": "Steam 自走棋 RPG 节于 11 月 16 日至 23 日举行，异步对战玩法的自走棋新作值得独立开发者关注。",
+  "en_title": "Async auto-battlers at Steam's Auto Battler RPG Fest 2026",
+  "en_oneliner": "Steam's Auto Battler RPG Fest runs November 16-23, putting async auto-battlers in the spotlight for indie developers to watch."
+ },
+ "https://gamedev.net/forums/topic/720860-faster-than-magellan-a-free-ftl-style-strategy-game-in-open-playtest-feedback-wanted": {
+  "zh_title": "《Faster Than Magellan》：免费 FTL 式策略游戏开启公开测试，征集反馈",
+  "zh_oneliner": "这款以麦哲伦环球航行为背景的免费策略游戏正在公开测试，开发者希望玩家帮忙打磨类 FTL 的航线抉择玩法。",
+  "en_title": "Faster Than Magellan: a free FTL style strategy game in open playtest, feedback wanted",
+  "en_oneliner": "This free FTL-style strategy game set on Magellan's 1519-1522 voyage is in open playtest, and its developer is asking players for feedback on the route-planning gameplay."
+ },
+ "https://gamedev.net/forums/topic/720859-procedural-city-architect-ue5-city-generator-with-editable-roads-buildings-interiors": {
+  "zh_title": "Procedural City Architect：UE5 程序化城市生成器，道路建筑内饰均可编辑",
+  "zh_oneliner": "这款 UE5 城市生成工具支持程序化生成可编辑的道路、建筑与室内空间，适合需要快速搭建城市场景的开发者。",
+  "en_title": "Procedural City Architect — UE5 City Generator with Editable Roads, Buildings & Interiors",
+  "en_oneliner": "This UE5 city generator procedurally builds editable roads, buildings and interiors, offering a fast way to prototype urban scenes."
+ },
+ "https://gamedev.net/forums/topic/720858-vxiwav": {
+  "zh_title": "vXI.wav：独立电子音乐作曲家接单中",
+  "zh_oneliner": "欧洲独立电子音乐制作人 vXI 正在接游戏配乐与音效委托，寻找合作项目的开发者可以留意。",
+  "en_title": "vXI.wav",
+  "en_oneliner": "European independent electronic music composer vXI is open for game music and sound design commissions."
+ },
+ "https://gamedev.net/forums/topic/720856-mesh-engine-for-unity-spatial-partitioning-for-large-cad-imports": {
+  "zh_title": "Mesh Engine for Unity：用空间分区处理大型 CAD 导入",
+  "zh_oneliner": "这款 Unity 资产用空间分区技术解决大型 CAD 模型导入时的性能问题，源自作者的数字孪生项目实践。",
+  "en_title": "Mesh Engine for Unity - spatial partitioning for large CAD imports",
+  "en_oneliner": "This Unity asset uses spatial partitioning to handle large CAD imports smoothly, born from the author's digital twin work."
+ },
+ "https://dev.to/trendzbetagames/angkot-simulator-indonesia-game-design-takeaways-from-a-new-android-minibus-sim-1jb3": {
+  "zh_title": "《Angkot Simulator Indonesia》：一款印尼小巴模拟游戏的设计启示",
+  "zh_oneliner": "这篇设计分析拆解了一款把日常载客工作做成核心循环的安卓小巴模拟游戏，值得做模拟经营的开发者参考。",
+  "en_title": "Angkot Simulator Indonesia: Game Design Takeaways From a New Android Minibus Sim",
+  "en_oneliner": "This design breakdown looks at how a new Android minibus sim turns a daily driving shift into its core loop, with lessons for simulation developers."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/ice-cream-simulator": {
+  "zh_title": "《Ice Cream Simulator》：为什么让顾客拥有无限耐心",
+  "zh_oneliner": "开发者分享了让顾客无限等待的设计思路，探讨去掉时间压力后模拟经营游戏的节奏会发生什么变化。",
+  "en_title": "Ice Cream Simulator: Why We Gave Our Customers Infinite Patience",
+  "en_oneliner": "The developer explains why customers in this ice cream sim wait forever, and how removing time pressure changes a management game's pacing."
+ },
+ "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years": {
+  "zh_title": "《古墓丽影》开发商两年内第五轮裁员",
+  "zh_oneliner": "Crystal Dynamics 确认再次裁员 8 人，这是不到两年内的第五轮，折射出 3A 工作室持续的成本压力。",
+  "en_title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
+  "en_oneliner": "Crystal Dynamics confirmed eight more layoffs, its fifth round in under two years, reflecting the ongoing cost pressure on AAA studios."
  }
 }
