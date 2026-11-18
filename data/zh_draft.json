@@ -15334,5 +15334,53 @@
   "zh_oneliner": "教程演示如何用 AI 快速生成行走循环精灵图集并导入 Godot 4，省去逐帧手绘的繁琐。",
   "en_title": "Generate AI Sprite Sheets and Import Them into Godot 4 in Minutes",
   "en_oneliner": "A tutorial on generating AI sprite sheets for a walk cycle and importing them into Godot 4 in minutes, skipping hours of frame-by-frame hand animation."
+ },
+ "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations": {
+  "zh_title": "《GTA 6》以八项提名领跑 2026 年 The Game Awards",
+  "zh_oneliner": "《GTA 6》拿下八项提名并入围年度游戏，独立开发者可以对照这份名单，看看今年评委最看重哪些类型与玩法。",
+  "en_title": "GTA 6 leads The Game Awards 2026 with eight nominations",
+  "en_oneliner": "GTA 6 picked up eight nominations including Game of the Year — a useful snapshot of the genres and design trends judges are rewarding this year."
+ },
+ "https://80.lv/articles/jensen-huang-says-he-is-willing-to-return-as-nvidia-ceo": {
+  "zh_title": "黄仁勋称愿回归担任 NVIDIA CEO",
+  "zh_oneliner": "黄仁勋表示自己愿意重返 NVIDIA 担任 CEO，这番表态背后是 AI 算力与显卡供应链的走向，值得关注硬件成本的开发者留意。",
+  "en_title": "Jensen Huang Says He Is Willing To Return As NVIDIA CEO",
+  "en_oneliner": "Jensen Huang says he would return as NVIDIA CEO — a remark worth noting for developers watching AI compute and GPU supply trends."
+ },
+ "https://www.indiedb.com/games/petrimin/news/how-the-world-of-petrimin-runs-no-language-model-one-quarter-at-a-time": {
+  "zh_title": "《Petrimin》的世界如何运转：不用语言模型，一季度一季度推进",
+  "zh_oneliner": "这篇开发日志讲了《Petrimin》如何用确定性规则模拟世界经济、让每个结局都能复盘验证，给做模拟经营的独立开发者一个不用大模型的参考方案。",
+  "en_title": "How the world of Petrimin runs: no language model, one quarter at a time",
+  "en_oneliner": "This devlog explains how Petrimin simulates its world economy with deterministic rules so every ending can be replayed and verified — a no-language-model reference for simulation developers."
+ },
+ "https://www.indiedb.com/games/bozkurt-online/news/bozkurt-online-is-live-a-free-browser-mmorpg-inspired-by-turkic-mythology": {
+  "zh_title": "《Bozkurt Online》上线：免费浏览器 MMORPG，取材突厥神话",
+  "zh_oneliner": "一款取材突厥神话的免费 3D 浏览器 MMORPG 已上线，PC 与手机都能直接玩，做了网页端多人游戏的开发者可以看看它的上线打法。",
+  "en_title": "Bozkurt Online is live: a free browser MMORPG inspired by Turkic mythology",
+  "en_oneliner": "A free 3D browser MMORPG inspired by Turkic mythology is now live on PC and mobile — a launch to study for developers shipping multiplayer games on the web."
+ },
+ "https://dev.to/playgamalabs/29-free-browser-games-in-a-challenge-a-like-from-you-moves-them-up-22p5": {
+  "zh_title": "29 款免费浏览器小游戏参挑战赛：你的点赞能帮它们晋级",
+  "zh_oneliner": "一位独立开发者把 29 款 HTML5 小游戏带进 Playgama 挑战赛，免安装、点开即玩，正在用玩家点赞冲排名。",
+  "en_title": "29 free browser games in a challenge — a like from you moves them up",
+  "en_oneliner": "A solo developer entered 29 HTML5 browser games into the Playgama challenge — no installs, click and play — and is climbing the ranks on player likes."
+ },
+ "https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason": {
+  "zh_title": "马斯克的母亲在代言一款换装抽卡游戏，不知为何",
+  "zh_oneliner": "一则玩家向的八卦：马斯克的母亲代言了一款换装抽卡游戏，看看名人代言这条路能给小众品类带来多少曝光。",
+  "en_title": "Elon Musk's mother is promoting a dress-up gacha game, for some reason",
+  "en_oneliner": "A player-facing curiosity: Elon Musk's mother is promoting a dress-up gacha game — a look at how much exposure celebrity endorsement can bring a niche genre."
+ },
+ "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story": {
+  "zh_title": "前 GTA 4 与《荒野大镖客》负责人：西方接受游戏开发用生成式 AI，只差一个“玩具总动员时刻”",
+  "zh_oneliner": "前 Take-Two CEO 认为，只要出现一部像《玩具总动员》那样靠新技术打动人心的作品，西方对生成式 AI 进游戏开发的抵触就会消散。",
+  "en_title": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
+  "en_oneliner": "The former Take-Two CEO argues Western resistance to generative AI in game development will fade once a Toy Story-style breakthrough wins audiences over."
+ },
+ "https://mobilegamer.biz/google-plays-best-of-2026-arknights-endfield-subway-surfers-city-and-zenless-zone-zero-among-winners": {
+  "zh_title": "Google Play 2026 年度最佳：《明日方舟：终末地》等获奖",
+  "zh_oneliner": "Google Play 公布 2026 年度最佳游戏名单，《明日方舟：终末地》《绝区零》等上榜，做手游的开发者可以对照看看今年平台青睐的方向。",
+  "en_title": "Google Play’s best of 2026: Arknights: Endfield, Subway Surfers City and Zenless Zone Zero among winners",
+  "en_oneliner": "Google Play announced its Best of 2026 games, with Arknights: Endfield and Zenless Zone Zero among the winners — a guide to what the platform is rewarding this year."
  }
 }
