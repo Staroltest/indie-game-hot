@@ -16498,5 +16498,35 @@
   "zh_oneliner": "North Side 宣布《Bot Colony Redux》在 Steam 上解锁全部章节，初始货币翻倍，并附赠额外 Leks。",
   "en_title": "Fully Unlocked Episodes and Bonus Leks",
   "en_oneliner": "North Side has unlocked every episode of Bot Colony Redux on Steam, doubled the starting currency, and added bonus Leks."
+ },
+ "https://dev.to/ilinmaks/lifewind-a-game-where-you-do-not-choose-where-you-are-born-1ie4": {
+  "zh_title": "《LifeWind》：一款你无法选择出生地的游戏",
+  "zh_oneliner": "独立开发者用真实数据做了一款人生模拟游戏，让玩家体验出生在不同国家意味着什么。",
+  "en_title": "LifeWind: a game where you do not choose where you are born",
+  "en_oneliner": "An indie developer built a life-sim game from real-world data, showing what being born in a different country actually means."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location": {
+  "zh_title": "《GTA 6》机场位置：想合法或不那么合法地开飞机就去这里",
+  "zh_oneliner": "一篇玩家向攻略，介绍《GTA 6》里机场跑道的位置和可以驾驶的机型。",
+  "en_title": "GTA 6 airport location: Here's where to earn your wings less than legally",
+  "en_oneliner": "A player-facing guide to the airport runway in GTA 6 and the aircraft you can fly there."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090": {
+  "zh_title": "Rockstar 称 PS5 Pro 性能不足以跑 60 帧《GTA 6》，PC 玩家笑了",
+  "zh_oneliner": "主机性能话题：Rockstar 称 PS5 Pro 带不动 60 帧《GTA 6》，引发玩家对主机与 PC 性能差距的讨论。",
+  "en_title": "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090",
+  "en_oneliner": "Rockstar says the PS5 Pro can't run GTA 6 at 60 fps, sparking debate over console versus PC performance."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/befuddled-japanese-player-fights-gta-6-controls-loses-becomes-guy-chugging-two-shakes-i-accidentally-bought-while-walking-around-in-a-squat": {
+  "zh_title": "日本玩家被《GTA 6》操作难住，意外变成边深蹲边猛灌奶昔的怪人",
+  "zh_oneliner": "一则玩家趣闻：操作失误让角色在游戏里上演了一出荒诞闹剧。",
+  "en_title": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
+  "en_oneliner": "A player anecdote about GTA 6 controls gone wrong, turning a character into an accidental slapstick moment."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far": {
+  "zh_title": "《魔兽世界：永恒》玩家已创建超 1500 万个角色",
+  "zh_oneliner": "暴雪称这是《魔兽世界》历史上同时在线人数最高的版本更新。",
+  "en_title": "WoW: Forever is huge: Players have created over 15 million characters so far",
+  "en_oneliner": "Blizzard calls it the biggest WoW launch ever by peak concurrent players, with over 15 million characters created."
  }
 }
