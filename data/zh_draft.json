@@ -15058,5 +15058,23 @@
   "zh_oneliner": "分享一段 Python 脚本，在打包上传前自动检查 osu! 皮肤缺失的贴图与音效文件，避免皮肤上线后才发现缺素材。",
   "en_title": "List missing osu! skin files with Python before you upload the .osk",
   "en_oneliner": "A Python script that checks an osu! skin for missing sprites and hitsounds before you upload the .osk, so nothing ships broken."
+ },
+ "http://www.gamelook.com.cn/2026/11/606594": {
+  "zh_title": "Steam 独游《僵尸不是真实存在的》出圈：真实城市地图加两难抉择太戳人",
+  "zh_oneliner": "一款以真实城市地图为舞台的僵尸题材独游，用有限的军事资源与两难抉择戳中玩家，近期在 Steam 上悄然走红。",
+  "en_title": "Steam Indie Hit 'Zombies Aren't Real' Goes Viral: Real City Maps and Tough Choices Strike a Chord",
+  "en_oneliner": "A zombie indie game set on a real city map turns scarce military resources and hard choices into a breakout Steam hit."
+ },
+ "http://www.gamelook.com.cn/2026/11/606624": {
+  "zh_title": "《艾希：续》众筹 4280 万元后开人工退款：制作人很天真，竟想“劝退”玩家",
+  "zh_oneliner": "国产独立游戏《艾希：续》众筹突破 4280 万元后反其道而行之，制作人主动开启人工退款劝退玩家，引发热议。",
+  "en_title": "ICEY Sequel Crowdfunds ¥42.8M, Then Opens Manual Refunds as the Producer Tries to Talk Players Out of It",
+  "en_oneliner": "After raising ¥42.8 million, the Chinese indie sequel ICEY 2 opened manual refunds as its producer tried to talk players out of backing — a rare move that's drawing attention."
+ },
+ "https://dev.to/suhui_wu_561ab0f0602e73e/scoring-a-survey-game-when-you-have-zero-players-on-day-one-2bj8": {
+  "zh_title": "上线首日零玩家，怎么给调查类小游戏打分",
+  "zh_oneliner": "一位开发者分享上线每日问答小游戏的实战经验：在首日零玩家的情况下，如何设计计分规则让游戏先跑起来。",
+  "en_title": "Scoring a survey game when you have zero players on day one",
+  "en_oneliner": "A developer shares hands-on lessons from launching a daily survey game — how to design a scoring system that works when you have zero players on day one."
  }
 }
