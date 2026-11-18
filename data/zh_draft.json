@@ -15016,5 +15016,47 @@
   "zh_oneliner": "《The Last Mile: Delivery Simulator》详解送货玩法：玩家可自主安排送货顺序、核对地址与处理包裹，独立开发者可借鉴这种把日常流程做成核心循环的设计。",
   "en_title": "Your Deliveries, Your Order",
   "en_oneliner": "The Last Mile: Delivery Simulator shows how players choose their delivery order, check addresses and handle parcels — a look at turning everyday routines into a core gameplay loop."
+ },
+ "https://www.gcores.com/articles/222466": {
+  "zh_title": "《文明》《幽浮》开发工作室Firaxis Games裁员三分之一",
+  "zh_oneliner": "《文明》《幽浮》开发商 Firaxis 裁员约 60 人、占团队三分之一，负责人 Heather Hazen 也将离职，工作室称要重组并重新聚焦核心策略游戏开发。",
+  "en_title": "Firaxis Games, Studio Behind Civilization and XCOM, Lays Off a Third of Its Staff",
+  "en_oneliner": "Civilization and XCOM developer Firaxis is laying off around 60 people, roughly a third of the studio, with studio head Heather Hazen also departing as the team restructures to refocus on its core strategy games."
+ },
+ "http://www.gamelook.com.cn/2026/11/606619": {
+  "zh_title": "欧洲游戏业工会发布“联合宣言”：全面抵制AI做游戏，社区炸了",
+  "zh_oneliner": "欧洲多家游戏业工会联合发声，呼吁全面抵制用 AI 制作游戏，这场关于生成式 AI 是否会抢走开发者饭碗的争论在社区里再度引爆。",
+  "en_title": "European Game Industry Unions Issue a Joint Declaration: Boycott AI-Made Games Across the Board, Community Erupts",
+  "en_oneliner": "Several European game industry unions have jointly called for a blanket boycott of AI-made games, reigniting the community debate over whether generative AI will take developers' jobs."
+ },
+ "http://www.gamelook.com.cn/2026/11/606588": {
+  "zh_title": "10月中国游戏市场收入300亿元同比减少4.27%：手游下滑2.2%，PC下滑15%",
+  "zh_oneliner": "伽马数据报告显示 10 月中国游戏市场实际销售收入 300 亿元、同比下降 4.27%，其中手游下滑 2.2%、PC 端下滑 15%。",
+  "en_title": "China's Game Market Revenue Hit 30 Billion Yuan in October, Down 4.27% YoY: Mobile Down 2.2%, PC Down 15%",
+  "en_oneliner": "Gamma Data reports China's game market revenue reached 30 billion yuan in October, down 4.27% year over year, with mobile down 2.2% and PC down 15%."
+ },
+ "https://dev.to/kyl67899/meta-hackathon-iron-vr-call-of-duty-game-3f4i": {
+  "zh_title": "Meta 黑客松作品：IRON VR，一款类《使命召唤》的 VR 游戏",
+  "zh_oneliner": "一位开发者在 Meta 黑客松上做了一款向《使命召唤》看齐的 VR 第一人称射击游戏，支持桌面与头显双模式，探索 AI 在这类项目里的用法。",
+  "en_title": "Meta Hackathon: IRON VR Call of Duty Game",
+  "en_oneliner": "A developer built a Call of Duty-style VR first-person shooter for a Meta hackathon, playable on both desktop and headset, exploring how AI fits into such a project."
+ },
+ "https://dev.to/lunct/where-audio-driven-animation-fits-in-a-conversational-avatar-pipeline-1c2a": {
+  "zh_title": "音频驱动动画在对话虚拟形象管线中的位置",
+  "zh_oneliner": "对话虚拟形象由对话模型、语音合成与角色呈现三部分拼成，文章拆解音频驱动动画在其中该处的位置，以及把各层职责分开如何让实现与性能评估都更清晰。",
+  "en_title": "Where audio-driven animation fits in a conversational avatar pipeline",
+  "en_oneliner": "A conversational avatar combines a dialogue model, text-to-speech, and a character system, and this piece explains where audio-driven animation belongs in that pipeline and how keeping each layer's responsibilities separate makes the implementation and performance claims easier to reason about."
+ },
+ "https://dev.to/dong_pandit_af9770455a07f/why-a-200-kb-glb-can-still-blow-your-webgl-texture-budget-and-when-512px-files-grow-larger-on-disk-1n5k": {
+  "zh_title": "为什么 200KB 的 GLB 仍会撑爆 WebGL 纹理预算（以及 512px 贴图为何在磁盘上反而更大）",
+  "zh_oneliner": "针对浏览器游戏的 3D 资产准备指南，点破两个常见误区：多文件 glTF 与二进制 GLB 在严格 CSP 与 CDN 下表现并不相同，小体积模型也可能吃掉大量纹理预算。",
+  "en_title": "Why a 200 KB GLB Can Still Blow Your WebGL Texture Budget (And When 512px Files Grow Larger on Disk)",
+  "en_oneliner": "A guide to preparing 3D assets for browser games that busts two common misconceptions: multi-file glTF and binary GLB do not behave the same under strict content security policies and asset CDNs, and a small model can still eat up a large texture budget."
+ },
+ "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-free-mclaren-racing-update-adds-new-sonic-skin-and-machine": {
+  "zh_title": "《索尼克赛车：交叉世界》免费迈凯伦竞速更新：新增索尼克皮肤与赛车",
+  "zh_oneliner": "世嘉全明星赛车游戏迎来免费迈凯伦竞速主题更新，新增身着迈凯伦赛车服的索尼克与速度型迈凯伦赛车，并上线同主题节日活动。",
+  "en_title": "Sonic Racing: CrossWorlds Free McLaren Racing Update Adds New Sonic Skin And Machine",
+  "en_oneliner": "Sega's all-star racer gets a free McLaren Racing-themed update adding Sonic in a McLaren Racing suit and a speed-type McLaren Racing machine, alongside a McLaren Racing festival event."
  }
 }
