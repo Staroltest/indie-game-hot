@@ -15784,5 +15784,77 @@
   "zh_oneliner": "Godot 4 游戏里相机环绕时 1366 个草地像素每步都在闪，作者定位到细节层次切换的测距口径问题，改按支点测距后六个位置全部归零，并分享了不用肉眼看视频的量化方法。",
   "en_title": "I orbited my game's camera and 1,366 grass pixels popped every step; measuring from the pivot made it 0",
   "en_oneliner": "In a Godot 4 game, 1,366 grass pixels popped every camera step; the author traces it to how LOD distance was measured, fixes it by measuring from the pivot, and shares a way to count popping pixels without eyeballing video."
+ },
+ "https://80.lv/articles/create-beautiful-stylized-water-easily-with-this-godot-tool": {
+  "zh_title": "用这款 Godot 工具轻松打造精美的风格化水面",
+  "zh_oneliner": "这款 Godot 水面工具集成了 Gerstner 波浪、岸边泡沫、焦散、倒影与瀑布等效果，帮开发者快速做出风格化水体。",
+  "en_title": "Create Beautiful Stylized Water Easily With This Godot Tool",
+  "en_oneliner": "This Godot water tool bundles Gerstner waves, shoreline foam, caustics, reflections and waterfalls to help developers build stylized water quickly."
+ },
+ "https://80.lv/articles/fight-lovecraftian-cosmic-creatures-in-this-retro-fps-inspired-by-doom-system-shock": {
+  "zh_title": "在这款致敬 Doom 与 System Shock 的复古 FPS 里对抗洛夫克拉夫特式宇宙生物",
+  "zh_oneliner": "DERELIKT 以 90 年代末恐怖游戏为灵感，把玩家扔进幽闭的科幻飞船，对抗克苏鲁风格的宇宙怪物。",
+  "en_title": "Fight Lovecraftian Cosmic Creatures in This Retro FPS Inspired by Doom & System Shock",
+  "en_oneliner": "Inspired by late-90s horror games, DERELIKT drops players into a claustrophobic sci-fi ship to fight Lovecraftian cosmic creatures."
+ },
+ "https://gamedev.net/forums/topic/720862-unofficial-native-linux-port-of-jagged-alliance-2-v113-x86_64-arm64-with-40-new-imp-portraits": {
+  "zh_title": "《Jagged Alliance 2》v1.13 非官方原生 Linux 移植版，支持 x86_64 与 ARM64，新增 40 张 I.M.P. 肖像",
+  "zh_oneliner": "粉丝自制的原生 Linux 移植基于 SDL2，无需 Wine 或 Proton 即可运行 JA2 v1.13 模组，并附带 40 张新佣兵肖像。",
+  "en_title": "Unofficial native Linux port of Jagged Alliance 2 v1.13 (x86_64 & ARM64), with 40 new I.M.P. portraits",
+  "en_oneliner": "A fan-made native Linux port of the JA2 v1.13 mod runs on SDL2 without Wine or Proton and adds 40 new I.M.P. portraits."
+ },
+ "https://gamedev.net/forums/topic/720861-touchline-world-free-multiplayer-football-manager-in-the-browser-looking-for-feedback-on-the-first-10-minutes": {
+  "zh_title": "Touchline World：免费浏览器多人足球经理游戏，征求开局前 10 分钟的反馈",
+  "zh_oneliner": "这款浏览器足球经理游戏让真人玩家在同一个实时世界里经营俱乐部、每周对战，作者正在征集新手引导的反馈。",
+  "en_title": "Touchline World – free multiplayer football manager in the browser, looking for feedback on the first 10 minutes",
+  "en_oneliner": "This free browser football manager puts real players in one shared real-time world to run clubs and play weekly matches, and its author is asking for feedback on the first ten minutes."
+ },
+ "https://dev.to/mahjongbay/some-mahjong-solitaire-deals-cant-be-won-i-deal-mine-backwards-so-they-always-can-4p7d": {
+  "zh_title": "有些麻将接龙开局注定无解，我反向发牌让每一局都能赢",
+  "zh_oneliner": "作者用约二十行代码写了一个反向发牌器，保证每局麻将接龙都有解，顺带讲清了随机发牌为何有近 3% 的死局。",
+  "en_title": "Some mahjong solitaire deals can't be won. I deal mine backwards so they always can",
+  "en_oneliner": "The author built a roughly twenty-line reverse dealer that guarantees every mahjong solitaire board is winnable, and explains why about 3% of random deals are dead on arrival."
+ },
+ "https://dev.to/hssolution/idle-game-offline-progress-the-cap-that-actually-matters-24d0": {
+  "zh_title": "放置游戏离线收益：真正起作用的上限",
+  "zh_oneliner": "作者结合 Godot 4 放置游戏 Rapid Miner 的真实代码，拆解离线收益的计算方式，指出时间上限其实很少真正生效。",
+  "en_title": "Idle game offline progress: the cap that actually matters",
+  "en_oneliner": "Using real code from the Godot 4 idle game Rapid Miner, the author breaks down how offline progress is calculated and shows why the time cap rarely matters in practice."
+ },
+ "https://dev.to/gabrieljemail/minecraft-clients-suck-so-i-made-volcano-client-32jp": {
+  "zh_title": "Minecraft 客户端不好用，我自己写了一个 Volcano Client",
+  "zh_oneliner": "作者用 C++ 从零写了一个 Minecraft: Java Edition 客户端，目标是更快、功能更全、更好用，目前已实现官方客户端约七成功能。",
+  "en_title": "Minecraft clients suck, so I made Volcano Client.",
+  "en_oneliner": "The author wrote a Minecraft: Java Edition client from scratch in C++, aiming for a faster, more feature-rich alternative that is already about 70% on par with the official client."
+ },
+ "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off": {
+  "zh_title": "“很难不担心”：GTA 6 主机版好评发售之际，Rockstar 开发者已开始担心裁员",
+  "zh_oneliner": "GTA 6 主机版今天发售、口碑大爆，但随着开发收尾、投资人开始计较增长，Rockstar 内部员工已在担心裁员。",
+  "en_title": "“It’s hard not to worry”: Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
+  "en_oneliner": "GTA 6 launches on console today to glowing reviews, yet Rockstar staff are already worrying about layoffs as development winds down and investors push for more growth."
+ },
+ "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation": {
+  "zh_title": "《Mindseye》开发商 Build a Rocket Boy 背负巨额债务，主要还款计划是打官司",
+  "zh_oneliner": "前 GTA 制作人创立的 Build a Rocket Boy 欠下约 6200 万英镑债务，其中大头欠网易，还款希望主要寄托在诉讼上。",
+  "en_title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
+  "en_oneliner": "Build a Rocket Boy, founded by former GTA producer Leslie Benzies, owes about £62 million in debt — much of it to NetEase — and plans to recover it mainly through litigation."
+ },
+ "https://gamedevjs.com/resources/steerkit-steering-behaviours-browser": {
+  "zh_title": "Steerkit 把转向行为带进浏览器",
+  "zh_oneliner": "Steerkit 用 JavaScript 演示寻路、抵达、漫游与群体移动等转向行为，并给出调校智能体的实用方法。",
+  "en_title": "Steerkit puts steering behaviours in the browser",
+  "en_oneliner": "Steerkit explores seeking, arriving, wandering and group movement in JavaScript games, with a practical approach to tuning agents."
+ },
+ "https://dev.to/divyesh_makawana/-ai-agents-in-unity-xr-development-from-writing-code-to-testing-vr-workflows-og": {
+  "zh_title": "Unity XR 开发中的 AI 智能体：从写代码到测试 VR 工作流",
+  "zh_oneliner": "作者以 Meta Quest 3 开发者视角，聊 AI 工具如何从代码提示走向与开发工具联动的工作流，这对调试环节繁杂的 XR 开发尤其有价值。",
+  "en_title": "# AI Agents in Unity XR Development: From Writing Code to Testing VR Workflows",
+  "en_oneliner": "From a Meta Quest 3 developer's perspective, the author looks at how AI tools are moving beyond code suggestions toward workflows that interact with development tools — especially valuable for XR, where debugging goes beyond fixing a script."
+ },
+ "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6": {
+  "zh_title": "“3A 受到的威胁最大”：前 Take-Two 高管解释为何做大游戏难以为继——GTA 6 除外",
+  "zh_oneliner": "前 Take-Two 高管认为，大作开发周期长、风险高，五年后推出时世界可能早已不在乎，只有 GTA 6 是例外。",
+  "en_title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
+  "en_oneliner": "A former Take-Two boss argues that making big games is unsustainable because of long cycles and high risk — a game may arrive five years later to a world that no longer cares — with GTA 6 as the exception."
  }
 }
