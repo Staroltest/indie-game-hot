@@ -5,8 +5,8 @@
  "date": "2026年11月19日",
  "date_iso": "2026-11-19",
  "issue": 2,
- "generated_at": "2026-11-18T22:01:21.029796+00:00",
- "summary": "过去 7 天共收录 1533 条动态，精选 10 条（评测与复盘 1 条、引擎与工具 7 条、行业与融资 1 条、发行与宣发 1 条）。头条：如何为你的第一款电子游戏做 Playtest。",
+ "generated_at": "2026-11-18T23:49:35.991269+00:00",
+ "summary": "过去 7 天共收录 1539 条动态，精选 10 条（评测与复盘 1 条、引擎与工具 7 条、行业与融资 1 条、发行与宣发 1 条）。头条：如何为你的第一款电子游戏做 Playtest。",
  "items": [
   {
    "id": "3486df46b65296899f6e959e160582d7b06a8a4a",
@@ -27,9 +27,33 @@
    "reason": "官方来源 · 涉及指南 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 69.3,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.3
+  },
+  {
+   "id": "1f8e5217b6ea3f06b98844f316ceedfa397020eb",
+   "title": "Engineering the 212 GB Launch: How GTA 6 Redefines Real-Time Asset Streaming and Console Performance",
+   "link": "https://dev.to/trendzbetagames/engineering-the-212-gb-launch-how-gta-6-redefines-real-time-asset-streaming-and-console-performance-2fdo",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-18T22:50:39+00:00",
+   "zh_title": "《GTA 6》212GB 首发的工程内幕：实时资源流式加载与主机性能如何被重新定义",
+   "zh_oneliner": "从 212GB 安装体量切入，拆解《GTA 6》如何用直通存储解压与流式加载预算消灭开放世界读条，以及光追全局光照在画质与帧率之间的取舍。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎",
+    "性能"
+   ],
+   "score": 85,
+   "reason": "涉及引擎与性能 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 84.2,
+   "prev_rank": 1,
+   "prev_hot_score": 84.5
   },
   {
    "id": "b5f0043cd5b8425b97593ce35c3a133329a61b70",
@@ -51,7 +75,7 @@
    "reason": "官方来源 · 涉及工具与引擎",
    "is_new": false,
    "trend": "same",
-   "hot_score": 41.7,
+   "hot_score": 41.0,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -75,7 +99,7 @@
    "reason": "官方来源 · 涉及引擎与性能",
    "is_new": false,
    "trend": "same",
-   "hot_score": 52.2,
+   "hot_score": 51.3,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -99,7 +123,7 @@
    "reason": "涉及数据与营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.0,
+   "hot_score": 64.9,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -123,7 +147,7 @@
    "reason": "涉及引擎与性能 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 73.4,
+   "hot_score": 72.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -147,19 +171,19 @@
    "reason": "涉及工具与工作流 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.4,
+   "hot_score": 73.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "57fae1711af06f9ede1b8f70deea43c0f39c1d09",
-   "title": "GTA 6 Leads The Game Awards 2026 Nominees With 8 Nods Before Launch: Key Craft & Gamedev Takeaways",
-   "link": "https://dev.to/trendzbetagames/gta-6-leads-the-game-awards-2026-nominees-with-8-nods-before-launch-key-craft-gamedev-takeaways-4i2e",
+   "id": "5d5b80ea84e34c545b57d2eb3458101b7af294fb",
+   "title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+   "link": "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-1ifm",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-18T16:28:41+00:00",
-   "zh_title": "GTA 6 尚未发售已领跑 2026 年游戏大奖提名，获 8 项提名：工艺与开发要点",
-   "zh_oneliner": "《GTA 6》发售前就以 8 项提名领跑游戏大奖，文章梳理了它在工艺与开发层面值得独立开发者借鉴的地方。",
+   "published": "2026-11-18T19:00:23+00:00",
+   "zh_title": "用 6 行 JS 屏幕震动加顿帧技巧，立刻给游戏加上“打击感”",
+   "zh_oneliner": "不用物理引擎，六行代码就能在渲染循环里实现屏幕震动与顿帧，让 2D 网页小游戏瞬间有了街机般的手感。",
    "category": "engine",
    "category_label": "引擎与工具",
    "tier": "T2",
@@ -170,55 +194,9 @@
    "reason": "涉及引擎 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.0,
-   "prev_rank": 5,
-   "prev_hot_score": 76.3
-  },
-  {
-   "id": "76718ca8e95869a0ad430297202dcc6617e6cda7",
-   "title": "Splitting an Unreal Engine Project Across Two Time Zones: A Handoff Checklist for Offshore Teams",
-   "link": "https://dev.to/juegostudiosofficial/splitting-an-unreal-engine-project-across-two-time-zones-a-handoff-checklist-for-offshore-teams-4mf5",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-18T17:43:27+00:00",
-   "zh_title": "跨两个时区的 Unreal Engine 项目怎么交接：给离岸团队的清单",
-   "zh_oneliner": "当团队分处班加罗尔与伦敦、奥斯汀，工作日重叠只有几小时，这份清单帮你把交接写进流程，避免第二天一上班就被卡住。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "引擎"
-   ],
-   "score": 80,
-   "reason": "涉及引擎 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.9,
+   "hot_score": 76.5,
    "prev_rank": 3,
-   "prev_hot_score": 77.2
-  },
-  {
-   "id": "bbf081dc437161221fa8314fa06c0e94555e7695",
-   "title": "NVIDIA Expands RTX Spark Lineup With Compact Desktops for Developers, Creators, and AI Enthusiasts",
-   "link": "https://80.lv/articles/nvidia-expands-rtx-spark-lineup-with-compact-desktops-for-developers-creators-and-ai-enthusiasts",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-18T17:30:00+00:00",
-   "zh_title": "NVIDIA 扩展 RTX Spark 产品线：为开发者、创作者与 AI 爱好者推出紧凑型桌面主机",
-   "zh_oneliner": "NVIDIA 联手华硕、戴尔与微星推出紧凑型 RTX Spark 桌面主机，最高 128GB 统一内存，面向 3D、视频与本地 AI 工作流。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "工作流"
-   ],
-   "score": 80,
-   "reason": "涉及工作流 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.7,
-   "prev_rank": 4,
-   "prev_hot_score": 77.0
+   "prev_hot_score": 76.7
   },
   {
    "id": "cbb8a7ca77625014788f46d498e1fba5937d75db",
@@ -237,9 +215,30 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
+  },
+  {
+   "id": "e632f3e18a6ed1cbef0491ce4edf05f4e60dd1bb",
+   "title": "Dev snapshot: Godot 4.8 beta 4",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-4",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-18T12:00:00+00:00",
+   "zh_title": "开发快照：Godot 4.8 beta 4",
+   "zh_oneliner": "Godot 4.8 进入收尾阶段，beta 4 修复了大部分剩余发布阻塞问题，可能是本轮最后一个 beta 快照。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T1",
+   "tags": [],
+   "score": 80,
+   "reason": "官方来源 · 24 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 71.7,
+   "prev_rank": 9,
+   "prev_hot_score": 71.9
   }
  ]
 }

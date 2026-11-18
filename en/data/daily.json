@@ -5,8 +5,8 @@
  "date": "November 19, 2026",
  "date_iso": "2026-11-19",
  "issue": 11,
- "generated_at": "2026-11-18T22:01:21.029796+00:00",
- "summary": "267 items collected in the past 24 hours, 10 picks (Reviews & Postmortems 1, Industry & Funding 1, Engine & Tools 7, Publishing & Marketing 1). Headline: How to playtest your first video game.",
+ "generated_at": "2026-11-18T23:49:35.991269+00:00",
+ "summary": "268 items collected in the past 24 hours, 10 picks (Reviews & Postmortems 1, Engine & Tools 6, Industry & Funding 2, Publishing & Marketing 1). Headline: How to playtest your first video game.",
  "items": [
   {
    "id": "3486df46b65296899f6e959e160582d7b06a8a4a",
@@ -27,9 +27,33 @@
    "reason": "Official source · Covers Guide · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 69.3,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.3
+  },
+  {
+   "id": "1f8e5217b6ea3f06b98844f316ceedfa397020eb",
+   "title": "Engineering the 212 GB Launch: How GTA 6 Redefines Real-Time Asset Streaming and Console Performance",
+   "link": "https://dev.to/trendzbetagames/engineering-the-212-gb-launch-how-gta-6-redefines-real-time-asset-streaming-and-console-performance-2fdo",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-18T22:50:39+00:00",
+   "en_title": "Engineering the 212 GB Launch: How GTA 6 Redefines Real-Time Asset Streaming and Console Performance",
+   "en_oneliner": "Starting from the 212 GB install size, it breaks down how GTA 6 uses direct-storage decompression and streaming budgets to eliminate open-world loading screens, and how ray-traced global illumination trades off against frame rate.",
+   "category": "engine",
+   "category_label": "Engine & Tools",
+   "tier": "T2",
+   "tags": [
+    "Engine",
+    "Performance"
+   ],
+   "score": 85,
+   "reason": "Covers Engine and Performance · Published within 6 hours",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 84.2,
+   "prev_rank": 1,
+   "prev_hot_score": 84.5
   },
   {
    "id": "bbca242b56331ed890aaaf6f593b6c33b511d943",
@@ -51,7 +75,7 @@
    "reason": "Covers Data and Revenue · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.0,
+   "hot_score": 64.9,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -75,7 +99,7 @@
    "reason": "Covers Engine and Performance · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 73.4,
+   "hot_score": 72.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -99,19 +123,19 @@
    "reason": "Covers Tools and Workflow · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.4,
+   "hot_score": 73.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "57fae1711af06f9ede1b8f70deea43c0f39c1d09",
-   "title": "GTA 6 Leads The Game Awards 2026 Nominees With 8 Nods Before Launch: Key Craft & Gamedev Takeaways",
-   "link": "https://dev.to/trendzbetagames/gta-6-leads-the-game-awards-2026-nominees-with-8-nods-before-launch-key-craft-gamedev-takeaways-4i2e",
+   "id": "5d5b80ea84e34c545b57d2eb3458101b7af294fb",
+   "title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+   "link": "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-1ifm",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-18T16:28:41+00:00",
-   "en_title": "GTA 6 Leads The Game Awards 2026 Nominees With 8 Nods Before Launch: Key Craft & Gamedev Takeaways",
-   "en_oneliner": "GTA 6 leads The Game Awards 2026 nominees with 8 nods before launch, and this piece pulls out the craft and gamedev lessons worth noting.",
+   "published": "2026-11-18T19:00:23+00:00",
+   "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+   "en_oneliner": "No physics engine needed — six lines of code add screen shake and hit-stop to your render loop, giving a 2D browser game instant arcade feel.",
    "category": "engine",
    "category_label": "Engine & Tools",
    "tier": "T2",
@@ -122,55 +146,9 @@
    "reason": "Covers Engine · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.0,
-   "prev_rank": 5,
-   "prev_hot_score": 76.3
-  },
-  {
-   "id": "76718ca8e95869a0ad430297202dcc6617e6cda7",
-   "title": "Splitting an Unreal Engine Project Across Two Time Zones: A Handoff Checklist for Offshore Teams",
-   "link": "https://dev.to/juegostudiosofficial/splitting-an-unreal-engine-project-across-two-time-zones-a-handoff-checklist-for-offshore-teams-4mf5",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-18T17:43:27+00:00",
-   "en_title": "Splitting an Unreal Engine Project Across Two Time Zones: A Handoff Checklist for Offshore Teams",
-   "en_oneliner": "When a team spans Bengaluru and London or Austin, the working day overlaps for only a few hours, so this checklist turns handoffs into a written routine that keeps the project moving.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Engine"
-   ],
-   "score": 80,
-   "reason": "Covers Engine · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.9,
+   "hot_score": 76.5,
    "prev_rank": 3,
-   "prev_hot_score": 77.2
-  },
-  {
-   "id": "bbf081dc437161221fa8314fa06c0e94555e7695",
-   "title": "NVIDIA Expands RTX Spark Lineup With Compact Desktops for Developers, Creators, and AI Enthusiasts",
-   "link": "https://80.lv/articles/nvidia-expands-rtx-spark-lineup-with-compact-desktops-for-developers-creators-and-ai-enthusiasts",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-18T17:30:00+00:00",
-   "en_title": "NVIDIA Expands RTX Spark Lineup With Compact Desktops for Developers, Creators, and AI Enthusiasts",
-   "en_oneliner": "NVIDIA's new compact RTX Spark desktops from ASUS, Dell and MSI pack up to 128GB of unified memory for 3D, video and local AI work.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Workflow"
-   ],
-   "score": 80,
-   "reason": "Covers Workflow · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.7,
-   "prev_rank": 4,
-   "prev_hot_score": 77.0
+   "prev_hot_score": 76.7
   },
   {
    "id": "cbb8a7ca77625014788f46d498e1fba5937d75db",
@@ -189,7 +167,7 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -210,9 +188,9 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 72.9,
-   "prev_rank": 11,
-   "prev_hot_score": 73.2
+   "hot_score": 71.7,
+   "prev_rank": 9,
+   "prev_hot_score": 71.9
   },
   {
    "id": "843fbf4e1540613e2a632bcd21d7a7d2ab616b10",
@@ -233,7 +211,30 @@
    "reason": "Covers Engine · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.7,
+   "hot_score": 61.7,
+   "prev_rank": null,
+   "prev_hot_score": null
+  },
+  {
+   "id": "6c537fe0b2ecfaf60a02144f8280e2de81ffe982",
+   "title": "8款人气二游“角色性别比”大盘点：原神崩铁均衡，鸣潮女角色更多",
+   "link": "http://www.gamelook.com.cn/2026/11/606667",
+   "source": "GameLook",
+   "source_id": "gamelook",
+   "published": "2026-11-18T05:29:16+00:00",
+   "en_title": "Gender Ratios Across 8 Popular Gacha Games: Genshin and Honkai: Star Rail Balanced, Wuthering Waves Leans Female",
+   "en_oneliner": "A data roundup of male-to-female character ratios across eight popular gacha games, and what each game's balance says about its audience.",
+   "category": "industry",
+   "category_label": "Industry & Funding",
+   "tier": "T2",
+   "tags": [
+    "Data"
+   ],
+   "score": 75,
+   "reason": "Covers Data · Published within 24 hours",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 63.2,
    "prev_rank": null,
    "prev_hot_score": null
   }
