@@ -14872,5 +14872,107 @@
   "zh_oneliner": "热火队为配合 GTA 6 主题篮球赛换上了罪恶都市风格的球场地板和新球衣，算是一次挺有意思的跨界联动。",
   "en_title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
   "en_oneliner": "The Heat rolled out Vice City-themed court flooring and new uniforms ahead of a Grand Theft Auto 6-themed basketball night — a neat bit of cross-promotion between the NBA and Rockstar's Miami."
+ },
+ "https://dev.to/tyrboai/how-to-write-a-game-prompt-that-builds-the-game-you-imagine-3api": {
+  "zh_title": "怎样写游戏提示词，才能让 AI 做出你想象中的游戏",
+  "zh_oneliner": "一份好的游戏提示词要说清玩家做什么、什么在阻挠、怎么才算赢、画面什么样，再加一个属于你自己的点子，文章用正反例子拆解了这五个部分。",
+  "en_title": "How to Write a Game Prompt That Builds the Game You Imagine",
+  "en_oneliner": "A good game prompt spells out what the player does, what pushes back, how you win, how it looks, and one twist that makes it yours, with weak and strong examples for each part."
+ },
+ "https://gamedevjs.com/games/panzercorn-webxr-shooter-13309-bytes": {
+  "zh_title": "Panzercorn 如何把手势追踪 VR 塞进 13309 字节",
+  "zh_oneliner": "这篇拆解讲了 Panzercorn 怎样用手势追踪、彩虹瞄准系统和共享着色器，把一款浏览器 VR 射击游戏压缩到 13309 字节。",
+  "en_title": "How Panzercorn fit hand-tracked VR into 13,309 bytes",
+  "en_oneliner": "A breakdown of how Panzercorn packs hand-tracked controls, a rainbow targeting system, and a shared shader into a 13,309-byte browser VR shooter."
+ },
+ "https://gamedevjs.com/tools/littlejs-1-28-cameras-screen-shake-box2d": {
+  "zh_title": "LittleJS 1.28 新增相机、屏幕震动与 Box2D 平台",
+  "zh_oneliner": "LittleJS 1.28 带来了相机工具、屏幕震动和 Box2D 平台功能，文章还给出了在已有游戏里试用这些新东西的思路。",
+  "en_title": "LittleJS 1.28 adds cameras, screen shake, and Box2D platforms",
+  "en_oneliner": "LittleJS 1.28 adds camera tools, screen shake, and Box2D platforming, with practical ideas for trying them out in a game you already have."
+ },
+ "https://gamedevjs.com/articles/zero-g-planetary-terrain-moon-base": {
+  "zh_title": "在 Zero-G 里，平地为什么值钱",
+  "zh_oneliner": "这款浏览器太空游戏把星球地形高低变成了月球基地的地价，文章讲了为什么最好的风景往往要配最贵的地基。",
+  "en_title": "Why flat ground is worth money in Zero-G",
+  "en_oneliner": "In this browser space game, planetary elevation sets the price of a lunar base, and the best view can come with the most expensive foundation."
+ },
+ "https://gamedevjs.com/games/sanctuary-iovela-bell-and-traps": {
+  "zh_title": "SANCTUARY：Iovela 把一座大教堂变成武器",
+  "zh_oneliner": "这款 Phaser 4 动作游戏用圣所之钟、铁链铁球、可破坏的阳台和精心布置的陷阱，把一个房间变成一道谜题。",
+  "en_title": "SANCTUARY: Iovela turns a cathedral into a weapon",
+  "en_oneliner": "A Phaser 4 brawler turns one room into a puzzle with the Sanctuary Bell, a chained iron ball, breakable balconies, and carefully placed traps."
+ },
+ "https://gamedevjs.com/competitions/js13kgames-2026-winners-closer-look": {
+  "zh_title": "js13kGames 2026 获奖作品：13 款小游戏值得一看",
+  "zh_oneliner": "2026 年 js13kGames 的前 13 名揭晓，由 Spectral Horn、Panzercorn 和 HueCorn 领衔，文章逐一介绍了这些超小体量网页游戏能教给开发者的东西。",
+  "en_title": "js13kGames 2026 winners: 13 tiny games to explore",
+  "en_oneliner": "The top 13 js13kGames 2026 entries, led by Spectral Horn, Panzercorn, and HueCorn, and what tiny web games can teach developers."
+ },
+ "https://gamedevjs.com/articles/softgames-html5-games-new-audiences": {
+  "zh_title": "SOFTGAMES 在哪里为 HTML5 游戏找到了新受众",
+  "zh_oneliner": "SOFTGAMES 把浏览器游戏带到新平台，为纸牌和三消游戏找到了受众，还调整了发售节奏，文章复盘了这套打法。",
+  "en_title": "Where SOFTGAMES found new audiences for its HTML5 games",
+  "en_oneliner": "How SOFTGAMES took its browser games to new platforms, found an audience for solitaire and match-three, and changed its release schedule."
+ },
+ "https://gamedevjs.com/tools/benne-point-and-click-adventures-phaser-4": {
+  "zh_title": "BENNE 把点击式冒险带到 Phaser 4",
+  "zh_oneliner": "BENNE 是一款基于 Phaser 4 的冒险游戏引擎，支持 TypeScript、房间工具和浏览器导出流程，文章建议从一个小而可玩的悬疑故事上手。",
+  "en_title": "BENNE brings point-and-click adventures to Phaser 4",
+  "en_oneliner": "BENNE is a Phaser 4 adventure engine with TypeScript, room tools, and a browser export workflow, best started with one small playable mystery."
+ },
+ "https://gamedevjs.com/competitions/gdevelop-big-game-jam-10-five-days": {
+  "zh_title": "还剩五天，参加 GDevelop BIG Game Jam 第 10 届",
+  "zh_oneliner": "文章给出了一份五天冲刺计划：做一个小体量的浏览器参赛作品，在 itch.io 和 gd.games 上测试，11 月 15 日前提交。",
+  "en_title": "Entering GDevelop BIG Game Jam #10 with five days to go",
+  "en_oneliner": "A five-day plan for a small browser entry to GDevelop BIG Game Jam #10, tested on itch.io and gd.games and submitted by November 15."
+ },
+ "https://gamedevjs.com/news/snapchat-web-lenses-playcanvas-games": {
+  "zh_title": "Snapchat 网页透镜为 PlayCanvas 游戏又开了一扇门",
+  "zh_oneliner": "文章介绍了用 Snapchat Web Lenses 发布 PlayCanvas 游戏的做法，包括竖屏控制、ZIP 大小限制、离线打包和平台特性。",
+  "en_title": "Snapchat Web Lenses open another door for PlayCanvas games",
+  "en_oneliner": "How to ship PlayCanvas games through Snapchat Web Lenses, covering portrait controls, ZIP limits, offline packaging, and platform features."
+ },
+ "https://gamedevjs.com/tutorials/threejs-paint-trail-height-map": {
+  "zh_title": "怎样让颜料在 Three.js 里留下轨迹",
+  "zh_oneliner": "这篇教程拆解了一个 Three.js 互动绘画演示，讲高度图、覆盖记录和 matcap 如何让一笔颜料变成可读的轨迹。",
+  "en_title": "How to make paint leave a trail in Three.js",
+  "en_oneliner": "A Three.js interactive paint demo explained through its height map, coverage history, and matcap, turning a single stroke into a readable trail."
+ },
+ "https://code.blender.org/2026/11/project-setup-whats-in-and-whats-next": {
+  "zh_title": "Blender 项目设置：已上线的内容与下一步计划",
+  "zh_oneliner": "Blender 5.3 引入了项目设置功能，让属于同一项目的 .blend 文件共享同一套环境，文章介绍了已经落地的内容和后续规划。",
+  "en_title": "Project Setup: What’s In and What’s Next",
+  "en_oneliner": "Blender 5.3 introduces Project Setup, a shared environment for .blend files in the same project, with a look at what is in and what comes next."
+ },
+ "https://code.blender.org/2026/11/layered-actions-workshop-september-2026": {
+  "zh_title": "分层动作研讨会：2026 年 9 月成果回顾",
+  "zh_oneliner": "Blender 动画与绑定模块在今年 9 月办了一场分层动作研讨会，文章回顾了这次研讨会的成果。",
+  "en_title": "Layered Actions Workshop: September 2026",
+  "en_oneliner": "A look at the outcomes of the September workshop run by Blender's Animation & Rigging module on layered actions."
+ },
+ "https://code.blender.org/2026/10/splatting-the-gaussians-into-blender": {
+  "zh_title": "把高斯泼溅带进 Blender",
+  "zh_oneliner": "文章介绍了 Blender 里高斯泼溅支持的初步实现，以及这个项目的后续开发计划。",
+  "en_title": "Splatting the Gaussians into Blender",
+  "en_oneliner": "The initial implementation of Gaussian splatting support in Blender and the plans for where the project goes next."
+ },
+ "https://dev.to/evgenii_zinner/turning-my-game-into-an-android-live-wallpaper-fixing-flutter-impellers-black-screen-in-b71": {
+  "zh_title": "把我的游戏变成安卓动态壁纸：修复 Flutter Impeller 在 WallpaperService 里的黑屏",
+  "zh_oneliner": "作者把自己的模拟游戏 Crystal Cinders 做成安卓动态壁纸，途中踩到了 Flutter Impeller 的黑屏坑，文章记录了排查和修复过程。",
+  "en_title": "Turning My Game Into an Android Live Wallpaper: Fixing Flutter Impeller’s Black Screen in WallpaperService",
+  "en_oneliner": "Turning the simulation game Crystal Cinders into an Android live wallpaper, and fixing the Flutter Impeller black screen in WallpaperService along the way."
+ },
+ "https://news.xbox.com/en-us/2026/11/17/how-to-get-ready-for-november-19": {
+  "zh_title": "如何为 11 月 19 日做好准备",
+  "zh_oneliner": "Xbox 在为 11 月 19 日这个日子预热，文章列出了玩家可以提前做的准备。",
+  "en_title": "How to Get Ready for November 19",
+  "en_oneliner": "Xbox is building up to November 19, with a rundown of what players can do to get ready."
+ },
+ "https://indienova.com/indie-game-news/nova-post-2026-46": {
+  "zh_title": "诺娃独立游戏通讯 2026-#46",
+  "zh_oneliner": "本期诺娃通讯精选了站内近期新增的会员游戏和开发日志，涵盖回合制策略卡牌、多分支现实模拟等国内独立开发者的新动态。",
+  "en_title": "Nova Indie Game Newsletter 2026-#46",
+  "en_oneliner": "This issue of the Nova newsletter rounds up recently added member games and devlogs from the indienova community, including a turn-based strategy card game and a branching workplace simulation."
  }
 }
