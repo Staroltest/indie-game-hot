@@ -16378,5 +16378,53 @@
   "zh_oneliner": "《GTA 6》的作弊码要等主线全通关才能用，而且一旦启用就会锁住进度，玩起来得先掂量清楚。",
   "en_title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
   "en_oneliner": "GTA 6 keeps cheats locked until the main story is finished, and using them freezes progression — so think twice before turning them on."
+ },
+ "https://unity.com/blog/the-inflection-point-why-mobile-gaming-is-becoming-essential-to-the-digital-advertising-mix": {
+  "zh_title": "拐点已至：移动游戏为何正成为数字广告组合中不可或缺的一环",
+  "zh_oneliner": "受众规模与广告支出的差距正在缩小，Unity 拆解了更精准的衡量与定向能力如何让手游成为广告主绕不开的投放渠道。",
+  "en_title": "The inflection point: why mobile gaming is becoming essential to the digital advertising mix",
+  "en_oneliner": "As the gap between audience scale and ad spend closes, Unity explains how better measurement and addressability are turning mobile gaming into an essential channel for advertisers."
+ },
+ "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding": {
+  "zh_title": "《光与影：33号远征队》叙事主创想改变游戏融资的叙事",
+  "zh_oneliner": "拿奖拿到手软之后，《33号远征队》的叙事主创 Jennifer Svedberg-Yen 想改写行业对游戏融资优先级的固有看法。",
+  "en_title": "Clair Obscur: Expedition 33's narrative lead wants to change game funding",
+  "en_oneliner": "After sweeping awards, Clair Obscur: Expedition 33 narrative lead Jennifer Svedberg-Yen wants to rewrite how the industry thinks about priorities in game funding."
+ },
+ "https://www.indiedb.com/games/ultiro/news/switch-between-2d-and-3d-at-any-minute-meet-the-monk-and-invasions-reach-the-middle-of-the-game": {
+  "zh_title": "随时在 2D 与 3D 间切换，迎接武僧职业与中期地图入侵",
+  "zh_oneliner": "这款浏览器全掉落 MMORPG 允许同一角色在同一服务器内随时切换 2D 与 3D 视角，同时新增第七职业武僧与中期地图入侵玩法。",
+  "en_title": "Switch between 2D and 3D at any minute, meet the Monk, and invasions reach the middle of the game",
+  "en_oneliner": "The browser full-loot MMORPG now lets the same hero switch between 2D and 3D at any moment on the same server, adding a seventh class, the Monk, and invasions to mid-game maps."
+ },
+ "https://www.indiedb.com/games/casa-dolce-casa/news/update-052-seasons-courtyard-parties-and-a-warm-welcome-for-new-neighbours": {
+  "zh_title": "0.52 更新：四季庭院、派对与新邻居的暖心迎接",
+  "zh_oneliner": "0.52 版让庭院随季节变化，楼栋派对成了带通知与组队奖励的正式约会，新邻居也能收到邻里们的热情欢迎。",
+  "en_title": "Update 0.52: seasons, courtyard parties and a warm welcome for new neighbours",
+  "en_oneliner": "Update 0.52 makes the courtyard change with the seasons, turns building parties into real dates with notifications and group bonuses, and gives new neighbours a warm welcome."
+ },
+ "https://www.indiedb.com/games/doctrine-strike/news/9-launchers-that-raise-to-fire-and-fold-flat-to-drive": {
+  "zh_title": "9 种发射器：开火时竖起，行进时折叠放平",
+  "zh_oneliner": "《Doctrine Strike》里的火箭车、防空发射器与榴弹炮停车后竖起发射器开火，收起放平后才能继续行驶，载具动画细节拉满。",
+  "en_title": "9 launchers that raise to fire and fold flat to drive",
+  "en_oneliner": "Rocket trucks, air defence launchers and howitzers in Doctrine Strike stop, raise their launchers to fire, and fold them flat again before driving off."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars": {
+  "zh_title": "GTA 6 改了偷车玩法：细铁丝、钥匙克隆器与追踪器全解析",
+  "zh_oneliner": "车变聪明了，偷车的人也得跟上，PC Gamer 整理了 GTA 6 里细铁丝、钥匙克隆器与追踪器等新偷车机制的完整说明。",
+  "en_title": "GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices",
+  "en_oneliner": "Cars have gotten smarter, and so have car thieves — PC Gamer breaks down GTA 6's new car-stealing systems, from slim jims and key cloners to tracking devices."
+ },
+ "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video": {
+  "zh_title": "Embark 就用 AI 语音替换《The Finals》电竞解说道歉，相关视频已删除",
+  "zh_oneliner": "遭投诉后工作室撤下了视频，并承认用 AI 语音替换实际参与赛事的解说“不是正确的决定”。",
+  "en_title": "Embark Studios apologizes for replacing esports casters with AI voices in now-deleted The Finals video",
+  "en_oneliner": "After a wave of complaints, the studio pulled the video and admitted replacing the casters who actually worked the tournament with AI voices \"wasn't the right call.\""
+ },
+ "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital": {
+  "zh_title": "删掉硬盘里的 GTA 6，独立发行商 Devolver 或许会送你一款免费游戏",
+  "zh_oneliner": "GTA 6 今夜全球发售，但 Devolver 偏要唱反调：删掉它，就有机会免费拿到自家的《Volvy's Adventure》。",
+  "en_title": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
+  "en_oneliner": "GTA 6 launches at midnight everywhere, but Devolver Digital is pushing back — delete it from your hard drive and you might get a free copy of its own Volvy's Adventure."
  }
 }
