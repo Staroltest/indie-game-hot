@@ -15124,5 +15124,29 @@
   "en_title": "How We Build Pentomino Levels with Dancing Links",
   "zh_oneliner": "介绍了《Pentolings》如何用精确覆盖算法保证 150 个关卡都有解且随时能给提示，关卡设计者可以参考这套生成思路。",
   "zh_title": "我们如何用 Dancing Links 算法生成五格骨牌关卡"
+ },
+ "https://www.gcores.com/radios/222483": {
+  "zh_title": "Vol.145 《死神千年血战篇》的动画结局和漫画结局哪个更烧心？",
+  "zh_oneliner": "一期老粉丝向的播客，复盘《死神》千年血战篇动画与漫画两种结局的改编得失与争议。",
+  "en_title": "Vol. 145: Which ending of Bleach: Thousand-Year Blood War hurts more — the anime or the manga?",
+  "en_oneliner": "A fan-oriented podcast episode revisiting how the anime and manga endings of Bleach: Thousand-Year Blood War differ, and why both remain divisive."
+ },
+ "https://www.gcores.com/radios/222482": {
+  "zh_title": "好评如潮的《影之刃零》，有当代顶尖的服务精神 | 走神大师234",
+  "zh_oneliner": "六位主播一起聊《影之刃零》的战斗、系统与剧情，探讨这款近期热门国产动作游戏好评背后的服务与打磨。",
+  "en_title": "Phantom Blade Zero earns its acclaim with top-tier service ethos | Zou Shen Da Shi 234",
+  "en_oneliner": "Six hosts discuss Phantom Blade Zero's combat, systems and story, and what its polish and service attitude mean for a breakout action game."
+ },
+ "https://dev.to/uchitchakma/architecting-a-60fps-real-time-multiplayer-stickman-battle-arena-with-html5-canvas-websockets-4268": {
+  "zh_title": "用 HTML5 Canvas 与 WebSockets 架构 60FPS 实时多人火柴人对战竞技场：《Paper War》的工程实践",
+  "zh_oneliner": "一篇实战复盘，讲如何在标准浏览器里用 Canvas 与 WebSocket 搭出 60FPS 的实时多人火柴人对战，并保证同步与手感。",
+  "en_title": "Architecting a 60FPS Real-Time Multiplayer Stickman Battle Arena with HTML5 Canvas & WebSockets: The Engineering of Paper War",
+  "en_oneliner": "A hands-on breakdown of building a 60 FPS real-time multiplayer stickman battle arena in the browser with HTML5 Canvas and WebSockets, covering sync and game feel."
+ },
+ "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls": {
+  "zh_title": "《战锤40K：暗潮》新职业战斗修女学徒：圣手雷加能把敌人钉墙上的十字弓",
+  "zh_oneliner": "《暗潮》新职业战斗修女学徒登场，圣手雷与钉墙十字弓是亮点，一篇职业机制与武器搭配的速览。",
+  "en_title": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls",
+  "en_oneliner": "Darktide's new Sister Novitiate class arrives with a holy hand grenade and a wall-pinning crossbow — a quick look at the kit and its weapon synergies."
  }
 }
