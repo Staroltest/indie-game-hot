@@ -15856,5 +15856,41 @@
   "zh_oneliner": "前 Take-Two 高管认为，大作开发周期长、风险高，五年后推出时世界可能早已不在乎，只有 GTA 6 是例外。",
   "en_title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
   "en_oneliner": "A former Take-Two boss argues that making big games is unsustainable because of long cycles and high risk — a game may arrive five years later to a world that no longer cares — with GTA 6 as the exception."
+ },
+ "https://unity.com/blog/how-to-playtest-your-first-video-game": {
+  "zh_title": "如何为你的第一款电子游戏做 Playtest",
+  "zh_oneliner": "Unity 官方的新手指南，讲清什么是 Playtest、为什么重要，以及如何组织一次测试并把反馈落到用 AI 辅助开发的流程里。",
+  "en_title": "How to playtest your first video game",
+  "en_oneliner": "Unity's beginner guide explains what playtesting is, why it matters, and how to run a session and act on feedback while building with AI."
+ },
+ "https://80.lv/articles/revopoint-s-miraco-2-combines-portable-3d-scanning-with-automated-scan-to-cad": {
+  "zh_title": "Revopoint MIRACO 2：便携 3D 扫描结合自动 Scan-to-CAD",
+  "zh_oneliner": "Revopoint 新款便携扫描仪登陆众筹，六种扫描模式、最高 0.02 毫米精度，内置处理与全彩采集，还能一键把扫描结果转成 CAD 模型，适合做资产扫描的独立团队关注。",
+  "en_title": "Revopoint's MIRACO 2 Combines Portable 3D Scanning With Automated Scan-to-CAD",
+  "en_oneliner": "Revopoint's new portable scanner launches on Kickstarter with six modes, up to 0.02mm accuracy, onboard processing and full-color capture, plus automated Scan-to-CAD for turning scans into usable assets."
+ },
+ "https://80.lv/articles/the-binding-of-isaac-creator-on-its-staying-power-ideas-for-his-games": {
+  "zh_title": "《以撒的结合》创作者谈游戏的长寿秘诀与创意来源",
+  "zh_oneliner": "Edmund McMillen 聊了《以撒的结合：忏悔+》为何选在 GTA 6 同日登陆主机、这款游戏自 2011 年 Flash 原版以来的变化，以及他为新项目想点子的过程。",
+  "en_title": "The Binding of Isaac Creator on Its Staying Power & Ideas for His Games",
+  "en_oneliner": "Edmund McMillen talks about launching The Binding of Isaac: Repentance+ on consoles the same day as GTA 6, how the game has changed since its 2011 Flash original, and how he comes up with ideas for new projects."
+ },
+ "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions": {
+  "zh_title": "GTA 6 通关后无法重玩任务，但可用多存档，Rockstar 称任务已“更难失败”",
+  "zh_oneliner": "Rockstar 确认 GTA 6 主线任务通关后不能重玩，只能靠多存档回溯，并解释了本作如何通过设计让任务更难失败，值得做任务流程设计的开发者参考。",
+  "en_title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
+  "en_oneliner": "Rockstar confirms GTA 6 missions cannot be replayed once completed, though multiple save files offer a workaround, and explains how the game makes missions harder to fail."
+ },
+ "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction": {
+  "zh_title": "《无限暖暖》因马斯克母亲代言遭玩家抵制，背后或有真实原因",
+  "zh_oneliner": "《无限暖暖》因马斯克母亲参与推广再陷争议，部分玩家扬言抵制，不过这次风波背后可能另有实情，值得关注社区舆情的开发者一读。",
+  "en_title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
+  "en_oneliner": "Infinity Nikki faces a fan boycott threat after a promotion involving Elon Musk's mother, though there may be a genuine reason behind her involvement."
+ },
+ "https://www.pocketgamer.biz/china-and-japan-dominate-the-game-awards-best-mobile-game-nominees": {
+  "zh_title": "中日游戏包揽 The Game Awards 最佳手游提名",
+  "zh_oneliner": "The Game Awards 2026 最佳手游五项提名全部来自中日厂商，中国开发者占了四席，提名名单本身就是一份值得留意的移动市场风向标。",
+  "en_title": "China and Japan dominate The Game Awards Best Mobile Game nominees",
+  "en_oneliner": "All five Best Mobile Game nominees at The Game Awards 2026 come from China and Japan, with Chinese developers taking four of the slots."
  }
 }
