@@ -16546,5 +16546,35 @@
   "zh_oneliner": "《光与影：33号远征队》主编剧 Jennifer Svedberg-Yen 表示，她在完成这款热门 RPG 的工作后于去年 7 月离开了工作室。",
   "en_title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
   "en_oneliner": "Clair Obscur: Expedition 33 lead writer Jennifer Svedberg-Yen says she left Sandfall Interactive in July after finishing work on the studio's hit RPG."
+ },
+ "https://dev.to/trendzbetagames/engineering-the-212-gb-launch-how-gta-6-redefines-real-time-asset-streaming-and-console-performance-2fdo": {
+  "zh_title": "《GTA 6》212GB 首发的工程内幕：实时资源流式加载与主机性能如何被重新定义",
+  "zh_oneliner": "从 212GB 安装体量切入，拆解《GTA 6》如何用直通存储解压与流式加载预算消灭开放世界读条，以及光追全局光照在画质与帧率之间的取舍。",
+  "en_title": "Engineering the 212 GB Launch: How GTA 6 Redefines Real-Time Asset Streaming and Console Performance",
+  "en_oneliner": "Starting from the 212 GB install size, it breaks down how GTA 6 uses direct-storage decompression and streaming budgets to eliminate open-world loading screens, and how ray-traced global illumination trades off against frame rate."
+ },
+ "https://dev.to/juegostudiosofficial/shipping-a-unity-content-update-without-a-full-store-release-an-addressables-checklist-55el": {
+  "zh_title": "不用重新上架商店，也能给 Unity 游戏推内容更新：一份 Addressables 检查清单",
+  "zh_oneliner": "讲清如何用 Addressables 把新关卡、皮肤和季节活动直接推给已上线游戏，绕过商店审核等待，以及上线前要逐项核对的目录、着色器与下载断点坑。",
+  "en_title": "Shipping a Unity Content Update Without a Full Store Release: An Addressables Checklist",
+  "en_oneliner": "It explains how Addressables lets you push new levels, cosmetics and seasonal events to a live game without waiting on store review, plus the catalogue, shader and download pitfalls to check before every remote update."
+ },
+ "https://dev.to/babylone01/french-tarot-for-5-players-explained-calling-a-king-and-scoring-a-hand-5f78": {
+  "zh_title": "五人法式塔罗详解：叫王与计分规则",
+  "zh_oneliner": "作者在开发塔罗游戏时把五人玩法写成代码，顺带讲透发牌、叫王与完整计分示例，适合想做卡牌玩法的开发者参考规则落地方式。",
+  "en_title": "French tarot for 5 players, explained: calling a king and scoring a hand",
+  "en_oneliner": "While building a tarot game, the author turned the five-player variant into code and explains the deal, calling a king and a fully worked scoring example — a useful look at how to turn a card-game ruleset into software."
+ },
+ "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones": {
+  "zh_title": "万智牌×星际迷航联动值得买吗：这次联动做对了",
+  "zh_oneliner": "万智牌“宇宙之外”系列联动星际迷航，这篇聊它为什么是少数做得好的跨界联动，以及哪些牌值得收藏玩家留意。",
+  "en_title": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones",
+  "en_oneliner": "Magic: The Gathering's Universes Beyond line crosses over with Star Trek, and this piece looks at why it is one of the rare crossovers that actually works — and which cards are worth a collector's attention."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter": {
+  "zh_title": "《GTA 6》开局就能拿到飞机和直升机的位置指南",
+  "zh_oneliner": "刚开局就能偷到的第一架飞机和直升机位置，省去满地图乱找的时间。",
+  "en_title": "GTA 6: Where to find your first plane and helicopter right away",
+  "en_oneliner": "The locations of the first plane and helicopter you can grab right at the start, so you don't have to search the whole map for them."
  }
 }
