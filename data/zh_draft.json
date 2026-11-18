@@ -15298,5 +15298,23 @@
   "zh_oneliner": "作者本人并不写游戏 AI，他定下目标、约束与验收标准，让 AI 智能体写代码、本地测试并迭代，最终做出了通过 200 场排位对局的坦克机器人。",
   "en_title": "I Directed an AI Agent to Build a Tank Bot — It Just Passed 200 Ranked Sets",
   "en_oneliner": "The author doesn't write game AI for a living — instead he set the goals, constraints, and acceptance bar, and directed an AI agent to write, test, and iterate the code until its tank bot passed 200 ranked matches."
+ },
+ "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil": {
+  "zh_title": "动荡时期如何营造包容的公司文化",
+  "zh_oneliner": "行业动荡之际，工作室更应把注意力放回内部，用积极的团队文化稳住人心、留住人才。",
+  "en_title": "How to build a welcoming company culture in times of turmoil",
+  "en_oneliner": "When the industry is in turmoil, studios should look inward and build a positive team culture that steadies people and keeps talent."
+ },
+ "https://80.lv/articles/recreating-napoleon-s-flintlock-pistols-as-game-ready-3d-assets": {
+  "zh_title": "把拿破仑时代的燧发手枪做成游戏可用 3D 资产",
+  "zh_oneliner": "3D 艺术家分享如何从零搭建 19 世纪燧发手枪的造型、把控比例，并通过烘焙保留枪身雕刻细节。",
+  "en_title": "Recreating Napoleon's Flintlock Pistols as Game-Ready 3D Assets",
+  "en_oneliner": "A 3D artist walks through blocking out 19th-century flintlock pistols, nailing the proportions, and baking the engravings into game-ready assets."
+ },
+ "https://www.gcores.com/articles/222490": {
+  "zh_title": "《护林员之路：国家公园模拟器》今日登陆 PC 与主机平台",
+  "zh_oneliner": "国家公园模拟新作今日发售，PC 抢先体验版同步加入双人合作与新任务。",
+  "en_title": "Ranger’s Path: National Park Simulator Launches Today on PC and Consoles",
+  "en_oneliner": "The national park simulator launches today, with the PC early access version adding co-op multiplayer and new missions."
  }
 }
