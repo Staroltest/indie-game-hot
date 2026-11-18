@@ -16354,5 +16354,29 @@
   "zh_oneliner": "GTA 6 发售之际的玩家闲聊：第一件事打算干什么，没有标准答案。",
   "en_title": "What's the first thing you're gonna do in GTA 6?",
   "en_oneliner": "A light player chat for GTA 6 launch day: what's the first thing you're going to do? No wrong answers."
+ },
+ "https://80.lv/articles/rockstar-boss-says-gta-6-was-made-to-show-what-games-are-capable-of": {
+  "zh_title": "Rockstar 负责人称《GTA 6》旨在展现游戏“所能达到的高度”",
+  "zh_oneliner": "Rockstar 总裁 Sam Houser 罕见发声，称《GTA 6》意在超越玩家期待、展现游戏媒介的可能性。",
+  "en_title": "Rockstar Boss Says GTA 6 Was Made to Show What Games Are \"Capable Of\"",
+  "en_oneliner": "Rockstar president Sam Houser broke his silence, saying GTA 6 was made to exceed expectations and show what the medium can achieve."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-1ifm": {
+  "zh_title": "用 6 行 JS 屏幕震动加顿帧技巧，立刻给游戏加上“打击感”",
+  "zh_oneliner": "不用物理引擎，六行代码就能在渲染循环里实现屏幕震动与顿帧，让 2D 网页小游戏瞬间有了街机般的手感。",
+  "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+  "en_oneliner": "No physics engine needed — six lines of code add screen shake and hit-stop to your render loop, giving a 2D browser game instant arcade feel."
+ },
+ "https://dev.to/guoqiang_cheng_ef2e61a12d/ashes-of-the-singularity-ii-a-fan-wiki-for-factions-turinium-and-multiplayer-5ch3": {
+  "zh_title": "《Ashes of the Singularity II》玩家维基：阵营、Turinium 资源与多人玩法",
+  "zh_oneliner": "一位玩家在多人对战中屡屡碰壁后，自建维基梳理这款大型 RTS 的阵营、Turinium 争夺与多人打法。",
+  "en_title": "Ashes of the Singularity II: a fan wiki for factions, Turinium and multiplayer",
+  "en_oneliner": "After struggling in multiplayer, a player built a fan wiki mapping the large-scale RTS's factions, Turinium control, and multiplayer tactics."
+ },
+ "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story": {
+  "zh_title": "《GTA 6》通关主线前无法使用作弊码，使用后还会锁定进度",
+  "zh_oneliner": "《GTA 6》的作弊码要等主线全通关才能用，而且一旦启用就会锁住进度，玩起来得先掂量清楚。",
+  "en_title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
+  "en_oneliner": "GTA 6 keeps cheats locked until the main story is finished, and using them freezes progression — so think twice before turning them on."
  }
 }
