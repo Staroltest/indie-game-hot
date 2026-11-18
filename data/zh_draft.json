@@ -15556,5 +15556,77 @@
   "zh_oneliner": "本周移动游戏数据速递汇总了 Pixel Flow、怪物猎人等产品的表现与 10 月畅销榜、任天堂财报，还有 Liftoff 等厂商的业务动态。",
   "en_title": "Data digest: Pixel Flow, Monster Hunter, October’s top games, Nintendo numbers, more",
   "en_oneliner": "This week's mobile data digest covers Pixel Flow, Monster Hunter, October's top games and Nintendo's numbers, plus business updates from Liftoff and other publishers."
+ },
+ "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews": {
+  "zh_title": "背负 6170 万英镑债务的《MindsEye》开发商 Build a Rocket Boy 破产之际仍借钱打官司，称遭遇有组织的差评抹黑",
+  "zh_oneliner": "破产文件披露 Build a Rocket Boy 欠债约 6170 万英镑，管理层却又借新债起诉所谓有组织的差评抹黑行动，称 MindsEye 是蓄意破坏的受害者。",
+  "en_title": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
+  "en_oneliner": "Bankruptcy filings show Build a Rocket Boy owes about £61.7 million, yet its leadership has taken on more loans to sue over an alleged coordinated campaign of negative reviews against MindsEye."
+ },
+ "https://dev.to/techs_slash_e51f13e16b5fc/refurbished-gaming-laptop-how-to-buy-one-that-is-not-a-lemon-5755": {
+  "zh_title": "翻新游戏本怎么买才不踩坑",
+  "zh_oneliner": "文章按验机流程拆解翻新游戏本的常见隐患，从电池、风扇到屏幕暗病，帮预算有限的开发者淘到一台真正能用的主力机。",
+  "en_title": "Refurbished Gaming Laptop? How to Buy One That Is Not a Lemon",
+  "en_oneliner": "A practical checklist for buying a refurbished gaming laptop, covering battery, fans, screen faults and warranty traps so a bargain does not turn into an expensive mistake."
+ },
+ "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates": {
+  "zh_title": "《杀戮尖塔 2》成今年最畅销游戏之一：仅登陆 PC，抢先体验以来预估已卖 790 万份",
+  "zh_oneliner": "上线抢先体验八个月，《杀戮尖塔 2》预估销量已达 790 万份，平均每月卖出约 100 万份，证明小团队卡牌 Roguelike 也能在 PC 独占下冲进年度畅销榜。",
+  "en_title": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\"",
+  "en_oneliner": "Slay the Spire 2 is estimated to have sold 7.9 million copies since its March Early Access launch, averaging about a million a month despite being PC-only."
+ },
+ "https://www.pocketgamer.biz/you-cant-hide-behind-a-dashboard-gameloft-montreal-matt-lee-playtests": {
+  "zh_title": "“别躲在仪表盘后面”：Gameloft 蒙特利尔的 Matt Lee 为何用全员试玩取代站会",
+  "zh_oneliner": "Gameloft 蒙特利尔执行制作人 Matt Lee 让站会让位于全员一起玩游戏，认为只有亲手玩到当前版本，团队才能看清产品的真实状态。",
+  "en_title": "\"You can't hide behind a dashboard\": Why Gameloft Montreal's Matt Lee swapped standups for playtests",
+  "en_oneliner": "Gameloft Montreal executive producer Matt Lee replaced daily standups with whole-team playtests, arguing that playing the build together reveals what no dashboard or task list can."
+ },
+ "https://80.lv/articles/this-children-s-crayola-doodle-inspired-animation-blends-2d-3d": {
+  "zh_title": "童趣涂鸦风动画：2D 与 3D 这样融合",
+  "zh_oneliner": "动画师 André Dias 分享了为 Crayola 制作的涂鸦风短片流程，把手绘 2D 质感与 3D 元素拼在一起，值得做风格化美术的开发者参考。",
+  "en_title": "This Children's Crayola Doodle-Inspired Animation Blends 2D & 3D",
+  "en_oneliner": "Animator André Dias shares how he blended hand-drawn 2D charm with 3D elements for a Crayola spot, a useful reference for stylized art direction."
+ },
+ "https://80.lv/articles/houdini-style-gpu-accelerated-grain-simulations-in-blender": {
+  "zh_title": "Blender 里也能做 Houdini 风格的 GPU 加速颗粒模拟",
+  "zh_oneliner": "工具 Carnage 把沙粒、泥浆与积雪这类颗粒效果搬进 Blender 并用 GPU 加速，独立开发者不用 Houdini 也能尝试电影级颗粒模拟。",
+  "en_title": "Houdini-Style GPU-Accelerated Grain Simulations In Blender",
+  "en_oneliner": "The Carnage tool brings Houdini-style GPU-accelerated grain simulations for sand, mud and snow into Blender, so indie developers can try film-grade particle effects without Houdini."
+ },
+ "https://80.lv/articles/sam-altman-wants-you-to-have-a-lot-of-ram-but-ideally-we-all-should-share-it": {
+  "zh_title": "Sam Altman 谈内存：人人该有大内存，但最好大家一起共享",
+  "zh_oneliner": "OpenAI 首席执行官 Sam Altman 解释了此前关于 DRAM 的言论：大量内存闲置在个人电脑里是浪费，理想状态是按需共享算力与内存资源。",
+  "en_title": "Sam Altman Wants You to Have a Lot of RAM – But Ideally, We All Should Share It",
+  "en_oneliner": "OpenAI CEO Sam Altman clarifies his remarks on DRAM, arguing that memory sitting idle in PCs most of the time is wasteful and that shared, on-demand resources make more sense."
+ },
+ "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever": {
+  "zh_title": "《GTA 6》与《塞尔达传说：时之笛》并列史上评分最高游戏",
+  "zh_oneliner": "《GTA 6》媒体评分出炉，Metacritic 上以 99 分、134 篇评测与《时之笛》并列历史最高，不过随着更多评测加入排名仍可能变动。",
+  "en_title": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever",
+  "en_oneliner": "GTA 6 reviews are in, and with a 99 on Metacritic across 134 reviews it ties The Legend of Zelda: Ocarina of Time as the highest-rated game ever, though the ranking may still shift."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates": {
+  "zh_title": "贝索斯称“不请回黄仁勋就别从外面招人”，英伟达表示将内外兼顾物色人选",
+  "zh_oneliner": "亚马逊老板贝索斯公开表示英伟达应请回黄仁勋而非外聘，英伟达则回应称会同时考虑内部与外部候选人，这场高管人选之争仍在发酵。",
+  "en_title": "'If you don't bring Jensen back, I would not hire an outsider,' says Amazon boss Jeff Bezos, but Nvidia says it's going to look at internal and external candidates",
+  "en_oneliner": "Amazon boss Jeff Bezos says Nvidia should bring Jensen Huang back rather than hire an outsider, while Nvidia says it will consider both internal and external candidates."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list": {
+  "zh_title": "《GTA 6》成就全列表：通往 100% 完成度的每项违法挑战",
+  "zh_oneliner": "一份完整的《GTA 6》成就清单，逐项列出达成 100% 完成度需要完成的各类挑战，适合想全收集的玩家按图索骥。",
+  "en_title": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion",
+  "en_oneliner": "A complete GTA 6 achievement checklist covering every challenge standing between players and 100% completion."
+ },
+ "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs": {
+  "zh_title": "Netflix 确认游戏部门裁员",
+  "zh_oneliner": "Netflix 确认在近期重组后裁撤了游戏部门的少量岗位，称此举不会影响整体游戏战略，但公司正调整游戏开发的打法。",
+  "en_title": "Netflix confirms games division layoffs",
+  "en_oneliner": "Netflix has confirmed a small number of layoffs in its games division following a recent restructuring, saying the cuts will not affect its wider games strategy."
+ },
+ "https://www.pocketgamer.biz/pokmon-go-teams-up-with-duolingo-and-crocs-for-new-rewards": {
+  "zh_title": "《Pokémon GO》联动多邻国与 Crocs 推出新奖励",
+  "zh_oneliner": "《Pokémon GO》与多邻国、Crocs 展开跨界联动，玩家通过完成语言课程与限时调查可获得奖励，展示了跨品类联动拉活的玩法。",
+  "en_title": "Pokémon GO teams up with Duolingo and Crocs for new rewards",
+  "en_oneliner": "Pokémon GO has teamed up with Duolingo and Crocs on a crossover offering rewards for completing language lessons and Timed Research."
  }
 }
