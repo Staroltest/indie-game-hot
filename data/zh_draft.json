@@ -16426,5 +16426,23 @@
   "zh_oneliner": "GTA 6 今夜全球发售，但 Devolver 偏要唱反调：删掉它，就有机会免费拿到自家的《Volvy's Adventure》。",
   "en_title": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
   "en_oneliner": "GTA 6 launches at midnight everywhere, but Devolver Digital is pushing back — delete it from your hard drive and you might get a free copy of its own Volvy's Adventure."
+ },
+ "https://gamedev.net/blogs/entry/2298683-imagine-development-library": {
+  "zh_title": "Imagine 开发库",
+  "zh_oneliner": "GameDev.net 博客记录 Scrut 标准开发库的开发进展，介绍 Imagine 开发库的最新动态。",
+  "en_title": "Imagine Development Library",
+  "en_oneliner": "A GameDev.net blog tracking progress on the Scrut Standard Development Library and the Imagine Development Library."
+ },
+ "https://gamedev.net/forums/topic/720864-video-of-our-game-in-progress": {
+  "zh_title": "开发中的游戏实机视频",
+  "zh_oneliner": "开发者晒出自家游戏的开发中实机视频，全部美术出自 @Warp9，并向社区请教如何让画面更有亮点。",
+  "en_title": "Video of our game in progress",
+  "en_oneliner": "A developer shares in-progress gameplay footage — all art by @Warp9 — and asks the community how to make it pop."
+ },
+ "https://dev.to/idlecultivation/browser-idle-games-live-or-die-on-their-small-screens-51b": {
+  "zh_title": "浏览器放置游戏的成败取决于小屏幕",
+  "zh_oneliner": "一篇放置游戏开发日志，复盘三十次提交的开发进展，聊浏览器放置类游戏如何在小屏幕上立住脚。",
+  "en_title": "Browser idle games live or die on their small screens",
+  "en_oneliner": "An idle-game devlog recapping thirty commits, on why browser idle games live or die by their small screens."
  }
 }
