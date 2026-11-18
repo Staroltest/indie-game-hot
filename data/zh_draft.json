@@ -16474,5 +16474,23 @@
   "zh_oneliner": "一位已投入 100 小时通关《GTA 6》主线的编辑开贴答疑，邀请读者在评论区提问。",
   "en_title": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)",
   "en_oneliner": "An editor who has spent 100 hours finishing GTA 6's main story opens the floor to reader questions."
+ },
+ "https://80.lv/articles/behind-the-incredible-new-tech-and-systems-rockstar-built-to-make-gta-6-feel-alive": {
+  "zh_title": "Rockstar 为让 GTA 6 活起来打造的惊人新技术与系统揭秘",
+  "zh_oneliner": "从会动的床单、按体力出汗到自适应动画、随风传播的语音和更聪明的警察，拆解 Rockstar 为 GTA 6 重构开放世界所用的技术思路。",
+  "en_title": "Behind The Incredible New Tech and Systems Rockstar Built to Make GTA 6 Feel Alive",
+  "en_oneliner": "From functional bedsheets and exertion-based sweat to adaptive animations, wind-carried voices and smarter police, a look at how Rockstar rethought its open-world tech for GTA 6."
+ },
+ "https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac": {
+  "zh_title": "确定性 JS 智能体中每 Tick O(1) 寻路与速度停滞恢复",
+  "zh_oneliner": "在每 Tick 只有 10 毫秒预算的确定性对局里，作者分享了一套零分配的预计算距离场方案，让寻路开销稳定保持在 O(1)。",
+  "en_title": "O(1) Per-Tick Pathfinding and Velocity-Stall Recovery in Deterministic JS Agents",
+  "en_oneliner": "With only 10ms per tick in deterministic arenas, the author shares a precomputed distance-field pattern that keeps pathfinding at O(1) with zero allocations during play."
+ },
+ "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship": {
+  "zh_title": "GTA 6 日版疑因地区审查，只用丁字裤局部遮挡男性裸体",
+  "zh_oneliner": "日本玩家发现 GTA 6 日版对男性裸露只做了局部遮挡，这处处理方式似乎与当地审查要求有关。",
+  "en_title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+  "en_oneliner": "Japanese players found male nudity in GTA 6 only partially obscured, a treatment that appears tied to regional censorship rules."
  }
 }
