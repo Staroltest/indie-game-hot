@@ -15388,5 +15388,41 @@
   "zh_oneliner": "暴雪对利用《魔兽世界：Forever》黑喉要塞刷金漏洞牟利的玩家出手：封号、冻结交易并没收非法金币，提醒独立开发者——修经济漏洞时，事后追责同样是运营的一部分。",
   "en_title": "Blizzard suspends World of Warcraft: Forever gold exploit abusers, puts trading blocks on their accounts and removes ill-gotten funds for good measure",
   "en_oneliner": "Blizzard suspended players who exploited an unintended gold farm in World of Warcraft: Forever, blocking trades and removing ill-gotten funds — a reminder for indie developers that fixing an economy exploit also means deciding how to handle the aftermath."
+ },
+ "https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good": {
+  "zh_title": "前英伟达 CEO 黄仁勋称愿回归，董事会婉拒",
+  "zh_oneliner": "黄仁勋离职后表示愿为公司与美国回归，英伟达董事会则表态现任管理层一切安好，不打算请他回来。",
+  "en_title": "Ex-Nvidia boss Jensen Huang offers to return if that's best for the company and America, Nvidia board essentially say 'nah, we're all good'",
+  "en_oneliner": "After resigning, Jensen Huang said he would return if it were best for the company and America, while Nvidia's board signalled it is happy with the current leadership and has no plans to bring him back."
+ },
+ "https://80.lv/articles/this-unity-fluid-simulation-tool-lets-you-add-realistic-wet-lens-effects": {
+  "zh_title": "Unity 流体模拟工具 Fluid Frenzy 2.0：给镜头加上逼真的湿镜头效果",
+  "zh_oneliner": "Fluid Frenzy 2.0 让 Unity 开发者能为游戏镜头做出逼真的雨水与湿润效果，文章介绍了新版的用法与细节。",
+  "en_title": "This Unity Fluid Simulation Tool Lets You Add Realistic Wet Lens Effects",
+  "en_oneliner": "Fluid Frenzy 2.0 lets Unity developers add realistic rain and wet-lens effects to their in-game cameras, and this article walks through what is new."
+ },
+ "https://gamedev.net/blogs/entry/2298681-before-the-open-beta-weekend-a-load-test-plan-for-small-multiplayer-teams": {
+  "zh_title": "公开测试周末之前：给小型多人游戏团队的压测计划",
+  "zh_oneliner": "别把公开测试当成第一次压测，这份面向小团队的两周计划教你提前发现服务器瓶颈，安心度过测试周末。",
+  "en_title": "Before the Open Beta Weekend: A Load-Test Plan for Small Multiplayer Teams",
+  "en_oneliner": "Don't let the open beta be your first load test — this two-week plan helps small multiplayer teams find server bottlenecks before the weekend arrives."
+ },
+ "https://www.gcores.com/articles/222503": {
+  "zh_title": "「养一只黄油猫」周边众筹企划感谢名单",
+  "zh_oneliner": "「养一只黄油猫」周边众筹的感谢视频已发布，实物进入最后发货准备，支持者需在 11 月 18 日 24 点前确认收货地址。",
+  "en_title": "Thank-You List for the 'Raise a Butter Cat' Merch Crowdfunding Campaign",
+  "en_oneliner": "The thank-you video for the 'Raise a Butter Cat' merch crowdfunding campaign is out, physical goods are entering final shipping prep, and backers must confirm their delivery address by midnight on 18 November."
+ },
+ "https://dev.to/aionedge/shipping-a-1999-strategy-game-on-linux-arm64-static-linking-sha-256-installers-and-40-new-15do": {
+  "zh_title": "把 1999 年策略游戏搬上 Linux ARM64：静态链接、SHA-256 安装包与 40 张新像素肖像（JA2 v1.13）",
+  "zh_oneliner": "作者把《Jagged Alliance 2》v1.13 非官方移植到 Linux x86_64 与 ARM64，分享了静态链接、安装包校验与新增像素肖像的实战经验。",
+  "en_title": "Shipping a 1999 strategy game on Linux ARM64: static linking, SHA-256 installers and 40 new pixel-art portraits (JA2 v1.13)",
+  "en_oneliner": "The author ported the unofficial Jagged Alliance 2 v1.13 mod natively to Linux on x86_64 and ARM64, sharing hands-on lessons in static linking, installer checksums and 40 new pixel-art portraits."
+ },
+ "https://www.pocketgamer.biz/appcharge-launches-checkout-experimentation-lab-for-d2c-sales": {
+  "zh_title": "Appcharge 推出 Checkout Experimentation Lab，帮手游直销做结账页 A/B 测试",
+  "zh_oneliner": "支付平台 Appcharge 推出结账实验工具，让发行商能对直销结账页做 A/B 测试，优化每位玩家的付款体验。",
+  "en_title": "Appcharge launches Checkout Experimentation Lab for D2C sales",
+  "en_oneliner": "Payments platform Appcharge launched a Checkout Experimentation Lab that lets publishers A/B test their direct-to-consumer checkout pages to tailor the final step of payment for each player."
  }
 }
