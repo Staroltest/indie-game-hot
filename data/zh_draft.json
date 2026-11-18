@@ -15934,5 +15934,71 @@
   "zh_oneliner": "借着 GTA VI 的热度，多款免费手游正试图分一杯羹，Rockstar 自家 GTA 手游收入已突破 9500 万美元，移动端“GTA-like”赛道值得留意。",
   "en_title": "Rockstar’s GTA games pass $95m on mobile as free-to-play contenders emerge",
   "en_oneliner": "Riding GTA VI hype, several free-to-play mobile contenders are chasing the genre while Rockstar's own GTA mobile games pass $95m — a mobile \"GTA-like\" race worth watching."
+ },
+ "https://gamedev.net/blogs/entry/2298682-taking-an-android-game-to-pc-a-two-week-audit-plan-before-you-commit-to-the-port": {
+  "zh_title": "把安卓游戏搬上 PC 之前：两周审计清单，帮你决定值不值得移植",
+  "zh_oneliner": "移植本身很少是难点，真正的坑藏在触屏输入、竖屏 UI、广告变现和手机内存预算这些移动端默认假设里，这篇给出小团队两周内可跑完的移植前审计流程。",
+  "en_title": "Taking an Android Game to PC: A Two-Week Audit Plan Before You Commit to the Port",
+  "en_oneliner": "The port itself is rarely the hard part — the real traps hide in touch-only input, portrait UI, ad-funded economies and phone-sized memory budgets, so here is a two-week audit a small team can run before committing to a porting budget."
+ },
+ "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support": {
+  "zh_title": "《乐高蝙蝠侠：黑暗骑士传奇》更新，Switch 2 新增 GameShare 支持",
+  "zh_oneliner": "这次更新不大，主要是让 Switch 2 玩家能通过 GameChat 用 GameShare 联机，另外还有一批性能与稳定性改进。",
+  "en_title": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support",
+  "en_oneliner": "A small update that adds GameShare support for online multiplayer via GameChat on Switch 2, plus the usual round of performance and stability improvements."
+ },
+ "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences": {
+  "zh_title": "《GTA 6》未正式发售已创纪录：媒体评分与直播观众双双破纪录",
+  "zh_oneliner": "在欧美等地正式发售之前，《GTA 6》已经刷新了媒体评价与直播观众纪录，热度远超发售窗口本身。",
+  "en_title": "GTA 6 arrives to record review scores and streaming audiences",
+  "en_oneliner": "Even before its formal release in Europe and the USA, GTA 6 has already set records for critical response and streaming audiences."
+ },
+ "https://www.indiedb.com/games/forsaken-lands/news/forsaken-lands-a-co-op-roguelite-deckbuilder-launches-on-steam-on-november-18": {
+  "zh_title": "合作肉鸽卡牌构筑游戏《Forsaken Lands》11 月 18 日登陆 Steam",
+  "zh_oneliner": "Spaghetti Cat 与 Lunisky Studio 合作的肉鸽卡牌构筑游戏 11 月 18 日上架 Steam，主打策略卡牌战斗与多人合作玩法。",
+  "en_title": "Forsaken Lands, a Co-op Roguelite Deckbuilder, Launches on Steam on November 18",
+  "en_oneliner": "Spaghetti Cat and Lunisky Studio's cooperative roguelite deckbuilder launches on Steam for PC on November 18, with strategic card-based combat and co-op play at its core."
+ },
+ "https://gamefromscratch.com/godots-new-sponsor-manus-ai": {
+  "zh_title": "Godot 迎来新白金赞助商 Manus AI",
+  "zh_oneliner": "Manus AI 成为 Godot 基金会的白金级赞助商，AI 公司赞助开源项目已不新鲜，但对社区来说仍是个值得关注的动向。",
+  "en_title": "Godot's New Sponsor – Manus AI",
+  "en_oneliner": "Manus AI has joined the Godot Foundation as a platinum-level sponsor — AI companies backing open-source projects is nothing new, but it remains a topic that matters to the community."
+ },
+ "https://dev.to/movetio/movetio-is-live-from-open-test-to-v10-3ed": {
+  "zh_title": "文字黑手党网页游戏 Movetio 正式上线 1.0",
+  "zh_oneliner": "免费文字黑手党浏览器游戏 Movetio 结束公开测试正式发布，玩家可在鹿特丹、阿姆斯特丹与海牙之间走私、组建家族或加入四人犯罪团伙，支持 10 种语言。",
+  "en_title": "Movetio is live: from open test to v1.0",
+  "en_oneliner": "The free text-based mafia browser game Movetio is out of open testing and live at v1.0 — smuggle goods between Dutch cities, build a family with a shared bank, or team up in a four-player organised crime crew, in 10 languages."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance": {
+  "zh_title": "《GTA 6》在 PS5 Pro 上稳定 30 帧，PC 表现值得期待",
+  "zh_oneliner": "在老旧的 RDNA 2 硬件上跑出稳定的 30 帧，这样精细的画面能做到这一点，让人对未来的 PC 版性能抱有希望。",
+  "en_title": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance",
+  "en_oneliner": "Holding a stable 30 fps on ageing RDNA 2 hardware with visuals this detailed is a promising sign for how the PC version might perform."
+ },
+ "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations": {
+  "zh_title": "PlayStation 11 年来首次无缘 The Game Awards 年度游戏提名",
+  "zh_oneliner": "The Game Awards 2026 提名公布，年度游戏名单里 11 年来首次没有 PlayStation 发行作品，自 2015 年以来每年都有提名的纪录就此中断。",
+  "en_title": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years",
+  "en_oneliner": "For the first time since 2015, no PlayStation-published game is nominated for Game of the Year at The Game Awards, ending an 11-year streak."
+ },
+ "https://www.eurogamer.net/gta-6-detailed-fridge-noise": {
+  "zh_title": "《GTA 6》的细节有多夸张？连便利店冰箱都有各自独特的嗡鸣声",
+  "zh_oneliner": "Rockstar 开发者透露，《GTA 6》里每台便利店冰箱都有自己独特的音效，这种对细节的执着正是它被称作“最不可思议的游戏世界”的原因。",
+  "en_title": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev",
+  "en_oneliner": "A Rockstar developer says every convenience store refrigerator in GTA 6 has its own unique sound — the kind of obsessive detail behind calling it the most unbelievable video game world ever made."
+ },
+ "https://www.pocketgamer.biz/november-2026s-movers-and-shakers": {
+  "zh_title": "2026 年 11 月手游行业人事动态：Stillfront、育碧、Nordisk Games 等",
+  "zh_oneliner": "每月例行盘点手游行业最新入职、升职与离职动态，本期涉及 Stillfront、Ubisoft、Nordisk Games、Tripledot 等公司。",
+  "en_title": "November 2026's Movers and Shakers: Stillfront, Ubisoft, Nordisk Games, Tripledot, and more",
+  "en_oneliner": "The monthly roundup of hires, promotions and exits across the mobile games industry, this time covering Stillfront, Ubisoft, Nordisk Games, Tripledot and more."
+ },
+ "https://www.nintendolife.com/news/2026/11/act-quick-nintendos-discounted-its-retro-nso-controllers-for-black-friday-europe": {
+  "zh_title": "抓紧：任天堂复古 NSO 手柄欧洲黑五全线打折",
+  "zh_oneliner": "任天堂经典款 NSO 手柄全系列在欧洲任天堂商店迎来黑五特价，NES 双手柄套装 34.99 英镑，SNES、世嘉 MD 与 N64 手柄也都在列，连 Switch 2 的 GameCube 手柄也打折了。",
+  "en_title": "Act Quick! Nintendo's Discounted Its Retro NSO Controllers For Black Friday (Europe)",
+  "en_oneliner": "Nintendo's full range of classic NSO controllers has a Black Friday discount on the European Nintendo Store, from the NES double pack at £34.99 to the SNES, Mega Drive and N64 pads — even the Switch 2 GameCube controller is included."
  }
 }
