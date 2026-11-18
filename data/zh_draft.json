@@ -16042,5 +16042,35 @@
   "zh_oneliner": "还没正式开玩，GTA 6 就已刷新全平台直播观看人数纪录，Twitch 等平台的热度远超以往大作。",
   "en_title": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world",
   "en_oneliner": "Hours before most players can play it, GTA 6 has already broken the all-time livestream viewer record across platforms like Twitch."
+ },
+ "https://www.rockpapershotgun.com/i-have-double-checked-and-yes-original-gta-killer-driv3r-really-was-that-rubbish": {
+  "zh_title": "我又核实了一遍，没错，当年的“GTA 杀手”Driv3r 真的有那么烂",
+  "zh_oneliner": "回顾《Driv3r》当年的雄心与翻车现场：未兑现的野心、恶性 bug 与乏味的开放世界设计，提醒开发者野心与落地之间的鸿沟。",
+  "en_title": "I have double-checked and yes, original 'GTA killer' Driv3r really was that rubbish",
+  "en_oneliner": "A look back at Driv3r's unfulfilled ambition, nasty bugs and dull open-world design — a reminder of the gap between ambition and execution."
+ },
+ "https://dev.to/trendzbetagames/gta-6-leads-the-game-awards-2026-nominees-with-8-nods-before-launch-key-craft-gamedev-takeaways-4i2e": {
+  "zh_title": "GTA 6 尚未发售已领跑 2026 年游戏大奖提名，获 8 项提名：工艺与开发要点",
+  "zh_oneliner": "《GTA 6》发售前就以 8 项提名领跑游戏大奖，文章梳理了它在工艺与开发层面值得独立开发者借鉴的地方。",
+  "en_title": "GTA 6 Leads The Game Awards 2026 Nominees With 8 Nods Before Launch: Key Craft & Gamedev Takeaways",
+  "en_oneliner": "GTA 6 leads The Game Awards 2026 nominees with 8 nods before launch, and this piece pulls out the craft and gamedev lessons worth noting."
+ },
+ "https://dev.to/zentaolabs/count-osu-skin-animation-frames-with-python-and-compare-them-to-animationframerate-dkp": {
+  "zh_title": "用 Python 统计 osu! 皮肤动画帧数，并与 AnimationFramerate 对照",
+  "zh_oneliner": "一段 Python 脚本帮你清点 osu! 皮肤文件夹里藏着的动画序列，检查帧缺失与帧率设置是否对得上，适合做皮肤工具的开发者参考。",
+  "en_title": "Count osu! skin animation frames with Python and compare them to AnimationFramerate",
+  "en_oneliner": "A Python script that counts the animation frames hiding in an osu! skin folder and checks them against AnimationFramerate — handy reference for anyone building skin tooling."
+ },
+ "https://www.pcgamer.com/software/ai/chinese-ai-firms-and-other-restricted-entities-blocked-from-remotely-accessing-american-ai-chips-which-im-surprised-wasnt-already-a-thing": {
+  "zh_title": "中国 AI 公司等受限实体被禁止远程使用美国 AI 芯片，作者惊讶这居然现在才实行",
+  "zh_oneliner": "美国出台新规，禁止中国 AI 企业等受限实体远程调用美国 AI 芯片，对依赖海外算力的独立开发者与小团队是个值得留意的政策信号。",
+  "en_title": "Chinese AI firms and 'other restricted entities' blocked from remotely accessing American AI chips, which I'm surprised wasn't already a thing",
+  "en_oneliner": "New US rules block Chinese AI firms and other restricted entities from remotely accessing American AI chips — a policy signal worth noting for small teams relying on overseas compute."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet": {
+  "zh_title": "GTA 6 还没发售，就已经把 Reddit 搞崩了",
+  "zh_oneliner": "《GTA 6》尚未发售就冲垮了官方 Reddit 版块，侧面印证了顶级 IP 的宣发热度对社区基础设施的冲击。",
+  "en_title": "GTA 6 is so big, it managed to break Reddit - and it isn't even actually out yet",
+  "en_oneliner": "GTA 6 hasn't even launched yet and it has already overwhelmed its official Reddit community — a snapshot of how a top-tier IP's hype can strain community infrastructure."
  }
 }
