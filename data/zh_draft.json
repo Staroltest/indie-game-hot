@@ -14974,5 +14974,11 @@
   "zh_oneliner": "本期诺娃通讯精选了站内近期新增的会员游戏和开发日志，涵盖回合制策略卡牌、多分支现实模拟等国内独立开发者的新动态。",
   "en_title": "Nova Indie Game Newsletter 2026-#46",
   "en_oneliner": "This issue of the Nova newsletter rounds up recently added member games and devlogs from the indienova community, including a turn-based strategy card game and a branching workplace simulation."
+ },
+ "https://dev.to/cybermax/how-we-made-a-sled-game-whose-leaderboard-cannot-be-faked-1icg": {
+  "zh_title": "我们如何做了一款排行榜无法作弊的雪橇游戏",
+  "zh_oneliner": "作者拆解浏览器雪橇游戏 Sled Volt 的实现，重点讲了一个关键设计决策：如何让排行榜成绩无法伪造。",
+  "en_title": "How we made a sled game whose leaderboard cannot be faked",
+  "en_oneliner": "The author breaks down browser sled game Sled Volt and the key design decision behind a leaderboard that players cannot fake."
  }
 }
