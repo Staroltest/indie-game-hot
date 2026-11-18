@@ -16000,5 +16000,47 @@
   "zh_oneliner": "任天堂经典款 NSO 手柄全系列在欧洲任天堂商店迎来黑五特价，NES 双手柄套装 34.99 英镑，SNES、世嘉 MD 与 N64 手柄也都在列，连 Switch 2 的 GameCube 手柄也打折了。",
   "en_title": "Act Quick! Nintendo's Discounted Its Retro NSO Controllers For Black Friday (Europe)",
   "en_oneliner": "Nintendo's full range of classic NSO controllers has a Black Friday discount on the European Nintendo Store, from the NES double pack at £34.99 to the SNES, Mega Drive and N64 pads — even the Switch 2 GameCube controller is included."
+ },
+ "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of": {
+  "zh_title": "Sam Houser：GTA 6 力求超越玩家期待，展现这一媒介所能达到的高度",
+  "zh_oneliner": "Rockstar 联合创始人 Sam Houser 罕见发声，谈 GTA 6 发售与一片好评，聊聊这款大作背后的创作意图。",
+  "en_title": "Sam Houser: with GTA 6, Rockstar \"tried to create an experience that will exceed your expectations while showing what this medium is capable of\"",
+  "en_oneliner": "Rockstar co-founder Sam Houser speaks out on GTA 6's launch and glowing reception, reflecting on what the team set out to achieve with the game."
+ },
+ "https://gamedev.net/forums/topic/720656-android-idle-internet-cafe-tycoon-feedback-wanted-on-the-first-five-minutes-and-the-buy-or-hire-choice": {
+  "zh_title": "安卓放置游戏《Idle Internet Cafe Tycoon》求反馈：开局五分钟与买还是雇的抉择",
+  "zh_oneliner": "一位独立开发者请同行试玩自己的安卓放置网吧经营游戏，重点想听开局五分钟的体验和买断还是雇佣的取舍建议。",
+  "en_title": "[Android] Idle Internet Cafe Tycoon: feedback wanted on the first five minutes and the buy-or-hire choice",
+  "en_oneliner": "A solo developer invites fellow devs to try an Android idle internet-cafe tycoon and weigh in on the first five minutes and the buy-or-hire decision."
+ },
+ "https://gamedev.net/forums/topic/720825-night-nabbers-a-free-3d-raccoon-stealth-game-that-runs-in-a-browser-tab-feedback-welcome": {
+  "zh_title": "免费 3D 浣熊潜行游戏《Night Nabbers》已上浏览器，欢迎试玩反馈",
+  "zh_oneliner": "小团队把一只浣熊的夜间潜行小游戏做进了浏览器标签页，躲警犬、避探照灯、偷鸟蛋，免费试玩并征集反馈。",
+  "en_title": "Night Nabbers: a free 3D raccoon stealth game that runs in a browser tab (feedback welcome)",
+  "en_oneliner": "A small team put a free 3D raccoon stealth game in a browser tab: dodge guard dogs and searchlights, snatch eggs from nests, and share your feedback."
+ },
+ "https://dev.to/ag4tech/why-take-two-keeps-gta-6-off-game-pass-the-economics-of-day-one-subscriptions-22nl": {
+  "zh_title": "Take-Two 为何不让 GTA 6 首发进 Game Pass：首日订阅的经济学",
+  "zh_oneliner": "Take-Two 认为大作首日进订阅制不划算，本文拆解了这套逻辑，并对照了 GTA 5 登陆 Game Pass 的时间线。",
+  "en_title": "Why Take-Two Keeps GTA 6 Off Game Pass: The Economics of Day-One Subscriptions",
+  "en_oneliner": "Take-Two's CEO argues frontline games don't add up on day-one subscriptions; this piece unpacks the reasoning and compares GTA 5's Game Pass timeline."
+ },
+ "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
+  "zh_title": "8BitDo 推出自家 Switch 2 版 GameCube 手柄，比任天堂官方更便宜",
+  "zh_oneliner": "以复古手柄见长的 8BitDo 发布了 GC 蓝牙手柄，适配 Switch 2，定价比任天堂官方版更亲民。",
+  "en_title": "8BitDo Reveals Its Own GameCube Controller For Switch 2",
+  "en_oneliner": "Known for retro-inspired controllers, 8BitDo announced a GC Bluetooth Gamepad for Switch 2, priced below Nintendo's official version."
+ },
+ "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19": {
+  "zh_title": "《GTA 6》明日发售：杰森与露西娅卷入阳光之州的最暗面",
+  "zh_oneliner": "PlayStation 官方确认 GTA 6 将于 11 月 19 日发售，主角杰森与露西娅在一场失手的抢劫后卷入阳光之州的暗面。",
+  "en_title": "Grand Theft Auto VI launches tomorrow, November 19",
+  "en_oneliner": "PlayStation confirms GTA VI arrives November 19, as Jason and Lucia find themselves on the darkest side of the sunniest place in America after a score goes wrong."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken": {
+  "zh_title": "GTA 6 发售前夜打破直播观看纪录，成史上观看人数最多的游戏直播",
+  "zh_oneliner": "还没正式开玩，GTA 6 就已刷新全平台直播观看人数纪录，Twitch 等平台的热度远超以往大作。",
+  "en_title": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world",
+  "en_oneliner": "Hours before most players can play it, GTA 6 has already broken the all-time livestream viewer record across platforms like Twitch."
  }
 }
