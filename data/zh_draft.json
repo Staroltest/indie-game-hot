@@ -17266,5 +17266,53 @@
   "zh_oneliner": "这篇开发日志梳理了手柄菜单导航的八个检查点，帮独立开发者在首个主机版本前把菜单操作打磨顺滑，避免玩家在开始游戏前就卡住。",
   "en_title": "A Menu Navigation Pass for Controller Players: Eight Checks Before Your First Console Build",
   "en_oneliner": "This dev log walks through eight checks for controller menu navigation, helping indie developers smooth out menu controls before their first console build so players don't get stuck before the game even starts."
+ },
+ "https://gamemaker.io/blog/gamemaker-awards-2026-voting": {
+  "zh_title": "GameMaker Awards 2026 投票开启",
+  "zh_oneliner": "GameMaker 年度奖项投票正式开启，开发者和玩家可以为今年最出色的 GameMaker 游戏与社区贡献者投票。",
+  "en_title": "Voting Is Now Open For The GameMaker Awards 2026",
+  "en_oneliner": "Voting for the GameMaker Awards 2026 is now open — cast a vote for this year's best GameMaker games, resources and community legends."
+ },
+ "https://www.yystv.cn/p/14651": {
+  "zh_title": "没有老板、全员共治：《极乐迪斯科》前主创们告诉我，他们想建立一间「拒绝剥削」的工作室",
+  "zh_oneliner": "《极乐迪斯科》前主创成立的 Summer Eternal 工作室想用全员共治、拒绝剥削的方式做游戏，游研社与他们聊了聊这间新工作室的理念。",
+  "en_title": "No Bosses, All Co-Governed: Disco Elysium Veterans on Building an Exploitation-Free Studio",
+  "en_oneliner": "The Disco Elysium veterans behind Summer Eternal want to build a studio run by co-governance, free of exploitation — Yystv talked to them about how that works."
+ },
+ "https://www.indiedb.com/games/false-clause/news/devlog-01-how-it-all-started": {
+  "zh_title": "开发日志 #01：一切是怎样开始的",
+  "zh_oneliner": "独立游戏 False Clause 的开发者回顾了从概念到试玩版的完整历程，分享故事成型与幕后开发的经验。",
+  "en_title": "Devlog #01: How it all started",
+  "en_oneliner": "The developer of False Clause looks back on the journey from concept to demo, sharing how the story took shape and what went on behind the scenes."
+ },
+ "https://www.indiedb.com/games/lantern-links/news/designing-a-calm-puzzle-for-every-screen-lantern-links-10-171": {
+  "zh_title": "为每块屏幕设计一款平静的解谜游戏：Lantern Links 1.0-1.7.1",
+  "zh_oneliner": "开源管道解谜游戏 Lantern Links 的设计手记：没有时间压力、三次撤销上限与星级评价如何适配手机与宽屏。",
+  "en_title": "Designing a Calm Puzzle for Every Screen: Lantern Links 1.0-1.7.1",
+  "en_oneliner": "A design diary for Lantern Links, a free open-source pipe puzzle — no time pressure, a three-undo limit and par-and-stars scoring that fit phones and wide screens alike."
+ },
+ "https://www.indiedb.com/games/mont3land/news/how-mont3lands-bots-play-and-how-the-game-shows-who-is-winning": {
+  "zh_title": "Mont3land 的机器人如何下棋，以及游戏如何告诉你谁占上风",
+  "zh_oneliner": "Mont3land 用自我对弈和玩家胜局回放调校五个难度等级的机器人，并在每位玩家旁显示胜率。",
+  "en_title": "How Mont3land's bots play, and how the game shows who is winning",
+  "en_oneliner": "Mont3land tunes its five bot levels through self-play and replays of games players won, and shows the chance of winning next to every player."
+ },
+ "https://dev.to/jasonguo/i-built-a-tools-website-for-geometry-dash-players-heres-what-i-learned-2m8f": {
+  "zh_title": "我给 Geometry Dash 玩家做了个工具站——这是我的收获",
+  "zh_oneliner": "一位开发者为 Geometry Dash 玩家做了个工具网站，分享从选关、解谜到社区需求中总结的经验。",
+  "en_title": "I Built a Tools Website for Geometry Dash Players — Here's What I Learned",
+  "en_oneliner": "A developer built a tools website for Geometry Dash players and shares what building it taught them, from picking demons to unlocking vaults."
+ },
+ "https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th": {
+  "zh_title": "《怪物猎人：崛起》11 月 24 日登陆 Netflix Games 移动端",
+  "zh_oneliner": "卡普空的《怪物猎人：崛起》将于 11 月 24 日通过 Netflix Games 登陆移动端，订阅用户可直接游玩。",
+  "en_title": "Monster Hunter Rise coming to mobile via Netflix Games on November 24th",
+  "en_oneliner": "Capcom's Monster Hunter Rise launches on mobile via Netflix Games on November 24th, playable with a subscription."
+ },
+ "https://www.pocketgamer.biz/xsolla-and-dubai-films-and-games-commission-on-building-a-sustainable-games-industry-in-mena": {
+  "zh_title": "迪拜为何“能成为远不止区域游戏中心”的存在",
+  "zh_oneliner": "Xsolla 与迪拜影视游戏委员会探讨中东及北非游戏产业的可持续发展，以及迪拜走向全球枢纽的可能。",
+  "en_title": "Why Dubai \"can become much more than a regional gaming hub\"",
+  "en_oneliner": "Xsolla and the Dubai Films and Games Commission discuss building a sustainable games industry in MENA — and why Dubai could become far more than a regional hub."
  }
 }
