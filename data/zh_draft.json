@@ -17038,5 +17038,17 @@
   "zh_oneliner": "《空之轨迹》第一章在 Switch 与 Switch 2 上更新至 1.0.8 版，修复若干问题，并在画面模式中新增 30fps 锁定选项，第二章也有相应更新。",
   "en_title": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
   "en_oneliner": "Trails in the Sky 1st Chapter updates to version 1.0.8 on Switch and Switch 2 with several fixes, adding a 30fps lock option to graphics mode, with updates for the 2nd Chapter as well."
+ },
+ "https://dev.to/no_momo/kanto-tactics-beginner-guide-skip-the-guesswork-446h": {
+  "zh_title": "Kanto Tactics 新手指南：别再瞎猜了",
+  "zh_oneliner": "浏览器自走棋 Kanto Tactics 的新手入门指南，讲清金币运营、升星取舍与道馆顺序，并附一个免费的随查攻略站，适合想做同类休闲竞技小游戏的开发者参考。",
+  "en_title": "Kanto Tactics Beginner Guide: Skip the Guesswork",
+  "en_oneliner": "A beginner's guide to the browser autobattler Kanto Tactics, covering gold economy, when to merge units, and gym order, plus a free companion reference site — useful reading for developers building similar casual competitive web games."
+ },
+ "https://dev.to/manish_suresh_056f3c6454a/what-animation-studios-actually-want-from-a-game-licensing-partner-31j1": {
+  "zh_title": "动画工作室真正想要什么样的游戏授权合作方",
+  "zh_oneliner": "一位授权负责人从工作室视角拆解游戏 IP 授权谈判：先拿出产品方案与明确的权利包，再谈角色，别只靠一句“角色很好看”去敲门。",
+  "en_title": "What Animation Studios Actually Want From a Game Licensing Partner",
+  "en_oneliner": "A licensing lead explains game IP deals from the studio side: bring a product plan and a clear rights package first, and don't open with just how good the characters would look in your game."
  }
 }
