@@ -16714,5 +16714,65 @@
   "zh_oneliner": "一篇轻剧透的逐日攻略，带玩家走完这款悄然走红的免费恐怖视觉小说，并聊聊它值得被认真对待的地方。",
   "en_title": "The Freak Circus, Day by Day: A Spoiler-Light Walkthrough of the Free Horror Visual Novel",
   "en_oneliner": "A spoiler-light, day-by-day walkthrough of the free horror visual novel The Freak Circus, and why it deserves to be taken seriously."
+ },
+ "http://www.chuapp.com/article/291767.html": {
+  "zh_title": "触乐夜话：我和我的GTA",
+  "zh_oneliner": "一篇轻松的夜话随笔，作者回忆在《大众游戏》杂志社工作时第一次接触 GTA 3 的往事，以及游戏机与手柄带来的种种不习惯。",
+  "en_title": "ChuApp Night Talk: Me and My GTA",
+  "en_oneliner": "A lighthearted night-talk essay recalling the author’s first encounter with GTA 3 while working at a game magazine, and all the awkwardness of consoles and controllers."
+ },
+ "http://www.gamelook.com.cn/2026/11/606725": {
+  "zh_title": "鹰角《终末地》加冕Google Play年度游戏！《异环》米哈游三七点点获奖",
+  "zh_oneliner": "Google 公布 2026 年度 Google Play 最佳游戏奖单，鹰角《明日方舟：终末地》拿下全球年度游戏，米哈游《异环》与三七互娱等国产作品也榜上有名。",
+  "en_title": "Arknights: Endfield Crowned Google Play Game of the Year as Chinese Titles Sweep the 2026 Awards",
+  "en_oneliner": "Google has revealed its 2026 Google Play Best Games list, with Hypergryph’s Arknights: Endfield taking the global Game of the Year award and other Chinese titles, including miHoYo’s Huan Huan, also honored."
+ },
+ "https://www.indiedb.com/games/broken-union/news/broken-union-alpha18-new-menu-clearer-match-setup-and-a-skirmish-guide": {
+  "zh_title": "《Broken Union》Alpha.18：新菜单、更清晰的对战设置与遭遇战指南",
+  "zh_oneliner": "0.18 版换上全新主菜单背景，单人与联机对战设置更直观，还为中央指挥部遭遇战加了一份可选开局指南。",
+  "en_title": "Broken Union Alpha.18: New Menu, Clearer Match Setup, and a Skirmish Guide",
+  "en_oneliner": "Alpha.18 brings a new main-menu backdrop, clearer setup controls for solo and online matches, and an optional opening guide for Central Command skirmishes."
+ },
+ "https://www.indiedb.com/games/quellgraben/news/quellgraben-is-out-a-free-cozy-irrigation-puzzle": {
+  "zh_title": "《Quellgraben》发售：一款免费的休闲灌溉解谜游戏",
+  "zh_oneliner": "免费登陆 itch.io，在梯田山丘间挖渠引水，把一汪清泉送到每一块干渴的田地——水只往低处流。",
+  "en_title": "Quellgraben is out – a free cozy irrigation puzzle",
+  "en_oneliner": "Now free on itch.io, this cozy puzzle has you digging ditches across terraced hills to lead one spring to every thirsty field — water only flows downhill."
+ },
+ "https://www.indiedb.com/games/face-your-fate/news/bank-six-coins-or-spend-them-on-upgrades": {
+  "zh_title": "攒下六枚硬币，还是花掉升级？",
+  "zh_oneliner": "《Coins Defy Death》用两张实机截图展示硬币的两难：花 6 枚硬币抵挡致命一击求生，还是攒着买升级，而下一次救援的代价还会翻倍。",
+  "en_title": "Bank six coins, or spend them on upgrades?",
+  "en_oneliner": "Coins Defy Death shows the dilemma in two gameplay shots: spend 6 coins to survive a lethal hit, or save them for upgrades — while the next rescue costs twice as much."
+ },
+ "https://www.indiedb.com/games/vr-realms/news/update-045-steam-frame-meta-quest-and-our-own-vr-mmo": {
+  "zh_title": "《VR Realms》0.4.5 更新：登陆 Steam Frame 与 Meta Quest，并推出自家 VR MMO",
+  "zh_oneliner": "这是《VR Realms》迄今最大的一次更新，原生支持 Steam Frame，Meta Quest 玩家可通过 SideQuest 用 Steam 账号游玩，自研 VR MMO《Fantasy Realm》与 VR 建造工具也一同亮相。",
+  "en_title": "Update 0.4.5: Steam Frame, Meta Quest and our own VR MMO",
+  "en_oneliner": "The biggest VR Realms update yet runs natively on Steam Frame, lets Meta Quest players join via SideQuest with a Steam account, and introduces the team’s own VR MMO, Fantasy Realm, plus VR building tools."
+ },
+ "https://www.indiedb.com/games/ultra-nebulum/news/old-words-new-light-a-week-of-polish-in-ultra-nebulum": {
+  "zh_title": "《Ultra Nebulum》打磨一周：古英语、光影与火花",
+  "zh_oneliner": "开发日志记录了一周的打磨成果：更古雅的英文文本、照亮石壁的光影，以及迸溅火花的法术。",
+  "en_title": "Old Words, New Light: a week of polish in Ultra Nebulum",
+  "en_oneliner": "A devlog week of polish: older English, light that catches stone, and spells that throw sparks."
+ },
+ "https://www.indiedb.com/games/streit-the-next-rooms/news/streit-the-next-rooms": {
+  "zh_title": "《Streit: The Next Rooms》：在命令行里玩的 ASCII 弹幕射击",
+  "zh_oneliner": "一款跑在 cmd 里的 ASCII 弹幕射击游戏，下一间房里等着你的只有子弹与字符。",
+  "en_title": "Streit: The Next Rooms",
+  "en_oneliner": "An ASCII shoot-’em-up that runs in cmd — the next room holds nothing but bullets and characters."
+ },
+ "https://dev.to/kehinde_owolabi_e2e54567a/riftfire-is-now-null-point-live-on-playgama-1i7o": {
+  "zh_title": "《RIFTFIRE》现已改名“Null Point”，登陆 Playgama",
+  "zh_oneliner": "在被 CrazyGames 以质量为由拒绝后，这款射线投射 FPS 换了新名字、找到新归宿，开发者分享了改名、改动与借助 Playgama MCP 上线的全过程。",
+  "en_title": "RIFTFIRE Is Now \"Null Point\" — Live on Playgama",
+  "en_oneliner": "After a CrazyGames rejection on quality grounds, this raycast FPS found a new home under a new name; the developer shares the rename, the changes, and how it launched on Playgama with Playgama MCP."
+ },
+ "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-is-coming-soon-to-build-a-bear-workshop": {
+  "zh_title": "大金刚毛绒玩具即将登陆 Build-A-Bear Workshop",
+  "zh_oneliner": "Build-A-Bear 预告了与任天堂合作的大金刚毛绒新品，喜欢收藏周边的玩家可以期待一下。",
+  "en_title": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Is Coming Soon To Build-A-Bear Workshop",
+  "en_oneliner": "Build-A-Bear has teased a Donkey Kong plush, giving collectors something to look forward to alongside the GTA 6 buzz."
  }
 }
