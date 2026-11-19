@@ -18202,5 +18202,29 @@
   "zh_oneliner": "曾泄露《GTA 6》实机画面的黑客组织 CyberLeek 再次现身，声称放出了游戏最终版的开发构建。",
   "en_title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
   "en_oneliner": "CyberLeek, the group behind the earlier GTA 6 gameplay leak, has reappeared claiming to have released a full development build of the final game."
+ },
+ "https://dev.to/pietroth/lightnerx-an-open-source-c17-networking-library-for-multiplayer-games-38cd": {
+  "zh_title": "LightnerX：面向多人游戏的开源 C++17 网络库",
+  "zh_oneliner": "基于 Valve 的 GameNetworkingSockets 封装的开源 C++17 网络库，提供客户端—服务器通信、连接管理与消息批处理，适合想自己掌控联网层的多人游戏开发者直接集成。",
+  "en_title": "LightnerX: An Open-Source C++17 Networking Library for Multiplayer Games",
+  "en_oneliner": "An open-source C++17 networking library built on Valve's GameNetworkingSockets, offering client-server messaging, connection management and message batching for developers who want full control over their multiplayer game's networking layer."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting": {
+  "zh_title": "GTA 6 发售后 GTA 5 的 Steam 同时在线人数不降反升，PC 玩家似乎在等移植",
+  "zh_oneliner": "GTA 6 上线后 GTA 5 的 Steam 同时在线人数反而上涨，说明不少 PC 玩家宁可先回流老作，也不急于入手主机版。",
+  "en_title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
+  "en_oneliner": "GTA 5's Steam concurrent player count has risen rather than fallen since GTA 6 launched, suggesting many PC players are holding out for a PC port instead of jumping to console."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not": {
+  "zh_title": "GTA 6 里该把雕像交给古董商 Benedict Halifax 吗？",
+  "zh_oneliner": "讲解把雕像交给古怪古董商 Benedict Halifax 的利弊，帮玩家决定这桩 GTA 6 支线交易做不做。",
+  "en_title": "Should you give the statue to Benedict Halifax in GTA 6?",
+  "en_oneliner": "A guide to whether handing the statue to eccentric antiques dealer Benedict Halifax is worth it, weighing the trade-offs of this GTA 6 side decision."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help": {
+  "zh_title": "GTA 6 Delights 抢劫任务：该帮 Frankie 和 Mario，还是袖手旁观？",
+  "zh_oneliner": "解析 Delights 抢劫任务中帮不帮 Frankie 和 Mario 两种选择的影响，帮玩家在动手前想清楚。",
+  "en_title": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?",
+  "en_oneliner": "A breakdown of the two choices in the GTA 6 Delights robbery mission — helping Frankie and Mario or staying out of it — and what each one leads to."
  }
 }
