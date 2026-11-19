@@ -16906,5 +16906,23 @@
   "zh_oneliner": "主演表示若有机会回归第四季，将继续以敬畏之心对待这部作品在观众心中的分量。",
   "en_title": "Not even Walton Goggins knows if Fallout will have a Season 4",
   "en_oneliner": "The star says that if the show gets the chance to return for a fourth season, it would continue to honor how sacred it is to people."
+ },
+ "https://dev.to/omayrashraf/building-a-gta-6-scale-open-world-game-on-aws-end-to-end-architecture-26ee": {
+  "zh_title": "在 AWS 上搭建 GTA 6 规模的开放世界游戏：端到端架构解析",
+  "zh_oneliner": "以 GTA 6 级别的开放世界为例，拆解如何在 AWS 上搭建从世界模拟到多人联机的一整套后端架构。",
+  "en_title": "Building a GTA 6-Scale Open-World Game on AWS: End-to-End Architecture",
+  "en_oneliner": "Using a GTA 6-scale open world as the example, it breaks down how to build a complete AWS backend architecture, from world simulation to multiplayer."
+ },
+ "https://dev.to/uchitchakma/architecting-a-real-time-multiplayer-clicker-arena-with-websockets-html5-canvas-the-engineering-2n2p": {
+  "zh_title": "用 WebSocket 与 HTML5 Canvas 搭建实时多人点击竞技场：Click War 背后的工程实现",
+  "zh_oneliner": "从看似简单的点击玩法切入，讲清如何用 WebSocket 与 Canvas 实现实时多人竞技场的同步与工程细节。",
+  "en_title": "Architecting a Real-Time Multiplayer Clicker Arena with WebSockets & HTML5 Canvas: The Engineering of Click War",
+  "en_oneliner": "Starting from a deceptively simple clicker game, it explains how WebSockets and Canvas power real-time sync and the engineering behind a multiplayer clicker arena."
+ },
+ "https://dev.to/creaia/workflow-audio-per-indie-dev-come-integrare-colonne-sonore-ia-nei-propri-progetti-17gj": {
+  "zh_title": "独立开发者的音频工作流：如何把 AI 生成配乐整合进自己的项目",
+  "zh_oneliner": "针对独立开发者常被音效设计卡住的痛点，介绍把 AI 生成配乐接入游戏与互动项目的工作流。",
+  "en_title": "Audio Workflow for Indie Devs: How to Integrate AI-Generated Soundtracks into Your Own Projects",
+  "en_oneliner": "For indie developers often bottlenecked by sound design, it shows a workflow for bringing AI-generated soundtracks into games and interactive projects."
  }
 }
