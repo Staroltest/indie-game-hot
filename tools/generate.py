@@ -215,6 +215,11 @@ def parse_feed(body, source):
         link = norm_link(fields.get("link", ""))
         if not title or not link:
             continue
+        # 按源配置排除链接子串（如 GameDev.net 的 /forums/topic/ 论坛帖，
+        # 招人/求反馈/自荐帖混进精选，见 sources.json 的 link_exclude）。
+        _excl = source.get("link_exclude") or []
+        if any(p in link for p in _excl):
+            continue
         summary = strip_html(fields.get("description") or fields.get("summary") or "")
         if not summary:
             summary = strip_html(fields.get("content") or fields.get("encoded") or "")

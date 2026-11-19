@@ -5,8 +5,8 @@
  "date": "2026年11月20日",
  "date_iso": "2026-11-20",
  "issue": 2,
- "generated_at": "2026-11-19T22:01:44.959974+00:00",
- "summary": "过去 7 天共收录 1522 条动态，精选 10 条（引擎与工具 9 条、行业与融资 1 条）。头条：Godot 2026 年度作品集锦。",
+ "generated_at": "2026-11-19T23:48:22.950873+00:00",
+ "summary": "过去 7 天共收录 1485 条动态，精选 10 条（引擎与工具 9 条、行业与融资 1 条）。头条：Godot 2026 年度作品集锦。",
  "items": [
   {
    "id": "48a8ab73bfd70b1355b6630a5a14ff5837d7d05c",
@@ -25,9 +25,9 @@
    "reason": "官方来源 · 6 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 81.9,
-   "prev_rank": 1,
-   "prev_hot_score": 82.2
+   "hot_score": 80.5,
+   "prev_rank": 2,
+   "prev_hot_score": 80.7
   },
   {
    "id": "5a8c0389372c1797cc4b0ee5918cbca08b69700d",
@@ -50,33 +50,33 @@
    "reason": "涉及工具与数据 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 80.0,
-   "prev_rank": 3,
-   "prev_hot_score": 80.3
+   "hot_score": 78.7,
+   "prev_rank": 4,
+   "prev_hot_score": 78.8
   },
   {
-   "id": "e58918566f7e7ea43d1bc10c63afa9c0e91701ba",
-   "title": "Making a sledding game feel like sledding: one engine, three physics configs",
-   "link": "https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op",
+   "id": "63fac7f64670aac7bf7b2724aeb2678282f1428b",
+   "title": "What tech is used to develop GTA 6?",
+   "link": "https://dev.to/xabdullahahmad/what-tech-is-used-to-develop-gta-6-2poh",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-19T16:19:36+00:00",
-   "zh_title": "让滑雪橇游戏真的像滑雪橇：一个引擎，三套物理配置",
-   "zh_oneliner": "作者分享浏览器滑雪游戏 SledRun 的调校经验：六个数字决定三种模式的手感，赛道宽度与重力才是拉开体验差距的关键。",
+   "published": "2026-11-19T23:09:10+00:00",
+   "zh_title": "GTA 6 用了哪些技术？",
+   "zh_oneliner": "从 C++ 与 Rockstar 自研 RAGE 引擎，到内存管理与帧时间优化，拆解支撑 3A 大作规模开发的技术栈。",
    "category": "engine",
    "category_label": "引擎与工具",
    "tier": "T2",
    "tags": [
-    "教程",
+    "工具",
     "引擎"
    ],
    "score": 85,
-   "reason": "涉及教程与引擎 · 6 小时内发布",
+   "reason": "涉及工具与引擎 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 80.6,
-   "prev_rank": 2,
-   "prev_hot_score": 80.9
+   "hot_score": 84.5,
+   "prev_rank": 1,
+   "prev_hot_score": 84.7
   },
   {
    "id": "337da5318251a6bfe1b582440f1fa57277a240c1",
@@ -98,31 +98,7 @@
    "reason": "官方来源 · 涉及引擎与性能",
    "is_new": false,
    "trend": "same",
-   "hot_score": 41.7,
-   "prev_rank": null,
-   "prev_hot_score": null
-  },
-  {
-   "id": "1f8e5217b6ea3f06b98844f316ceedfa397020eb",
-   "title": "Engineering the 212 GB Launch: How GTA 6 Redefines Real-Time Asset Streaming and Console Performance",
-   "link": "https://dev.to/trendzbetagames/engineering-the-212-gb-launch-how-gta-6-redefines-real-time-asset-streaming-and-console-performance-2fdo",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-18T22:50:39+00:00",
-   "zh_title": "《GTA 6》212GB 首发的工程内幕：实时资源流式加载与主机性能如何被重新定义",
-   "zh_oneliner": "从 212GB 安装体量切入，拆解《GTA 6》如何用直通存储解压与流式加载预算消灭开放世界读条，以及光追全局光照在画质与帧率之间的取舍。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "引擎",
-    "性能"
-   ],
-   "score": 80,
-   "reason": "涉及引擎与性能 · 24 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 64.5,
+   "hot_score": 41.0,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -146,7 +122,7 @@
    "reason": "涉及引擎与性能 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.6,
+   "hot_score": 65.5,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -167,32 +143,33 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.5,
+   "hot_score": 64.4,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "5301c9d9d112462e375e13bb45326ef79cd7b608",
-   "title": "Clever Weight-Painting Tool For Better Character Deformations",
-   "link": "https://80.lv/articles/clever-weight-painting-tool-for-better-character-deformations",
-   "source": "80 Level",
-   "source_id": "80level",
-   "published": "2026-11-19T17:21:00+00:00",
-   "zh_title": "让角色变形更自然的聪明权重绘制工具",
-   "zh_oneliner": "这款权重绘制工具能让角色蒙皮变形更顺滑，做绑定与角色美术的开发者值得一看。",
+   "id": "e58918566f7e7ea43d1bc10c63afa9c0e91701ba",
+   "title": "Making a sledding game feel like sledding: one engine, three physics configs",
+   "link": "https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-19T16:19:36+00:00",
+   "zh_title": "让滑雪橇游戏真的像滑雪橇：一个引擎，三套物理配置",
+   "zh_oneliner": "作者分享浏览器滑雪游戏 SledRun 的调校经验：六个数字决定三种模式的手感，赛道宽度与重力才是拉开体验差距的关键。",
    "category": "engine",
    "category_label": "引擎与工具",
    "tier": "T2",
    "tags": [
-    "工具"
+    "教程",
+    "引擎"
    ],
    "score": 80,
-   "reason": "涉及工具 · 6 小时内发布",
+   "reason": "涉及教程与引擎 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.6,
-   "prev_rank": 7,
-   "prev_hot_score": 76.9
+   "hot_score": 74.6,
+   "prev_rank": 8,
+   "prev_hot_score": 74.8
   },
   {
    "id": "2b96ca2faed3b042685f9f131e479dfcfaf511aa",
@@ -213,9 +190,9 @@
    "reason": "涉及工作流 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.4,
-   "prev_rank": 6,
-   "prev_hot_score": 77.7
+   "hot_score": 76.1,
+   "prev_rank": 7,
+   "prev_hot_score": 76.3
   },
   {
    "id": "adf5c14bc19c5fc4304f935767ed682617a89577",
@@ -236,9 +213,32 @@
    "reason": "涉及销量 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 79.1,
-   "prev_rank": 4,
-   "prev_hot_score": 79.4
+   "hot_score": 77.8,
+   "prev_rank": 5,
+   "prev_hot_score": 78.0
+  },
+  {
+   "id": "1109bf3ddebc5ca53c5f083b519d4ad66b1e3833",
+   "title": "I Built a Complete Arena Shooter in Vanilla JavaScript — No Engine, No Libraries, No Audio Files",
+   "link": "https://dev.to/kamalmosadegh/i-built-a-complete-arena-shooter-in-vanilla-javascript-no-engine-no-libraries-no-audio-files-46m0",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-19T20:38:45+00:00",
+   "zh_title": "我用纯 JavaScript 写了一个完整的竞技场射击游戏——不用引擎、不用库、不用音频文件",
+   "zh_oneliner": "开发者用原生 JavaScript 与 Canvas 2D 写完了竞技场射击游戏 VOIDSTORM，音乐、激光与 Boss 吼叫全部由 Web Audio API 实时合成，仓库里没有任何音频文件，打开 index.html 就能玩。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎"
+   ],
+   "score": 80,
+   "reason": "涉及引擎 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.7,
+   "prev_rank": 6,
+   "prev_hot_score": 77.9
   }
  ]
 }

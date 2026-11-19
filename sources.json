@@ -67,6 +67,9 @@
     {
       "category_hint": "devlog",
       "id": "gamedev-net",
+      "link_exclude": [
+        "/forums/topic/"
+      ],
       "name": "GameDev.net",
       "tier": "T2",
       "url": "https://www.gamedev.net/feed/"
@@ -274,6 +277,13 @@
       "name": "Blender 开发博客",
       "tier": "T2",
       "url": "https://code.blender.org/feed/"
+    },
+    {
+      "category_hint": "engine",
+      "id": "ai-and-games",
+      "name": "AI and Games",
+      "tier": "T2",
+      "url": "https://www.aiandgames.com/feed/"
     }
   ]
 }
