@@ -28,7 +28,7 @@ def main():
     root = args.root
     cfg = load_json(os.path.join(root, "config.json"))
     site = cfg["site"]
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     today_iso = datetime.now(CST).strftime("%Y-%m-%d")
     html, data = build_geo_audit(site, root, site_url, today_iso)
     with open(os.path.join(root, "geo-audit.html"), "w", encoding="utf-8") as f:
