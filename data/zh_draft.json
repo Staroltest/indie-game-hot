@@ -18016,5 +18016,23 @@
   "zh_oneliner": "育碧确认新一轮裁员，166 名员工离开蒙特利尔与魁北克城工作室，年度裁员潮仍在继续。",
   "en_title": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
   "en_oneliner": "Ubisoft confirmed another round of layoffs, cutting 166 jobs at the Montréal and Quebec City studios behind Assassin's Creed and Far Cry."
+ },
+ "https://80.lv/articles/this-spider-man-simulation-brings-back-memories-of-sticky-wall-crawler-toys": {
+  "zh_title": "这款蜘蛛侠模拟器唤起了粘性爬墙玩具的回忆",
+  "zh_oneliner": "开发者 Duncan Tune 用物理模拟复刻了童年粘性爬墙玩具的手感，顺带分享了他的制作流程。",
+  "en_title": "This Spider-Man Simulation Brings Back Memories Of Sticky Wall-Crawler Toys",
+  "en_oneliner": "Developer Duncan Tune recreates the feel of childhood sticky wall-crawler toys with a physics simulation, and shares a peek into his workflow."
+ },
+ "https://gamedev.net/blogs/entry/2298689-running-a-clean-async-handoff-between-an-indian-dev-team-and-an-overseas-client": {
+  "zh_title": "印度开发团队与海外客户之间如何做好干净的异步交接",
+  "zh_oneliner": "印度团队与欧美合作方每天只有两三小时重叠工作时间，这篇文章讲如何用清晰的交接流程让跨时区协作不掉链子。",
+  "en_title": "Running a Clean Async Handoff Between an Indian Dev Team and an Overseas Client",
+  "en_oneliner": "Indian studios working with European or North American partners share only two or three overlapping hours a day — this piece shows how a clean handoff process keeps cross-timezone collaboration from dropping the ball."
+ },
+ "https://dev.to/zeroshost/what-a-garrys-mod-backdoor-actually-looks-like-and-how-to-spot-one-2o8b": {
+  "zh_title": "Garry's Mod 后门到底长什么样，又该怎么发现它",
+  "zh_oneliner": "泄露的所谓“高级”脚本和来路不明的创意工坊上传是后门最常见的入口，这篇文章教你识别服务器插件里的暗桩。",
+  "en_title": "What a Garry's Mod Backdoor Actually Looks Like (and How to Spot One)",
+  "en_oneliner": "Leaked \"premium\" scripts and random Workshop uploads are the usual way in — this piece shows how to spot a backdoor hiding in your Garry's Mod server addons."
  }
 }
