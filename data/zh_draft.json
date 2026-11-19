@@ -17158,5 +17158,17 @@
   "zh_oneliner": "苹果公布了本届 App Store Awards 的入围名单，21 款游戏角逐六个类别，获奖名单将在未来几周内揭晓。",
   "en_title": "Apple names Arknights: Endfield, Dave the Diver and Ball x Pit among the App Store Awards finalists",
   "en_oneliner": "Apple has shortlisted 21 games across six categories for this year's App Store Awards, with the winners due in the coming weeks."
+ },
+ "https://dev.to/shariar_saeikshopnil_77c/how-we-generate-endless-always-solvable-pipe-puzzles-in-under-60-lines-of-vanilla-js-19k6": {
+  "zh_title": "如何用不到 60 行原生 JS 生成无穷无尽、永远可解的水管谜题",
+  "zh_oneliner": "作者拆解自家水管解谜游戏 Lantern Links 的关卡生成器：约 60 行原生 JS、零依赖，就能批量产出永远有解的随机谜题，适合想给解谜玩法加程序化关卡的开发者参考。",
+  "en_title": "How we generate endless, always-solvable pipe puzzles in under 60 lines of vanilla JS",
+  "en_oneliner": "The author breaks down the level generator behind pipe puzzler Lantern Links: about 60 lines of dependency-free vanilla JS that produces endless randomly generated puzzles that are always solvable, a handy reference for developers adding procedural levels to a puzzle game."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals": {
+  "zh_title": "《GTA 6》发售后，玩家迷上了荒诞犯罪、游戏内社交媒体与动物“事故”",
+  "zh_oneliner": "《GTA 6》发售首夜，玩家涌入线上社区分享高光时刻，离谱犯罪、游戏内社交媒体和动物遭遇成了最热门话题，可作观察 3A 大作发售后玩家舆论风向的样本。",
+  "en_title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
+  "en_oneliner": "On GTA 6's launch night, players flooded online spaces to share their favourite moments, with slapstick criminality, in-game social media and animal fatalities winning the most hearts — a useful snapshot of player sentiment around a blockbuster launch."
  }
 }
