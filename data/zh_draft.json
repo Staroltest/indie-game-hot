@@ -18034,5 +18034,35 @@
   "zh_oneliner": "泄露的所谓“高级”脚本和来路不明的创意工坊上传是后门最常见的入口，这篇文章教你识别服务器插件里的暗桩。",
   "en_title": "What a Garry's Mod Backdoor Actually Looks Like (and How to Spot One)",
   "en_oneliner": "Leaked \"premium\" scripts and random Workshop uploads are the usual way in — this piece shows how to spot a backdoor hiding in your Garry's Mod server addons."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/the-4-line-camera-lerp-formula-every-html5-ai-game-developer-needs-557n": {
+  "zh_title": "四行代码的相机平滑公式，每个 HTML5 与 AI 游戏开发者都该掌握",
+  "zh_oneliner": "用四行线性插值代码就能让 2D 浏览器游戏的镜头告别生硬跟随，获得顺滑的电影感运镜，纯原生 JavaScript 即可实现。",
+  "en_title": "The 4-Line Camera Lerp Formula Every HTML5 & AI Game Developer Needs",
+  "en_oneliner": "Four lines of linear interpolation code can free a 2D browser game's camera from stiff tracking and give it smooth, cinematic movement, using nothing but vanilla JavaScript."
+ },
+ "https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21": {
+  "zh_title": "我用 World Labs Atlas（Chisel）造了一座吉卜力风莫卧儿-都铎宫殿，它对 3D、游戏与视频意味着什么",
+  "zh_oneliner": "作者用 World Labs 刚开放的世界模型 Atlas 搭建了一座不存在于训练数据中的吉卜力风宫殿，并实测了它在 3D 场景、游戏与视频制作中的实际能力与边界。",
+  "en_title": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video",
+  "en_oneliner": "The author used World Labs' newly opened world model Atlas to build a Ghibli-style palace that exists nowhere in its training data, and tested what it can actually do for 3D scenes, games, and video."
+ },
+ "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us": {
+  "zh_title": "美国史上最畅销 Wii 游戏 Top 20 出炉",
+  "zh_oneliner": "Wii 在北美发售 20 周年之际，Circana 公布了美国市场历代最畅销 Wii 游戏榜单，榜单本身也是对那个休闲游戏黄金年代的一次回顾。",
+  "en_title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
+  "en_oneliner": "As the Wii turns 20 in North America, Circana has published the all-time top 20 best-selling Wii games in the US, a list that doubles as a look back at the console's casual-gaming golden age."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6": {
+  "zh_title": "GTA 6 的作弊码限制多得离谱，只能等 PC 版来解套了",
+  "zh_oneliner": "解锁作弊菜单要花几十小时，解锁后限制依然不少，这篇文章聊的是为什么主机版的作弊体验如此受限，以及 PC 版可能带来的改变。",
+  "en_title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
+  "en_oneliner": "Unlocking the cheat menu takes dozens of hours and still leaves heavy restrictions in place, so this piece looks at why the console cheat experience feels so limited and what the PC version might change."
+ },
+ "https://www.eurogamer.net/wow-forever-weekly-players-15-years": {
+  "zh_title": "《魔兽世界：Forever》周活玩家创 15 年新高，暴雪如是说",
+  "zh_oneliner": "暴雪称《魔兽世界：Forever》的周活跃玩家数已超过过去 15 年来的任何时候，怀旧服的长线生命力仍在刷新纪录。",
+  "en_title": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
+  "en_oneliner": "Blizzard says World of Warcraft: Forever now draws more weekly players than World of Warcraft has seen in 15 years, a new high for the long-running game's staying power."
  }
 }
