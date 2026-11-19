@@ -18088,5 +18088,35 @@
   "zh_oneliner": "前高管 Peter Moore 晒出一张假的《GTA 6》纹身照打趣，称希望这款大作能给整个游戏行业注入活力。",
   "en_title": "Peter Moore, who famously announced GTA 4 with a tattoo, posts fake GTA 6 tattoo pic and says he hopes it will give the industry 'a shot in the arm'",
   "en_oneliner": "Former executive Peter Moore posted a fake GTA 6 tattoo picture as a joke, saying he hopes the game will give the whole industry a shot in the arm."
+ },
+ "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19": {
+  "zh_title": "本周 Switch eShop 上架 30 余款游戏（11 月 19 日）",
+  "zh_oneliner": "北美任天堂本周 eShop 上新一览，30 多款游戏集中上架，独立开发者可对照看看同类作品的发售节奏与定价。",
+  "en_title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
+  "en_oneliner": "This week’s North American Nintendo eShop roundup lists 30+ new releases — a handy snapshot of what indie titles are launching side by side and at what prices."
+ },
+ "https://dev.to/idlecultivation/cultivation-rpg-development-taken-one-small-change-at-a-time-42co": {
+  "zh_title": "修仙 RPG 开发日志：一次只改一小步",
+  "zh_oneliner": "开发者按提交记录逐条复盘修仙 RPG 的开发过程，每次只改一个小地方，聊聊小步迭代怎么做才不跑偏。",
+  "en_title": "Cultivation rpg development, taken one small change at a time",
+  "en_oneliner": "A devlog that walks through a cultivation RPG’s development one small commit at a time, showing how tiny, steady iterations keep a solo project on track."
+ },
+ "https://dev.to/fallingpickaxeve/falling-pickaxe-venezuela-lo-que-aprendi-observando-el-multiplicador-2e7c": {
+  "zh_title": "《Falling Pickaxe》委内瑞拉：观察倍率机制，我学到了什么",
+  "zh_oneliner": "作者花几周时间记录一款倍率类小游戏的机制表现，从玩家视角拆解倍率变化的规律与感受。",
+  "en_title": "Falling Pickaxe Venezuela: Lo Que Aprendí Observando el Multiplicador",
+  "en_oneliner": "A first-hand account of spending weeks observing a multiplier game’s mechanics, breaking down how its multiplier behaves from a player’s perspective."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect": {
+  "zh_title": "GTA 6 里的车就是《荒野大镖客 2》里的马，太对味了",
+  "zh_oneliner": "专栏作者聊 GTA 6 预告里座驾的意义：车不只是代步工具，而是像大镖客的马一样承载归属感，值得做开放世界的设计师留意。",
+  "en_title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+  "en_oneliner": "A column on why GTA 6’s cars matter like Red Dead 2’s horses — not just transport, but a home on wheels, and a design lesson for open-world developers."
+ },
+ "https://store.steampowered.com/news/group/4145017/view/696529069521503099": {
+  "zh_title": "提醒：Artwork Override（头图替换）的要求与最佳实践",
+  "zh_oneliner": "Steamworks 提醒开发者：最近不少头图替换不符合规范，官方重申用它宣传 DLC 或大型更新时该注意的要求与做法。",
+  "en_title": "Reminder: Artwork Override requirements and best practices",
+  "en_oneliner": "Steamworks reminds developers that many recent Artwork Overrides fall short of the requirements, and restates what to follow when using them to promote DLC or major updates."
  }
 }
