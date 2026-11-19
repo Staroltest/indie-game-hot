@@ -2396,7 +2396,7 @@ def page_open(site, active, title, description, prefix="", base="", canonical=""
     与语言切换/自动跳转（geo-audit 等无对应页的页面不传，走旧的两件套）。
     canonical 默认值保持旧行为：中文页无 canonical 参数时指向站根（all.html 的
     旧 canonical 仍指向站根，不在此次改动里修）；英文页默认指向 en/ 树内同路径。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     if canonical:
         canon = canonical
     elif lang == "en":
@@ -2971,7 +2971,7 @@ def render_daily(site, daily, base="", prev=None, next_=None, canonical="", lang
 def render_starred(site, lang="zh"):
     """收藏页（B3）：内容由 JS 从 localStorage 快照 + data/days/ 分块渲染，
     下架条目置灰并提示；导入/导出先不做。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     empty_state = (
         '<div id="starEmpty" class="empty-state" hidden>'
         f'<div class="empty-icon">{icon("bookmark", 40)}</div>'
@@ -3002,7 +3002,7 @@ def render_starred(site, lang="zh"):
 
 def render_more(site, changelog_version, lang="zh"):
     """“我的”页（B4）：收藏、外观、数据、更新日志、反馈、RSS、关于等入口收在一起。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     star_row = (
         f'<a class="more-row" href="starred.html">{icon("bookmark", 18)}'
         f'<span class="m-label">{_L(lang, "收藏", "Saved")}</span>'
@@ -3070,7 +3070,7 @@ def render_more(site, changelog_version, lang="zh"):
 def render_changelog(site, entries, lang="zh"):
     """更新日志页（B6）：由 data/changelog.json 驱动；打开即记为已读（JS）。
     英文版用条目的 title_en/items_en（缺失时回退中文）。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     latest = entries[0]["version"] if entries else ""
     items_html = ""
     for e in entries:
@@ -3097,7 +3097,7 @@ def render_changelog(site, entries, lang="zh"):
 def render_archive(site, daily_entries, weekly_entries, monthly_entries, lang="zh"):
     """往期存档（B8/B9）：日报按月分组；周报、月报各列一组。
     英文版条目（date_short/file）由调用方按英文树准备。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
 
     def month_groups(entries):
         groups = {}
@@ -3150,7 +3150,7 @@ def render_archive(site, daily_entries, weekly_entries, monthly_entries, lang="z
 
 def render_topic(site, label, slug, items, lang="zh"):
     """主题页（B11）：某标签下的条目列表。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     if lang == "en":
         items = [en_view(it) for it in items]
     items_html = "".join(feed_item(it, base="../", lang=lang) for it in items) \
@@ -3173,7 +3173,7 @@ def render_topic(site, label, slug, items, lang="zh"):
 
 def render_topics_index(site, tag_counts, lang="zh"):
     """主题索引（B11）：全部标签 + 条数。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     rows = "".join(
         f'<a class="more-row" href="topics/{slug}.html">{icon("rss", 18)}'
         f'<span class="m-label">#{esc(label)}</span>'
@@ -3195,7 +3195,7 @@ def render_topics_index(site, tag_counts, lang="zh"):
 
 def render_simple_page(site, active, title, lede, blocks, canonical_path, lang="zh", rel_path=None):
     """静态文案页（B5 关于 / C4 条款与隐私）共用骨架。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     body = ""
     for h, paras in blocks:
         ps = "".join(f"<p>{p}</p>" for p in paras)
@@ -3286,7 +3286,7 @@ def render_item(site, it, related, is_selected, daily_issue, lang="zh"):
     相关条目——不编造正文，不转载全文，不展示源站摘要或完整摘要原文。
     导读就是本站自己写的一句话简介（zh_oneliner / en_oneliner）；没有简介时
     只显示标题与链接，原文只通过“打开原文”按钮出去。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     if lang == "en":
         it = en_view(it)
         related = [en_view(r) for r in related]
@@ -3393,7 +3393,7 @@ def render_item(site, it, related, is_selected, daily_issue, lang="zh"):
 def render_404(site):
     """GitHub Pages 缺页处理：双语独立页（链接用绝对地址，任何缺页路径下都可用）。
     默认显示英文块；存了中文偏好或浏览器语言为 zh 时切中文块。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     boot_404 = ('<script>(function(){try{var p=localStorage.getItem("indiehot-lang");'
                 'var zh=p?p==="zh":(navigator.language||"en").toLowerCase().indexOf("zh")===0;'
                 'if(zh){document.getElementById("nf-en").hidden=true;'
@@ -3428,7 +3428,7 @@ def render_404(site):
 
 def render_hot(site, hot, generated_at, counts, cfg, lang="zh"):
     """完整热点榜：No.1 头条大卡 + No.2–3 次卡 + No.4–20 带 Delta 的行 + 方法说明（B1）。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     if lang == "en":
         hot = [en_view(it) for it in hot]
     sc = cfg["scoring"]
@@ -3521,7 +3521,7 @@ def rss_date(dt):
 
 def build_feed_xml(site, items, lang="zh"):
     """RSS 2.0（B12）：精选 20 条，每轮都写。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     now_rfc = rss_date(datetime.now(timezone.utc))
     if lang == "en":
         chan_title = site.get("title_en") or site.get("title", "IndieHOT")
@@ -3607,7 +3607,7 @@ def build_robots_txt(site_url):
                   "Applebot-Extended"]
     deny_bots = ["Bytespider", "PetalBot"]
     lines = ["# IndieHOT — 允许搜索引擎与 AI 爬虫抓取公开内容",
-             "# 规范域名为 https://staroltest.github.io/indie-game-hot/",
+             "# 规范域名为 https://indie-game-hot.pages.dev",
              "# Cloudflare Pages 镜像 indie-game-hot.pages.dev 内容相同，请以规范域名为准",
              "# 给 AI 看的站点说明见 llms.txt（站根 /llms.txt）",
              "",
@@ -3635,7 +3635,7 @@ _LLMS_CAT_EN = {
 def build_llms_txt(site, cats, today_iso, lang="zh"):
     """llms.txt：站点说明 + 机器可读入口 + 分类（分类取自 config.json）。
     英文版走同一配置，分类用 label_en。"""
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
     if lang == "en":
         cat_lines = []
         for c in cats:
@@ -4266,7 +4266,7 @@ def main():
         _qr_src = os.path.join(assets_dir, _qr)
         if os.path.exists(_qr_src):
             shutil.copyfile(_qr_src, os.path.join(en_assets_dir, _qr))
-    site_url = site.get("url", "https://staroltest.github.io/indie-game-hot")
+    site_url = site.get("url", "https://indie-game-hot.pages.dev")
 
     # 主页与热点榜
     with open(os.path.join(root, "index.html"), "w", encoding="utf-8") as f:
