@@ -17116,5 +17116,47 @@
   "zh_oneliner": "网易三季度游戏收入 229 亿元，《燕云十六声》全球玩家破亿，新作《无限大》定档 2027 年 1 月 15 日。",
   "en_title": "NetEase Q3 Earnings: Where Winds Meet Tops 100M Players Worldwide, Ananta Dated January 15, 2027",
   "en_oneliner": "NetEase reports Q3 games revenue of RMB 22.9 billion, with Where Winds Meet passing 100 million players and Ananta set for January 15, 2027."
+ },
+ "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog": {
+  "zh_title": "《GTA 6》发售日现场直播：全球发售实况与玩家反响",
+  "zh_oneliner": "《GTA 6》今日全球发售，注定成为史上最大规模的游戏发售之一，本文以直播形式汇总全球各地的发售实况与反响。",
+  "en_title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
+  "en_oneliner": "GTA 6 launches worldwide today, set to become one of the biggest entertainment releases ever, with this live blog tracking the launch and reactions around the world."
+ },
+ "https://www.gcores.com/articles/222547": {
+  "zh_title": "《砍与售》确认参展WePlay上海！波兰展区C04展位现场可试玩完整版本",
+  "zh_oneliner": "波兰独立游戏《砍与售》确认参展 11 月 21 日至 22 日的 WePlay 上海，波兰展区 C04 展位可现场试玩完整版，支持 PC 与 Steam Deck。",
+  "en_title": "Fell & Sell Confirmed for WePlay Shanghai: Full Version Playable at Poland Pavilion Booth C04",
+  "en_oneliner": "Polish indie Fell & Sell will be playable in full at WePlay Shanghai on November 21-22, at booth C04 in the Poland Pavilion, with PC and Steam Deck demos on site."
+ },
+ "https://www.yystv.cn/p/14650": {
+  "zh_title": "总奖金420万美元 SWC 2026 Finals将于11月27日瑞典·斯德哥尔摩开幕",
+  "zh_oneliner": "SNK 宣布总奖金 420 万美元的 SWC 2026 总决赛将于 11 月 27 日在瑞典斯德哥尔摩开幕，并公布了赛程与活动安排。",
+  "en_title": "SWC 2026 Finals With $4.2 Million Prize Pool to Open November 27 in Stockholm, Sweden",
+  "en_oneliner": "SNK has announced the SNK World Championship 2026 Finals will run November 27-29 in Stockholm with a $4.2 million prize pool, alongside the full schedule and event lineup."
+ },
+ "https://www.indiedb.com/games/cavaleiros-celestiais/news/cavaleiros-celestiais-a-free-dark-fantasy-mmorpg-you-can-play-in-your-browser": {
+  "zh_title": "《Cavaleiros Celestiais》：免费暗黑奇幻 MMORPG，可直接在浏览器里玩",
+  "zh_oneliner": "一款免费暗黑奇幻风 MMORPG 已开启公开 Alpha，七大家族、十二个区域与需要组队挑战的 Boss，全部直接在浏览器里运行。",
+  "en_title": "Cavaleiros Celestiais: a free dark fantasy MMORPG you can play in your browser",
+  "en_oneliner": "A free dark fantasy MMORPG with an anime look is now in open alpha, offering seven Houses, twelve regions and bosses that demand a party, all playable right in the browser."
+ },
+ "https://dev.to/viceray82/what-is-actually-inside-a-gta-vi-pc-port-and-what-breaks-in-it-1dc7": {
+  "zh_title": "所谓“GTA VI PC 移植版”里到底有什么，又会在哪里出问题",
+  "zh_oneliner": "Rockstar 尚未公布 PC 版，一群逆向工程师把主机版反编译后重编译到了 Win32，本文从工程角度拆解这种非模拟器移植的做法与代价。",
+  "en_title": "What is actually inside a \"GTA VI PC port\" — and what breaks in it",
+  "en_oneliner": "With no PC version announced, reverse engineers decompiled the console build and recompiled it for Win32; this piece breaks down the non-emulator approach and what it costs from an engineering angle."
+ },
+ "https://dev.to/masamori/making-grass-shadows-cheaper-in-bevy-why-gaussian-uses-nine-samples-3cba": {
+  "zh_title": "在 Bevy 里让草地阴影更便宜：为什么高斯滤波要用九个采样点",
+  "zh_oneliner": "作者在 Bevy 渲染实验中对比了草地阴影的高斯滤波与 Hardware2x2，实测后者让主渲染通道快了约 0.96 毫秒，并解释了九个采样点的取舍。",
+  "en_title": "Making Grass Shadows Cheaper in Bevy: Why Gaussian Uses Nine Samples",
+  "en_oneliner": "A Bevy rendering experiment compares Gaussian and Hardware2x2 filtering for grass shadows, measuring about 0.96 ms saved in the main pass and explaining the trade-off behind nine samples."
+ },
+ "https://mobilegamer.biz/arknights-endfield-dave-the-diver-and-ball-x-pit-among-apples-app-store-awards-finalists": {
+  "zh_title": "苹果公布 App Store Awards 入围名单：《明日方舟：终末地》《潜水员戴夫》《Ball x Pit》在列",
+  "zh_oneliner": "苹果公布了本届 App Store Awards 的入围名单，21 款游戏角逐六个类别，获奖名单将在未来几周内揭晓。",
+  "en_title": "Apple names Arknights: Endfield, Dave the Diver and Ball x Pit among the App Store Awards finalists",
+  "en_oneliner": "Apple has shortlisted 21 games across six categories for this year's App Store Awards, with the winners due in the coming weeks."
  }
 }
