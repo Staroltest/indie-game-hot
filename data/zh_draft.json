@@ -17530,5 +17530,77 @@
   "zh_oneliner": "Sensor Tower 估算 GTA 6 预购已达 16.5 亿美元、售出超 1700 万份，其中 PlayStation 占约 75%，Xbox 占 25%。",
   "en_title": "The big data behind GTA 6's blockbuster launch",
   "en_oneliner": "Sensor Tower estimates GTA 6 pre-orders already hit $1.65 billion from over 17 million copies sold, with PlayStation taking about 75% and Xbox 25%."
+ },
+ "https://gamemaker.io/blog/gamemaker-awards-2026-vote": {
+  "zh_title": "GameMaker Awards 2026 投票开启",
+  "zh_oneliner": "GameMaker 年度奖项投票正式开启，开发者和玩家可以为今年最出色的 GameMaker 游戏与社区贡献者投票。",
+  "en_title": "Voting Is Now Open For The GameMaker Awards 2026",
+  "en_oneliner": "Voting for the GameMaker Awards 2026 is now open, letting developers and players celebrate the year's best GameMaker games and community contributors."
+ },
+ "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026": {
+  "zh_title": "《使命召唤：现代战争 4》登顶美国 10 月销量榜",
+  "zh_oneliner": "Circana 数据显示《使命召唤：现代战争 4》拿下美国 10 月销量冠军，这是该系列连续第 19 年在发售月称霸榜单。",
+  "en_title": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
+  "en_oneliner": "Circana data shows Call of Duty: Modern Warfare 4 topped US game sales in October, the 19th straight year a Call of Duty title has led its launch month."
+ },
+ "https://80.lv/articles/making-a-1980s-macintosh-style-1-bit-city-builder-set-on-a-stormy-northern-island": {
+  "zh_title": "打造 1980 年代 Macintosh 风格单色像素城市建造游戏",
+  "zh_oneliner": "《GlagStone》主创分享如何用 1-bit 画面还原 80 年代 Macintosh 美学，以及四人小团队自发行的取舍与 PC 和 Playdate 双平台开发的差异。",
+  "en_title": "Making a 1980s Macintosh-Style 1-Bit City Builder Set on a Stormy Northern Island",
+  "en_oneliner": "GlagStone creator Valerii Krasnoselskii shares how the team recreated 1980s Macintosh aesthetics in 1-bit, and what self-publishing as a four-person indie team taught them across PC and Playdate."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/what-was-the-first-io-game-five-design-rules-from-agario-that-browser-games-still-use-in-2026-5cp9": {
+  "zh_title": "第一款 .io 游戏是哪款？从 Agar.io 提炼的五条浏览器游戏设计法则",
+  "zh_oneliner": "从 Agar.io 的起源出发，总结五条至今仍适用的 .io 游戏设计规则，给做浏览器小游戏的开发者作参考。",
+  "en_title": "What was the first .io game? Five design rules from Agar.io that browser games still use in 2026",
+  "en_oneliner": "Tracing the .io genre back to Agar.io, this piece distills five design rules from the classic that browser game developers still rely on in 2026."
+ },
+ "https://dev.to/instant_games/combo-multipliers-why-ours-stops-at-8x-4fph": {
+  "zh_title": "连击倍率：为什么我们停在 8 倍",
+  "zh_oneliner": "以两款计分街机游戏为例，讲清连击倍率的底层机制，以及为什么给倍率设上限反而是设计上的加分项。",
+  "en_title": "Combo Multipliers: Why Ours Stops at 8x",
+  "en_oneliner": "Using two score-attack games as examples, this post explains how combo multipliers work mechanically and why capping them is a deliberate design choice."
+ },
+ "https://www.nintendolife.com/news/2026/11/japanese-charts-pikmin-4-makes-a-lukewarm-debut-on-switch-2-as-zelda-dominates": {
+  "zh_title": "日本销量榜：皮克敏 4 在 Switch 2 首秀平平，塞尔达继续领跑",
+  "zh_oneliner": "最新日本销量榜出炉，《塞尔达传说：时之笛》稳居榜首，Switch 2 版《皮克敏 4》首周表现不温不火。",
+  "en_title": "Japanese Charts: Pikmin 4 Makes A Lukewarm Debut On Switch 2 As Zelda Dominates",
+  "en_oneliner": "The latest Japanese charts keep The Legend of Zelda: Ocarina of Time on top, while the Switch 2 edition of Pikmin 4 posts a lukewarm debut."
+ },
+ "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now": {
+  "zh_title": "《GTA 6》现已发售",
+  "zh_oneliner": "Rockstar 的《GTA 6》正式发售，Xbox 官方确认游戏现已上线。",
+  "en_title": "Grand Theft Auto VI is Out Now",
+  "en_oneliner": "Rockstar's Grand Theft Auto VI is officially out, with Xbox confirming the game is now available."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare": {
+  "zh_title": "GTA 6 里该杀掉还是放过 Arnold？",
+  "zh_oneliner": "解析《GTA 6》中 Arnold 抉择分支的两种走向，帮玩家判断哪种选择更符合自己的玩法。",
+  "en_title": "Should you kill or spare Arnold in GTA 6?",
+  "en_oneliner": "This guide breaks down both outcomes of the Arnold choice in GTA 6 so players can decide whether to kill or spare him."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story": {
+  "zh_title": "GTA 6 不允许 Jason 出轨，因为 Rockstar 认为这与主角故事基调不符",
+  "zh_oneliner": "Rockstar 解释了为何《GTA 6》里 Jason 不能背叛 Lucia：开发团队认为出轨情节与两位主角的故事动机并不契合。",
+  "en_title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
+  "en_oneliner": "Rockstar explains why Jason cannot cheat on Lucia in GTA 6: the team felt infidelity would clash with the story motivations of Jason and Lucia."
+ },
+ "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller": {
+  "zh_title": "《现代战争 4》称霸美国 10 月销量榜，却无缘 2026 年度前十",
+  "zh_oneliner": "尽管拿下 10 月美国销量冠军，《使命召唤：现代战争 4》仍未能挤进 2026 年迄今为止的年度畅销榜前十。",
+  "en_title": "Call of Duty: Modern Warfare 4 was October's biggest game in the US, but it wasn't enough to crack 2026's best-selling top 10",
+  "en_oneliner": "Despite topping US sales in October, Call of Duty: Modern Warfare 4 still did not break into 2026's year-to-date best-selling top 10."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps": {
+  "zh_title": "GTA 6 用社交媒体和手机应用取代了游戏内网站",
+  "zh_oneliner": "Rockstar 透露《GTA 6》砍掉了前作标志性的游戏内讽刺网站，改用社交媒体与手机应用来反映当下的网络生态。",
+  "en_title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
+  "en_oneliner": "Rockstar says GTA 6 dropped the series' satirical in-game websites in favor of social media and phone apps that better reflect today's internet."
+ },
+ "https://mobilegamer.biz/new-decompiling-videos-allege-monopoly-go-borrows-from-slot-machines-and-royal-kingdom-secretly-makes-levels-harder": {
+  "zh_title": "新反编译视频指控 Monopoly Go 借鉴老虎机机制、Royal Kingdom 暗改关卡难度",
+  "zh_oneliner": "一系列反编译视频指控《Monopoly Go》套用了老虎机设计、《Royal Kingdom》暗中提高关卡难度，引发了关于手游变现手法的讨论。",
+  "en_title": "New ‘decompilation’ videos allege Monopoly Go borrows from slot machines and Royal Kingdom secretly makes levels harder",
+  "en_oneliner": "A series of decompilation videos alleges Monopoly Go borrows slot-machine mechanics and Royal Kingdom quietly raises level difficulty, sparking debate over mobile monetization tactics."
  }
 }
