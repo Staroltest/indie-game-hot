@@ -17440,5 +17440,95 @@
   "zh_oneliner": "玩家在新区域发现一只猎人可驯服的稀有绿猫，《魔兽世界：Forever》的隐藏秘密搜寻又添新进展。",
   "en_title": "The hunt for World of Warcraft: Forever secrets continue with the discovery of an elusive pet",
   "en_oneliner": "Players found a rare green cat tamable by hunters in a new zone, the latest breakthrough in the ongoing hunt for World of Warcraft: Forever secrets."
+ },
+ "https://www.nintendolife.com/features/20-wii-exclusives-you-should-track-down-while-you-still-can": {
+  "zh_title": "特辑：20 款值得趁现在入手的 Wii 独占游戏",
+  "zh_oneliner": "Wii 发售二十周年之际，盘点 20 款值得收藏的独占作品，聊聊它们为什么值得在停产前入手。",
+  "en_title": "Feature: 20 Wii Exclusives You Should Track Down While You Still Can",
+  "en_oneliner": "Twenty years after the Wii launched, a roundup of 20 exclusives worth tracking down before they disappear, and why each one still matters."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc": {
+  "zh_title": "受够了 GTA 6 的 30 帧？这款工具能把它拉到 60 帧，还能注入 DLSS 5",
+  "zh_oneliner": "一款第三方工具号称能让 GTA 6 在高端 PC 上跑到 60 帧并启用 DLSS 5，不过编辑部自己还没能成功跑起来。",
+  "en_title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+  "en_oneliner": "A third-party tool claims to push GTA 6 to 60 fps with DLSS 5 on powerful PCs, though the editors could not get it working themselves."
+ },
+ "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo": {
+  "zh_title": "GTA 6 无光盘发售之后，GameStop CEO 抨击“盒装兑换码”游戏",
+  "zh_oneliner": "GameStop CEO Ryan Cohen 认为游戏去实体化、只卖盒装兑换码的做法对玩家和商家都不利。",
+  "en_title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
+  "en_oneliner": "GameStop CEO Ryan Cohen argues that the shift away from physical discs toward code-in-a-box releases harms both players and retailers."
+ },
+ "https://80.lv/articles/rockstar-confirms-gta-6-won-t-get-60-fps-mode": {
+  "zh_title": "Rockstar 确认 GTA 6 不会推出 60 帧模式",
+  "zh_oneliner": "Rockstar 证实 GTA 6 没有 60 帧模式，连 PS5 Pro 玩家也只能以 30 帧游玩。",
+  "en_title": "Rockstar Confirms GTA 6 Won’t Get 60 FPS Mode",
+  "en_oneliner": "Rockstar confirms GTA 6 will have no 60 fps mode, so even PS5 Pro players will play at 30 fps."
+ },
+ "https://www.indiedb.com/games/def-towers/news/def-towers-released-100-levels-of-rune-tower-defense": {
+  "zh_title": "《Def Towers》发售：100 关符文塔防",
+  "zh_oneliner": "独立塔防新作《Def Towers》登陆 itch.io，5 个世界共 100 关，8 座可升级符文塔对阵 12 种敌人，最终 Boss 是石王。",
+  "en_title": "Def Towers released - 100 levels of rune-tower defense",
+  "en_oneliner": "Indie tower defense Def Towers is out on itch.io with 100 levels across 5 worlds, 8 upgradeable rune towers, 12 enemy types, and the Stone King as final boss."
+ },
+ "https://www.indiedb.com/games/sol-divided/news/version-093-a-backup-server-and-report-a-bug": {
+  "zh_title": "0.9.3 版：备用服务器与“一键报 Bug”",
+  "zh_oneliner": "《Sol Divided》0.9.3 更新后联机断线会自动切到备用服务器，主菜单一键就能报 Bug，还支持放大文字和触屏键盘。",
+  "en_title": "Version 0.9.3: a backup server and \"Report a bug\"",
+  "en_oneliner": "Sol Divided 0.9.3 adds automatic failover to a backup server, one-button bug reporting from the main menu, larger text, and on-screen keyboards for touch and Steam Deck."
+ },
+ "https://www.indiedb.com/games/saltwarden-online/news/level-cap-25-town-cats-and-a-sharper-map": {
+  "zh_title": "等级上限 25 级、城镇猫咪与更清晰的地图",
+  "zh_oneliner": "《Saltwarden Online》封闭 Alpha 开放至 25 级，海岸线区域可完整游玩，地图更清晰，城镇里还能撸猫。",
+  "en_title": "Level cap 25, town cats and a sharper map",
+  "en_oneliner": "Saltwarden Online's closed alpha now caps at level 25, with the Strandline playable end to end, a sharper map, and cats to pet in town."
+ },
+ "https://www.indiedb.com/games/spaceslog/news/alpha-16-animals-qol-and-other-improvements": {
+  "zh_title": "Alpha 16：动物、体验优化与其他改进",
+  "zh_oneliner": "《SpaceSlog》推出抢先体验以来最大的一次更新，新增动物与多项体验优化。",
+  "en_title": "Alpha 16 - Animals, QoL and other Improvements.",
+  "en_oneliner": "SpaceSlog's biggest update since its Early Access launch adds animals and a batch of quality-of-life improvements."
+ },
+ "https://www.indiedb.com/games/kuroshio-neon-blood/news/kuroshio-launch-update-steam-review-still-pending-new-gameplay": {
+  "zh_title": "《KUROSHIO》发售进展：Steam 审核仍在等待，附新实机演示",
+  "zh_oneliner": "《KUROSHIO: Neon Blood》的 Steam 审核比预期更久，发售可能在几小时或几天之后，最新五分钟实机演示已放出。",
+  "en_title": "KUROSHIO launch update: Steam review still pending + new gameplay",
+  "en_oneliner": "KUROSHIO: Neon Blood is still awaiting Steam review, which is taking longer than expected, with launch hours or days away and a new five-minute gameplay showcase out now."
+ },
+ "https://www.indiedb.com/games/matryoshka/news/horror-puzzle-game-matryoshka-is-scheduled-for-release-on-steam-on-november-25-2026": {
+  "zh_title": "恐怖解谜游戏《Matryoshka》定于 2026 年 11 月 25 日登陆 Steam",
+  "zh_oneliner": "恐怖找不同解谜游戏《Matryoshka》将于 11 月 25 日上架 Steam，考验玩家的观察力与胆量。",
+  "en_title": "Horror puzzle game \"Matryoshka\" is scheduled for release on Steam on November 25, 2026",
+  "en_oneliner": "Horror spot-the-difference puzzle game Matryoshka launches on Steam on November 25, 2026, testing players' observation skills and nerves."
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/an-ai-gave-me-a-sprite-sheet-heres-everything-wrong-with-it-and-how-to-salvage-it-4b35": {
+  "zh_title": "AI 给了我一张精灵图：它错在哪，又该怎么抢救",
+  "zh_oneliner": "作者用一张 AI 生成的像素史莱姆精灵图逐条拆解常见毛病，从不透明的绿色背景到帧数错乱，并给出逐项修复方法。",
+  "en_title": "An AI Gave Me a Sprite Sheet. Here's Everything Wrong With It (and How to Salvage It)",
+  "en_oneliner": "A hands-on teardown of an AI-generated pixel slime sprite sheet, cataloguing every common flaw from non-transparent green backgrounds to broken frames, with a fix for each."
+ },
+ "https://dev.to/license_ejaw_8cca66dda7a1/lottery-platform-development-draw-engines-retail-and-online-1f3b": {
+  "zh_title": "彩票平台开发：开奖引擎、零售与线上",
+  "zh_oneliner": "从赌场游戏转做彩票的团队常套用老经验，但开奖引擎、售票节奏与监管审查的约束会把整个平台架构重塑一遍。",
+  "en_title": "Lottery Platform Development: Draw Engines, Retail and Online",
+  "en_oneliner": "Teams moving from casino games to lottery platforms find that draw engines, ticket timing, and regulatory review reshape the whole architecture."
+ },
+ "https://dev.to/license_ejaw_8cca66dda7a1/custom-slot-machine-software-the-stack-behind-a-certified-build-kbg": {
+  "zh_title": "定制老虎机软件：通过认证的版本背后是一整套技术栈",
+  "zh_oneliner": "两家工作室同样报价十二周，认证成本却天差地别，差别在于系统有多少部分能被冻结、重建并验证。",
+  "en_title": "Custom Slot Machine Software: The Stack Behind a Certified Build",
+  "en_oneliner": "Two studios quote the same twelve weeks, yet their certification costs differ wildly, depending on how much of the system can be frozen, rebuilt, and proven."
+ },
+ "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved": {
+  "zh_title": "OLED 显示器出货量同比翻倍，实至名归",
+  "zh_oneliner": "OLED 显示器出货量较去年翻了一番，编辑认为这波增长完全是应得的。",
+  "en_title": "OLED monitor shipments have doubled from last year, and all I can say is it's well deserved",
+  "en_oneliner": "OLED monitor shipments have doubled year over year, and the editors say the growth is well deserved."
+ },
+ "https://www.pocketgamer.biz/the-big-data-behind-gta-6s-blockbuster-launch": {
+  "zh_title": "GTA 6 爆款发售背后的大数据",
+  "zh_oneliner": "Sensor Tower 估算 GTA 6 预购已达 16.5 亿美元、售出超 1700 万份，其中 PlayStation 占约 75%，Xbox 占 25%。",
+  "en_title": "The big data behind GTA 6's blockbuster launch",
+  "en_oneliner": "Sensor Tower estimates GTA 6 pre-orders already hit $1.65 billion from over 17 million copies sold, with PlayStation taking about 75% and Xbox 25%."
  }
 }
