@@ -17014,5 +17014,29 @@
   "zh_oneliner": "一款面向动画师与游戏制作者的桌面表演工作室，能把呼吸实时转化为动画与音效，适合想尝试呼吸交互玩法的开发者参考。",
   "en_title": "Idlewild: Turn Your Breath into Animation and Sound",
   "en_oneliner": "A desktop performance studio for animators and game makers that turns breath into animation and sound in real time — worth a look for developers exploring breath-based interaction."
+ },
+ "https://gamedev.net/forums/topic/720866-starting-with-potential": {
+  "zh_title": "从潜力起步：给编程新手的鼓励",
+  "zh_oneliner": "一位开发者写给编程新手的鼓励：学历固然有用，但更重要的是坚持打磨手艺，时间会让你逐渐理解如何开发。",
+  "en_title": "Starting with Potential",
+  "en_oneliner": "A developer's encouragement for coding beginners: formal education helps, but staying committed to your craft matters more, and time will teach you how to build."
+ },
+ "https://www.indiedb.com/games/tarot-gothique-2026/news/learning-french-tarot-school-mode-and-a-series-of-rules-guides": {
+  "zh_title": "学法式塔罗：学校模式与系列规则指南",
+  "zh_oneliner": "独立塔罗游戏 Tarot Gothique 推出学校模式，让新手免费与 AI 打一局带提示的教学对局，另有五篇新文章分人数讲清法式塔罗规则与算分示例。",
+  "en_title": "Learning French tarot: School mode and a series of rules guides",
+  "en_oneliner": "Indie tarot game Tarot Gothique adds a school mode that lets newcomers play a free guided hand against the AI, plus five new articles explaining French tarot rules and scoring for 3, 4 and 5 players."
+ },
+ "https://dev.to/christmastown_dev/six-corners-of-a-cozy-christmas-village-on-iphone-5d2n": {
+  "zh_title": "温馨圣诞村的六个角落：iPhone 装饰小游戏开发手记",
+  "zh_oneliner": "一位独立开发者分享自己在做的免费 iPhone 游戏 Christmas Town：玩家在雪村里布置自己的房子和圣诞树，文章介绍了村里六个可互动的角落。",
+  "en_title": "Six corners of a cozy Christmas village on iPhone",
+  "en_oneliner": "A solo developer shares Christmas Town, a free iPhone game about decorating your own home and tree in a snowy village, walking through six spots in the village and what you can do in each."
+ },
+ "https://www.nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode": {
+  "zh_title": "《空之轨迹》Switch 2 更新：画面模式新增 30fps 锁定选项",
+  "zh_oneliner": "《空之轨迹》第一章在 Switch 与 Switch 2 上更新至 1.0.8 版，修复若干问题，并在画面模式中新增 30fps 锁定选项，第二章也有相应更新。",
+  "en_title": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
+  "en_oneliner": "Trails in the Sky 1st Chapter updates to version 1.0.8 on Switch and Switch 2 with several fixes, adding a 30fps lock option to graphics mode, with updates for the 2nd Chapter as well."
  }
 }
