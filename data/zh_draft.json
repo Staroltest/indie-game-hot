@@ -16576,5 +16576,89 @@
   "zh_oneliner": "刚开局就能偷到的第一架飞机和直升机位置，省去满地图乱找的时间。",
   "en_title": "GTA 6: Where to find your first plane and helicopter right away",
   "en_oneliner": "The locations of the first plane and helicopter you can grab right at the start, so you don't have to search the whole map for them."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/into-the-breach-show-the-threat-not-the-answer-3kdm": {
+  "zh_title": "《Into the Breach》：展示威胁，而不是答案",
+  "zh_oneliner": "以《Into the Breach》的推怪机制为例，聊威胁预告该给玩家看多少、留多少，帮你打磨战斗信息的设计分寸。",
+  "en_title": "Into the Breach: Show the Threat, Not the Answer",
+  "en_oneliner": "Using Into the Breach's shove mechanics as an example, it explores how much a threat preview should show and how much it should hold back, to help you tune combat information design."
+ },
+ "https://spectralorbit.com/blog/satelital_game_engine": {
+  "zh_title": "我如何为《Satelital》自研了一款游戏引擎",
+  "zh_oneliner": "作者复盘为游戏《Satelital》从零写引擎的过程，聊自研引擎的取舍与踩过的坑。",
+  "en_title": "How I made a custom game engine for Satelital",
+  "en_oneliner": "The author looks back at building a game engine from scratch for Satelital, covering the trade-offs of going custom and the pitfalls along the way."
+ },
+ "https://threedots.tech/post/making-games-in-go-ecs": {
+  "zh_title": "用 Go 做游戏：实体组件系统（ECS）",
+  "zh_oneliner": "一篇用 Go 实现 ECS 架构的实战教程，适合想用 Go 写游戏的开发者参考。",
+  "en_title": "Making Games in Go: Entity Component System (ECS)",
+  "en_oneliner": "A hands-on tutorial on implementing an ECS architecture in Go, useful for developers who want to build games with the language."
+ },
+ "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games": {
+  "zh_title": "我最喜欢的 25 款现代 NES 游戏",
+  "zh_oneliner": "一份现代新作 NES 游戏精选清单，看看老平台上如今还在长出哪些新点子。",
+  "en_title": "25 of my favourite modern NES games",
+  "en_oneliner": "A curated list of 25 modern games made for the NES, showing what new ideas are still growing on the old platform."
+ },
+ "https://antithesis.com/blog/2026/nethack": {
+  "zh_title": "攻克《NetHack》的前沿",
+  "zh_oneliner": "一篇挑战《NetHack》极限玩法的记录，聊这款老牌 Roguelike 至今仍能被推进的边界。",
+  "en_title": "Beating the frontier on NetHack",
+  "en_oneliner": "A write-up on pushing the limits of NetHack, exploring how far the classic roguelike can still be taken."
+ },
+ "https://monkeyisland.pages.dev": {
+  "zh_title": "《猴岛的秘密》：13 个版本并排对比",
+  "zh_oneliner": "把《猴岛的秘密》13 个版本并排放在一起比较，看看同一款经典在不同平台上各是什么模样。",
+  "en_title": "The Secret of Monkey Island: all 13 versions side by side",
+  "en_oneliner": "All 13 versions of The Secret of Monkey Island placed side by side, showing how the same classic looks across platforms."
+ },
+ "https://ruffle.rs/blog/2026/11/04/stable-releases-and-everything-else": {
+  "zh_title": "Ruffle：稳定版、API、文本渲染及其他进展",
+  "zh_oneliner": "Flash 模拟器 Ruffle 的最新进展汇总，覆盖稳定版发布、API 与文本渲染等改进。",
+  "en_title": "Ruffle: Stable Releases, API, Text... and Everything Else",
+  "en_oneliner": "A roundup of the latest progress on Ruffle, the Flash emulator, covering stable releases, API work, text rendering and more."
+ },
+ "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html": {
+  "zh_title": "现代象棋引擎跑在奔腾电脑上，能在 1996 年击败卡斯帕罗夫吗？",
+  "zh_oneliner": "一次有趣的反事实推演：如果把今天的象棋引擎装进 1996 年的奔腾电脑，它能赢卡斯帕罗夫吗？",
+  "en_title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+  "en_oneliner": "A fun counterfactual: if you ran a modern chess engine on a 1996 Pentium, could it have beaten Kasparov?"
+ },
+ "https://www.frag-net.com/project_tacticalretreat.html": {
+  "zh_title": "Tactical-Retreat：基于 QuakeC 的免费跨平台《反恐精英》1.5 复刻",
+  "zh_oneliner": "一个用 QuakeC 实现的《反恐精英》1.5 开源复刻，免费且跨平台，适合想研究老式射击玩法的开发者看看。",
+  "en_title": "Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port",
+  "en_oneliner": "A free, cross-platform Counter-Strike 1.5 remake built on QuakeC, worth a look for developers interested in classic shooter mechanics."
+ },
+ "https://entropicthoughts.com/what-the-fox-say": {
+  "zh_title": "狐狸说什么？",
+  "zh_oneliner": "作者用蒙特卡洛树搜索加自学启发函数，分析北欧古老棋盘游戏《饿狐狸》的平衡性，结论出人意料，值得做棋盘与策略游戏的开发者参考。",
+  "en_title": "What the fox say?",
+  "en_oneliner": "The author analyses the old Norse board game Starve the Fox with Monte Carlo tree search and a self-learned heuristic, reaching a surprising conclusion about its balance — a useful read for board and strategy game developers."
+ },
+ "https://queue.acm.org/doi/10.1145/945131.945155": {
+  "zh_title": "没有源代码？没问题！只有二进制文件时怎么移植程序？（2003）",
+  "zh_oneliner": "一篇 2003 年的老文章，聊手头只有一个二进制文件时如何移植程序，对做复古移植或逆向的开发者仍有参考价值。",
+  "en_title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+  "en_oneliner": "A 2003 classic on how to port a program when all you have is the binary, still useful for developers working on retro ports or reverse engineering."
+ },
+ "https://isaacmarovitz.com/posts/sonic-06": {
+  "zh_title": "《索尼克 06》错失的许许多多机会",
+  "zh_oneliner": "一篇拆解《索尼克 06》的文章，细数这款口碑翻车的作品本可以做对的地方，给做 3D 动作游戏的开发者提个醒。",
+  "en_title": "The Many Many Missed Opportunities of Sonic 06",
+  "en_oneliner": "A breakdown of Sonic 06 that catalogues what the troubled game could have done right, a cautionary read for 3D action developers."
+ },
+ "https://www.youtube.com/watch?v=rwQ8p_J5KhI": {
+  "zh_title": "我用 6 个月重制《Half-Life》之旅",
+  "zh_oneliner": "作者记录了花半年时间复刻《Half-Life》的全过程，聊复刻经典时学到的技术与设计经验。",
+  "en_title": "My 6 Month Journey to Recreate Half-Life",
+  "en_oneliner": "The author documents six months spent recreating Half-Life, sharing the technical and design lessons learned from rebuilding a classic."
+ },
+ "https://indienova.com/indie-game-news/guide-2026-1116-1122-part-3": {
+  "zh_title": "本周 Steam 值得关注的游戏 11.16 - 11.22（三）",
+  "zh_oneliner": "indienova 每周一期的 Steam 新游值得关注清单，本期是第三部分，适合想找发行参考或灵感的开发者翻一翻。",
+  "en_title": "Steam Games Worth Watching This Week, Nov 16–22 (Part 3)",
+  "en_oneliner": "Indienova's weekly roundup of Steam releases worth watching, part three of this week's list — handy for developers scouting release references or inspiration."
  }
 }
