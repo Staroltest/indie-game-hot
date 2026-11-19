@@ -16924,5 +16924,11 @@
   "zh_oneliner": "针对独立开发者常被音效设计卡住的痛点，介绍把 AI 生成配乐接入游戏与互动项目的工作流。",
   "en_title": "Audio Workflow for Indie Devs: How to Integrate AI-Generated Soundtracks into Your Own Projects",
   "en_oneliner": "For indie developers often bottlenecked by sound design, it shows a workflow for bringing AI-generated soundtracks into games and interactive projects."
+ },
+ "http://www.chuapp.com/article/291772.html": {
+  "zh_title": "在《异人之下》终局测试里直面“老天师”",
+  "zh_oneliner": "作者在《异人之下》终局测试里投入 13.2 小时，主攻 PVP 切磋与排位“天下会武”，记录与“老天师”对战的实感与升段历程。",
+  "en_title": "Facing the “Old Master” in the Final Test of Under One Person",
+  "en_oneliner": "After 13.2 hours in the final test of Under One Person, the author shares hands-on impressions of its PvP duels and ranked mode, and a showdown with the “Old Master.”"
  }
 }
