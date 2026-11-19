@@ -18124,5 +18124,35 @@
   "zh_oneliner": "想在《GTA 6》的 Leonida 群岛亲眼撞见传说中的大脚怪（臭鼬猿），这篇指南标出了具体出没地点。",
   "en_title": "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6",
   "en_oneliner": "This guide pinpoints where to spot the legendary Bigfoot (skunk ape) out in the Leonida Keys in GTA 6."
+ },
+ "https://80.lv/articles/report-gta-6-generated-nearly-usd2b-in-sales-by-launch-day": {
+  "zh_title": "报道：GTA 6 发售首日销售额近 20 亿美元",
+  "zh_oneliner": "报道称 GTA 6 发售首日卖出约 1900 万份、收入 18.4 亿美元，或成史上规模最大的娱乐产品首发之一。",
+  "en_title": "Report: GTA 6 Generated Nearly $2B in Sales by Launch Day",
+  "en_oneliner": "GTA 6 reportedly sold around 19 million copies and earned $1.84 billion by launch day, potentially one of the biggest entertainment launches of all time."
+ },
+ "https://gamedev.net/forums/topic/720868-is-anyone-crazy-here": {
+  "zh_title": "有人跟我一样疯吗？",
+  "zh_oneliner": "一位业余程序员兼写作者、作曲家在论坛发帖求组队，想把一个自知远超自己能力的疯狂点子做到极致，看看能力边界到底在哪里。",
+  "en_title": "Is Anyone Crazy Here?",
+  "en_oneliner": "A hobbyist coder, writer and composer posts on the forum looking for collaborators on an idea he knows is far beyond his own abilities, aiming to push his limits as far as they will go."
+ },
+ "https://dev.to/indietooling/artstations-store-closes-18-december-save-your-asset-licences-1e1n": {
+  "zh_title": "ArtStation 商店 12 月 18 日关闭，请保存好你的资产授权",
+  "zh_oneliner": "ArtStation Marketplace 将于 2026 年 12 月 18 日停止接单，之后艺术家的商店页仍在，但结算、支付与下载改走 Gumroad，已购资产不受影响，记得提前备份好授权。",
+  "en_title": "ArtStation's store closes 18 December. Save your asset licences",
+  "en_oneliner": "ArtStation Marketplace stops taking orders on 18 December 2026; artists keep a Store tab, but checkout, payment and downloads move to Gumroad, so back up your purchased asset licences in time."
+ },
+ "https://dev.to/kamalmosadegh/i-built-a-complete-arena-shooter-in-vanilla-javascript-no-engine-no-libraries-no-audio-files-46m0": {
+  "zh_title": "我用纯 JavaScript 写了一个完整的竞技场射击游戏——不用引擎、不用库、不用音频文件",
+  "zh_oneliner": "开发者用原生 JavaScript 与 Canvas 2D 写完了竞技场射击游戏 VOIDSTORM，音乐、激光与 Boss 吼叫全部由 Web Audio API 实时合成，仓库里没有任何音频文件，打开 index.html 就能玩。",
+  "en_title": "I Built a Complete Arena Shooter in Vanilla JavaScript — No Engine, No Libraries, No Audio Files",
+  "en_oneliner": "VOIDSTORM is a complete arena shooter built in vanilla JavaScript and Canvas 2D — every sound, from the music to laser shots and the boss roar, is synthesized live with the Web Audio API, with no audio files, no engine, no framework and no build step."
+ },
+ "https://www.pcgamer.com/gaming-industry/doom-level-designer-sandy-petersen-on-gabe-newell-with-steam-he-is-literally-guarding-the-gates-of-hell": {
+  "zh_title": "毁灭战士关卡设计师 Sandy Petersen 谈 Gabe Newell：靠 Steam，他“简直是在看守地狱之门”",
+  "zh_oneliner": "毁灭战士关卡设计师 Sandy Petersen 难得夸了别人一回，称 Gabe Newell 靠 Steam“简直是在看守地狱之门”。",
+  "en_title": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
+  "en_oneliner": "Doom level designer Sandy Petersen pays a rare compliment to Gabe Newell, saying that with Steam he is \"literally guarding the gates of Hell\"."
  }
 }
