@@ -17842,5 +17842,41 @@
   "zh_oneliner": "AppsFlyer 为 Agent Hub 增加了 MCP 工具，让营销人员能用自动化工作流查询并操作数据。",
   "en_title": "AppsFlyer expands Agent Hub and MCP tools to automate marketing workflows",
   "en_oneliner": "AppsFlyer has expanded its Agent Hub with MCP tools that let marketers investigate and act on their data through automated workflows."
+ },
+ "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs": {
+  "zh_title": "育碧再裁 166 人，蒙特利尔与魁北克工作室受波及",
+  "zh_oneliner": "育碧在加拿大东部的两家主力工作室再裁 166 名开发者，两家工作室都参与过《刺客信条：影》的开发，大厂裁员潮仍在继续。",
+  "en_title": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
+  "en_oneliner": "Ubisoft is cutting 166 more developers at its Montreal and Quebec City studios, both of which worked on Assassin's Creed Shadows, as big-studio layoffs keep coming."
+ },
+ "https://80.lv/articles/blender-artist-breaks-down-spider-verse-style-hand-painted-effect": {
+  "zh_title": "Blender 艺术家拆解蜘蛛侠风格手绘特效",
+  "zh_oneliner": "作者用“爆炸分层”技法在 Blender 里复现《蜘蛛侠：平行宇宙》式的手绘质感，拆解了分层与笔触的处理思路。",
+  "en_title": "Blender Artist Breaks Down Spider-Verse-Style Hand-Painted Effect",
+  "en_oneliner": "The artist breaks down an \"exploding layers\" technique for recreating Spider-Verse-style hand-painted looks in Blender."
+ },
+ "https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op": {
+  "zh_title": "让滑雪橇游戏真的像滑雪橇：一个引擎，三套物理配置",
+  "zh_oneliner": "作者分享浏览器滑雪游戏 SledRun 的调校经验：六个数字决定三种模式的手感，赛道宽度与重力才是拉开体验差距的关键。",
+  "en_title": "Making a sledding game feel like sledding: one engine, three physics configs",
+  "en_oneliner": "The author shares how six numbers per mode shape the feel of browser sledding game SledRun, with track width and gravity doing most of the work."
+ },
+ "https://dev.to/zentaolabs/parse-an-osu-skinini-with-python-and-check-that-every-referenced-prefix-still-has-files-3j23": {
+  "zh_title": "用 Python 解析 osu! 的 skin.ini，检查引用的前缀文件是否还在",
+  "zh_oneliner": "一段纯标准库 Python 脚本，读 skin.ini 并核对引用的前缀与贴图文件是否缺失，避免皮肤静默回退到默认。",
+  "en_title": "Parse an osu! skin.ini with Python and check that every referenced prefix still has files",
+  "en_oneliner": "A stdlib-only Python script that parses skin.ini and checks whether every referenced prefix and image file is actually present, so a skin never silently falls back to the default."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages": {
+  "zh_title": "Rockstar 终于放出了 GTA 6 的完整地图",
+  "zh_oneliner": "Leonida 面积巨大且布满战争迷雾，官方放出的完整地图可以当作开荒时的参考。",
+  "en_title": "Rockstar has finally posted GTA 6's full map online—thank goodness, because clearing the entire thing in game takes ages",
+  "en_oneliner": "Rockstar has published the full map of Leonida, a huge fog-of-war region, as a handy reference while players clear it in game."
+ },
+ "https://www.pcgamer.com/games/fallout/a-new-fallout-game-has-been-rated-in-australia-and-its-a-hidden-object-game": {
+  "zh_title": "一款新的 Fallout 游戏已在澳大利亚获评级，竟是找茬游戏",
+  "zh_oneliner": "新作名为《A Wasteland Full of Cats》，已在澳大利亚完成分级，废土题材遇上找茬玩法。",
+  "en_title": "A new Fallout game has been rated in Australia, and it's a hidden object game",
+  "en_oneliner": "A new Fallout title called A Wasteland Full of Cats has been rated in Australia — and it turns out to be a hidden object game."
  }
 }
