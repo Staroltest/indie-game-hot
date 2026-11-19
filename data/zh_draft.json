@@ -16678,5 +16678,41 @@
   "zh_oneliner": "GTA 6 在与前作相隔 4811 天后终于发售，文章回望这 13 年间行业与世界的变化，聊聊一款续作等这么久意味着什么。",
   "en_title": "After 4,811 Days, at Least We Still Have GTA 6",
   "en_oneliner": "GTA 6 arrives 4,811 days after its predecessor, and this essay looks back at how the industry and the world changed across those 13 years — and what such a long wait means for a sequel."
+ },
+ "https://www.gcores.com/articles/222514": {
+  "zh_title": "Rogue动作游戏《恸哭幽光》Steam版将于12月1日发售",
+  "zh_oneliner": "FURYU 的 Rogue 动作游戏《恸哭幽光》Steam 版定档 12 月 1 日，此前因 Steam 审核积压而被迫延期。",
+  "en_title": "Rogue action game “恸哭幽光” coming to Steam on December 1",
+  "en_oneliner": "FURYU's rogue action game “恸哭幽光” is set for a December 1 Steam launch, after a delay caused by a backlog in Steam's review queue."
+ },
+ "https://www.gcores.com/articles/222515": {
+  "zh_title": "德国万得城门店推出代下载《GTA6》服务，售价29.99欧元",
+  "zh_oneliner": "德国万得城一家门店推出 29.99 欧元的《GTA6》代下载服务，店员用高速网络一小时内帮玩家装好这款 212GB 的大作，也折射出德国宽带基础设施的短板。",
+  "en_title": "German MediaMarkt store offers a GTA 6 download service for €29.99",
+  "en_oneliner": "A MediaMarkt store in Germany now charges €29.99 to download and install the 212GB GTA 6 for customers within an hour, a workaround for the country's slow broadband."
+ },
+ "https://dev.to/joanbernier/devlog-using-invert-image-to-make-hit-flash-frames-for-a-small-sprite-sheet-5b9d": {
+  "zh_title": "开发日志：用反色图像为小精灵图集制作受击闪白帧",
+  "zh_oneliner": "开发者分享平台跳跃游戏第 23 天的开发日志，用反色图像法为小精灵图集快速生成受击闪白帧，让敌人被击中时有一两帧的视觉反馈。",
+  "en_title": "Devlog: Using Invert Image to Make Hit-Flash Frames for a Small Sprite Sheet",
+  "en_oneliner": "A platformer devlog shows how inverted images can generate hit-flash frames for a small sprite sheet, giving enemies a one- or two-frame flash when struck."
+ },
+ "https://dev.to/neural_ethos/official-equip-time-stats-are-not-a-tier-list-so-an-s-d-board-still-needs-a-written-lens-44n": {
+  "zh_title": "官方装备时间数据不是强度榜——S–D 分级仍需文字解读",
+  "zh_oneliner": "作者提醒官方社区数据容易被误读为强度排名，S–D 分级榜仍需配上文字分析才有意义。",
+  "en_title": "Official equip-time stats are not a tier list — so an S–D board still needs a written lens",
+  "en_oneliner": "The author warns that official community stats are easy to misread as a power ranking, and an S–D tier board only makes sense with written analysis alongside it."
+ },
+ "https://dev.to/daviddeng/how-tall-are-the-freak-circus-characters-every-listed-height-ranked-and-why-theyre-all-5098": {
+  "zh_title": "《怪奇马戏团》角色有多高？全员身高排名及为何都“未经证实”",
+  "zh_oneliner": "作者梳理了《怪奇马戏团》各角色网上流传的身高数据并逐一排名，指出这些数字背后都没有可靠来源。",
+  "en_title": "How Tall Are The Freak Circus Characters? Every Listed Height, Ranked (and Why They're All \"Unverified\")",
+  "en_oneliner": "A roundup ranks every listed height for The Freak Circus characters and explains why each figure is unverified, with no source behind the confident numbers online."
+ },
+ "https://dev.to/daviddeng/the-freak-circus-day-by-day-a-spoiler-light-walkthrough-of-the-free-horror-visual-novel-4n6b": {
+  "zh_title": "《怪奇马戏团》逐日攻略：轻剧透走完这款免费恐怖视觉小说",
+  "zh_oneliner": "一篇轻剧透的逐日攻略，带玩家走完这款悄然走红的免费恐怖视觉小说，并聊聊它值得被认真对待的地方。",
+  "en_title": "The Freak Circus, Day by Day: A Spoiler-Light Walkthrough of the Free Horror Visual Novel",
+  "en_oneliner": "A spoiler-light, day-by-day walkthrough of the free horror visual novel The Freak Circus, and why it deserves to be taken seriously."
  }
 }
