@@ -16774,5 +16774,47 @@
   "zh_oneliner": "Build-A-Bear 预告了与任天堂合作的大金刚毛绒新品，喜欢收藏周边的玩家可以期待一下。",
   "en_title": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Is Coming Soon To Build-A-Bear Workshop",
   "en_oneliner": "Build-A-Bear has teased a Donkey Kong plush, giving collectors something to look forward to alongside the GTA 6 buzz."
+ },
+ "http://www.gamelook.com.cn/2026/11/606760": {
+  "zh_title": "刚创历史记录的《魔兽世界：无限》暴雷！开服两周遭遇恶性刷金 Bug",
+  "zh_oneliner": "《魔兽世界：无限》上线两周就因恶性刷金 Bug 翻车，这场开服即破纪录又迅速暴雷的事故值得复盘上线保障与游戏经济系统的设计教训。",
+  "en_title": "World of Warcraft: Infinite Breaks Records, Then Blows Up: Hit by a Gold-Duping Bug Two Weeks After Launch",
+  "en_oneliner": "World of Warcraft: Infinite broke launch records and then blew up on a gold-duping bug within two weeks, a case study in launch safeguards and in-game economy design."
+ },
+ "http://www.gamelook.com.cn/2026/11/606733": {
+  "zh_title": "TGA 公布提名：《GTA 6》领跑，《影之刃零》获五项提名，手游中国游戏包场",
+  "zh_oneliner": "TGA 2026 提名出炉，未发售的《GTA 6》以 8 项提名领跑，《影之刃零》拿下五项，中国手游几乎包场，对照今年的获奖风向能看出市场偏好。",
+  "en_title": "TGA 2026 Nominations Announced: GTA 6 Leads the Pack, Phantom Blade Zero Earns Five Nods as Chinese Mobile Games Dominate",
+  "en_oneliner": "The TGA 2026 nominations are out, with unreleased GTA 6 leading on eight nods, Phantom Blade Zero taking five, and Chinese mobile games nearly sweeping the mobile categories."
+ },
+ "http://www.gamelook.com.cn/2026/11/606736": {
+  "zh_title": "SLG 老将危！《文明》开发商大裁员 1/3，工作室总裁直接被开",
+  "zh_oneliner": "《文明》系列开发商 Firaxis 裁员约三分之一，总裁离任，老牌 4X 工作室的动荡值得关注团队与发行层面的信号。",
+  "en_title": "Veteran SLG Studio in Trouble: Civilization Developer Lays Off a Third of Staff, Studio President Out",
+  "en_oneliner": "Civilization developer Firaxis has laid off about a third of its staff and parted ways with its studio president, a worrying signal from a veteran 4X studio."
+ },
+ "http://www.gamelook.com.cn/2026/11/606707": {
+  "zh_title": "现象级爆款《哈利波特：魔法觉醒》官宣停运，IP 授权手游站在迷惘的十字路口",
+  "zh_oneliner": "网易《哈利波特：魔法觉醒》因授权协议到期宣布停运，IP 授权手游的生命周期风险又添一例。",
+  "en_title": "Harry Potter: Magic Awakened to Shut Down as Its IP License Expires",
+  "en_oneliner": "NetEase's Harry Potter: Magic Awakened is shutting down as its IP license expires, another reminder of the lifecycle risks built into licensed mobile games."
+ },
+ "https://dev.to/mark_001/mou-xian-da-lu-o-genesis-yin-cang-zhi-ye-quan-jie-6-da-si-zhuan-zen-yao-jie-suo-252j": {
+  "zh_title": "冒险大陆 Ω-Genesis 隐藏职业全解：6 大四转怎么解锁",
+  "zh_oneliner": "这篇攻略整理了《冒险大陆 Ω-Genesis》六个隐藏四转职业的解锁条件与转职路线，职业树与进阶设计可供做养成系统的开发者参考。",
+  "en_title": "Ω-Genesis Hidden Classes Explained: How to Unlock All 6 Fourth Advancements",
+  "en_oneliner": "This guide maps out how to unlock all six hidden fourth-job classes in Ω-Genesis, a handy reference for developers designing deep job-advancement trees."
+ },
+ "https://dev.to/mark_001/how-to-unlock-all-6-hidden-classes-in-o-genesis-lv100-4th-jobs-2d98": {
+  "zh_title": "《Ω-Genesis》六大隐藏职业全解：100 级四转怎么解锁",
+  "zh_oneliner": "这篇英文攻略梳理了《冒险大陆 Ω-Genesis》六个隐藏四转职业的解锁路线，职业进阶设计值得做养成系统的开发者看一眼。",
+  "en_title": "How to Unlock All 6 Hidden Classes in Ω-Genesis (Lv.100 4th Jobs)",
+  "en_oneliner": "This English-language guide walks through unlocking all six hidden fourth-job classes in Ω-Genesis, useful reading for anyone building a deep class-advancement system."
+ },
+ "https://www.youxituoluo.com/535073.html": {
+  "zh_title": "看懂这场联名，才知道 KPL 的十年有多值",
+  "zh_oneliner": "KPL 十周年联手瑞幸登上热搜，电竞赛事 IP 与消费品牌联动的打法值得做发行与品牌合作的开发者参考。",
+  "en_title": "Why the KPL's Tenth Anniversary Crossover Shows the Value of a Decade of Esports",
+  "en_oneliner": "The KPL's tenth-anniversary crossover with Luckin Coffee trended across Chinese social media, a case study in how an esports IP can partner with a consumer brand."
  }
 }
