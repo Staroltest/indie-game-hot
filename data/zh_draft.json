@@ -17962,5 +17962,59 @@
   "zh_oneliner": "有人在 GTA 6 里发现了酷似 Arthur Morgan 那顶帽子的彩蛋，算是 Rockstar 给老玩家留的一处小惊喜。",
   "en_title": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
   "en_oneliner": "A familiar-looking hat turned up in GTA 6 in the last place anyone expected, a small Easter egg nodding to Rockstar's previous western."
+ },
+ "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada": {
+  "zh_title": "育碧加拿大裁员 166 人，涉及蒙特利尔与魁北克城工作室",
+  "zh_oneliner": "育碧确认裁撤蒙特利尔与魁北克城工作室共 166 个岗位，两地曾长期受益于加拿大政府的游戏产业补贴。",
+  "en_title": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
+  "en_oneliner": "Ubisoft confirmed 166 layoffs across its Montréal and Quebec City studios, which have long benefited from Canadian government subsidies for game development."
+ },
+ "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring": {
+  "zh_title": "太空站恐怖 FPS《Derelikt》：致敬《异形 4》的复古射击，枪感胜过惊吓",
+  "zh_oneliner": "一款 PS1 画风的宇宙恐怖复古 FPS，致敬《异形 4》的氛围浓厚，射击手感比恐怖氛围更出彩。",
+  "en_title": "Space station horror-FPS Derelikt is a lively retro throwback to Alien: Resurrection, though it's better at shooting than scaring",
+  "en_oneliner": "A PS1-styled cosmic-horror retro FPS channeling Alien: Resurrection, with shooting that outshines its scares."
+ },
+ "https://dev.to/renato_silva_71eef0fc385f/your-card-games-turns-need-a-state-machine-not-callbacks-4mo9": {
+  "zh_title": "卡牌游戏的回合该用状态机，而不是回调",
+  "zh_oneliner": "作者用 Godot 做卡牌构筑游戏时踩过回调地狱的坑，分享如何用状态机理清回合流程。",
+  "en_title": "Your Card Game's Turns Need a State Machine, Not Callbacks",
+  "en_oneliner": "A Godot deckbuilder dev explains why a state machine beats signal-and-callback spaghetti for managing card game turns."
+ },
+ "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios": {
+  "zh_title": "育碧两大主力工作室裁员 166 人",
+  "zh_oneliner": "育碧确认裁撤加拿大两家主力工作室 166 名员工，正值公司重组之际。",
+  "en_title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
+  "en_oneliner": "Ubisoft confirmed 166 layoffs at its Canadian studios in Montréal and Québec, two of its biggest teams."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/its-time-for-gta-5s-last-challenge-20-more-mods-aimed-at-finally-breaking-it-completely": {
+  "zh_title": "GTA 5 的最后一战：20 个新 Mod 试图彻底把它玩坏",
+  "zh_oneliner": "发售多年后仍有 Mod 作者挑战极限，20 个新 Mod 试图把 GTA 5 推向崩溃边缘。",
+  "en_title": "It's time for GTA 5's last challenge: 20 more mods aimed at finally breaking it completely",
+  "en_oneliner": "Modders keep pushing GTA 5 to its limits with 20 new mods designed to finally break the game completely."
+ },
+ "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway": {
+  "zh_title": "育碧称《刺客信条：黑旗 Resynced》表现超预期，仍裁员 166 人",
+  "zh_oneliner": "《黑旗 Resynced》销量超出预期，但育碧仍在蒙特利尔与魁北克城裁掉 166 人。",
+  "en_title": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
+  "en_oneliner": "Despite Black Flag Resynced outperforming expectations, Ubisoft is still cutting 166 jobs at its Montréal and Quebec studios."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/this-is-technically-the-worst-version-of-gta-6-that-well-ever-play": {
+  "zh_title": "这是技术上最差的 GTA 6 版本，以后只会更好",
+  "zh_oneliner": "首发版 GTA 6 缺少 PC 版、线上模式与后续补丁，作者认为这已是它最差的状态。",
+  "en_title": "This is technically the worst version of GTA 6 that we'll ever play",
+  "en_oneliner": "The launch version of GTA 6 is missing PC performance, Online and patches — technically the worst it will ever be."
+ },
+ "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs": {
+  "zh_title": "GTA 6 玩家已发现外星人绑架与大脚怪彩蛋",
+  "zh_oneliner": "GTA 6 发售仅数小时，玩家就在野外找到了 UFO 与沼泽里的大脚怪。",
+  "en_title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
+  "en_oneliner": "Hours after launch, GTA 6 players have already found a UFO in the woods and a Bigfoot in the swamps."
+ },
+ "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec": {
+  "zh_title": "育碧继续裁员，166 人离开《刺客信条》《孤岛惊魂》主力工作室",
+  "zh_oneliner": "育碧确认新一轮裁员，166 名员工离开蒙特利尔与魁北克城工作室，年度裁员潮仍在继续。",
+  "en_title": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
+  "en_oneliner": "Ubisoft confirmed another round of layoffs, cutting 166 jobs at the Montréal and Quebec City studios behind Assassin's Creed and Far Cry."
  }
 }
