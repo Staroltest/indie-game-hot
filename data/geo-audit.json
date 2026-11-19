@@ -3,9 +3,9 @@
  "site": "https://indie-game-hot.pages.dev",
  "summary": {
   "total": 10,
-  "passed": 8,
+  "passed": 7,
   "warn": 2,
-  "failed": 0
+  "failed": 1
  },
  "checks": [
   {
@@ -17,8 +17,8 @@
   {
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
-   "status": "pass",
-   "detail": "共 5943 条 URL，磁盘 5939 个 HTML 页全部在列"
+   "status": "fail",
+   "detail": "共 5953 条 URL，漏 1 页：https://indie-game-hot.pages.dev/google62220726582f76c7.html"
   },
   {
    "key": "llms",
