@@ -17212,5 +17212,59 @@
   "zh_oneliner": "PC Connects 将在 2027 年重返伦敦，去年大会吸引了约 3000 名参会者，独立开发者可关注这一面向 PC 领域的行业聚会。",
   "en_title": "PC Connects returns to PG Connects London 2027",
   "en_oneliner": "PC Connects returns to London in 2027 alongside PG Connects, which drew around 3,000 attendees last year — an industry gathering worth watching for indie developers in the PC space."
+ },
+ "https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion": {
+  "zh_title": "英国游戏的未来不只是游戏 | 观点",
+  "zh_oneliner": "英国游戏业的创造力早已溢出游戏本身，这篇观点文章聊的是独立工作室与大厂如何把这份创造力变成更广阔的产业价值。",
+  "en_title": "The future of British gaming is more than just games | Opinion",
+  "en_oneliner": "The UK games industry's creativity extends well beyond games themselves — this opinion piece looks at how indie studios and established businesses turn that creativity into broader value."
+ },
+ "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while": {
+  "zh_title": "Rockstar 解雇案庭审进入结案陈词，法官称将尽快裁决",
+  "zh_oneliner": "针对 Rockstar 去年解雇 34 名员工的劳资仲裁庭审已进入结案陈词阶段，裁决时间尚未确定，后续结果值得关注对行业用工的影响。",
+  "en_title": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
+  "en_oneliner": "The employment tribunal over Rockstar's firing of 34 workers has reached closing statements, with the judge promising a verdict as soon as possible — a case worth watching for what it means for labor practices in the industry."
+ },
+ "https://80.lv/articles/artstation-is-making-a-very-difficult-decision-by-moving-marketplace-to-gumroad": {
+  "zh_title": "ArtStation 做出“艰难决定”，将 Marketplace 迁移至 Gumroad",
+  "zh_oneliner": "ArtStation 仍可浏览发现商品，但所有交易将转移到 Gumroad 完成，卖家需要留意结算与上架流程的变化。",
+  "en_title": "ArtStation Is Making a \"Very Difficult Decision\" by Moving Marketplace to Gumroad",
+  "en_oneliner": "Products will still be discoverable on ArtStation, but all transactions are moving to Gumroad — sellers should watch for changes to checkout and listing workflows."
+ },
+ "https://80.lv/articles/epic-games-won-t-hand-gears-of-war-lead-designer-the-rights-to-his-first-character": {
+  "zh_title": "Epic 拒绝把《Gears of War》主设计师首个角色的版权还给他",
+  "zh_oneliner": "Epic 表示完全拥有 Cliff Bleszinski 早期作品 Jazz Jackrabbit 的版权，提醒开发者：早年签下的角色归属，日后很难再要回来。",
+  "en_title": "Epic Games Won't Hand Gears of War Lead Designer the Rights to His First Character",
+  "en_oneliner": "Epic says it fully owns the rights to Cliff Bleszinski's early creation Jazz Jackrabbit — a reminder that characters signed away early in a career are hard to win back."
+ },
+ "https://80.lv/articles/former-take-two-ceo-believes-attitudes-toward-ai-in-video-games-will-improve": {
+  "zh_title": "前 Take-Two CEO 认为玩家对游戏 AI 的态度将会好转",
+  "zh_oneliner": "前 Take-Two CEO 认为西方玩家接受游戏 AI 只差一个“玩具总动员时刻”，值得独立开发者思考 AI 叙事的窗口期。",
+  "en_title": "Former Take-Two CEO Believes Attitudes Toward AI In Video Games Will Improve",
+  "en_oneliner": "The former Take-Two CEO believes Western players are one \"Toy Story moment\" away from accepting AI in games — worth considering for indies thinking about when to lean into AI."
+ },
+ "https://80.lv/articles/system-shock-producer-warren-spector-hopes-gta-6-is-the-last-of-its-kind": {
+  "zh_title": "《System Shock》制作人 Warren Spector 希望“GTA 6 是同类最后一款”",
+  "zh_oneliner": "退休老将 Warren Spector 在祝贺 Rockstar 发售 GTA 6 的同时表示，行业不需要更多这样的巨作，独立开发者不妨从这句话里找找自己的位置。",
+  "en_title": "System Shock Producer Warren Spector Hopes \"GTA 6 Is the Last of Its Kind\"",
+  "en_oneliner": "Veteran Warren Spector congratulated Rockstar on the GTA 6 launch while arguing the industry doesn't need more games like it — a thought worth sitting with for indie developers."
+ },
+ "https://kenney.nl/assets/scribble-planes": {
+  "zh_title": "Kenney 涂鸦风飞机素材包 Scribble Planes",
+  "zh_oneliner": "Kenney 涂鸦系列新添 2D 飞机素材包，共 110 个文件，适合俯视角射击类小游戏快速搭原型。",
+  "en_title": "Scribble Planes",
+  "en_oneliner": "A new 2D aircraft asset pack in Kenney's Scribble series — 110 files suited to top-down shooters and quick prototypes."
+ },
+ "https://dev.to/buluo/i-built-a-3d-farm-mini-game-with-claudefable52-until-thinking-used-up-the-output-budget-5c6n": {
+  "zh_title": "我用 Claude 做了个 3D 农场小游戏，直到思考预算耗尽",
+  "zh_oneliner": "作者用刚发布的 Claude 模型从零搭了个 3D 农场小游戏，实测记录了 AI 辅助开发的上限与翻车点，适合想试 AI 做游戏的开发者参考。",
+  "en_title": "I Built a 3D Farm Mini-Game with claudefable5.2 Until Thinking Used Up the Output Budget",
+  "en_oneliner": "The author built a 3D farm mini-game from scratch with the newly released Claude model, documenting where AI-assisted development shines and where it breaks down."
+ },
+ "https://gamedev.net/blogs/entry/2298688-a-menu-navigation-pass-for-controller-players-eight-checks-before-your-first-console-build": {
+  "zh_title": "手柄玩家菜单导航检查：首个主机版本前的八项核查",
+  "zh_oneliner": "这篇开发日志梳理了手柄菜单导航的八个检查点，帮独立开发者在首个主机版本前把菜单操作打磨顺滑，避免玩家在开始游戏前就卡住。",
+  "en_title": "A Menu Navigation Pass for Controller Players: Eight Checks Before Your First Console Build",
+  "en_oneliner": "This dev log walks through eight checks for controller menu navigation, helping indie developers smooth out menu controls before their first console build so players don't get stuck before the game even starts."
  }
 }
