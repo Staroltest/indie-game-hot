@@ -17656,5 +17656,101 @@
   "zh_oneliner": "用固定模拟步长把七步棋局重播压缩进一条短链接，文章拆解了这套做法，适合想给网页游戏加分享回放功能的开发者参考。",
   "en_title": "How to fit a browser game replay into a URL",
   "en_oneliner": "Fixed simulation ticks compress a seven-move replay into one short link — this walkthrough breaks down the technique for devs who want shareable replays in browser games."
+ },
+ "https://godotengine.org/article/godot-showreel-2026": {
+  "zh_title": "Godot 2026 年度作品集锦",
+  "zh_oneliner": "Godot 官方放出 2026 年作品集锦，今年收到 422 份投稿创下新纪录，片中收录了《Slay the Spire 2》等社区作品的实机画面。",
+  "en_title": "Godot Showreel 2026",
+  "en_oneliner": "Godot's 2026 showreel is out, with a record 422 community submissions and gameplay from featured projects including Slay the Spire 2."
+ },
+ "https://dev.to/tosumitdhaka/blender-agent-kit-v022-giving-ai-agents-a-production-ready-3d-asset-pipeline-2bh4": {
+  "zh_title": "Blender Agent Kit v0.2.2：让 AI 智能体拥有可用于生产的 3D 资产管线",
+  "zh_oneliner": "这款开源 Blender 工具包让 AI 智能体从零生成可直接进游戏引擎的 3D 资产，实测中它抓出了真实的生产缺陷并大幅节省了管线搭建的工作量。",
+  "en_title": "Blender Agent Kit v0.2.2: Giving AI Agents a Production-Ready 3D Asset Pipeline",
+  "en_oneliner": "This open-source Blender toolkit lets AI agents generate 3D assets from scratch that are ready for a game-engine pipeline, catching real production defects and cutting pipeline setup work in testing."
+ },
+ "https://www.rockpapershotgun.com/remembering-the-back-alley-brawls-of-the-warriors-a-rockstar-city-game-that-isnt-an-open-world": {
+  "zh_title": "回忆《The Warriors》的街头斗殴：一款不是开放世界的 Rockstar 城市游戏",
+  "zh_oneliner": "作者从游戏如何呈现夜晚谈起，重温了 Rockstar Toronto 这款以 70 年代末一个漫长夜晚为背景的线性动作游戏，聊它如何用粗粝的多边形营造出汗湿又带电的街头氛围。",
+  "en_title": "Remembering the back alley brawls of The Warriors, a Rockstar city game that isn't an open world",
+  "en_oneliner": "A look back at Rockstar Toronto's linear action game set over one long night in the late '70s, and how its rough polygons build a sweaty, electric street atmosphere through the way it depicts the night."
+ },
+ "https://www.gcores.com/radios/222328": {
+  "zh_title": "《女王魔域》够带劲，《深空当铺》难自拔｜听完就想下单的《安利之王》",
+  "zh_oneliner": "本期节目安利了《女王魔域》和《深空当铺》两款游戏，聊它们各自让人上头的地方。",
+  "en_title": "Queen's Demon Realm Hits Hard, Deep Space Pawnshop Is Hard to Put Down | The Recommendation Show That Makes You Want to Buy",
+  "en_oneliner": "This episode recommends two games, Queen's Demon Realm and Deep Space Pawnshop, and talks about what makes each of them so addictive."
+ },
+ "https://dev.to/aplusgamesstudio/game-development-contract-checklist-for-clients-285f": {
+  "zh_title": "游戏开发合同核对清单：给客户的版本",
+  "zh_oneliner": "这份清单列出签约前最该锁死的五件事——交付物、里程碑验收、付款节点、付款后知识产权归属和退出机制，帮独立开发者带着正确的问题去找律师审合同。",
+  "en_title": "Game Development Contract Checklist for Clients",
+  "en_oneliner": "This checklist pins down the five things to lock in before signing: deliverables, milestone acceptance, payment schedule, IP transfer on payment, and exit terms, so indie developers arrive at their lawyer with the right questions."
+ },
+ "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher": {
+  "zh_title": "《007 First Light》获 2026 TIGA 年度游戏，Dovetail Games 揽下四奖含最佳发行商",
+  "zh_oneliner": "IO Interactive 的《007 First Light》拿下 2026 年 TIGA 大奖年度游戏，Dovetail Games 则凭借《Train Sim World 6》等作品收获四项大奖，包括最佳发行商。",
+  "en_title": "007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher",
+  "en_oneliner": "IO Interactive's 007 First Light took Game of the Year at the 2026 TIGA Awards, while Dovetail Games collected four awards, including Best Publisher, for titles such as Train Sim World 6."
+ },
+ "https://dev.to/baytech_680ee18f1873be9ec/how-baldurs-gate-3-script-extender-works-install-auto-update-and-after-a-patch-4dm2": {
+  "zh_title": "《博德之门 3》Script Extender 详解：安装、自动更新与补丁之后怎么办",
+  "zh_oneliner": "很多“装了模组却没效果”的问题其实出在 Script Extender 这个 DLL 上，文章讲清了它与游戏版本的对应关系、安装位置以及每次热修后该如何处理。",
+  "en_title": "How Baldur's Gate 3 Script Extender Works — Install, Auto-Update, and After a Patch",
+  "en_oneliner": "Many \"mod does nothing\" reports trace back to the Script Extender DLL rather than the .pak, and this guide explains how it matches game versions, where it sits, and what to do after each hotfix."
+ },
+ "https://dev.to/songlessanswers/read-the-hints-first-then-guess-a-better-way-to-play-a-music-daily-20o1": {
+  "zh_title": "先看提示再猜：玩每日音乐猜谜的更好方法",
+  "zh_oneliner": "作者分享了一个玩每日音乐猜谜的小技巧：第二次猜之前先看提示，按从模糊到具体的顺序逐步缩小范围，比盲猜更省次数。",
+  "en_title": "Read the Hints First, Then Guess: A Better Way to Play a Music Daily",
+  "en_oneliner": "A small strategy for daily music-guessing games: check the hints before your second guess and let them narrow the answer from vague to specific instead of guessing blind."
+ },
+ "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options": {
+  "zh_title": "《GTA 6》有简单模式吗？官方没有，但有两个关键设置能让游戏变轻松",
+  "zh_oneliner": "《GTA 6》没有官方简单模式，不过有两个无障碍设置可以显著降低难度，文章还提醒了作弊码会锁存档、通关前无法使用的限制。",
+  "en_title": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
+  "en_oneliner": "GTA 6 has no official easy mode, but two accessibility settings can make the game noticeably less difficult, and the piece also notes that cheat codes lock saves and stay unavailable until the story is finished."
+ },
+ "https://dev.to/poopleunlimited/what-462-word-ladders-taught-me-about-planning-ahead-3a9f": {
+  "zh_title": "462 局文字阶梯游戏教会我的提前规划",
+  "zh_oneliner": "作者玩了 462 局每日文字阶梯游戏后发现，这与其说是拼字游戏，不如说是四字母规划游戏，关键在于每一步都保留可继续移动的余地。",
+  "en_title": "What 462 Word Ladders Taught Me About Planning Ahead",
+  "en_oneliner": "After 462 daily word-ladder puzzles, the author argues the game is less about spelling than planning with four letters, where each move should keep room to keep moving."
+ },
+ "https://dev.to/poopleunlimited/bridge-words-the-habit-that-shortens-my-word-ladders-16ge": {
+  "zh_title": "桥接词：缩短文字阶梯的习惯",
+  "zh_oneliner": "文字阶梯游戏里走得短不靠词汇量大，而靠每一步都选“桥接词”——既合法又保留多个方向的词，作者用当日的 GAIN 到 POOP 路线举例说明。",
+  "en_title": "Bridge Words: The Habit That Shortens My Word Ladders",
+  "en_oneliner": "Short word-ladder routes come not from a bigger vocabulary but from picking \"bridge words\" at each step, illustrated with the day's route from GAIN to POOP."
+ },
+ "https://dev.to/songlessanswers/ear-training-at-03-seconds-what-a-daily-music-puzzle-teaches-4974": {
+  "zh_title": "0.3 秒练耳：每日音乐猜谜教我的事",
+  "zh_oneliner": "作者发现真正练出听力的是每天猜歌游戏里那段 0.3 秒的音频片段，文章拆解了从 0.13 秒逐步拉长到 15 秒的猜歌机制。",
+  "en_title": "Ear Training at 0.3 Seconds: What a Daily Music Puzzle Teaches",
+  "en_oneliner": "The author found that a daily song-guessing game's 0.3-second clip did more for their ear than interval drills, and the piece breaks down its ladder from 0.13 seconds up to 15 seconds."
+ },
+ "https://gamedev.net/blogs/entry/2298687-a-free-image-to-video-generator-with-no-signup-storyboard-a-game-mechanism-in-five-seconds": {
+  "zh_title": "免费图片转视频工具，无需注册：五秒给游戏机制画分镜",
+  "zh_oneliner": "这篇实操文章介绍如何用免费的图片转视频工具给游戏机制做分镜，帮小团队在动手做动画之前先把镜头走位聊清楚，同时提醒它验证不了玩法是否有趣。",
+  "en_title": "A Free Image to Video Generator With No Signup: Storyboard a Game Mechanism in Five Seconds",
+  "en_oneliner": "This hands-on piece shows how to use a free image-to-video tool to storyboard a game mechanic, helping a small team talk through camera moves before building any animation, while noting it can't prove whether the mechanic is fun."
+ },
+ "https://gamedev.net/blogs/entry/2298684-the-eclipse-king-rises-is-now-a-live-app-store-event": {
+  "zh_title": "《The Eclipse King Rises》已上线 App Store 官方活动",
+  "zh_oneliner": "《Crownfall: Kingdoms》的限时世界 Boss 活动“The Eclipse King Rises”获苹果批准成为 App Store 官方应用内活动，持续 31 天，所有王国均可参与。",
+  "en_title": "The Eclipse King Rises is now a live App Store event",
+  "en_oneliner": "Crownfall: Kingdoms' limited-time world boss event, The Eclipse King Rises, has been approved by Apple as an official App Store in-app event, running for 31 days with every kingdom able to take part."
+ },
+ "https://gamedev.net/forums/topic/720867-question-for-cozy-game-devs-silence-or-carols-in-the-background": {
+  "zh_title": "问问休闲游戏开发者：背景里该安静还是放圣诞颂歌？",
+  "zh_oneliner": "一位独立开发者在为自己的圣诞装饰游戏纠结配乐分寸：颂歌厅放音乐、阁楼和篝火处安静下来，到底是宁静还是空洞，他想听听做过休闲游戏的人怎么看。",
+  "en_title": "Question for cozy-game devs: silence or carols in the background?",
+  "en_oneliner": "A solo developer wonders how much music a cozy Christmas decorating game should have, with carols in one room and quiet in others, and asks fellow cozy-game makers whether the quiet spots feel peaceful or just empty."
+ },
+ "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor": {
+  "zh_title": "Rockstar 公布《GTA 6》完整演员表，终于终结了谁演 Jason Duval 的猜测",
+  "zh_oneliner": "Rockstar 终于公布了《GTA 6》的完整演员名单，结束了发售前夕关于主角 Jason Duval 由谁饰演的猜测。",
+  "en_title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
+  "en_oneliner": "Rockstar has finally announced the full GTA 6 cast list, ending speculation right up to launch over which actors play the game's leads."
  }
 }
