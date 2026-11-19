@@ -16870,5 +16870,41 @@
   "zh_oneliner": "一位中奖33万后辞职创业的制作人自学开发，做出首周流水1000万的非对称派对游戏，分享了自己的入行经历。",
   "en_title": "Won RMB 330,000, Quit His Job to Make Games, and Grossed RMB 10 Million in Week One: A Producer on Teaching Himself Development",
   "en_oneliner": "After winning RMB 330,000 in a lottery, a producer quit his job, taught himself game development, and shipped an asymmetric party game that grossed RMB 10 million in its first week."
+ },
+ "https://gamedev.net/blogs/entry/2298686-teaching-a-78-card-game-without-a-rulebook-just-in-time-tips-in-tarot-gothique-2026": {
+  "zh_title": "不用规则书教 78 张牌玩法：《Tarot Gothique 2026》的即时提示设计",
+  "zh_oneliner": "开发者分享如何用恰到好处的即时提示，让新手不用读规则书就能打完第一局法式塔罗，并复盘了分页教程踩过的坑。",
+  "en_title": "Teaching a 78-card game without a rulebook: just-in-time tips in Tarot Gothique 2026",
+  "en_oneliner": "The devlog shares how just-in-time tips can carry new players through their first hand of French tarot without a rulebook, and what went wrong with the page-by-page tutorial."
+ },
+ "https://www.gcores.com/articles/222521": {
+  "zh_title": "《斯普拉遁涂击队》现已推出试玩Demo",
+  "zh_oneliner": "试玩版开放 6 种配件与 3 个迷宫，可体验寻宝玩法，以及涂墨前进、化身鱿鱼穿梭的系列特色。",
+  "en_title": "Splatoon Raiders Demo Now Available",
+  "en_oneliner": "The demo offers six gadgets and three dungeons, letting players try the treasure-hunting gameplay and the series’ signature ink-spraying and squid-swimming mechanics."
+ },
+ "https://www.indiedb.com/games/gollops-star/news/gollops-star-10-the-full-campaign-is-free-to-play-in-your-browser": {
+  "zh_title": "《Gollops Star》1.0 版：完整战役免费浏览器游玩",
+  "zh_oneliner": "科幻战术游戏迎来 1.0 版，十一关完整战役无需注册安装即可在浏览器免费游玩，战后还能回基地做外星研究、推进船员剧情。",
+  "en_title": "Gollops Star 1.0: the full campaign is free to play in your browser",
+  "en_oneliner": "The sci-fi tactics game hits 1.0 with its full eleven-mission campaign free to play in the browser, no account or install needed, plus alien research and crew stories back at base."
+ },
+ "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace": {
+  "zh_title": "超一小时《全面战争：战锤 40K》战役实机：装备自定义、舰队机制与星际战士的稀缺性",
+  "zh_oneliner": "新放出的实机展示了装备自定义与舰队玩法，并强调星际战士并非无条件受信任、且难以补充。",
+  "en_title": "Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace",
+  "en_oneliner": "Over an hour of new campaign footage shows gear customization and fleet mechanics, and stresses that Space Marines are not always trusted — and are hard to replace."
+ },
+ "http://www.gamelook.com.cn/2026/11/606778": {
+  "zh_title": "10月成功出海的中国手游：《Gossip Harbor》海外收入再创新高",
+  "zh_oneliner": "Sensor Tower 发布 10 月中国手游出海收入与下载榜，《Gossip Harbor》海外收入再创新高，榜单变化值得出海开发者对照参考。",
+  "en_title": "Chinese mobile games that succeeded overseas in October: Gossip Harbor sets another overseas revenue record",
+  "en_oneliner": "Sensor Tower’s October ranking of Chinese mobile games by overseas revenue and downloads shows Gossip Harbor hitting another record — a useful benchmark for developers eyeing global markets."
+ },
+ "https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people": {
+  "zh_title": "连沃尔顿·戈金斯也不知道《辐射》会不会有第四季",
+  "zh_oneliner": "主演表示若有机会回归第四季，将继续以敬畏之心对待这部作品在观众心中的分量。",
+  "en_title": "Not even Walton Goggins knows if Fallout will have a Season 4",
+  "en_oneliner": "The star says that if the show gets the chance to return for a fourth season, it would continue to honor how sacred it is to people."
  }
 }
