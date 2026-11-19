@@ -17050,5 +17050,11 @@
   "zh_oneliner": "一位授权负责人从工作室视角拆解游戏 IP 授权谈判：先拿出产品方案与明确的权利包，再谈角色，别只靠一句“角色很好看”去敲门。",
   "en_title": "What Animation Studios Actually Want From a Game Licensing Partner",
   "en_oneliner": "A licensing lead explains game IP deals from the studio side: bring a product plan and a clear rights package first, and don't open with just how good the characters would look in your game."
+ },
+ "https://dev.to/harry_mo_63d63290a7a42775/deterministic-60-hz-replay-verification-for-a-no-login-browser-game-leaderboard-489b": {
+  "zh_title": "无登录浏览器游戏排行榜的确定性 60Hz 回放验证",
+  "zh_oneliner": "不用账号怎么做可信的浏览器游戏排行榜：用确定性 60Hz 整型模拟在 Three.js 与 Cloudflare Durable Objects 之间做服务端回放验证，兼顾离线重试与防刷分。",
+  "en_title": "Deterministic 60 Hz Replay Verification for a No-Login Browser Game Leaderboard",
+  "en_oneliner": "How to run a trustworthy browser-game leaderboard without accounts: verify scores with a deterministic 60 Hz integer simulation shared between Three.js and Cloudflare Durable Objects, with offline retries and anti-cheat built in."
  }
 }
