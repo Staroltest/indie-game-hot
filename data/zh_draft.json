@@ -17602,5 +17602,59 @@
   "zh_oneliner": "一系列反编译视频指控《Monopoly Go》套用了老虎机设计、《Royal Kingdom》暗中提高关卡难度，引发了关于手游变现手法的讨论。",
   "en_title": "New ‘decompilation’ videos allege Monopoly Go borrows from slot machines and Royal Kingdom secretly makes levels harder",
   "en_oneliner": "A series of decompilation videos alleges Monopoly Go borrows slot-machine mechanics and Royal Kingdom quietly raises level difficulty, sparking debate over mobile monetization tactics."
+ },
+ "https://80.lv/articles/your-body-is-disposable-in-this-twisted-ps1-style-horror": {
+  "zh_title": "身体只是耗材：这款扭曲的 PS1 风恐怖游戏把人当设备",
+  "zh_oneliner": "Fedanheim 把工厂写成一台将人体当耗材的机器，用 PS1 画风讲身体异化的恐怖，独立恐怖游戏可以参考它的氛围营造。",
+  "en_title": "Your Body Is Disposable In This Twisted PS1-Style Horror",
+  "en_oneliner": "Fedanheim sets its horror in a factory that treats human bodies as equipment, and its PS1-style dread is a useful reference for indie horror atmosphere."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/what-replaced-flash-for-browser-games-an-html5-ship-checklist-ogf": {
+  "zh_title": "取代 Flash 的是什么？浏览器游戏 HTML5 上线清单",
+  "zh_oneliner": "Flash 退场后浏览器游戏就是一张网页，这篇清单把 HTML、JavaScript 与 Canvas/WebGL 的上线要点一次理清。",
+  "en_title": "What replaced Flash for browser games? An HTML5 ship checklist",
+  "en_oneliner": "With Flash gone, a browser game is just a web page — this checklist lines up the HTML, JavaScript, and Canvas/WebGL essentials for shipping one."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/what-are-evolution-games-3-progression-loops-for-game-devs-3l1f": {
+  "zh_title": "进化类游戏是什么？给开发者的三种成长循环",
+  "zh_oneliner": "吃掉成长、合并、升级是进化类游戏最常见的三种成长循环，文章对照实例讲清每种循环的进度表达与翻车点。",
+  "en_title": "What are evolution games? 3 progression loops for game devs",
+  "en_oneliner": "Eat-and-grow, merge, and upgrade are the three progression loops behind most evolution games, and this piece shows how each one expresses progress — and where it breaks."
+ },
+ "https://dev.to/poopleunlimited/poople-unlimited-is-where-the-word-ladder-actually-teaches-you-lg1": {
+  "zh_title": "Poople Unlimited：让单词阶梯真正教会你东西",
+  "zh_oneliner": "每日一题之外再加无限练习模式，失败不再断连击而变成可复盘的信息，小体量每日游戏可以借鉴这种练习设计。",
+  "en_title": "Poople Unlimited Is Where the Word Ladder Actually Teaches You",
+  "en_oneliner": "Beyond the daily puzzle, an unlimited practice mode turns dead ends from streak-breakers into reviewable information — a design small daily games can borrow."
+ },
+ "https://dev.to/poopleunlimited/poople-turns-one-letter-into-a-daily-ritual-1h4m": {
+  "zh_title": "Poople：把一个字母变成每日仪式",
+  "zh_oneliner": "每次只改一个字母、四字成梯的极简规则，不靠计时与连击留人，每日小游戏可以参考这种克制的设计。",
+  "en_title": "Poople Turns One Letter Into a Daily Ritual",
+  "en_oneliner": "One letter per move, four letters per ladder — a minimal rule with no timer or streak pressure, and a restrained design daily games can learn from."
+ },
+ "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development": {
+  "zh_title": "Warren Spector 痛批 GTA 6 的十亿美元开发模式",
+  "zh_oneliner": "《杀出重围》之父 Warren Spector 既肯定 GTA 6 的成就，也直言希望这种十亿美元量级的开发模式就此终结，值得独立开发者对照思考成本边界。",
+  "en_title": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
+  "en_oneliner": "Deus Ex creator Warren Spector praises GTA 6's achievements while hoping its billion-dollar development model is the last of its kind — a useful prompt for indies thinking about cost ceilings."
+ },
+ "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict": {
+  "zh_title": "Rockstar 被指“打压工会”案庭审结束，法官承诺尽快裁决",
+  "zh_oneliner": "围绕 GTA 6 开发商涉嫌打压工会、解雇 34 名员工的劳资法庭案已完成结案陈词，裁决可能要等数周甚至数月。",
+  "en_title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+  "en_oneliner": "Closing statements are done in the employment tribunal over Rockstar's alleged union busting and the firing of 34 staff, though a verdict may still be weeks or months away."
+ },
+ "https://howtomarketagame.com/2026/11/19/3-new-steam-tools": {
+  "zh_title": "三个新工具：Steam 审核队列、商店页检查器与商店页制作指南",
+  "zh_oneliner": "Steam 审核排队现在要等约一个月，文章介绍了排队现状、商店页检查工具与做商店页的方法，上线前值得先看一眼。",
+  "en_title": "3 New Tools: The Steam Queue, A Steam Page Checker, and how to make A Steam Page",
+  "en_oneliner": "Steam's approval queue now takes about a month — this roundup covers the wait, a store-page checker, and how to build a Steam page before you launch."
+ },
+ "https://gamedevjs.com/tutorials/browser-game-replay-in-a-url": {
+  "zh_title": "怎样把浏览器游戏的回放塞进一个 URL 里",
+  "zh_oneliner": "用固定模拟步长把七步棋局重播压缩进一条短链接，文章拆解了这套做法，适合想给网页游戏加分享回放功能的开发者参考。",
+  "en_title": "How to fit a browser game replay into a URL",
+  "en_oneliner": "Fixed simulation ticks compress a seven-move replay into one short link — this walkthrough breaks down the technique for devs who want shareable replays in browser games."
  }
 }
