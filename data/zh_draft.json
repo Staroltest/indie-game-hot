@@ -16966,5 +16966,41 @@
   "zh_oneliner": "独立开发者分享为折叠屏iPhone Duo 做适配的经验：针对折叠形态重新设计玩法与布局，而不是简单拉伸界面，刚好赶上新形态的曝光窗口。",
   "en_title": "Two of my games are now listed on FoldHunt as built for iPhone Duo",
   "en_oneliner": "A solo developer shares lessons from adapting two games for the folding iPhone Duo: designing around the fold instead of just stretching the layout earned a featured listing during the new form factor's brief visibility window."
+ },
+ "https://indienova.com/indie-game-news/sunset-sway-stephan-wolfram-games-and-puzzles-as-multicomputational-systems": {
+  "zh_title": "Stephan Wolfram：作为多重计算系统的游戏和谜题",
+  "zh_oneliner": "Wolfram 从多重计算的视角谈游戏与谜题：简单规则如何涌现出复杂行为，以及这对游戏设计意味着什么。",
+  "en_title": "Stephan Wolfram on Games and Puzzles as Multicomputational Systems",
+  "en_oneliner": "Wolfram looks at games and puzzles through multicomputation: how simple rules give rise to complex behavior, and what that means for game design."
+ },
+ "https://www.gcores.com/radios/222538": {
+  "zh_title": "《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客音频版】",
+  "zh_oneliner": "机核主播无剧透分享提前通关《GTA6》的体验，聊聊 Rockstar 的制作水准。",
+  "en_title": "GTA 6 Finished: A Spoiler-Free Chat on How Good Rockstar Is [Video Podcast Audio]",
+  "en_oneliner": "The Gcores hosts share spoiler-free impressions after finishing GTA 6 early, talking about Rockstar’s craft."
+ },
+ "https://dev.to/feiyang313/write-your-first-python-battle-in-30-lines-no-experience-needed-kbg": {
+  "zh_title": "30 行 Python 写你的第一场战斗（零基础也行）",
+  "zh_oneliner": "用 30 行 Python 写一个回合制小战斗，比温度换算和购物清单的入门教程更有意思。",
+  "en_title": "Write Your First Python Battle in 30 Lines (No Experience Needed)",
+  "en_oneliner": "Build a tiny turn-based battle in 30 lines of Python — a more memorable first project than temperature converters and shopping lists."
+ },
+ "https://dev.to/babylone01/french-tarot-for-4-players-two-hands-scored-step-by-step-bdd": {
+  "zh_title": "四人法式塔罗：两手牌计分逐步详解",
+  "zh_oneliner": "一步步讲清四人法式塔罗的计分规则，并附上作者为塔罗游戏写的计分代码思路。",
+  "en_title": "French tarot for 4 players: two hands scored step by step",
+  "en_oneliner": "A step-by-step walkthrough of scoring French tarot for four players, including the scoring code the author wrote for a tarot game."
+ },
+ "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda": {
+  "zh_title": "《骑 BMX 的狸猫游戏》为 GTA 6 发售做足了准备，却没料到还有塞尔达",
+  "zh_oneliner": "独立游戏《Tanuki: Pon’s Summer》撞上 GTA 6 与《时之笛》重制版同月发售，开发者谈夹缝中求生的发售策略。",
+  "en_title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6’s Launch, But Wasn’t Expecting Zelda",
+  "en_oneliner": "Indie game Tanuki: Pon’s Summer launched in the same month as GTA 6 and the Ocarina of Time remake — its developers talk about surviving a crowded release window."
+ },
+ "https://www.youxituoluo.com/535077.html": {
+  "zh_title": "腾讯Q3游戏：本土476亿、海外189亿，三角洲与无畏契约日活创纪录",
+  "zh_oneliner": "腾讯三季度游戏收入本土 476 亿、海外 189 亿，《三角洲行动》与《无畏契约》日活创下纪录。",
+  "en_title": "Tencent Q3 Games: ¥47.6B Domestic, ¥18.9B Overseas; Delta Force and Valorant Hit Record DAU",
+  "en_oneliner": "Tencent’s Q3 games revenue reached ¥47.6B domestically and ¥18.9B overseas, with Delta Force and Valorant setting daily-active-user records."
  }
 }
