@@ -17908,5 +17908,59 @@
   "zh_oneliner": "43 名美军士兵为了腾出四天假期玩 GTA 6 而选择续签，成了发售周里最出圈的一则玩家趣闻。",
   "en_title": "'I'm all about the heist': 43 soldiers re-enlisted in the US army to get a 4-day weekend to play GTA 6",
   "en_oneliner": "Forty-three US soldiers re-enlisted to secure a four-day weekend for GTA 6, one of launch week's most-shared player stories."
+ },
+ "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review": {
+  "zh_title": "Corsair Sabre V3 Pro PureVector Ergo 评测",
+  "zh_oneliner": "这款电竞鼠标用机器学习动态调整灵敏度来辅助瞄准，评测聊了它在手感与精准度之间的取舍。",
+  "en_title": "Corsair Sabre V3 Pro PureVector Ergo review",
+  "en_oneliner": "This gaming mouse uses machine-learning sensitivity adjustments to help with aiming, and the review weighs its trade-offs between feel and precision."
+ },
+ "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe": {
+  "zh_title": "别管那款犯罪大作了，来《Keepsake County》偷几间丑农舍吧：一款带着 2000 年代卡通频道味的中西部潜行游戏",
+  "zh_oneliner": "这款中西部潜行新作让你潜入偏僻农舍行窃，画风透着 2000 年代卡通频道的怀旧味道，赶在 GTA 6 发售日上线倒也应景。",
+  "en_title": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
+  "en_oneliner": "This Midwestern stealth game has you burgling hideous farmhouses with a 2000s Cartoon Network vibe, launching on the same day as a certain crime blockbuster."
+ },
+ "https://80.lv/articles/clever-weight-painting-tool-for-better-character-deformations": {
+  "zh_title": "让角色变形更自然的聪明权重绘制工具",
+  "zh_oneliner": "这款权重绘制工具能让角色蒙皮变形更顺滑，做绑定与角色美术的开发者值得一看。",
+  "en_title": "Clever Weight-Painting Tool For Better Character Deformations",
+  "en_oneliner": "This weight-painting tool promises smoother, more natural character deformations, worth a look for rigging artists and technical artists."
+ },
+ "https://www.indiedb.com/games/the-silent-temple/news/the-silent-temple": {
+  "zh_title": "《The Silent Temple》：RPG Maker MZ 制作的悬疑探索游戏",
+  "zh_oneliner": "用 RPG Maker MZ 做的悬疑探索游戏，在废弃神殿里调查线索、揭开圣所之下的真相，第一章已有 20 到 30 分钟可玩内容。",
+  "en_title": "The Silent Temple",
+  "en_oneliner": "A mystery exploration game built in RPG Maker MZ, where you investigate strange clues in an abandoned temple, with a playable first chapter of 20-30 minutes."
+ },
+ "https://dev.to/tahiryounas604/gta-vi-rockstar-made-the-game-clipforge-makes-the-clips-5b3n": {
+  "zh_title": "GTA VI 由 Rockstar 做，ClipForge 帮你剪片：用聊天反应自动找直播高光时刻的开源 CLI",
+  "zh_oneliner": "这款免费开源 CLI 会盯着直播聊天室的爆发反应，自动从两小时录像里挑出值得剪的高光片段，适合想蹭 GTA VI 热度的创作者参考思路。",
+  "en_title": "GTA VI — Rockstar made the game. ClipForge makes the clips.",
+  "en_oneliner": "This free, open-source CLI watches live-chat reactions to automatically pull highlight moments out of long streams, a handy idea for creators riding the GTA VI wave."
+ },
+ "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility": {
+  "zh_title": "GTA 6 会登 Switch 2 吗？Digital Foundry 谈可能性",
+  "zh_oneliner": "Digital Foundry 评估了 GTA 6 登陆 Switch 2 的可能性，算是发售周里关于新平台适配前景的一则讨论。",
+  "en_title": "GTA 6 On Switch 2? Digital Foundry Weighs In On The Possibility",
+  "en_oneliner": "Digital Foundry weighs the chances of GTA 6 coming to Switch 2, a launch-week discussion about the prospects of a port to new hardware."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6": {
+  "zh_title": "就连我们这群铁杆 PC 玩家也不太介意 GTA 6 的 30 帧",
+  "zh_oneliner": "PC Gamer 的编辑们认为 GTA 6 的 30 帧表现意外地顺滑，不过他们也提醒，如果 PC 版同样锁帧就另当别论了。",
+  "en_title": "Even our bunch of diehard PC gamers aren't that bothered by 30 fps in GTA 6",
+  "en_oneliner": "PC Gamer's diehard PC players find GTA 6's 30 fps surprisingly smooth, though they warn the verdict changes if the PC version is capped the same way."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6": {
+  "zh_title": "没错，'Weird Al' Yankovic 在 GTA 6 里主持了一个电台",
+  "zh_oneliner": "GTA 6 的电台阵容里有 'Weird Al' Yankovic、Lana Del Rey、Bad Bunny 等人，看看 3A 大作如何用明星阵容做音频内容。",
+  "en_title": "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6",
+  "en_oneliner": "GTA 6's radio lineup includes 'Weird Al' Yankovic, Lana Del Rey, Bad Bunny and more, a look at how a blockbuster staffs its audio content with stars."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/arthur-morgan-hat-location-rdr2": {
+  "zh_title": "我在 GTA 6 里找到了一顶眼熟的帽子，就在最意想不到的地方",
+  "zh_oneliner": "有人在 GTA 6 里发现了酷似 Arthur Morgan 那顶帽子的彩蛋，算是 Rockstar 给老玩家留的一处小惊喜。",
+  "en_title": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
+  "en_oneliner": "A familiar-looking hat turned up in GTA 6 in the last place anyone expected, a small Easter egg nodding to Rockstar's previous western."
  }
 }
