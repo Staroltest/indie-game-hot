@@ -2477,10 +2477,21 @@ def analytics_beacon(site):
             f"<!-- End Cloudflare Web Analytics -->")
 
 
+
+def clarity_snippet(site):
+    """Microsoft Clarity 统计；site.clarity_id 为空时不输出。"""
+    cid = site.get("clarity_id", "")
+    if not cid:
+        return ""
+    return ("<script type=\"text/javascript\">" + "(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};"
+            "t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;"
+            "y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})"
+            "(window, document, \"clarity\", \"script\", \"" + cid + "\");</script>")
+
 def page_close(site, active, prefix="", base="", lang="zh"):
     to_top = (f'<button type="button" class="to-top" id="toTop" aria-label="{_L(lang, "回到顶部", "Back to top")}">'
               f'{icon("arrow-up", 18)}</button>')
-    return (f"{footer_html(base, lang)}</div></div></div>{to_top}{tabbar_html(active, prefix, base, lang)}<script src='{base}assets/site.js'></script>{analytics_beacon(site)}</body></html>\n")
+    return (f"{footer_html(base, lang)}</div></div></div>{to_top}{tabbar_html(active, prefix, base, lang)}<script src='{base}assets/site.js'></script>{analytics_beacon(site)}{clarity_snippet(site)}</body></html>\n")
 
 
 def day_header(d, items, today, aside=False, lang="zh"):
@@ -3412,7 +3423,7 @@ def render_404(site):
             f'<div class="empty-actions">'
             f'<a class="empty-btn primary" href="{site_url}/index.html">回首页</a>'
             f'<a class="empty-btn" href="{site_url}/hot.html">去看热点榜</a>'
-            f'</div></div></div></div></div></div>{boot_404}{analytics_beacon(site)}</body></html>\n')
+            f'</div></div></div></div></div></div>{boot_404}{analytics_beacon(site)}{clarity_snippet(site)}</body></html>\n')
 
 
 def render_hot(site, hot, generated_at, counts, cfg, lang="zh"):
