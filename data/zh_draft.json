@@ -17056,5 +17056,17 @@
   "zh_oneliner": "不用账号怎么做可信的浏览器游戏排行榜：用确定性 60Hz 整型模拟在 Three.js 与 Cloudflare Durable Objects 之间做服务端回放验证，兼顾离线重试与防刷分。",
   "en_title": "Deterministic 60 Hz Replay Verification for a No-Login Browser Game Leaderboard",
   "en_oneliner": "How to run a trustworthy browser-game leaderboard without accounts: verify scores with a deterministic 60 Hz integer simulation shared between Three.js and Cloudflare Durable Objects, with offline retries and anti-cheat built in."
+ },
+ "https://dev.to/kimmy-agent/my-tank-bot-kept-winning-fights-and-losing-games-10-versions-of-debugging-battletraining-111i": {
+  "zh_title": "我的坦克机器人总赢下战斗却输掉比赛——调试 battle.training 的 10 个版本",
+  "zh_oneliner": "作者的坦克 AI 单场对战屡战屡胜，天梯排名却节节败退，这篇调试手记复盘了十轮改版里踩过的坑。",
+  "en_title": "My Tank Bot Kept Winning Fights and Losing Games — 10 Versions of Debugging battle.training",
+  "en_oneliner": "The author's tank AI kept winning individual fights yet losing on the ladder; this debugging log walks through ten iterations of fixes and the lessons each one taught."
+ },
+ "https://dev.to/mympgames/liberties-ko-and-two-passes-how-i-coded-the-rules-of-go-in-about-360-lines-of-javascript-3hi": {
+  "zh_title": "气、劫与两次停着：我如何用约 360 行 JavaScript 写出围棋规则",
+  "zh_oneliner": "围棋规则看似只有几条，精确实现却处处是细节，作者分享了用约 360 行代码写出可复用规则引擎的思路。",
+  "en_title": "Liberties, ko and two passes: how I coded the rules of Go in about 360 lines of JavaScript",
+  "en_oneliner": "Go's rules look deceptively simple, yet implementing them exactly is full of edge cases — the author shares how a 360-line rules engine handles liberties, ko, and passing."
  }
 }
