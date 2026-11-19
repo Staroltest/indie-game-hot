@@ -1,5 +1,5 @@
 # IndieHOT — 允许搜索引擎与 AI 爬虫抓取公开内容
-# 规范域名为 https://staroltest.github.io/indie-game-hot/
+# 规范域名为 https://indie-game-hot.pages.dev
 # Cloudflare Pages 镜像 indie-game-hot.pages.dev 内容相同，请以规范域名为准
 # 给 AI 看的站点说明见 llms.txt（站根 /llms.txt）
 
@@ -45,4 +45,4 @@ Disallow: /
 User-agent: PetalBot
 Disallow: /
 
-Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml
+Sitemap: https://indie-game-hot.pages.dev/sitemap.xml

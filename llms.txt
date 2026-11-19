@@ -4,7 +4,7 @@
 > Every day it collects public indie-game news from RSS sources, scores them
 > by rules, and publishes the top items in Chinese with a one-line summary
 > and a link to the original article. It does not republish full text.
-> Site: https://staroltest.github.io/indie-game-hot/
+> Site: https://indie-game-hot.pages.dev/
 > Mirror: https://indie-game-hot.pages.dev/
 > Language: Chinese (zh-CN). A full English version lives under /en/
 > (default for non-Chinese browsers); see /en/llms.txt.
@@ -12,16 +12,16 @@
 
 ## About
 
-- About: https://staroltest.github.io/indie-game-hot/about.html
-- Topics: https://staroltest.github.io/indie-game-hot/topics.html
-- Daily digest: https://staroltest.github.io/indie-game-hot/daily.html
-- Hot list: https://staroltest.github.io/indie-game-hot/hot.html
-- All items: https://staroltest.github.io/indie-game-hot/all.html
-- English version: https://staroltest.github.io/indie-game-hot/en/
-- English llms.txt: https://staroltest.github.io/indie-game-hot/en/llms.txt
-- SEO/GEO self-check: https://staroltest.github.io/indie-game-hot/geo-audit.html
-- RSS feed: https://staroltest.github.io/indie-game-hot/feed.xml
-- Sitemap: https://staroltest.github.io/indie-game-hot/sitemap.xml
+- About: https://indie-game-hot.pages.dev/about.html
+- Topics: https://indie-game-hot.pages.dev/topics.html
+- Daily digest: https://indie-game-hot.pages.dev/daily.html
+- Hot list: https://indie-game-hot.pages.dev/hot.html
+- All items: https://indie-game-hot.pages.dev/all.html
+- English version: https://indie-game-hot.pages.dev/en/
+- English llms.txt: https://indie-game-hot.pages.dev/en/llms.txt
+- SEO/GEO self-check: https://indie-game-hot.pages.dev/geo-audit.html
+- RSS feed: https://indie-game-hot.pages.dev/feed.xml
+- Sitemap: https://indie-game-hot.pages.dev/sitemap.xml
 
 ## For AI clients (MCP)
 
@@ -30,9 +30,9 @@
 - Tools: get_hot, get_daily, search_items
 - All tools accept lang=zh (default, Chinese) or lang=en (English).
 - Machine-readable data:
-  https://staroltest.github.io/indie-game-hot/data/hot.json
-  https://staroltest.github.io/indie-game-hot/data/daily.json
-  https://staroltest.github.io/indie-game-hot/data/days/index.json
+  https://indie-game-hot.pages.dev/data/hot.json
+  https://indie-game-hot.pages.dev/data/daily.json
+  https://indie-game-hot.pages.dev/data/days/index.json
 
 ## Categories
 

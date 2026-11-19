@@ -16816,5 +16816,23 @@
   "zh_oneliner": "KPL 十周年联手瑞幸登上热搜，电竞赛事 IP 与消费品牌联动的打法值得做发行与品牌合作的开发者参考。",
   "en_title": "Why the KPL's Tenth Anniversary Crossover Shows the Value of a Decade of Esports",
   "en_oneliner": "The KPL's tenth-anniversary crossover with Luckin Coffee trended across Chinese social media, a case study in how an esports IP can partner with a consumer brand."
+ },
+ "https://gamedev.net/blogs/entry/2298685-writing-bug-reports-an-external-qa-team-can-act-on-a-seven-point-template": {
+  "zh_title": "写给外部 QA 团队能直接用的 Bug 报告：七点模板",
+  "zh_oneliner": "外部测试团队能否快速复现并修复问题，全看 Bug 报告写得清不清楚，这篇给出一套开测前就该约定的七点写作模板。",
+  "en_title": "Writing Bug Reports an External QA Team Can Act On: A Seven-Point Template",
+  "en_oneliner": "How fast an external QA team can reproduce and fix a bug comes down to how clearly the report is written — this post offers a seven-point template to agree on before the first test pass."
+ },
+ "https://dev.to/trendzbetagames/inside-gta-6-engine-architecture-pssr-upscaling-and-ps5-pro-performance-5e4a": {
+  "zh_title": "深入 GTA 6：引擎架构、PSSR 超分与 PS5 Pro 性能解析",
+  "zh_oneliner": "从 PS5 Pro 上实录的 4K 通关流程出发，拆解 GTA 6 的 PSSR 机器学习超分、实时光追全局光照与异步世界模拟等引擎技术要点。",
+  "en_title": "Inside GTA 6: Engine Architecture, PSSR Upscaling, and PS5 Pro Performance",
+  "en_oneliner": "Starting from a natively captured 4K playthrough on PS5 Pro, this walkthrough breaks down GTA 6's engine tech, from PSSR machine-learning upscaling and real-time ray-traced global illumination to asynchronous world simulation."
+ },
+ "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-sixth-mega-man-dual-override-robot-master": {
+  "zh_title": "卡普空正式公布《洛克人 Dual Override》第六位 Robot Master",
+  "zh_oneliner": "《洛克人 Dual Override》将于 2027 年登陆 Switch 与 Switch 2，卡普空陆续揭晓登场 Boss，本周轮到以海洋为主题的第六位 Robot Master。",
+  "en_title": "Capcom Officially Reveals Sixth Mega Man: Dual Override Robot Master",
+  "en_oneliner": "Mega Man: Dual Override arrives on Switch and Switch 2 in 2027, and Capcom is revealing its Robot Masters one by one — this week it is the ocean-themed sixth boss."
  }
 }
