@@ -18154,5 +18154,53 @@
   "zh_oneliner": "毁灭战士关卡设计师 Sandy Petersen 难得夸了别人一回，称 Gabe Newell 靠 Steam“简直是在看守地狱之门”。",
   "en_title": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
   "en_oneliner": "Doom level designer Sandy Petersen pays a rare compliment to Gabe Newell, saying that with Steam he is \"literally guarding the gates of Hell\"."
+ },
+ "https://www.indiedb.com/games/health-and-epidemic/news/human-or-monster-try-the-free-health-and-epidemic-demo": {
+  "zh_title": "人还是怪物？免费试玩《Health And Epidemic》健康与疫情 demo",
+  "zh_oneliner": "这款免费预 Alpha demo 让你在森林村庄与工业区两张地图上扮演人类或怪物对阵 AI，团队正在招募首批 10 名测试者。",
+  "en_title": "Human or Monster? Try the free Health And Epidemic demo",
+  "en_oneliner": "This free pre-alpha demo lets you play as human or monster against AI across Forest Village and Industrial maps, and the team is looking for its first 10 playtesters."
+ },
+ "https://www.indiedb.com/games/shift-n-ship/news/shift-n-ship-a-free-space-shooter-you-play-in-your-browser": {
+  "zh_title": "《Shift 'n' Ship》：浏览器里免费玩的太空射击游戏",
+  "zh_oneliner": "驾驶飞船穿梭于漂移旋转的母舰之间，在小行星带采矿并与舰队并肩作战，手机、平板和电脑都能免费游玩，无需下载。",
+  "en_title": "Shift 'n' Ship, a free space shooter you play in your browser",
+  "en_oneliner": "Fly a ship through drifting, turning motherships, mine the belt and fight beside your fleet — free in the browser on phone, tablet and PC, no download needed."
+ },
+ "https://dev.to/pascal_hoffmann_ee489908a/a-quiet-dive-into-the-shipwreck-graveyard-a-look-at-abyss-lantern-13o2": {
+  "zh_title": "沉入沉船墓园的一次安静潜水：《Abyss Lantern》速览",
+  "zh_oneliner": "免费无尽潜水网页游戏《Abyss Lantern》展示了沉船墓园生态区，一条小鮟鱇鱼提着灯在残骸间游弋。",
+  "en_title": "A quiet dive into the shipwreck graveyard: a look at Abyss Lantern",
+  "en_oneliner": "The free endless diving browser game Abyss Lantern shows off its shipwreck graveyard biome, where a tiny anglerfish carries its light through the wreckage."
+ },
+ "https://dev.to/katarsigames/roguegods-a-vr-deckbuilder-where-the-card-you-grab-becomes-the-weapon-2och": {
+  "zh_title": "《RogueGods》：VR 卡牌构筑游戏，抓起的卡牌就是武器",
+  "zh_oneliner": "来自西班牙塞维利亚小团队的希腊神话 Roguelike 卡牌构筑 VR 游戏，登陆 Meta Quest 3 与 3S，抓牌即挥剑。",
+  "en_title": "RogueGods: a VR deckbuilder where the card you grab becomes the weapon",
+  "en_oneliner": "A Greek-mythology roguelike deckbuilder for Meta Quest 3 and 3S from a small Seville studio, where the card you grab in VR becomes the weapon in your hand."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/fact-check-does-gta-6-stop-players-from-shooting-inside-gay-nightclubs-and-crashing-planes-into-buildings": {
+  "zh_title": "核查：《GTA 6》真的禁止玩家在夜店开枪、开飞机撞楼吗？",
+  "zh_oneliner": "针对网上流传的《GTA 6》限制传言，文章逐条核对了哪些说法属实、哪些是误导。",
+  "en_title": "Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing planes into buildings?",
+  "en_oneliner": "The article checks the viral claims about GTA 6 restrictions one by one, separating what's true from what's misleading."
+ },
+ "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels": {
+  "zh_title": "Valve 或再度上调 Steam Machine 售价：内存与存储成本持续空前上涨",
+  "zh_oneliner": "Valve 表示 2TB 机型尤其受限，已关闭候补名单，能造多少台、以什么价格卖都还不确定，硬件成本压力值得独立开发者留意。",
+  "en_title": "Valve may raise Steam Machine prices yet again: 'Memory and storage costs continue to increase at unprecedented levels'",
+  "en_oneliner": "Valve says the 2TB model will be especially constrained, has closed the waitlist, and doesn't yet know how many units it can make or at what price — a hardware-cost signal worth watching."
+ },
+ "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge": {
+  "zh_title": "育碧确认《刺客信条：玉》仍在开发，同时合并旗下两家创意工作室",
+  "zh_oneliner": "育碧确认移动端《刺客信条：玉》仍在开发中，但重心仍在主机与 PC，内部创意架构正在整合。",
+  "en_title": "Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses",
+  "en_oneliner": "Ubisoft confirms its mobile Assassin's Creed Jade is still in development with focus remaining on console and PC, as two of its Creative Houses merge."
+ },
+ "https://www.eurogamer.net/cyberleek-gta-6-dev-build": {
+  "zh_title": "臭名昭著的《GTA 6》泄密者 CyberLeek 回来了，声称泄露了完整开发版",
+  "zh_oneliner": "曾泄露《GTA 6》实机画面的黑客组织 CyberLeek 再次现身，声称放出了游戏最终版的开发构建。",
+  "en_title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
+  "en_oneliner": "CyberLeek, the group behind the earlier GTA 6 gameplay leak, has reappeared claiming to have released a full development build of the final game."
  }
 }
