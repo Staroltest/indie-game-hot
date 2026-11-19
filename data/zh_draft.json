@@ -18064,5 +18064,29 @@
   "zh_oneliner": "暴雪称《魔兽世界：Forever》的周活跃玩家数已超过过去 15 年来的任何时候，怀旧服的长线生命力仍在刷新纪录。",
   "en_title": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
   "en_oneliner": "Blizzard says World of Warcraft: Forever now draws more weekly players than World of Warcraft has seen in 15 years, a new high for the long-running game's staying power."
+ },
+ "https://www.indiedb.com/games/trivia-party/news/trivia-party-is-now-in-the-frix-studios-bundle-with-zapzap-tv": {
+  "zh_title": "《Trivia Party》现已加入 Frix Studios 捆绑包，与《ZapZap TV》同捆",
+  "zh_oneliner": "作者的第二款游戏《ZapZap TV：150 个微游戏》今日登陆 Steam，Frix Studios 捆绑包把它和《Trivia Party》打包在了一起。",
+  "en_title": "Trivia Party is now in the Frix Studios bundle with ZapZap TV",
+  "en_oneliner": "The author's second game, ZapZap TV: 150 Microgames, launches on Steam today, and the Frix Studios bundle pairs it with Trivia Party."
+ },
+ "https://dev.to/umarwebdev/diagrams-never-crash-so-i-built-a-game-where-your-system-design-does-1mk1": {
+  "zh_title": "架构图从不崩溃，于是我做了款让你的系统设计崩溃的游戏",
+  "zh_oneliner": "作者读了大量负载均衡、缓存与分片的资料却总记不住，于是做了《Bugpit》这款游戏，让玩家在系统真的崩掉时理解这些设计为何重要。",
+  "en_title": "Diagrams never crash, so I built a game where your system design does",
+  "en_oneliner": "The author kept reading about load balancers, caches and sharding but forgetting it all, so he built Bugpit, a game where your system design actually crashes and you learn why it matters."
+ },
+ "https://www.pcgamer.com/games/rpg/if-you-bounced-off-indie-hit-queens-domain-try-using-the-cheat-code-book-to-give-yourself-a-gun": {
+  "zh_title": "被独立热门游戏《Queen's Domain》劝退了？试试用秘籍书给自己变一把枪",
+  "zh_oneliner": "这篇 PC Gamer 文章介绍了一个取巧玩法：用游戏里的秘籍书给自己发把枪，帮被难度劝退的玩家重新上手《Queen's Domain》。",
+  "en_title": "If you bounced off indie hit Queen's Domain, try using the cheat code book to give yourself a gun",
+  "en_oneliner": "This PC Gamer piece shares a workaround for players bounced off Queen's Domain: use the in-game cheat code book to give yourself a gun and get back into it."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/peter-moore-who-famously-announced-gta-4-with-a-tattoo-posts-fake-gta-6-tattoo-pic-and-says-he-hopes-it-will-give-the-industry-a-shot-in-the-arm": {
+  "zh_title": "曾以纹身公布《GTA 4》的 Peter Moore 晒出假《GTA 6》纹身照，盼为行业“打一针强心剂”",
+  "zh_oneliner": "前高管 Peter Moore 晒出一张假的《GTA 6》纹身照打趣，称希望这款大作能给整个游戏行业注入活力。",
+  "en_title": "Peter Moore, who famously announced GTA 4 with a tattoo, posts fake GTA 6 tattoo pic and says he hopes it will give the industry 'a shot in the arm'",
+  "en_oneliner": "Former executive Peter Moore posted a fake GTA 6 tattoo picture as a joke, saying he hopes the game will give the whole industry a shot in the arm."
  }
 }
