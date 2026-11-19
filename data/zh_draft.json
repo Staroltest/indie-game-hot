@@ -17068,5 +17068,53 @@
   "zh_oneliner": "围棋规则看似只有几条，精确实现却处处是细节，作者分享了用约 360 行代码写出可复用规则引擎的思路。",
   "en_title": "Liberties, ko and two passes: how I coded the rules of Go in about 360 lines of JavaScript",
   "en_oneliner": "Go's rules look deceptively simple, yet implementing them exactly is full of edge cases — the author shares how a 360-line rules engine handles liberties, ko, and passing."
+ },
+ "https://www.gcores.com/radios/222537": {
+  "zh_title": "玩网游从没开心过……录音笔VOL.829",
+  "zh_oneliner": "机核办公室闲聊节目本期聊聊玩网游的那些瞬间，十几分钟的碎碎念式记录。",
+  "en_title": "Never Had Fun Playing Online Games... Voice Recorder VOL.829",
+  "en_oneliner": "The Gcores office chat show riffs on the frustrations of playing online games in a short, off-the-cuff recording."
+ },
+ "https://www.gcores.com/articles/222545": {
+  "zh_title": "总奖金420万美元：SWC 2026 Finals将于11月27日瑞典·斯德哥尔摩开幕",
+  "zh_oneliner": "SNK 公布格斗电竞世界总决赛赛程，总奖金 420 万美元，11 月 27 日至 29 日在斯德哥尔摩开打。",
+  "en_title": "US$4.2M Prize Pool: SWC 2026 Finals Kick Off November 27 in Stockholm, Sweden",
+  "en_oneliner": "SNK reveals the schedule for its fighting-game world championship finals, with a $4.2M prize pool on the line in Stockholm."
+ },
+ "https://www.gcores.com/articles/222544": {
+  "zh_title": "《饿狼传说：群狼之城》季票3 DLC角色“拉奥”今日上线",
+  "zh_oneliner": "格斗游戏季票 3 第 6 位 DLC 角色今日登场，官方同步放出大张正己操刀的宣传动画。",
+  "en_title": "Fatal Fury: City of the Wolves Season Pass 3 DLC Character 'Raoh' Launches Today",
+  "en_oneliner": "The fighting game's latest DLC character arrives today, alongside a promo animation by renowned animator Masami Obari."
+ },
+ "https://dev.to/songlessanswers/the-songless-archive-is-a-better-listening-log-than-a-playlist-5gfl": {
+  "zh_title": "听歌存档比歌单更诚实：《Songless》的音乐日志玩法",
+  "zh_oneliner": "一款每日音乐猜谜游戏的存档机制，记录玩家真实听过什么，比精心整理的歌单更能反映口味。",
+  "en_title": "The Songless Archive Is a Better Listening Log Than a Playlist",
+  "en_oneliner": "A daily music-guessing game's archive logs what players actually listened to, a truer record of taste than any curated playlist."
+ },
+ "https://dev.to/juegostudiosofficial/shipping-your-mobile-game-in-hindi-tamil-or-bengali-a-text-rendering-checklist-before-4019": {
+  "zh_title": "想把手游发到印地语、泰米尔语或孟加拉语市场？本地化前先过一遍文字渲染清单",
+  "zh_oneliner": "印度地区语言发行的文字渲染坑不少，这份清单帮手游团队在本地化开工前先把字体与排版问题排掉。",
+  "en_title": "Shipping Your Mobile Game in Hindi, Tamil or Bengali? A Text-Rendering Checklist Before Localisation Starts",
+  "en_oneliner": "A checklist to help mobile teams catch font and text-rendering issues before starting localisation for Hindi, Tamil or Bengali releases."
+ },
+ "https://dev.to/songlessanswers/songless-hints-without-spoilers-how-the-daily-music-puzzle-actually-works-1jc8": {
+  "zh_title": "不剧透的提示怎么做？《Songless》每日音乐谜题机制拆解",
+  "zh_oneliner": "每日音乐猜谜游戏的提示系统如何做到既帮玩家推进又不泄露答案，作者拆解了背后的设计。",
+  "en_title": "Songless Hints Without Spoilers: How the Daily Music Puzzle Actually Works",
+  "en_oneliner": "How a daily music puzzle's hint system helps players progress without spoiling the answer, broken down by its designer."
+ },
+ "https://www.eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing": {
+  "zh_title": "Xbox 似乎真的不能提 GTA 6 这三个字",
+  "zh_oneliner": "GTA 6 发售在即，各大品牌都在蹭热度，Xbox 却只能拐弯抹角地暗示，文章聊了聊这背后的营销限制。",
+  "en_title": "It really seems like Xbox isn't allowed to say GTA 6 at all",
+  "en_oneliner": "As GTA 6's launch approaches, brands are jumping on the hype — but Xbox can only hint at it sideways, and this piece looks at the marketing limits behind that."
+ },
+ "https://www.youxituoluo.com/535078.html": {
+  "zh_title": "网易三季度财报：《燕云十六声》全球玩家破亿，《无限大》定档2027年1月15日",
+  "zh_oneliner": "网易三季度游戏收入 229 亿元，《燕云十六声》全球玩家破亿，新作《无限大》定档 2027 年 1 月 15 日。",
+  "en_title": "NetEase Q3 Earnings: Where Winds Meet Tops 100M Players Worldwide, Ananta Dated January 15, 2027",
+  "en_oneliner": "NetEase reports Q3 games revenue of RMB 22.9 billion, with Where Winds Meet passing 100 million players and Ananta set for January 15, 2027."
  }
 }
