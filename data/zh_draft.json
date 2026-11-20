@@ -19294,5 +19294,59 @@
   "zh_oneliner": "Fuse Games 坦言完全没料到竞速游戏里的背景角色 Biddy Blas 会意外走红，谈及这个小角色如何成为玩家心头好。",
   "en_title": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
   "en_oneliner": "Fuse Games says it never imagined the pod racing game's background character Biddy Blas would become this popular, and talks about how the minor character won players over."
+ },
+ "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting": {
+  "zh_title": "英伟达新版显卡驱动被曝无故大量写入 SSD，建议回滚旧版",
+  "zh_oneliner": "英伟达最新 GeForce 驱动 621.24 会无故向电脑 SSD 写入海量数据，徒增硬盘损耗，遇到这版驱动建议先回滚。",
+  "en_title": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
+  "en_oneliner": "Nvidia's latest GeForce driver 621.24 writes large amounts of data to PC SSDs for no good reason, adding needless wear — best to roll back for now."
+ },
+ "https://indiegamereviewer.com/echograph-preview-echoes-of-the-past-demo-impressions": {
+  "zh_title": "《Echograph》试玩印象：向《零》致敬的复古恐怖新作，Demo 表现亮眼",
+  "zh_oneliner": "《Echograph》的试玩版是一部向《零》致敬的复古恐怖游戏，还加入了自己的新点子，整体表现相当值得期待。",
+  "en_title": "Echograph Preview – Echoes of the Past (Demo Impressions)",
+  "en_oneliner": "Echograph's demo is a promising retro homage to Fatal Frame with a few twists of its own, and it already plays impressively well."
+ },
+ "https://dev.to/xsip/crimson-desert-reverse-engineering-358k": {
+  "zh_title": "《绯红沙漠》逆向工程笔记：摸清游戏内部管理器结构并写了自动导出工具",
+  "zh_oneliner": "作者逆向拆解《绯红沙漠》的内部结构，发现各类管理器遵循同一模式，顺手写了个自动导出工具在运行时收集偏移量。",
+  "en_title": "Crimson Desert Reverse Engineering",
+  "en_oneliner": "The author reverse-engineers Crimson Desert's internals, finds that its many 'Manager' structures share one pattern, and builds a dumper that collects their offsets at runtime."
+ },
+ "https://dev.to/zentaolabs/find-leftover-files-in-an-osu-skin-folder-with-python-360": {
+  "zh_title": "用 Python 找出 osu! 皮肤文件夹里的残留文件",
+  "zh_oneliner": "osu! 皮肤文件夹用久了会攒下无用文件，拖大皮肤包还干扰后续修改，这段纯标准库 Python 脚本能自动揪出它们。",
+  "en_title": "Find leftover files in an osu! skin folder with Python",
+  "en_oneliner": "An osu! skin folder accumulates unused files over time that bloat the package and confuse later edits — this stdlib-only Python script finds them all."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/pudding-escape-a-one-button-runner-about-outrunning-a-spoon-4f55": {
+  "zh_title": "《Pudding Escape》：一颗小熊软糖逃离勺子的单键跑酷小游戏",
+  "zh_oneliner": "一只掉进布丁碗的小熊软糖要躲开勺子追捕，沿着焦糖山丘滑行弹跳，只需一个按键就能玩的浏览器小游戏。",
+  "en_title": "Pudding Escape: A One-Button Runner About Outrunning a Spoon",
+  "en_oneliner": "A gummy bear dropped in a bowl of pudding must outrun the spoon, surfing caramel hills in a browser game controlled with a single button."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location": {
+  "zh_title": "《GTA 6》里怎么拿到面具",
+  "zh_oneliner": "这件抢劫时派得上用场的特殊颈饰有固定获取位置，指南告诉你去哪找。",
+  "en_title": "How to get a mask in GTA 6",
+  "en_oneliner": "This special piece of neckwear comes in handy during robberies — here's where to find it."
+ },
+ "https://newsletter.gamediscover.co/p/how-queens-domain-brutalized-its": {
+  "zh_title": "《Queen's Domain》如何靠硬核打法卖出 25 万份",
+  "zh_oneliner": "一款高难度游戏是怎样冲到 25 万销量的，GameDiscoverCo 复盘了它的打法，并附上本周 Steam 发现动态。",
+  "en_title": "How Queen's Domain brutalized its way to 250k sales...",
+  "en_oneliner": "How a brutally tough game fought its way to 250,000 sales, plus the latest discovery news and this week on Steam."
+ },
+ "https://www.aiandgames.com/p/four-themes-from-the-ai-and-games": {
+  "zh_title": "2026 年 AI 与游戏大会的四大主题",
+  "zh_oneliner": "作者用一周时间沉淀后，总结了今年 AI 与游戏大会上最值得关注的四个主题。",
+  "en_title": "Four Themes From the AI and Games Conference 2026 | 20/11/26",
+  "en_oneliner": "After a week to reflect, the author distills the 2026 AI and Games Conference into its four biggest themes."
+ },
+ "https://www.aiandgames.com/p/10-reflecting-on-the-2026-ai-and": {
+  "zh_title": "回顾 2026 年 AI 与游戏大会：团队四人坐下来聊办会心得",
+  "zh_oneliner": "AI and Games 团队四人坐下来复盘今年大会的筹备过程，聊聊办这样一场活动是什么体验。",
+  "en_title": "#10 - Reflecting on the 2026 AI and Games Conference",
+  "en_oneliner": "Four of the AI and Games team sit down to reflect on putting this year's conference together."
  }
 }
