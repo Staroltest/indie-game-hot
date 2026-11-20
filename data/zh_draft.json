@@ -18598,5 +18598,17 @@
   "en_title": "How Long Does It Take to Develop a Mobile Game From Idea to Launch?",
   "zh_oneliner": "按类型拆解手游开发周期：超休闲约一到两个月，普通休闲三到六个月，多人或大型项目可拉长到一年半以上，关键看范围与功能取舍。",
   "zh_title": "从创意到上线，开发一款手游到底要多久？"
+ },
+ "https://www.gcores.com/articles/222582": {
+  "zh_title": "《足球经理27》实体版今日发售",
+  "zh_oneliner": "世嘉宣布《足球经理27》主机版 PS5 实体版今日发售，经典足球俱乐部经营模拟系列迎来新作。",
+  "en_title": "Football Manager 27 Console Physical Edition Out Today",
+  "en_oneliner": "SEGA announced the PS5 physical edition of Football Manager 27 Console is out today, bringing the classic football club management sim to a new season."
+ },
+ "https://dev.to/shllm/one-flood-fill-for-both-the-preview-and-the-turn-in-a-browser-puzzle-mgj": {
+  "zh_title": "一次泛洪填充同时搞定浏览器解谜游戏的预览与回合判定",
+  "zh_oneliner": "作者分享如何用同一套泛洪填充算法同时实现解谜游戏的落子预览与回合结算，让预览所见即结算所得。",
+  "en_title": "One flood-fill for both the preview and the turn in a browser puzzle",
+  "en_oneliner": "The author shows how one flood-fill algorithm can power both a puzzle game’s move preview and its turn resolution, so what the preview promises is what the turn delivers."
  }
 }
