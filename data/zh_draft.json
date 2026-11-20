@@ -19096,5 +19096,47 @@
   "zh_oneliner": "作者统计了上万张卡牌的文本字数，用数据验证了玩家多年来抱怨的“文本膨胀”。",
   "en_title": "I counted the words on 14,020 Yu-Gi-Oh! cards. Effect text is four times longer than in 2002",
   "en_oneliner": "The author counted the words on over 14,000 cards to put hard numbers behind players' long-standing complaints about text bloat."
+ },
+ "https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-and-launch-day-sales": {
+  "zh_title": "Sensor Tower 估算《GTA 6》预购加首日销售额达 23.6 亿美元",
+  "zh_oneliner": "Sensor Tower 估算《GTA 6》预购加首日卖出超 2450 万份、收入约 23.6 亿美元，给独立开发者一个衡量 3A 大作首发量级的参照。",
+  "en_title": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales",
+  "en_oneliner": "Sensor Tower estimates GTA 6 sold over 24.5 million copies through pre-orders and launch day, earning about $2.36 billion — a useful yardstick for the scale of a AAA launch."
+ },
+ "https://www.gcores.com/articles/222602": {
+  "zh_title": "韭与菜，欧若拉｜机事本11.14-11.20",
+  "zh_oneliner": "机核编辑部每周五的闲聊合集，这期从认白菜聊到《欧若拉》，适合想看看同行们工作之余在琢磨什么的开发者。",
+  "en_title": "Leeks and Greens, Aurora | Gcores Notebook Nov 14–20",
+  "en_oneliner": "Gcores editors' weekly free-form chat column, this time drifting from telling vegetables apart to Aurora — a casual peek at what fellow developers are mulling over after work."
+ },
+ "https://dev.to/chromaticpact/game-design-de-tcgs-de-magic-a-chromatic-pact-como-os-card-games-tentam-resolver-o-problema-da-3l32": {
+  "zh_title": "集换式卡牌游戏设计：从《万智牌》到 Chromatic Pact，卡牌游戏如何尝试解决“法力问题”",
+  "zh_oneliner": "这篇葡萄牙语文章梳理了卡牌游戏的“法力问题”：从《万智牌》的地牌机制到 Chromatic Pact 的新解法，值得做卡牌玩法的开发者参考。",
+  "en_title": "TCG Game Design: From Magic to Chromatic Pact, How Card Games Try to Solve the 'Mana Problem'",
+  "en_oneliner": "This Portuguese-language piece traces the \"mana problem\" in card games, from Magic’s land system to Chromatic Pact’s new approach — useful reading for anyone designing card mechanics."
+ },
+ "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us": {
+  "zh_title": "指南：任天堂“Adventure Awaits”eShop 促销中值得一看的 43 款 Switch 1/2 游戏（美区）",
+  "zh_oneliner": "任天堂 eShop 黑五促销里评分 9 分以上的 43 款 Switch 游戏清单，独立开发者可以顺手看看同类作品的定价与口碑。",
+  "en_title": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)",
+  "en_oneliner": "A roundup of 43 Switch games rated 9/10 or higher in Nintendo’s eShop sale — handy for indie developers checking how comparable titles are priced and received."
+ },
+ "https://gamedevjs.com/games/springtale-phaser-colyseus-roguelike-mmo": {
+  "zh_title": "SpringTale 用 Phaser 与 Colyseus 搭建共享 Roguelike 世界",
+  "zh_oneliner": "SpringTale 用 Phaser 加 Colyseus 做了一个多人共享的 Roguelike 世界，文章聊了装备、死亡与存档背后的设计取舍。",
+  "en_title": "SpringTale builds a shared roguelike world with Phaser and Colyseus",
+  "en_oneliner": "SpringTale builds a shared roguelike world on Phaser and Colyseus, and the write-up walks through the design trade-offs behind equipment, death, and persistence."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click": {
+  "zh_title": "暗网出现 200 美元的“GTA 6 PC 版诈骗套件”，以假 PC 移植版为诱饵，NordVPN 提醒当心点击",
+  "zh_oneliner": "NordVPN 称暗网上有人以 200 美元出售“GTA 6 PC 诈骗套件”，用并不存在的 PC 移植版当诱饵，独立开发者提醒玩家时可以顺手转发。",
+  "en_title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
+  "en_oneliner": "NordVPN says a \"GTA 6 PC scam kit\" using a fake PC port as bait is selling on the dark web for $200 — worth a warning to players, since no PC version exists yet."
+ },
+ "https://dev.to/kimolsen/ai-workshop-for-sales-teams-how-a-branching-sales-call-ships-as-one-html-file-1fcp": {
+  "zh_title": "给销售团队的 AI 工作坊：一个分支式销售电话如何装进单个 HTML 文件",
+  "zh_oneliner": "一篇用游戏化分支对话做销售培训的实践分享：整个模拟通话装进单个静态 HTML 文件、运行时不调模型，对想用分支叙事做非游戏产品的开发者有参考价值。",
+  "en_title": "AI workshop for sales teams: how a branching sales call ships as one HTML file",
+  "en_oneliner": "A hands-on write-up of a branching sales-call simulation shipped as a single static HTML file with no backend or runtime model calls — of interest to developers using branching narrative outside games."
  }
 }
