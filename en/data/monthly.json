@@ -5,8 +5,8 @@
  "date": "November 21, 2026",
  "date_iso": "2026-11-21",
  "issue": 1,
- "generated_at": "2026-11-20T22:04:31.793810+00:00",
- "summary": "3165 items collected in the past 30 days, 10 picks (Engine & Tools 8, Industry & Funding 1, Publishing & Marketing 1). Headline: Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026.",
+ "generated_at": "2026-11-20T23:53:49.784743+00:00",
+ "summary": "3208 items collected in the past 30 days, 10 picks (Engine & Tools 5, Industry & Funding 4, Reviews & Postmortems 1). Headline: Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026.",
  "items": [
   {
    "id": "8801e1c13244265853a1b83e7a63740e1bd0c338",
@@ -27,33 +27,9 @@
    "reason": "Official source · Covers Data · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 69.2,
-   "prev_rank": null,
-   "prev_hot_score": null
-  },
-  {
-   "id": "63fac7f64670aac7bf7b2724aeb2678282f1428b",
-   "title": "What tech is used to develop GTA 6?",
-   "link": "https://dev.to/xabdullahahmad/what-tech-is-used-to-develop-gta-6-2poh",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-19T23:09:10+00:00",
-   "en_title": "What tech is used to develop GTA 6?",
-   "en_oneliner": "From C++ and Rockstar's RAGE engine to memory management and frame-time optimization, a breakdown of the tech stack behind a AAA-scale build.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Tools",
-    "Engine"
-   ],
-   "score": 80,
-   "reason": "Covers Tools and Engine · Published within 24 hours",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 64.6,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.1
   },
   {
    "id": "af012933cba58d9f35628ffcb0a4b52d243821c6",
@@ -75,7 +51,7 @@
    "reason": "Covers Tools and Performance · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.8,
+   "hot_score": 65.6,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -99,9 +75,9 @@
    "reason": "Covers Engine and Workflow · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 71.4,
+   "hot_score": 70.2,
    "prev_rank": 17,
-   "prev_hot_score": 71.5
+   "prev_hot_score": 70.3
   },
   {
    "id": "7457a5957156021326e4df098a66c59d2668fdab",
@@ -123,9 +99,9 @@
    "reason": "Covers Revenue and Sales · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.3,
-   "prev_rank": 8,
-   "prev_hot_score": 74.3
+   "hot_score": 73.1,
+   "prev_rank": 5,
+   "prev_hot_score": 73.1
   },
   {
    "id": "295f14098a6ed36a9d1eadb7d1aa0c2428780b5f",
@@ -144,7 +120,7 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -165,44 +141,21 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "e7275dcf099446d2298a6f2e214fc4768193113c",
-   "title": "Crimson Desert Reverse Engineering",
-   "link": "https://dev.to/xsip/crimson-desert-reverse-engineering-358k",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-20T16:24:00+00:00",
-   "en_title": "Crimson Desert Reverse Engineering",
-   "en_oneliner": "The author reverse-engineers Crimson Desert's internals, finds that its many 'Manager' structures share one pattern, and builds a dumper that collects their offsets at runtime.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Engine"
-   ],
-   "score": 80,
-   "reason": "Covers Engine · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 7,
-   "prev_hot_score": 75.9
-  },
-  {
-   "id": "bc8387e8ce99be865252c2f5c17ec77bcf40ed9a",
-   "title": "How Queen’s Domain brutalized its way to 250k sales...",
-   "link": "https://newsletter.gamediscover.co/p/how-queens-domain-brutalized-its",
-   "source": "GameDiscoverCo",
-   "source_id": "gamediscoverco",
-   "published": "2026-11-20T16:28:30+00:00",
-   "en_title": "How Queen's Domain brutalized its way to 250k sales",
-   "en_oneliner": "How a brutally tough game fought its way to 250,000 sales, plus the latest discovery news and this week on Steam.",
-   "category": "publishing",
-   "category_label": "Publishing & Marketing",
+   "id": "b557cf01bc22033d5db2e228c9fc5e746fb16044",
+   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+   "link": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-20T20:24:00+00:00",
+   "en_title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+   "en_oneliner": "Rockstar says GTA 6 grossed $3.79 billion in retail sales on its first day, setting a new record for entertainment launches across any medium — a fresh benchmark for the market ceiling indie developers are working under.",
+   "category": "industry",
+   "category_label": "Industry & Funding",
    "tier": "T2",
    "tags": [
     "Sales"
@@ -211,33 +164,78 @@
    "reason": "Covers Sales · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 6,
-   "prev_hot_score": 76.0
+   "hot_score": 77.4,
+   "prev_rank": 4,
+   "prev_hot_score": 77.5
   },
   {
-   "id": "b5f568aa499b2127ce26732f5490350e6d95ea28",
-   "title": "Turning Photos into 3D Models in the Browser: How Image to 3D Works",
-   "link": "https://dev.to/imageto3d/turning-photos-into-3d-models-in-the-browser-how-image-to-3d-works-522b",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-20T17:31:59+00:00",
-   "en_title": "Turning Photos into 3D Models in the Browser: How Image to 3D Works",
-   "en_oneliner": "The tool's author explains it first-hand: upload one photo and a generative model returns a textured mesh in about 40 seconds, all in the browser, exportable as GLB, OBJ, or STL straight into Blender, Unity, or Three.js, with two free previews a day.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
+   "id": "aecda425cee6047d99e8c10e91dbc05ab5733f80",
+   "title": "GTA 6 is Officially the Biggest Entertainment Launch in History",
+   "link": "https://80.lv/articles/gta-6-is-officially-the-biggest-entertainment-launch-in-history",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-20T20:58:00+00:00",
+   "en_title": "GTA 6 is Officially the Biggest Entertainment Launch in History",
+   "en_oneliner": "Rockstar confirmed GTA 6 made nearly $4 billion in estimated retail sales in its first 24 hours, the biggest entertainment launch in history — a case study in turning anticipation into sales.",
+   "category": "industry",
+   "category_label": "Industry & Funding",
    "tier": "T2",
    "tags": [
-    "Tools",
-    "Workflow"
+    "Sales"
    ],
    "score": 80,
-   "reason": "Covers Tools and Workflow · Published within 6 hours",
+   "reason": "Covers Sales · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.7,
-   "prev_rank": 5,
-   "prev_hot_score": 76.7
+   "hot_score": 77.8,
+   "prev_rank": 3,
+   "prev_hot_score": 77.9
+  },
+  {
+   "id": "8667bb7ce0b36a47d42d0d5ca3c18029c1c74ee0",
+   "title": "Grand Theft Auto VI is now the biggest video game launch in history",
+   "link": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-20T21:50:59+00:00",
+   "en_title": "Grand Theft Auto VI is now the biggest video game launch in history",
+   "en_oneliner": "GTA VI grossed $3.79 billion in day-one retail sales and sold 32.5 million copies before release, making it the biggest game launch in history — a useful benchmark for indie developers sizing up AAA launch scale.",
+   "category": "industry",
+   "category_label": "Industry & Funding",
+   "tier": "T2",
+   "tags": [
+    "Sales"
+   ],
+   "score": 80,
+   "reason": "Covers Sales · Published within 6 hours",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.5,
+   "prev_rank": 1,
+   "prev_hot_score": 78.5
+  },
+  {
+   "id": "5cbb5d40b06b02e6f656c887f628ad0596f36532",
+   "title": "Fitting a 78-card game on a phone screen: lessons from a French tarot app",
+   "link": "https://dev.to/babylone01/fitting-a-78-card-game-on-a-phone-screen-lessons-from-a-french-tarot-app-3pdm",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-20T21:40:08+00:00",
+   "en_title": "Fitting a 78-card game on a phone screen: lessons from a French tarot app",
+   "en_oneliner": "Building a French tarot app meant squeezing a 78-card trick-taking game onto a 6-inch landscape screen — the author shares hands-on lessons on hand layout and interface trade-offs.",
+   "category": "reviews",
+   "category_label": "Reviews & Postmortems",
+   "tier": "T2",
+   "tags": [
+    "Lessons Learned"
+   ],
+   "score": 80,
+   "reason": "Covers Lessons Learned · Published within 6 hours",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.4,
+   "prev_rank": 2,
+   "prev_hot_score": 78.4
   }
  ]
 }

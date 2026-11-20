@@ -284,6 +284,27 @@
       "name": "AI and Games",
       "tier": "T2",
       "url": "https://www.aiandgames.com/feed/"
+    },
+    {
+      "category_hint": "engine",
+      "id": "monogame",
+      "name": "MonoGame 博客",
+      "tier": "T3",
+      "url": "https://monogame.net/blog/feed.xml"
+    },
+    {
+      "category_hint": "industry",
+      "id": "gameworldobserver",
+      "name": "Game World Observer",
+      "tier": "T2",
+      "url": "https://gameworldobserver.com/feed"
+    },
+    {
+      "category_hint": "industry",
+      "id": "thegamebusiness",
+      "name": "The Game Business",
+      "tier": "T2",
+      "url": "https://thegamebusiness.com/feed"
     }
   ]
 }

@@ -5,8 +5,8 @@
  "date": "2026年11月21日",
  "date_iso": "2026-11-21",
  "issue": 2,
- "generated_at": "2026-11-20T22:04:31.793810+00:00",
- "summary": "过去 7 天共收录 1473 条动态，精选 10 条（引擎与工具 8 条、行业与融资 1 条、发行与宣发 1 条）。头条：3D 遇见真实世界：Unity Industry Summit 慕尼黑 2026 回顾。",
+ "generated_at": "2026-11-20T23:53:49.784743+00:00",
+ "summary": "过去 7 天共收录 1477 条动态，精选 10 条（引擎与工具 5 条、行业与融资 4 条、评测与复盘 1 条）。头条：3D 遇见真实世界：Unity Industry Summit 慕尼黑 2026 回顾。",
  "items": [
   {
    "id": "8801e1c13244265853a1b83e7a63740e1bd0c338",
@@ -27,33 +27,9 @@
    "reason": "官方来源 · 涉及数据 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 69.2,
-   "prev_rank": null,
-   "prev_hot_score": null
-  },
-  {
-   "id": "63fac7f64670aac7bf7b2724aeb2678282f1428b",
-   "title": "What tech is used to develop GTA 6?",
-   "link": "https://dev.to/xabdullahahmad/what-tech-is-used-to-develop-gta-6-2poh",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-19T23:09:10+00:00",
-   "zh_title": "GTA 6 用了哪些技术？",
-   "zh_oneliner": "从 C++ 与 Rockstar 自研 RAGE 引擎，到内存管理与帧时间优化，拆解支撑 3A 大作规模开发的技术栈。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "工具",
-    "引擎"
-   ],
-   "score": 80,
-   "reason": "涉及工具与引擎 · 24 小时内发布",
-   "is_new": false,
-   "trend": "same",
-   "hot_score": 64.6,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.1
   },
   {
    "id": "af012933cba58d9f35628ffcb0a4b52d243821c6",
@@ -75,7 +51,7 @@
    "reason": "涉及工具与性能 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.8,
+   "hot_score": 65.6,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -99,9 +75,9 @@
    "reason": "涉及引擎与工作流 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 71.4,
+   "hot_score": 70.2,
    "prev_rank": 17,
-   "prev_hot_score": 71.5
+   "prev_hot_score": 70.3
   },
   {
    "id": "7457a5957156021326e4df098a66c59d2668fdab",
@@ -123,9 +99,9 @@
    "reason": "涉及营收与销量 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.3,
-   "prev_rank": 8,
-   "prev_hot_score": 74.3
+   "hot_score": 73.1,
+   "prev_rank": 5,
+   "prev_hot_score": 73.1
   },
   {
    "id": "295f14098a6ed36a9d1eadb7d1aa0c2428780b5f",
@@ -144,7 +120,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -165,44 +141,21 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "e7275dcf099446d2298a6f2e214fc4768193113c",
-   "title": "Crimson Desert Reverse Engineering",
-   "link": "https://dev.to/xsip/crimson-desert-reverse-engineering-358k",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-20T16:24:00+00:00",
-   "zh_title": "《绯红沙漠》逆向工程笔记：摸清游戏内部管理器结构并写了自动导出工具",
-   "zh_oneliner": "作者逆向拆解《绯红沙漠》的内部结构，发现各类管理器遵循同一模式，顺手写了个自动导出工具在运行时收集偏移量。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "引擎"
-   ],
-   "score": 80,
-   "reason": "涉及引擎 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 7,
-   "prev_hot_score": 75.9
-  },
-  {
-   "id": "bc8387e8ce99be865252c2f5c17ec77bcf40ed9a",
-   "title": "How Queen’s Domain brutalized its way to 250k sales...",
-   "link": "https://newsletter.gamediscover.co/p/how-queens-domain-brutalized-its",
-   "source": "GameDiscoverCo",
-   "source_id": "gamediscoverco",
-   "published": "2026-11-20T16:28:30+00:00",
-   "zh_title": "《Queen's Domain》如何靠硬核打法卖出 25 万份",
-   "zh_oneliner": "一款高难度游戏是怎样冲到 25 万销量的，GameDiscoverCo 复盘了它的打法，并附上本周 Steam 发现动态。",
-   "category": "publishing",
-   "category_label": "发行与宣发",
+   "id": "b557cf01bc22033d5db2e228c9fc5e746fb16044",
+   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+   "link": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+   "source": "GamesIndustry.biz",
+   "source_id": "gamesindustry",
+   "published": "2026-11-20T20:24:00+00:00",
+   "zh_title": "《GTA 6》首日销售额达 37.9 亿美元，创下娱乐产品史上最大首发纪录",
+   "zh_oneliner": "Rockstar 宣布《GTA 6》首日零售额 37.9 亿美元，刷新全娱乐品类的首发纪录，给独立开发者一个衡量市场天花板的最新参照。",
+   "category": "industry",
+   "category_label": "行业与融资",
    "tier": "T2",
    "tags": [
     "销量"
@@ -211,33 +164,78 @@
    "reason": "涉及销量 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 6,
-   "prev_hot_score": 76.0
+   "hot_score": 77.4,
+   "prev_rank": 4,
+   "prev_hot_score": 77.5
   },
   {
-   "id": "b5f568aa499b2127ce26732f5490350e6d95ea28",
-   "title": "Turning Photos into 3D Models in the Browser: How Image to 3D Works",
-   "link": "https://dev.to/imageto3d/turning-photos-into-3d-models-in-the-browser-how-image-to-3d-works-522b",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-20T17:31:59+00:00",
-   "zh_title": "在浏览器里把照片变成 3D 模型：Image to 3D 是怎么工作的",
-   "zh_oneliner": "工具作者自述：上传一张照片，生成模型约 40 秒出带纹理的网格，全程在浏览器完成，可导出 GLB、OBJ 或 STL 直接进 Blender、Unity 或 Three.js，每天免费试用两次。",
-   "category": "engine",
-   "category_label": "引擎与工具",
+   "id": "aecda425cee6047d99e8c10e91dbc05ab5733f80",
+   "title": "GTA 6 is Officially the Biggest Entertainment Launch in History",
+   "link": "https://80.lv/articles/gta-6-is-officially-the-biggest-entertainment-launch-in-history",
+   "source": "80 Level",
+   "source_id": "80level",
+   "published": "2026-11-20T20:58:00+00:00",
+   "zh_title": "GTA 6 正式成为史上最大的娱乐产品首发",
+   "zh_oneliner": "Rockstar 确认 GTA 6 首日零售额近 40 亿美元，超越所有行业的娱乐产品首发纪录，值得独立开发者研究它如何把期待值转化为销量。",
+   "category": "industry",
+   "category_label": "行业与融资",
    "tier": "T2",
    "tags": [
-    "工具",
-    "工作流"
+    "销量"
    ],
    "score": 80,
-   "reason": "涉及工具与工作流 · 6 小时内发布",
+   "reason": "涉及销量 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.7,
-   "prev_rank": 5,
-   "prev_hot_score": 76.7
+   "hot_score": 77.8,
+   "prev_rank": 3,
+   "prev_hot_score": 77.9
+  },
+  {
+   "id": "8667bb7ce0b36a47d42d0d5ca3c18029c1c74ee0",
+   "title": "Grand Theft Auto VI is now the biggest video game launch in history",
+   "link": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+   "source": "Game Developer",
+   "source_id": "gamedeveloper",
+   "published": "2026-11-20T21:50:59+00:00",
+   "zh_title": "《侠盗猎车手 VI》成为史上首发规模最大的游戏",
+   "zh_oneliner": "《GTA VI》首日零售额达 37.9 亿美元、发售前已卖出 3250 万份，创下游戏史上最大首发纪录，独立开发者可以从中一窥 3A 级发行的体量与打法。",
+   "category": "industry",
+   "category_label": "行业与融资",
+   "tier": "T2",
+   "tags": [
+    "销量"
+   ],
+   "score": 80,
+   "reason": "涉及销量 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.5,
+   "prev_rank": 1,
+   "prev_hot_score": 78.5
+  },
+  {
+   "id": "5cbb5d40b06b02e6f656c887f628ad0596f36532",
+   "title": "Fitting a 78-card game on a phone screen: lessons from a French tarot app",
+   "link": "https://dev.to/babylone01/fitting-a-78-card-game-on-a-phone-screen-lessons-from-a-french-tarot-app-3pdm",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-20T21:40:08+00:00",
+   "zh_title": "把 78 张牌的游戏塞进手机屏幕：法国塔罗应用的经验教训",
+   "zh_oneliner": "作者在开发塔罗牌应用时，把 78 张牌的 3 至 5 人吃墩玩法搬上 6 英寸横屏，分享了手牌排布与界面取舍上的实战经验。",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "tier": "T2",
+   "tags": [
+    "经验教训"
+   ],
+   "score": 80,
+   "reason": "涉及经验教训 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 78.4,
+   "prev_rank": 2,
+   "prev_hot_score": 78.4
   }
  ]
 }
