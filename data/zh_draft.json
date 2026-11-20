@@ -18688,5 +18688,83 @@
   "zh_oneliner": "这份清单教你把图片生成的网格快速放进游戏原型里验证：先看轮廓再抠拓扑，导出前用参照物定好比例。",
   "en_title": "A Blender checklist for bringing image-generated meshes into a game prototype",
   "en_oneliner": "This checklist shows how to quickly test image-generated meshes in a game prototype: check the silhouette before the topology, and set the scale against a known reference before exporting."
+ },
+ "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards": {
+  "zh_title": "Amanita Design《Phonopolis》斩获 DevGAMM 大奖",
+  "zh_oneliner": "Amanita Design 的《Phonopolis》在里斯本 DevGAMM 大会闭幕颁奖上拿下最高奖，独立游戏圈又多了一个值得关注的获奖作品。",
+  "en_title": "Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards",
+  "en_oneliner": "Amanita Design's Phonopolis took the Grand Prize at the DevGAMM Awards closing ceremony in Lisbon, another award-winning indie title worth watching."
+ },
+ "https://80.lv/articles/building-detailed-caribbean-inspired-city-environment-in-unreal-engine-5": {
+  "zh_title": "用 Unreal Engine 5 打造细节丰富的加勒比风情城市环境",
+  "zh_oneliner": "开发者分享了如何为《Caribbean Alleyway》制作受卡塔赫纳老街启发的场景，重点讲了丰富材质与细节的工作流。",
+  "en_title": "Building Detailed Caribbean-Inspired City Environment In Unreal Engine 5",
+  "en_oneliner": "The developer shares the workflow behind Caribbean Alleyway, a scene inspired by the historic streets of Cartagena, with a focus on crafting rich, detailed materials."
+ },
+ "https://dev.to/soumya_p_2aaea14548e67a98/why-outsourcing-a-mobile-game-doesnt-always-reduce-development-costs-20l0": {
+  "zh_title": "为什么外包手游并不总能降低开发成本",
+  "zh_oneliner": "低报价看着省钱，但返工、集成问题和沟通成本会悄悄吃掉预期节省，文章拆解了外包手游真正的成本账。",
+  "en_title": "Why Outsourcing a Mobile Game Doesn't Always Reduce Development Costs",
+  "en_oneliner": "Low rates look like savings, but revisions, integration issues, and communication gaps can quietly erase them — a breakdown of what outsourcing a mobile game really costs."
+ },
+ "https://dev.to/trendzbetagames/engineering-vice-city-real-time-rendering-system-architecture-in-gta-6-on-ps5-pro-1j22": {
+  "zh_title": "拆解《GTA 6》的罪恶都市：PS5 Pro 上的实时渲染与系统架构",
+  "zh_oneliner": "从一段 PS5 Pro 实机画面出发，分析了《GTA 6》在硬件加速光追、动态天气下的渲染管线，适合想研究主机性能上限的技术美术与引擎开发者参考。",
+  "en_title": "Engineering Vice City: Real-Time Rendering & System Architecture in GTA 6 on PS5 Pro",
+  "en_oneliner": "Starting from raw PS5 Pro footage, this piece examines GTA 6's rendering pipeline under hardware ray tracing and dynamic weather — useful reference for technical artists and engine developers studying console limits."
+ },
+ "https://dev.to/alok_krishali/host-unity-webgl-games-online-a-beginners-guide-4ej3": {
+  "zh_title": "在线发布 Unity WebGL 游戏：新手指南",
+  "zh_oneliner": "不用搭复杂平台或昂贵服务器，也能把 Unity 游戏变成浏览器里点开即玩的网页版，新手发布流程一步步讲清。",
+  "en_title": "Host Unity WebGL Games Online: A Beginner's Guide",
+  "en_oneliner": "No complex platform or pricey server needed — this beginner guide walks through turning a Unity game into a play-in-the-browser WebGL build."
+ },
+ "https://dev.to/chuck_zhang_8fbea2c21c500/i-built-a-25-question-seven-deadly-sins-quiz-heres-how-it-scores-and-shares-results-3ch": {
+  "zh_title": "我做了个 25 题七宗罪测试：计分与分享功能是这样实现的",
+  "zh_oneliner": "作者分享了一个 25 题自省小测验的开发过程，答完按七宗罪维度出百分比结果，还能生成分享卡片。",
+  "en_title": "I built a 25-question Seven Deadly Sins quiz. Here’s how it scores and shares results.",
+  "en_oneliner": "The author shares how they built a 25-question self-reflection quiz that scores answers across the seven deadly sins and generates shareable results."
+ },
+ "https://dev.to/kabloomgame/a-seven-clue-trivia-game-that-makes-correct-answers-a-scarce-resource-3dl7": {
+  "zh_title": "七条线索的 trivia 游戏：让正确答案变成稀缺资源",
+  "zh_oneliner": "这款免费每日浏览器 trivia 游戏把答对变成资源分配：现在用掉显而易见的答案，还是留给后面更苛刻的线索。",
+  "en_title": "A Seven-Clue Trivia Game That Makes Correct Answers a Scarce Resource",
+  "en_oneliner": "This free daily browser trivia game turns correct answers into a resource: spend the obvious one now, or save it for a stricter clue later."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack": {
+  "zh_title": "“你伤了我的心”——Doja Cat 遗憾自己的歌没进《GTA 6》原声",
+  "zh_oneliner": "《GTA 6》电台歌单引来玩家热议，但歌手 Doja Cat 公开表示，自己的音乐没能入选让她很失落。",
+  "en_title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
+  "en_oneliner": "GTA 6's radio stations are a launch-week talking point, but artist Doja Cat says being left out of the soundtrack broke her heart."
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-developers-best-in-slot-podcast": {
+  "zh_title": "暴雪想用“情境强力装备”终结《魔兽世界：Forever》的最优配装思路",
+  "zh_oneliner": "随着首个团本 12 月初开放，开发团队希望用特定场景下才强力的装备打破沿用多年的最优配装（BIS）思维。",
+  "en_title": "Blizzard wants to \"get rid\" of best-in-slot items in World of Warcraft: Forever by introducing situationally strong gear",
+  "en_oneliner": "With the first raids opening in early December, the developers want situationally strong gear to break the best-in-slot mindset that has shaped WoW progression for years."
+ },
+ "https://www.pocketgamer.biz/the-top-30-korea-game-makers-of-2026": {
+  "zh_title": "2026 年韩国 30 大游戏厂商榜单",
+  "zh_oneliner": "韩国游戏业从上世纪 90 年代起就是行业重镇，如今 Nexon、NC、Netmarble、Pearl Abyss 与 Krafton 等巨头林立，这份榜单盘点了 2026 年最值得关注的 30 家韩国游戏公司。",
+  "en_title": "The Top 30 Korea Game Makers of 2026",
+  "en_oneliner": "South Korea's games industry has been a major hub since the 1990s, now home to giants like Nexon, NC, Netmarble, Pearl Abyss, and Krafton — this list rounds up the 30 Korean game makers to watch in 2026."
+ },
+ "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist": {
+  "zh_title": "Valve 暂停 Steam Machine 2TB 版订购，称受供应限制；512GB 版已不再排队",
+  "zh_oneliner": "受 AI 行业引发的硬件缺货影响，Valve 暂停了 Steam Machine 旗舰 2TB 机型的订购，好消息是 512GB 版已脱离等候名单。",
+  "en_title": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist",
+  "en_oneliner": "Hit by AI-driven hardware shortages, Valve has suspended orders for the flagship 2TB Steam Machine — though the 512GB model is now off its waitlist."
+ },
+ "https://www.pocketgamer.biz/new-release-roundup-crossy-road-rush-gigabash-mobile-and-all-things-besides-gta-6": {
+  "zh_title": "新游速递：《Crossy Road Rush》《GigaBash Mobile》及 GTA 6 之外的本周新作",
+  "zh_oneliner": "除《GTA 6》外，本周移动端也有不少新游上线，这篇速递盘点了最新上架的作品及其背后的开发商与发行商。",
+  "en_title": "New release roundup: Crossy Road Rush, GigaBash Mobile and all things besides GTA 6",
+  "en_oneliner": "Beyond GTA 6, plenty of new mobile games launched this week — this roundup covers the latest releases and the developers and publishers behind them."
+ },
+ "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6": {
+  "zh_title": "IGN 与 Rockstar 合作推出《GTA 6》官方在线攻略",
+  "zh_oneliner": "IGN 与 Rockstar 直接合作发布了《GTA 6》官方在线指南，含交互地图、任务清单与玩法机制详解，免费开放。",
+  "en_title": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
+  "en_oneliner": "IGN teamed up directly with Rockstar to publish the official online guide for GTA 6, with an interactive map, checklists, and detailed mission and mechanics guides — free to read."
  }
 }
