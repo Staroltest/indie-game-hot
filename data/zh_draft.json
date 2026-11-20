@@ -18544,5 +18544,17 @@
   "zh_oneliner": "又一篇 GTA6 画面畅想文章，与同作者的另一篇主题重复，同样是对未发售游戏的推测。",
   "en_title": "GTA6 Gameplay Reviews: A Graphics Revolution",
   "en_oneliner": "Another GTA6 visuals speculation piece from the same author, duplicating the theme of his other post about an unreleased game."
+ },
+ "https://dev.to/poopleunlimited/a-solver-should-show-the-path-not-just-the-answer-42ph": {
+  "zh_title": "解题器不该只给答案，还要展示解题路径",
+  "zh_oneliner": "好的解谜辅助工具不该只吐一个答案，而要给出一条可核查的通关路径：玩家能对照自己的思路找到分歧点，学到东西，工具本身也成了游戏规则最清晰的说明。",
+  "en_title": "A Solver Should Show the Path, Not Just the Answer",
+  "en_oneliner": "A good puzzle solver should not just hand out an answer but show a verifiable path to it, so players can compare it with their own reasoning, learn from where they diverged, and treat the tool as the clearest statement of the game's rules."
+ },
+ "https://dev.to/songlessanswers/what-five-music-lanes-taught-me-about-genre-blind-spots-pf8": {
+  "zh_title": "五个音乐赛道教会我的流派盲区",
+  "zh_oneliner": "同一款每日猜歌游戏里，五个流派赛道藏歌的方式各不相同：流行靠人声、摇滚难从短片段辨认、电子乐要等到第二段才露出破绽，摸清这点后，分级提示的设计才显得高明。",
+  "en_title": "What Five Music Lanes Taught Me About Genre Blind Spots",
+  "en_oneliner": "In the same daily music-guessing game, each of the five genre lanes hides its songs differently — pop gives itself away through the vocal, rock is hardest to read from a short clip, EDM reveals nothing until the drop — and once you see that, the graded hint ladder makes much more sense."
  }
 }
