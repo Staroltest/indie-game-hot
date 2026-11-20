@@ -18946,5 +18946,47 @@
   "zh_oneliner": "一周新游动态合集，涵盖 SuperPlay 与 Playtika 的下一款作品、任天堂的新应用以及《Spirit Crossing》，快速扫一眼最近的手游风向。",
   "en_title": "New game digest: SuperPlay and Playtika’s next games, new Nintendo apps, Spirit Crossing, more",
   "en_oneliner": "A weekly roundup of new games, from SuperPlay and Playtika's next titles to new Nintendo apps and Spirit Crossing — a quick scan of where mobile games are heading."
+ },
+ "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard": {
+  "zh_title": "欧盟《数字公平法案》将如何影响游戏设计，为何对欧洲独立开发者冲击尤其大",
+  "zh_oneliner": "欧盟草案拟规范开箱与付费获胜等设计，欧洲独立开发者需提前了解合规边界与成本。",
+  "en_title": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard",
+  "en_oneliner": "The EU draft targets loot boxes and pay-to-win design, so European indies should get ahead of the coming compliance costs and constraints."
+ },
+ "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation": {
+  "zh_title": "裁员之年，Ubisoft 揭开新工作室 Motherbrain 的面纱：专注用 AI 做玩法创新",
+  "zh_oneliner": "Ubisoft 在裁员潮中成立生成式 AI 工作室 Motherbrain，专攻玩法创新，大厂的 AI 路线值得独立开发者留意。",
+  "en_title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
+  "en_oneliner": "Amid layoffs, Ubisoft has opened Motherbrain, a generative-AI studio focused on gameplay innovation — a signal indies should watch as big publishers bet on AI."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me": {
+  "zh_title": "饰演 GTA 6 中 Mandy 的演员主动现身：“玩游戏时留意一下能不能找到我”",
+  "zh_oneliner": "GTA 6 角色 Mandy 的扮演者公开身份并向玩家喊话，算是发售前的一则轻松花絮。",
+  "en_title": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
+  "en_oneliner": "The actress behind GTA 6's Mandy has revealed herself and invited players to spot her in the game — a light pre-launch tidbit."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-item-designer-wants-to-get-rid-of-bis-encouraging-players-who-want-to-sweatily-optimise-to-bring-unique-sets-of-gear-to-raids": {
+  "zh_title": "《WoW: Forever》装备设计师想取消 BiS：希望每个 Boss 都有不同的最优配装",
+  "zh_oneliner": "《WoW: Forever》的装备设计师希望废掉固定最优配装，让不同 Boss 推动玩家搭配出各具特色的装备组合。",
+  "en_title": "WoW: Forever item designer wants to 'get rid of BiS', encouraging players who want to sweatily optimise to bring unique sets of gear to raids",
+  "en_oneliner": "WoW: Forever's item designer wants to scrap fixed best-in-slot gear so each boss pushes players toward a different optimal loadout."
+ },
+ "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines": {
+  "zh_title": "《全面战争：战锤 40K》把战役拆成星系迷你战役，各有剧情与目标",
+  "zh_oneliner": "新作把战役按星系拆成多个迷你战役，各自带有剧情与目标，精英部队全灭的残酷感依然保留。",
+  "en_title": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives",
+  "en_oneliner": "The new game splits its campaign into per-star-system mini-campaigns, each with its own story and objectives, while keeping the sting of losing an elite army."
+ },
+ "https://www.pocketgamer.biz/clarity-is-kindness-ip-collaboration-katharina-schmidt": {
+  "zh_title": "“清晰即是善意”：如何谈成一次 IP 联动合作",
+  "zh_oneliner": "想把知名品牌引入自己的游戏，合同细节要讲清、节奏要放慢，这份联动合作实战指南值得一读。",
+  "en_title": "\"Clarity is kindness\": How to land an IP collaboration",
+  "en_oneliner": "Landing a famous brand in your game means slowing down and getting the contract details crystal clear — a practical playbook for IP collaborations."
+ },
+ "https://www.eurogamer.net/gta-6-spoiler-free-advice": {
+  "zh_title": "本周末玩 GTA 6？首周目 16 条无剧透建议",
+  "zh_oneliner": "GTA 6 发售周末，资深玩家整理了 16 条不剧透的新手建议，供刚上手的玩家参考。",
+  "en_title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
+  "en_oneliner": "It's GTA 6 launch weekend, and a veteran player shares 16 spoiler-free tips for anyone starting their first playthrough."
  }
 }
