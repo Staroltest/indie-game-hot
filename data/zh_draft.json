@@ -18586,5 +18586,17 @@
   "zh_oneliner": "一期考据芭比 IP 诞生前十年的节目，从成人玩偶原型讲到导弹工程师打磨娃娃身体，复盘它如何靠卖衣服把玩具厂做成服装巨头。",
   "en_title": "Born from an Adult Novelty Toy, Shaped by a Missile Engineer, Sold to Girls Worldwide: The Secret History of Barbie",
   "en_oneliner": "A deep-dive episode tracing Barbie's first decade, from a German newspaper gag doll to a doll empire built on selling outfits — a case study in IP and merchandising."
+ },
+ "https://dev.to/poopleunlimited/what-a-four-letter-word-ladder-taught-me-about-planning-under-constraints-35po": {
+  "en_oneliner": "The author turns a daily four-letter word ladder game into planning lessons for software work: the first move is a budget decision, and a fixed endpoint locks in half the route before you start.",
+  "en_title": "What a Four-Letter Word Ladder Taught Me About Planning Under Constraints",
+  "zh_oneliner": "作者从每天玩的四字母单词阶梯游戏里提炼出可迁移到软件开发的规划经验：第一步就是预算决策，固定终点会提前锁定一半路线。",
+  "zh_title": "四字母单词阶梯游戏教会我的约束下规划之道"
+ },
+ "https://dev.to/red_apple_technologies/how-long-does-it-take-to-develop-a-mobile-game-from-idea-to-launch-oih": {
+  "en_oneliner": "A genre-by-genre breakdown of mobile game timelines: hyper-casual in about one to two months, casual in three to six, multiplayer or large-scale projects stretching past eighteen months, with scope and features deciding the rest.",
+  "en_title": "How Long Does It Take to Develop a Mobile Game From Idea to Launch?",
+  "zh_oneliner": "按类型拆解手游开发周期：超休闲约一到两个月，普通休闲三到六个月，多人或大型项目可拉长到一年半以上，关键看范围与功能取舍。",
+  "zh_title": "从创意到上线，开发一款手游到底要多久？"
  }
 }
