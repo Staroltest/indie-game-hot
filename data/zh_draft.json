@@ -1028,7 +1028,7 @@
  "https://dev.to/startupcafe/animating-and-rigging-by-hand-is-sometimes-hard-5gbk": {
   "zh_title": "手动做动画和绑定有时候真的很难",
   "zh_oneliner": "一位还在学动画基础的开发者坦言手动绑定的挫败：静帧看着没问题，一播放就处处是怪弯，并记录了自己排查问题的过程。",
-  "en_title": "Animating and rigging by hand is sometimes hard....",
+  "en_title": "Animating and rigging by hand is sometimes hard.",
   "en_oneliner": "A developer still learning animation basics shares the frustrations of hand rigging: poses that look fine in stills but bend oddly in motion, and the hunt for the control at fault."
  },
  "https://dev.to/dasred/reviving-a-2016-ios-game-from-swift-2-to-swift-6-with-an-ai-pair-programmer-50ai": {
@@ -6643,7 +6643,7 @@
  },
  "https://newsletter.gamediscover.co/p/october-2026s-top-new-pc-and-console": {
   "en_oneliner": "A rundown of October's best-performing new releases, plus this week's Steam news and discovery updates.",
-  "en_title": "October 2026’s top new PC & console games, revealed...",
+  "en_title": "October 2026’s top new PC & console games, revealed",
   "zh_oneliner": "盘点 10 月表现最亮眼的新发售游戏，并附本周 Steam 动态与发现新闻。",
   "zh_title": "2026 年 10 月最受关注的新 PC 与主机游戏揭晓"
  },
@@ -7928,7 +7928,7 @@
  "https://newsletter.gamediscover.co/p/how-queens-domain-brutalized-its": {
   "zh_title": "《Queen's Domain》如何靠硬核打法卖出 25 万份",
   "zh_oneliner": "一款高难度游戏是怎样冲到 25 万销量的，GameDiscoverCo 复盘了它的打法，并附上本周 Steam 发现动态。",
-  "en_title": "How Queen's Domain brutalized its way to 250k sales...",
+  "en_title": "How Queen's Domain brutalized its way to 250k sales",
   "en_oneliner": "How a brutally tough game fought its way to 250,000 sales, plus the latest discovery news and this week on Steam."
  },
  "https://www.indiedb.com/games/portable-troopers-the-squad-management-voxel-war-game/news/new-update131": {
@@ -11629,7 +11629,7 @@
  },
  "https://newsletter.gamediscover.co/p/the-hidden-ai-signifier-in-next-fest": {
   "en_oneliner": "Public AI disclosures can't simply be added up — the author explains why the AI labels in Next Fest are so complicated.",
-  "en_title": "The hidden AI signifier in Next Fest - and why it’s so complex...",
+  "en_title": "The hidden AI signifier in Next Fest - and why it’s so complex",
   "zh_oneliner": "公开的 AI 披露信息没法简单加总，作者解释新品节 AI 标识背后的复杂现实。",
   "zh_title": "新品节里隐藏的 AI 标识，为什么这么复杂"
  },
@@ -19456,5 +19456,29 @@
   "zh_oneliner": "工具作者自述：上传一张照片，生成模型约 40 秒出带纹理的网格，全程在浏览器完成，可导出 GLB、OBJ 或 STL 直接进 Blender、Unity 或 Three.js，每天免费试用两次。",
   "en_title": "Turning Photos into 3D Models in the Browser: How Image to 3D Works",
   "en_oneliner": "The tool's author explains it first-hand: upload one photo and a generative model returns a textured mesh in about 40 seconds, all in the browser, exportable as GLB, OBJ, or STL straight into Blender, Unity, or Three.js, with two free previews a day."
+ },
+ "https://dev.to/mkare/return-the-cart-clear-the-exit-object-pools-and-zero-allocation-loops-in-canvas-15dd": {
+  "zh_title": "归还购物车，清空出口：Canvas 中的对象池与零分配循环",
+  "zh_oneliner": "讲 Canvas 2D 物理循环里如何用对象池消灭每帧分配，附可交互对比演示与测试套件，适合做网页小游戏的开发者参考。",
+  "en_title": "Return the Cart, Clear the Exit: Object Pools and Zero-Allocation Loops in Canvas",
+  "en_oneliner": "Shows how object pools eliminate per-frame allocations in Canvas 2D physics loops, with a live pooled-vs-unpooled demo and test suites — a handy reference for web game developers."
+ },
+ "https://dev.to/samellis/designing-a-city-game-for-people-who-will-only-give-it-three-minutes-1oi8": {
+  "zh_title": "为只肯给三分钟的玩家设计城市游戏",
+  "zh_oneliner": "围绕街头三分钟体验聊城市寻宝游戏的设计取舍：上手要快、目标要一眼看懂，适合做轻量户外玩法的人看看。",
+  "en_title": "Designing a city game for people who will only give it three minutes",
+  "en_oneliner": "A design take on city scavenger hunts built for a three-minute street-side session: fast onboarding and goals you grasp at a glance — useful for anyone making lightweight outdoor play."
+ },
+ "https://blog.playstation.com/2026/11/20/official-playstation-podcast-episode-553-peak-gaming": {
+  "zh_title": "PlayStation 官方播客第 553 期：Peak Gaming",
+  "zh_oneliner": "本期主持人聊近期在玩的游戏与节日美食，顺带庆祝 Peak Gaming，玩家向播客，开发者可当作了解平台氛围的背景音。",
+  "en_title": "Official PlayStation Podcast Episode 553: Peak Gaming",
+  "en_oneliner": "This episode covers what the hosts have been playing and their favorite holiday dishes, with a Peak Gaming celebration — a player-facing podcast, useful as background on platform mood."
+ },
+ "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar": {
+  "zh_title": "GTA 6 制作名单里真有“佛罗里达小丑”：那位曾向 Rockstar 索要 1000 万美元的网红",
+  "zh_oneliner": "曾因肖像权向 Rockstar 索赔千万的网红“佛罗里达小丑”出现在了 GTA 6 的制作名单里，算是这场风波的一个收尾。",
+  "en_title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+  "en_oneliner": "The viral \"Florida Joker,\" who once demanded $10 million from Rockstar over his likeness, actually appears in GTA 6's credits — a neat coda to that long-running saga."
  }
 }
