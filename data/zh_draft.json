@@ -19396,5 +19396,47 @@
   "zh_oneliner": "上海警方在消费者举报后查处了一个盗版《最终幻想 7》蒂法手办制售团伙，13 名涉案人员因涉嫌销售侵权复制品被调查。",
   "en_title": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
   "en_oneliner": "Shanghai police arrested 13 people allegedly running a bootleg Final Fantasy 7 Tifa figurine operation after consumers reported it."
+ },
+ "https://unity.com/blog/unity-industry-summit-munich-2026-recap": {
+  "zh_title": "3D 遇见真实世界：Unity Industry Summit 慕尼黑 2026 回顾",
+  "zh_oneliner": "从马自达到汉莎、从 F1 模拟器到 13 个演示展位，本届 Unity 行业峰会展示了 AI 智能体、机器人与 3D 数据如何走进真实工业场景。",
+  "en_title": "Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026",
+  "en_oneliner": "From Mazda to Lufthansa, an F1 simulator and 13 demo stations, this year's Unity Industry Summit showed how AI agents, robotics and 3D data are moving into real industrial work."
+ },
+ "https://www.indiedb.com/games/guns-gems/news/guns-gems-is-out-now-important-gameplay-notes": {
+  "zh_title": "《Guns & Gems》已发售，附重要玩法提示",
+  "zh_oneliner": "独立游戏《Guns & Gems》上线首日反响不错，开发者整理了几条关键玩法提示，帮新玩家更快上手。",
+  "en_title": "Guns & Gems is Out Now + Important Gameplay Notes",
+  "en_oneliner": "Indie game Guns & Gems launched to a warm first day, and the developer shares a few key gameplay tips to help new players get started."
+ },
+ "https://www.indiedb.com/games/lifepaths/news/lifepaths-24-brings-everyday-decisions-into-the-city": {
+  "zh_title": "《LifePaths》2.4 更新：日常抉择走进城市",
+  "zh_oneliner": "2.4 版新增 Places.exe，酒吧、诊所、银行等场所都与日常抉择挂钩，还有能改写人生的“自由之年”与反映社会地位的医疗系统。",
+  "en_title": "LifePaths 2.4 brings everyday decisions into the city",
+  "en_oneliner": "Version 2.4 adds Places.exe, tying bars, clinics, banks and other spots to everyday decisions, plus a life-changing free year and healthcare that reflects your social standing."
+ },
+ "https://www.indiedb.com/games/super-score/news/host-your-own-matches-download-dedicated-server-files-directly-in-game": {
+  "zh_title": "《Super Score》：游戏内直接下载专用服务器文件，自己开服",
+  "zh_oneliner": "不用再折腾 SteamCMD，《Super Score》现在可以直接在游戏内下载专用服务器文件，自己主持对局。",
+  "en_title": "Host Your Own Matches! Download Dedicated Server Files Directly In-Game",
+  "en_oneliner": "No more SteamCMD wrangling: Super Score now lets you download dedicated server files right inside the game and host your own matches."
+ },
+ "https://www.indiedb.com/games/iron-curtain-call/news/you-said-the-demo-stuttered-and-made-you-dizzy-here-is-what-i-changed": {
+  "zh_title": "玩家说试玩版卡顿又晕 3D，独立开发者逐条改了",
+  "zh_oneliner": "伊斯坦布尔的独立开发者 Ekin 回应 Steam 玩家反馈，针对试玩版大场面掉帧、镜头致晕与难度过高的问题逐一做了修改。",
+  "en_title": "You said the demo stuttered and made you dizzy. Here is what I changed",
+  "en_oneliner": "Solo developer Ekin from Istanbul responds to Steam feedback, fixing the demo's frame drops in big fights, motion-sickness camera and punishing difficulty one by one."
+ },
+ "https://dev.to/yacine_yacine_775bf56dcc2/how-to-stop-ai-hallucinations-in-godot-47-and-automate-lossless-video-editing-zero-config-setup-nd9": {
+  "zh_title": "告别 AI 瞎编 Godot 4.7 API：零配置工作流兼顾无损视频剪辑",
+  "zh_oneliner": "一套基于三个开源工具的零配置工作流，让 AI 编码助手不再编造过时的 Godot API、弄坏场景文件，还能无损快速剪辑开发日志。",
+  "en_title": "How to Stop AI Hallucinations in Godot 4.7 and Automate Lossless Video Editing (Zero-Config Setup)",
+  "en_oneliner": "A zero-config workflow built on three open-source tools stops AI coding assistants from hallucinating outdated Godot APIs and breaking scene files, while speeding up lossless devlog editing."
+ },
+ "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment": {
+  "zh_title": "调查称英伟达联合创始人黄仁勋数十年职场霸凌与虐待",
+  "zh_oneliner": "一项新的职场行为调查指控英伟达联合创始人黄仁勋数十年来存在霸凌与言语虐待，背景是他近期因婚外情曝光后辞职。",
+  "en_title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
+  "en_oneliner": "A new investigation into the workplace conduct of Nvidia co-founder Jensen Huang, who recently resigned after extramarital affairs came to light, alleges decades of harassment and verbal abuse."
  }
 }
