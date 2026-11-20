@@ -19036,5 +19036,47 @@
   "zh_oneliner": "育碧在蒙特利尔和魁北克城工作室裁员 166 人，主要涉及制作与支持岗位，公司仍在持续削减成本。",
   "en_title": "Ubisoft lays off 166 staff across Montreal and Quebec City studios",
   "en_oneliner": "Ubisoft has laid off 166 staff across its Montreal and Quebec City studios, mainly in production and support roles, as the company continues cutting costs."
+ },
+ "https://80.lv/articles/hades-meets-earthbound-in-this-dreamlike-pixel-art-roguelite": {
+  "zh_title": "《Hades》遇上《EarthBound》：梦幻像素风 Roguelite 新作《Everrest》",
+  "zh_oneliner": "像素风 Roguelite《Everrest》让玩家扮演抱着枕头的男孩一路打回现实，融合《Hades》的战斗节奏与《EarthBound》的梦境气质。",
+  "en_title": "Hades Meets EarthBound In This Dreamlike Pixel-Art Roguelite",
+  "en_oneliner": "Pixel-art roguelite Everrest has you play a boy fighting his way back to reality with a pillow, blending Hades-style combat pacing with EarthBound's dreamlike mood."
+ },
+ "https://www.indiedb.com/games/a-better-gun/news/a-better-gun-devlog-drop-pods-a-bigger-horde-and-alpha": {
+  "zh_title": "《A Better Gun》开发日志：空投舱、翻倍尸潮与 Alpha 版本",
+  "zh_oneliner": "本周小版本迭代给《A Better Gun》加了空投舱、规模翻倍的尸潮、7 级元素选择和新击杀特效，项目正式迈入 Alpha。",
+  "en_title": "A Better Gun devlog: drop pods, a bigger horde and alpha",
+  "en_oneliner": "This week's small builds add drop pods, a horde twice the size, element picks at level 7 and new kill effects to A Better Gun as the project moves into alpha."
+ },
+ "https://dev.to/matthew_anderson_81/netcode-for-unity-multiplayer-client-side-prediction-and-lag-compensation-explained-486f": {
+  "zh_title": "Unity 多人联机 Netcode：客户端预测与延迟补偿详解",
+  "zh_oneliner": "从一次按键输入出发，讲清服务器权威架构下客户端预测与延迟补偿如何让多人游戏的操作手感接近单机。",
+  "en_title": "Netcode for Unity Multiplayer: Client-Side Prediction and Lag Compensation Explained",
+  "en_oneliner": "Starting from a single key press, this piece explains how client-side prediction and lag compensation keep multiplayer controls feeling close to single-player under a server-authoritative architecture."
+ },
+ "https://dev.to/mugitaiyaki/more-than-prompts-context-and-harness-engineering-3lo4": {
+  "zh_title": "不止提示词：上下文与脚手架工程",
+  "zh_oneliner": "作者用 Claude 在 Unity 里做游戏时发现 AI 常常无声停工，问题不在提示词，而在上下文与脚手架工程没给它继续的明确信号。",
+  "en_title": "More Than Prompts: Context and Harness Engineering",
+  "en_oneliner": "While building a game in Unity with Claude, the author found the AI often stopped silently — the problem was not the prompt, but context and harness engineering failing to give it a clear signal to continue."
+ },
+ "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us": {
+  "zh_title": "塞尔达 40 周年 Switch 2 主机即将补货（美版）",
+  "zh_oneliner": "错过塞尔达 40 周年 Switch 2 限定主机的美国玩家不用急，任天堂确认新一批库存很快上架。",
+  "en_title": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)",
+  "en_oneliner": "US players who missed the Zelda 40th Anniversary Switch 2 console won't have to wait long — Nintendo has confirmed more stock is on the way."
+ },
+ "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing": {
+  "zh_title": "通关 GTA 6 里的独立游戏彩蛋《Tenebrae Lux》，只换来一丝成就感",
+  "zh_oneliner": "GTA 6 里藏着一款向独立游戏致敬的戏仿小游戏《Tenebrae Lux》，作者通关后聊了聊它何以值得一玩。",
+  "en_title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
+  "en_oneliner": "GTA 6 hides a loving indie-game pastiche called Tenebrae Lux, and the author writes up the playthrough and what makes it worth a look."
+ },
+ "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham": {
+  "zh_title": "英国首相不会玩 GTA 6，政府同时称 Rockstar 为“英国成功故事”",
+  "zh_oneliner": "GTA 6 的发售热度一路烧到英国政坛，首相发言人称 Rockstar 是“英国成功故事”，同时确认首相本人不会玩这款游戏。",
+  "en_title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
+  "en_oneliner": "GTA 6's launch heat has reached British politics: the Prime Minister's spokesperson called Rockstar a \"British success story\" while confirming the PM himself won't be playing it."
  }
 }
