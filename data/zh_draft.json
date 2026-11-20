@@ -18988,5 +18988,53 @@
   "zh_oneliner": "GTA 6 发售周末，资深玩家整理了 16 条不剧透的新手建议，供刚上手的玩家参考。",
   "en_title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
   "en_oneliner": "It's GTA 6 launch weekend, and a veteran player shares 16 spoiler-free tips for anyone starting their first playthrough."
+ },
+ "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure": {
+  "zh_title": "Arika 董事、《街霸 EX》《俄罗斯方块 99》开发者仓林哲明因心力衰竭逝世",
+  "zh_oneliner": "Arika 董事仓林哲明因心力衰竭离世，他曾参与《街霸 EX》《俄罗斯方块 99》等作品，社长西谷亮在声明中公布了这一消息。",
+  "en_title": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+  "en_oneliner": "Arika director Akira Kurabayashi, a developer on Street Fighter EX and Tetris 99, has died of heart failure, company president Akira Nishitani announced."
+ },
+ "https://indiegamesplus.com/as-long-as-youre-here-preview": {
+  "zh_title": "《As Long As You're Here》带你体验阿尔茨海默病患者的世界",
+  "zh_oneliner": "这款情感叙事冒险游戏让你扮演年迈的安妮，在失落的记忆中重新找回自己，探讨记忆与身份的主题。",
+  "en_title": "‘As Long As You’re Here’ has you experiencing Alzheimer’s disease",
+  "en_oneliner": "This emotional narrative adventure puts you in the shoes of Annie, an older woman rediscovering lost memories as she lives with Alzheimer’s disease."
+ },
+ "https://80.lv/articles/mindseye-developers-build-a-rocket-boy-are-trying-to-get-out-of-their-usd80-98-million-debt": {
+  "zh_title": "《MindsEye》开发商 Build a Rocket Boy 试图摆脱 8098 万美元债务",
+  "zh_oneliner": "《MindsEye》开发商 Build a Rocket Boy 背负约 8098 万美元无担保债务，正试图通过起诉差评者来填补缺口。",
+  "en_title": "MindsEye Developers, Build a Rocket Boy, Are Trying to Get Out of Their $80.98 Million Debt",
+  "en_oneliner": "MindsEye developer Build a Rocket Boy is saddled with $80.98 million in unsecured debt and is reportedly suing negative reviewers to cover the shortfall."
+ },
+ "https://dev.to/shakeelahmed/gta-6-sold-2458-million-copies-in-24-hours-what-the-biggest-game-launch-ever-means-for-the-3bkn": {
+  "zh_title": "《GTA 6》首日卖出 2458 万份，创游戏史上最大首发纪录",
+  "zh_oneliner": "据 Sensor Tower 估算，《GTA 6》首日卖出约 2458 万份、收入约 23.6 亿美元，刷新了游戏史上最大首发的纪录，其宣发打法值得独立开发者研究。",
+  "en_title": "GTA 6 Sold 24.58 Million Copies in 24 Hours — What the Biggest Game Launch Ever Means for the Industry",
+  "en_oneliner": "GTA 6 sold an estimated 24.58 million copies and grossed around $2.36 billion in its first day, making it the biggest game launch in history — a marketing playbook worth studying."
+ },
+ "https://dev.to/wabiplant/building-an-input-first-remote-for-unity-separating-the-touch-channel-from-the-video-channel-1pe": {
+  "zh_title": "为 Unity 打造输入优先的远程调试方案：把触摸通道与视频通道分开",
+  "zh_oneliner": "作者分享了在 Unity 远程测试中把触摸输入与视频流分离的做法，解决触屏操作在真机上与鼠标体验不一致的痛点。",
+  "en_title": "Building an input-first remote for Unity: separating the touch channel from the video channel",
+  "en_oneliner": "The author shares a Unity remote-playtesting setup that separates the touch input channel from the video stream, fixing the gap between mouse-perfect drags and real touch behavior."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic": {
+  "zh_title": "尼克·贝利克会出现在《GTA 6》里吗？",
+  "zh_oneliner": "PC Gamer 探讨了《GTA 4》主角尼克·贝利克是否会在《GTA 6》中登场，以及玩家关心的保龄球梗有没有着落。",
+  "en_title": "Is Niko Bellic in GTA 6?",
+  "en_oneliner": "PC Gamer looks at whether GTA 4 protagonist Niko Bellic will appear in GTA 6 — and whether the bowling joke makes a comeback."
+ },
+ "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products": {
+  "zh_title": "OpenAI 称重新设计了 AMD GPU，AMD 将部分改进用于未来产品",
+  "zh_oneliner": "OpenAI 表示自己重新设计了一款 AMD GPU，AMD 正在把其中的部分改进应用到未来产品中，AI 公司正在反向影响芯片设计。",
+  "en_title": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
+  "en_oneliner": "OpenAI says it redesigned an AMD GPU, and AMD is incorporating some of those tweaks into future products — a sign of AI companies shaping chip design."
+ },
+ "https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios": {
+  "zh_title": "育碧蒙特利尔与魁北克城工作室裁员 166 人",
+  "zh_oneliner": "育碧在蒙特利尔和魁北克城工作室裁员 166 人，主要涉及制作与支持岗位，公司仍在持续削减成本。",
+  "en_title": "Ubisoft lays off 166 staff across Montreal and Quebec City studios",
+  "en_oneliner": "Ubisoft has laid off 166 staff across its Montreal and Quebec City studios, mainly in production and support roles, as the company continues cutting costs."
  }
 }
