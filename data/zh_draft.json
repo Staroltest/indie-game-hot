@@ -19528,5 +19528,65 @@
   "zh_oneliner": "《哈利·波特：霍格沃茨之谜》开发商 Jam City 裁员约一成员工，但表示不会关闭工作室或项目。",
   "en_title": "Jam City to cut around 60 staff",
   "en_oneliner": "Jam City, maker of Harry Potter: Hogwarts Mystery, is cutting about 10% of its workforce while keeping all studios and games open."
+ },
+ "https://www.indiedb.com/games/a-classic-horror-game/news/a-classic-horror-game-demo-available-now": {
+  "zh_title": "经典恐怖游戏《A Classic Horror Game》试玩版现已推出",
+  "zh_oneliner": "复古恐怖游戏《A Classic Horror Game》的 0.9 版试玩现已在 Windows 上开放下载。",
+  "en_title": "A Classic Horror Game: Demo available now",
+  "en_oneliner": "The 0.9 demo of retro horror game A Classic Horror Game is now available to download on Windows."
+ },
+ "https://www.indiedb.com/games/beyond-realm/news/free-demo-out-and-what-three-playtesters-taught-us": {
+  "zh_title": "免费试玩已上线，三位素未谋面的测试者教会了我们什么",
+  "zh_oneliner": "《Beyond Realm》的免费试玩已上架 Steam，三位陌生测试者的反馈指出了游戏好用与别扭的地方。",
+  "en_title": "Free demo out, and what three playtesters taught us",
+  "en_oneliner": "Beyond Realm's free demo is live on Steam for Windows and Mac, and feedback from three testers who had never met the team shows what works and what hurts."
+ },
+ "https://www.indiedb.com/games/burgher1400/news/burgher1400-patch-25": {
+  "zh_title": "《Burgher1400》2.5 补丁发布",
+  "zh_oneliner": "中世纪城市经营游戏《Burgher1400》迎来 2.5 补丁，《Burgher Epochs》同步更新至 1.1 版。",
+  "en_title": "Burgher1400 Patch 2.5",
+  "en_oneliner": "Medieval city-builder Burgher1400 gets its 2.5 patch, with Burgher Epochs updated to 1.1 alongside it."
+ },
+ "https://www.indiedb.com/games/doctrine-strike/news/10-slots-1-hold-irans-tunnel-network-moves-your-army-under-the-map": {
+  "zh_title": "10 个槽位、1 个共享舱：伊朗地道网络让你的军队在地图之下机动",
+  "zh_oneliner": "《Doctrine Strike》里的伊朗地道网络把所有入口连到一个可容纳 10 个单位的共享舱，部队从任意出口现身。",
+  "en_title": "10 slots, 1 hold: Iran's tunnel network moves your army under the map",
+  "en_oneliner": "In Doctrine Strike, Iran's tunnel network links every entrance to one shared hold of 10 units, so an army can enter at one door and surface at any other."
+ },
+ "https://dev.to/ggamehost/ark-survival-ascended-dedicated-server-7-things-to-get-right-before-your-tribe-moves-in-29df": {
+  "zh_title": "《ARK: Survival Ascended》私人服务器：部落入驻前必须做对的 7 件事",
+  "zh_oneliner": "《ARK: Survival Ascended》是出了名的吃配置又容易配错，这篇文章列出开服第一天就该确认的七个关键点。",
+  "en_title": "ARK: Survival Ascended Dedicated Server: 7 Things to Get Right Before Your Tribe Moves In",
+  "en_oneliner": "ARK: Survival Ascended is heavy to host and easy to misconfigure, so this guide lists the seven things worth getting right on day one of running a server for your tribe."
+ },
+ "https://dev.to/mkare/shaking-hands-with-everyone-broad-phase-collision-and-spatial-hashing-from-200-to-20000-bodies-9f": {
+  "zh_title": "与所有人握手：用空间哈希把粗粒度碰撞检测从 200 个物体扩展到 20000 个",
+  "zh_oneliner": "这篇教程用可交互演示讲解粗粒度碰撞检测与空间哈希，帮你把 2D 物理场景从几百个物体扩展到两万个。",
+  "en_title": "Shaking Hands with Everyone: Broad-Phase Collision and Spatial Hashing from 200 to 20,000 Bodies",
+  "en_oneliner": "This tutorial uses a live interactive demo to explain broad-phase collision detection and spatial hashing, scaling a 2D physics scene from a few hundred bodies to 20,000."
+ },
+ "https://dev.to/mkare/no-need-to-wipe-the-whole-table-dirty-rectangle-rendering-in-canvas-2d-4587": {
+  "zh_title": "不必擦掉整张桌子：Canvas 2D 中的脏矩形渲染",
+  "zh_oneliner": "这篇教程讲解脏矩形渲染，用可交互演示展示如何只重绘 Canvas 2D 画面中变化的部分来省下性能。",
+  "en_title": "No Need to Wipe the Whole Table: Dirty Rectangle Rendering in Canvas 2D",
+  "en_oneliner": "This tutorial explains dirty rectangle rendering with a live interactive demo, showing how to redraw only the changed parts of a Canvas 2D scene to save performance."
+ },
+ "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy": {
+  "zh_title": "Etsy 卖家因平台新 AI 训练政策纷纷关店",
+  "zh_oneliner": "Etsy 推出新的 AI 训练政策后，不少卖家选择关闭店铺，尽管平台称该政策只用于改进店铺功能与工具。",
+  "en_title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
+  "en_oneliner": "Etsy sellers are closing their stores over the platform's new AI training policy, even though the platform says it only aims to improve storefronts and tools."
+ },
+ "https://www.eurogamer.net/persona-6-games-come-quicker-atlus": {
+  "zh_title": "《女神异闻录 6》做了七年、《5》做了四年后，Atlus 承诺今后的游戏会出得更快",
+  "zh_oneliner": "Atlus 表示《女神异闻录 6》仍在稳步开发中，同时承诺今后系列新作的开发周期不会再像过去那样漫长。",
+  "en_title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+  "en_oneliner": "Persona 6 is still in development, and Atlus promises future games in the series will not take as long as the seven years spent on Persona 6 or the four on Persona 5."
+ },
+ "https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff": {
+  "zh_title": "Jam City 裁员 10%",
+  "zh_oneliner": "美国手游发行商 Jam City 裁员约一成，公司表示不会因此关闭任何工作室或游戏。",
+  "en_title": "Jam City lays off 10% of staff",
+  "en_oneliner": "US mobile games publisher Jam City has laid off approximately 10% of its staff, saying no studios or games will close as a result."
  }
 }
