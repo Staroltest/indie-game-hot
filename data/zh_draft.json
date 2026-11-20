@@ -19672,5 +19672,23 @@
   "zh_oneliner": "历时六个月，核心玩法终于完成，这个包含数千个星系的实时多人太空 4X 游戏现已可以免费游玩。",
   "en_title": "COS-MOS Beta 0.3.0 — Six Months to Build a Universe",
   "en_oneliner": "After six months of work the core gameplay is complete, and this persistent real-time multiplayer space 4X spanning thousands of star systems is now free to play."
+ },
+ "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever": {
+  "zh_title": "《侠盗猎车手 VI》成为史上首发规模最大的游戏",
+  "zh_oneliner": "《GTA VI》首日零售额达 37.9 亿美元、发售前已卖出 3250 万份，创下游戏史上最大首发纪录，独立开发者可以从中一窥 3A 级发行的体量与打法。",
+  "en_title": "Grand Theft Auto VI is now the biggest video game launch in history",
+  "en_oneliner": "GTA VI grossed $3.79 billion in day-one retail sales and sold 32.5 million copies before release, making it the biggest game launch in history — a useful benchmark for indie developers sizing up AAA launch scale."
+ },
+ "https://dev.to/babylone01/fitting-a-78-card-game-on-a-phone-screen-lessons-from-a-french-tarot-app-3pdm": {
+  "zh_title": "把 78 张牌的游戏塞进手机屏幕：法国塔罗应用的经验教训",
+  "zh_oneliner": "作者在开发塔罗牌应用时，把 78 张牌的 3 至 5 人吃墩玩法搬上 6 英寸横屏，分享了手牌排布与界面取舍上的实战经验。",
+  "en_title": "Fitting a 78-card game on a phone screen: lessons from a French tarot app",
+  "en_oneliner": "Building a French tarot app meant squeezing a 78-card trick-taking game onto a 6-inch landscape screen — the author shares hands-on lessons on hand layout and interface trade-offs."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster": {
+  "zh_title": "用这个设置让《GTA 6》里的杰森和露西娅走得更快",
+  "zh_oneliner": "一个让《GTA 6》主角走得更快的操作设置，顺带值得留意 3A 游戏在角色移动速度上的默认调校。",
+  "en_title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+  "en_oneliner": "A movement-speed setting that makes GTA 6's leads walk faster — a small player tip that also hints at how AAA games tune default walking pace."
  }
 }
