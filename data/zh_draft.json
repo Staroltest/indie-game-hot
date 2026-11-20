@@ -18820,5 +18820,59 @@
   "zh_oneliner": "阅文与蹊迹合作的多 IP 电子集换式卡牌手游《群星漫卡》首曝 PV 放出，首发集结《斗罗大陆》等三大国漫 IP。",
   "en_title": "Here it comes: the multi-IP card battler teased at the Yuewen conference finally surfaces",
   "en_oneliner": "Qunxing Manka, a multi-IP digital collectible card game from Qiji Games and Yuewen, has revealed its first trailer, launching with three major Chinese animation IPs including Soul Land."
+ },
+ "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983": {
+  "zh_title": "《E.T.》作者：AI 游戏泛滥堪比 1983 年美国游戏大崩溃前的劣质游戏潮",
+  "zh_oneliner": "雅达利传奇设计师 Howard Scott Warshaw 在 DevGAMM 演讲中警告，如今 AI 生成游戏的井喷与 1983 年崩溃前劣质游戏泛滥如出一辙，提醒开发者警惕质量失控重演历史。",
+  "en_title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
+  "en_oneliner": "In his DevGAMM talk, Atari veteran Howard Scott Warshaw warns that today's flood of AI-made games echoes the glut of poor-quality titles that preceded the 1983 US video game crash, urging developers to watch out for history repeating itself."
+ },
+ "https://80.lv/articles/gamestop-ceo-calls-out-digital-only-releases-amid-gta-6-hype": {
+  "zh_title": "GTA 6 热潮下，GameStop CEO 抨击纯数字版发行",
+  "zh_oneliner": "GameStop 首席执行官直言全面转向数字发行损害了消费者利益，借 GTA 6 的热度重提实体游戏的价值。",
+  "en_title": "GameStop CEO Calls Out Digital-Only Releases Amid GTA 6 Hype",
+  "en_oneliner": "GameStop's CEO argues that the shift to all-digital releases has hurt consumers, using the GTA 6 hype to restate the case for physical games."
+ },
+ "https://www.yystv.cn/p/14656": {
+  "zh_title": "欧洲六国游戏工会联合发布宣言，呼吁玩家支持未使用生成式AI的游戏",
+  "zh_oneliner": "六个欧洲国家的游戏工会联合发表宣言，指出生成式 AI 正在损害游戏行业与从业者，呼吁玩家优先支持未使用生成式 AI 的游戏。",
+  "en_title": "Six European game unions issue joint declaration urging players to support games made without generative AI",
+  "en_oneliner": "Game unions from six European countries issued a joint declaration arguing that generative AI is harming the industry and its workers, and urging players to back games made without it."
+ },
+ "https://www.indiedb.com/games/luddite-church/news/luddite-church-a-carpenter-fired-because-of-ai-starts-an-anti-ai-church-and-takes-it-to-america": {
+  "zh_title": "《Luddite Church》：被 AI 抢走饭碗的木匠创立反 AI 教会，一路传教到美国",
+  "zh_oneliner": "这款免费像素风邪教经营小游戏里，玩家扮演因 AI 失业的木匠，靠摆摊传教、躲避警方搜查，把地下室小教会一路发展成美国大神庙。",
+  "en_title": "Luddite Church: a carpenter fired because of AI starts an anti-AI church and takes it to America",
+  "en_oneliner": "In this free pixel-art cult tycoon game, you play a carpenter fired because of AI who builds an anti-AI church from a basement room into a Grand Temple across America, winning followers and dodging police raids."
+ },
+ "https://dev.to/matto_yanni2_5018bfec28/ternary-logic-explained-through-a-hacking-game-31hh": {
+  "zh_title": "用一款黑客游戏讲明白三值逻辑",
+  "zh_oneliner": "《Vesper Protocol》里的外星机器不用二进制思考，而是用 -1、0、+1 三种状态，这篇教程借游戏谜题讲清三值逻辑的计数与门电路。",
+  "en_title": "Ternary logic explained through a hacking game",
+  "en_oneliner": "In Vesper Protocol, alien machines think in -1, 0 and +1 instead of binary, and this tutorial uses the game's puzzles to explain how to count and build logic gates with three states."
+ },
+ "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html": {
+  "zh_title": "Lisp Game Jam 开发日志：Polydraw",
+  "zh_oneliner": "一篇 Lisp Game Jam 的开发日志，记录了作者用 Lisp 制作游戏 Polydraw 的过程与心得。",
+  "en_title": "Lisp Game Jam devlog: Polydraw",
+  "en_oneliner": "A Lisp Game Jam devlog chronicling the author's process and lessons from building the game Polydraw in Lisp."
+ },
+ "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027": {
+  "zh_title": "传 AMD 下一代 Zen 6 桌面 CPU 延期，或推迟至 2027 年下半年",
+  "zh_oneliner": "有消息称 AMD 下一代 Zen 6 桌面处理器因转向台积电 N2X 工艺而延期，可能要到 2027 年下半年才发布。",
+  "en_title": "AMD's next-gen Zen 6 desktop CPUs are rumoured to be delayed, may be pushed back to second half of 2027",
+  "en_oneliner": "Rumors say AMD's next-gen Zen 6 desktop CPUs may slip to the second half of 2027, with the switch to TSMC's N2X process blamed for the delay."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap": {
+  "zh_title": "玩家发现英伟达驱动每小时向 SSD 写入数十 GB 无用数据，建议立即回滚 621.01",
+  "zh_oneliner": "有玩家发现英伟达新驱动会以每小时数十 GB 的速度对 SSD 做无谓写入，虽然有注册表修复办法，但建议尽快回滚到 621.01 版本。",
+  "en_title": "PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP",
+  "en_oneliner": "Players found Nvidia's latest drivers writing tens of gigabytes per hour of unnecessary data to their SSDs; a registry fix exists, but rolling back to version 621.01 is the safer move."
+ },
+ "https://mobilegamer.biz/assassins-creed-jade-resurfaces-as-invincible-guarding-the-globe-boosts-ubisofts-mobile-earnings": {
+  "zh_title": "《刺客信条 Jade》再现身，移动业务提振育碧财报",
+  "zh_oneliner": "育碧在最新财报中确认仍在推进移动端独占的《刺客信条 Jade》，同时《Invincible: Guarding the Globe》带动了公司移动业务收入。",
+  "en_title": "Assassin's Creed Jade resurfaces as Invincible: Guarding the Globe boosts Ubisoft's mobile earnings",
+  "en_oneliner": "Ubisoft confirmed in its latest financial results that the mobile-exclusive Assassin's Creed Jade is still in the works, while Invincible: Guarding the Globe lifted the company's mobile earnings."
  }
 }
