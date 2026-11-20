@@ -18346,5 +18346,29 @@
   "zh_oneliner": "多人游戏的消息不总发给所有人：作者介绍开源 C++ 联网库 LightnerX 的 Target 抽象，用单发、组发、广播三种模式统一投递接口。",
   "en_title": "One Client, a Group, or Everyone: How I Handle Message Delivery in LightnerX",
   "en_oneliner": "Multiplayer messages don't always go to everyone: the author explains the Target abstraction in LightnerX, an open-source C++ networking library that unifies single, group, and broadcast delivery behind one interface."
+ },
+ "https://www.gcores.com/articles/222561": {
+  "zh_title": "Epic喜加一：《深渊之印》免费领",
+  "zh_oneliner": "Epic 本周免费送出海盗题材银河恶魔城《深渊之印》，11 月 27 日前可领取。",
+  "en_title": "Epic's Free Game of the Week: Mark of the Deep Free to Claim",
+  "en_oneliner": "Epic is giving away the pirate-themed Metroidvania Mark of the Deep for free until November 27."
+ },
+ "https://www.gcores.com/articles/222563": {
+  "zh_title": "安卓模拟器Andarium现已登陆iOS及iPadOS",
+  "zh_oneliner": "安卓模拟器 Andarium 登陆 iOS 与 iPadOS，可在设备本地运行安卓系统并安装 APK，给移动端测试多了一个新选择。",
+  "en_title": "Android Emulator Andarium Now Available on iOS and iPadOS",
+  "en_oneliner": "Android emulator Andarium has landed on iOS and iPadOS, running Android locally and installing APKs — a new option for developers testing on mobile."
+ },
+ "https://dev.to/neural_ethos/after-a-bugfix-only-patch-i-write-the-official-appregulation-version-on-the-weapon-board-and-117g": {
+  "zh_title": "只修 Bug 的补丁之后，我把官方 App/Regulation 版本写在武器面板上，方块保持原样",
+  "zh_oneliner": "《艾尔登法环》1.17.2 只修 Bug 不加内容，作者聊了更新后在武器榜上标注官方版本号、而不重排榜单的小习惯。",
+  "en_title": "After a bugfix-only patch, I write the official App/Regulation version on the weapon board and leave the tiles where they are",
+  "en_oneliner": "Elden Ring 1.17.2 is bug fixes only, so the author notes a small habit: label the weapon board with the official version instead of reshuffling the rankings."
+ },
+ "https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something": {
+  "zh_title": "《乐高城市：卧底密探》开发商 TT Games 正在预热“新东西”",
+  "zh_oneliner": "TT Games 暗示本周有新动向，《乐高城市：卧底密探》的粉丝可以留意后续消息。",
+  "en_title": "LEGO City Undercover's Developer Is Teasing \"Something\"",
+  "en_oneliner": "TT Games is teasing something new this week, and fans of LEGO City Undercover will want to keep an eye out."
  }
 }
