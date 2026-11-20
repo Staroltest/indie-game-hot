@@ -19138,5 +19138,41 @@
   "zh_oneliner": "一篇用游戏化分支对话做销售培训的实践分享：整个模拟通话装进单个静态 HTML 文件、运行时不调模型，对想用分支叙事做非游戏产品的开发者有参考价值。",
   "en_title": "AI workshop for sales teams: how a branching sales call ships as one HTML file",
   "en_oneliner": "A hands-on write-up of a branching sales-call simulation shipped as a single static HTML file with no backend or runtime model calls — of interest to developers using branching narrative outside games."
+ },
+ "https://unity.com/blog/video-game-controls-phone-or-computer": {
+  "zh_title": "手机还是电脑？如何规划你的游戏操作方案",
+  "zh_oneliner": "Unity 官方分六步讲清跨平台操作设计：先理清动作映射，再到真机上测试，适合在写第一行 Unity Spark 提示词之前就定好触屏与手柄两套方案。",
+  "en_title": "Phone or computer? How to plan your video game controls",
+  "en_oneliner": "Unity walks through six steps for planning controls across phone and PC, from mapping actions to testing on real devices — best read before your first Unity Spark prompt."
+ },
+ "https://www.gcores.com/radios/222329": {
+  "zh_title": "非常好品的友情，核市奇谭Vol.130",
+  "zh_oneliner": "这期节目借着一档聊友情的节目热度，盘点了《住宅地的两人》《重启人生》《爆漫王》等描绘友情的作品，适合想从影视里找叙事灵感的开发者当背景音听。",
+  "en_title": "A Very Fine Friendship, GCORES City Oddities Vol.130",
+  "en_oneliner": "Riding the buzz of a recent show about friendship, this episode recommends works that portray it, from Brush Up Life to Bakuman — a good background listen for devs hunting narrative inspiration in film and TV."
+ },
+ "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year": {
+  "zh_title": "类宝可梦《Temtem》的弹幕生存衍生作明年登陆 Switch",
+  "zh_oneliner": "Crema 的《Temtem》衍生作《Temtem: Swarm》玩法更像《吸血鬼幸存者》，2027 年 1 月 21 日登陆 Switch，独立团队做 IP 衍生可以参考它的跨平台节奏。",
+  "en_title": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year",
+  "en_oneliner": "Crema’s Temtem spin-off Temtem: Swarm plays more like Vampire Survivors than Pokémon Unite, and lands on Switch on 21 January 2027 — a useful reference for indie teams planning an IP spin-off across platforms."
+ },
+ "https://news.xbox.com/en-us/2026/11/20/next-week-on-xbox-new-games-for-november-23-to-27": {
+  "zh_title": "下周 Xbox 新游：11 月 23 日至 27 日发售一览",
+  "zh_oneliner": "Xbox 官方每周前瞻，汇总 11 月 23 日至 27 日登陆 Xbox Series X|S、Xbox One、PC 与 Game Pass 的新作，想赶发售窗口的开发者可以对照看看同期竞品。",
+  "en_title": "Next Week on Xbox: New Games for November 23 to 27",
+  "en_oneliner": "Xbox’s weekly preview rounds up the games landing on Xbox Series X|S, Xbox One, PC and Game Pass from November 23 to 27 — worth a scan if you’re timing a launch against the same window."
+ },
+ "https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last": {
+  "zh_title": "GTA 6：首款十亿美元游戏，也可能是最后一款",
+  "zh_oneliner": "GamesIndustry 估算 GTA 6 的制作成本在 10 亿到 20 亿美元之间，是史上最贵的游戏乃至最贵的媒体作品，独立开发者可以借此掂量 3A 成本天花板离自己有多远。",
+  "en_title": "GTA 6: the first billion-dollar game may also be the last",
+  "en_oneliner": "GamesIndustry estimates GTA 6 cost between $1 billion and $2 billion to make — the most expensive game ever, and in fact the most expensive piece of media ever — a useful yardstick for how far the AAA cost ceiling sits from indie budgets."
+ },
+ "https://80.lv/articles/this-cozy-hand-drawn-2d-milk-delivery-sim-from-the-minami-lane-developers-is-out": {
+  "zh_title": "《Minami Lane》团队的手绘治愈送奶模拟游戏已发售",
+  "zh_oneliner": "《Minami Lane》开发团队的新作《Milki Delivery》已发售，玩家带着宠物奶牛在田园乡间经营送奶生意，小体量治愈题材又多了一个可参考的样本。",
+  "en_title": "This Cozy, Hand-Drawn 2D Milk Delivery Sim from the Minami Lane Developers Is Out",
+  "en_oneliner": "The Minami Lane team’s new game Milki Delivery is out: run a dairy delivery business in the countryside with your pet cow — another small, cozy concept for indie devs to study."
  }
 }
