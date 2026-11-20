@@ -19630,5 +19630,29 @@
   "zh_oneliner": "Rockstar 宣布《GTA 6》首日零售额 37.9 亿美元，刷新全娱乐品类的首发纪录，给独立开发者一个衡量市场天花板的最新参照。",
   "en_title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
   "en_oneliner": "Rockstar says GTA 6 grossed $3.79 billion in retail sales on its first day, setting a new record for entertainment launches across any medium — a fresh benchmark for the market ceiling indie developers are working under."
+ },
+ "https://80.lv/articles/gta-6-is-officially-the-biggest-entertainment-launch-in-history": {
+  "zh_title": "GTA 6 正式成为史上最大的娱乐产品首发",
+  "zh_oneliner": "Rockstar 确认 GTA 6 首日零售额近 40 亿美元，超越所有行业的娱乐产品首发纪录，值得独立开发者研究它如何把期待值转化为销量。",
+  "en_title": "GTA 6 is Officially the Biggest Entertainment Launch in History",
+  "en_oneliner": "Rockstar confirmed GTA 6 made nearly $4 billion in estimated retail sales in its first 24 hours, the biggest entertainment launch in history — a case study in turning anticipation into sales."
+ },
+ "https://dev.to/sponsored_posthub_bce237/gta-6-targets-30fps-on-every-console-a-sign-of-where-this-generation-is-headed-4hmf": {
+  "zh_title": "GTA 6 全平台锁定 30 帧：本世代主机的方向标",
+  "zh_oneliner": "GTA 6 在 PS5、PS5 Pro 和 Xbox Series X/S 上全部锁定 30 帧，文章认为这不是偷工减料，而是本世代硬件取舍的真实写照。",
+  "en_title": "GTA 6 Targets 30fps on Every Console — a Sign of Where This Generation Is Headed",
+  "en_oneliner": "GTA 6 targets 30fps on every console, and the piece argues that is a deliberate trade-off rather than laziness — a telling sign of where this console generation is headed."
+ },
+ "https://dev.to/pietroth/iner-a-communication-protocol-that-separates-client-intentions-from-authoritative-server-events-423d": {
+  "zh_title": "INER：把客户端意图与服务器权威事件分开的通信协议",
+  "zh_oneliner": "一位开发者为自己的 C++ 多人游戏设计了 INER 协议，用意图、通知、事件、响应四种消息类型让客户端与服务器的通信各有分工。",
+  "en_title": "INER: A communication protocol that separates client intentions from authoritative server events",
+  "en_oneliner": "A developer shares INER, a protocol built for a C++ multiplayer game that splits communication into intention, notification, event and response messages so clients and servers each have a clear role."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch": {
+  "zh_title": "21% 的 Rockstar 员工在职超 10 年，这解释了 GTA 6 的成功",
+  "zh_oneliner": "超过两成的 Rockstar 员工已在公司工作 10 年以上，文章认为留住懂行的人，正是做出成功游戏的关键。",
+  "en_title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+  "en_oneliner": "Over a fifth of Rockstar's staff have been with the company for more than a decade — the piece argues that holding on to people who know how is what makes hits like GTA 6 possible."
  }
 }
