@@ -19654,5 +19654,23 @@
   "zh_oneliner": "超过两成的 Rockstar 员工已在公司工作 10 年以上，文章认为留住懂行的人，正是做出成功游戏的关键。",
   "en_title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
   "en_oneliner": "Over a fifth of Rockstar's staff have been with the company for more than a decade — the piece argues that holding on to people who know how is what makes hits like GTA 6 possible."
+ },
+ "https://www.indiedb.com/games/depth-0/news/depth-0-040": {
+  "zh_title": "DEPTH 0 0.4.0 版本更新",
+  "zh_oneliner": "第一章与“那东西”的遭遇战经过重做，一扇破损的钢门在通风管道中开出一条新路线。",
+  "en_title": "DEPTH 0 — 0.4.0",
+  "en_oneliner": "The Chapter 1 showdown with the Thing gets a rework, while a breached steel door opens a new path through the ventilation galleries."
+ },
+ "https://www.indiedb.com/games/steel-and-rubble-line-of-contact/news/version-925-is-out-mission-and-map-editor": {
+  "zh_title": "9.25 版本发布，新增任务与地图编辑器",
+  "zh_oneliner": "9.25 版本带来多项改进，并加入任务编辑器与地图编辑器，方便玩家自己设计关卡与战役。",
+  "en_title": "Version 9.25 is out + Mission and Map Editor",
+  "en_oneliner": "Version 9.25 ships assorted improvements plus a mission editor and a map editor for building your own scenarios."
+ },
+ "https://www.indiedb.com/games/cos-mos/news/cos-mos-beta-030-six-months-to-build-a-universe": {
+  "zh_title": "COS-MOS Beta 0.3.0：用六个月造一个宇宙",
+  "zh_oneliner": "历时六个月，核心玩法终于完成，这个包含数千个星系的实时多人太空 4X 游戏现已可以免费游玩。",
+  "en_title": "COS-MOS Beta 0.3.0 — Six Months to Build a Universe",
+  "en_oneliner": "After six months of work the core gameplay is complete, and this persistent real-time multiplayer space 4X spanning thousands of star systems is now free to play."
  }
 }
