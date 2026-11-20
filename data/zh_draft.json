@@ -18466,5 +18466,41 @@
   "zh_oneliner": "微软把 DirectX 12 性能分析与调试工具 PIX 更新到 2611.19 版，继续服务 64 位 Windows 上的图形调试工作流。",
   "en_title": "Microsoft PIX 2611.19",
   "en_oneliner": "Microsoft updated PIX, its DirectX 12 performance profiling and debugging tool, to version 2611.19, continuing support for graphics debugging workflows on 64-bit Windows."
+ },
+ "https://dev.to/aralie/my-bot-was-losing-while-winning-a-12-replay-forensic-on-battletraining-v9-jda": {
+  "zh_title": "我的机器人明明在赢却在输：用 12 场回放逐帧复盘 battle.training v9",
+  "zh_oneliner": "作者把坦克对战机器人卡在天梯中段的问题，靠逐帧重跑 12 场真实回放定位到 v9 的改动点，这套确定性回放取证法对任何确定性游戏的 AI 调试都适用。",
+  "en_title": "My Bot Was Losing While Winning: A 12-Replay Forensic on battle.training v9",
+  "en_oneliner": "The author traced a tank-battle bot stuck mid-ladder by re-simulating 12 real replays tick by tick to find what v9 changed, a deterministic-replay forensics method that works for debugging AI in any deterministic game."
+ },
+ "http://www.gamelook.com.cn/2026/11/606884": {
+  "zh_title": "网易Q3游戏收入223亿元，管理层：短剧爆发对游戏业有影响，AI助力游戏玩法多元化",
+  "zh_oneliner": "网易三季度游戏收入 223 亿元，管理层在财报会上谈到短剧热潮对游戏行业的冲击，以及 AI 如何让玩法变得更多元。",
+  "en_title": "NetEase Q3 Games Revenue Hits RMB 22.3 Billion; Management Says Short-Drama Boom Is Affecting Games and AI Is Diversifying Gameplay",
+  "en_oneliner": "NetEase reported RMB 22.3 billion in Q3 games revenue, with management discussing how the short-drama boom is rippling into games and how AI is making gameplay more varied."
+ },
+ "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes": {
+  "zh_title": "《异度神剑 3》3.0.0 版本现已上线，补丁说明一览",
+  "zh_oneliner": "为 12 月 3 日发售的 Switch 2 版预热，任天堂先行推送 3.0.0 更新，Switch 原版玩家在玩法上不会感受到变化。",
+  "en_title": "Xenoblade Chronicles 3 Version 3.0.0 Is Now Live, Here Are The Patch Notes",
+  "en_oneliner": "Ahead of the Switch 2 Edition launching on December 3, Nintendo has rolled out the 3.0.0 update, with no gameplay changes for players on the original Switch."
+ },
+ "https://www.youxituoluo.com/535079.html": {
+  "zh_title": "一款“假”整理游戏登顶免费榜：为什么年轻人都想当赛博整理师？",
+  "zh_oneliner": "《超级整理师》靠找物消除玩法登顶免费榜，文章借此拆解“整理”题材如何从独立游戏的收纳乐趣演变成一门可复用的流量生意。",
+  "en_title": "A \"Fake\" Organizing Game Tops the Free Chart: Why Do Young Players Want to Be Cyber Organizers?",
+  "en_oneliner": "Super Organizer topped the free chart with a find-and-match elimination loop, and the piece traces how the \"organizing\" theme evolved from indie tidying games into a reusable traffic formula."
+ },
+ "https://www.indiedb.com/games/neolithicto-the-end/news/dd305-breach-the-blackwall": {
+  "zh_title": "开发日志 #305：突破黑墙",
+  "zh_oneliner": "本期开发日志带来 GER 编辑器的氛围编程 RPG Maker 事件支持、跨项目事件复制与合并工具，以及新的随机事件、信条系统和净化任务模板。",
+  "en_title": "DD#305 Breach the Blackwall",
+  "en_oneliner": "This dev diary adds vibe-coded RPG Maker event support to the GER Editor, cross-project event copy and merge tools, plus new random events, a dynamic tenet system and a purge mission template."
+ },
+ "https://www.indiedb.com/games/washiki-washoi/news/washiki-washoi-10-released": {
+  "zh_title": "《Washiki Washoi!》1.0 正式发布",
+  "zh_oneliner": "这款免费快节奏竞技场射击游戏 1.0 版上线，支持浏览器与 Windows、macOS、Linux，包含四种模式、十七张地图、剧情战役、AI 对手和精彩回放。",
+  "en_title": "Washiki Washoi! 1.0 released!",
+  "en_oneliner": "The free, fast arena FPS hits 1.0 in the browser and on Windows, macOS and Linux, with four modes, seventeen arenas, a story campaign, AI opponents and highlight reels."
  }
 }
