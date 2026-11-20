@@ -18874,5 +18874,77 @@
   "zh_oneliner": "育碧在最新财报中确认仍在推进移动端独占的《刺客信条 Jade》，同时《Invincible: Guarding the Globe》带动了公司移动业务收入。",
   "en_title": "Assassin's Creed Jade resurfaces as Invincible: Guarding the Globe boosts Ubisoft's mobile earnings",
   "en_oneliner": "Ubisoft confirmed in its latest financial results that the mobile-exclusive Assassin's Creed Jade is still in the works, while Invincible: Guarding the Globe lifted the company's mobile earnings."
+ },
+ "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m": {
+  "zh_title": "《刺客信条：黑旗 重制版》带动育碧第二季度净预订超预期，上半年仍下滑 16.5% 至 6.45 亿欧元",
+  "zh_oneliner": "重制版的强劲表现让育碧二季度净预订达到 3.89 亿欧元、高于预期，但上半年整体收入仍同比下滑，提醒独立开发者：单款爆款能救一个季度，却救不了一整年。",
+  "en_title": "Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m",
+  "en_oneliner": "The remake pushed Ubisoft's Q2 net bookings to €389m, beating guidance, yet first-half revenue still fell 16.5% — a reminder that one hit can save a quarter but not a whole year."
+ },
+ "http://www.chuapp.com/article/291775.html": {
+  "zh_title": "公司余额已不足一份《GTA 6》：一家独游工作室的梭哈时刻",
+  "zh_oneliner": "以《GTA 6》超 10 亿美元的开发成本为引，对照《星露谷物语》等独立游戏的体量，聊一款游戏的钱从哪来、花到哪去，适合正在做预算规划的开发者读一读。",
+  "en_title": "Broke to less than the price of one GTA 6: an indie studio's all-in moment",
+  "en_oneliner": "Using GTA 6's reported $1bn-plus budget as a yardstick, this piece compares it with the teams behind Stardew Valley and Hollow Knight and walks through where a game's money comes from and where it goes."
+ },
+ "https://www.yystv.cn/p/14657": {
+  "zh_title": "100%好评的平台跳跃新游，融入了不杀生的“射击”？",
+  "zh_oneliner": "从《毛线卡比》到《VVVVVV》，这篇拆解了平台跳跃游戏如何不断重定义“跳跃”本身，以及不杀生的射击机制怎样为关卡设计打开新空间。",
+  "en_title": "A 100%-rated new platformer blends in 'shooting' without killing",
+  "en_oneliner": "From Yoshi's Woolly World to VVVVVV, this piece breaks down how platformers keep redefining jumping itself — and how a non-lethal shooting mechanic opens up fresh room for level design."
+ },
+ "https://dev.to/akbargul/rivals-season-4-part-2-lands-tonight-new-weapon-new-gamemode-and-the-map-called-brawl-5b8l": {
+  "zh_title": "《RIVALS》第四赛季第二阶段今晚上线：新武器、新模式与新地图 Brawl",
+  "zh_oneliner": "Roblox 热门射击游戏《RIVALS》第四赛季迎来重头更新，今晚同步上线新武器、新模式与新地图，值得关注头部 Roblox 游戏的赛季更新节奏。",
+  "en_title": "RIVALS Season 4 Part 2 Lands Tonight — New Weapon, New Gamemode, and the Map Called Brawl",
+  "en_oneliner": "The hit Roblox shooter RIVALS gets its headline Season 4 drop tonight — a new weapon, a new mode and the map Brawl — a useful look at how top Roblox games pace their seasonal updates."
+ },
+ "https://dev.to/juegostudiosofficial/locking-binary-assets-when-a-co-development-team-joins-mid-project-a-version-control-checklist-4l2o": {
+  "zh_title": "合作开发团队中途加入时如何锁定二进制资产：一份版本控制清单",
+  "zh_oneliner": "代码合并早已不是难题，真正容易翻车的是场景、预制体、贴图等二进制文件，这份清单讲清楚多人协作时如何避免互相覆盖。",
+  "en_title": "Locking Binary Assets When a Co-Development Team Joins Mid-Project: A Version Control Checklist",
+  "en_oneliner": "Code merges are a solved problem — the real risk in co-development is binary files like scenes, prefabs and textures, and this checklist shows how to stop teammates overwriting each other's work."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with": {
+  "zh_title": "《魔兽世界：Forever》开发者谈独特趣味道具：“还有很多玩家没见过的东西”",
+  "zh_oneliner": "这位开发者聊了为《魔兽世界：Forever》加入的独特趣味道具，独立开发者能从中看到大厂老项目如何用小巧思留住玩家。",
+  "en_title": "'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'",
+  "en_oneliner": "The developer talks about the unique, fun items coming to WoW: Forever — a peek at how a veteran team keeps a long-running game fresh with small ideas."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs": {
+  "zh_title": "《GTA 6》里怎么修栏杆",
+  "zh_oneliner": "露西娅到来之前，先帮杰森把家里的栏杆修好——一篇纯玩法向的小指南，顺带能看到《GTA 6》生活化细节的处理方式。",
+  "en_title": "How to fix the railing in GTA 6",
+  "en_oneliner": "A short gameplay guide to fixing Jason's railing before Lucia arrives — mostly a how-to, but it also shows how GTA 6 handles its domestic, lived-in details."
+ },
+ "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto": {
+  "zh_title": "《GTA 6》首日销量惊人：预计近 2500 万份、收入约 25 亿美元，此前 20 亿美元的首周末预测已显保守",
+  "zh_oneliner": "估计首日近 2500 万份、约 25 亿美元进账，《GTA 6》的开局甚至超出了此前最乐观的预测，堪称游戏史上最强的发售表现。",
+  "en_title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+  "en_oneliner": "An estimated 25 million copies and roughly $2.5bn in a single day — GTA 6's launch has outrun even the boldest forecasts, setting a new benchmark for opening-day sales."
+ },
+ "https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth": {
+  "zh_title": "腾讯向《金铲铲之战》电竞与增长投入 1.5 亿美元",
+  "zh_oneliner": "注册用户突破 2.4 亿后，腾讯宣布三年内向《金铲铲之战》投入 1.5 亿美元，押注这款自走棋手游的电竞化与长期增长。",
+  "en_title": "Tencent commits $150m to Battle of Golden Spatula esports and growth",
+  "en_oneliner": "With 240 million registered users, Tencent is putting $150m behind Battle of Golden Spatula over three years, betting on the auto chess game's esports push and long-term growth."
+ },
+ "https://www.pocketgamer.biz/tencent-takes-269-stake-in-beijing-jiangxin-interactive-entertainment-4193182": {
+  "zh_title": "腾讯入股北京江娱互动 26.9% 股份",
+  "zh_oneliner": "腾讯继续加码休闲游戏赛道，拿下北京江娱互动近 27% 的股份，值得留意大厂在休闲品类的布局动向。",
+  "en_title": "Tencent takes 26.9% stake in Beijing Jiangxin Interactive Entertainment",
+  "en_oneliner": "Tencent keeps expanding in casual games, taking a 26.9% stake in Beijing Jiangxin Interactive Entertainment."
+ },
+ "https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify": {
+  "zh_title": "Roblox 面临参议院听证会，多名自称受害者就平台儿童安全问题作证",
+  "zh_oneliner": "美国参议院小组委员会就 Roblox 的儿童安全风险举行听证，多名自称受害者出庭作证，平台治理与合规压力再度升级。",
+  "en_title": "Roblox faces Senate hearing as alleged grooming survivors testify",
+  "en_oneliner": "At a US Senate subcommittee hearing, people who say they were groomed on Roblox testified about the platform's child-safety risks, raising the pressure on its moderation and compliance."
+ },
+ "https://mobilegamer.biz/new-game-digest-superplay-and-playtikas-next-games-new-nintendo-apps-spirit-crossing-more": {
+  "zh_title": "新游速递：SuperPlay 与 Playtika 的新作、任天堂新应用、《Spirit Crossing》等",
+  "zh_oneliner": "一周新游动态合集，涵盖 SuperPlay 与 Playtika 的下一款作品、任天堂的新应用以及《Spirit Crossing》，快速扫一眼最近的手游风向。",
+  "en_title": "New game digest: SuperPlay and Playtika’s next games, new Nintendo apps, Spirit Crossing, more",
+  "en_oneliner": "A weekly roundup of new games, from SuperPlay and Playtika's next titles to new Nintendo apps and Spirit Crossing — a quick scan of where mobile games are heading."
  }
 }
