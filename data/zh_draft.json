@@ -19174,5 +19174,83 @@
   "zh_oneliner": "《Minami Lane》开发团队的新作《Milki Delivery》已发售，玩家带着宠物奶牛在田园乡间经营送奶生意，小体量治愈题材又多了一个可参考的样本。",
   "en_title": "This Cozy, Hand-Drawn 2D Milk Delivery Sim from the Minami Lane Developers Is Out",
   "en_oneliner": "The Minami Lane team’s new game Milki Delivery is out: run a dairy delivery business in the countryside with your pet cow — another small, cozy concept for indie devs to study."
+ },
+ "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen": {
+  "zh_title": "《Control Resonant》主角是“忧郁的落汤鸡”吗？对话创意总监 Mikael Kasurinen",
+  "zh_oneliner": "创意总监 Mikael Kasurinen 聊了聊《Control Resonant》开发中那些艰难抉择背后的思考。",
+  "en_title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+  "en_oneliner": "Creative director Mikael Kasurinen talks through the tough calls behind Control Resonant's development."
+ },
+ "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand": {
+  "zh_title": "Ampere 分析：超 100 万英美 Xbox 玩家改区新西兰提前玩上 GTA 6",
+  "zh_oneliner": "Ampere Analysis 的数据显示，超过一百万名英美 Xbox 玩家通过把地区切换到新西兰，赶在正式发售前玩上了 GTA 6。",
+  "en_title": "Ampere Analysis: Over 1m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
+  "en_oneliner": "Ampere Analysis reports that over a million Xbox players in the UK and US jumped into GTA 6 early by switching their region to New Zealand."
+ },
+ "https://www.indiedb.com/games/reincarnation-100-idle-rpg/news/update-1155-tomorrows-chest-and-a-free-way-back-after-a-fall": {
+  "zh_title": "《Reincarnation 100》1.15.5 更新：明日宝箱与免费复活回归",
+  "zh_oneliner": "放置 RPG《Reincarnation 100》的 1.15.5 版本上线，每日奖励前三次可为次日封存宝箱，跌落之后也有免费返回的办法。",
+  "en_title": "Update 1.15.5: Tomorrow's Chest and a free way back after a fall",
+  "en_oneliner": "Idle RPG Reincarnation 100's 1.15.5 update seals a chest for the next day with each of the first three daily rewards and adds a free way back after a fall."
+ },
+ "https://www.indiedb.com/games/pen-army/news/pen-army-is-out-on-itchio-draw-your-army-and-watch-it-fight": {
+  "zh_title": "《Pen Army》登陆 itch.io：画出你的军队，看它开战",
+  "zh_oneliner": "涂鸦策略小品《Pen Army》已上架 itch.io，玩家随手画出的每一笔都会变成士兵的肢体或武器，再派它们迎战橡皮大军。",
+  "en_title": "Pen Army is out on itch.io - draw your army and watch it fight",
+  "en_oneliner": "Pen Army is out on itch.io: every stroke you draw becomes a soldier's limb or weapon, and your doodle army fights off an invasion of angry erasers."
+ },
+ "https://www.indiedb.com/games/dhitd-down-here-in-the-dark/news/two-doors-in-your-browser-or-a-telnet-line": {
+  "zh_title": "《Down Here in the Dark》双入口：浏览器免费玩，或 telnet 连 BBS",
+  "zh_oneliner": "成人向恐怖门游戏《Down Here in the Dark》现在有两种玩法：浏览器免费直玩，或用 telnet 连进它的 BBS，同一账号、同一角色。",
+  "en_title": "Two doors in: your browser, or a telnet line",
+  "en_oneliner": "The 18+ horror door game DHITD now has two ways in: free in any browser, or by telnet to its own BBS, with the same account and character either way."
+ },
+ "https://www.indiedb.com/games/box-of-cards/news/box-of-cards-free-party-game-now-on-android-windows-and-discord": {
+  "zh_title": "免费派对游戏《Box of Cards》登陆安卓、Windows 与 Discord",
+  "zh_oneliner": "免费在线派对游戏《Box of Cards》历经四年业余开发，如今登上 Google Play、微软商店，还能在 Discord 里直接开玩。",
+  "en_title": "Box of Cards: free party game, now on Android, Windows and Discord",
+  "en_oneliner": "Free party game Box of Cards, four years in the making in its creator's spare time, is now on Google Play, the Microsoft Store and Discord."
+ },
+ "https://dev.to/pavel_kleschenok_6548f96a/offline-phone-games-the-server-can-still-trust-we-replay-every-game-on-the-backend-2oem": {
+  "zh_title": "离线手机游戏如何让服务器信任：后端重放每一局",
+  "zh_oneliner": "作者把电视当屏幕、手机当手柄的派对游戏站扩展出单手小游戏合集，并用后端重放每一局的办法解决离线作弊问题。",
+  "en_title": "Offline phone games the server can still trust: we replay every game on the backend",
+  "en_oneliner": "The maker of a TV-screen party-game site built a one-handed mobile collection and explains how replaying every game on the backend keeps offline play trustworthy."
+ },
+ "https://dev.to/hex_builder/roblox-thumbnail-size-how-to-check-game-thumbnails-and-icons-le9": {
+  "zh_title": "Roblox 缩略图尺寸：如何检查游戏缩略图与图标",
+  "zh_oneliner": "一张 Roblox 缩略图全尺寸看着清晰，缩成小卡片却可能糊成一团，本文讲了怎么按真实尺寸检查它是否依然可读。",
+  "en_title": "Roblox Thumbnail Size: How to Check Game Thumbnails and Icons",
+  "en_oneliner": "A Roblox thumbnail can look sharp at full size and unreadable once shrunk to a game card, so this guide shows how to check it at realistic sizes."
+ },
+ "https://dev.to/aplusgamesstudio/game-uiux-design-cost-screens-hud-and-budget-1im5": {
+  "zh_title": "游戏 UI/UX 设计成本：界面、HUD 与预算",
+  "zh_oneliner": "超休闲游戏 5 到 8 个界面约 1500 至 5000 美元，中重度手游 20 到 40 个界面约 8000 至 25000 美元，界面数量与改动时机决定了账单。",
+  "en_title": "Game UI/UX Design Cost: Screens, HUD and Budget",
+  "en_oneliner": "UI/UX design for a hyper-casual game runs about $1,500 to $5,000, while a mid-core mobile game with 20 to 40 screens costs roughly $8,000 to $25,000, with screen count and late changes driving the bill."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much": {
+  "zh_title": "GTA 6 终于解开了长达五年的 UFO 小屋之谜，但有个 NPC 知道得太多了",
+  "zh_oneliner": "《GTA 6》揭开了困扰玩家五年的 UFO 小屋谜团，而一位 NPC 的台词似乎还藏着更多内情。",
+  "en_title": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much",
+  "en_oneliner": "GTA 6 finally solves the five-year UFO house mystery, though one NPC seems to know a little too much."
+ },
+ "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5": {
+  "zh_title": "不到一小时，我就在 GTA 6 里找到了第一个微小彩蛋，它对 Leonida 意味深长",
+  "zh_oneliner": "作者开局不到一小时就发现了一个不起眼的 Rockstar 彩蛋，它暗示了 GTA 6 与 GTA 5 世界之间的联系。",
+  "en_title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
+  "en_oneliner": "Less than an hour in, the author spotted a tiny Rockstar easter egg that hints at how GTA 6's world connects to GTA 5."
+ },
+ "https://dev.to/dolphin_studio_ddd7da97a2/summarising-a-snapshot-of-new-roblox-games-with-40-lines-of-standard-library-python-4llm": {
+  "zh_title": "用 40 行标准库 Python 速览一批新 Roblox 游戏的数据",
+  "zh_oneliner": "作者抓了一份新 Roblox 游戏的快照，只用 Python 标准库写了 40 行脚本，快速算出新游的玩家数分布与头部集中度。",
+  "en_title": "Summarising a snapshot of new Roblox games with 40 lines of standard-library Python",
+  "en_oneliner": "The author saved a snapshot of new Roblox games as a CSV and summarised player counts and hit concentration with a 40-line script using only Python's standard library."
+ },
+ "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe": {
+  "zh_title": "塞尔达可吹奏陶笛与电动陶笛欧洲首发仅限受邀购买",
+  "zh_oneliner": "任天堂的可吹奏陶笛与 HORI 电动陶笛即将在欧洲开售，但首批只对通过审核、登记过意向的受邀买家开放。",
+  "en_title": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
+  "en_oneliner": "Nintendo's playable ocarina and HORI's electric version are about to go on sale in Europe, but first sales are invite-only for buyers who registered interest and passed the criteria."
  }
 }
