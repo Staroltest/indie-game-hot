@@ -3785,7 +3785,8 @@ def build_geo_audit(site, root, site_url, today_iso):
     missing = sorted(f"{site_url}/{p}" for p in html_files
                      if f"{site_url}/{p}" not in sm_locs
                      and not (p == "index.html" and f"{site_url}/" in sm_locs)
-                     and not (p == "en/index.html" and f"{site_url}/en/" in sm_locs))
+                     and not (p == "en/index.html" and f"{site_url}/en/" in sm_locs)
+                     and not re.fullmatch(r"google[0-9a-f]+\.html", p))
     if sitemap and not missing:
         _check("sitemap", "sitemap.xml 条数与漏页", "pass",
                f"共 {len(sm_locs)} 条 URL，磁盘 {len(html_files)} 个 HTML 页全部在列")
