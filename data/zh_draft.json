@@ -19438,5 +19438,23 @@
   "zh_oneliner": "一项新的职场行为调查指控英伟达联合创始人黄仁勋数十年来存在霸凌与言语虐待，背景是他近期因婚外情曝光后辞职。",
   "en_title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
   "en_oneliner": "A new investigation into the workplace conduct of Nvidia co-founder Jensen Huang, who recently resigned after extramarital affairs came to light, alleges decades of harassment and verbal abuse."
+ },
+ "https://dev.to/samellis/the-hard-part-of-a-photo-based-city-game-is-the-imagery-not-the-app-3bic": {
+  "zh_title": "拍照寻宝类城市游戏最难的不是 App，而是图片",
+  "zh_oneliner": "做照片寻宝游戏时，App 本身最简单，真正的难点在图片：每个关卡都依赖一张真实存在、不过时、且站在街上能拍到的照片，作者总结了覆盖、时效与取景三类坑。",
+  "en_title": "The hard part of a photo-based city game is the imagery, not the app",
+  "en_oneliner": "When building a photo-based scavenger hunt, the app itself is the easy part — the real difficulty is the imagery: every stop depends on a photo that actually exists, is still current, and was taken from somewhere a player can stand, and the author walks through the three pitfalls of coverage, staleness, and framing."
+ },
+ "https://dev.to/samellis/how-we-scout-a-city-on-foot-before-we-build-a-scavenger-hunt-in-it-265h": {
+  "zh_title": "在把一座城市做成寻宝游戏之前，我们先徒步踩点",
+  "zh_oneliner": "作者分享实地踩点的经验：一个合格的寻宝点必须从街上看得见、拍得清、站得下，人行道宽度、无障碍通行与过街安全这些枯燥的约束才是决定游戏体验的关键。",
+  "en_title": "How we scout a city on foot before we build a scavenger hunt in it",
+  "en_oneliner": "The author shares lessons from scouting cities on foot: a good scavenger-hunt stop must be visible from the street, photographable, and somewhere a player can actually stand, and dull constraints like pavement width, step-free access, and safe crossings are what decide whether the hunt feels good."
+ },
+ "https://dev.to/imageto3d/turning-photos-into-3d-models-in-the-browser-how-image-to-3d-works-522b": {
+  "zh_title": "在浏览器里把照片变成 3D 模型：Image to 3D 是怎么工作的",
+  "zh_oneliner": "工具作者自述：上传一张照片，生成模型约 40 秒出带纹理的网格，全程在浏览器完成，可导出 GLB、OBJ 或 STL 直接进 Blender、Unity 或 Three.js，每天免费试用两次。",
+  "en_title": "Turning Photos into 3D Models in the Browser: How Image to 3D Works",
+  "en_oneliner": "The tool's author explains it first-hand: upload one photo and a generative model returns a textured mesh in about 40 seconds, all in the browser, exportable as GLB, OBJ, or STL straight into Blender, Unity, or Three.js, with two free previews a day."
  }
 }
