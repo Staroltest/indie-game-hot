@@ -18634,5 +18634,35 @@
   "zh_oneliner": "从一次玩家报 bug 的经历讲起，拆解双陆棋里打子、进吧和大骰子先行的规则，分享用 JavaScript 实现的思路。",
   "en_title": "Bar, blots and the larger-die rule: how I coded backgammon in JavaScript",
   "en_oneliner": "Starting from a player report that the game was \"broken\", it unpacks backgammon’s bar, blot and larger-die rules and how to implement them in JavaScript."
+ },
+ "https://80.lv/articles/gta-6-developers-are-worried-about-possible-layoffs-after-the-game-ships": {
+  "zh_title": "GTA 6 开发者担忧游戏发售后可能裁员",
+  "zh_oneliner": "GTA 6 发售在即，开发者坦言虽未收到裁员信号，却难免为团队的未来担忧。",
+  "en_title": "GTA 6 Developers Are Worried About Possible Layoffs After the Game Ships",
+  "en_oneliner": "With GTA 6 about to ship, developers say no layoffs have been signalled, yet worry about the team's future is hard to shake."
+ },
+ "https://gamedev.net/blogs/entry/2298692-onboarding-offshore-unity-developers-in-india-an-eight-point-first-sprint-pack": {
+  "zh_title": "在印度组建外包 Unity 开发团队：首个冲刺的八点上手指南",
+  "zh_oneliner": "把印度外包 Unity 开发者并入已有项目已成常态，这篇八点清单帮团队在第一个冲刺就跑顺流程。",
+  "en_title": "Onboarding Offshore Unity Developers in India: An Eight-Point First-Sprint Pack",
+  "en_oneliner": "Adding offshore Unity developers in India to an existing project is now routine — this eight-point pack helps teams get the first sprint running smoothly."
+ },
+ "https://www.gcores.com/radios/222584": {
+  "zh_title": "你什么皮肤？录音笔VOL.830",
+  "zh_oneliner": "机核办公室日常碎碎念节目，聊聊大伙儿最近在折腾什么。",
+  "en_title": "What Skin Are You Wearing? Recording Pen Vol. 830",
+  "en_oneliner": "A short Gcores office-life audio show — casual chatter about what the team has been up to lately."
+ },
+ "https://www.gcores.com/articles/222559": {
+  "zh_title": "《终焉车站 暮色版》确认登陆NS，实体版现已开放预订",
+  "zh_oneliner": "个人开发者 viv 的 2D 探索恐怖冒险游戏《终焉车站 暮色版》将于 2027 年 3 月 25 日登陆 Switch，实体版已开放预订，还将在 WePlay Expo 2026 提供试玩。",
+  "en_title": "Terminal Station: Dusk Edition Confirmed for Nintendo Switch, Physical Edition Now Open for Pre-order",
+  "en_oneliner": "Solo developer viv's 2D exploration horror adventure Terminal Station: Dusk Edition comes to Switch on March 25, 2027, with the physical edition open for pre-order and a playable demo at WePlay Expo 2026."
+ },
+ "https://www.yystv.cn/p/14655": {
+  "zh_title": "GTA6上线后，大家也太讲文明了吧？",
+  "zh_oneliner": "GTA6 发售拿下 99 分，主播们却在玩另一场挑战：文明游玩还不被封号。",
+  "en_title": "After GTA 6 Launched, Everyone Suddenly Got So Polite?",
+  "en_oneliner": "GTA 6 launched to a 99 Metacritic score, but the real show is streamers trying to play it politely without getting banned."
  }
 }
