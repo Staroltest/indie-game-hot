@@ -20434,5 +20434,53 @@
   "zh_oneliner": "下周上线的 Resonance 更新带来全新捉鬼装备与更多语音指令，游戏也将迁移到 Unity 6 引擎。",
   "en_title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
   "en_oneliner": "The Resonance update lands next week with new ghost-hunting gear, more voice commands, and a move to the Unity 6 engine."
+ },
+ "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan": {
+  "zh_title": "小时候我家阁楼里没有怪物，只有一套局域网",
+  "zh_oneliner": "一篇怀旧随笔，讲童年阁楼里的局域网如何成了最早的联机游戏记忆。",
+  "en_title": "As a kid, I didn't have a monster in my attic, I had a LAN",
+  "en_oneliner": "A nostalgic essay on how the LAN in the childhood attic became an early memory of playing games together."
+ },
+ "https://gamefromscratch.com/mesh2motion-adds-props-weight-painting-and-more": {
+  "zh_title": "Mesh2Motion 新增道具、权重绘制等功能",
+  "zh_oneliner": "免费开源的 Mixamo 替代品迎来第 14 次更新，角色可以拿道具了，还补上了权重绘制等动画流程改进。",
+  "en_title": "Mesh2Motion Adds Props, Weight Painting and More",
+  "en_oneliner": "The free open-source Mixamo alternative gets its 14th update, letting characters hold props and adding weight painting and other animation workflow improvements."
+ },
+ "https://dev.to/poopleunlimited/modelling-a-daily-word-ladder-as-a-graph-3d7k": {
+  "zh_title": "把每日单词阶梯谜题建模成图",
+  "zh_oneliner": "把单词阶梯看作图问题后，词库取舍、谜题可达性这些产品决策都有了清晰的解法，适合想做每日谜题类小游戏的开发者参考。",
+  "en_title": "Modelling a Daily Word Ladder as a Graph",
+  "en_oneliner": "Treating a word ladder as a graph problem turns word-list choices and puzzle reachability into clear design decisions — a useful reference for anyone building a daily puzzle game."
+ },
+ "https://dev.to/zentaolabs/check-that-an-osu-skins-ranking-screen-files-are-all-present-with-python-2d4j": {
+  "zh_title": "用 Python 检查 osu! 皮肤结算界面文件是否齐全",
+  "zh_oneliner": "一个只用标准库的 Python 小脚本，扫描皮肤文件夹并列出结算界面缺了哪些贴图，帮皮肤作者避免漏改默认素材。",
+  "en_title": "Check that an osu! skin's ranking screen files are all present with Python",
+  "en_oneliner": "A small Python script using only the standard library scans a skin folder and lists which ranking-screen sprites are missing, so skin authors stop shipping half-default art."
+ },
+ "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch": {
+  "zh_title": "没接 Wii 也没关系：20 款能在 Switch 上玩到的 Wii 游戏",
+  "zh_oneliner": "盘点 20 款已在 Switch 上推出高清重制版的 Wii 游戏，给想重温老游戏的玩家一份现成清单。",
+  "en_title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
+  "en_oneliner": "A roundup of 20 Wii games that have made it to Switch in HD remastered form, a ready-made list for players wanting to revisit the old catalogue."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement": {
+  "zh_title": "GTA 6 里最不可饶恕的罪行，是那台电视的摆放位置",
+  "zh_oneliner": "一篇轻松吐槽，盯着 GTA 6 预告里主角小屋那台挡住落地玻璃门的电视不放。",
+  "en_title": "The most unforgivable crime in GTA 6 is that TV placement",
+  "en_oneliner": "A light-hearted gripe about the TV in the GTA 6 trailer's beach house blocking the giant glass door."
+ },
+ "https://dev.to/seethefutureco/how-we-built-a-zero-framework-daily-competitive-browser-gaming-platform-with-server-replayed-gi1": {
+  "zh_title": "我们如何用零框架打造每日竞技浏览器游戏平台，并用服务端重放做反作弊",
+  "zh_oneliner": "一个零前端框架、零构建步骤的每日竞技浏览器游戏平台复盘，讲即时可玩与服务端重放反作弊是怎么落地的。",
+  "en_title": "How We Built a Zero-Framework Daily Competitive Browser Gaming Platform with Server-Replayed Anti-Cheat",
+  "en_oneliner": "A write-up of a daily competitive browser gaming platform built with zero frontend frameworks and zero build steps, covering instant play and server-replayed anti-cheat."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code": {
+  "zh_title": "GTA 6 里如何找到 Avery 当铺保险箱的密码",
+  "zh_oneliner": "一篇速查攻略，告诉玩家去哪找 Avery 当铺保险箱的密码，省得自己满地图翻。",
+  "en_title": "How to find the Avery Pawn Shop safe code in GTA 6",
+  "en_oneliner": "A quick guide on where to find the Avery Pawn Shop safe code, so players don't have to hunt across the map themselves."
  }
 }
