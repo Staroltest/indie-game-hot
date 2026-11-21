@@ -20410,5 +20410,29 @@
   "zh_oneliner": "通过音效、动画、操作手感与进度设计，让一款小型 Three.js 游戏玩起来像个完整作品，值得独立开发者借鉴打磨思路。",
   "en_title": "Songs of Hyrule: making a small Three.js game feel complete",
   "en_oneliner": "How sound, animation, controls and progression can make a small Three.js game feel complete — a polish-focused dev story worth studying."
+ },
+ "https://dev.to/freema/rivers-that-cannot-run-uphill-procedural-rivers-lakes-and-waterfalls-in-plain-webgl2-48bn": {
+  "zh_title": "河流不能往上流：用纯 WebGL2 做程序化河流、湖泊与瀑布",
+  "zh_oneliner": "作者复盘了程序化河流最常见的三种翻车现场，并分享自己在纯 WebGL2 引擎里从零实现贴地水流、顺势下行与自然蜿蜒的做法。",
+  "en_title": "Rivers that cannot run uphill: procedural rivers, lakes and waterfalls in plain WebGL2",
+  "en_oneliner": "The author walks through the three classic ways procedural rivers go wrong, and how he built ground-hugging, downhill-flowing, naturally winding water from scratch in a plain WebGL2 engine."
+ },
+ "https://dev.to/freema/farther-shore-a-live-webgl2-demo-where-the-whole-planet-is-one-seed-3c3i": {
+  "zh_title": "Farther Shore：整颗星球只用一个种子的实时 WebGL2 演示",
+  "zh_oneliner": "整个低多边形星球——岛屿、山川、海洋、云层与村庄里的行人——全部由一个种子实时生成，在浏览器里直接可玩的现场演示。",
+  "en_title": "Farther Shore: a live WebGL2 demo where the whole planet is one seed",
+  "en_oneliner": "Every island, mountain, sea, cloud and wandering villager on this stylised low-poly planet is generated live in the browser from a single seed, with no files and no offline rendering."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code": {
+  "zh_title": "GTA 6 里如何打开 Brooks Boatworks 的保险箱",
+  "zh_oneliner": "一步步讲清保险箱的位置与开锁方法，打开后能拿到新枪、药品和一笔现金。",
+  "en_title": "How to unlock the Brooks Boatworks safe in GTA 6",
+  "en_oneliner": "A step-by-step guide to finding and opening the Brooks Boatworks safe, with a new gun, pills and a pile of cash inside."
+ },
+ "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6": {
+  "zh_title": "《Phasmophobia》下次更新能让玩家开口叫鬼魂扔东西，下周就上线",
+  "zh_oneliner": "下周上线的 Resonance 更新带来全新捉鬼装备与更多语音指令，游戏也将迁移到 Unity 6 引擎。",
+  "en_title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
+  "en_oneliner": "The Resonance update lands next week with new ghost-hunting gear, more voice commands, and a move to the Unity 6 engine."
  }
 }
