@@ -20632,5 +20632,17 @@
   "zh_oneliner": "结合线性插值与 HTML5 Canvas 变换，给 2D 网页游戏做一个 60 帧的顺滑跟随相机，告别卡顿镜头。",
   "en_title": "Build Smooth 60 FPS Camera Lerp in Vanilla JS Fast With AI Prompts",
   "en_oneliner": "Pair linear interpolation with HTML5 Canvas transforms to give your 2D browser game a smooth 60 FPS follow camera that never feels jerky."
+ },
+ "https://www.indiedb.com/engines/001-game-creator/news/001-insider-update-major-open-dev-kit-developments-november-sale": {
+  "zh_title": "001 Game Creator 内部更新：开放开发套件大进展与 11 月促销",
+  "zh_oneliner": "001 Game Creator 发布新一轮 Insider 更新，脚本、编辑器与成就系统均有改进并修复兼容性问题，同时开放开发套件迎来重要进展。",
+  "en_title": "001 Insider Update, Major Open Dev Kit Developments & November Sale!",
+  "en_oneliner": "001 Game Creator's latest Insider update brings scripting improvements, editor enhancements, new achievements and compatibility fixes, alongside major progress on its open dev kit."
+ },
+ "https://www.indiedb.com/games/pc-x/news/weekly-update-236": {
+  "zh_title": "PC-X 每周更新 #2",
+  "zh_oneliner": "PC-X 团队带来本周开发进展更新。",
+  "en_title": "Weekly Update #2",
+  "en_oneliner": "The PC-X team shares this week's development progress update."
  }
 }
