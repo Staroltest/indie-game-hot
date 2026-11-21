@@ -20290,5 +20290,53 @@
   "zh_oneliner": "Toby Fox 称第六章所有地图、事件与战斗都已存在，第七章也已开工，系列后续章节的进度终于有了明确说法。",
   "en_title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
   "en_oneliner": "Toby Fox says chapter 6 is structurally complete — all maps, events and battles exist — while work on chapter 7 has already begun."
+ },
+ "https://80.lv/articles/3dcoat-dev-launches-new-tool-to-convert-cad-models-into-polygon-meshes": {
+  "zh_title": "3DCoat 推出新工具，可将 CAD 模型转换为多边形网格",
+  "zh_oneliner": "3DCoat 的新工具 CADQuader 已进入 Beta，可把 CAD 模型转成能直接用于游戏制作的多边形网格。",
+  "en_title": "3DCoat Dev Launches New Tool To Convert CAD Models Into Polygon Meshes",
+  "en_oneliner": "3DCoat has opened beta testing for CADQuader, a new tool that turns CAD models into polygon meshes ready for game production."
+ },
+ "https://www.gcores.com/articles/222631": {
+  "zh_title": "穿越蘑境，共赴新程：《明日方舟：终末地》全新版本＆2.0揭幕前瞻特别节目消息汇总",
+  "zh_oneliner": "《明日方舟：终末地》新版本将于 11 月 25 日上线，新干员小刻登场、新区域旧水坝开放，前瞻节目汇总了一览新内容与直播赠礼。",
+  "en_title": "Arknights: Endfield Unveils New Version and 2.0 Preview: New Operator, New Region, and a November 25 Launch",
+  "en_oneliner": "Arknights: Endfield's new version launches November 25, adding operator Xiao Ke, the Old Dam region, and a new event, with the preview program rounding up all the details."
+ },
+ "https://dev.to/succday/scoring-a-daily-game-by-rarity-not-by-a-fixed-answer-key-2j3l": {
+  "zh_title": "每日游戏不按固定答案评分，而按答案稀有度计分",
+  "zh_oneliner": "作者分享了每日猜谜游戏 ZomZam 的计分设计：答案越冷门分越高，并详解了归一化、提示扣分等实现细节。",
+  "en_title": "Scoring a daily game by rarity, not by a fixed answer key",
+  "en_oneliner": "The author shares how the daily game ZomZam scores answers by rarity instead of a fixed key, covering normalization, hint penalties, and other implementation details."
+ },
+ "https://dev.to/bro_explains_943984275ed7/i-built-a-gta-6-cheat-site-you-can-use-from-the-ps5-browser-with-a-controller-1nm0": {
+  "zh_title": "我做了个能在 PS5 浏览器里用手柄查的 GTA 6 作弊码网站",
+  "zh_oneliner": "作者用单个 JSON 文件加一个构建脚本做了个 17KB 的轻量作弊码站，并分享了手柄空间导航与 Gamepad API 的实现经验。",
+  "en_title": "i built a gta 6 cheat site you can use from the ps5 browser with a controller",
+  "en_oneliner": "The author built a 17 KB cheat-code site from a single JSON file and a build script, and shares lessons on controller spatial navigation and the Gamepad API."
+ },
+ "https://dev.to/malihab/how-i-built-a-3d-game-map-editor-in-rust-with-bevy-2kia": {
+  "zh_title": "我如何用 Rust 与 Bevy 做了一个 3D 游戏地图编辑器",
+  "zh_oneliner": "作者介绍了自研的 Fiza3D 编辑器：2D 编辑流程结合实时 3D 预览，可快速搭建道路、建筑与地形，兼谈为何选 Rust 与 Bevy。",
+  "en_title": "How I Built a 3D Game Map Editor in Rust with Bevy",
+  "en_oneliner": "The author introduces Fiza3D, a self-built map editor pairing a 2D editing workflow with real-time 3D preview for roads, buildings, and terrain, and explains why Rust and Bevy were chosen."
+ },
+ "https://dev.to/suzysays/what-a-browser-horror-game-taught-me-about-input-validation-38dh": {
+  "zh_title": "一款浏览器恐怖游戏教会我的输入校验课",
+  "zh_oneliner": "一款把输入校验做成核心玩法的小恐怖游戏 Suzy Says，让作者重新思考了校验逻辑的组织方式，值得做玩法的开发者借鉴。",
+  "en_title": "What a Browser Horror Game Taught Me About Input Validation",
+  "en_oneliner": "A small horror game called Suzy Says turns input validation into its core mechanic, prompting the author to rethink how validation logic is structured — a pattern worth stealing for gameplay design."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location": {
+  "zh_title": "GTA 6 保龄球馆保险箱密码",
+  "zh_oneliner": "在“Hit Kingpin Bowling”任务中打开保龄球馆保险箱的密码与位置指南。",
+  "en_title": "GTA 6 Bowling Alley safe code",
+  "en_oneliner": "A guide to the safe code and location in the bowling alley during the \"Hit Kingpin Bowling\" mission."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game": {
+  "zh_title": "GTA 6 其实是一款 cozy 游戏",
+  "zh_oneliner": "作者认为 GTA 6 最动人的部分，恰恰是大家放下枪、慢下来生活的时刻。",
+  "en_title": "GTA 6 is a cozy game",
+  "en_oneliner": "The author argues that GTA 6 shines brightest in its quiet, gun-free moments, when the game slows down and lets players simply live in its world."
  }
 }
