@@ -20722,5 +20722,11 @@
   "zh_oneliner": "作者花 17 天逆向 Rare 2003 年未发售的 GBA 原型《Diddy Kong Pilot》，公开了一份只读研究档案：151 篇技术文档加核心引擎的 C11 语义化重构。",
   "en_title": "CanopyCore – Reverse-engineering archive for Diddy Kong Pilot (GBA)",
   "en_oneliner": "After a 17-day reverse-engineering sprint on Rare's unreleased 2003 GBA prototype Diddy Kong Pilot, the author published a read-only research archive: 151 technical docs plus a semantic C11 reconstruction of the core engine."
+ },
+ "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server": {
+  "zh_title": "《Alt Video》：把 Letterboxd 片单和 Plex 片库搬进一家虚拟 Blockbuster 录像店",
+  "zh_oneliner": "一款模拟经营小品，让你用 Letterboxd 账号或媒体服务器把收藏的电影摆进一家数字版 Blockbuster 录像店，过一把店主瘾。",
+  "en_title": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server",
+  "en_oneliner": "A small shopkeeping sim that lets you stock a digital faux Blockbuster video store with films from your Letterboxd watchlist or Plex server."
  }
 }
