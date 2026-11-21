@@ -19708,5 +19708,263 @@
   "zh_oneliner": "塔罗牌手游 Tarot Gothique 2026 上线两个配套站点：安卓版专页介绍免费单机 AI 对局与私人在线房间，法语站则用四篇指南讲清王牌、Excuse 与不同人数的玩法规则。",
   "en_title": "Tarot Gothique 2026 now has an Android page and French rules guides",
   "en_oneliner": "Tarot Gothique 2026 launched two companion sites: an Android page covering free solo games against the AI and private online rooms, and a French site with four guides on the Bouts, the Excuse, contracts, and playing with 3, 4, or 5 players."
+ },
+ "https://monogame.net/blog/2026-11-11-meeting": {
+  "zh_title": "MonoGame 董事会会议纪要：2026 年 11 月",
+  "zh_oneliner": "MonoGame 基金会公布 11 月董事会会议纪要，交代项目近期的治理与资金安排。",
+  "en_title": "Board Meeting Minutes - November 2026",
+  "en_oneliner": "The MonoGame Foundation published the minutes of its November board meeting, covering the project's recent governance and funding arrangements."
+ },
+ "https://monogame.net/blog/2026-08-14-3.8.6.1-release-2026": {
+  "zh_title": "MonoGame 3.8.6.1 发布",
+  "zh_oneliner": "MonoGame 推出 3.8.6.1 补丁版，以修复为主，没有大的新功能。",
+  "en_title": "3.8.6.1 Release",
+  "en_oneliner": "MonoGame shipped the 3.8.6.1 patch release, focused on bug fixes with no major new features."
+ },
+ "https://monogame.net/blog/2026-10-26-3.8.6-release-2026": {
+  "zh_title": "MonoGame 3.8.6 发布",
+  "zh_oneliner": "MonoGame 3.8.6 正式发布，图形后端、主机与移动端支持以及新的内容构建器都有更新。",
+  "en_title": "3.8.6 Release",
+  "en_oneliner": "MonoGame 3.8.6 is out, with updates across graphics backends, console and mobile support, and the new content builder."
+ },
+ "https://gameworldobserver.com/2026/11/20/almost-all-indicators-are-in-the-negative-and-more-from-ubisofts-report": {
+  "zh_title": "育碧财报几乎全线下滑，各项指标都不乐观",
+  "zh_oneliner": "育碧公布本财年上半财报，营收与利润等关键指标大多走弱，大厂日子也不好过。",
+  "en_title": "Almost all indicators are in the negative — and more from Ubisoft’s report",
+  "en_oneliner": "Ubisoft reported its first-half results, with most key indicators in the red — a reminder that even the big publishers are having a rough year."
+ },
+ "https://gameworldobserver.com/2026/11/19/its-like-burying-money-and-people-in-the-ground-the-former-head-of-take-two-explained-why-developing-modern-aaa-games-is-unprofitable": {
+  "zh_title": "前 Take-Two 掌门人：如今做 3A 游戏就像把钱和人埋进土里",
+  "zh_oneliner": "曾执掌 Take-Two 的 Ben Feder 直言，现代 3A 的开发模式已经难以为继，成本与规模都走到了尽头。",
+  "en_title": "It’s like burying money and people in the ground: the former head of Take-Two explained why developing modern AAA games is not sustainable",
+  "en_oneliner": "Former Take-Two chief Ben Feder argues the modern AAA development model is no longer sustainable, with costs and scale pushed past the breaking point."
+ },
+ "https://gameworldobserver.com/2026/11/18/the-greatest-game-of-all-time-amid-phenomenal-reviews-of-gta-vi-take-twos-market-value-rises": {
+  "zh_title": "GTA 6 媒体评分出炉口碑爆棚，Take-Two 市值随之上涨",
+  "zh_oneliner": "GTA 6 的首批媒体评测一片叫好，Take-Two 的股价也跟着水涨船高。",
+  "en_title": "“The Greatest Game of All Time”: Amid Phenomenal Reviews of GTA VI, Take-Two’s Market Value Rises",
+  "en_oneliner": "The first GTA VI reviews landed to rave scores, and Take-Two's market value climbed in step."
+ },
+ "https://gameworldobserver.com/2026/11/17/unity-has-acquired-synty-studios-the-creators-of-the-polygon-asset-line": {
+  "zh_title": "Unity 收购 Synty Studios，POLYGON 低多边形资产线归入旗下",
+  "zh_oneliner": "Unity 宣布收购新西兰低多边形资产工作室 Synty Studios，POLYGON 系列资产将成为官方资源的一部分。",
+  "en_title": "Unity has acquired Synty Studios, the creators of the POLYGON asset line",
+  "en_oneliner": "Unity announced the acquisition of New Zealand low-poly asset studio Synty Studios, bringing the POLYGON asset line in-house."
+ },
+ "https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt": {
+  "zh_title": "Raw Power Games 破产后，Coffee Stain 接手《Chronicles: Medieval》版权",
+  "zh_oneliner": "开发商 Raw Power Games 破产之后，Coffee Stain 收购了《Chronicles: Medieval》的版权，让这款中世纪策略游戏有了续命的机会。",
+  "en_title": "Coffee Stain acquired the rights to Chronicles: Medieval after the game’s developers went bankrupt",
+  "en_oneliner": "After developer Raw Power Games went bankrupt, Coffee Stain acquired the rights to Chronicles: Medieval, giving the medieval strategy game a second life."
+ },
+ "https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study": {
+  "zh_title": "研究显示使用 Unreal 与 Unity 的开发者正在减少",
+  "zh_oneliner": "GDC 的一项调查显示，Unreal Engine 与 Unity 虽然仍是最流行的引擎，但使用率正在逐年下滑。",
+  "en_title": "Fewer developers are using Unreal Engine and Unity according to a study",
+  "en_oneliner": "A GDC study finds Unreal Engine and Unity remain the most popular engines, yet their usage keeps slipping year by year."
+ },
+ "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski": {
+  "zh_title": "哪些游戏最容易被 AI 克隆？营销专家 Chris Zukowski 谈看法",
+  "zh_oneliner": "游戏营销专家 Chris Zukowski 分析了 AI 时代哪些类型的游戏最容易遭到克隆，以及开发者该如何应对。",
+  "en_title": "Which games are most vulnerable to AI clones — opinion of Kris Zukowski",
+  "en_oneliner": "Game marketing expert Chris Zukowski breaks down which kinds of games are most exposed to AI cloning, and what developers can do about it."
+ },
+ "https://gameworldobserver.com/2026/11/11/black-forest-games-has-left-thq-nordic-and-embracer-group": {
+  "zh_title": "Black Forest Games 脱离 THQ Nordic 与 Embracer，重回独立",
+  "zh_oneliner": "《Destroy All Humans!》重制版的开发商 Black Forest Games 在被收购近十年后脱离 THQ Nordic，重新成为独立团队。",
+  "en_title": "Black Forest Games has left THQ Nordic and Embracer Group",
+  "en_oneliner": "Black Forest Games, makers of the Destroy All Humans! remakes, has left THQ Nordic after nearly a decade and become independent again."
+ },
+ "https://gameworldobserver.com/2026/11/10/how-do-you-modernize-a-15-year-old-live-game-without-rewriting-it-supercitys-journey-from-flash-to-html5": {
+  "zh_title": "一款运营 15 年的游戏如何从 Flash 平移到 HTML5：SuperCity 的经验",
+  "zh_oneliner": "SuperCity 主程分享了如何在不重写客户端、不打扰老玩家的前提下，把一款运营 15 年的 Flash 游戏迁移到 HTML5。",
+  "en_title": "How Do You Modernize a 15-Year-Old Live Game Without Rewriting It? SuperCity’s Journey From Flash to HTML5",
+  "en_oneliner": "SuperCity's lead developer explains how a 15-year-old live game moved from Flash to HTML5 without rewriting the client or disrupting its players."
+ },
+ "https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released": {
+  "zh_title": "12 月 WN C-Level 峰会议程首批细节公布",
+  "zh_oneliner": "将于第比利斯举办的 WN C-Level 峰会公布了首批议程，面向游戏公司创始人与高管，聚焦移动与 PC 市场。",
+  "en_title": "The first details of the December WN C-Level Summit program have been released",
+  "en_oneliner": "The WN C-Level Summit coming to Tbilisi in December revealed its first program details, aimed at game company founders and executives with a focus on mobile and PC markets."
+ },
+ "https://gameworldobserver.com/2026/11/09/the-remake-of-the-legend-of-zelda-ocarina-of-time-is-the-second-game-in-the-series-based-on-initial-retail-sales-in-the-uk": {
+  "zh_title": "《塞尔达传说：时之笛》重制版英国首发销量创系列第二",
+  "zh_oneliner": "记者 Christopher Dring 援引零售数据称，《时之笛》重制版在英国的首发销量在系列中仅次于一款作品，卖得相当好。",
+  "en_title": "The remake of The Legend of Zelda: Ocarina of Time is the second game in the series based on initial retail sales in the UK",
+  "en_oneliner": "Citing retail data, journalist Christopher Dring reports the Ocarina of Time remake's UK launch sales rank second in the series — a very strong debut."
+ },
+ "https://gameworldobserver.com/2026/11/06/report-ea-owners-are-in-talks-to-buy-unity-for-25-billion": {
+  "zh_title": "报道称 EA 背后财团正洽购 Unity，报价 250 亿美元",
+  "zh_oneliner": "据路透社消息，包括沙特公共投资基金在内的财团正与 Unity 洽谈收购，报价高达 250 亿美元，引擎格局可能生变。",
+  "en_title": "Report: EA owners are in talks to buy Unity for $25 billion",
+  "en_oneliner": "Reuters reports a consortium including Saudi Arabia's Public Investment Fund is in talks to buy Unity for $25 billion — a deal that could reshape the engine landscape."
+ },
+ "https://gameworldobserver.com/2026/11/05/sony-report-playstation-profits-nearly-doubled-while-sales-of-marvels-wolverine-reached-2-4-million-copies": {
+  "zh_title": "索尼财报：PlayStation 利润接近翻倍，《漫威金刚狼》销量 240 万份",
+  "zh_oneliner": "索尼二季度财报显示游戏业务多项指标大涨，PlayStation 利润接近翻倍，《漫威金刚狼》已卖出 240 万份。",
+  "en_title": "Sony Report: PlayStation profits nearly doubled, while sales of Marvel’s Wolverine reached 2.4 million copies",
+  "en_oneliner": "Sony's second-quarter report shows its gaming division surging, with PlayStation profits nearly doubling and Marvel's Wolverine selling 2.4 million copies."
+ },
+ "https://gameworldobserver.com/2026/11/03/control-resonant-helped-remedy-triple-its-quarterly-revenue": {
+  "zh_title": "《Control Resonant》助 Remedy 季度营收翻两番",
+  "zh_oneliner": "凭借《Control Resonant》的出色首发，Remedy 第三季度营收同比增长两倍，迎来财务上的丰收季。",
+  "en_title": "Control Resonant helped Remedy triple its quarterly revenue",
+  "en_oneliner": "On the back of a strong Control Resonant launch, Remedy tripled its quarterly revenue in a standout third quarter."
+ },
+ "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai": {
+  "zh_title": "itch.io 新游戏数量激增，或许与 AI 有关",
+  "zh_oneliner": "近两个月 itch.io 上每天新建的游戏页面数量几乎翻倍，AI 工具可能正在降低独立游戏的发布门槛。",
+  "en_title": "itch.io has seen a sharp increase in new games — perhaps it’s all thanks to AI",
+  "en_oneliner": "The daily number of new game pages on itch.io has nearly doubled in two months, and AI tools may be lowering the bar for shipping indie games."
+ },
+ "https://gameworldobserver.com/2026/10/30/phantom-blade-zero-peaks-at-over-731k-concurrent-players-at-launch-marking15th-highest-result-in-steam-history": {
+  "zh_title": "《影之刃零》上线同时在线超 73 万人，创 Steam 历史第 15 高纪录",
+  "zh_oneliner": "国产动作 RPG《影之刃零》上线首日同时在线突破 73 万人，成为 Steam 历史上表现最好的首发之一。",
+  "en_title": "Phantom Blade Zero peaks at over 731k concurrent players at launch, marking15th highest result in Steam history",
+  "en_oneliner": "Chinese action RPG Phantom Blade Zero peaked at over 731,000 concurrent players at launch, one of the biggest debuts in Steam history."
+ },
+ "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers": {
+  "zh_title": "Valve 承认 AI 克隆游戏是个问题，但无意限制开发者",
+  "zh_oneliner": "Valve 表示已经注意到 AI 克隆游戏的问题，但目前不打算对开发者设限，相关政策仍在观望。",
+  "en_title": "Valve acknowledges AI clones issue, but has no intend to restrict developers",
+  "en_oneliner": "Valve says it recognizes the AI clone problem, but has no plans to restrict developers for now."
+ },
+ "https://gameworldobserver.com/2026/10/28/sensor-tower-half-of-ad-impressions-in-casual-games-come-from-ad-networks-while-strategy-titles-focus-on-social-platforms": {
+  "zh_title": "Sensor Tower：休闲游戏一半广告曝光来自广告网络，策略游戏更依赖社交平台",
+  "zh_oneliner": "Sensor Tower 的数据显示，休闲与策略游戏在广告投放渠道上差异明显，选对投放平台要看品类。",
+  "en_title": "Sensor Tower: Half of ad impressions in casual games come from ad networks, while strategy titles focus on social platforms",
+  "en_oneliner": "Sensor Tower data shows casual and strategy games split sharply on ad channels — half of casual ad impressions come from ad networks, while strategy titles lean on social platforms."
+ },
+ "https://gameworldobserver.com/2026/10/27/microsoft-offers-voluntary-buyouts-to-60000-employees-including-those-in-xbox-division": {
+  "zh_title": "微软向 6 万名员工提供自愿离职方案，Xbox 部门也在其中",
+  "zh_oneliner": "微软向包括 Xbox 部门在内的约 6 万名员工提供自愿买断离职方案，组织调整波及游戏业务。",
+  "en_title": "Microsoft offers “voluntary buyouts” to 60,000 employees, including those in Xbox division",
+  "en_oneliner": "Microsoft offered voluntary buyouts to around 60,000 employees, including staff in the Xbox division, as part of a broader restructuring."
+ },
+ "https://gameworldobserver.com/2026/10/23/epic-games-announces-ai-game-jam-faces-criticism-then-changes-rules": {
+  "zh_title": "Epic 举办 AI 游戏 Jam 引发争议，随后修改规则",
+  "zh_oneliner": "Epic 的 AI 主题游戏 Jam 遭到开发者批评后改了规则，这场风波折射出社区对 AI 创作的复杂态度。",
+  "en_title": "Epic Games announces AI game jam, faces criticism, then changes rules",
+  "en_oneliner": "Epic's AI-themed game jam drew criticism from developers and then changed its rules — a snapshot of the community's divided feelings about AI-made games."
+ },
+ "https://www.thegamebusiness.com/p/grand-theft-auto-6-smashes-estimates": {
+  "zh_title": "GTA 6 首日收入 37.9 亿美元，创娱乐史上最大首发",
+  "zh_oneliner": "GTA 6 首日狂揽 37.9 亿美元，轻松刷新娱乐产品首发纪录，规模远超电影与音乐。",
+  "en_title": "Grand Theft Auto 6 smashes estimates with $3.79 billion on day one",
+  "en_oneliner": "Grand Theft Auto 6 pulled in $3.79 billion on day one, the biggest entertainment launch of all time by a wide margin."
+ },
+ "https://www.thegamebusiness.com/p/how-playstation-became-the-home-of": {
+  "zh_title": "PlayStation 如何成为 GTA 的主场",
+  "zh_oneliner": "几位 PlayStation 老将与行业人物回顾了 GTA 与 PlayStation 二十多年来的渊源与合作史。",
+  "en_title": "How PlayStation became the home of Grand Theft Auto",
+  "en_oneliner": "PlayStation veterans and industry figures look back on the two-decade history that made PlayStation the home of Grand Theft Auto."
+ },
+ "https://www.thegamebusiness.com/p/former-take-two-boss-ben-feder-feels": {
+  "zh_title": "推出过 GTA 4 与《荒野大镖客》的老板：3A 正面临威胁",
+  "zh_oneliner": "资深游戏投资人 Ben Feder 认为 3 亿美元级别的预算难以持续，AI 则还在等待属于自己的“玩具总动员时刻”。",
+  "en_title": "The boss who launched GTA 4 and Red Dead Redemption: “AAA is under threat”",
+  "en_oneliner": "Veteran games investor Ben Feder explains why $300 million budgets are unsustainable, and why AI still awaits its \"Toy Story moment\"."
+ },
+ "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk": {
+  "zh_title": "PlayStation 赢下 26 亿英镑英国集体诉讼，游戏定价争议落幕",
+  "zh_oneliner": "伦敦法庭裁定索尼在游戏销售上并不构成“近乎垄断”，PlayStation 赢下这场 26 亿英镑的定价集体诉讼。",
+  "en_title": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
+  "en_oneliner": "A London tribunal ruled Sony does not hold a \"near monopoly\" on game sales, ending the $2.6 billion UK class action over PlayStation pricing."
+ },
+ "https://www.thegamebusiness.com/p/the-end-of-video-games-is-nigh-apparently": {
+  "zh_title": "电子游戏的末日将至（据说如此）",
+  "zh_oneliner": "在史上最大游戏发售前夜，Christopher Dring 聊了聊行业里弥漫的焦虑情绪，以及它从何而来。",
+  "en_title": "The end of video games is nigh (apparently)",
+  "en_oneliner": "On the eve of the biggest game launch ever, Christopher Dring unpacks the industry anxiety that has everyone predicting the end of video games."
+ },
+ "https://www.thegamebusiness.com/p/the-two-indie-game-legends-going": {
+  "zh_title": "两位独立游戏传奇正面迎战 GTA 6",
+  "zh_oneliner": "Rami Ismail 与 Edmund McMillen 聊了他们在 GTA 6 发售窗口坚持发游戏的策略，还有 Take-Two 老板谈新 IP 与实体光盘。",
+  "en_title": "The two indie game legends going head-to-head with Grand Theft Auto 6",
+  "en_oneliner": "Rami Ismail and Edmund McMillen discuss their strategy for launching against Grand Theft Auto 6, plus Take-Two's boss on new IP and physical discs."
+ },
+ "https://www.thegamebusiness.com/p/minecraft-isnt-just-a-game-its-a": {
+  "zh_title": "“Minecraft 不只是一款游戏，而是一个品类”",
+  "zh_oneliner": "4J Studios 与 YouTube 主播 Stampy 聊了打造 Minecraft 替代品的尝试、对生成式 AI 的拒绝，以及慢慢做游戏的底气。",
+  "en_title": "‘Minecraft isn’t just a game. It’s a genre’",
+  "en_oneliner": "4J Studios and YouTube creator Stampy (Joseph Garrett) talk building a Minecraft alternative, rejecting generative AI, and the luxury of taking their time."
+ },
+ "https://www.thegamebusiness.com/p/nintendo-sold-zelda-ocarina-of-time": {
+  "zh_title": "任天堂把《塞尔达》卖给了我，而我正在把它卖给我的孩子",
+  "zh_oneliner": "怀旧情绪是会传染的，这也是 Christopher Dring 并不担心任天堂短期困境的原因。",
+  "en_title": "Nintendo sold Zelda: Ocarina of Time to me. I’m selling it to my kids",
+  "en_oneliner": "Nostalgia is contagious — and that is why Christopher Dring is not worried about Nintendo's short-term troubles."
+ },
+ "https://www.thegamebusiness.com/p/raiders-of-the-lost-archive-inside": {
+  "zh_title": "寻宝奇兵：2 万盘磁带如何让 EA 经典游戏重见天日",
+  "zh_oneliner": "EA 的“印第安纳·琼斯”讲述了他如何偶然发现 2 万盘尘封磁带，并说服公司把这些经典游戏带回来。",
+  "en_title": "Raiders of the Lost Archive: Inside the 20,000-tape discovery that’s brought EA classics back to life",
+  "en_oneliner": "EA's own Indiana Jones tells how he stumbled on 20,000 forgotten tapes and convinced the company to bring its classic games back to life."
+ },
+ "https://www.thegamebusiness.com/p/is-ai-powered-game-piracy-an-existential": {
+  "zh_title": "AI 驱动的游戏盗版会是生存级威胁吗？",
+  "zh_oneliner": "本期还聊了为什么 PS6 与下一代 Xbox 都可以再等等，嘉宾是 Digital Foundry。",
+  "en_title": "Is AI-powered game piracy an existential threat?",
+  "en_oneliner": "Is AI-powered game piracy an existential threat — and why the PS6 and the next Xbox can wait, according to Digital Foundry."
+ },
+ "https://www.thegamebusiness.com/p/why-embark-had-to-pull-the-handbrake": {
+  "zh_title": "Embark 为何要给《Arc Raiders》“拉手刹”：完整访谈",
+  "zh_oneliner": "Embark 团队复盘了 Nexon 这款热门撤离射击游戏跌宕起伏的首个年头，以及关键时刻的刹车决策。",
+  "en_title": "Why Embark had to “pull the handbrake” on Arc Raiders | Full Interview",
+  "en_oneliner": "The Embark team looks back on the triumphant, chaotic first year of Nexon's breakout extraction shooter Arc Raiders — and the decision to pull the handbrake."
+ },
+ "https://www.thegamebusiness.com/p/our-own-engine-is-the-secret-how": {
+  "zh_title": "“自研引擎是秘密武器”：Capcom 如何征服 Switch 2",
+  "zh_oneliner": "Capcom 团队聊了《怪物猎人》与重制游戏在 Switch 2 上的表现，以及自研引擎带来的底气。",
+  "en_title": "‘Our own engine is the secret’ – How Capcom mastered the Nintendo Switch 2",
+  "en_oneliner": "The Capcom team talks Monster Hunter, remakes, and Nintendo Switch 2 — and why their own engine is the secret weapon."
+ },
+ "https://www.thegamebusiness.com/p/wolverine-lifts-ps5-but-xbox-struggles": {
+  "zh_title": "《金刚狼》带飞 PS5，Xbox 却在《战争机器》发售后依然挣扎",
+  "zh_oneliner": "本期还包括 Bing Gordon 谈新书，以及无障碍设计的商业价值。",
+  "en_title": "Wolverine lifts PS5, but Xbox struggles despite Gears of War launch",
+  "en_oneliner": "Wolverine lifts PS5 while Xbox still struggles despite the Gears of War launch — plus Bing Gordon on his new book and the business case for accessibility."
+ },
+ "https://www.thegamebusiness.com/p/can-you-build-a-legitimate-video": {
+  "zh_title": "只靠提示词能做成正经游戏生意吗？Meta 认为可以",
+  "zh_oneliner": "Meta Horizon 副总裁 Saxs Persson 称用提示词做游戏是“现代做游戏的方式”，但这套说法能否立住仍有争议。",
+  "en_title": "Can you build a legitimate video game business on prompts? Meta thinks so",
+  "en_oneliner": "Meta Horizon VP Saxs Persson calls building games with prompts \"the modern way to make video games\" — a claim that is far from settled."
+ },
+ "https://www.thegamebusiness.com/p/enter-the-game-business-marketing": {
+  "zh_title": "The Game Business 营销奖开始接受报名",
+  "zh_oneliner": "一项面向游戏公关与营销团队的新奖项开始征集，表彰幕后推手的工作。",
+  "en_title": "Enter The Game Business Marketing Awards today",
+  "en_oneliner": "A new award celebrating video game PR and marketing teams is now open for entries."
+ },
+ "https://www.thegamebusiness.com/p/500-million-gears-of-war-cannot-happen": {
+  "zh_title": "5 亿美元的《战争机器》不会再有了",
+  "zh_oneliner": "Christopher Dring 认为下一款《战争机器》必须做得更快、更便宜，否则这种量级的投入难以为继。",
+  "en_title": "$500 million Gears of War cannot happen again",
+  "en_oneliner": "The next Gears of War has to be made faster and cheaper, argues Christopher Dring — a $500 million sequel cannot happen again."
+ },
+ "https://www.thegamebusiness.com/p/where-now-for-mass-effect-plus-ken": {
+  "zh_title": "《质量效应》向何处去？兼谈久多良木健的担忧与 Poki 的崛起",
+  "zh_oneliner": "本期聊了《质量效应》的未来、久多良木健对主机的担忧、Poki 的崛起，以及令人困惑的游戏定价。",
+  "en_title": "Where now for Mass Effect? Plus, Ken Kutaragi’s console fears and the rise of Poki",
+  "en_oneliner": "Where Mass Effect goes next, Ken Kutaragi's console fears, the rise of Poki — and a dive into the confusing world of game pricing."
+ },
+ "https://indienova.com/indie-game-news/how-to-successfully-take-your-game-into-early-access": {
+  "zh_title": "如何成功地将你的游戏推向抢先体验",
+  "zh_oneliner": "Game-Wisdom 创始人 Josh Bycer 分享抢先体验的打法：运作得当，EA 既能验证玩法，也能为正式发售积累口碑。",
+  "en_title": "How to Successfully Take Your Game into Early Access",
+  "en_oneliner": "Game-Wisdom founder Josh Bycer shares how to run Early Access well — done right, it validates your game and builds momentum for launch."
+ },
+ "https://gamedev.net/blogs/entry/2298694-shipping-your-mobile-game-in-hindi-and-other-indian-languages-an-eight-point-text-pipeline-check": {
+  "zh_title": "把手游推向印地语及其他印度语言市场：一份八点文本管线检查清单",
+  "zh_oneliner": "想给手游加印地语、泰米尔语等印度语言，真正的坑不在翻译本身，而在文本管线，这篇清单逐项拆解了容易踩雷的地方。",
+  "en_title": "Shipping Your Mobile Game in Hindi and Other Indian Languages: An Eight-Point Text Pipeline Check",
+  "en_oneliner": "Adding Hindi, Tamil, and other Indian languages to a mobile game is less a translation job than a text-pipeline job — this eight-point checklist walks through where things actually break."
+ },
+ "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now": {
+  "zh_title": "没想到 Etsy 现在也开始卖“桥”了",
+  "zh_oneliner": "Etsy 称新的生成式 AI 训练协议只会被用于正途，但这番保证很难让人信服。",
+  "en_title": "I didn't realize Etsy was selling bridges now",
+  "en_oneliner": "Etsy says its new generative AI training agreement will only be used for good — a promise that is hard to take at face value."
  }
 }
