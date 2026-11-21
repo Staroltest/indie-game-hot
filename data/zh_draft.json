@@ -20398,5 +20398,17 @@
   "zh_oneliner": "部分 PS5 玩家反映《GTA 6》频繁崩溃、报错 CE-108255-1，甚至卡住主线进度，这里整理了可行的解决方法。",
   "en_title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
   "en_oneliner": "Some PS5 players report GTA 6 crashing with error CE-108255-1, sometimes blocking story progress — here are fixes worth trying."
+ },
+ "https://www.indiedb.com/games/pass-and-play-games/news/business-tycoon-a-free-property-trading-board-game-for-2-to-6-players": {
+  "zh_title": "《Business Tycoon》：免费地产交易桌游，支持 2–6 人游玩",
+  "zh_oneliner": "免费上线的地产交易桌游，提供印度、美国、英国、澳大利亚和星球五张棋盘，快局与经典两种模式，适合 2–6 名玩家同桌游玩。",
+  "en_title": "Business Tycoon: a free property trading board game for 2 to 6 players",
+  "en_oneliner": "A free property-trading board game for 2–6 players, with five boards — India, US, UK, Australia and Planets — and Quick or Classic modes for tabletop play."
+ },
+ "https://gamedevjs.com/articles/songs-of-hyrule-threejs-game-polish": {
+  "zh_title": "《Songs of Hyrule》：如何让一款小型 Three.js 游戏显得完整",
+  "zh_oneliner": "通过音效、动画、操作手感与进度设计，让一款小型 Three.js 游戏玩起来像个完整作品，值得独立开发者借鉴打磨思路。",
+  "en_title": "Songs of Hyrule: making a small Three.js game feel complete",
+  "en_oneliner": "How sound, animation, controls and progression can make a small Three.js game feel complete — a polish-focused dev story worth studying."
  }
 }
