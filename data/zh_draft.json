@@ -20620,5 +20620,17 @@
   "zh_oneliner": "驳斥“GDevelop 只是玩具”的常见说法，对比两款引擎的实际上限，帮独立开发者按项目需求而不是刻板印象选引擎。",
   "en_title": "GDevelop vs Godot: The \"Toy Engine\" Myth Is Costing You Time",
   "en_oneliner": "Pushes back on the \"GDevelop is just a toy\" cliché, comparing the two engines' real ceilings so indie developers can choose by project needs, not stereotypes."
+ },
+ "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do": {
+  "zh_title": "《Eldritch Empathy》是一款《请出示证件》式 Roguelite：为克苏鲁生物看病，别把自己逼疯",
+  "zh_oneliner": "在这款类《请出示证件》的 Roguelite 里，你要为克苏鲁生物看病问诊，在理智崩溃之前做出正确诊断。",
+  "en_title": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
+  "en_oneliner": "In this Papers Please-esque roguelite, you diagnose cosmic horror creatures and try to keep your sanity intact while you do it."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/build-smooth-60-fps-camera-lerp-in-vanilla-js-fast-with-ai-prompts-484n": {
+  "zh_title": "用原生 JS 与 AI 提示词快速实现 60 FPS 平滑相机插值",
+  "zh_oneliner": "结合线性插值与 HTML5 Canvas 变换，给 2D 网页游戏做一个 60 帧的顺滑跟随相机，告别卡顿镜头。",
+  "en_title": "Build Smooth 60 FPS Camera Lerp in Vanilla JS Fast With AI Prompts",
+  "en_oneliner": "Pair linear interpolation with HTML5 Canvas transforms to give your 2D browser game a smooth 60 FPS follow camera that never feels jerky."
  }
 }
