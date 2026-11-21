@@ -20146,5 +20146,11 @@
   "zh_oneliner": "同一段 3D 浏览器小游戏提示词，Claude Fable 5.2 花 9 到 13 分钟交出真 3D 的 Three.js 成品，GPT-6.2 Astra 不到 4 分钟完成却用 2D 画布模拟了 3D，对比结果值得想用 AI 搭原型的开发者一看。",
   "en_title": "We Gave Claude Fable 5.2 and GPT-6.2 the Same Game Prompt: Results",
   "en_oneliner": "Given the same prompt for a small 3D browser game, Claude Fable 5.2 took 9 to 13 minutes and delivered real 3D with Three.js, while GPT-6.2 Astra finished in under 4 minutes but faked the 3D in a 2D canvas — a comparison worth reading for developers prototyping with AI."
+ },
+ "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator": {
+  "zh_title": "樱井政博庆祝《星之卡比 空中骑手》发售一周年，似在思考自己作为游戏创作者的未来",
+  "zh_oneliner": "樱井政博借《星之卡比 空中骑手》发售一周年之机，谈及自己仍在全力投入创作，也让外界开始猜测他作为创作者的下一步动向。",
+  "en_title": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+  "en_oneliner": "Marking the first anniversary of Kirby Air Riders, Masahiro Sakurai reflects on still working at full throttle — and hints at what might come next for him as a creator."
  }
 }
