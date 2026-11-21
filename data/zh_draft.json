@@ -20098,5 +20098,17 @@
   "zh_oneliner": "据用户评分统计，《塞尔达传说：时之笛》重制版跻身 2026 年 Metacritic 评分最高的游戏之列，给任天堂今年的强作阵容再添一笔。",
   "en_title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
   "en_oneliner": "According to user scores, the Zelda: Ocarina remake ranks among Metacritic's highest-rated games of 2026, capping a huge year of heavy-hitting releases."
+ },
+ "http://www.chuapp.com/article/291776.html": {
+  "zh_title": "触乐本周行业大事：腾讯网易Q3财报发布，《哈利波特：魔法觉醒》宣布停运，《GTA 6》发售席卷全球市场",
+  "zh_oneliner": "腾讯网易发布 Q3 财报，《哈利波特：魔法觉醒》宣布停运，GTA 6 发售席卷全球市场，本周行业大事一次看完。",
+  "en_title": "ChuApp Weekly Industry Roundup: Tencent and NetEase Release Q3 Earnings, Harry Potter: Magic Awakened Announces Shutdown, GTA 6 Sweeps the Global Market",
+  "en_oneliner": "Tencent and NetEase report Q3 earnings, Harry Potter: Magic Awakened announces its shutdown, and GTA 6 sweeps the global market — this week’s industry headlines in one read."
+ },
+ "https://dev.to/cruby/i-built-an-offline-blackjack-trainer-30-table-game-simulator-in-flutter-politely-looking-for-55oo": {
+  "zh_title": "我用 Flutter 做了一个离线二十一点训练器与 30 多种桌游模拟器，诚求真实反馈",
+  "zh_oneliner": "一位韩国独立开发者用 Flutter 打造了离线二十一点训练器与 30 多种桌游模拟器，公开征求真实反馈。",
+  "en_title": "I built an offline Blackjack trainer & 30+ table game simulator in Flutter — politely looking for real feedback",
+  "en_oneliner": "A solo Flutter developer from South Korea built an offline Blackjack trainer and a 30+ table game simulator, and is asking the community for honest feedback."
  }
 }
