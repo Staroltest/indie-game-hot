@@ -20704,5 +20704,17 @@
   "zh_oneliner": "GTA 6 发售当天冲破了流量纪录：美国宽带商 Comcast 称 11 月 19 日是其史上流量最高的一天，峰值时 GTA 6 相关流量接近全网四分之一。",
   "en_title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
   "en_oneliner": "GTA 6's launch broke traffic records: US broadband provider Comcast says November 19 was the highest-traffic day in its history, with GTA 6 accounting for nearly a quarter of all internet traffic at peak."
+ },
+ "https://dev.to/poopleunlimited/the-bridge-word-is-the-only-real-strategy-in-a-four-letter-ladder-4862": {
+  "zh_title": "四字母接龙里唯一的真正策略是“桥接词”",
+  "zh_oneliner": "玩四字母单词接龙时词汇量并不重要，关键是选出能通向多个下一步的“桥接词”，否则看似接近目标的一步只会把自己逼进死胡同。",
+  "en_title": "The Bridge Word Is the Only Real Strategy in a Four-Letter Ladder",
+  "en_oneliner": "In a four-letter word ladder, vocabulary size barely matters — what counts is picking a \"bridge word\" that leads to several next steps, or a move that looks like progress will trap you in a dead end."
+ },
+ "https://dev.to/songlessanswers/a-03-second-clip-is-a-terrible-quiz-and-a-great-ear-training-tool-jcj": {
+  "zh_title": "0.3 秒的片段是糟糕的竞猜题，却是极好的练耳工具",
+  "zh_oneliner": "把音乐竞猜的片段缩到 0.3 秒，问题就从“认不认识这首歌”变成“最少需要听多少”，还能精确暴露耳朵记不住的那个乐段。",
+  "en_title": "A 0.3-Second Clip Is a Terrible Quiz and a Great Ear-Training Tool",
+  "en_oneliner": "Shrinking a music-quiz clip to 0.3 seconds turns \"do you know this song\" into \"how little do you need to hear,\" and pinpoints exactly which part of a track your ear fails to encode."
  }
 }
