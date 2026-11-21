@@ -20716,5 +20716,11 @@
   "zh_oneliner": "把音乐竞猜的片段缩到 0.3 秒，问题就从“认不认识这首歌”变成“最少需要听多少”，还能精确暴露耳朵记不住的那个乐段。",
   "en_title": "A 0.3-Second Clip Is a Terrible Quiz and a Great Ear-Training Tool",
   "en_oneliner": "Shrinking a music-quiz clip to 0.3 seconds turns \"do you know this song\" into \"how little do you need to hear,\" and pinpoints exactly which part of a track your ear fails to encode."
+ },
+ "https://dev.to/canopycore/canopycore-reverse-engineering-archive-for-diddy-kong-pilot-gba-5eo0": {
+  "zh_title": "CanopyCore：逆向工程档案——未发售的 GBA 原型《Diddy Kong Pilot》",
+  "zh_oneliner": "作者花 17 天逆向 Rare 2003 年未发售的 GBA 原型《Diddy Kong Pilot》，公开了一份只读研究档案：151 篇技术文档加核心引擎的 C11 语义化重构。",
+  "en_title": "CanopyCore – Reverse-engineering archive for Diddy Kong Pilot (GBA)",
+  "en_oneliner": "After a 17-day reverse-engineering sprint on Rare's unreleased 2003 GBA prototype Diddy Kong Pilot, the author published a read-only research archive: 151 technical docs plus a semantic C11 reconstruction of the core engine."
  }
 }
