@@ -20182,5 +20182,17 @@
   "zh_oneliner": "开发者参加 Kiroween 2026 黑客松，用 Kiro 的规格先行流程做了一款地牢游戏，分享 Boss 战调教里踩过的坑。",
   "en_title": "Building Deadline Dungeon with Kiro: Specs First, Code Second — and One Very Stubborn Boss",
   "en_oneliner": "A Kiroween 2026 hackathon entry: a developer builds a dungeon game with Kiro's spec-first workflow and shares lessons from tuning a stubborn boss fight."
+ },
+ "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409": {
+  "zh_title": "这个周末大家都在玩什么？",
+  "zh_oneliner": "RPS 编辑部的每周例行栏目，聊聊团队成员这个周末都在玩什么游戏。",
+  "en_title": "What are we all playing this weekend?",
+  "en_oneliner": "Rock Paper Shotgun’s weekly column on what the team is playing this weekend."
+ },
+ "https://dev.to/sponsored_posthub_bce237/gta-6-targets-30fps-on-every-console-even-the-ps5-pro-lets-talk-about-why-1b78": {
+  "zh_title": "GTA 6 全平台锁定 30fps，连 PS5 Pro 也不例外：聊聊背后的原因",
+  "zh_oneliner": "GTA 6 在所有主机上都以 30fps 为目标且无 60fps 模式，文章从 CPU 密集型模拟与帧时间稳定性的角度聊这项取舍对性能预算的启示。",
+  "en_title": "GTA 6 Targets 30fps on Every Console — Even the PS5 Pro. Let’s Talk About Why",
+  "en_oneliner": "GTA 6 targets 30fps on every console with no 60fps mode confirmed — this piece looks at the CPU-bound simulation behind that call and what it means for performance budgets."
  }
 }
