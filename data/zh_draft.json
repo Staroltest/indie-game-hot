@@ -20368,5 +20368,35 @@
   "zh_oneliner": "GTA 6 拿下媒体 99 分的历史级高分，用户评分却被玩家集中刷低，媒体口碑与玩家情绪出现明显割裂。",
   "en_title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
   "en_oneliner": "GTA 6 earned a 99 Metascore from critics, yet players are review-bombing its Metacritic user score, splitting critical acclaim from player sentiment."
+ },
+ "https://www.gcores.com/radios/222330": {
+  "zh_title": "并无悬念，核周报11.21",
+  "zh_oneliner": "本周游戏圈要闻盘点：《GTA 6》媒体评分 99 分、预购超 1700 万份破纪录，TGA 提名以 8 项领跑。",
+  "en_title": "No Surprises: Gcores Weekly 11.21",
+  "en_oneliner": "This week's gaming news roundup: GTA 6 scores 99 on Metacritic, pre-orders top 17 million, and leads the TGA nominations with eight nods."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations": {
+  "zh_title": "GTA 6 Transgressor 位置：如何为 Wyman 修复第一辆车",
+  "zh_oneliner": "帮 Wyman 找回并修复 67 款 Sirius Transgressor 的车辆位置指南。",
+  "en_title": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
+  "en_oneliner": "A guide to tracking down the cars Wyman needs to restore the '67 Sirius Transgressor."
+ },
+ "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6": {
+  "zh_title": "《女神异闻录 5 皇家版》七年后，Atlus 称《女神异闻录 6》之后的新作不会让玩家等那么久",
+  "zh_oneliner": "Atlus 表示《女神异闻录 6》不是终点，系列下一部作品的等待时间会比以往更短。",
+  "en_title": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
+  "en_oneliner": "Atlus says 'Persona 6 is not the end' — and players won't have to wait as long for the next game after it."
+ },
+ "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail": {
+  "zh_title": "等《上古卷轴 6：Sentinel》期间，你该玩玩《Tainted Grail》",
+  "zh_oneliner": "一篇老派 RPG 推荐：在等待《上古卷轴 6》的日子里，不妨试试同样味道的《Tainted Grail》。",
+  "en_title": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail",
+  "en_oneliner": "An old-school RPG recommendation: while waiting for The Elder Scrolls 6, give Tainted Grail a try — they still make them like they used to."
+ },
+ "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix": {
+  "zh_title": "GTA 6 在部分 PS5 上崩溃并报 CE-108255-1 错误，可以试试这些办法",
+  "zh_oneliner": "部分 PS5 玩家反映《GTA 6》频繁崩溃、报错 CE-108255-1，甚至卡住主线进度，这里整理了可行的解决方法。",
+  "en_title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+  "en_oneliner": "Some PS5 players report GTA 6 crashing with error CE-108255-1, sometimes blocking story progress — here are fixes worth trying."
  }
 }
