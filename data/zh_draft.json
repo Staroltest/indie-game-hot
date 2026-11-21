@@ -20560,5 +20560,47 @@
   "zh_oneliner": "韩国游戏评级委员会出现了尚未公布的《仁王 3》完整版评级信息。",
   "en_title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
   "en_oneliner": "A rating for the unannounced Nioh 3 Complete Edition has surfaced on Korea's Game Rating and Administration Committee."
+ },
+ "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it": {
+  "zh_title": "“大家都觉得这样更有趣”：Toby Fox 在团队做到足够进度前不会透露《Deltarune》的结局",
+  "zh_oneliner": "Toby Fox 坚持不提前透露结局，让团队在未知中推进开发，他认为这种神秘感本身就是创作乐趣的一部分。",
+  "en_title": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+  "en_oneliner": "Toby Fox refuses to tell his team how Deltarune ends until they've built enough of it, treating the mystery itself as part of the creative fun."
+ },
+ "https://dev.to/katanaworks/stop-nesting-your-dash-and-dive-events-in-gdevelop-heres-why-they-get-stuck-379k": {
+  "zh_title": "别再把冲刺和下坠事件嵌套进 GDevelop 了——这就是它们卡住的原因",
+  "zh_oneliner": "一篇 GDevelop 实战排障，讲清冲刺与下坠事件嵌套后粘在一起的成因，帮 2D 平台跳跃开发者绕开这个常见坑。",
+  "en_title": "Stop Nesting Your Dash and Dive Events in GDevelop — Here's Why They Get Stuck",
+  "en_oneliner": "A hands-on GDevelop debugging guide explaining why nested dash and dive events fuse into an unmovable blob, and how 2D platformer developers can avoid this common trap."
+ },
+ "https://dev.to/dolphin_studio_ddd7da97a2/generating-row-and-column-sum-puzzles-that-have-exactly-one-solution-2fpp": {
+  "zh_title": "如何生成行列和谜题，且保证恰好只有一个解",
+  "zh_oneliner": "讲如何设计行列求和类逻辑谜题，让它既有挑战性又恰好唯一解，适合想给游戏加解谜玩法的开发者参考。",
+  "en_title": "Generating Row-and-Column Sum Puzzles That Have Exactly One Solution",
+  "en_oneliner": "How to design row-and-column sum logic puzzles that stay challenging yet have exactly one solution — a useful reference for developers adding puzzle mechanics to their games."
+ },
+ "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire": {
+  "zh_title": "《塞尔达传说：时之笛》重制版的“好评”用户评分如今受到质疑",
+  "zh_oneliner": "传闻 GTA 6 粉丝在给《时之笛》重制版刷差评，折射出玩家评分如何被跨游戏的社群情绪左右。",
+  "en_title": "Ocarina Remake's 'Positive' User Review Score Is Now Under Fire",
+  "en_oneliner": "Rumors say GTA 6 fans are review-bombing the Ocarina remake, showing how user scores can be swayed by cross-game community sentiment."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location": {
+  "zh_title": "GTA 6 里怎么偷到 BF Bandito",
+  "zh_oneliner": "一篇位置指南，告诉玩家去哪里找到这辆白色越野车，帮 Moses 完成任务。",
+  "en_title": "How to steal the BF Bandito in GTA 6",
+  "en_oneliner": "A location guide showing where to find the white BF Bandito off-roader for Moses's mission."
+ },
+ "https://gamedev.net/blogs/entry/2298699-producing-levels-for-a-mobile-puzzle-game-with-a-team-in-india-an-eight-point-pipeline-check": {
+  "zh_title": "与印度团队合作制作手机解谜游戏关卡：八点管线检查清单",
+  "zh_oneliner": "一位制作人分享与印度团队远程协作量产解谜关卡的八点流程，讲清如何保证关卡数量与质量双双跟上更新节奏。",
+  "en_title": "Producing Levels for a Mobile Puzzle Game with a Team in India: An Eight-Point Pipeline Check",
+  "en_oneliner": "A producer shares an eight-point pipeline for producing puzzle levels with a remote team in India, showing how to keep both level count and quality on pace with regular updates."
+ },
+ "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did": {
+  "zh_title": "《上古卷轴》主创谈当初质疑 Bethesda 接手《辐射》的老玩家：“我们必须证明他们错了，幸好做到了”",
+  "zh_oneliner": "《天际》主创回忆当年《辐射》老玩家对 Bethesda 接手系列的质疑，以及团队如何用作品回应这份不信任。",
+  "en_title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+  "en_oneliner": "The Skyrim lead recalls how Fallout diehards doubted Bethesda taking over the series — and how the team set out to prove them wrong."
  }
 }
