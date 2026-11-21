@@ -20074,5 +20074,29 @@
   "zh_oneliner": "这篇开发日志介绍了一个把活人质当作肉盾的蜘蛛 Boss：它把俘虏封在蛛网茧里挂在甲壳下，逼玩家在出招前先算好角度、只打暴露的弱点，否则误伤的就是想救的人。",
   "en_title": "Limbo Spider Boss: Fighting Around a Living Hostage — V.E.T.O.R — A Ruptura (Gameplay Devlog)",
   "en_oneliner": "This devlog introduces a spider boss that wields a living hostage as a human shield: the captive is sealed in a web cocoon beneath its carapace, forcing players to calculate every strike and hit only exposed weak points — or risk harming the very person they want to save."
+ },
+ "http://www.chuapp.com/article/291774.html": {
+  "zh_title": "触乐夜话：看 AI 斗蛐蛐",
+  "zh_oneliner": "触乐夜话闲聊：当 AI 开始“斗蛐蛐”，顺带聊聊 GTA6 的热闹，以及开放世界玩到一半就想躺平的通病。",
+  "en_title": "ChuApp Night Talk: Watching AI Fight Crickets",
+  "en_oneliner": "ChuApp's nightly chat muses on AI 'cricket fights' and the GTA 6 buzz, plus why open-world games so often end with the player lying down instead of playing."
+ },
+ "https://dev.to/haunt_link/devlog-3-new-faces-old-film-ar-horror-after-gogols-viy-1hic": {
+  "zh_title": "开发日志 3：新面孔，旧胶片（改编自果戈理《维伊》的 AR 恐怖游戏）",
+  "zh_oneliner": "独立开发者分享 AR 恐怖游戏原型 Home Haunt 的第三篇开发日志：以果戈理《维伊》为灵感，让玩家在 iPhone 上为死去的女巫守夜三晚。",
+  "en_title": "Devlog 3: new faces, old film (AR horror after Gogol's Viy)",
+  "en_oneliner": "The third devlog for Home Haunt, an AR horror prototype for iPhone inspired by Gogol's Viy, where a student must read prayers over a dead witch for three nights."
+ },
+ "https://dev.to/rivenor85/gaming-checkout-observability-free-uptime-apis-with-bounded-evidence-and-clear-ownership-2djn": {
+  "zh_title": "游戏结账可观测性：用免费运行时间 API 做到有据可查、责任清晰",
+  "zh_oneliner": "一篇面向游戏商店的技术分享：如何用免费的运行时间监控 API 讲清结账失败的原因，又不用无限期保留玩家的购买记录。",
+  "en_title": "Gaming Checkout Observability: Free Uptime APIs With Bounded Evidence and Clear Ownership",
+  "en_oneliner": "A technical walkthrough on using free uptime-monitoring APIs to explain failed game-store checkouts with bounded evidence and clear ownership, without keeping an unrestricted purchase history."
+ },
+ "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores": {
+  "zh_title": "《塞尔达传说：时之笛》重制版成 2026 年 Metacritic 用户评分最高的游戏之一",
+  "zh_oneliner": "据用户评分统计，《塞尔达传说：时之笛》重制版跻身 2026 年 Metacritic 评分最高的游戏之列，给任天堂今年的强作阵容再添一笔。",
+  "en_title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
+  "en_oneliner": "According to user scores, the Zelda: Ocarina remake ranks among Metacritic's highest-rated games of 2026, capping a huge year of heavy-hitting releases."
  }
 }
