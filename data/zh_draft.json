@@ -20644,5 +20644,23 @@
   "zh_oneliner": "PC-X 团队带来本周开发进展更新。",
   "en_title": "Weekly Update #2",
   "en_oneliner": "The PC-X team shares this week's development progress update."
+ },
+ "https://dev.to/idlecultivation/a-xianxia-browser-game-earns-trust-one-quest-at-a-time-17b": {
+  "zh_title": "一款仙侠网页游戏如何靠一个个任务赢得玩家信任",
+  "zh_oneliner": "116 次提交换来的心得：仙侠网页游戏里文案就是玩法，任务卡即教程，承诺必须兑现，否则玩家不再读下去。",
+  "en_title": "A xianxia browser game earns trust one quest at a time",
+  "en_oneliner": "Lessons from 116 commits: in a xianxia browser game, copy is gameplay — the quest card is the tutorial, and every overpromise teaches players to stop reading."
+ },
+ "https://dev.to/juegostudiosofficial/planning-persistence-for-a-small-online-rpg-eight-data-decisions-to-make-before-your-first-public-n06": {
+  "zh_title": "小型在线 RPG 的存档规划：首次公开测试前要做的八个数据决策",
+  "zh_oneliner": "存档结构决定了日后能否顺利打补丁、调数值、回滚与恢复，公开测试前就该把这八个数据决策想清楚。",
+  "en_title": "Planning persistence for a small online RPG - eight data decisions to make before your first public alpha",
+  "en_oneliner": "Your save-data shape decides how easily you can patch, rebalance, roll back and recover — eight data decisions to settle before your first public alpha."
+ },
+ "https://dev.to/indietooling/what-protects-your-game-if-someone-clones-it-with-ai-12gh": {
+  "zh_title": "如果有人用 AI 克隆你的游戏，什么能保护你",
+  "zh_oneliner": "韩国游戏法政策协会研讨会指出，AI 整游克隆已成新的抄袭形态，开发者该了解当下的法律应对思路。",
+  "en_title": "What protects your game if someone clones it with AI",
+  "en_oneliner": "At a Korea Game Law and Policy Association conference, panellists said AI cloning of entire games is the new shape of copycat disputes — here is what developers should know about the legal response."
  }
 }
