@@ -20482,5 +20482,41 @@
   "zh_oneliner": "一篇速查攻略，告诉玩家去哪找 Avery 当铺保险箱的密码，省得自己满地图翻。",
   "en_title": "How to find the Avery Pawn Shop safe code in GTA 6",
   "en_oneliner": "A quick guide on where to find the Avery Pawn Shop safe code, so players don't have to hunt across the map themselves."
+ },
+ "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience": {
+  "zh_title": "《暗黑地牢 2》新 DLC：短流程战斗竞技场，取悦观众才能活下去",
+  "zh_oneliner": "Red Hook 为《暗黑地牢 2》带来一款短流程、重战斗的竞技场式 DLC，核心玩法是想方设法取悦观众。",
+  "en_title": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+  "en_oneliner": "Red Hook's next Darkest Dungeon 2 DLC is a short, combat-focused gauntlet built around winning over the audience."
+ },
+ "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic": {
+  "zh_title": "只用 Three.js 在浏览器里做了一款 3D 开放世界神话游戏",
+  "zh_oneliner": "作者仅用 Three.js 与 Web Audio API 做了一款免费开源的印度神话动作探索游戏，所有模型与音效均由代码现场生成，值得参考其零构建、纯静态部署的做法。",
+  "en_title": "I built a 3D open-world mythology game in the browser with just Three.js",
+  "en_oneliner": "The author built a free, open-source 3D action-exploration game inspired by Indian mythology using only Three.js and the Web Audio API, generating every model and sound in code with no build step."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/is-slowdencom-safe-and-free-what-slowden-is-who-makes-the-games-and-how-ads-work-1inl": {
+  "zh_title": "SlowDen 安全免费吗？这个浏览器游戏站是什么、谁做的游戏、广告怎么运作",
+  "zh_oneliner": "一篇介绍免费浏览器游戏站 SlowDen 的文章，讲了平台定位、独立开发者如何免费上架游戏以及广告模式。",
+  "en_title": "Is slowden.com safe and free? What SlowDen is, who makes the games, and how ads work",
+  "en_oneliner": "An introduction to SlowDen, a free browser-game portal, covering what it is, how indie developers can list games for free, and how its ads work."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/what-are-good-shooting-games-to-play-at-school-5-design-choices-for-devs-42be": {
+  "zh_title": "校园里能玩的好射击游戏有哪些？给开发者的 5 个设计要点",
+  "zh_oneliner": "从短平快的休闲射击玩法出发，总结了面向校园场景的浏览器射击游戏在设计上值得注意的五个选择。",
+  "en_title": "What are good shooting games to play at school? 5 design choices for devs",
+  "en_oneliner": "Starting from short, calm browser shooting games, it lays out five design choices worth considering for school-friendly shooting games."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/best-io-games-in-november-2026-read-as-a-game-dev-8-growth-loops-2939": {
+  "zh_title": "2026 年 11 月最佳 .io 游戏，从开发者视角看 8 个增长循环",
+  "zh_oneliner": "以开发者视角拆解了八款 .io 类游戏的增长循环，可作轻量多人休闲游戏留存与传播设计的参考。",
+  "en_title": "Best .io games in November 2026, read as a game dev: 8 growth loops",
+  "en_oneliner": "Read as a game dev, it breaks down the growth loops behind eight .io-style games, offering reference points for retention and spread in lightweight multiplayer games."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code": {
+  "zh_title": "《GTA 6》La Cascara 汽车旅馆保险箱密码",
+  "zh_oneliner": "攻略：如何打开废弃汽车旅馆顶层的保险箱。",
+  "en_title": "GTA 6 La Cascara Motel safe code",
+  "en_oneliner": "A guide to opening the safe on the top floor of the ruined motel."
  }
 }
