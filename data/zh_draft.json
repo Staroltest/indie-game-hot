@@ -20038,5 +20038,23 @@
   "zh_title": "“这是一个勇敢的新世界”：前 Rockstar 技术总监称，为避免被 AI 山寨抢走收入，《GTA 6》PC 版会比你想的来得更早",
   "en_title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
   "en_oneliner": "A former Rockstar technical director believes GTA 6's PC version may launch sooner than expected to avoid losing revenue to AI rip-offs."
+ },
+ "https://www.gcores.com/radios/222623": {
+  "zh_title": "《影之刃零》下大棋还不配拿大结果吗？",
+  "zh_oneliner": "超游播客从普通玩家视角复盘《影之刃零》的体验与争议，主播还为节目里把 bug 误认成游戏机制向听众致歉。",
+  "en_title": "Phantom Blade Zero Plays the Long Game — But Does That Earn a Big Payoff?",
+  "en_oneliner": "The ChaoYou podcast reviews Phantom Blade Zero from an everyday player's perspective, and the hosts apologize for mistaking a bug for a game mechanic in the episode."
+ },
+ "https://dev.to/ahmadproject500/project500-what-105-ranked-sets-showed-about-an-objective-first-controller-14b2": {
+  "zh_title": "Project500：105 场排位赛验证的目标优先型控制器",
+  "zh_oneliner": "开发者用 105 场排位赛数据验证了自己写的目标优先型游戏 AI 控制器，分享地形流场寻路与单位分配背后的设计思路。",
+  "en_title": "Project500: what 105 ranked sets showed about an objective-first controller",
+  "en_oneliner": "A developer tested an objective-first game AI controller across 105 ranked matches, sharing the design thinking behind its terrain flow-field routing and unit assignment."
+ },
+ "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch": {
+  "zh_title": "《狼人之中》重制版 Switch 版延期",
+  "zh_oneliner": "Telltale 宣布《狼人之中》重制版的 Switch 版本还需要更多打磨时间，预计本月晚些时候发售。",
+  "en_title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+  "en_oneliner": "Telltale says the Switch version of The Wolf Among Us Remastered needs a little more time, with release now estimated for later this month."
  }
 }
