@@ -20242,5 +20242,35 @@
   "en_title": "November Free GameDev Assets Round-Up #2",
   "zh_title": "11 月免费游戏开发资源汇总（第 2 期）",
   "en_oneliner": "Epic's latest bi-monthly Fab giveaway offers 3 free Unreal Engine assets from November 17 to December 1 — claim them once and they're yours to keep forever."
+ },
+ "https://dev.to/otterdev3/threejs-examples-7-playable-games-with-source-code-1kcl": {
+  "zh_title": "Three.js 实战示例：7 款可直接游玩、附完整源码的网页游戏",
+  "zh_oneliner": "整理了 7 款用 Three.js 做的完整网页游戏，浏览器里就能玩，源码全公开，适合拿来学 3D 网页游戏的整体结构。",
+  "en_title": "Three.js Examples: 7 Playable Games With Source Code",
+  "en_oneliner": "Seven complete Three.js games you can play in the browser right now, all with full source code open — a handy reference for learning how a 3D web game is put together."
+ },
+ "https://dev.to/makerio/we-shipped-a-browser-game-to-the-microsoft-store-as-a-099-app-5dfl": {
+  "zh_title": "我们把一款浏览器游戏以 0.99 美元的价格上架了微软商店",
+  "zh_oneliner": "作者把两款 HTML5 小游戏打包成 PWA 上架微软商店，一次过审，分享了从清单文件、离线缓存到上架流程的完整实操经验。",
+  "en_title": "We shipped a browser game to the Microsoft Store as a $0.99 app",
+  "en_oneliner": "The author packaged two small HTML5 games as PWAs and listed them on the Microsoft Store for $0.99, passing certification on the first try — a hands-on walkthrough of the manifest, offline caching, and submission process."
+ },
+ "https://dev.to/samellis/what-makes-a-photo-scavenger-hunt-feel-fair-rather-than-random-4hgg": {
+  "zh_title": "怎样让拍照寻宝游戏玩起来觉得公平，而不是碰运气",
+  "zh_oneliner": "作者复盘了大量实地寻宝玩法的体验，指出公平感的关键不在 GPS 精度或图像识别，而在于玩家能否理解自己为什么成功或失败。",
+  "en_title": "What makes a photo scavenger hunt feel fair rather than random",
+  "en_oneliner": "Drawing on many real-world hunts, the author argues that a scavenger hunt feels fair not because of GPS accuracy or image matching, but because players can tell why they succeeded or failed."
+ },
+ "https://dev.to/aamitars/building-a-reliable-gaming-setup-advisor-rules-data-and-honest-recommendations-3n0k": {
+  "zh_title": "做一个靠谱的游戏配置推荐工具：规则、数据与诚实的建议",
+  "zh_oneliner": "讨论配置推荐工具该怎么设计才可信：区分硬件参数与实际游戏表现，讲清楚能验证什么、不能承诺什么，并给出 PS5 配置顾问的搭建思路。",
+  "en_title": "Building a Reliable Gaming Setup Advisor: Rules, Data, and Honest Recommendations",
+  "en_oneliner": "A look at how to design a trustworthy gaming setup advisor: separate hardware specs from real in-game performance, be clear about what can and cannot be verified, and structure the recommendations honestly, with a PS5 advisor as the worked example."
+ },
+ "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose": {
+  "zh_title": "GTA 6 迎来系列首位非二元性别角色，饰演者称玩家无法伤害该角色",
+  "zh_oneliner": "饰演博物馆馆长的演员 Jesse James Rose 透露，GTA 6 将出现系列首位非二元性别角色，且玩家在游戏中无法对其造成伤害。",
+  "en_title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+  "en_oneliner": "Actor Jesse James Rose, who plays a museum curator in the game, says GTA 6 will feature the series' first non-binary character — and that players cannot hurt them."
  }
 }
