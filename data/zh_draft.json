@@ -20068,5 +20068,11 @@
   "zh_oneliner": "作者一行代码没写，全靠 AI 编程智能体在三周内从零写出一个坦克对战机器人并打进排位赛第 100 场，文中分享了整个实验过程与踩坑经验。",
   "en_title": "My AI agent wrote a tank bot — it just played its 100th ranked match",
   "en_oneliner": "The author wrote none of the code — an AI coding agent built a tank-battle bot from scratch in three weeks and played its 100th ranked match, and the post shares the whole experiment and the lessons learned."
+ },
+ "https://gamedev.net/blogs/entry/2298695-limbo-spider-boss-fighting-around-a-living-hostage-vetor-a-ruptura-gameplay-devlog": {
+  "zh_title": "《V.E.T.O.R — A Ruptura》开发日志：围绕活体人质作战的 Limbo 蜘蛛 Boss",
+  "zh_oneliner": "这篇开发日志介绍了一个把活人质当作肉盾的蜘蛛 Boss：它把俘虏封在蛛网茧里挂在甲壳下，逼玩家在出招前先算好角度、只打暴露的弱点，否则误伤的就是想救的人。",
+  "en_title": "Limbo Spider Boss: Fighting Around a Living Hostage — V.E.T.O.R — A Ruptura (Gameplay Devlog)",
+  "en_oneliner": "This devlog introduces a spider boss that wields a living hostage as a human shield: the captive is sealed in a web cocoon beneath its carapace, forcing players to calculate every strike and hit only exposed weak points — or risk harming the very person they want to save."
  }
 }
