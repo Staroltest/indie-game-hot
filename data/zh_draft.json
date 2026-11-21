@@ -20518,5 +20518,47 @@
   "zh_oneliner": "攻略：如何打开废弃汽车旅馆顶层的保险箱。",
   "en_title": "GTA 6 La Cascara Motel safe code",
   "en_oneliner": "A guide to opening the safe on the top floor of the ruined motel."
+ },
+ "https://www.indiedb.com/games/iron-command/news/a-new-winter-map-real-mountains-narrow-passes-and-a-long-way-down": {
+  "zh_title": "《Iron Command》新冬季地图：真实山地、狭窄隘口与漫长下坡",
+  "zh_oneliner": "新冬季地图用真实山地和隘口路网考验坦克机动，顺带修了一个让 VR 玩家单眼看不见地面的 bug。",
+  "en_title": "A new winter map: real mountains, narrow passes and a long way down",
+  "en_oneliner": "The new winter map tests tank movement across real mountains and narrow passes, and fixes a VR bug that hid the ground from one eye."
+ },
+ "https://www.indiedb.com/games/sol-divided/news/version-094-achievements-and-a-new-guardian-rule": {
+  "zh_title": "《Sol Divided》0.9.4 版：成就系统与新版守护者规则",
+  "zh_oneliner": "31 个成就有了专属界面，守护者改为只封锁己方防线，让轰炸与防空单位够得着它，舰船开火前还会先瞄准。",
+  "en_title": "Version 0.9.4: achievements and a new Guardian rule",
+  "en_oneliner": "31 achievements get their own screen, the Guardian now only closes its own line so Bombard and Anti-air can reach it, and ships aim before they fire."
+ },
+ "https://www.indiedb.com/games/barely-civilized/news/we-built-a-wiki-for-ourselves-now-the-barely-civilized-demo-has-one-too": {
+  "zh_title": "我们给自己建了个维基，现在《Barely Civilized》试玩版也有了",
+  "zh_oneliner": "试玩版三座松树岛上有 55 种配方，这份维基帮你在木筏离岸前找到想要的那一种。",
+  "en_title": "We built a wiki for ourselves. Now the Barely Civilized Demo has one too",
+  "en_oneliner": "The demo's three pine islands hold 55 recipes, and the new wiki helps you find the one you need before your raft leaves without you."
+ },
+ "https://dev.to/amitksh/hush-a-horror-game-that-hears-your-heartbeat-presage-smartspectra-challenge-297": {
+  "zh_title": "《HUSH》：一款能听见你心跳的恐怖游戏",
+  "zh_oneliner": "第一人称恐怖逃生游戏，每局生成一座新房子，视力不佳却听觉敏锐的生物循声追捕你，心跳成了玩法的一部分。",
+  "en_title": "HUSH: a horror game that hears your heartbeat (Presage SmartSpectra challenge)",
+  "en_oneliner": "A first-person horror escape game that generates a new house each run, where a near-blind creature hunts you by sound — and your heartbeat is part of the gameplay."
+ },
+ "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke": {
+  "zh_title": "上海查获假手办：起因是一件粗糙的蒂法摆件",
+  "zh_oneliner": "一件做工粗糙的蒂法摆件引出线索，上海查处了一起售卖假手办的案件。",
+  "en_title": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+  "en_oneliner": "A tacky Tifa figure tipped off a Shanghai sting that seized fake figures from a dishonest dealer."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody": {
+  "zh_title": "《魔兽世界：Forever》把我变成了一只见人就打招呼的金毛",
+  "zh_oneliner": "作者感慨自己几乎忘了和陌生人打招呼是什么感觉，这个新版本又把那种轻松找了回来。",
+  "en_title": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
+  "en_oneliner": "The author had almost forgotten what it felt like to greet strangers — the new version brings that easygoing mood back."
+ },
+ "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea": {
+  "zh_title": "未公布的《仁王 3》完整版已在韩国获评级",
+  "zh_oneliner": "韩国游戏评级委员会出现了尚未公布的《仁王 3》完整版评级信息。",
+  "en_title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
+  "en_oneliner": "A rating for the unannounced Nioh 3 Complete Edition has surfaced on Korea's Game Rating and Administration Committee."
  }
 }
