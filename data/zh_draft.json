@@ -20206,5 +20206,41 @@
   "zh_oneliner": "第一人称跑酷加武士刀的试玩版已免费上线，可在浏览器里直接体验，一键切换双重现实的机制值得跑酷类开发者参考。",
   "en_title": "SHIFT free demo out now, play in your browser",
   "en_oneliner": "The free first-person parkour-and-katana demo is playable right in the browser, with a single key flipping between two realities — a neat mechanic for movement-focused developers to study."
+ },
+ "https://dev.to/danieljsaldana/token-club-coger-una-tablet-y-quedarse-a-leer-en-sala-teide-pcd": {
+  "zh_title": "Token Club：在 Teide 厅拿起平板坐下阅读",
+  "zh_oneliner": "这篇开发日志讲了在游戏屋顶场景里加入“拿平板阅读”这一小互动背后的设计思路与实现方式。",
+  "en_title": "Token Club: coger una tablet y quedarse a leer en Sala Teide",
+  "en_oneliner": "This devlog explains the design and implementation behind a small interaction in the game's rooftop scene: picking up a tablet to sit down and read."
+ },
+ "https://dev.to/juegostudiosofficial/testing-your-android-game-on-the-phones-indian-players-actually-own-an-eight-point-device-4iog": {
+  "zh_title": "在印度玩家真正用的手机上测试你的 Android 游戏：一份八点设备清单",
+  "zh_oneliner": "作者对照印度市场常见的中低端机型，列出八项真机测试要点，帮开发者避开只在自家旗舰机上测不到的坑。",
+  "en_title": "Testing your Android game on the phones Indian players actually own - an eight-point device checklist",
+  "en_oneliner": "The author compares common budget and mid-range phones in the Indian market and lists eight real-device testing points to help developers catch issues their own flagship phone would never reveal."
+ },
+ "https://dev.to/alicia_lu/switching-two-baked-lamps-in-threejs-without-reloading-textures-269": {
+  "zh_title": "Three.js 里不重载贴图切换两盏烘焙灯",
+  "zh_oneliner": "作者用 Blender Cycles 把两盏灯的光照分别烘焙到同一张 UV 贴图，再用 Three.js 着色器实时切换，附完整实验数据与可运行示例。",
+  "en_title": "Switching Two Baked Lamps in Three.js Without Reloading Textures",
+  "en_oneliner": "The author bakes two lamps' lighting into a single UV atlas with Blender Cycles, then switches between them in real time with a Three.js shader, with full experiment data and a runnable example."
+ },
+ "https://dev.to/divyanshusinha136/a-double-dqn-agent-that-plays-snake-written-entirely-in-kingcobra-493h": {
+  "zh_title": "用自研语言 KingCobra 从零写了一个玩贪吃蛇的 Double DQN 智能体",
+  "zh_oneliner": "作者用自己的编程语言 KingCobra 实现了游戏、经验回放、神经网络训练与实时看板，完整演示了如何从零搭建一个会玩贪吃蛇的强化学习智能体。",
+  "en_title": "A Double DQN agent that plays Snake, written entirely in KingCobra",
+  "en_oneliner": "The author built a Double DQN agent that plays Snake entirely in KingCobra, their own programming language, implementing the game, replay buffer, neural-network training and a live dashboard from scratch."
+ },
+ "https://dev.to/bloxtools/the-best-free-roblox-tool-sites-in-2026-tested-compared-j9e": {
+  "zh_title": "2026 年最佳免费 Roblox 工具站实测对比",
+  "zh_oneliner": "作者实测对比了一批免费 Roblox 工具站，提醒读者警惕索要账号 Cookie 与问卷墙之类的陷阱。",
+  "en_title": "The Best Free Roblox Tool Sites in 2026 — Tested & Compared",
+  "en_oneliner": "The author tests and compares a batch of free Roblox tool sites, warning readers about traps such as sites demanding account cookies or hiding behind survey walls."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value": {
+  "zh_title": "《光与影：33号远征队》主编剧谈 GTA 6 裁员担忧：创造价值的人没拿到应得的份额",
+  "zh_oneliner": "《33号远征队》主编剧借 GTA 6 裁员风波谈游戏行业的价值分配问题，并表示希望 Rockstar 团队组建工会成功。",
+  "en_title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+  "en_oneliner": "Expedition 33's lead writer uses the GTA 6 layoff concerns to talk about how value is shared in the games industry, and says he hopes the Rockstar team succeeds in unionizing."
  }
 }
