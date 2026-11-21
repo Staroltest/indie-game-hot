@@ -20032,5 +20032,11 @@
   "zh_oneliner": "2001 年发售的 GameCube 格斗游戏迎来 25 周年，从客厅派对一路打进竞技舞台，至今仍有活跃的玩家社群。",
   "en_title": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
   "en_oneliner": "The 2001 GameCube fighter turns 25, having grown from a couch party game into a lasting competitive staple with an active community to this day."
+ },
+ "https://dev.to/juegostudiosofficial/a-nightly-build-handoff-checklist-for-unreal-teams-split-between-india-and-europe-or-the-us-56h7": {
+  "zh_title": "跨印度与欧美两地的 Unreal 团队夜间构建交接清单",
+  "zh_oneliner": "一份给分处印度与欧美两地的 Unreal 团队的夜间构建交接清单，约定统一的截稿时间与交接流程，让时差变成全天候推进的优势而不是沟通损耗。",
+  "en_title": "A nightly-build handoff checklist for Unreal teams split between India and Europe or the US",
+  "en_oneliner": "A nightly-build handoff checklist for Unreal teams split between India and Europe or the US, agreeing on a single cutoff time and handoff routine so the time-zone gap becomes round-the-clock momentum instead of lost mornings."
  }
 }
