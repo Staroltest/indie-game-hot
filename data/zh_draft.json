@@ -20170,5 +20170,17 @@
   "zh_oneliner": "《Soldat》与《亚瑟王之剑》作者的新作《Maniac》把《吸血鬼幸存者》的爽快割草与老派《GTA 2》的俯视角混乱结合在一起，值得独立开发者留意这种跨类型混搭的思路。",
   "en_title": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
   "en_oneliner": "From the makers of Soldat and King Arthur's Gold, Maniac blends Vampire Survivors-style horde action with old-school Grand Theft Auto 2's top-down chaos — a cross-genre mash-up worth a look for indie developers."
+ },
+ "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november": {
+  "zh_title": "谈话点：这个周末你在玩什么？（11月21日）",
+  "zh_oneliner": "Nintendo Life 的周末闲聊栏目，问问读者这周末都在玩什么，顺带调侃 GTA 6 发售周的热闹。",
+  "en_title": "Talking Point: What Are You Playing This Weekend? (21st November)",
+  "en_oneliner": "Nintendo Life's weekend chat column asks readers what they're playing, with a nod to GTA 6's launch week."
+ },
+ "https://dev.to/jason1991/building-deadline-dungeon-with-kiro-specs-first-code-second-and-one-very-stubborn-boss-39d3": {
+  "zh_title": "用 Kiro 制作《Deadline Dungeon》：先写规格再写代码，还有一个特别顽固的 Boss",
+  "zh_oneliner": "开发者参加 Kiroween 2026 黑客松，用 Kiro 的规格先行流程做了一款地牢游戏，分享 Boss 战调教里踩过的坑。",
+  "en_title": "Building Deadline Dungeon with Kiro: Specs First, Code Second — and One Very Stubborn Boss",
+  "en_oneliner": "A Kiroween 2026 hackathon entry: a developer builds a dungeon game with Kiro's spec-first workflow and shares lessons from tuning a stubborn boss fight."
  }
 }
