@@ -20110,5 +20110,23 @@
   "zh_oneliner": "一位韩国独立开发者用 Flutter 打造了离线二十一点训练器与 30 多种桌游模拟器，公开征求真实反馈。",
   "en_title": "I built an offline Blackjack trainer & 30+ table game simulator in Flutter — politely looking for real feedback",
   "en_oneliner": "A solo Flutter developer from South Korea built an offline Blackjack trainer and a 30+ table game simulator, and is asking the community for honest feedback."
+ },
+ "https://dev.to/joanbernierpixels/16x16-or-32x32-pitfalls-of-drawing-a-mockingjay-pin-pickup-icon-in-a-pixel-art-maker-2jbo": {
+  "zh_title": "16×16 还是 32×32？在像素画工具里画嘲笑鸟徽章拾取图标踩过的坑",
+  "zh_oneliner": "作者想给 game jam 小游戏做一枚金色嘲笑鸟徽章当可拾取道具，复盘了在 16×16 画布上既要画戒指又要画展翅小鸟时，像素不够分、造型糊成一团的教训。",
+  "en_title": "16x16 or 32x32? Pitfalls of Drawing a Mockingjay-Pin Pickup Icon in a Pixel Art Maker",
+  "en_oneliner": "The author wanted a gold mockingjay pin as a collectible for a jam-sized game, and walks through what went wrong trying to fit both a ring and a spread-winged bird into a 16x16 canvas."
+ },
+ "https://dev.to/thumbyard/the-numbers-behind-a-one-button-wall-jump-247d": {
+  "zh_title": "一键蹬墙跳背后的数值",
+  "zh_oneliner": "一款浏览器小游戏只用一个按键让攀爬者在两面墙之间来回跳、躲避下方上涨的岩浆，作者公开了对照 Celeste 等作品调校出的重力、跳跃初速与下落速度上限等真实数值。",
+  "en_title": "The numbers behind a one-button wall jump",
+  "en_oneliner": "A tiny browser game lets a climber bounce between two walls with a single button while lava rises below, and the author shares the real gravity, launch velocity and fall-speed cap values tuned against Celeste and similar games."
+ },
+ "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard": {
+  "zh_title": "我们最近在玩什么——“它很慢、很别扭、很怪，而且很难”",
+  "zh_oneliner": "Eurogamer 编辑部每周例行栏目，聊聊这周大家手头在玩的游戏，以及一款节奏缓慢、操作别扭却自有味道的作品。",
+  "en_title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
+  "en_oneliner": "Eurogamer's weekly roundup of what the editors have been playing, including one slow, awkward and strange game that is hard in its own distinctive way."
  }
 }
