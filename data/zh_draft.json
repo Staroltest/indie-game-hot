@@ -20728,5 +20728,11 @@
   "zh_oneliner": "一款模拟经营小品，让你用 Letterboxd 账号或媒体服务器把收藏的电影摆进一家数字版 Blockbuster 录像店，过一把店主瘾。",
   "en_title": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server",
   "en_oneliner": "A small shopkeeping sim that lets you stock a digital faux Blockbuster video store with films from your Letterboxd watchlist or Plex server."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/death-stranding-let-players-help-without-showing-up-9f0": {
+  "zh_title": "Death Stranding：让玩家在不露面的情况下互相帮助",
+  "zh_oneliner": "以《死亡搁浅》的 Social Strand 系统为例，拆解异步互助如何把一次顺手之举变成陌生人之间的帮助，并给出在小原型里验证这一思路的做法。",
+  "en_title": "Death Stranding: Let Players Help Without Showing Up",
+  "en_oneliner": "Using Death Stranding's Social Strand System as an example, it breaks down how asynchronous help turns a casual act into a favor between strangers, and suggests how to test the idea in a small prototype."
  }
 }
