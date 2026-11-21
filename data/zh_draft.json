@@ -20194,5 +20194,17 @@
   "zh_oneliner": "GTA 6 在所有主机上都以 30fps 为目标且无 60fps 模式，文章从 CPU 密集型模拟与帧时间稳定性的角度聊这项取舍对性能预算的启示。",
   "en_title": "GTA 6 Targets 30fps on Every Console — Even the PS5 Pro. Let’s Talk About Why",
   "en_oneliner": "GTA 6 targets 30fps on every console with no 60fps mode confirmed — this piece looks at the CPU-bound simulation behind that call and what it means for performance budgets."
+ },
+ "https://www.indiedb.com/games/get65/news/get65-brings-backgammon-back-to-the-table-on-your-pc": {
+  "zh_title": "GET65 让西洋双陆棋重回桌面——PC 版上线",
+  "zh_oneliner": "免费下载的在线西洋双陆棋登陆 Windows，界面支持十种语言，桌游开发者可以参考它的联机与本地化做法。",
+  "en_title": "GET65 brings backgammon back to the table — on your PC",
+  "en_oneliner": "A free online backgammon game lands on Windows with an interface in ten languages — a handy reference for localizing and shipping a board game."
+ },
+ "https://www.indiedb.com/games/shift2/news/shift-free-demo-out-now-play-in-your-browser": {
+  "zh_title": "SHIFT 免费试玩版上线，可直接在浏览器里玩",
+  "zh_oneliner": "第一人称跑酷加武士刀的试玩版已免费上线，可在浏览器里直接体验，一键切换双重现实的机制值得跑酷类开发者参考。",
+  "en_title": "SHIFT free demo out now, play in your browser",
+  "en_oneliner": "The free first-person parkour-and-katana demo is playable right in the browser, with a single key flipping between two realities — a neat mechanic for movement-focused developers to study."
  }
 }
