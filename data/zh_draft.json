@@ -21598,5 +21598,23 @@
   "zh_oneliner": "解析《GTA 6》结局分支的两种抉择，看看顶级大作如何用一个二选一收束玩家的整个旅程。",
   "en_title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
   "en_oneliner": "A look at how GTA 6's ending branches force a final choice, and what its two-option design can teach about closing a long player journey."
+ },
+ "https://dev.to/pengeszikra/3draft-game-engine-targetting-system-4gfp": {
+  "zh_title": "3Draft：浏览器 3D 引擎的目标锁定系统",
+  "zh_oneliner": "作者用自研浏览器 3D 引擎 3Draft 搭建了一个可实时运行的太空站场景，并介绍了其中像搭积木一样拼装低模场景与角色的目标锁定系统实现。",
+  "en_title": "3Draft : Game Engine Targetting System",
+  "en_oneliner": "The author builds a live space-station scene in 3Draft, his own browser-based 3D engine, and walks through the targeting system behind its LEGO-like assembly of low-poly scenes and characters."
+ },
+ "https://dev.to/nefayran/my-ai-agents-godot-game-drew-trees-and-a-town-behind-its-planet-two-fixes-cut-3-ms-of-gpu-time-1a0k": {
+  "zh_title": "我的 AI 智能体写的 Godot 游戏在行星背面也画树画小镇，两处修复省下 3 毫秒 GPU 时间",
+  "zh_oneliner": "AI 智能体用 Godot 写的《Planet Wanderer》里，行星背面的树也在白白消耗每帧 4 毫秒，作者用拆小树块加地平线剔除两招，把 GPU 耗时砍了 3 毫秒。",
+  "en_title": "My AI agents' Godot game drew trees and a town behind its planet; two fixes cut 3 ms of GPU time",
+  "en_oneliner": "In Planet Wanderer, a Godot game written by AI agents, trees on the far side of the planet were wasting 4 ms per frame; splitting trees into smaller pieces and adding a horizon-culling test cut GPU time by 3 ms."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work": {
+  "zh_title": "英伟达发布热修复想解决驱动狂写 SSD 的问题，结果根本没修好",
+  "zh_oneliner": "英伟达驱动被曝持续写入损耗 SSD，官方紧急推了热修复补丁，但实测下来问题依旧没解决，AI 造的麻烦 AI 自己也修不好。",
+  "en_title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
+  "en_oneliner": "Nvidia's driver was caught hammering SSDs with constant writes, and the emergency hotfix it rushed out doesn't actually fix the problem — AI isn't great at fixing problems AI created."
  }
 }
