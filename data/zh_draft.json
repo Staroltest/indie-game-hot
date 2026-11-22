@@ -20974,5 +20974,29 @@
   "zh_oneliner": "《铁拳》系列制作人原田胜弘透露，他曾想把某只宝可梦加入格斗游戏《宝可梦格斗》，可惜最终未能成行。",
   "en_title": "Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
   "en_oneliner": "Tekken producer Katsuhiro Harada reveals the Pokémon he once wanted to add to the fighting game Pokken Tournament — but it never made the cut."
+ },
+ "https://dev.to/ggle_in/flinch-royale-turning-composure-into-high-stakes-party-play-with-presage-smartspectra-4hfe": {
+  "zh_title": "Flinch Royale：把“沉住气”变成高风险派对竞技，接入 Presage SmartSpectra",
+  "zh_oneliner": "一款四模式派对游戏，用 Presage SmartSpectra 把“保持冷静”做成竞技看点，支持单人计时挑战与房主对战客人的联机对局。",
+  "en_title": "Flinch Royale: Turning Composure Into High-Stakes Party Play with Presage SmartSpectra",
+  "en_oneliner": "A four-mode party game that turns keeping your cool into a competitive spectator sport with Presage SmartSpectra, offering solo timed runs and live Room Master vs. Guest matches."
+ },
+ "https://dev.to/_21fd064819ff1707b8060/i-generated-9000-nonograms-only-1-in-6-pictures-survived-15x15-57e": {
+  "zh_title": "我生成了 9000 张数织图，只有六分之一的图案活了下来（15×15）",
+  "zh_oneliner": "一位韩国独立开发者为自己的数织游戏批量生成 9000 道谜题，分享用图片生成做题库、再筛出可解图案的完整流程。",
+  "en_title": "I generated 9,000 nonograms. Only 1 in 6 pictures survived 15 15.",
+  "en_oneliner": "A junior solo developer from South Korea shares how he bulk-generated 9,000 nonogram puzzles for his game and filtered them down to the solvable ones."
+ },
+ "https://dev.to/g1joshi/from-making-a-ball-bounce-to-bending-the-laws-of-gravity-5ga4": {
+  "zh_title": "从让小球弹跳，到改写重力法则",
+  "zh_oneliner": "一位开发者回顾从 2022 年的乒乓小游戏到 2026 年物理平台游戏 PhaseDrift 的成长路，聊如何用物理玩法做出维度切换。",
+  "en_title": "From Making a Ball Bounce to Bending the Laws of Gravity",
+  "en_oneliner": "A developer traces the journey from a simple 2022 Ping-Pong project to PhaseDrift, a 2026 physics-driven platformer built around dimension switching."
+ },
+ "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament": {
+  "zh_title": "原田胜弘透露他想加入《宝可拳》的宝可梦",
+  "zh_oneliner": "《铁拳》制作人原田胜弘聊起当年想放进《宝可拳》的宝可梦人选，可惜最终没能入选。",
+  "en_title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+  "en_oneliner": "Tekken producer Katsuhiro Harada reveals which Pokémon he wanted to add to Pokken Tournament — and why it didn't make the cut."
  }
 }
