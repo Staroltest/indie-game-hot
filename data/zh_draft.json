@@ -20932,5 +20932,17 @@
   "zh_oneliner": "拆解简单的方块摆放玩法如何成为全球爆款，以及浏览器游戏正在给它带来什么新方向。",
   "en_title": "From Mobile Apps to Browser Games: The Evolution of Block Blast-Style Puzzles",
   "en_oneliner": "It breaks down how a simple block-placement mechanic became a global hit, and what new direction browser games are giving it."
+ },
+ "https://www.indiedb.com/games/lofi-cozy-room/news/pick-your-little-work-buddy-in-lofi-cozy-room": {
+  "zh_title": "在《Lofi Cozy Room》里挑选你的小小工作伙伴",
+  "zh_oneliner": "这款已发售的 Windows 桌面陪伴小游戏介绍了现有的虚拟形象选择，并放出完整预告、免费 Steam 试玩版和接下来两次折扣安排。",
+  "en_title": "Pick Your Little Work Buddy in Lofi Cozy Room",
+  "en_oneliner": "This released Windows desktop companion game shows off its avatar options, along with the full base-game trailer, a free Steam demo, and the next two scheduled discounts."
+ },
+ "https://dev.to/m_shayanfaisal/no-one-is-coming-to-help-you-in-learning-a-development-9hp": {
+  "zh_title": "学游戏开发，没人会来帮你",
+  "zh_oneliner": "作者复盘自学游戏开发的弯路：刷了大量教程、学了 Unity 的 C#，真正动手时却不知道从何下手，提醒后来者别只停留在看教程上。",
+  "en_title": "No one is coming to help you in learning a Development",
+  "en_oneliner": "The author looks back on learning game development the hard way: after bingeing tutorials and learning C# for Unity, they still did not know where to start when actually building a game, a reminder not to stop at watching tutorials."
  }
 }
