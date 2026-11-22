@@ -21142,5 +21142,29 @@
   "zh_oneliner": "一名 GTA 6 玩家称，因把在游戏裸体主义度假村拍的照片发给朋友，遭遇了 30 天 PlayStation Network 封禁。",
   "en_title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
   "en_oneliner": "A Grand Theft Auto 6 player says they received a 30-day PlayStation Network ban after sending a friend a photo taken in the game's nudist resort."
+ },
+ "https://dev.to/movetio/going-live-the-small-ux-fixes-we-shipped-for-launch-movetio-devlog-6-3l0n": {
+  "zh_title": "上线了：为发布做的那些小 UX 修复（Movetio 开发日志 #6）",
+  "zh_oneliner": "独立开发者分享浏览器文字黑手党游戏 Movetio 上线周做的减摩擦工作：邮件确认、消息、通知、旅行与监狱计时等一处处小修小补。",
+  "en_title": "Going live: the small UX fixes we shipped for launch (Movetio devlog #6)",
+  "en_oneliner": "An indie dev shares the friction-removing fixes from launch week of Movetio, a free text-based mafia game in the browser: email confirmation, messages, notifications, travel and jail timers, polished one detail at a time."
+ },
+ "https://dev.to/juegostudiosofficial/getting-a-game-porting-estimate-from-an-offshore-team-in-india-eight-technical-inputs-to-hand-over-pkh": {
+  "zh_title": "找印度外包团队做游戏移植报价前，先交齐这八项技术资料",
+  "zh_oneliner": "移植报价总跑偏，是因为报价方在看不见的部分只能靠猜；文章列出向外包团队交接前应准备好的八项技术输入，避免时差把每次澄清拖成一天。",
+  "en_title": "Getting a game porting estimate from an offshore team in India: eight technical inputs to hand over first",
+  "en_oneliner": "Porting quotes go wrong because the team quoting guesses at the parts it cannot see; the article lists the eight technical inputs to hand over before asking an offshore team for a number, so time-zone gaps do not turn every clarification into a lost day."
+ },
+ "https://dev.to/cliffwong/how-i-built-an-undertale-inspired-bad-time-simulator-in-pure-javascript-60-fps-on-browser-1h7m": {
+  "zh_title": "我如何用纯 JavaScript 复刻 Undertale 的 Sans 决战模拟器（浏览器 60 帧）",
+  "zh_oneliner": "作者复刻 Undertale 里 Sans 屠杀线 Boss 战的弹幕模拟器，用纯 JavaScript 在浏览器里跑满 60 帧，并复盘了确定性弹幕引擎的实现思路。",
+  "en_title": "How I Built an Undertale-Inspired Bad Time Simulator in Pure JavaScript (60 FPS on Browser)",
+  "en_oneliner": "The author rebuilt Undertale's Sans genocide boss fight as a browser bullet-hell simulator in pure JavaScript at a locked 60 FPS, and walks through how the deterministic engine was built."
+ },
+ "https://www.eurogamer.net/gta-6-launch-day-engagement-circana": {
+  "zh_title": "Circana：GTA 6 发售当天，超过一半在线主机玩家都在玩它",
+  "zh_oneliner": "Circana 数据显示，GTA 6 发售当天 PS5 与 Xbox 在线玩家中超过一半都在玩这款游戏。",
+  "en_title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+  "en_oneliner": "Circana data shows that on GTA 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6."
  }
 }
