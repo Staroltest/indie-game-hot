@@ -21622,5 +21622,23 @@
   "zh_oneliner": "一位独立开发者决定公开分享自己的开发过程，首个项目是《Sonic 3 & Knuckles》重制版，正攻克角色移动、地形碰撞与 32:9 超宽屏适配。",
   "en_title": "Figured it was time to start sharing what I've been working on...",
   "en_oneliner": "An indie developer decides to share their work in the open, starting with a Sonic 3 & Knuckles remaster — tackling character movement, terrain collision, and 32:9 ultrawide support."
+ },
+ "https://www.indiedb.com/games/lost-in-trash/news/announcing-my-new-indie-game-lost-in-trash": {
+  "zh_title": "宣布我的新独立游戏《Lost In Trash》",
+  "zh_oneliner": "操控一台小机器人在布满垃圾、怪异生物与被遗忘之物的神秘垃圾场里求生清理，融合探索、升级与放置玩法。",
+  "en_title": "Announcing my new indie game \"Lost In Trash\"",
+  "en_oneliner": "Guide a little robot surviving and cleaning up a mysterious landfill full of garbage, strange creatures, and forgotten objects, mixing exploration, upgrades, and incremental gameplay."
+ },
+ "https://dev.to/matto_yanni2_5018bfec28/raymarching-a-nebula-the-basics-with-an-example-shader-4a7m": {
+  "zh_title": "用 Raymarching 渲染星云：基础入门与示例着色器",
+  "zh_oneliner": "从零讲起体渲染 Raymarching 的基本原理，并附上一份可直接粘进 Shadertoy 的完整 GLSL 着色器。",
+  "en_title": "Raymarching a nebula: the basics, with an example shader",
+  "en_oneliner": "A from-scratch guide to the basics of volumetric raymarching, with a complete GLSL shader you can paste straight into Shadertoy."
+ },
+ "https://dev.to/regodefies/kaeru-hero-30-another-milestone-in-a-project-im-passionate-about-1i5p": {
+  "zh_title": "《Kaeru Hero》3.0：我倾注热情的项目又一里程碑",
+  "zh_oneliner": "独立平台游戏《Kaeru Hero》更新至 3.0，敌人行为、关卡平衡、镜头与存档进度都做了大幅打磨。",
+  "en_title": "🐸 Kaeru Hero 3.0 — Another milestone in a project I'm passionate about! 🚀",
+  "en_oneliner": "Indie platformer Kaeru Hero hits 3.0 with major polish to enemy behavior, game balance, camera movement, checkpoints, and progression."
  }
 }
