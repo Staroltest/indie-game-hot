@@ -21184,5 +21184,65 @@
   "zh_oneliner": "E.T. 的设计者 Howard Scott Warshaw 认为如今 AI 生成游戏的泛滥，与 80 年代行业崩溃前的劣质游戏洪流如出一辙，不过他仍看好 AI 对行业的长远积极作用。",
   "en_title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
   "en_oneliner": "Howard Scott Warshaw, designer of Atari's notorious E.T., says the flood of AI-made games echoes the glut of poor-quality titles that preceded the 1980s industry crash — though he still sees AI as a \"super positive thing\" for the industry."
+ },
+ "https://www.indiedb.com/games/havencraft/news/devlog-22-farming-food": {
+  "zh_title": "开发日志 #22：种田与食物",
+  "zh_oneliner": "发售前两周，Havencraft 一口气放出种田、食物、增益、门、表情、镐斧与高炉等一大批新玩法。",
+  "en_title": "Devlog #22 - Farming & Food",
+  "en_oneliner": "Two weeks before launch, Havencraft rolls out farming, food, buffs, doors, emotes, the pick/axe, a blast furnace and more."
+ },
+ "https://www.indiedb.com/games/agentic-kingdoms/news/storms-achievements-and-richer-relic-sites": {
+  "zh_title": "风暴、成就与更丰厚的遗迹点",
+  "zh_oneliner": "风暴席卷地图，39 项成就上线，遗迹点的矿石与白银产出大幅提升。",
+  "en_title": "Storms, achievements and richer relic sites",
+  "en_oneliner": "Storms drift across the map, 39 achievements arrive, and relic sites pay far more ore and silver."
+ },
+ "https://www.indiedb.com/games/buckvale/news/buckvale-20-valley-life": {
+  "zh_title": "Buckvale 2.0：山谷生活",
+  "zh_oneliner": "2.0 版“山谷生活”上线：具名邻居会写信提要求、山谷博物馆等你填满、拍照模式可寄明信片，还有雪景与真实农场音效。",
+  "en_title": "Buckvale 2.0: Valley Life",
+  "en_oneliner": "Buckvale 2.0 \"Valley Life\" is out: named neighbours send letters and requests, a Valley Museum to fill, photo-mode postcards, a snowy winter look and real farm sounds."
+ },
+ "https://www.indiedb.com/games/unaccounted/news/what-the-registry-is-for": {
+  "zh_title": "登记册是干什么用的",
+  "zh_oneliner": "你要查清谁住在这里、谁放了火，再决定向派你来的部门汇报什么，本文聊的是作者为何想让游戏这样收尾。",
+  "en_title": "What the registry is for",
+  "en_oneliner": "You work out who lives there and who set the fire, then decide what to tell the Ministry — this post explains why the developers want the game to end that way."
+ },
+ "https://www.indiedb.com/games/log-away/news/finders-keepers-a-second-look-at-the-december-update": {
+  "zh_title": "失物招领：再看 Log Away 十二月更新",
+  "zh_oneliner": "新增纪念品分类、随温馨度升温送达的旅行包，以及可在墙面任意位置安装的门窗。",
+  "en_title": "Finders keepers: a second look at Log Away's December update",
+  "en_oneliner": "A Keepsakes category, Travel Bags that arrive as your Cozy Heart warms, and doors and windows anywhere on the wall."
+ },
+ "https://dev.to/kakeroth/peek-a-horror-game-where-your-macbook-lid-is-your-eyelids-3hdp": {
+  "zh_title": "Peek：一款把 MacBook 盖子当眼皮的恐怖游戏",
+  "zh_oneliner": "坐在黑暗档案室里，合上 MacBook 盖子就等于闭眼，借此躲开走廊尽头那个高大的身影。",
+  "en_title": "Peek: a horror game where your MacBook lid is your eyelids",
+  "en_oneliner": "A horror game where closing your MacBook lid means closing your eyes, as something tall stands at the end of a dark archive."
+ },
+ "https://dev.to/aditwisteria/spec-driven-frankenstein-how-kiro-stitched-a-game-out-of-five-browser-apis-3ia5": {
+  "zh_title": "规格驱动的弗兰肯斯坦：Kiro 如何用五个浏览器 API 拼出一款游戏",
+  "zh_oneliner": "参加 Kiroween 2026 黑客松的 FRANKEN-LAB 复盘：以规格文档驱动，用五个浏览器 API 拼合出一款游戏。",
+  "en_title": "Spec-Driven Frankenstein: How Kiro Stitched a Game Out of Five Browser APIs",
+  "en_oneliner": "A Kiroween 2026 hackathon postmortem on FRANKEN-LAB: a game stitched together from five browser APIs, driven by a spec document."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer": {
+  "zh_title": "GTA 6 有一套复杂的毒品网络，追踪毒品从源头到街头买家的全过程",
+  "zh_oneliner": "开发团队透露，游戏内置一套完整的毒品流通网络，毒品从哪里来、如何到达街头买家都有迹可循，让世界显得更真实。",
+  "en_title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+  "en_oneliner": "The developers say GTA 6 tracks a drug network end to end — from where drugs come from to how they reach the street-level buyer — to make the world feel more real."
+ },
+ "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
+  "zh_title": "以撒开发者撤下《忏悔+》中的 AI 生成音乐",
+  "zh_oneliner": "玩家在最新更新中发现 AI 生成音乐后，Nicalis 已将其撤下，Steam 上随之出现一波差评。",
+  "en_title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
+  "en_oneliner": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players found it in the latest update, prompting a wave of negative Steam reviews."
+ },
+ "https://www.pocketgamer.biz/gta-6-goes-gangbusters-week-in-mobile-games-podcast": {
+  "zh_title": "GTA 6 势头凶猛、Netflix Games 裁员与皮克敏 Bloom 的意外崛起 | 本周手游播客",
+  "zh_oneliner": "第 111 期播客聊本周手游圈大事：GTA 6 热度爆棚、Netflix Games 裁员，以及 Pikmin Bloom 的意外翻红。",
+  "en_title": "GTA 6 goes gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise | Week in Mobile Games podcast",
+  "en_oneliner": "The 111th episode covers the week's mobile games news: GTA 6 going gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise."
  }
 }
