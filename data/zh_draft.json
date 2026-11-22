@@ -21478,5 +21478,23 @@
   "zh_oneliner": "GTA 6 里的赌场与卡丁车赛道眼下还进不去，作者聊了聊为什么仍值得期待它们日后开放。",
   "en_title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
   "en_oneliner": "GTA 6's casino and go-kart track are still closed for now; the author explains why those 'coming soon' signs are still worth believing."
+ },
+ "https://gamedev.net/blogs/entry/2298706-lightnerx-v020-beta-a-c17-networking-library-for-multiplayer-games": {
+  "zh_title": "LightnerX v0.2.0-beta：面向多人游戏的 C++17 网络库",
+  "zh_oneliner": "基于 GameNetworkingSockets 的开源 C++17 网络库更新到 0.2.0-beta，附带自研的 INER 语义通信协议，让多人游戏的客户端与服务器消息收发更顺手。",
+  "en_title": "LightnerX v0.2.0-beta: A C++17 networking library for multiplayer games",
+  "en_oneliner": "An open-source C++17 networking library built on GameNetworkingSockets, now at 0.2.0-beta, with the author's own INER semantic messaging protocol to make client-server communication in multiplayer games smoother."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far": {
+  "zh_title": "《GTA 6》里你最喜欢哪个电台？",
+  "zh_oneliner": "盘点《GTA 6》中 Leonida 各家电台的曲风，聊聊哪一家的配乐最对味。",
+  "en_title": "Which GTA 6 radio station is your favourite so far?",
+  "en_oneliner": "A rundown of the radio stations of Leonida in GTA 6 and a look at which one's soundtrack hits hardest."
+ },
+ "https://gamedevjs.com/tutorials/webp-ktx2-textures-gpu-memory": {
+  "zh_title": "为什么更大的 3D 下载反而占用更少显存",
+  "zh_oneliner": "拿同一款桌游的两个 GLB 文件做对比，讲清 WebP、KTX2 与 mipmap 如何在 Three.js 里让下载变大、显存反而变小。",
+  "en_title": "Why a larger 3D download can use less GPU memory",
+  "en_oneliner": "Comparing two GLB files of the same board game to show how WebP, KTX2 and mipmaps can make a download bigger yet use less GPU memory in Three.js."
  }
 }
