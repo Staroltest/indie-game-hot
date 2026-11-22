@@ -20890,5 +20890,29 @@
   "zh_oneliner": "一个四文件、无框架、无引擎的浏览器街机合集，31 个任务加 3D 大厅全靠手写 WebGL 渲染，作者总结了踩过的坑与取舍。",
   "en_title": "What I learned shipping a 31-game arcade in the browser with no engine",
   "en_oneliner": "A four-file, framework-free, engine-free browser arcade with 31 missions and a 3D hub rendered by hand-written WebGL — the author sums up the pitfalls and trade-offs."
+ },
+ "https://www.indiedb.com/games/point-invaders/news/the-menu-became-a-place-building-a-3d-hub-you-fly-through": {
+  "zh_title": "菜单变成了一个地方：打造可飞行的 3D 中枢",
+  "zh_oneliner": "Point Invaders 把 31 个任务的列表菜单改造成可驾驶拦截机穿梭的 3D 飞行甲板，任务环站、活动场馆都成了能飞过去的地点。",
+  "en_title": "The menu became a place: building a 3D hub you fly through",
+  "en_oneliner": "Point Invaders turns its 31-mission list menu into a 3D Flight Deck you fly through, with a ring station for missions and a stadium for events as places you actually visit."
+ },
+ "https://dev.to/wafflehacker/how-i-built-a-real-time-party-game-on-cloudflare-durable-objects-lem": {
+  "zh_title": "我如何用 Cloudflare Durable Objects 做了一款实时派对游戏",
+  "zh_oneliner": "作者用 Cloudflare Durable Objects 搭建音乐宾果派对游戏 Banger Bingo，电视当大屏、手机扫码即加入，分享了实时多人同步的实现思路。",
+  "en_title": "How I built a real-time party game on Cloudflare Durable Objects",
+  "en_oneliner": "The author built Banger Bingo, a music-bingo party game, on Cloudflare Durable Objects — TV as the big screen, phones joining by QR code — and shares how the real-time sync works."
+ },
+ "https://dev.to/bananafestdestiny/seven-map-packs-submitted-and-refused-in-fourteen-hours-and-every-one-of-these-platforms-says-3p4": {
+  "zh_title": "七个地图包十四小时内全被拒，而每个平台都说程序化生成不是 AI",
+  "zh_oneliner": "作者的七个地图包接连被平台以“生成式 AI”为由拒绝，却发现各平台明文写着程序化生成不算 AI，记录了这场申诉拉锯。",
+  "en_title": "Seven map packs, submitted and refused in fourteen hours — and every one of these platforms says procedural generation is not AI",
+  "en_oneliner": "The author's seven map packs were all refused within fourteen hours as 'generative AI', even though every platform's own rules say procedural generation is not AI — a record of the appeals tug-of-war."
+ },
+ "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn": {
+  "zh_title": "阿斯塔里昂的《博德之门 3》前传小说惹怒了玩家，现在轮到影心了",
+  "zh_oneliner": "《博德之门 3》前传小说系列再起争议，影心篇由获奖作家 Tasha Suri 执笔，粉丝反应同样激烈。",
+  "en_title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+  "en_oneliner": "The Baldur's Gate 3 prequel-novel series stirs controversy again, with Shadowheart's book by award-winning author Tasha Suri drawing the same heated fan reaction as Astarion's."
  }
 }

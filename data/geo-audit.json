@@ -18,7 +18,7 @@
    "key": "sitemap",
    "label": "sitemap.xml 条数与漏页",
    "status": "pass",
-   "detail": "共 6793 条 URL，磁盘 6792 个 HTML 页全部在列"
+   "detail": "共 6801 条 URL，磁盘 6800 个 HTML 页全部在列"
   },
   {
    "key": "llms",
