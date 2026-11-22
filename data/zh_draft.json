@@ -21046,5 +21046,47 @@
   "zh_oneliner": "GTA Online 运营十余年后，记者坐进竞速社群 Last Riders 的车里，聊他们如何告别这片跑了多年的路、迎接 GTA 6 的到来。",
   "en_title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
   "en_oneliner": "After more than a decade of GTA Online, the writer rides along with the Last Riders racing crew as they say goodbye to the roads they called home and look ahead to GTA 6's launch."
+ },
+ "https://dev.to/succday/seven-hints-that-narrow-a-puzzle-without-answering-it-c6a": {
+  "zh_title": "七条提示如何收窄谜题而不直接给出答案",
+  "zh_oneliner": "每日解谜游戏的七条提示按首字母、词长、类别线索依次递进，关键在于用信息预算把搜索空间收窄到刚好够用的程度。",
+  "en_title": "Seven hints that narrow a puzzle without answering it",
+  "en_oneliner": "A daily puzzle game's seven hints progress from first letters to word lengths to category clues, spending an information budget that narrows the search space just enough without giving the answer away."
+ },
+ "https://dev.to/hani_craft_25ec13b5be0d40/neskit-studio-a-fantasy-console-for-nes-3e81": {
+  "zh_title": "NESkit Studio：一台能做真正 NES 游戏的幻想主机",
+  "zh_oneliner": "用 C99 与 cc65 打造的幻想主机，内置精灵、地图、音效、音乐追踪器与代码编辑器，让 NES 游戏开发变得更顺手。",
+  "en_title": "NESkit Studio - a Fantasy Console for NES",
+  "en_oneliner": "A fantasy console built with C99 and cc65 for making real NES games, packing sprite and map editors, a sound effects maker, a music tracker and a code editor into one approachable toolkit."
+ },
+ "https://dev.to/succday/the-coordinates-are-the-part-of-a-game-map-that-survives-a-redraw-2b8p": {
+  "zh_title": "坐标才是游戏地图重绘后依然成立的部分",
+  "zh_oneliner": "GTA 6 地图 798 个标记以 CSV 与 JSON 公开，归一化坐标让数据在地图重绘后依然准确，截图却做不到这一点。",
+  "en_title": "The coordinates are the part of a game map that survives a redraw",
+  "en_oneliner": "GTA 6 Maps publishes its 798 markers as open CSV and JSON with normalized coordinates, so the data stays accurate after a redraw while screenshots go stale."
+ },
+ "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best": {
+  "zh_title": "投票：哪版《马力欧与路易吉 RPG》封面最好看？",
+  "zh_oneliner": "《马力欧与路易吉 RPG》各地区封面大比拼开票，玩家可以投票选出心中的最佳设计。",
+  "en_title": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
+  "en_oneliner": "Box Art Brawl puts the regional covers of Mario & Luigi: Superstar Saga to a vote, letting readers pick their favorite design."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/multiplayer-games-unblocked-the-3-kinds-of-multiplayer-players-mean-and-how-each-one-is-built-4on7": {
+  "zh_title": "“多人游戏畅玩”背后是三种玩法：每种的架构与成本各不相同",
+  "zh_oneliner": "玩家搜“多人游戏畅玩”时指的其实是三种玩法——同键盘双人、同房间各自用手机、在线匹配陌生人，各自的架构与成本大不相同。",
+  "en_title": "Multiplayer games unblocked: the 3 kinds of multiplayer players mean, and how each one is built",
+  "en_oneliner": "When players search \"multiplayer games unblocked\" they mean one of three things — two people on one keyboard, a group joining one room from their phones, or matchmaking against strangers — each a different architecture with a different cost."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/funny-games-unblocked-what-actually-makes-a-browser-game-funny-for-devs-3hlf": {
+  "zh_title": "搞笑网页游戏到底为什么好笑：写给开发者的答案",
+  "zh_oneliner": "好笑的浏览器游戏很少靠写段子，而是靠系统制造意外：软塌塌的布娃娃物理、每次略有不同的操作、一个被允许捣蛋的角色。",
+  "en_title": "Funny games unblocked: what actually makes a browser game funny, for devs",
+  "en_oneliner": "Funny browser games are rarely joke-written; they are funny because a system produces surprise — floppy ragdoll physics, controls that behave slightly differently each time, and a character allowed to misbehave."
+ },
+ "https://dev.to/succday/the-archive-pattern-daily-games-that-do-not-punish-a-missed-day-5ef0": {
+  "zh_title": "存档模式：不错过一天也不惩罚玩家的每日游戏",
+  "zh_oneliner": "每日游戏不必靠连胜数字留人：把往期棋盘全部公开、错过一天变成可补看的内容，玩家就不会因为断签而流失。",
+  "en_title": "The archive pattern: daily games that do not punish a missed day",
+  "en_oneliner": "Daily games need not rely on streaks to keep players: keeping every past board public turns a missed day into content to catch up on, instead of a reset that drives players away."
  }
 }
