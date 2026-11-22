@@ -21568,5 +21568,11 @@
   "zh_oneliner": "新补丁通过节奏调整和一件能同时在三路召唤超级兵的道具，试图缩短对局时长，思路借鉴了节奏更快的同类 MOBA。",
   "en_title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
   "en_oneliner": "The new Dota 2 patch aims to shorten matches with pacing tweaks and an item that summons super creeps down every lane at once, borrowing ideas from faster-paced MOBAs."
+ },
+ "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding": {
+  "zh_title": "Unreal Engine 6 将提前砍掉关键脚本功能，转向 AI 编程",
+  "zh_oneliner": "Epic 计划让 Unreal Engine 6 提前告别蓝图可视化脚本，把重心交给 AI 辅助编程，习惯蓝图的开发者得提前准备转型了。",
+  "en_title": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
+  "en_oneliner": "Epic plans to drop Blueprints from Unreal Engine 6 earlier than expected and lean on AI-assisted coding instead, so developers used to visual scripting should start preparing for the shift."
  }
 }
