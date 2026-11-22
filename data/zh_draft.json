@@ -21244,5 +21244,23 @@
   "zh_oneliner": "第 111 期播客聊本周手游圈大事：GTA 6 热度爆棚、Netflix Games 裁员，以及 Pikmin Bloom 的意外翻红。",
   "en_title": "GTA 6 goes gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise | Week in Mobile Games podcast",
   "en_oneliner": "The 111th episode covers the week's mobile games news: GTA 6 going gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise."
+ },
+ "https://dev.to/yang_rocky_2ac2041abd9a8c/how-we-packed-75728-english-words-into-93-kb-gzipped-for-a-zero-latency-browser-word-graph-game-2d6h": {
+  "zh_title": "如何把 75,728 个英文单词压进 93 KB（gzip 后），做一款零延迟的浏览器单词图游戏",
+  "zh_oneliner": "作者分享如何把 7.5 万词的词典压到 93 KB，让纯前端单词游戏无需后端也能即时校验，首屏零等待。",
+  "en_title": "How We Packed 75,728 English Words into 93 KB Gzipped for a Zero-Latency Browser Word Graph Game",
+  "en_oneliner": "The author shares how a 75,000-word dictionary was squeezed into 93 KB so a fully client-side word game can validate moves instantly with no backend."
+ },
+ "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters": {
+  "zh_title": "读者来信：时之笛入侵者、皮克敏日与太多人类——Nintendo Life 读者信箱",
+  "zh_oneliner": "本月读者来信栏目，聊聊《时之笛》里的不速之客、皮克敏日和玩家们的闲话家常。",
+  "en_title": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
+  "en_oneliner": "This month's reader mailbag covers Ocarina intruders, Pikmin Day, and a light round of community chatter."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations": {
+  "zh_title": "GTA 6 里亚塔位置：如何为 Wyman 修复第二辆车",
+  "zh_oneliner": "找到散落的报废车辆，修好那辆 70 款 Riata，帮 Wyman 拿回他的第二辆车。",
+  "en_title": "GTA 6 Riata locations: How to restore the second car for Wyman",
+  "en_oneliner": "Track down the wrecked cars to restore the '70 Riata and get Wyman his second car back."
  }
 }
