@@ -21412,5 +21412,59 @@
   "zh_oneliner": "曾参与 GTA 6 制作的前 Rockstar 环境美术师谈自己花数年打磨的世界，称其整体令人惊艳，同时认为荒野大镖客 2 的河流做得更好。",
   "en_title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
   "en_oneliner": "A former Rockstar environment artist talks about the GTA 6 world he spent years building, calling it generally stunning while saying Red Dead 2 might have had better rivers."
+ },
+ "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too": {
+  "zh_title": "《洛克·拉莫拉的谎言》作者 Scott Lynch 在《星球大战：起义军》和《BattleTech》里各玩了 1500 多小时：托尔金要是有 Steam 账号，数据只会更夸张",
+  "zh_oneliner": "奇幻小说家 Scott Lynch 细数自己的 Steam 游戏时长，顺带调侃要是托尔金活在今天，游戏时间只会更离谱。",
+  "en_title": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'",
+  "en_oneliner": "Fantasy novelist Scott Lynch walks through his Steam playtime and jokes that Tolkien's numbers would have been even more embarrassing."
+ },
+ "https://www.indiedb.com/games/incremon/news/incremon-gameplay-trailer-is-out": {
+  "zh_title": "《Incremon》实机预告放出",
+  "zh_oneliner": "独立收集养成游戏《Incremon》放出首支实机预告，展示短时采集、伙伴羁绊与进化玩法，2027 年 3 月登陆 Steam。",
+  "en_title": "Incremon — Gameplay Trailer is Out",
+  "en_oneliner": "Indie creature-collecting game Incremon shows off bite-sized gathering, creature bonding and evolution in its first gameplay trailer ahead of a March 2027 Steam launch."
+ },
+ "https://www.indiedb.com/games/usurpator/news/60-seconds-of-raw-usurpator-demo-gameplay": {
+  "zh_title": "《Usurpator》免费试玩版 60 秒实机演示",
+  "zh_oneliner": "免费试玩版放出 60 秒原汁原味实机：传送门战斗、长矛双杀、毒球、据点与撤离，阵亡会掉落战利品。",
+  "en_title": "60 seconds of raw Usurpator demo gameplay",
+  "en_oneliner": "A minute of raw footage from the free demo shows portal fights, a spear double kill, a poison ball, the hub and an extraction — die in a raid and you drop your loot."
+ },
+ "https://www.indiedb.com/games/marauder-s/news/marauder-s-fire-and-burning-foliage-material-effect": {
+  "zh_title": "《MARAUDER S》：火焰与燃烧植被材质效果",
+  "zh_oneliner": "开发者分享新做的火焰特效与燃烧树叶材质，展示植被着火后的视觉表现。",
+  "en_title": "MARAUDER S - Fire and burning foliage material effect",
+  "en_oneliner": "The developer shows off a new fire effect and a burning foliage material for scorched vegetation."
+ },
+ "https://dev.to/oleg_neyman_17c7d8d5296c3/auditing-676m-solitaire-deals-offline-and-packing-356m-wins-into-825-kb-38ce": {
+  "zh_title": "离线审计 676 万局纸牌发牌，把 356 万个可赢牌局压进 825KB",
+  "zh_oneliner": "开发者分享如何离线审计数百万局纸牌发牌，把可赢牌局的判定结果压缩进 825KB，让手机端不用实时跑求解器也能只发可赢的牌。",
+  "en_title": "Auditing 6.76M Solitaire Deals Offline and Packing 3.56M Wins into 825 KB",
+  "en_oneliner": "The developer explains how to audit millions of solitaire deals offline and pack the winnable ones into 825 KB, so phones can deal only winnable games without running a solver at runtime."
+ },
+ "https://dev.to/stevencode237/why-i-chose-software-engineering-from-playing-fifa-to-dreaming-of-creating-football-5d8b": {
+  "zh_title": "从玩 FIFA 到梦想做足球游戏：我为什么选择软件工程",
+  "zh_oneliner": "一位在读软件工程学生讲述自己如何从踢球、玩 FIFA 一路走到想亲手做一款足球游戏。",
+  "en_title": "WHY I CHOSE SOFTWARE ENGINEERING: from playing FIFA to dreaming of creating football",
+  "en_oneliner": "A software engineering student tells how playing FIFA sparked a dream of building a football game of his own."
+ },
+ "https://dev.to/tribgames/i-built-a-free-site-that-saves-the-app-store-and-steam-game-charts-every-day-4bi2": {
+  "zh_title": "独立开发者做了个免费站，每天存档应用商店与 Steam 榜单",
+  "zh_oneliner": "独立开发者做的 GamerScroll 每天记录 App Store、Google Play 与 Steam 的榜单历史，让小团队不用花钱买市场情报工具也能查一款游戏何时进榜、待了多久。",
+  "en_title": "I built a free site that saves the app store and Steam game charts every day",
+  "en_oneliner": "A solo developer built GamerScroll, a free site that archives App Store and Steam charts daily so small teams can look up when a game entered the top 10 and how long it stayed — no paid market-intelligence tool needed."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code": {
+  "zh_title": "《GTA 6》里怎么偷 Declasse Vamos",
+  "zh_oneliner": "拿到车库密码，帮 Moses 偷走这辆 Declasse Vamos 的具体做法。",
+  "en_title": "How to steal the Declasse Vamos in GTA 6",
+  "en_oneliner": "Grab the garage code and steal the Declasse Vamos for Moses."
+ },
+ "https://dev.to/yooi/i-built-the-rhythm-game-i-always-wanted-with-claude-fable-52-not-another-one-prompt-claim-jfh": {
+  "zh_title": "用 Claude Fable 5.2 做了我一直想要的节奏游戏（不是又一个一句话生成）",
+  "zh_oneliner": "作者坦言平时很少做游戏，却一直放不下 O2Jam 式的下落音符玩法，于是用 Claude Fable 5.2 亲手做出了心里想要的那款节奏游戏，并讲清这不是一句话提示词的噱头。",
+  "en_title": "I built the rhythm game I always wanted with Claude Fable 5.2 (not another one-prompt claim)",
+  "en_oneliner": "The author rarely builds games, but an O2Jam-style falling-notes rhythm game was the one they always wanted — so they built it with Claude Fable 5.2, and explain why this is not another one-prompt claim."
  }
 }
