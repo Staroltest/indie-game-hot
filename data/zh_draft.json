@@ -21088,5 +21088,23 @@
   "zh_oneliner": "每日游戏不必靠连胜数字留人：把往期棋盘全部公开、错过一天变成可补看的内容，玩家就不会因为断签而流失。",
   "en_title": "The archive pattern: daily games that do not punish a missed day",
   "en_oneliner": "Daily games need not rely on streaks to keep players: keeping every past board public turns a missed day into content to catch up on, instead of a reset that drives players away."
+ },
+ "https://www.rockpapershotgun.com/the-sunday-papers-837": {
+  "zh_title": "《周日读物》第 837 期",
+  "zh_oneliner": "RPS 每周日读物栏目，汇总本周值得一读的游戏相关文章与随笔。",
+  "en_title": "The Sunday Papers",
+  "en_oneliner": "RPS's weekly Sunday reading roundup, collecting game-related articles and essays worth your time this week."
+ },
+ "https://dev.to/yang_hemmeter_b77d9c67e32/implementing-fixed-timestep-arcade-stunt-physics-and-input-buffering-in-html5-canvas-with-faqs-20ko": {
+  "zh_title": "在 HTML5 Canvas 中实现固定步长街机特技物理与输入缓冲（附常见问题）",
+  "zh_oneliner": "讲解如何用固定时间步长和输入缓冲，在 HTML5 Canvas 里做出稳定流畅的横版特技、平台跳跃或载具物理手感。",
+  "en_title": "Implementing Fixed-Timestep Arcade Stunt Physics and Input Buffering in HTML5 Canvas (With FAQs)",
+  "en_oneliner": "A practical guide to fixed-timestep physics and input buffering for stable, responsive 2D stunt, platformer, and vehicle games in HTML5 Canvas."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths": {
+  "zh_title": "《GTA 6》杰森的沉稳性格源自史蒂夫·麦奎因与退伍军人调研：“这些人通常不会喋喋不休”",
+  "zh_oneliner": "Rockstar 透露杰森的性格塑造参考了史蒂夫·麦奎因与退伍军人的真实状态，追求贴近现实的角色刻画。",
+  "en_title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+  "en_oneliner": "Rockstar explains how Steve McQueen and research into Army veterans shaped Jason's stoic character in Grand Theft Auto 6."
  }
 }
