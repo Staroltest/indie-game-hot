@@ -21514,5 +21514,35 @@
   "zh_oneliner": "围绕 GTA 6 的争论已经偏离事实本身，变成各执一词的立场之争，看看这种舆论失真是怎么形成的。",
   "en_title": "GTA 6 discourse is suffering from the flat earther effect",
   "en_oneliner": "The debate around GTA 6 has drifted away from the facts into entrenched camps — a look at how that distortion takes hold."
+ },
+ "https://gamedev.net/blogs/entry/2298707-void-runner": {
+  "zh_title": "《Void Runner》：2D 街机生存小游戏，在虚空中能撑多久",
+  "zh_oneliner": "独立开发者做的 2D 快节奏街机生存游戏，躲避威胁、考验反应速度，带多模式、射击模式和冬季活动，已上 itch.io。",
+  "en_title": "Void Runner",
+  "en_oneliner": "An indie-made fast-paced 2D arcade survival game about dodging threats in the Void, with multiple modes, a shooting mode and a winter event, now playable on itch.io."
+ },
+ "https://www.indiedb.com/games/seamfall-worlds-collide/news/seamfall-1093-the-journey-on-one-screen-real-crossroads-and-streak-tiers": {
+  "zh_title": "《Seamfall》1.0.93：旅程界面一屏搞定，岔路、连胜段位全到齐",
+  "zh_oneliner": "1.0.93 版重做了旅程界面：队伍血量置顶无需滚动、一键治疗，每个岔路都能选路，还有连胜段位和同行队友，安卓免费。",
+  "en_title": "Seamfall 1.0.93: the Journey on one screen, real crossroads and streak tiers",
+  "en_oneliner": "Version 1.0.93 rebuilds the Journey screen so team HP, one-tap healing, a road choice at every fork, streak tiers and party members all fit on one screen, free on Android."
+ },
+ "https://www.indiedb.com/games/cannabis-clicker/news/cannabis-clicker-is-out-now-on-steam": {
+  "zh_title": "《Cannabis Clicker》已上架 Steam：轻松放置点击，带转生与小游戏",
+  "zh_oneliner": "独立开发者 LDG 的休闲放置点击游戏已上 Steam，带转生系统、多个小游戏、100 个成就，还有个话痨小伙伴 Bud Buddy。",
+  "en_title": "Cannabis Clicker is out now on Steam",
+  "en_oneliner": "Solo dev LDG's laid-back weed-themed idle clicker is out now on Steam, with prestige, minigames, 100 achievements and a chatty companion called Bud Buddy."
+ },
+ "https://dev.to/davilkacisko/how-i-built-a-fast-roblox-pet-calculator-in-nextjs-16-formulas-multi-mutations-clean-ux-3acn": {
+  "zh_title": "我用 Next.js 16 做了个飞快的 Roblox 宠物计算器：公式、多重变异与干净体验",
+  "zh_oneliner": "作者为 Roblox 游戏 Steal an Egg 做了个轻量宠物收益计算器，讲清了宠物收入公式的 TypeScript 建模和几个让移动端秒开的小 UX 决策。",
+  "en_title": "How I Built a Fast Roblox Pet Calculator in Next.js 16 (Formulas, Multi-Mutations & Clean UX)",
+  "en_oneliner": "A developer walks through building a lightweight pet-income calculator for the Roblox game Steal an Egg in Next.js 16, covering the TypeScript income formula and small UX decisions that keep it instant on mobile."
+ },
+ "https://dev.to/ashtech52/gta-6-and-the-open-world-streaming-problem-1hd1": {
+  "zh_title": "GTA 6 与开放世界流式加载难题：Vice City 是怎么塞进主机内存的",
+  "zh_oneliner": "结合 Rockstar 两位技术负责人的说法，拆解 GTA 6 如何让 Vice City 在主机内存和单帧预算内流畅呈现，顺带对照了网页地图加载的同类问题。",
+  "en_title": "GTA 6 and the Open-World Streaming Problem",
+  "en_oneliner": "Drawing on two of Rockstar's technology leads, this piece breaks down how GTA 6 fits Vice City into console memory and a single frame budget, with a parallel to the same problem in web map loading."
  }
 }
