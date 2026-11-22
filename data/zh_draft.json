@@ -20914,5 +20914,23 @@
   "zh_oneliner": "《博德之门 3》前传小说系列再起争议，影心篇由获奖作家 Tasha Suri 执笔，粉丝反应同样激烈。",
   "en_title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
   "en_oneliner": "The Baldur's Gate 3 prequel-novel series stirs controversy again, with Shadowheart's book by award-winning author Tasha Suri drawing the same heated fan reaction as Astarion's."
+ },
+ "https://dev.to/poopleunlimited/designing-a-difficulty-dial-without-changing-the-rules-dk6": {
+  "zh_title": "不改规则，怎么做难度调节",
+  "zh_oneliner": "以四字母单词接龙为例，拆解如何在规则不变的前提下，用谜题结构本身做出简单与困难模式。",
+  "en_title": "Designing a Difficulty Dial Without Changing the Rules",
+  "en_oneliner": "Using a four-letter word ladder as an example, it shows how to build easy and hard modes out of the puzzle's structure itself, without ever changing the rules."
+ },
+ "https://dev.to/onebuttonjohn/five-one-button-games-one-human-finished-any-here-is-what-broke-1dn9": {
+  "zh_title": "做了五款单键游戏，只有一个人通关过：问题出在哪",
+  "zh_oneliner": "作者两个月做了五款单文件单键浏览器游戏，复盘为什么几乎没人能通关，以及一路踩过的坑。",
+  "en_title": "Five one-button games, one human finished any. Here is what broke.",
+  "en_oneliner": "The author shipped five single-file, one-button browser games in two months and reviews why almost nobody could finish any of them, and the mistakes made along the way."
+ },
+ "https://dev.to/cliffwang/from-mobile-apps-to-browser-games-the-evolution-of-block-blast-style-puzzles-o8m": {
+  "zh_title": "从手机应用到浏览器游戏：Block Blast 式消除拼图的演变",
+  "zh_oneliner": "拆解简单的方块摆放玩法如何成为全球爆款，以及浏览器游戏正在给它带来什么新方向。",
+  "en_title": "From Mobile Apps to Browser Games: The Evolution of Block Blast-Style Puzzles",
+  "en_oneliner": "It breaks down how a simple block-placement mechanic became a global hit, and what new direction browser games are giving it."
  }
 }
