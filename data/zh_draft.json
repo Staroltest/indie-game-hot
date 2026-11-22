@@ -21496,5 +21496,23 @@
   "zh_oneliner": "拿同一款桌游的两个 GLB 文件做对比，讲清 WebP、KTX2 与 mipmap 如何在 Three.js 里让下载变大、显存反而变小。",
   "en_title": "Why a larger 3D download can use less GPU memory",
   "en_oneliner": "Comparing two GLB files of the same board game to show how WebP, KTX2 and mipmaps can make a download bigger yet use less GPU memory in Three.js."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/add-instant-game-feel-with-this-6-line-js-screen-shake-hit-stop-trick-532m": {
+  "zh_title": "6 行 JS 屏幕震动加顿帧技巧，立刻给游戏加上打击感",
+  "zh_oneliner": "不用物理引擎，6 行代码在渲染循环里做画布震动加顿帧，就能让 2D 网页小游戏立刻有街机般的打击感。",
+  "en_title": "Add Instant 'Game Feel' With This 6-Line JS Screen Shake & Hit-Stop Trick",
+  "en_oneliner": "No physics engine needed — six lines of canvas shake and hit-stop inside the render loop give a 2D browser game instant arcade-style game feel."
+ },
+ "https://dev.to/chandan_kumar_1afaffcf991/binding-of-isaac-dev-removes-ai-music-after-steam-review-bombing-3h0j": {
+  "zh_title": "《以撒的结合》开发者因差评轰炸撤下 AI 音乐",
+  "zh_oneliner": "商业游戏里用了 AI 生成素材，玩家迟早会发现并追责，《以撒的结合》作者这次就是前车之鉴。",
+  "en_title": "Binding of Isaac Dev Removes AI Music After Steam Review Bombing",
+  "en_oneliner": "Players will find out if a commercial game ships AI-generated assets — and hold the developers accountable, as The Binding of Isaac's creator just learned."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect": {
+  "zh_title": "GTA 6 的舆论正在陷入“地平说效应”",
+  "zh_oneliner": "围绕 GTA 6 的争论已经偏离事实本身，变成各执一词的立场之争，看看这种舆论失真是怎么形成的。",
+  "en_title": "GTA 6 discourse is suffering from the flat earther effect",
+  "en_oneliner": "The debate around GTA 6 has drifted away from the facts into entrenched camps — a look at how that distortion takes hold."
  }
 }
