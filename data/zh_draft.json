@@ -21280,5 +21280,29 @@
   "zh_oneliner": "这篇实测笔记介绍了格斗角色创作套件的校验流程：通过清单、文件大小与哈希值，在看动作之前先揪出过期的精灵表导出。",
   "en_title": "What oddbout-starter checks in a 2D fighter package",
   "en_oneliner": "This hands-on note walks through the starter kit validation flow for 2D fighter packages, catching stale sprite-sheet exports with manifests, file sizes, and hashes before any animation review."
+ },
+ "https://dev.to/bgrvfcds/i-built-a-game-where-you-pretend-to-be-the-ai-that-rejects-resumes-it-made-me-angrier-about-hiring-2l2f": {
+  "zh_title": "我做了个游戏，让你扮演拒绝简历的 AI，结果我对招聘更生气了",
+  "zh_oneliner": "开发者把 AI 筛简历做成游戏，让玩家亲身体验拒信背后的筛选逻辑，顺带吐槽了招聘流程的荒诞。",
+  "en_title": "I built a game where you pretend to be the AI that rejects resumes. It made me angrier about hiring.",
+  "en_oneliner": "A developer turned AI resume screening into a game, letting players experience the rejection logic firsthand — and vent about how absurd hiring has become."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations": {
+  "zh_title": "《GTA 6》Mamba GT 位置：如何为 Wyman 修复第三辆车",
+  "zh_oneliner": "一份找车指南，告诉玩家去哪找齐零件，把那辆 64 款 Mamba GT 修好还给 Wyman。",
+  "en_title": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
+  "en_oneliner": "A guide to tracking down the parts needed to restore the '64 Mamba GT and return it to Wyman."
+ },
+ "https://dev.to/atiksh_gupta_7/trailbound-drive-a-jeep-through-a-jungle-reserve-solo-or-with-friends-free-browser-game-57ab": {
+  "zh_title": "TrailBound——开吉普穿越丛林保护区，可单人可联机（免费网页游戏）",
+  "zh_oneliner": "一款免费网页游戏，开着四驱吉普穿越丛林保护区，支持单人或和朋友一起玩，作者还在持续更新。",
+  "en_title": "TrailBound — Drive a Jeep through a jungle reserve, solo or with friends [Free Browser Game]",
+  "en_oneliner": "A free browser game about driving a 4x4 through a jungle reserve, solo or with a friend, still being actively updated by its creator."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc": {
+  "zh_title": "等《GTA 6》PC 版的日子里，这些 GTA 仍值得一玩",
+  "zh_oneliner": "在等《GTA 6》登陆 PC 的空档，盘点一下系列里现在依然值得重温的几部作品。",
+  "en_title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
+  "en_oneliner": "While waiting for GTA 6 on PC, a look back at the GTA entries still worth playing today."
  }
 }
