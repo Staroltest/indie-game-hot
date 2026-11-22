@@ -20998,5 +20998,23 @@
   "zh_oneliner": "《铁拳》制作人原田胜弘聊起当年想放进《宝可拳》的宝可梦人选，可惜最终没能入选。",
   "en_title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
   "en_oneliner": "Tekken producer Katsuhiro Harada reveals which Pokémon he wanted to add to Pokken Tournament — and why it didn't make the cut."
+ },
+ "https://dev.to/richicodes/week-in-the-lab-seven-games-chasing-the-light-8gd": {
+  "zh_title": "实验室一周：七款追逐光影的游戏",
+  "zh_oneliner": "本周 WebKit 首次展示了“空间 CSS”，可把 3D 模型放进共享空间并用环境贴图打光；作者顺势盘点了七个与光影、深度有关的浏览器小实验。",
+  "en_title": "Week in the lab: seven games chasing the light",
+  "en_oneliner": "WebKit previewed \"spatial CSS\" this week, placing 3D models in a shared space lit by environment maps; the author rounds up seven browser experiments playing with light and depth."
+ },
+ "https://dev.to/matt_clark_0eb7904e566b72/building-an-independent-browser-gaming-platform-the-story-behind-dailygamegg-3oh8": {
+  "zh_title": "打造独立浏览器游戏平台：DailyGame.gg 背后的故事",
+  "zh_oneliner": "作者从“打开网页就能玩，何必装应用、注册账号”出发，做了免费休闲小游戏聚合站 DailyGame.gg，并讲了首款主打游戏 Krillion 的设计思路。",
+  "en_title": "Building an Independent Browser Gaming Platform: The Story Behind DailyGame.gg",
+  "en_oneliner": "Starting from \"why install an app or create an account just to play a casual game\", the author built DailyGame.gg, a free browser-games hub, and explains the design of its first featured game, Krillion."
+ },
+ "https://dev.to/game_master_16dc54338c6c9/deltarune-chapter-6-is-now-fully-playable-from-start-to-finish-toby-fox-confirms-25id": {
+  "zh_title": "Toby Fox 确认：《Deltarune》第六章已可从头玩到尾",
+  "zh_oneliner": "Toby Fox 在 2026 年秋季通讯中透露，第六章地图、事件与战斗已全部实现，达到“结构完整”状态，但仍需打磨细节，第七章将是系列终章。",
+  "en_title": "Deltarune Chapter 6 Is Now Fully Playable From Start to Finish, Toby Fox Confirms",
+  "en_oneliner": "Toby Fox says Chapter 6 is structurally complete — all maps, events and battles are in and playable end to end — though polish remains, and Chapter 7 will conclude the series."
  }
 }
