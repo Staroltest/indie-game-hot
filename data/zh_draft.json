@@ -20956,5 +20956,23 @@
   "zh_oneliner": "免费网页游戏站 SlowDen 公开了九月以来的审核账本：1493 份开发者投稿中有 199 份未公开，作者逐条拆解了扣留的标准与数量分布。",
   "en_title": "We screened 1,493 developer-submitted browser games: what we withheld and why",
   "en_oneliner": "Free browser-game site SlowDen opens its moderation ledger: of 1,493 developer submissions since September, 199 were withheld from the public feed, and the author breaks down the criteria and counts behind each decision."
+ },
+ "https://www.indiedb.com/games/mimirs-roulette/news/mimirs-roulette-spin-the-reels-build-your-squad": {
+  "zh_title": "《Mimir's Roulette》：转轮盘、组建你的小队",
+  "zh_oneliner": "来自 YGGDRA 系列的老虎机肉鸽对战游戏：把 33 位女主角变成转盘符号，排布后转动出战；同系列新作《YGGDRA: Path of Relics》的免费试玩也已上线。",
+  "en_title": "Mimir's Roulette — spin the reels, build your squad",
+  "en_oneliner": "A slot-machine roguelite battler from the YGGDRA series: turn 33 heroines into reel symbols, arrange them on the reels and spin to fight; the free demo of the next game, YGGDRA: Path of Relics, is also live now."
+ },
+ "https://dev.to/mold99210/i-built-a-free-browser-tool-that-rolls-game-ready-npcs-first-week-honestly-4ohk": {
+  "zh_title": "我做了个免费浏览器工具，一键生成能直接用的游戏 NPC：上线第一周实录",
+  "zh_oneliner": "作者上周发布了浏览器端 3D 角色生成器 MOLD，本文如实复盘它上线第一周的真实情况。",
+  "en_title": "I built a free browser tool that rolls game-ready NPCs. First week, honestly.",
+  "en_oneliner": "The author shipped MOLD, a browser-based 3D character creator, last week and honestly recounts what actually happened in its first week."
+ },
+ "https://www.nintendolife.com/news/2026/11/harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament": {
+  "zh_title": "原田胜弘透露他想加入《宝可梦格斗》的宝可梦",
+  "zh_oneliner": "《铁拳》系列制作人原田胜弘透露，他曾想把某只宝可梦加入格斗游戏《宝可梦格斗》，可惜最终未能成行。",
+  "en_title": "Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+  "en_oneliner": "Tekken producer Katsuhiro Harada reveals the Pokémon he once wanted to add to the fighting game Pokken Tournament — but it never made the cut."
  }
 }
