@@ -20806,5 +20806,53 @@
   "zh_oneliner": "纯前端三国回合制策略网页游戏，覆盖东汉十三州 79 郡，讲究山川地理、粮道补给与朝堂治乱，点开网页就能玩。",
   "en_title": "Hanmo Fengyan v5.9.9: A Pure-Frontend Three Kingdoms Turn-Based Strategy Web Game Across 13 Provinces and 79 Commanderies (Play Online, No Download)",
   "en_oneliner": "A pure-frontend Three Kingdoms turn-based strategy web game covering 13 provinces and 79 commanderies, built around terrain, supply lines and court politics — playable in the browser with no download."
+ },
+ "https://dev.to/rocksnowball/pixel-art-ui-panels-drawn-by-code-in-godot-4-no-image-files-411d": {
+  "zh_title": "用代码在 Godot 4 里画像素风 UI 面板，不用一张图片",
+  "zh_oneliner": "不用下载 UI 素材包，用约 150 行代码逐像素画出带斜面与圆角的九宫格面板，再由单一配色生成整套主题。",
+  "en_title": "Pixel-art UI panels drawn by code in Godot 4 (no image files)",
+  "en_oneliner": "Skip downloaded UI packs: draw bevelled, rounded 9-slice panels pixel by pixel in about 150 lines of code and build a whole Theme from a single colour."
+ },
+ "https://dev.to/powerechozhang/engineering-kabloom-daily-building-a-viral-volcano-trivia-puzzle-with-zero-duplicate-rules-and-46be": {
+  "zh_title": "打造 Kabloom Daily：零重复规则与 50 毫秒内边缘交付的病毒式火山问答游戏",
+  "zh_oneliner": "复盘一款每日火山问答小游戏的工程实现：如何保证题目零重复、跨时区确定性每日种子，以及用边缘架构把全球首字节时间压到 50 毫秒以内。",
+  "en_title": "Engineering Kabloom Daily: Building a Viral Volcano Trivia Puzzle with Zero-Duplicate Rules and Sub-50ms Edge Delivery",
+  "en_oneliner": "A technical retrospective on a daily volcano trivia game: enforcing zero-duplicate questions, deterministic daily seeds across time zones, and sub-50ms global TTFB on edge architecture."
+ },
+ "https://dev.to/odindev/inside-arxan-appendix-d-checking-the-result-1iao": {
+  "zh_title": "拆解 Arxan 附录 D：验证清理结果",
+  "zh_oneliner": "用模拟器逐函数比对、内存转储对照与入口点启动，验证清理后的可执行文件是否真的去掉了保护。",
+  "en_title": "Inside Arxan, Appendix D: checking the result",
+  "en_oneliner": "Verifying the cleaned executable with function-by-function emulator comparisons, memory dumps and entry-point runs to prove the protection is really gone."
+ },
+ "https://dev.to/odindev/inside-arxan-appendix-c-reading-the-protection-out-of-the-file-1dbh": {
+  "zh_title": "拆解 Arxan 附录 C：只从文件里读出保护机制",
+  "zh_oneliner": "不靠模拟器与内存转储，仅从发售文件本身还原加密参数、地址表与密钥，并用两个旧版本检验规则是否通用。",
+  "en_title": "Inside Arxan, Appendix C: reading the protection out of the file",
+  "en_oneliner": "Recovering the cipher parameters, address lists and keys from the shipped file alone, then testing the rules against two older builds."
+ },
+ "https://dev.to/odindev/inside-arxan-appendix-b-taking-the-protection-out-step-by-step-50m5": {
+  "zh_title": "拆解 Arxan 附录 B：一步步拆掉保护",
+  "zh_oneliner": "逐条讲解拆除保护的每一次重写、各自的风险与模拟器验证，说明解密后的文件为何仍藏着整套保护。",
+  "en_title": "Inside Arxan, Appendix B: taking the protection out, step by step",
+  "en_oneliner": "A step-by-step walkthrough of every rewrite needed to strip the protection, its risks and emulator checks, and why a decrypted file still contains it all."
+ },
+ "https://dev.to/odindev/inside-arxan-appendix-a-the-file-on-disk-in-full-3mhp": {
+  "zh_title": "拆解 Arxan 附录 A：磁盘上的文件全貌",
+  "zh_oneliner": "从发售文件出发，逐问还原近 300 MB 密文可执行文件如何启动、解密与运行，补齐主文的完整拼图。",
+  "en_title": "Inside Arxan, Appendix A: the file on disk, in full",
+  "en_oneliner": "Starting from the shipped file to reconstruct how a nearly 300 MB ciphertext executable boots, decrypts and runs, completing the main article's picture."
+ },
+ "https://dev.to/odindev/inside-arxan-in-modern-warfare-2019-1cob": {
+  "zh_title": "拆解《使命召唤：现代战争》（2019）的 Arxan 保护",
+  "zh_oneliner": "实录如何把 Arxan 代码保护从游戏可执行文件里完整剥离：从内存转储与模拟器起步，到十个版本与清理版并排通过七百次比对。",
+  "en_title": "Inside Arxan in Modern Warfare (2019)",
+  "en_oneliner": "A first-hand account of taking Arxan code protection apart in Modern Warfare (2019) and removing it, from memory dumps and an emulator to ten builds passing seven hundred comparisons against their cleaned twins."
+ },
+ "https://gamedev.net/blogs/entry/2298701-setting-a-frame-time-budget-for-an-unreal-engine-5-game-eight-checks-before-your-first-alpha": {
+  "zh_title": "给 Unreal Engine 5 游戏定帧时间预算：首个 Alpha 前的八项检查",
+  "zh_oneliner": "小团队常在首个 Alpha 才发现性能问题，这篇文章给出八项前置检查，把“感觉卡”变成每个工种都认领的具体帧时间数字。",
+  "en_title": "Setting a Frame-Time Budget for an Unreal Engine 5 Game: Eight Checks Before Your First Alpha",
+  "en_oneliner": "Small teams usually discover performance problems at their first alpha, so this article offers eight upfront checks that turn “it feels slow” into a frame-time number each discipline owns."
  }
 }
