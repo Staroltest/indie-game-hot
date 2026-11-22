@@ -21466,5 +21466,17 @@
   "zh_oneliner": "作者坦言平时很少做游戏，却一直放不下 O2Jam 式的下落音符玩法，于是用 Claude Fable 5.2 亲手做出了心里想要的那款节奏游戏，并讲清这不是一句话提示词的噱头。",
   "en_title": "I built the rhythm game I always wanted with Claude Fable 5.2 (not another one-prompt claim)",
   "en_oneliner": "The author rarely builds games, but an O2Jam-style falling-notes rhythm game was the one they always wanted — so they built it with Claude Fable 5.2, and explain why this is not another one-prompt claim."
+ },
+ "https://dev.to/danieljsaldana/token-club-un-paseo-por-sala-teide-entre-conciertos-y-vistas-al-volcan-492e": {
+  "zh_title": "Token Club：漫步 Sala Teide，在演唱会与火山景色之间",
+  "zh_oneliner": "开发者细讲 Token Club 里 Sala Teide 场景的设计：屋顶音乐、酒吧与火山景观如何拼成一个有氛围的聚会空间。",
+  "en_title": "Token Club: un paseo por Sala Teide, entre conciertos y vistas al volcán",
+  "en_oneliner": "The developer walks through how Sala Teide in Token Club was designed: rooftop music, a bar, and volcano views coming together as an atmospheric gathering space."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs": {
+  "zh_title": "GTA 6 的巨型赌场和超酷卡丁车赛道目前尚未开放，但愿“即将推出”的标牌靠谱",
+  "zh_oneliner": "GTA 6 里的赌场与卡丁车赛道眼下还进不去，作者聊了聊为什么仍值得期待它们日后开放。",
+  "en_title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+  "en_oneliner": "GTA 6's casino and go-kart track are still closed for now; the author explains why those 'coming soon' signs are still worth believing."
  }
 }
