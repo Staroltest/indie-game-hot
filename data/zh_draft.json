@@ -21544,5 +21544,11 @@
   "zh_oneliner": "结合 Rockstar 两位技术负责人的说法，拆解 GTA 6 如何让 Vice City 在主机内存和单帧预算内流畅呈现，顺带对照了网页地图加载的同类问题。",
   "en_title": "GTA 6 and the Open-World Streaming Problem",
   "en_oneliner": "Drawing on two of Rockstar's technology leads, this piece breaks down how GTA 6 fits Vice City into console memory and a single frame budget, with a parallel to the same problem in web map loading."
+ },
+ "https://dev.to/idlecultivation/the-dials-behind-an-idle-game-economy-2jc8": {
+  "zh_title": "放置游戏经济系统背后的调参旋钮",
+  "zh_oneliner": "一位放置游戏开发者分享如何把上百个经济参数做成可搜索、可解释、可安全调整的运营后台，让数值调优不再靠死记硬背。",
+  "en_title": "The dials behind an idle game economy",
+  "en_oneliner": "An idle-game developer shows how to turn a hundred-plus economy parameters into a searchable, explainable operator panel, so live tuning no longer depends on memory."
  }
 }
