@@ -21322,5 +21322,47 @@
   "zh_oneliner": "掉率极低时教科书公式会在浮点运算中失真，本文给出数值稳定的写法，并以《堡垒之夜》宝箱掉率作实例验算。",
   "en_title": "At-least-one probabilities for very rare events in JavaScript: log1p, expm1 and a chest-count example",
   "en_oneliner": "When drop rates are tiny, the textbook formula loses precision in floating point — this post gives a numerically stable version and checks it against Fortnite's published chest rate."
+ },
+ "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen": {
+  "zh_title": "这款 90 年代风恐怖游戏拥有我见过最酷的末世世界之一",
+  "zh_oneliner": "一辆房车就是你的移动据点，在这款 90 年代风恐怖游戏里探索精心打造的末世世界。",
+  "en_title": "This '90s-inspired horror game has one of the coolest post-apocalyptic worlds I've ever seen",
+  "en_oneliner": "Your campervan is a mobile base camp for exploring one of the most atmospheric post-apocalyptic worlds in a 90s-inspired horror game."
+ },
+ "https://gamedev.net/blogs/entry/2298704-making-a-game-for-kids-in-the-us-eight-things-to-settle-before-anyone-writes-code": {
+  "zh_title": "在美国做儿童游戏：写代码前要先定好的八件事",
+  "zh_oneliner": "给美国孩子做游戏，真正的难题不在玩法，而在数据、广告、商店规则和七岁孩子怎么读懂你的界面。",
+  "en_title": "Making a Game for Kids in the US: Eight Things to Settle Before Anyone Writes Code",
+  "en_oneliner": "Building a game for US kids means settling data, ads, store rules and readability for seven-year-olds before anyone writes a line of code."
+ },
+ "https://gamedev.net/blogs/entry/2298703-making-a-comic-book-menu-in-unity-page-turns-interactive-cats-and-save-system-problems": {
+  "zh_title": "在 Unity 里做漫画书式菜单：翻页、互动猫咪与存档系统难题",
+  "zh_oneliner": "开发日志分享如何用 Unity 打造漫画书风格菜单：翻页动效、可互动的猫咪，以及随之而来的存档系统坑。",
+  "en_title": "Making a Comic-Book Menu in Unity: Page Turns, Interactive Cats, and Save-System Problems",
+  "en_oneliner": "A devlog on building a comic-book menu in Unity, with page-turn effects, interactive cats and the save-system headaches that came with them."
+ },
+ "https://dev.to/ziva/parallel-ai-agents-in-godot-how-zivas-parallel-mode-keeps-them-out-of-each-others-way-2f7": {
+  "zh_title": "Godot 里的并行 AI 智能体：Ziva 的并行模式如何让它们互不干扰",
+  "zh_oneliner": "Ziva 3.3.8 起支持在 Godot 里一次请求跑多个并行 AI 智能体，分工搭建游戏的不同部分。",
+  "en_title": "Parallel AI agents in Godot: how Ziva's Parallel mode keeps them out of each other's way",
+  "en_oneliner": "Since Ziva 3.3.8, you can run several AI agents in parallel on one request in Godot, each building a different part of your game."
+ },
+ "https://dev.to/zentaolabs/check-that-an-osu-skins-2x-files-have-matching-1x-partners-with-python-1b37": {
+  "zh_title": "用 Python 检查 osu! 皮肤的 @2x 文件是否有对应的 1x 文件",
+  "zh_oneliner": "高清 osu! 皮肤几乎每个精灵都要成对导出，用一段 Python 脚本自动揪出缺失的 1x 配对文件。",
+  "en_title": "Check that an osu! skin's @2x files have matching 1x partners with Python",
+  "en_oneliner": "A high-res osu! skin needs matching 1x and @2x files for nearly every sprite, and a small Python script catches the ones you forgot to export."
+ },
+ "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power": {
+  "zh_title": "特稿：一个失落的盒子让我重拾对塞尔达持久魅力的信心",
+  "zh_oneliner": "作者在搬家打包时翻出一个旧盒子，借此聊聊塞尔达系列何以历久弥新。",
+  "en_title": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power",
+  "en_oneliner": "A lost box found while packing for a move sparks a reflection on why Zelda's appeal has endured for so long."
+ },
+ "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers": {
+  "zh_title": "GTA 6 里沉默寡言的杰森，灵感来自史蒂夫·麦奎因与前陆军游骑兵，Rockstar 透露",
+  "zh_oneliner": "Rockstar 透露，GTA 6 主角杰森·杜瓦尔的沉默性格源于史蒂夫·麦奎因与对前陆军游骑兵的研究。",
+  "en_title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+  "en_oneliner": "Rockstar says GTA 6's quiet Jason Duval was modelled on Steve McQueen and the studio's research into former Army Rangers."
  }
 }
