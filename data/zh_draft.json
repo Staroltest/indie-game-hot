@@ -21550,5 +21550,23 @@
   "zh_oneliner": "一位放置游戏开发者分享如何把上百个经济参数做成可搜索、可解释、可安全调整的运营后台，让数值调优不再靠死记硬背。",
   "en_title": "The dials behind an idle game economy",
   "en_oneliner": "An idle-game developer shows how to turn a hundred-plus economy parameters into a searchable, explainable operator panel, so live tuning no longer depends on memory."
+ },
+ "https://dev.to/jjromeul/i-built-a-free-browser-game-where-you-catch-spacex-starship-with-the-tower-chopsticks-4kmf": {
+  "zh_title": "我做了个免费浏览器小游戏：用发射塔“筷子”接住 SpaceX 星舰",
+  "zh_oneliner": "免费的同人浏览器小游戏，操控卡通星舰对准发射塔，在恰当时机合上“筷子”完成回收，共 10 关，打开浏览器就能玩。",
+  "en_title": "I built a free browser game where you catch SpaceX Starship with the tower chopsticks",
+  "en_oneliner": "A free fan-made browser game where you steer a cartoon Starship into the catch tower and close the chopsticks at just the right moment — 10 levels, playable right in the browser."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort": {
+  "zh_title": "GTA 6 专门组了个团队，只为让不同体型的角色共用同一套动画",
+  "zh_oneliner": "为让胖瘦高矮的角色共用动画而不穿帮，开发团队下了大功夫，聊了这套动画系统背后的协作难度。",
+  "en_title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+  "en_oneliner": "Rockstar put together a dedicated team so GTA 6's many different body types could all share the same animations without breaking — a look at the effort behind that system."
+ },
+ "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once": {
+  "zh_title": "Dota 2 新补丁想让对局结束得更快，还加了个能全线召唤超级兵的道具",
+  "zh_oneliner": "新补丁通过节奏调整和一件能同时在三路召唤超级兵的道具，试图缩短对局时长，思路借鉴了节奏更快的同类 MOBA。",
+  "en_title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
+  "en_oneliner": "The new Dota 2 patch aims to shorten matches with pacing tweaks and an item that summons super creeps down every lane at once, borrowing ideas from faster-paced MOBAs."
  }
 }
