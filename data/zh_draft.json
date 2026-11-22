@@ -21166,5 +21166,23 @@
   "zh_oneliner": "Circana 数据显示，GTA 6 发售当天 PS5 与 Xbox 在线玩家中超过一半都在玩这款游戏。",
   "en_title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
   "en_oneliner": "Circana data shows that on GTA 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6."
+ },
+ "https://dev.to/xiaogui917/how-i-built-a-tank-bot-for-battletraining-fixed-point-math-bfs-flow-fields-and-113-ranked-sets-15b3": {
+  "zh_title": "我如何为 battle.training 打造坦克 AI：定点数学、BFS 流场与 113 套排名阵容",
+  "zh_oneliner": "作者用 JavaScript 写了一个坦克对战 AI，在 battle.training 竞技场里靠定点数学与 BFS 流场打上排名，复盘了整套实现思路。",
+  "en_title": "How I Built a Tank Bot for battle.training: Fixed-Point Math, BFS Flow Fields, and 113 Ranked Sets",
+  "en_oneliner": "The author built a tank-battle AI in JavaScript for the battle.training arena, climbing the rankings with fixed-point math and BFS flow fields, and walks through the whole implementation."
+ },
+ "https://dev.to/makerio/a-portal-rejected-our-games-for-overall-quality-so-we-gave-them-faces-1925": {
+  "zh_title": "门户以“整体质量”拒了我们的游戏，于是我们给游戏加上了脸",
+  "zh_oneliner": "两款网页游戏被门户以一句“整体质量”打回后，作者对比新游封面发现差别在角色形象，于是给游戏加上了有脸的主角，分享了这轮视觉改版的经验。",
+  "en_title": "A portal rejected our games for \"overall quality\". So we gave them faces.",
+  "en_oneliner": "After a web games portal rejected two of their games for \"overall quality\", the authors compared their covers with new arrivals, found the missing piece was a character with a face, and share what the visual rework taught them."
+ },
+ "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market": {
+  "zh_title": "雅达利 E.T. 设计者：AI 游戏泛滥像极了 80 年代游戏业崩溃前夜",
+  "zh_oneliner": "E.T. 的设计者 Howard Scott Warshaw 认为如今 AI 生成游戏的泛滥，与 80 年代行业崩溃前的劣质游戏洪流如出一辙，不过他仍看好 AI 对行业的长远积极作用。",
+  "en_title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
+  "en_oneliner": "Howard Scott Warshaw, designer of Atari's notorious E.T., says the flood of AI-made games echoes the glut of poor-quality titles that preceded the 1980s industry crash — though he still sees AI as a \"super positive thing\" for the industry."
  }
 }
