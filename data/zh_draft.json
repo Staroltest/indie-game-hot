@@ -21310,5 +21310,17 @@
   "zh_oneliner": "单人开发的第一人称心理恐怖生存模拟新作，免费 Steam 试玩版明天上线，写实氛围里每个选择都会影响走向。",
   "en_title": "Free Steam Demo for Solo Survival Game \"Survivor Files - 571\" Drops Tomorrow!",
   "en_oneliner": "A solo-developed first-person psychological horror survival sim, its free Steam demo arrives tomorrow, with a realistic atmosphere where every choice shapes the outcome."
+ },
+ "https://dev.to/bramlesage/how-i-build-roblox-games-with-luau-and-rojo-and-why-they-are-not-public-yet-3i5b": {
+  "zh_title": "我用 Luau 和 Rojo 做 Roblox 游戏，以及它们为什么还没公开",
+  "zh_oneliner": "一位 17 岁开发者分享用 Luau 写代码、Rojo 管项目结构，三款 Roblox 游戏仍在开发中的实战记录。",
+  "en_title": "How I build Roblox games with Luau and Rojo, and why they are not public yet",
+  "en_oneliner": "A 17-year-old developer shares how he builds Roblox games in Luau with Rojo project structure, and why his three games are still in development."
+ },
+ "https://dev.to/dolphin_studio_ddd7da97a2/at-least-one-probabilities-for-very-rare-events-in-javascript-log1p-expm1-and-a-chest-count-371f": {
+  "zh_title": "极低概率事件的“至少一次”概率：JavaScript 里的 log1p、expm1 与开箱次数示例",
+  "zh_oneliner": "掉率极低时教科书公式会在浮点运算中失真，本文给出数值稳定的写法，并以《堡垒之夜》宝箱掉率作实例验算。",
+  "en_title": "At-least-one probabilities for very rare events in JavaScript: log1p, expm1 and a chest-count example",
+  "en_oneliner": "When drop rates are tiny, the textbook formula loses precision in floating point — this post gives a numerically stable version and checks it against Fortnite's published chest rate."
  }
 }
