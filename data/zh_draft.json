@@ -20944,5 +20944,17 @@
   "zh_oneliner": "作者复盘自学游戏开发的弯路：刷了大量教程、学了 Unity 的 C#，真正动手时却不知道从何下手，提醒后来者别只停留在看教程上。",
   "en_title": "No one is coming to help you in learning a Development",
   "en_oneliner": "The author looks back on learning game development the hard way: after bingeing tutorials and learning C# for Unity, they still did not know where to start when actually building a game, a reminder not to stop at watching tutorials."
+ },
+ "https://dev.to/mihai_leanzero/does-gta-6-use-ai-take-two-and-claude-code-1a69": {
+  "zh_title": "GTA 6 用 AI 吗？Take-Two 与 Claude Code 的说法核查",
+  "zh_oneliner": "作者翻了 Take-Two 十二份年报与三项专利，核查 GTA 6 是否使用生成式 AI 的说法，并追溯了那条称 Claude Code 十二小时通关游戏的病毒帖子的来源。",
+  "en_title": "Does GTA 6 Use AI? Take-Two and Claude Code",
+  "en_oneliner": "The author combed through twelve Take-Two annual reports and three patents to check whether GTA 6 uses generative AI, and traced the viral post claiming Claude Code finished the game in twelve hours back to its source."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/we-screened-1493-developer-submitted-browser-games-what-we-withheld-and-why-g7f": {
+  "zh_title": "我们审核了 1493 款开发者提交的网页游戏：被扣下的那些为什么没过",
+  "zh_oneliner": "免费网页游戏站 SlowDen 公开了九月以来的审核账本：1493 份开发者投稿中有 199 份未公开，作者逐条拆解了扣留的标准与数量分布。",
+  "en_title": "We screened 1,493 developer-submitted browser games: what we withheld and why",
+  "en_oneliner": "Free browser-game site SlowDen opens its moderation ledger: of 1,493 developer submissions since September, 199 were withheld from the public feed, and the author breaks down the criteria and counts behind each decision."
  }
 }
