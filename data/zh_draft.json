@@ -21592,5 +21592,11 @@
   "zh_oneliner": "正在开发的新模块，可为敌人配置八方向精灵、公告板渲染与自定义帧动画，首批静态敌人已经进游戏。",
   "en_title": "EnemyStudio: 8-Directional Sprites & Billboard Support",
   "en_oneliner": "A new module in development lets creators set up 8-directional sprites, billboard rendering and custom frame animations for enemies, with the first static enemies already in the game."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender": {
+  "zh_title": "GTA 6 结局《The End of the Road》：游过去，还是绝不投降？",
+  "zh_oneliner": "解析《GTA 6》结局分支的两种抉择，看看顶级大作如何用一个二选一收束玩家的整个旅程。",
+  "en_title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+  "en_oneliner": "A look at how GTA 6's ending branches force a final choice, and what its two-option design can teach about closing a long player journey."
  }
 }
