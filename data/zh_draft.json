@@ -21364,5 +21364,53 @@
   "zh_oneliner": "Rockstar 透露，GTA 6 主角杰森·杜瓦尔的沉默性格源于史蒂夫·麦奎因与对前陆军游骑兵的研究。",
   "en_title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
   "en_oneliner": "Rockstar says GTA 6's quiet Jason Duval was modelled on Steve McQueen and the studio's research into former Army Rangers."
+ },
+ "https://dev.to/indiebots/unitys-mcp-server-is-deprecated-what-to-use-instead-2026-3khl": {
+  "zh_title": "Unity 的 MCP 服务器已弃用：2026 年该用什么替代",
+  "zh_oneliner": "Unity AI Assistant 内置的 MCP 服务器已弃用，官方替代方案是免费的 Unity CLI，用一条 unity mcp 命令就能把 Claude Code、Cursor 等 AI 助手连进编辑器。",
+  "en_title": "Unity's MCP server is deprecated: what to use instead (2026)",
+  "en_oneliner": "Unity's built-in MCP server is deprecated — the official replacement is the free Unity CLI, whose unity mcp command connects Claude Code, Cursor and other AI assistants to the editor."
+ },
+ "https://dev.to/aplusgamesstudio/game-development-for-startups-a-founders-roadmap-8d9": {
+  "zh_title": "创业者做游戏开发路线图：把第一款游戏当成一系列低成本试错",
+  "zh_oneliner": "别把第一款游戏当成一次豪赌：先做原型验证想法，再做最小可玩版本、软上线看留存数据，数据过关再加大投入。",
+  "en_title": "Game Development for Startups: A Founder's Roadmap",
+  "en_oneliner": "Treat your first game as a series of cheap tests, not one big bet: prototype to validate the idea, build a small MVP, soft-launch and read retention numbers before spending more."
+ },
+ "https://dev.to/nestdaddy/rawg-vs-igdb-in-2026-which-video-game-api-to-use-and-when-you-need-live-player-data-1neo": {
+  "zh_title": "RAWG 对比 IGDB（2026）：游戏 API 该选哪个，何时需要实时玩家数据",
+  "zh_oneliner": "做游戏发现应用、Discord 机器人或推荐引擎时，RAWG 与 IGDB 两大游戏数据库各有所长，选哪个取决于你是否需要实时玩家数据。",
+  "en_title": "RAWG vs IGDB in 2026: which video game API to use, and when you need live player data",
+  "en_oneliner": "RAWG and IGDB are the two big game databases you'll meet when building a discovery app, bot or recommendation engine — which one fits depends on whether you need live player data."
+ },
+ "https://dev.to/darrellbest/make-every-hit-in-godot-4-feel-heavy-hitstop-screen-shake-flash-and-layered-sounds-7l7": {
+  "zh_title": "让 Godot 4 的每次打击都拳拳到肉：顿帧、屏幕震动、闪白与分层音效",
+  "zh_oneliner": "同一剑砍史莱姆，配上顿帧、震屏、闪白和分层音效后打击感天差地别，文章手把手教你把这套组合拳装进 Godot 4 项目。",
+  "en_title": "Make every hit in Godot 4 feel heavy: hitstop, screen shake, flash and layered sounds",
+  "en_oneliner": "The same sword swing feels flat until you add hitstop, screen shake, flash and layered sounds — this guide shows how to wire that combo into a Godot 4 project."
+ },
+ "https://dev.to/darrellbest/make-it-snow-in-renpy-falling-snow-a-frosted-textbox-and-firelight-in-one-file-4o6o": {
+  "zh_title": "在 Ren'Py 里下雪：一个文件实现飘雪、磨砂文本框与炉火光",
+  "zh_oneliner": "约 50 行代码、一个文件就能给视觉小说加上双层飘雪、磨砂文本框和炉火光，让十二月的场景真正下起雪来。",
+  "en_title": "Make it snow in Ren'Py: falling snow, a frosted textbox and firelight in one file",
+  "en_oneliner": "About 50 lines in a single file add two layers of falling snow, a frosted textbox and firelight to a Ren'Py visual novel, so a December scene actually snows."
+ },
+ "https://dev.to/bramlesage/i-put-all-22-versions-of-my-unfinished-cat-game-online-including-the-bad-first-one-5egk": {
+  "zh_title": "我把未完成猫咪游戏的全部 22 个版本都放上了网，包括最糟糕的第一版",
+  "zh_oneliner": "17 岁的开发者 Bram Lesage 公开了自己猫咪游戏从第一版到现在的全部 22 个版本，聊聊为什么把半成品也晒出来值得做。",
+  "en_title": "I put all 22 versions of my unfinished cat game online — including the bad first one",
+  "en_oneliner": "17-year-old developer Bram Lesage published all 22 versions of his unfinished cat game, from the rough first build onward, and explains why sharing the messy middle is worth it."
+ },
+ "https://dev.to/saifal_nadeem_4a05291ff91/how-i-made-150-levels-for-a-make-24-puzzle-without-designing-a-single-one-48jj": {
+  "zh_title": "不用手设计一关，我做了 150 关 Make 24 数字解谜",
+  "zh_oneliner": "作者用生成式方法为浏览器小游戏 Make 24 做出 150 个关卡，不用逐关手排，分享了自动出题与筛选可解关卡的思路。",
+  "en_title": "How I made 150 levels for a Make 24 puzzle without designing a single one",
+  "en_oneliner": "Instead of hand-designing levels, the author generated 150 levels for the browser puzzle game Make 24, sharing how to auto-generate and filter solvable puzzles."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers": {
+  "zh_title": "前 Rockstar 环境美术师发声：GTA 6 整体令人惊艳，但大镖客 2 的河流可能更胜一筹",
+  "zh_oneliner": "曾参与 GTA 6 制作的前 Rockstar 环境美术师谈自己花数年打磨的世界，称其整体令人惊艳，同时认为荒野大镖客 2 的河流做得更好。",
+  "en_title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+  "en_oneliner": "A former Rockstar environment artist talks about the GTA 6 world he spent years building, calling it generally stunning while saying Red Dead 2 might have had better rivers."
  }
 }
