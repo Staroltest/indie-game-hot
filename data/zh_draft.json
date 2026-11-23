@@ -22252,5 +22252,47 @@
   "zh_oneliner": "《PUBG Mobile》与英国豪车品牌宾利达成联动，三款车型已于 11 月 20 日上线，品牌联动仍是头部手游变现的常规打法。",
   "en_title": "PUBG Mobile partners with Bentley to bring luxury vehicles to the game",
   "en_oneliner": "PUBG Mobile has teamed up with British luxury carmaker Bentley to bring three of its vehicles into the battle royale, live since November 20 — brand crossovers remain a standard monetisation play for top mobile games."
+ },
+ "https://80.lv/articles/this-fighting-animation-made-with-maya-is-inspired-by-arcane": {
+  "zh_title": "这段用 Maya 做的格斗动画灵感来自《Arcane》",
+  "zh_oneliner": "动画师 Ahmad Firdaus 以《Arcane》中 Vi 与 Sevika 的打斗编排为蓝本，做了一段个人格斗动画习作。",
+  "en_title": "This Fighting Animation Made with Maya Is Inspired by Arcane",
+  "en_oneliner": "Animator Ahmad Firdaus recreated the fight choreography of Vi vs. Sevika from Arcane as a personal Maya animation study."
+ },
+ "https://80.lv/articles/nicalis-removed-ai-music-from-the-binding-of-isaac-repentance-after-users-noticed-it": {
+  "zh_title": "玩家发现后，Nicalis 从《以撒的结合：忏悔+》中撤下了 AI 音乐",
+  "zh_oneliner": "玩家发现游戏未公开使用了生成式 AI 音乐后，Nicalis 将其撤下，这件事也给独立团队提了个醒：AI 素材不披露会直接伤害玩家信任。",
+  "en_title": "Nicalis Removed AI Music from The Binding of Isaac: Repentance+ After Users Noticed It",
+  "en_oneliner": "After players spotted undisclosed generative AI music in the game, Nicalis pulled it — a reminder for indie teams that undisclosed AI assets can quickly erode player trust."
+ },
+ "https://80.lv/articles/ubisoft-established-a-new-studio-focusing-on-ai-driven-games": {
+  "zh_title": "育碧成立新工作室，专注 AI 驱动的游戏",
+  "zh_oneliner": "育碧新设子公司 Motherbrain，定位是借助 AI 探索新的游戏体验方向，值得留意大厂如何把 AI 落到具体产品上。",
+  "en_title": "Ubisoft Established a New Studio Focusing on AI-Driven Games",
+  "en_oneliner": "Ubisoft's new subsidiary Motherbrain will focus on AI-driven game experiences — worth watching for how a major publisher turns AI into actual products."
+ },
+ "https://dev.to/nemocurio/i-built-a-daily-guessing-game-from-museum-open-access-data-232c": {
+  "zh_title": "我用博物馆开放数据做了一个每日猜谜小游戏",
+  "zh_oneliner": "作者用博物馆开放藏品数据做了免费每日网页小游戏 Doohickey，每天给出三件遮住标签的真实藏品，让玩家猜它们的用途。",
+  "en_title": "I built a daily guessing game from museum open-access data",
+  "en_oneliner": "The author built Doohickey, a free daily web game that shows three real museum objects with their labels hidden and asks players to guess what each was used for, using museums' open-access data."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/reading-a-krillion-style-score-backwards-what-the-square-root-rule-tells-you-about-the-crowd-54e0": {
+  "zh_title": "倒着读 Krillion 式分数：平方根规则能告诉你人群的什么",
+  "zh_oneliner": "作者拆解了 Krillion 式计分背后的平方根规则，聊了聊分数如何反过来透露玩家群体的分布情况。",
+  "en_title": "Reading a Krillion-Style Score Backwards: What the Square-Root Rule Tells You About the Crowd",
+  "en_oneliner": "The author unpacks the square-root rule behind Krillion-style scoring and what a score reveals in reverse about the crowd behind it."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6": {
+  "zh_title": "Rockstar 老将：GTA 对待女性的方式“一直不好”，GTA 6 终于迎来女主角令人欣慰",
+  "zh_oneliner": "一位 Rockstar 老将坦言 GTA 系列过去对女性的刻画一直不好，并为 GTA 6 终于迎来迟到已久的女性主角 Lucia 感到高兴。",
+  "en_title": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
+  "en_oneliner": "A Rockstar veteran says GTA's treatment of women \"has not been good\" and welcomes GTA 6's long-overdue female protagonist Lucia."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle": {
+  "zh_title": "GTA 6 笔记本密码与 Auntie’s Place 在 La Perle 的位置",
+  "zh_oneliner": "这篇攻略教你解开 Vice City 公寓里 Vanessa 笔记本电脑的谜题，并找到 La Perle 的 Auntie’s Place。",
+  "en_title": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
+  "en_oneliner": "This guide walks through solving Vanessa's laptop puzzle in the Vice City apartment and finding Auntie's Place in La Perle."
  }
 }
