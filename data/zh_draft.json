@@ -21640,5 +21640,11 @@
   "zh_oneliner": "独立平台游戏《Kaeru Hero》更新至 3.0，敌人行为、关卡平衡、镜头与存档进度都做了大幅打磨。",
   "en_title": "🐸 Kaeru Hero 3.0 — Another milestone in a project I'm passionate about! 🚀",
   "en_oneliner": "Indie platformer Kaeru Hero hits 3.0 with major polish to enemy behavior, game balance, camera movement, checkpoints, and progression."
+ },
+ "https://hackernoon.com/eleven-months-after-losing-my-job-im-still-building?source=rss": {
+  "zh_title": "失业十一个月后，我还在做游戏",
+  "zh_oneliner": "作者失业后白天在波兰开出租车、晚上坚持做游戏，106 天里提交 641 次把 Unity 作品 PC Workman 送上微软商店，还写了 47 篇免费教程。",
+  "en_title": "Eleven Months After Losing My Job, I'm Still Building",
+  "en_oneliner": "After losing his warehouse job, the author drives a taxi in Poland by day and keeps building games by night — 641 commits in 106 days shipped his Unity game PC Workman to the Microsoft Store, alongside 47 free guides."
  }
 }

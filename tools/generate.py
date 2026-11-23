@@ -194,7 +194,20 @@ def parse_feed(body, source):
                 return []
             root = ET.fromstring(text[:end])
         except ET.ParseError:
-            return []
+            # 有些源用了未声明的命名空间前缀（如 HackerNoon 的 media:），
+            # 严格解析报 unbound prefix：把未声明前缀的标签改名再试。
+            # 只影响本来就解析失败的源（改名前返回 []），解析器只读
+            # title/link/pubDate 等字段，改名后的未知标签会被忽略。
+            try:
+                text = text[:end]
+                declared = set(re.findall(r"xmlns:([A-Za-z_][\w.-]*)\s*=", text[:4000]))
+                used = {p for _, p in re.findall(r"<(/?)([A-Za-z_][\w.-]*):", text)}
+                for p in used - declared:
+                    text = re.sub(r"<%s:" % p, "<%s_" % p, text)
+                    text = re.sub(r"</%s:" % p, "</%s_" % p, text)
+                root = ET.fromstring(text)
+            except ET.ParseError:
+                return []
     items = []
     for el in root.iter():
         name = local_name(el.tag)
@@ -250,11 +263,23 @@ def parse_feed(body, source):
 
 # ---------------------------------------------------------------- 分类与打分
 
+def kw_hit(text, kw):
+    """关键词命中：纯 ASCII 关键词按词边界匹配（尾部可选复数 s/es），
+    避免子串误伤——如 'engineering' 命中 'engine'（Dev.to 职业故事进精选，
+    2026-11-23 把关）、'article'/'start' 命中 'art'、'rapid' 命中 'api'、
+    'model' 命中噪音词 'mod'、'freedom' 命中噪音词 'free'。
+    中文关键词无词边界，仍用子串匹配。"""
+    k = kw.lower()
+    if re.fullmatch(r"[a-z0-9][a-z0-9 \-]*", k):
+        return re.search(r"\b" + re.escape(k) + r"(?:s|es)?\b", text) is not None
+    return k in text
+
+
 def classify(item, categories, fallback):
     text = (item["title"] + " " + item["summary"]).lower()
     for cat in categories:
         for kw in cat["keywords"]:
-            if kw.lower() in text:
+            if kw_hit(text, kw):
                 return cat["key"]
     return fallback
 
@@ -269,9 +294,9 @@ def score(item, cfg, now):
             break
     total += sc["tier_bonus"].get(item["_tier"], 0)
     text = (item["title"] + " " + item["summary"]).lower()
-    dev_hits = sum(1 for kw in sc["dev_keywords"] if kw.lower() in text)
+    dev_hits = sum(1 for kw in sc["dev_keywords"] if kw_hit(text, kw))
     total += min(dev_hits * sc["dev_keyword_bonus"], sc["dev_keyword_cap"])
-    noise_hits = sum(1 for kw in sc["noise_keywords"] if kw.lower() in text)
+    noise_hits = sum(1 for kw in sc["noise_keywords"] if kw_hit(text, kw))
     total += max(noise_hits * sc["noise_keyword_penalty"], sc["noise_keyword_floor"])
     return max(0, min(100, total))
 
@@ -340,7 +365,7 @@ def labels_for(item, cfg):
     text = (item["title"] + " " + (item.get("summary") or "")).lower()
     labels = []
     for kw in cfg["scoring"]["dev_keywords"]:
-        if kw.lower() in text:
+        if kw_hit(text, kw):
             lab = REASON_LABELS.get(kw, kw)
             if lab not in labels:
                 labels.append(lab)
@@ -352,7 +377,7 @@ def labels_for_en(item, cfg):
     text = (item["title"] + " " + (item.get("summary") or "")).lower()
     labels = []
     for kw in cfg["scoring"]["dev_keywords"]:
-        if kw.lower() in text:
+        if kw_hit(text, kw):
             lab = REASON_LABELS_EN.get(kw, kw)
             if lab not in labels:
                 labels.append(lab)
