@@ -21742,5 +21742,17 @@
   "zh_oneliner": "节日更新最怕把玩家进度清零，这份清单教你给存档加版本号、写小步迁移，让老存档在新版本里平稳过渡。",
   "en_title": "Versioning Save Data Before a Live Update: A Migration Checklist for Your Christmas Patch",
   "en_oneliner": "A seasonal patch that wipes progress kills goodwill fast — this checklist covers save versioning and small-step migrations so old saves survive your Christmas update."
+ },
+ "https://dev.to/dumbgamelab/a-bug-that-only-exists-on-your-second-playthrough-cant-be-found-by-testing-the-first-one-1hgj": {
+  "zh_title": "只在二周目才出现的 Bug，测一周目永远测不出来",
+  "zh_oneliner": "作者的网吧经营模拟游戏重开后日均收入算错了：旧存档的收入被带进新一局，导致奖励和卡牌定价全乱套，根源是测试存档从没经历过一次重置。",
+  "en_title": "A bug that only exists on your second playthrough can't be found by testing the first one",
+  "en_oneliner": "The author's PC bang management sim miscalculated daily revenue after a restart, carrying the old run's earnings into the new one and breaking bonuses and card prices — because no test save had ever been through a reset."
+ },
+ "https://www.youxituoluo.com/535082.html": {
+  "zh_title": "一夜热搜背后，电竞正在迈入“资产平台化”的奇点",
+  "zh_oneliner": "从微博竞燃之夜的出圈热度切入，分析电竞如何借助社交平台的参与机制和荣誉绑定，从圈层话题变成大众公共事件。",
+  "en_title": "Behind one night of trending searches, esports is entering the \"asset platformization\" inflection point",
+  "en_oneliner": "Using Weibo's esports awards night as a case study, the piece looks at how social platforms turn esports moments into mainstream public events through participatory features and award partnerships."
  }
 }
