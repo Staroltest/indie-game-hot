@@ -21670,5 +21670,23 @@
   "zh_oneliner": "老牌发行商 SNEG 把三款经典 PC 策略游戏重新上架，包括《Warlords 4：以太英雄传》，老玩家可以重温当年战局。",
   "en_title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
   "en_oneliner": "SNEG brings back three venerable PC strategy games, including Warlords 4: Heroes of Etheria, giving longtime players a chance to revisit them."
+ },
+ "https://www.gcores.com/articles/222652": {
+  "zh_title": "第三人称生存恐怖游戏《Ugly Within》正式公布",
+  "zh_oneliner": "少年凭窥视过去的能力与驱魔师搭档，揭开镰田家族世代供奉的神秘存在，双视角推进的第三人称生存恐怖新作。",
+  "en_title": "Third-person survival horror game Ugly Within officially announced",
+  "en_oneliner": "A boy who can glimpse the past teams up with an exorcist to uncover the dark secret a family has worshipped for generations, in a dual-perspective third-person survival horror game."
+ },
+ "https://www.gcores.com/articles/222654": {
+  "zh_title": "点击式恐怖游戏《阴霾笼罩》将于27年2月16日发售",
+  "zh_oneliner": "两位好友联手打造的点击式恐怖游戏：扮演私家侦探深入死寂古宅，靠环环相扣的环境谜题追查失踪案，2027 年 2 月 16 日发售。",
+  "en_title": "Point-and-click horror game Shrouded in Gloom launches February 16, 2027",
+  "en_oneliner": "A point-and-click horror game made by two friends: play a private detective exploring a silent old manor, solving chained environmental puzzles to trace a disappearance, launching February 16, 2027."
+ },
+ "https://dev.to/cybermax/roblox-tycoon-dropper-tutorial-conveyors-upgraders-and-a-collector-in-one-server-script-2ig2": {
+  "zh_title": "Roblox 大亨掉落器教程：传送带、升级器与收集器合在一个服务端脚本里",
+  "zh_oneliner": "用一个服务端脚本讲清 Roblox 大亨玩法的完整循环：掉落、传送、增值、收款全靠标签与属性驱动。",
+  "en_title": "Roblox tycoon dropper tutorial: conveyors, upgraders and a collector in one server script",
+  "en_oneliner": "One server script walks through the full Roblox tycoon loop — dropping, conveying, upgrading and collecting — driven entirely by tags and attributes."
  }
 }
