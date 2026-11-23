@@ -21700,5 +21700,47 @@
   "zh_oneliner": "《以撒的结合》新 DLC 在未标注 AI 生成的情况下加入 AI 音乐并恶搞 GTA 6，Steam 评价随即跌至“差评如潮”，相关音乐已被撤下。",
   "en_title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
   "en_oneliner": "The Binding of Isaac's new DLC added AI-generated music in a GTA 6-parodying update without an AI disclosure, sending Steam reviews to Overwhelmingly Negative before the music was pulled."
+ },
+ "http://www.gamelook.com.cn/2026/11/606919": {
+  "zh_title": "小团掀桌子！3人用时4天，用AI真干出款“无限暖暖”？",
+  "zh_oneliner": "三人小团队四天用 AI 做出一款换装开放世界雏形，看看 AI 开发平台迭代之后，独立小队能把玩法原型推到多远。",
+  "en_title": "Tiny Team, Big Swing: 3 Devs, 4 Days, and an AI-Built “Infinity Nikki”?",
+  "en_oneliner": "A three-person team built a dress-up open-world prototype in four days with AI tools — a look at how far small teams can now push a playable prototype."
+ },
+ "http://www.gamelook.com.cn/2026/11/606909": {
+  "zh_title": "散爆加入二游大战！《少女前线：蓝蝶契约》海外首曝定档2027年发布",
+  "zh_oneliner": "散爆《少女前线》IP 的第三人称多人合作射击新作海外首曝，定档 2027 年发售，二游赛道又添一位重磅选手。",
+  "en_title": "Sunborn Joins the Anime-Game Race: Girls' Frontline: Blue Butterfly Pact Revealed for 2027",
+  "en_oneliner": "Sunborn's new third-person co-op shooter in the Girls' Frontline universe got its first overseas trailer, targeting a 2027 release."
+ },
+ "http://www.gamelook.com.cn/2026/11/606933": {
+  "zh_title": "“AI垃圾” 堵死Steam：过审时间几天变几周，有独游被卡到错过发售日",
+  "zh_oneliner": "Steam 上 AI 生成内容暴增拖慢了审核流程，独游过审从几天拖到几周，有的甚至因此错过了发售窗口。",
+  "en_title": "“AI Slop” Is Clogging Steam: Review Times Stretch from Days to Weeks, and Some Indies Miss Launch Day",
+  "en_oneliner": "A flood of AI-generated submissions has slowed Steam's review queue from days to weeks, leaving some indie releases stuck past their launch dates."
+ },
+ "http://www.gamelook.com.cn/2026/11/606929": {
+  "zh_title": "腾讯才跌完、网易大跌17.6%，短剧真成了游戏大敌？",
+  "zh_oneliner": "腾讯、网易财报季双双承压，短剧分流用户时间的说法再被提起，游戏行业真要警惕这个新对手吗。",
+  "en_title": "Tencent Down, NetEase Down 17.6%: Are Short Dramas Really Gaming's New Rival?",
+  "en_oneliner": "With Tencent and NetEase both sliding after earnings, the piece asks whether short-form dramas are genuinely stealing playtime from games."
+ },
+ "http://www.gamelook.com.cn/2026/11/606891": {
+  "zh_title": "“上班摸鱼神器”！《挂币英雄》Steam在线破 4.3万人，好评率却卡在一半",
+  "zh_oneliner": "挂机放置小游《挂币英雄》Steam 同时在线突破 4.3 万，好评率却只有一半左右，摸鱼神器背后的口碑分化值得一看。",
+  "en_title": "“Work-Slacking Artifact”: Idle Coin Hero Tops 43,000 Concurrent Players on Steam, but Reviews Split Down the Middle",
+  "en_oneliner": "Idle game Idle Coin Hero passed 43,000 concurrent players on Steam, yet its review score sits near 50% — a look at why the idle hit divides players."
+ },
+ "http://www.gamelook.com.cn/2026/11/606908": {
+  "zh_title": "《原神》IP新项目曝光，UE5新概念PVP；AI时代下技术人员应该如何成长？",
+  "zh_oneliner": "米哈游技术负责人在高校宣讲中透露《原神》IP 新项目与 UE5 概念 PVP，并聊了 AI 时代技术人的成长路径。",
+  "en_title": "New Genshin IP Project Revealed, UE5 Concept PvP, and How Tech Talent Should Grow in the AI Era",
+  "en_oneliner": "A miHoYo tech lead's campus talk surfaced a new Genshin IP project and a UE5 concept PvP mode, plus advice on growing as a technical developer in the AI era."
+ },
+ "https://dev.to/juegostudiosofficial/versioning-save-data-before-a-live-update-a-migration-checklist-for-your-christmas-patch-4h8o": {
+  "zh_title": "圣诞补丁上线前，先给存档做版本管理：一份存档迁移检查清单",
+  "zh_oneliner": "节日更新最怕把玩家进度清零，这份清单教你给存档加版本号、写小步迁移，让老存档在新版本里平稳过渡。",
+  "en_title": "Versioning Save Data Before a Live Update: A Migration Checklist for Your Christmas Patch",
+  "en_oneliner": "A seasonal patch that wipes progress kills goodwill fast — this checklist covers save versioning and small-step migrations so old saves survive your Christmas update."
  }
 }
