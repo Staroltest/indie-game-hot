@@ -22342,5 +22342,35 @@
   "zh_oneliner": "宫本茂将于 2027 年 2 月 18 日的 D.I.C.E. 颁奖礼上获颁首届传奇奖，回顾一位定义了现代游戏设计的创作者，对独立开发者仍是最好的灵感来源。",
   "en_title": "Nintendo’s Shigeru Miyamoto to receive inaugural Legend Award at D.I.C.E. Awards",
   "en_oneliner": "Shigeru Miyamoto will receive the inaugural Legend Award at the D.I.C.E. Awards on February 18, 2027 — a celebration of the designer who shaped modern games, and still a well of inspiration for indies."
+ },
+ "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction": {
+  "zh_title": "Nightdive 的《Thief》重制版将让最“臭名昭著”的 Thief Gold 关卡不那么折磨人，只需“大致给玩家指个方向”",
+  "zh_oneliner": "Nightdive 在重制《Thief》时微调了 Thief Gold 里最难的一关，用更明确的引导降低挫败感，老潜行玩家可以留意这次改动对手感的影响。",
+  "en_title": "Nightdive's Thief remaster will make the most \"infamous\" Thief Gold level a little less maddening, by \"just kind of pointing the player in the right direction\"",
+  "en_oneliner": "Nightdive's Thief remaster softens the most notorious Thief Gold level with clearer guidance, easing frustration without changing the stealth core."
+ },
+ "https://80.lv/articles/procedural-unity-tool-creates-venom-like-tendrils-that-wrap-around-any-object": {
+  "zh_title": "程序化 Unity 工具可生成毒液般的触手，缠绕任意物体",
+  "zh_oneliner": "这款 Unity 程序化工具能生成毒液风格的触手并包裹任意模型，提供五种视觉样式，适合想给场景加有机动态效果的开发者参考。",
+  "en_title": "Procedural Unity Tool Creates Venom-Like Tendrils That Wrap Around Any Object",
+  "en_oneliner": "This procedural Unity tool generates Venom-like tendrils that wrap around any object, offering five visual styles for developers adding organic motion to their scenes."
+ },
+ "https://dev.to/license_ejaw_8cca66dda7a1/casino-game-aggregators-what-they-actually-do-and-what-they-dont-44lg": {
+  "zh_title": "赌场游戏聚合器到底在做什么（以及没做什么）",
+  "zh_oneliner": "文章从架构角度拆解赌场游戏聚合器的实际作用，讲清一次接入数百款游戏背后的集成方式，适合想了解平台分发模式的开发者一读。",
+  "en_title": "Casino Game Aggregators: What They Actually Do (and What They Don't)",
+  "en_oneliner": "This piece breaks down what casino game aggregators actually do from an architectural angle, explaining how one integration delivers hundreds of games for developers curious about platform distribution."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12": {
+  "zh_title": "《GTA 6》中如何偷到 Schafter V12",
+  "zh_oneliner": "这篇指南讲了如何在《GTA 6》里帮 Raul 偷车来拿到 Schafter V12，纯玩家向攻略，对开发参考价值有限。",
+  "en_title": "How to steal the Schafter V12 in GTA 6",
+  "en_oneliner": "This guide explains how to steal the Schafter V12 in GTA 6 by proving yourself to Raul — a player-facing walkthrough with little relevance for developers."
+ },
+ "https://naavik.co/f2p-mobile/how-royal-match-is-changing-candy-crush-saga": {
+  "zh_title": "Royal Match 如何改变 Candy Crush Saga",
+  "zh_oneliner": "Naavik 分析了 Royal Match 的崛起如何冲击 Candy Crush Saga 长达十年的三消霸主地位，拆解头部 F2P 手游的竞争格局，值得做休闲手游的开发者参考。",
+  "en_title": "How Royal Match is Changing Candy Crush Saga",
+  "en_oneliner": "Naavik examines how Royal Match is challenging Candy Crush Saga's decade-long match-3 dominance, unpacking the competitive landscape of top-grossing F2P mobile games for casual game developers."
  }
 }
