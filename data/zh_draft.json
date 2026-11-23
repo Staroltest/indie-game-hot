@@ -21958,5 +21958,29 @@
   "zh_oneliner": "一款用真实呼吸驱动的呼吸器训练游戏，普通摄像头读取呼吸节奏来管理氧气，同样出自 Presage SmartSpectra SDK 挑战赛。",
   "en_title": "SmokeDiver: Your Real Breath Is the Air Supply",
   "en_oneliner": "A breathing-apparatus training game where your real breath, read from an ordinary webcam, drives the air supply, built for the Presage SmartSpectra SDK Challenge."
+ },
+ "https://80.lv/articles/wacom-to-go-private-in-usd862-million-buyout-backed-by-mbk-partners": {
+  "zh_title": "Wacom 接受 MBK Partners 8.62 亿美元私有化收购",
+  "zh_oneliner": "Wacom 将以 8.62 亿美元被 MBK Partners 收购并私有化，社长 Nobutaka Ide 继续掌舵、三星保留持股，预计 2027 年退市，数字绘图板巨头的资本结构迎来大变。",
+  "en_title": "Wacom to Go Private in $862 Million Buyout Backed by MBK Partners",
+  "en_oneliner": "Wacom is set to go private in an $862 million buyout backed by MBK Partners, with president Nobutaka Ide staying at the helm and Samsung remaining a shareholder ahead of a planned 2027 delisting — a major capital shake-up for the drawing-tablet giant."
+ },
+ "https://www.yystv.cn/p/14663": {
+  "zh_title": "《黑神话：悟空》携手《影之刃零》集结星图嘉年华！11月24日正式开票",
+  "zh_oneliner": "《黑神话：悟空》与《影之刃零》确认参展首届星图游戏嘉年华，12 月 18 日至 20 日登陆上海西岸，门票 11 月 24 日开售。",
+  "en_title": "Black Myth: Wukong and Phantom Blade Zero to Headline the First Star Chart Game Carnival, Tickets on Sale November 24",
+  "en_oneliner": "Black Myth: Wukong and Phantom Blade Zero will headline the first Star Chart Game Carnival in Shanghai from December 18 to 20, with tickets going on sale November 24."
+ },
+ "https://dev.to/ashtech52/can-google-genie-4-make-a-game-a-game-developers-guide-5fod": {
+  "zh_title": "Google Genie 4 能做游戏吗？一份写给游戏开发者的指南",
+  "zh_oneliner": "这篇开发者指南实测了 Google Genie 4 的游戏生成能力，拆解它在玩法、美术与流程上到底能帮上多少忙、又有哪些地方做不到。",
+  "en_title": "Can Google Genie 4 Make a Game? A Game Developer's Guide",
+  "en_oneliner": "This developer's guide puts Google Genie 4's game-making abilities to the test, breaking down what it can actually help with across gameplay, art and workflow — and where it falls short."
+ },
+ "https://dev.to/hex_builder/what-the-top-98-roblox-games-reveal-about-thumbnails-icons-personalization-2026-data-5gm3": {
+  "zh_title": "Top 98 Roblox 游戏数据揭示：缩略图、图标与个性化到底有多重要（2026 数据）",
+  "zh_oneliner": "作者拉取了 Roblox 在线榜前 98 款游戏的公开页面数据，用真实数字验证缩略图、图标与个性化对点击的实际影响，取代凭感觉的经验谈。",
+  "en_title": "What the Top 98 Roblox Games Reveal About Thumbnails, Icons & Personalization (2026 Data)",
+  "en_oneliner": "Pulling public page data for all 98 games on Roblox's Top Playing Now chart, this piece replaces thumbnail and icon guesswork with real numbers on what actually drives clicks."
  }
 }
