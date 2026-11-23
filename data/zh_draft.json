@@ -22534,5 +22534,95 @@
   "zh_oneliner": "一个 PlayCanvas 项目把高斯泼溅场景变成了可玩的浏览器环境，涵盖碰撞、导航、光照信息与流式加载，值得做网页 3D 的开发者一看。",
   "en_title": "From Gaussian splats to playable browser environments",
   "en_oneliner": "A PlayCanvas project turns a Gaussian splat into a playable browser scene, covering collision, navigation, lighting, and streaming — worth a look for web 3D developers."
+ },
+ "https://unity.com/blog/hyper-visor-xreal-aura-physics-scenes": {
+  "zh_title": "撕裂现实：Hyper Visor 在 XREAL AURA 背后的技术",
+  "zh_oneliner": "Owlchemy Labs 详解 Hyper Visor 如何用多个 Unity 物理场景加一条能量流，把玩法、菜单与暂停统一在 XREAL AURA 上。",
+  "en_title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
+  "en_oneliner": "Owlchemy Labs explains how Hyper Visor unifies gameplay, menus and pausing on XREAL AURA with multiple Unity physics scenes and a single energy stream."
+ },
+ "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier": {
+  "zh_title": "开发者现在也能用上《EVE: Frontier》同款高端环境光遮蔽技术了",
+  "zh_oneliner": "独立开发者 Daniel Isheden 的个人项目 CORTAO 已被《EVE: Frontier》采用，这套高端环境光遮蔽方案现在人人可用。",
+  "en_title": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
+  "en_oneliner": "CORTAO, a personal project by Fenris Creations developer Daniel Isheden, now powers the high-end ambient occlusion in EVE: Frontier — and could power your next game too."
+ },
+ "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market": {
+  "zh_title": "Plug In Digital 收购《News Tower》发行商 Twin Sails Interactive，组建新发行集团",
+  "zh_oneliner": "法国发行商 Plug In Digital 收购巴黎独立发行商 Twin Sails Interactive，双方合并组建独立游戏发行与分销集团，意在竞争激烈的市场中争得一席之地。",
+  "en_title": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+  "en_oneliner": "French publisher Plug In Digital has acquired Paris-based indie publisher Twin Sails Interactive, merging into a new publishing group built to compete in a crowded market."
+ },
+ "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat": {
+  "zh_title": "动视申请专利：用玩家语音聊天训练 NPC 的神经网络",
+  "zh_oneliner": "动视提交了一项专利，计划用神经网络和大语言模型，让 NPC 从游戏内语音聊天中学习。",
+  "en_title": "Activision files patent for neural network to train NPCs from in-game voice chat",
+  "en_oneliner": "Activision has filed a patent for training NPCs from in-game voice chat with a neural network and large language models."
+ },
+ "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch": {
+  "zh_title": "对付 AI 克隆游戏的一招：缩短官宣到发售的间隔",
+  "zh_oneliner": "TinyBuild 的 Alex Nichiporchik 认为，未来半年开发者最该担心的是上市速度，AI 仿品逼得大家必须尽快把游戏交到玩家手里。",
+  "en_title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+  "en_oneliner": "TinyBuild's Alex Nichiporchik argues the best defence against AI clones is speed: shrink the gap between announcement and launch before copycats catch up."
+ },
+ "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea": {
+  "zh_title": "英伟达恢复黄仁勋 CEO 职务：一篇调侃“求求让我复职”的讽刺短文",
+  "zh_oneliner": "据称黄仁勋辞职不到两周，英伟达董事会便火速让他官复原职，这篇讽刺短文调侃了这场来去匆匆的 CEO 风波。",
+  "en_title": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea",
+  "en_oneliner": "Less than two weeks after Jensen Huang reportedly resigned, Nvidia's board has reinstated him \"effective immediately\" — a satirical take on the whirlwind CEO saga."
+ },
+ "https://dev.to/zen_chou_d2fea3e29a8b8cb5/how-i-generate-letter-grid-word-puzzles-with-a-trie-and-dfs-squaredle-side-project-ega": {
+  "zh_title": "我用字典树加深度优先搜索生成字母网格猜词谜题（Squaredle 副业项目）",
+  "zh_oneliner": "作者分享自己如何为字母网格猜词游戏 Squaredle 设计谜题生成器，用字典树加深度优先搜索枚举所有合法单词。",
+  "en_title": "How I generate letter-grid word puzzles with a trie and DFS (Squaredle side project)",
+  "en_oneliner": "The author walks through generating letter-grid word puzzles for the side project Squaredle with a trie and depth-first search."
+ },
+ "https://dev.to/hoanganhlam/from-pixel-art-tiles-to-a-godot-4-level-three-workflows-compared-230c": {
+  "zh_title": "从像素画瓦片到 Godot 4 关卡：三种工作流对比",
+  "zh_oneliner": "画瓦片只是有趣的部分，真正的苦活是把瓦片做成能用的 Godot 4 TileSet，作者对比了三种把像素画变成关卡的工作流。",
+  "en_title": "From pixel art tiles to a Godot 4 level: three workflows compared",
+  "en_oneliner": "Drawing the tileset is the fun part — turning it into a working Godot 4 TileSet is the chore, so the author compares three workflows for building a level from pixel art tiles."
+ },
+ "https://dev.to/hoanganhlam/aseprite-piskel-pixelorama-or-a-browser-editor-picking-a-pixel-art-tool-for-a-small-game-2h4": {
+  "zh_title": "Aseprite、Piskel、Pixelorama 还是浏览器编辑器？给小游戏挑像素画工具",
+  "zh_oneliner": "社区里被问烂了的“像素画该用什么工具”，答案不该只是一个名字，作者按项目类型和工作场景给出选择思路。",
+  "en_title": "Aseprite, Piskel, Pixelorama or a browser editor? Picking a pixel art tool for a small game",
+  "en_oneliner": "Instead of answering \"which pixel art editor?\" with a single name, the author matches Aseprite, Piskel, Pixelorama and browser editors to what you are making and where you work."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/whats-the-smallest-game-youve-ever-finished-and-what-made-you-actually-finish-it-17fm": {
+  "zh_title": "你做完过的最小的游戏是什么，是什么让你真的把它做完了？",
+  "zh_oneliner": "多数游戏项目死在“手感很棒”和“再加个菜单”之间，作者向社区征集那些真正做完的小游戏，以及让人坚持到最后的原因。",
+  "en_title": "What's the smallest game you've ever finished, and what made you actually finish it?",
+  "en_oneliner": "Most game projects die between \"the movement feels great\" and \"add a menu\", so the author asks the community what the smallest games they actually finished were — and what kept them going."
+ },
+ "https://dev.to/conceptbr/one-piece-guess-who-a-daily-quiz-where-pirates-are-cats-marines-are-dogs-and-civilians-are-mice-14g6": {
+  "zh_title": "海贼猜猜看：一款海盗是猫、海军是狗、平民是老鼠的每日问答游戏",
+  "zh_oneliner": "两位朋友做了个免费的《海贼王》每日猜谜小游戏，玩法类似 Wordle，每天全服共用同一个神秘角色。",
+  "en_title": "One Piece Guess Who: a daily quiz where pirates are cats, marines are dogs and civilians are mice",
+  "en_oneliner": "Two friends built a free daily One Piece guessing quiz in the style of Wordle, where pirates are cats, marines are dogs and civilians are mice."
+ },
+ "https://dev.to/jimmy_fa_df2a6d4a40947e2a/designing-a-pass-and-play-social-deduction-state-machine-in-typescript-43f8": {
+  "zh_title": "用 TypeScript 设计本地轮流玩的社交推理游戏状态机",
+  "zh_oneliner": "本地轮流派对游戏不用账号也能玩，作者分享如何用确定性角色分配与无泄漏的身份揭示流程实现社交推理状态机。",
+  "en_title": "Designing a Pass-and-Play Social Deduction State Machine in TypeScript",
+  "en_oneliner": "Local pass-and-play party games need deterministic role assignment and leak-free reveals without accounts, and the author shows how to build that state machine in TypeScript."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/2-player-games-on-chromebook-designing-for-two-people-on-one-laptop-keyboard-6h0": {
+  "zh_title": "Chromebook 上的双人游戏：为两个人共用一台笔记本键盘做设计",
+  "zh_oneliner": "学校 Chromebook 只有键盘和触控板，作者分析双人同机游戏该怎么分键位、避开按键冲突，并给出三种可行的布局。",
+  "en_title": "2 player games on Chromebook: designing for two people on one laptop keyboard",
+  "en_oneliner": "On a school Chromebook two players share one keyboard, so the author breaks down the layouts that work — separate keys, separate clusters, or turns — and how to dodge ghosting."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected": {
+  "zh_title": "特朗普称赞黄仁勋复任英伟达 CEO，称其为“伟大的爱国者与国宝”，马斯克称“错误已纠正”",
+  "zh_oneliner": "英伟达董事会恢复黄仁勋 CEO 职务后，特朗普称赞这是“正确而恰当的决定”，马斯克也表示“错误已经纠正”。",
+  "en_title": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+  "en_oneliner": "After Nvidia's board reinstated Jensen Huang as CEO, Trump called him a \"great patriot and national treasure\" while Musk said \"the mistake has been corrected.\""
+ },
+ "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette": {
+  "zh_title": "《GTA 6》刚打补丁，修复 PS5 与 Xbox Series X/S 上的进度 Bug",
+  "zh_oneliner": "Rockstar 为 PS5 与 Xbox Series X/S 版《GTA 6》推送补丁，修复发售以来玩家反馈的若干问题，其中包括一个进度 Bug。",
+  "en_title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+  "en_oneliner": "Rockstar has issued a patch for GTA 6 on PlayStation 5 and Xbox Series X/S, fixing a progression bug and other issues reported since launch."
  }
 }
