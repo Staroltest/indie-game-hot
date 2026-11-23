@@ -21838,5 +21838,11 @@
   "zh_oneliner": "一款设定在 19 世纪爱沙尼亚的奇幻编程挑战游戏：为机械图灵机“逻辑磨坊”编写精确指令，从一元加法一路解到数独求解器和国际象棋将军判定。",
   "en_title": "Marches & Gnats programming challenges",
   "en_oneliner": "A fantastical game of programming challenges set in 19th-century Estonia: write precise instructions for the Logic Mill, a mechanical Turing machine, working from unary addition up to a Sudoku solver and chess check detection."
+ },
+ "https://dev.to/instant_games/undo-rotate-and-falling-blocks-giving-players-control-in-a-puzzle-game-8eo": {
+  "zh_title": "撤销、旋转与下落方块：把解谜游戏的控制权交给玩家",
+  "zh_oneliner": "一款 10×10 三块拼图的休闲解谜游戏，用撤销、旋转和下落方块这三个调节手段，在极简规则里做出可调的平衡手感。",
+  "en_title": "Undo, Rotate and Falling Blocks: Giving Players Control in a Puzzle Game",
+  "en_oneliner": "A minimal 10x10 block puzzle that turns undo, rotation, and falling blocks into three tuning knobs for balancing an otherwise bare-bones rule set."
  }
 }
