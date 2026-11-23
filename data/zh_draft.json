@@ -23044,5 +23044,29 @@
   "zh_oneliner": "饰演奎托斯之妻、阿特柔斯之母菲的 Deborah Ann Woll 确认回归亚马逊《战神》剧集，继续扮演这位神秘角色。",
   "en_title": "God of War: Laufey star Deborah Ann Woll will reprise the role in Amazon's God of War show",
   "en_oneliner": "Deborah Ann Woll, who played Faye — Kratos's wife and Atreus's mother — will reprise the role in Amazon's God of War series."
+ },
+ "https://gamedev.net/blogs/entry/2298714-from-text-to-interactive-dialogue-create-your-first-script-right-in-the-gdd": {
+  "zh_title": "从文字到互动对话：直接在 GDD 里写出你的第一段对话脚本",
+  "zh_oneliner": "对话写在文档里很难想象实际玩起来什么样，这篇教程教你把剧情搬上节点图、连上分支，一键跑通整段对话。",
+  "en_title": "From text to interactive dialogue: create your first script right in the GDD",
+  "en_oneliner": "Dialogue written in a doc is hard to picture in play — this tutorial moves the script onto a node graph, wires up branches, and runs the whole conversation with one click."
+ },
+ "https://dev.to/alex_imeads/69241-players-at-018-how-the-telegram-game-arrows-grew-in-23-days-4d5n": {
+  "zh_title": "69241 名玩家、单价 0.18 美元：Telegram 游戏 Arrows 如何在 23 天内增长",
+  "zh_oneliner": "Telegram 小游戏 Arrows 用 23 天拉来近 7 万玩家，单用户成本只要 0.18 美元，作者拆解了点击直达机器人与素材优选这两招。",
+  "en_title": "69,241 players at $0.18: how the Telegram game Arrows grew in 23 days",
+  "en_oneliner": "Telegram game Arrows pulled in nearly 70,000 players in 23 days at $0.18 each — the author breaks down the two moves that did it: ads that open the bot directly, and letting the system pick the creatives."
+ },
+ "https://store.steampowered.com/news/293917": {
+  "zh_title": "《军团要塞 2》更新发布",
+  "zh_oneliner": "本次更新以安全与稳定性改进为主，重启游戏后自动应用。",
+  "en_title": "Team Fortress 2 Update Released",
+  "en_oneliner": "This update focuses on security and stability improvements and applies automatically when you restart the game."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already": {
+  "zh_title": "GTA 6 玩家发现“60 帧漏洞”，但它其实跑不到 60 帧",
+  "zh_oneliner": "所谓 60 帧漏洞既不稳定也并非真 60 帧，不过它再次点燃了玩家对 PC 版的期待。",
+  "en_title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
+  "en_oneliner": "The so-called 60 fps glitch is neither stable nor truly 60 fps — but it has reignited players' hopes for a PC version."
  }
 }
