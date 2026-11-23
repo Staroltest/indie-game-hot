@@ -23068,5 +23068,29 @@
   "zh_oneliner": "所谓 60 帧漏洞既不稳定也并非真 60 帧，不过它再次点燃了玩家对 PC 版的期待。",
   "en_title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
   "en_oneliner": "The so-called 60 fps glitch is neither stable nor truly 60 fps — but it has reignited players' hopes for a PC version."
+ },
+ "https://gamedev.net/blogs/entry/2298715-vetor-a-ruptura-windows-demo-v62": {
+  "zh_title": "V.E.T.O.R — A Ruptura Windows 试玩版更新至 V6.2",
+  "zh_oneliner": "《V.E.T.O.R — A Ruptura》的 Windows 试玩版已更新到 V6.2，已购玩家可通过官网或 itch.io 下载最新构建体验。",
+  "en_title": "V.E.T.O.R — A Ruptura | Windows Demo V6.2",
+  "en_oneliner": "The Windows demo of V.E.T.O.R — A Ruptura is now at V6.2, available to download from the official site or an existing itch.io purchase."
+ },
+ "https://dev.to/juan_manuelrevillamaill/como-optimizar-audio-sfx-97-peso-crear-loops-sin-clics-y-exportar-gifs-3-mb-para-itchio-en-34ii": {
+  "zh_title": "本地优化音频 SFX（体积减 97%）、制作无缝循环音效并导出小于 3MB 的 GIF 到 itch.io（Godot、Unity 与 Unreal）",
+  "zh_oneliner": "一篇面向独立开发者的实操教程，讲如何本地压缩游戏音效、做出无断点的循环音乐，并把 GIF 压到 3MB 以内上传 itch.io，覆盖 Godot、Unity 和 Unreal 三个引擎。",
+  "en_title": "How to Optimize Audio SFX (-97% Size), Create Click-Free Loops, and Export GIFs Under 3 MB for itch.io Locally (Godot, Unity and Unreal)",
+  "en_oneliner": "A hands-on tutorial for indie developers on compressing game audio locally, building seamless looping music, and shrinking GIFs under 3 MB for itch.io, covering Godot, Unity and Unreal."
+ },
+ "https://dev.to/regodefies/kaeru-hero-devlog-2-meet-the-mossy-miniboss-21hg": {
+  "zh_title": "《Kaeru Hero》开发日志 #2：认识长满青苔的小 Boss",
+  "zh_oneliner": "青蛙主角的冒险迎来新挑战：开发日志介绍了本周完成的一只青苔小 Boss，聊了它的视觉设计与制作进展。",
+  "en_title": "🐌 Kaeru Hero — Devlog #2: Meet the Mossy Miniboss",
+  "en_oneliner": "The frog hero's adventure gains a new challenge: this devlog introduces a moss-covered miniboss, covering its visual design and this week's progress."
+ },
+ "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history": {
+  "zh_title": "感谢玩家让《GTA 6》成为 PlayStation 历史上最大的首发",
+  "zh_oneliner": "PlayStation 发文感谢玩家，《GTA 6》已成为 PlayStation 平台历史上首发规模最大的游戏，全球玩家正涌入 Leonida 州展开冒险。",
+  "en_title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history",
+  "en_oneliner": "PlayStation thanks players for making Grand Theft Auto VI the biggest launch in PlayStation history, as players around the world dive into the state of Leonida."
  }
 }
