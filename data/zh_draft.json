@@ -22006,5 +22006,59 @@
   "zh_oneliner": "Christopher Dring 认为育碧的转型方向值得肯定，但成败关键在于能否让内部团队真正认同并跟上，附带他对 GTA 6 发售的四点观察。",
   "en_title": "I believe in Ubisoft's plan, but it must get its staff on-side",
   "en_oneliner": "Christopher Dring argues Ubisoft's turnaround plan is sound, but its success hinges on winning over its own staff — plus four things he loved about the GTA 6 launch."
+ },
+ "https://80.lv/articles/claude-maker-anthropic-opens-34-above-ipo-price-on-nasdaq": {
+  "zh_title": "Claude 开发商 Anthropic 上市首日开盘价较发行价上涨 34%",
+  "zh_oneliner": "Anthropic 登陆纳斯达克，首日开盘即大涨 34%，市值突破 2 万亿美元，给 AI 工具赛道又添一把火。",
+  "en_title": "Claude Maker Anthropic Opens 34% Above IPO Price on Nasdaq",
+  "en_oneliner": "Anthropic debuted on Nasdaq 34% above its IPO price, pushing its valuation past $2 trillion — another strong signal for the AI tools market."
+ },
+ "http://www.chuapp.com/article/291783.html": {
+  "zh_title": "《星际理想国》删档测试：野心勃勃的开放宇宙",
+  "zh_oneliner": "像素软件研发、腾讯发行的开放宇宙沙盒开启首次删档测试，邀科幻作家共建世界观，野心不小但打磨仍需耐心。",
+  "en_title": "Stellar Utopia Wipe Test: An Ambitious Open Universe",
+  "en_oneliner": "Pixel Software's open-universe sandbox, published by Tencent, has begun its first wipe test, with sci-fi writers helping build the world — big ambitions that still need patience to polish."
+ },
+ "https://www.indiedb.com/games/every-last-grain-25d-oasis-edition/news/every-last-grain-25d-oasis-edition-launches-free-in-the-browser": {
+  "zh_title": "《Every Last Grain》2.5D 绿洲版免费上线浏览器",
+  "zh_oneliner": "这款 2.5D 沙漠挖掘小游戏现已免费登陆浏览器，4 个阳光沙漠场景、7 种可升级工具和 4 台辅助无人机，随开随玩。",
+  "en_title": "Every Last Grain - 2.5D Oasis Edition Launches Free in the Browser",
+  "en_oneliner": "The 2.5D desert-digging game is now free to play in any browser, with four sunlit desert biomes, seven upgradeable tools, and four helper drones."
+ },
+ "https://dev.to/juegostudiosofficial/preparing-your-game-for-a-nintendo-switch-port-a-technical-readiness-list-2a8i": {
+  "zh_title": "为游戏移植 Nintendo Switch 做准备：一份技术就绪清单",
+  "zh_oneliner": "想把游戏搬上 Switch？这份清单从性能、输入到提交流程逐项梳理，帮你在动手前先摸清移植要过哪些关。",
+  "en_title": "Preparing Your Game for a Nintendo Switch Port: A Technical Readiness List",
+  "en_oneliner": "Thinking about a Switch port? This checklist walks through performance, input, and submission requirements so you know what the port demands before you start."
+ },
+ "https://dev.to/no_momo/100-fun-pictionary-words-for-your-next-game-night-1ha4": {
+  "zh_title": "100 个有趣的猜画词，点亮你的下一个游戏之夜",
+  "zh_oneliner": "派对猜画游戏缺词库？这里整理了 100 个好玩的猜画词，拿来就能开一局。",
+  "en_title": "100 Fun Pictionary Words for Your Next Game Night",
+  "en_oneliner": "Running out of things to draw at game night? Here are 100 fun Pictionary words you can use right away."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources": {
+  "zh_title": "为什么 GTA 6 里玩不了飞镖？Rockstar 称“没资源做到满意的水准”",
+  "zh_oneliner": "前作都有的飞镖小游戏在 GTA 6 里缺席，Rockstar 的解释是资源不够做到自己满意的标准，小玩法取舍背后是 3A 的成本账。",
+  "en_title": "Why Can't You Play Darts in GTA 6? Rockstar Says It 'Didn't Have the Resources' to Meet Its Own Standard",
+  "en_oneliner": "Darts, a staple of earlier GTA games, is missing from GTA 6 — Rockstar says it lacked the resources to do it to a standard it would be happy with, a small reminder of the cost behind AAA scope."
+ },
+ "https://www.eurogamer.net/queens-domain-review": {
+  "zh_title": "《Queen's Domain》评测",
+  "zh_oneliner": "这款受 FromSoftware 处女作《King's Field》启发的第一人称动作 RPG 值得一试，评测聊了它如何把老派地牢探索做出现代味道。",
+  "en_title": "Queen's Domain review",
+  "en_oneliner": "Inspired by FromSoftware's first-person action-RPG King's Field, this dungeon crawler brings old-school exploration a modern polish — here's how it holds up."
+ },
+ "https://www.youxituoluo.com/535086.html": {
+  "zh_title": "汉末十周年 制作人众筹开发新产品《汉末霸业：再起》",
+  "zh_oneliner": "三国策略游戏《汉末霸业》走过十年，制作人拿出续作开发积累的新作《汉末霸业：再起》开启众筹，想靠玩家支持让项目重新起步。",
+  "en_title": "Hanmo's 10th Anniversary: Producer Crowdfunds New Game 'Hanmo Baye: Rebirth'",
+  "en_oneliner": "Ten years after the Three Kingdoms strategy game Hanmo Baye launched, its producer is crowdfunding a new title, Hanmo Baye: Rebirth, built on a decade of sequel development work."
+ },
+ "https://80.lv/articles/unreal-engine-6-will-not-include-blueprints-gameplay-framework": {
+  "zh_title": "Unreal Engine 6 将不再包含蓝图与 Gameplay Framework",
+  "zh_oneliner": "Epic 透露 UE6 将砍掉蓝图与 Gameplay Framework，并预计 AI 能让 UE5 游戏向 UE6 的迁移变得实际又划算，引擎路线迎来大转向。",
+  "en_title": "Unreal Engine 6 Will Not Include Blueprints & Gameplay Framework",
+  "en_oneliner": "Epic says UE6 will drop Blueprints and the Gameplay Framework, and expects AI to make converting UE5 games to UE6 practical and cost-efficient — a major shift in the engine's direction."
  }
 }
