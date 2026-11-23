@@ -21922,5 +21922,41 @@
   "zh_oneliner": "31 年的 RPG 老牌 BioWare 正式关闭，文章复盘这位“RPG 之王”如何一步步走向衰亡。",
   "en_title": "BioWare Officially Shuts Down: How Did the 31-Year-Old 'King of RPGs' Write Its Own Decline?",
   "en_oneliner": "BioWare, the 31-year-old RPG studio, has officially shut down; this piece retraces how the self-styled 'King of RPGs' declined step by step."
+ },
+ "https://www.gcores.com/articles/222675": {
+  "zh_title": "运营经理/主管｜机核招聘",
+  "zh_oneliner": "机核在招运营经理/主管，要求熟悉机核内容与社区文化，简历投递至 careers@gcores.com。",
+  "en_title": "Operations Manager / Supervisor — GCORES Hiring",
+  "en_oneliner": "GCORES is hiring an operations manager/supervisor who knows its content and community culture; applications go to careers@gcores.com."
+ },
+ "https://www.gcores.com/articles/222676": {
+  "zh_title": "克苏鲁风叙事恐怖游戏《诡语共鸣》将于27年发售",
+  "zh_oneliner": "LUAL Games 与 Team17 合作的克苏鲁风叙事解谜恐怖新作《诡语共鸣》融合解谜与少量 Roguelike 元素，计划 2027 年登陆 PC。",
+  "en_title": "Cthulhu-Style Narrative Horror Game “诡语共鸣” to Launch in 2027",
+  "en_oneliner": "LUAL Games and Team17's Cthulhu-style narrative puzzle horror game “诡语共鸣” blends puzzles with light roguelike elements and is set to launch on PC in 2027."
+ },
+ "https://www.gcores.com/radios/222668": {
+  "zh_title": "Vol.271.风起今朝——五年终得一冠",
+  "zh_oneliner": "机核电台回顾 LPL 赛区 S16 赛季：从 BLG 先锋赛夺冠开始，五年低谷后终得一冠。",
+  "en_title": "Vol. 271: The Wind Rises Today — A Title After Five Years",
+  "en_oneliner": "GCORES Radio looks back at the LPL's S16 season, from BLG's First Stand win to ending a five-year title drought."
+ },
+ "https://dev.to/safwaankira/dont-blink-a-horror-game-that-only-moves-when-you-blink-e2d": {
+  "zh_title": "《别眨眼》：只有你眨眼时它才会动的恐怖游戏",
+  "zh_oneliner": "一款用面部识别驱动的恐怖小游戏：烛光走廊尽头的身影只在玩家眨眼时移动，参赛作品出自 Presage SmartSpectra SDK 挑战赛。",
+  "en_title": "Don't Blink: a horror game that only moves when you blink",
+  "en_oneliner": "A face-tracked horror game where the figure at the end of a candlelit hall only moves when you blink, built for the Presage SmartSpectra SDK Challenge."
+ },
+ "https://dev.to/lullwoodgamer/lullwood-we-read-our-own-horror-games-code-to-answer-does-it-have-jump-scares-je6": {
+  "zh_title": "《Lullwood》：我们翻了自家恐怖游戏的代码，来回答“有 Jump Scare 吗？”",
+  "zh_oneliner": "免费浏览器恐怖游戏《Lullwood》的开发团队翻开自家代码，从内容标注的角度聊跳吓设计。",
+  "en_title": "Lullwood: We Read Our Own Horror Game's Code to Answer \"Does It Have Jump Scares?\"",
+  "en_oneliner": "The team behind free browser horror game Lullwood digs into its own code to answer whether it has jump scares, from a content-notes perspective."
+ },
+ "https://dev.to/atharva_dhamal_b29e3d639f/smokediver-your-real-breath-is-the-air-supply-1e47": {
+  "zh_title": "《SmokeDiver》：你的真实呼吸就是氧气供应",
+  "zh_oneliner": "一款用真实呼吸驱动的呼吸器训练游戏，普通摄像头读取呼吸节奏来管理氧气，同样出自 Presage SmartSpectra SDK 挑战赛。",
+  "en_title": "SmokeDiver: Your Real Breath Is the Air Supply",
+  "en_oneliner": "A breathing-apparatus training game where your real breath, read from an ordinary webcam, drives the air supply, built for the Presage SmartSpectra SDK Challenge."
  }
 }
