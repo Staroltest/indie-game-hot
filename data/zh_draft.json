@@ -22096,5 +22096,71 @@
   "zh_oneliner": "开源复刻《泡泡龙》的 Bub-n-Bros 被社区移植到 Python 3，还能 10 人联网对战，手机浏览器也能玩。",
   "en_title": "Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network",
   "en_oneliner": "This open-source Bubble Bobble remake, once stuck on Python 2, now runs on Python 3 with up to 10 players over the network — even in a mobile browser."
+ },
+ "https://80.lv/articles/postal-developer-explores-the-series-dark-roots-in-new-horror-fps": {
+  "zh_title": "《POSTAL》开发者新作恐怖 FPS，回归系列黑暗根源",
+  "zh_oneliner": "《Flesh & Wire》以 Postal Dude 的一位受害者为主角，2027 年登陆 PC 与 PS5。",
+  "en_title": "POSTAL Developer Explores the Series' Dark Roots in New Horror FPS",
+  "en_oneliner": "Flesh & Wire follows one of the Postal Dude's victims and launches on PC and PS5 in 2027."
+ },
+ "https://80.lv/articles/official-voice-actor-for-gta-6-this-ain-t-no-gimmick-this-ain-t-no-lie-florida-joker-is-in-gta-6": {
+  "zh_title": "“佛罗里达小丑”确认参演《GTA 6》配音：曾因肖像权与 Rockstar 交恶",
+  "zh_oneliner": "曾因肖像被用进游戏而与 Rockstar 起争执的 Lawrence Sullivan，如今真的成了《GTA 6》的配音演员。",
+  "en_title": "\"Official Voice Actor for GTA 6, This Ain't No Gimmick, This Ain't No Lie\": Florida Joker Is in GTA 6",
+  "en_oneliner": "After clashing with Rockstar over the use of his likeness, Lawrence Sullivan has been cast as a voice actor in GTA 6."
+ },
+ "https://gamedev.net/blogs/entry/2298710-building-a-game-based-learning-module-for-uk-schools-a-pre-production-checklist": {
+  "zh_title": "给英国学校做游戏化学习模块：前期制作清单",
+  "zh_oneliner": "课堂有固定课时、共用设备和教学大纲要覆盖，这篇文章列出动手打开引擎之前必须先定下来的事。",
+  "en_title": "Building a Game-Based Learning Module for UK Schools: A Pre-Production Checklist",
+  "en_oneliner": "A learning game for UK schools lives or dies on decisions made before anyone opens an engine — this checklist covers the fixed lessons, shared devices, and curriculum that shape it."
+ },
+ "https://www.gcores.com/radios/222682": {
+  "zh_title": "我会发着呆、然后忘记你、最后吹起时之笛 再荐茶社45",
+  "zh_oneliner": "本期节目聊金摇杆获奖的《生化危机9》、BIG WALK 因使用 AI 被 IGF 拒评等近期新闻。",
+  "en_title": "Zoning Out, Forgetting You, Then Playing the Ocarina of Time: Re-Recommendation Tea House 45",
+  "en_oneliner": "This episode rounds up recent news including Resident Evil 9's Golden Joystick win and BIG WALK's IGF rejection over AI use."
+ },
+ "http://www.chuapp.com/article/291784.html": {
+  "zh_title": "触乐夜话：玩《GTA6》还是《时之笛》？",
+  "zh_oneliner": "《GTA 6》首日卖出 3250 万份、销售额 37.9 亿美元，编辑在朋友圈的倒计时热潮里聊起这份“非玩不可”的心情。",
+  "en_title": "ChuApp Night Talk: Play GTA 6 or Ocarina of Time?",
+  "en_oneliner": "GTA 6 sold 32.5 million copies on day one for $3.79 billion, and the editors reflect on the countdown fever that made the game feel unmissable."
+ },
+ "http://www.chuapp.com/article/291765.html": {
+  "zh_title": "《战狗》主创：我做游戏只看结果，不在乎外界如何评价",
+  "zh_oneliner": "《战狗》主创 Joe Brammer 回顾自己如何靠撒谎挤进 ID@Xbox 计划，从做《战地》模组一路走到独立开发。",
+  "en_title": "War Dogs Creator: I Only Care About Results When Making Games, Not What Others Think",
+  "en_oneliner": "War Dogs creator Joe Brammer looks back on talking his way into the ID@Xbox program and going from Battlefield mods to independent development."
+ },
+ "https://dev.to/game_zo_92e8d5da367/building-gz-studio-and-game-zone-pro-my-journey-as-an-independent-game-app-developer-2klp": {
+  "zh_title": "从零搭建 GZ Studio 与 Game Zone Pro：一位独立游戏开发者的历程",
+  "zh_oneliner": "作者 Priyanshu 分享自己创立 GZ Studio、做游戏与应用的独立开发之路。",
+  "en_title": "Building GZ Studio and Game Zone Pro: My Journey as an Independent Game & App Developer",
+  "en_oneliner": "Priyanshu shares the story of founding GZ Studio and building games and apps as an independent developer."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations": {
+  "zh_title": "《GTA 6》套件车位置：如何为 Wyman 修复第四辆车",
+  "zh_oneliner": "想修好 Reynolds 套件车，得先找到散落在各处的残骸，这篇指南标出了位置。",
+  "en_title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+  "en_oneliner": "To repair the Reynolds Kit Car you need to track down its wrecks — this guide shows where to find them."
+ },
+ "https://www.pocketgamer.biz/hot-five-gta-6s-blockbuster-launch-layoffs-at-jam-city-and-google-plays-best-of-play-2026-winners": {
+  "zh_title": "本周手游五件大事：《GTA 6》开局爆火、Jam City 裁员与 Google Play 年度最佳",
+  "zh_oneliner": "一周手游要闻盘点：《GTA 6》首日票房级表现、Jam City 裁员，以及 Google Play 2026 年度最佳名单。",
+  "en_title": "Hot Five: GTA 6's blockbuster launch, layoffs at Jam City, and Google Play's Best of Play 2026 winners",
+  "en_oneliner": "The week's biggest mobile stories: GTA 6's blockbuster launch, layoffs at Jam City, and Google Play's Best of Play 2026 winners."
+ },
+ "https://www.pocketgamer.biz/gta-6-generates-379bn-in-day-one-sales-to-become-the-biggest-entertainment-launch-in-history": {
+  "zh_title": "《GTA 6》首日销售额 37.9 亿美元，成娱乐史上最大首发",
+  "zh_oneliner": "Take-Two 证实《GTA 6》首日零售额达 37.9 亿美元，刷新娱乐产品首发纪录。",
+  "en_title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
+  "en_oneliner": "Take-Two confirmed GTA 6 generated $3.79 billion in day-one retail sales, making it the biggest entertainment launch in history."
+ },
+ "https://www.pocketgamer.biz/five-tips-to-make-the-most-of-pocket-gamer-connects-london-2027": {
+  "zh_title": "参加 2027 年伦敦 Pocket Gamer Connects 的五个建议",
+  "zh_oneliner": "2027 年 1 月 18–19 日的伦敦站是英国领先的游戏行业活动，这篇文章给出参会前值得准备的五件事。",
+  "en_title": "Five tips to make the most of Pocket Gamer Connects London 2027",
+  "en_oneliner": "Pocket Gamer Connects London returns on January 18–19, 2027, and this piece offers five tips to get the most out of the UK's leading games industry event."
  }
 }
