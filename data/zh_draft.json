@@ -22162,5 +22162,95 @@
   "zh_oneliner": "2027 年 1 月 18–19 日的伦敦站是英国领先的游戏行业活动，这篇文章给出参会前值得准备的五件事。",
   "en_title": "Five tips to make the most of Pocket Gamer Connects London 2027",
   "en_oneliner": "Pocket Gamer Connects London returns on January 18–19, 2027, and this piece offers five tips to get the most out of the UK's leading games industry event."
+ },
+ "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry": {
+  "zh_title": "《以撒的结合》更新暗藏 AI 生成音乐引争议，借 GTA 6 发售日玩梗翻车后紧急撤下",
+  "zh_oneliner": "一次借 GTA 6 发售日玩梗的更新，因未披露的 AI 生成音乐翻车而被迫紧急修改，给独立开发者提了个醒：玩梗可以，AI 素材的披露与品控不能省。",
+  "en_title": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry",
+  "en_oneliner": "An update riffing on GTA 6's launch day backfired over undisclosed AI-generated music and had to be hastily reworked — a reminder for indies that jokes are fine, but AI assets still need disclosure and quality control."
+ },
+ "https://80.lv/articles/creating-a-2d-looking-fantasy-anime-style-character-using-an-n-gon-first-modeling-approach": {
+  "zh_title": "用 N 边形优先建模法打造 2D 质感奇幻动漫风角色",
+  "zh_oneliner": "作者分享从简单 N 边形平面起手搭建角色的方法，并详解在 3D 中还原 2D 线条感时头发与毛发的处理难点。",
+  "en_title": "Creating a 2D-Looking Fantasy Anime-Style Character Using an N-Gon-First Modeling Approach",
+  "en_oneliner": "The author shares a modeling approach that builds characters up from simple n-gon planes, and explains the tricky parts of hair and fur when emulating 2D line art in 3D."
+ },
+ "https://80.lv/articles/a-closer-look-at-hand-animation-finger-mechanics": {
+  "zh_title": "细看手部动画与手指 mechanics",
+  "zh_oneliner": "通过详细的动画演示，拆解手部动作与手指关节的表现技巧，适合想打磨角色手部细节的开发者参考。",
+  "en_title": "A Closer Look At Hand Animation & Finger Mechanics",
+  "en_oneliner": "Detailed animation showcases break down hand movement and finger mechanics — a useful reference for developers polishing character hand detail."
+ },
+ "https://www.indiedb.com/games/argent-academy-of-magic-casebook/news/demo-updated-clearer-guidance-and-new-pixel-art": {
+  "zh_title": "《Argent：魔法学院手记》Demo 更新：指引更清晰，新增主角像素画",
+  "zh_oneliner": "Demo 更新后每位角色确认后都有更明确的指引，新增主角像素画与查档提示，另附若干小修复。",
+  "en_title": "Demo updated: clearer guidance and new pixel art",
+  "en_oneliner": "The demo now gives clearer guidance after confirming each character, adds new pixel art of the protagonist and hints pointing to the documents to check, plus a few small fixes."
+ },
+ "https://www.indiedb.com/games/saltwarden-online/news/what-death-costs-in-saltwarden-online": {
+  "zh_title": "《Saltwarden Online》详解死亡代价：不掉经验不掉钱",
+  "zh_oneliner": "在 Haven 服务器死亡不扣经验与金钱，只需走一段幽灵路，10 级后损失少量耐久，文章讲清了具体规则与设计理由。",
+  "en_title": "What death costs in Saltwarden Online",
+  "en_oneliner": "On the Haven realm, dying costs no experience or money — just a ghost walk and, from level 10, some durability — with the exact rules and the reasoning behind them explained."
+ },
+ "https://www.indiedb.com/games/lightbound/news/introducing-lightbound": {
+  "zh_title": "新游《Lightbound》亮相，Alpha 版已可在 Windows 与 Mac 上试玩",
+  "zh_oneliner": "《Lightbound》放出 Alpha 版本，Windows 与 Mac 玩家均可上手体验。",
+  "en_title": "Introducing Lightbound!",
+  "en_oneliner": "Lightbound's alpha release is now playable on Windows and Mac."
+ },
+ "https://dev.to/pascal_hoffmann_ee489908a/the-rails-an-endless-calm-train-game-that-runs-in-your-browser-6ad": {
+  "zh_title": "浏览器里的治愈小游戏《The Rails》：开着小火车穿越四季",
+  "zh_oneliner": "一款五分钟就能让人放松下来的网页小游戏：开着小蒸汽火车穿越四季，玩法轻量，适合想做治愈向小品的开发者参考。",
+  "en_title": "The Rails: an endless, calm train game that runs in your browser",
+  "en_oneliner": "A small browser game built to leave you calmer after five minutes: drive a little steam train through four seasons — a light reference for developers making cozy bite-size games."
+ },
+ "https://dev.to/alok_krishali/unity-update-vs-fixedupdate-what-i-use-what-i-avoid-and-why-2gkk": {
+  "zh_title": "Unity 的 Update 与 FixedUpdate 该怎么选：我的用法与避坑经验",
+  "zh_oneliner": "讲清 Update 与 FixedUpdate 的取舍：选错会导致移动不一致与物理问题，文章给出作者的实际用法与避坑建议。",
+  "en_title": "Unity Update vs FixedUpdate: What I Use, What I Avoid, and Why",
+  "en_oneliner": "Choosing the wrong update method leads to inconsistent movement and physics issues — this piece lays out the author's practical rules for when to use each."
+ },
+ "https://dev.to/karthickgunasekaran/building-a-reusable-interaction-framework-in-unity-day-01-3gfl": {
+  "zh_title": "在 Unity 里搭建可复用的交互框架（第 1 天）",
+  "zh_oneliner": "作者以开发日志形式记录在 Unity 中搭建通用交互系统的过程，适合想把交互逻辑做成可复用模块的开发者跟进。",
+  "en_title": "Building a Reusable Interaction Framework in Unity — Day 01",
+  "en_oneliner": "A devlog documenting the build of a reusable interaction system in Unity — worth following if you want your interaction logic as a modular, reusable piece."
+ },
+ "https://dev.to/krillionunlimited/why-rare-answer-trivia-needs-more-than-right-or-wrong-kfg": {
+  "zh_title": "冷门答案问答游戏不能只看对错：开放式问答的设计难点",
+  "zh_oneliner": "开放式问答看似简单，实则与选择题完全不同：近两百个有效答案的判定、评分与体验设计，都值得做问答类游戏的开发者细读。",
+  "en_title": "Why Rare-Answer Trivia Needs More Than Right or Wrong",
+  "en_oneliner": "Open-ended trivia looks simple, but with nearly two hundred valid answers for a single prompt, judging and scoring it is nothing like a multiple-choice quiz — a design read for trivia-game makers."
+ },
+ "https://dev.to/succday/versioning-an-open-cc-by-40-game-map-dataset-across-launch-day-3hlh": {
+  "zh_title": "开源游戏地图数据集如何跨越发售日做版本管理",
+  "zh_oneliner": "大型开放世界游戏发售当晚，基于预告片的社区地图与正式版地图的坐标体系会正面相撞，文章讲了这套开源数据集的版本管理办法。",
+  "en_title": "Versioning an Open CC BY 4.0 Game Map Dataset Across Launch Day",
+  "en_oneliner": "When a huge open-world game launches, the pre-launch community map and the live retail map collide overnight — this piece explains how an open map dataset versions its way across launch day."
+ },
+ "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2": {
+  "zh_title": "寂静岭风恐怖新游确认登陆 Switch 2",
+  "zh_oneliner": "一款受寂静岭启发的恐怖新游确认登陆 Switch 2，在科乐美迟迟不表态之际，给 Switch 2 玩家带来一点安慰。",
+  "en_title": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+  "en_oneliner": "A Silent Hill-inspired horror game is confirmed for Switch 2 — small comfort while Konami stays silent on bringing the series itself to the platform."
+ },
+ "https://naavik.co/weekly-digest/what-went-wrong-at-fortis-games": {
+  "zh_title": "Fortis Games 到底出了什么问题？",
+  "zh_oneliner": "金主拉斯维加斯金沙撤资后，Fortis Games 于 11 月 10 日关停，400 多人失业，文章梳理了这家工作室从宣布关闭到停运的始末。",
+  "en_title": "What Went Wrong at Fortis Games?",
+  "en_oneliner": "After owner Las Vegas Sands pulled funding, Fortis Games shut down on November 10 with more than 400 jobs lost — this digest traces how the studio went from announcing closure to closing."
+ },
+ "https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6": {
+  "zh_title": "Epic 确认虚幻 6 将放弃蓝图，连早期版本也不支持",
+  "zh_oneliner": "Epic 修改了虚幻引擎 6 的计划：早期版本即不再支持蓝图与 Actor Gameplay Framework，对依赖可视化脚本的团队影响不小。",
+  "en_title": "Epic Games will abandon blueprints right at the launch of Unreal Engine 6",
+  "en_oneliner": "Epic has revised its Unreal Engine 6 plans: even early versions will drop Blueprints and the Actor Gameplay Framework — a big shift for teams built on visual scripting."
+ },
+ "https://www.pocketgamer.biz/pubg-mobile-partners-with-bentley-to-bring-luxury-vehicles-to-the-game": {
+  "zh_title": "《PUBG Mobile》联动宾利：三款豪车开进吃鸡战场",
+  "zh_oneliner": "《PUBG Mobile》与英国豪车品牌宾利达成联动，三款车型已于 11 月 20 日上线，品牌联动仍是头部手游变现的常规打法。",
+  "en_title": "PUBG Mobile partners with Bentley to bring luxury vehicles to the game",
+  "en_oneliner": "PUBG Mobile has teamed up with British luxury carmaker Bentley to bring three of its vehicles into the battle royale, live since November 20 — brand crossovers remain a standard monetisation play for top mobile games."
  }
 }
