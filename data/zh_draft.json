@@ -21844,5 +21844,23 @@
   "zh_oneliner": "一款 10×10 三块拼图的休闲解谜游戏，用撤销、旋转和下落方块这三个调节手段，在极简规则里做出可调的平衡手感。",
   "en_title": "Undo, Rotate and Falling Blocks: Giving Players Control in a Puzzle Game",
   "en_oneliner": "A minimal 10x10 block puzzle that turns undo, rotation, and falling blocks into three tuning knobs for balancing an otherwise bare-bones rule set."
+ },
+ "https://dev.to/ameermaviaposts/a-practical-workflow-for-agent-driven-3d-asset-generation-234d": {
+  "zh_title": "智能体驱动 3D 资产生成的实用工作流",
+  "zh_oneliner": "把大模型当策划、把 3D 生成模型当建模师，用分工协作批量生产可直接进游戏的 3D 资产，附挖掘机实例拆解。",
+  "en_title": "A Practical Workflow for Agent-Driven 3D Asset Generation",
+  "en_oneliner": "Treat the LLM as planner and the 3D model as modeller to mass-produce game-ready 3D assets through a division of labour, with an excavator example to show how it works."
+ },
+ "https://dev.to/hesaistoryteam/designing-branching-narratives-for-ai-interactive-fiction-a-practical-framework-3ipf": {
+  "zh_title": "为 AI 互动小说设计分支叙事：一套实用框架",
+  "zh_oneliner": "别把分支写成段落，把它做成有代价的抉择：作者分享一套让 AI 生成叙事真正分叉的框架，关键在状态管理而非逐字写作。",
+  "en_title": "Designing Branching Narratives for AI Interactive Fiction: A Practical Framework",
+  "en_oneliner": "Don't write branches as paragraphs — make them choices with real consequences: a framework for branching AI interactive fiction where state management, not word-by-word authoring, does the heavy lifting."
+ },
+ "https://indienova.com/indie-game-news/stories-from-game-collecting-04-mainland-china-published-pc-game-collection-summary-2025": {
+  "zh_title": "游戏收藏故事 04：一盒游戏拍出2.7W，2025年陆版PC游戏收藏总结",
+  "zh_oneliner": "2025 年陆版中古 PC 游戏收藏走向学术化与数字化：稀有藏品公开露面越来越少，单盒拍出 2.7 万，博物馆与学界开始系统收藏这段中国游戏史。",
+  "en_title": "Game Collecting Stories 04: One Box of Games Sold for ¥27,000 — A 2025 Roundup of Mainland China PC Game Collecting",
+  "en_oneliner": "Mainland retro PC game collecting went academic and digital in 2025: rare items rarely surfaced in public, one box fetched ¥27,000, and museums and scholars are now systematically preserving this slice of Chinese gaming history."
  }
 }
