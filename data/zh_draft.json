@@ -22978,5 +22978,23 @@
   "zh_title": "我们如何让 300 个方块解谜关卡可证明有解",
   "en_title": "How we made 300 block puzzle levels provably solvable",
   "en_oneliner": "The Blokito team shares how they verified all 300 hand-designed Adventure-mode levels are solvable, so no player ever gets stuck on an impossible puzzle."
+ },
+ "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash": {
+  "zh_title": "Nicalis 在玩家抗议后撤下《以撒的结合：忏悔+》中的 AI 生成音乐",
+  "zh_oneliner": "玩家在更新中发现 AI 生成配乐后刷出大量差评，Nicalis 随即撤下相关音乐，给独立开发者提了个醒：生成式内容一旦被玩家察觉，口碑反噬来得很快。",
+  "en_title": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
+  "en_oneliner": "Players spotted AI-generated tracks in the latest update and flooded Steam with negative reviews, prompting Nicalis to pull the music — a warning for indie devs that generative content can backfire fast once players notice it."
+ },
+ "https://dev.to/teki_solves_fb72717580279/phaser-4-texture-atlases-fix-the-pivot-bug-that-misaligns-your-weapons-1dfj": {
+  "zh_title": "Phaser 4 纹理图集：修复让武器错位的锚点 Bug",
+  "zh_oneliner": "一行代码就能加载图集，但让武器稳稳握在角色手里、从正确位置开火、升级时不乱跳才是难点，这篇教程专门讲透 Phaser 4 的锚点与帧名坑。",
+  "en_title": "Phaser 4 Texture Atlases: Fix the Pivot Bug That Misaligns Your Weapons",
+  "en_oneliner": "Loading an atlas takes one line, but keeping a weapon seated in a character’s hand, firing from the right spot, and stable through upgrades is the hard part — this guide walks through Phaser 4’s pivot and frame-name pitfalls."
+ },
+ "https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled": {
+  "zh_title": "《赛博朋克 2》创意总监自嘲得了“GTA 6 引发的开放世界开发抑郁症”，开玩笑称游戏已取消",
+  "zh_oneliner": "面对 GTA 6 树立的标杆，《赛博朋克 2》创意总监半开玩笑地吐槽开发压力，折射出中小团队做开放世界时被巨头阴影笼罩的真实焦虑。",
+  "en_title": "Cyberpunk 2 creative director says he’s suffering from ‘GTA 6-induced-open-world-game-dev-depression,’ jokes that ‘Cyberpunk 2 is cancelled’",
+  "en_oneliner": "Facing the bar GTA 6 sets, Cyberpunk 2’s creative director half-jokingly vents about the pressure — a glimpse of the very real anxiety smaller teams feel building open worlds in a giant’s shadow."
  }
 }
