@@ -22294,5 +22294,53 @@
   "zh_oneliner": "这篇攻略教你解开 Vice City 公寓里 Vanessa 笔记本电脑的谜题，并找到 La Perle 的 Auntie’s Place。",
   "en_title": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
   "en_oneliner": "This guide walks through solving Vanessa's laptop puzzle in the Vice City apartment and finding Auntie's Place in La Perle."
+ },
+ "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming": {
+  "zh_title": "育碧 Massive 负责人 Christoph Hartmann：想跳出射击游戏，做游戏界的“A24”",
+  "zh_oneliner": "Massive Entertainment 负责人表示工作室想摆脱射击游戏标签，转向更具作者性的精品路线，对独立团队来说，这正是大厂也在押注的方向。",
+  "en_title": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\"",
+  "en_oneliner": "Massive Entertainment's chief says the studio wants to move past shooters toward more auteur-driven work — a sign that even big publishers are betting on the kind of distinctive games indies already make."
+ },
+ "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option": {
+  "zh_title": "英伟达发布热修复，解决新版显卡驱动狂写 SSD 的问题，但回滚可能仍是更稳妥的选择",
+  "zh_oneliner": "英伟达新驱动被曝异常写入 SSD、影响硬盘寿命，官方已出热修复，但开发者若在意机器稳定，回滚驱动仍是更保险的做法。",
+  "en_title": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option",
+  "en_oneliner": "Nvidia's latest driver was caught hammering SSDs with needless writes; a hotfix is out, but rolling back may still be the safer move if you value a stable dev machine."
+ },
+ "https://indiegamesplus.com/a-postmans-journey-preview": {
+  "zh_title": "《A Postman's Journey》：在二战背景下讲述平凡人的瞬间",
+  "zh_oneliner": "这款二战题材新游不拍宏大战争场面，而是聚焦邮差的日常瞬间，给想做叙事驱动小品的开发者一个可参考的切口。",
+  "en_title": "‘A Postman’s Journey’ shares moments in WW2",
+  "en_oneliner": "This WWII game skips the grand battles to focus on a postman's everyday moments — a useful reference for devs building small narrative-driven games."
+ },
+ "https://80.lv/articles/p-studio-claims-the-next-title-after-persona-6-will-be-released-faster": {
+  "zh_title": "P-Studio 称《女神异闻录 6》之后的下一作会更快推出",
+  "zh_oneliner": "距《女神异闻录 5 皇家版》已七年、《女神异闻录 6》仍无发售日，P-Studio 承诺 6 代之后的作品会加快节奏，长线 IP 的开发周期管理值得独立团队借鉴。",
+  "en_title": "P-Studio Claims The Next Title After Persona 6 Will Be Released Faster",
+  "en_oneliner": "Seven years after Persona 5 Royal and with Persona 6 still dateless, P-Studio promises faster releases after it — a lesson in long-cycle IP planning for indie teams too."
+ },
+ "https://www.gcores.com/radios/221864": {
+  "zh_title": "地下城主的魔物书丨第二页：颠倒世界的魔君",
+  "zh_oneliner": "这期节目从《怪奇物语》里的威克纳和夺心魔讲起，梳理 DND 经典怪物的源起与演变，做奇幻题材的开发者可以顺手补一课怪物设计 lore。",
+  "en_title": "The Dungeon Master's Monster Book, Page 2: The Demon Lord of the Upside Down",
+  "en_oneliner": "This episode traces D&D icons like Vecna and the Mind Flayer through Stranger Things — a handy lore refresher for devs designing fantasy monsters."
+ },
+ "https://www.eurogamer.net/gta-6-metacritic-review-bomb": {
+  "zh_title": "GTA 6 发售引发差评轰炸潮：Metacritic 用户评分问题恶化，连《灵魂能力》《时之笛》等无关老游戏也遭殃",
+  "zh_oneliner": "GTA 6 上线后 Metacritic 出现针对无关经典老游戏的差评轰炸，提醒独立开发者：用户评分体系的脆弱性，宣发期就得提前想好应对。",
+  "en_title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+  "en_oneliner": "GTA 6's launch triggered review-bombing of unrelated classics on Metacritic — a reminder for indie devs that user-score systems are fragile and worth planning around before launch."
+ },
+ "https://www.pocketgamer.biz/monopoly-go-surpasses-8-billion-in-lifetime-player-spending": {
+  "zh_title": "独家：《Monopoly Go》累计玩家消费突破 80 亿美元",
+  "zh_oneliner": "Scopely 确认《Monopoly Go》累计玩家消费已超 80 亿美元，休闲 IP 改编手游的天花板再被抬高，值得研究其长线运营打法。",
+  "en_title": "Exclusive: Monopoly Go surpasses $8 billion in lifetime player spending",
+  "en_oneliner": "Scopely confirms Monopoly Go has passed $8 billion in lifetime player spending — a new ceiling for casual IP adaptations, and a live-ops playbook worth studying."
+ },
+ "https://www.pocketgamer.biz/nintendos-shigeru-miyamoto-to-receive-inaugural-legend-award-at-dice-awards": {
+  "zh_title": "任天堂宫本茂将获 D.I.C.E. 首届传奇奖",
+  "zh_oneliner": "宫本茂将于 2027 年 2 月 18 日的 D.I.C.E. 颁奖礼上获颁首届传奇奖，回顾一位定义了现代游戏设计的创作者，对独立开发者仍是最好的灵感来源。",
+  "en_title": "Nintendo’s Shigeru Miyamoto to receive inaugural Legend Award at D.I.C.E. Awards",
+  "en_oneliner": "Shigeru Miyamoto will receive the inaugural Legend Award at the D.I.C.E. Awards on February 18, 2027 — a celebration of the designer who shaped modern games, and still a well of inspiration for indies."
  }
 }
