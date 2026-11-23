@@ -21826,5 +21826,17 @@
   "zh_oneliner": "从一场双人空气曲棍球出发，手把手讲清实时对战的认证、匹配、状态同步与部署要点，并附 NETPONG 源码作参考。",
   "en_title": "Building a Real-Time Multiplayer Game with NestJS and Socket.IO",
   "en_oneliner": "Starting from a two-player air hockey match, this guide walks through authentication, matchmaking, state sync, and deployment for real-time multiplayer, with the NETPONG source as a reference."
+ },
+ "https://dev.to/ric0c0derlab/a-lot-of-experimenting-a-lot-of-learning-3fbb": {
+  "zh_title": "不断实验，不断学习",
+  "zh_oneliner": "实验室近况分享：折腾游戏开发、打磨更可靠的 AI 辅助编程流程、尝试生成式音乐工具，聊聊实验中踩过的坑与学到的经验。",
+  "en_title": "A lot of experimenting, a lot of learning",
+  "en_oneliner": "A lab diary on game development, making AI-assisted coding workflows more dependable, and experimenting with generative music tools — the rough edges, unexpected problems, and small wins along the way."
+ },
+ "https://mng.quest": {
+  "zh_title": "《Marches & Gnats》：奇幻编程挑战游戏",
+  "zh_oneliner": "一款设定在 19 世纪爱沙尼亚的奇幻编程挑战游戏：为机械图灵机“逻辑磨坊”编写精确指令，从一元加法一路解到数独求解器和国际象棋将军判定。",
+  "en_title": "Marches & Gnats programming challenges",
+  "en_oneliner": "A fantastical game of programming challenges set in 19th-century Estonia: write precise instructions for the Logic Mill, a mechanical Turing machine, working from unary addition up to a Sudoku solver and chess check detection."
  }
 }
