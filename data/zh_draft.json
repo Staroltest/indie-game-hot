@@ -22060,5 +22060,23 @@
   "zh_oneliner": "Epic 透露 UE6 将砍掉蓝图与 Gameplay Framework，并预计 AI 能让 UE5 游戏向 UE6 的迁移变得实际又划算，引擎路线迎来大转向。",
   "en_title": "Unreal Engine 6 Will Not Include Blueprints & Gameplay Framework",
   "en_oneliner": "Epic says UE6 will drop Blueprints and the Gameplay Framework, and expects AI to make converting UE5 games to UE6 practical and cost-efficient — a major shift in the engine's direction."
+ },
+ "https://dev.to/anastasios_antoniadis_f1f/marauder-unreal-engine-type-mappings-from-the-games-files-without-running-the-game-2o58": {
+  "zh_title": "Marauder：无需运行游戏，直接从游戏文件生成 Unreal Engine 类型映射",
+  "zh_oneliner": "开源工具 Marauder 直接读取游戏可执行文件里的反射表，离线生成 Unreal 引擎 .usmap 映射文件，121 款游戏实测与运行中导出结果一致，省去注入导出器的麻烦。",
+  "en_title": "Marauder: Unreal Engine type mappings from the game's files, without running the game",
+  "en_oneliner": "Open-source tool Marauder reads the reflection tables straight from a game's executable to build Unreal Engine .usmap mapping files offline, matching runtime-dumped maps across 121 games with no injection needed."
+ },
+ "https://dev.to/license_ejaw_8cca66dda7a1/casino-gamification-how-loyalty-and-mission-systems-are-actually-built-459n": {
+  "zh_title": "赌场游戏化：忠诚度与任务系统究竟是怎么搭建的",
+  "zh_oneliner": "这篇拆解指出，赌场任务系统的关键不在徽章长什么样，而在幂等发奖、状态版本管理、钱包隔离与防刷设计，讲清了真实金钱事件驱动下容易踩的坑。",
+  "en_title": "Casino Gamification: How Loyalty and Mission Systems Are Actually Built",
+  "en_oneliner": "This breakdown argues the hard part of casino mission systems is not the badges but idempotent rewards, state versioning, wallet separation, and abuse prevention when real-money events drive the payouts."
+ },
+ "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue": {
+  "zh_title": "《星之卡比：新世界》新情报现身任天堂冬季目录",
+  "zh_oneliner": "任天堂日本冬季目录透露了这款 2027 年大作的更多剧情与能力、场景细节，开放世界比《被遗忘的土地》更广阔，还能自由探索。",
+  "en_title": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
+  "en_oneliner": "Nintendo's winter catalogue in Japan reveals more story, ability, and environment details for this 2027 release, with a broader world than The Forgotten Land to explore at your own pace."
  }
 }
