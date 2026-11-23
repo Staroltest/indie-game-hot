@@ -22924,5 +22924,53 @@
   "zh_oneliner": "动视在一则招聘启事中把沉寂多年的 Rare 平台游戏《Banjo-Kazooie》列为“标志性系列”，让等待新作的玩家又燃起希望。",
   "en_title": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
   "en_oneliner": "Activision listed the long-dormant Rare platformer Banjo-Kazooie among its \"iconic franchises\" in a job posting, rekindling hopes for a long-awaited new game."
+ },
+ "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning": {
+  "zh_title": "Epic 决定 Unreal Engine 6 从一开始就不再包含蓝图与 Actor 玩法框架",
+  "zh_oneliner": "Epic 改了主意：Unreal Engine 6 将直接砍掉蓝图和 Actor 玩法框架，转而押注 AI 驱动的工具链，习惯可视化脚本的开发者得提前规划迁移路线。",
+  "en_title": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6",
+  "en_oneliner": "Epic has changed course: Unreal Engine 6 will drop Blueprints and the Actor Gameplay Framework from day one in favor of AI-driven tooling, so developers used to visual scripting should start planning their migration now."
+ },
+ "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build": {
+  "zh_title": "GTA 6 泄露者据称放出运行泄露版 Xbox 构建所需的文件",
+  "zh_oneliner": "泄露者 Cyberleek 据称放出了运行泄露版 GTA 6 Xbox 构建的可执行文件，业内担心非官方 PC 移植可能随之出现。",
+  "en_title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+  "en_oneliner": "Leaker Cyberleek has reportedly released the executable needed to run the leaked Xbox build of GTA 6, raising concern that an unofficial PC port could follow."
+ },
+ "https://80.lv/articles/cyberpunk-2-canceled-jokes-cdpr-director-after-playing-gta-6": {
+  "zh_title": "玩过 GTA 6 后，CDPR 创意总监开玩笑称“《赛博朋克 2》取消了”",
+  "zh_oneliner": "《赛博朋克 2》创意总监玩过 GTA 6 后开玩笑说续作“取消了”，顺带夸了 Rockstar 在规模、密度、连贯性与技术上的水准。",
+  "en_title": "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6",
+  "en_oneliner": "After playing GTA 6, the Cyberpunk 2 creative director jokingly declared the sequel “canceled,” while praising Rockstar’s scale, density, coherence, and technology."
+ },
+ "https://www.indiedb.com/games/holonoptic/news/major-update-200": {
+  "zh_title": "《Holonoptic》2.0.0 大更新：新结局、新高管与 91 个成就",
+  "zh_oneliner": "《Holonoptic》迎来 2.0.0 大更新，新增结局、高管、21 个后期项目、91 个成就与 Steam 云存档，顺手修了猫踩键盘会打开调试菜单的 bug。",
+  "en_title": "Major update 2.0.0",
+  "en_oneliner": "Holonoptic’s 2.0.0 update adds a new ending, a new executive, 21 late-game projects, 91 achievements, and Steam Cloud saves — plus a fix so a cat on the keyboard can no longer open the debug menus."
+ },
+ "https://www.indiedb.com/games/miolhr/news/miolhr-lime-edition-the-living-miolhria-mega-update": {
+  "zh_title": "《Miolhr》青柠版“活生生的 Miolhria”大型更新",
+  "zh_oneliner": "《Miolhr》青柠版推出“活生生的 Miolhria”大型更新，开发团队称这是迄今最大的一批内容更新，感谢测试者的持续反馈。",
+  "en_title": "Miolhr Lime Edition — The Living Miolhria Mega Update!",
+  "en_oneliner": "Miolhr Lime Edition ships “The Living Miolhria” mega update, which the team calls one of its biggest batches of updates yet, thanking testers for their continued feedback."
+ },
+ "https://dev.to/idlecultivation/cultivation-game-tips-hidden-in-world-design-1k55": {
+  "zh_title": "藏在世界设计里的修仙游戏技巧",
+  "zh_oneliner": "作者复盘三天开发决策，指出修仙游戏的诀窍不在数值，而在世界本身：用密度、距离与行为让环境悄悄教会玩家规则。",
+  "en_title": "Cultivation game tips hidden in world design",
+  "en_oneliner": "Recapping three days of development decisions, the author argues that cultivation games are best taught by the world itself — density, distance, and behavior — rather than by numbers."
+ },
+ "https://dev.to/mympgames/last-card-wild-4-and-optional-stacking-how-i-coded-colour-pile-in-javascript-4i3a": {
+  "zh_title": "最后一张牌、万能 +4 与可选叠加：我如何用 JavaScript 写 Colour Pile",
+  "zh_oneliner": "作者用 400 多行 JavaScript 实现了一款类 UNO 的出牌游戏，详解了 108 张牌、跳过、反转、+2、万能牌与“最后一张牌”喊叫规则的编码方式。",
+  "en_title": "Last card, Wild +4 and optional stacking: how I coded Colour Pile in JavaScript",
+  "en_oneliner": "The author built a UNO-like shedding game in just over 400 lines of JavaScript, walking through how the 108-card deck, Skip, Reverse, +2, Wilds, and the shouted “Last card!” call were encoded."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions": {
+  "zh_title": "GTA 6 玩家早就怀疑天气系统坏了，最新补丁证实了他们的猜测",
+  "zh_oneliner": "玩家一直怀疑 GTA 6 的天气系统有问题，Rockstar 的最新补丁证实了这一点，并把天气带回了 Leonida。",
+  "en_title": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions",
+  "en_oneliner": "Players long suspected GTA 6’s weather system was broken, and Rockstar’s latest patch has confirmed it — bringing weather back to Leonida."
  }
 }
