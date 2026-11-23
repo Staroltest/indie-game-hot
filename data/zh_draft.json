@@ -21808,5 +21808,23 @@
   "zh_oneliner": "新增脚部 IK 让突进、滑步与架势切换不再滑步，蓄水池变成低能见度竞技场，还加入了大太刀与改良草地着色器。",
   "en_title": "Footwork",
   "en_oneliner": "New foot IK brings realistic lunges, shuffles, and stance changes without foot sliding, while the cistern becomes a low-visibility arena map with new assets like an odachi and improved grass shaders."
+ },
+ "https://dev.to/sweetpapa/the-wrong-fix-five-times-one-week-of-player-feedback-on-my-30-mb-model-38bi": {
+  "zh_title": "改错五次：一周玩家反馈与我的 30 MB 模型",
+  "zh_oneliner": "作者发布免费编舞应用 StepForge 后，依据玩家反馈连改五次方向，靠快速测量而非堆模型把评分从 0.656 提到 0.689，30 MB 模型在笔记本 CPU 上四秒内跑完。",
+  "en_title": "The Wrong Fix, Five Times: One Week of Player Feedback on My 30 MB Model",
+  "en_oneliner": "After releasing the free dance-step app StepForge, the author corrected course five times on player feedback, lifting the model’s score from 0.656 to 0.689 through quick measurement rather than a bigger model — the 30 MB model still runs on a laptop CPU in under four seconds."
+ },
+ "https://dev.to/succday/a-word-game-for-a-group-chat-that-never-syncs-n27": {
+  "zh_title": "为永远对不上时间的群聊做的文字游戏",
+  "zh_oneliner": "多人游戏最难的是凑时间，作者的 SameWord 干脆放弃实时同步：一道提示、各人提交一个词、回合结束才揭晓答案，静态页面一次请求就能玩。",
+  "en_title": "A word game for a group chat that never syncs",
+  "en_oneliner": "Scheduling is the hardest part of multiplayer, so the author’s SameWord drops live sync entirely: one prompt, everyone submits a word, and answers stay hidden until the round closes — playable from a static page with a single fetch."
+ },
+ "https://dev.to/houdaifa_drahm/building-a-real-time-multiplayer-game-with-nestjs-and-socketio-nmb": {
+  "zh_title": "用 NestJS 与 Socket.IO 做实时多人游戏",
+  "zh_oneliner": "从一场双人空气曲棍球出发，手把手讲清实时对战的认证、匹配、状态同步与部署要点，并附 NETPONG 源码作参考。",
+  "en_title": "Building a Real-Time Multiplayer Game with NestJS and Socket.IO",
+  "en_oneliner": "Starting from a two-player air hockey match, this guide walks through authentication, matchmaking, state sync, and deployment for real-time multiplayer, with the NETPONG source as a reference."
  }
 }
