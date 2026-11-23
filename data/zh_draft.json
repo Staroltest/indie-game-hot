@@ -22372,5 +22372,53 @@
   "zh_oneliner": "Naavik 分析了 Royal Match 的崛起如何冲击 Candy Crush Saga 长达十年的三消霸主地位，拆解头部 F2P 手游的竞争格局，值得做休闲手游的开发者参考。",
   "en_title": "How Royal Match is Changing Candy Crush Saga",
   "en_oneliner": "Naavik examines how Royal Match is challenging Candy Crush Saga's decade-long match-3 dominance, unpacking the competitive landscape of top-grossing F2P mobile games for casual game developers."
+ },
+ "https://80.lv/articles/gta-6-after-launch-weekend-is-it-as-good-as-players-expected": {
+  "zh_title": "《GTA 6》发售首个周末过后：它真有玩家期待的那么好吗？",
+  "zh_oneliner": "发售首周末过去，媒体复盘《GTA 6》到底是《GTA 5》的扎实续作，还是被调侃成“男友模拟器”。",
+  "en_title": "GTA 6 After Launch Weekend: Is It as Good as Players Expected?",
+  "en_oneliner": "After launch weekend, a look at whether GTA 6 is a solid follow-up to GTA 5 or, as some players joke, a \"boyfriend simulator.\""
+ },
+ "https://www.indiedb.com/games/reel-turret/news/how-one-weapon-merge-changes-the-next-spin-in-reel-turret": {
+  "zh_title": "《Reel Turret》里一次武器合成如何改变下一次转盘",
+  "zh_oneliner": "两件相同武器合成能强化一个转轴，却会留下一个空格，开发者拆解每次升级如何改写下一次攻击的概率。",
+  "en_title": "How one weapon merge changes the next spin in Reel Turret",
+  "en_oneliner": "Merging two matching weapons powers up one reel but leaves the consumed slot blank — the developer breaks down how every upgrade changes the odds of the next attack."
+ },
+ "https://www.indiedb.com/games/puzzledorf/news/puzzledorf-soundtrack-comes-to-streaming-services": {
+  "zh_title": "《Puzzledorf》原声音乐登陆流媒体平台",
+  "zh_oneliner": "《Puzzledorf》原声 DX 版已上架 Spotify、Apple Music 等主流平台，音乐还可用于 Reels 和 TikTok 短视频。",
+  "en_title": "Puzzledorf Soundtrack Comes to Streaming Services",
+  "en_oneliner": "The Puzzledorf Soundtrack: DX edition is now live on Spotify, Apple Music, Amazon and YouTube Music, and the tracks can be used in Reels and TikToks."
+ },
+ "https://www.indiedb.com/games/velderis/news/immersive-mode-a-new-way-to-explore-the-world": {
+  "zh_title": "沉浸模式：一种探索世界的新方式",
+  "zh_oneliner": "《Velderis》新增沉浸模式，视野更开阔、HUD 重新设计，界面干扰更少，同时保留熟悉的 RPG 系统。",
+  "en_title": "Immersive Mode - A New Way to Explore the World",
+  "en_oneliner": "Velderis adds Immersive Mode with an expanded world view and a redesigned HUD, cutting interface clutter while keeping the familiar RPG systems intact."
+ },
+ "https://dev.to/sugukavi/your-branching-storys-choices-probably-change-nothing-the-consequence-ledger-fix-3419": {
+  "zh_title": "你分支剧情里的选择可能什么都没改变——后果账本修复法",
+  "zh_oneliner": "多数分支剧情的选项只是装饰：选哪条路最后都回到同一点，作者结合 Yoroll 平台的实践，讲如何用“后果账本”让每个选择真正留下痕迹。",
+  "en_title": "Your branching story's choices probably change nothing — the consequence ledger fix",
+  "en_oneliner": "Most branching stories fail quietly: the choice is decoration and every path lands in the same place. The author draws on Yoroll's AI interactive-film platform to show how a \"consequence ledger\" makes each choice leave a real mark."
+ },
+ "https://www.gcores.com/articles/222686": {
+  "zh_title": "英伟达宣布黄仁勋复职CEO",
+  "zh_oneliner": "英伟达董事会宣布即刻恢复黄仁勋的总裁兼 CEO 职务，称已听取美国政府高层意见，认定复职不构成国家安全风险。",
+  "en_title": "NVIDIA Announces Jensen Huang Reinstated as CEO",
+  "en_oneliner": "NVIDIA's board says it has voted to immediately restore Jensen Huang as president and CEO, claiming US government input found no national security risk in his return."
+ },
+ "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year": {
+  "zh_title": "奇幻 RPG《Sovereign Tower》明年登陆 Switch，圆桌管理玩法登场",
+  "zh_oneliner": "今年初在 Steam 收获不少粉丝的圆桌管理奇幻 RPG《Sovereign Tower》，宣布 2027 年 1 月 14 日登陆 Switch。",
+  "en_title": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+  "en_oneliner": "The fantasy RPG Sovereign Tower, which won fans on Steam this year for its offbeat round-table management, comes to Switch on 14th January 2027."
+ },
+ "https://www.pocketgamer.biz/us-mobile-game-spending-plummets-to-lowest-of-the-year-on-gta-6-launch-day": {
+  "zh_title": "《GTA 6》发售日当天，美国手游消费跌至年内最低",
+  "zh_oneliner": "据 AppMagic 估算，《GTA 6》发售日美国手游消费仅 2840 万美元，创下 2026 年单日最低，七天净收入同比下滑 19.5%。",
+  "en_title": "US mobile game spending falls to lowest of the year on GTA 6 launch day",
+  "en_oneliner": "GTA 6's launch day saw US mobile game spending fall to $28.4m, the lowest single day of 2026 by AppMagic estimates, with seven-day net revenue down 19.5% year-on-year."
  }
 }
