@@ -5,8 +5,8 @@
  "date": "2026年11月24日",
  "date_iso": "2026-11-24",
  "issue": 3,
- "generated_at": "2026-11-23T22:05:22.628962+00:00",
- "summary": "过去 7 天共收录 1541 条动态，精选 10 条（引擎与工具 9 条、评测与复盘 1 条）。头条：超过 25 款 Unreal Engine 游戏获 TGA 2026 提名。",
+ "generated_at": "2026-11-23T23:53:15.472922+00:00",
+ "summary": "过去 7 天共收录 1556 条动态，精选 10 条（引擎与工具 9 条、评测与复盘 1 条）。头条：超过 25 款 Unreal Engine 游戏获 TGA 2026 提名。",
  "items": [
   {
    "id": "bfe8a01399adf5eb887d3f1fceb788c107998ac6",
@@ -26,10 +26,10 @@
    "score": 85,
    "reason": "官方来源 · 涉及引擎 · 24 小时内发布",
    "is_new": true,
-   "trend": "new",
-   "hot_score": 69.2,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "trend": "same",
+   "hot_score": 68.1,
+   "prev_rank": 20,
+   "prev_hot_score": 68.1
   },
   {
    "id": "9993086a6c998dbe7b96cd63fba718b92b7f08e8",
@@ -51,7 +51,7 @@
    "reason": "涉及工具与工作流 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.6,
+   "hot_score": 67.4,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -75,7 +75,7 @@
    "reason": "涉及工具与引擎 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 71.8,
+   "hot_score": 70.6,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -99,9 +99,9 @@
    "reason": "涉及引擎与经验教训 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 72.0,
-   "prev_rank": 13,
-   "prev_hot_score": 72.1
+   "hot_score": 70.8,
+   "prev_rank": 16,
+   "prev_hot_score": 70.9
   },
   {
    "id": "774867361b62715f6bb12342b503f021ad02dd5f",
@@ -120,7 +120,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.1,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -141,7 +141,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.1,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -164,9 +164,9 @@
    "reason": "涉及引擎 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 78.3,
+   "hot_score": 77.0,
    "prev_rank": 1,
-   "prev_hot_score": 78.4
+   "prev_hot_score": 77.1
   },
   {
    "id": "6dcb3101bb2c7243a324640c3bc39f00f1f81064",
@@ -189,7 +189,7 @@
    "reason": "涉及工具与数据 · 独立游戏开发相关",
    "is_new": false,
    "trend": "same",
-   "hot_score": 43.9,
+   "hot_score": 43.2,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -212,7 +212,7 @@
    "reason": "涉及教程 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 61.4,
+   "hot_score": 60.4,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -235,7 +235,7 @@
    "reason": "涉及工具 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 62.2,
+   "hot_score": 61.1,
    "prev_rank": null,
    "prev_hot_score": null
   }
