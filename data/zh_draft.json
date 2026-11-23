@@ -22756,5 +22756,83 @@
   "zh_oneliner": "作者把同一份 C++ 客户端经 Emscripten 编译成 WebAssembly，配上 WebSocket 转 TCP 的桥接，让 1997 年的老牌网游 Tibia 的私服客户端免安装跑进 Chrome、iPhone Safari 乃至 Xbox 浏览器。",
   "en_title": "Running a C++ MMORPG client in the browser (and on iPhone) with WebAssembly",
   "en_oneliner": "The author compiled the same C++ client to WebAssembly with Emscripten and bridged WebSocket to TCP, so the Tibia private-server client runs install-free in Chrome, Safari on iPhone, and even the Xbox browser."
+ },
+ "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand": {
+  "zh_title": "全手绘回合制岛屿 RPG《Rise of Furax》：魔法门遇上纸片风",
+  "zh_oneliner": "阳光明媚的海岛上展开一场全手绘的第一人称回合制冒险，画风让人想起老派纸片 RPG，独立小团队 Rap2h 的新作值得一看。",
+  "en_title": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand",
+  "en_oneliner": "A fully hand-drawn first-person turn-based adventure on a sunny island, with a paper-craft look that recalls old-school RPGs — a new game from indie team Rap2h worth a look."
+ },
+ "https://dev.to/nesimrazon/solving-every-gravity-puzzle-level-before-a-player-sees-it-3pl2": {
+  "zh_title": "在玩家看到之前，先解开重力谜题的每一关",
+  "zh_oneliner": "作者为自己的弹弓重力解谜游戏写了一套求解器、关卡生成器和提示校验，用同一套固定步长物理保证每关都可解、每条提示都准确。",
+  "en_title": "Solving Every Gravity Puzzle Level Before a Player Sees It",
+  "en_oneliner": "The author built a solver, level generator and hint audit for their slingshot gravity-puzzle game, using one fixed-step physics rule so every level is solvable and every hint is accurate."
+ },
+ "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world": {
+  "zh_title": "GTA 6 藏了一个可爱的马力欧与路易吉彩蛋",
+  "zh_oneliner": "在 Leonida 北部乡野的一处废墟里藏着一对酷似马力欧兄弟标志性帽子的道具，算是给没法在 Switch 上玩 GTA 6 的玩家一点安慰。",
+  "en_title": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
+  "en_oneliner": "A ruined site in the northern Leonida countryside hides a pair of hats strikingly similar to the Mario brothers' signature caps — a small consolation for players who can't play GTA 6 on Switch."
+ },
+ "https://dev.to/nesimrazon/two-turn-path-finding-for-mahjong-connect-puzzles-c5p": {
+  "zh_title": "连连看谜题的两折寻路算法",
+  "zh_oneliner": "讲解连连看里“最多两次转弯”的寻路判定如何实现：每次点击、提示和洗牌都要跑，既要小又要对，附带需要留意的边界情况。",
+  "en_title": "Two-Turn Path Finding for Mahjong Connect Puzzles",
+  "en_oneliner": "How the \"at most two turns\" path check works in a mahjong-connect puzzle: it runs on every tap, hint and shuffle, so it has to be small and correct, edge cases included."
+ },
+ "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease": {
+  "zh_title": "《战争黎明 4》新预告暗示人气角色将加入发售后 DLC",
+  "zh_oneliner": "随着 12 月发售日临近，新预告似乎透露一位玩家喜爱的角色将出现在游戏的首个发售后 DLC 中。",
+  "en_title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
+  "en_oneliner": "With the December launch approaching, a new trailer appears to tease a fan-favourite character joining the RTS in its first post-launch DLC."
+ },
+ "https://gamedev.net/blogs/entry/2298713-what-to-ask-a-studio-before-commissioning-a-desktop-pc-game": {
+  "zh_title": "委托工作室开发桌面 PC 游戏前该问什么",
+  "zh_oneliner": "找外包团队做 PC 游戏本质上是在谈风险，文章列出签约前值得问的几个尖锐问题，帮发行方和出资人从回答质量判断团队靠不靠谱。",
+  "en_title": "What to Ask a Studio Before Commissioning a Desktop PC Game",
+  "en_oneliner": "Commissioning a PC game is mostly a conversation about risk, so this piece lists the awkward questions worth asking a studio before signing, and how the quality of the answers reveals a team's reliability."
+ },
+ "https://unity.com/blog/ai-vibe-coding-vs-buying-managed-infrastructure": {
+  "zh_title": "Unity Industry 实时 3D：哪些交给 AI 编程，哪些交给底层基建",
+  "zh_oneliner": "Unity 官方聊 AI 辅助开发适合原型和界面，而 CAD、安全与规模化这类需求更适合直接购买托管的 Unity 基础设施。",
+  "en_title": "Real-time 3D with Unity Industry: What to vibe code with Unity CLI and when to rely on the foundational infrastructure",
+  "en_oneliner": "Unity's own take on where AI-assisted development helps — prototypes and UI — and where teams should buy managed Unity infrastructure instead, for CAD, security and scale."
+ },
+ "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act": {
+  "zh_title": "欧盟就《数字公平法案》开启公众咨询",
+  "zh_oneliner": "欧盟委员会就拟议的《数字公平法案》征求公众意见，新规将涉及开箱、虚拟货币和未成年人游戏内消费，独立开发者也值得留意动向。",
+  "en_title": "EU opens consultation on Digital Fairness Act",
+  "en_oneliner": "The European Commission is inviting public feedback on its proposed Digital Fairness Act, which would introduce new rules on loot boxes, virtual currencies and in-game purchases by children — a development indie developers should watch."
+ },
+ "https://www.indiedb.com/games/gravity-guild/news/gravity-guild-v2-is-out-50-characters-6-worlds-4-modes": {
+  "zh_title": "《Gravity Guild》V2 上线：50 名角色、6 个世界、4 种模式",
+  "zh_oneliner": "浏览器免费游玩的重力主题游戏迎来 V2：50 名可选角色、每局都不同的 6 个世界、4 种模式，还有奖牌、成就、声望和每周挑战，支持合作。",
+  "en_title": "Gravity Guild V2 is out: 50 characters, 6 worlds, 4 modes",
+  "en_oneliner": "Gravity Guild V2 is out free in the browser: 50 playable characters, 6 worlds that look different every round, 4 game modes, plus medals, achievements, prestige and weekly challenges, with co-op play."
+ },
+ "https://www.pocketgamer.biz/21-mena-startups-graduate-from-the-third-exel-by-merak-accelerator-cohort": {
+  "zh_title": "21 家中东和北非游戏初创公司从 Exel by Merak 第三期加速器毕业",
+  "zh_oneliner": "沙特加速器 Exel by Merak 第三期 21 家中东北非游戏初创公司在演示日毕业，向发行商、投资人和开发者展示了各自的项目。",
+  "en_title": "21 MENA startups graduate from the third Exel by Merak accelerator cohort",
+  "en_oneliner": "Saudi accelerator Exel by Merak graduated 21 MENA gaming startups from its third cohort at Demo Day, where the studios pitched to publishers, investors and fellow developers."
+ },
+ "https://www.indiedb.com/games/byzen-embers-of-revolution/news/devlog-13-three-drums-at-nightfall-candombe-comes-to-camp": {
+  "zh_title": "开发日志 #13：夜幕三鼓，康东贝舞走进营地",
+  "zh_oneliner": "《Byzen: Embers of Revolution》新开发日志：获救的自由民夜里闲下来会走到营地边演奏康东贝，三种鼓点配上舞蹈，让营地夜晚有了生气。",
+  "en_title": "DevLog #13 - Three drums at nightfall: candombe comes to camp",
+  "en_oneliner": "The new Byzen devlog shows rescued freed people gathering at night to play candombe — chico, repique and piano drums with dance — bringing the camp to life after dark."
+ },
+ "https://www.indiedb.com/games/fault-line-modern-rts/news/fault-line-free-demo-is-out-modern-rts-on-real-world-terrain": {
+  "zh_title": "现代 RTS《Fault Line》免费试玩版发布：真实地形上的即时战略",
+  "zh_oneliner": "以真实地形数据生成地图的现代即时战略游戏《Fault Line》推出免费试玩版，支持 Windows、macOS 和 Linux。",
+  "en_title": "Fault Line free demo is out: modern RTS on real-world terrain",
+  "en_oneliner": "The free demo of Fault Line, a modern real-time strategy game on maps built from real terrain data, is now available for Windows, macOS and Linux."
+ },
+ "https://www.indiedb.com/games/jolly-match-3-mr/news/piata-party-has-been-busy-behind-the-scenes": {
+  "zh_title": "《Piñata Party》幕后更新：视觉与玩法双双调整",
+  "zh_oneliner": "三消游戏《Piñata Party》更新了视觉效果和玩法细节，两个活动版本都有改动，下次进场会有些新感觉。",
+  "en_title": "Piñata Party Has Been Busy Behind the Scenes",
+  "en_oneliner": "Piñata Party has been updated with revised visuals and gameplay adjustments across both event versions, giving players a slightly different experience next time they join."
  }
 }
