@@ -21688,5 +21688,17 @@
   "zh_oneliner": "用一个服务端脚本讲清 Roblox 大亨玩法的完整循环：掉落、传送、增值、收款全靠标签与属性驱动。",
   "en_title": "Roblox tycoon dropper tutorial: conveyors, upgraders and a collector in one server script",
   "en_oneliner": "One server script walks through the full Roblox tycoon loop — dropping, conveying, upgrading and collecting — driven entirely by tags and attributes."
+ },
+ "https://www.gcores.com/articles/222653": {
+  "zh_title": "B社确认《辐射》衍生游戏《A Wasteland Full of Cats》",
+  "zh_oneliner": "贝塞斯达确认《辐射》衍生小品《A Wasteland Full of Cats》真实存在，由巴西工作室 Devcats 制作，玩家要在废土里搜救猫咪，并与动物救援机构联动推出。",
+  "en_title": "Bethesda Confirms Fallout Spinoff 'A Wasteland Full of Cats'",
+  "en_oneliner": "Bethesda has confirmed the Fallout spinoff 'A Wasteland Full of Cats' is real: made by Brazilian studio Devcats, it has players rescuing cats across the wasteland in partnership with an animal rescue nonprofit."
+ },
+ "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled": {
+  "zh_title": "《以撒的结合》DLC 未披露就加入 AI 音乐并恶搞 GTA 6，Steam 评价跌至“差评如潮”后音乐被撤下",
+  "zh_oneliner": "《以撒的结合》新 DLC 在未标注 AI 生成的情况下加入 AI 音乐并恶搞 GTA 6，Steam 评价随即跌至“差评如潮”，相关音乐已被撤下。",
+  "en_title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+  "en_oneliner": "The Binding of Isaac's new DLC added AI-generated music in a GTA 6-parodying update without an AI disclosure, sending Steam reviews to Overwhelmingly Negative before the music was pulled."
  }
 }
