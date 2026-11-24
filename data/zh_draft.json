@@ -24712,5 +24712,17 @@
   "zh_oneliner": "把堡垒之夜的倒地待救机制搬进 Minecraft 生存服，致命伤害先倒地爬行、队友按住潜行可救、敌人可处决，配置只有一个 config.yml。",
   "en_title": "I built a Fortnite-style DBNO revive plugin for Minecraft (Paper 1.21)",
   "en_oneliner": "The author brought Fortnite-style down-but-not-out mechanics to Minecraft survival servers: lethal damage downs you instead of killing you, teammates can revive you by holding sneak, and enemies can finish you off."
+ },
+ "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be": {
+  "zh_title": "《Astario》抢先体验上线：像 Factorio 一样的方块风飞船与空间站建造模拟",
+  "zh_oneliner": "像 Factorio 一样的方块风飞船与空间站建造模拟游戏 Astario 已开启抢先体验，复杂的生产链与建造系统正是爱钻研的玩家大显身手的地方。",
+  "en_title": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
+  "en_oneliner": "Astario, a blocky spaceship- and space-station-building factory sim in the spirit of Factorio, has launched into early access, with deep production chains and building systems for players who love to tinker."
+ },
+ "https://dev.to/juegostudiosofficial/building-a-game-based-learning-module-for-uk-schools-a-pre-production-checklist-1p7e": {
+  "zh_title": "为英国学校做游戏化学习模块：开工前的预生产清单",
+  "zh_oneliner": "给英国学校做游戏化学习模块，成败往往在写代码之前就定了，这份预生产清单帮小团队先把课时、设备、课程标准与数据合规这些硬约束理清楚。",
+  "en_title": "Building a Game-Based Learning Module for UK Schools: A Pre-Production Checklist",
+  "en_oneliner": "A learning game for UK schools succeeds or fails on decisions made before anyone opens an engine, and this pre-production checklist helps small teams sort out lesson length, shared devices, curriculum fit and data compliance first."
  }
 }
