@@ -5,8 +5,8 @@
  "date": "2026年11月25日",
  "date_iso": "2026-11-25",
  "issue": 3,
- "generated_at": "2026-11-24T22:01:36.752587+00:00",
- "summary": "过去 7 天共收录 1561 条动态，精选 10 条（引擎与工具 9 条、行业与融资 1 条）。头条：这款工具把 2D 绘画工作流带进 Unreal Engine 5。",
+ "generated_at": "2026-11-24T23:53:07.396209+00:00",
+ "summary": "过去 7 天共收录 1568 条动态，精选 10 条（引擎与工具 9 条、行业与融资 1 条）。头条：这款工具把 2D 绘画工作流带进 Unreal Engine 5。",
  "items": [
   {
    "id": "06f563d4015b1e4207822d97add89bedf8236479",
@@ -29,9 +29,9 @@
    "reason": "涉及工具与引擎 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 79.3,
-   "prev_rank": 2,
-   "prev_hot_score": 79.6
+   "hot_score": 77.9,
+   "prev_rank": 4,
+   "prev_hot_score": 77.9
   },
   {
    "id": "e42e5fdb3a4f172663c2be08260132c0acd45066",
@@ -51,10 +51,10 @@
    "score": 85,
    "reason": "官方来源 · 涉及数据 · 24 小时内发布",
    "is_new": false,
-   "trend": "new",
-   "hot_score": 69.3,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "trend": "same",
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.1
   },
   {
    "id": "b2b3a941eac58cadaae11d61a239d763a7c7e3fe",
@@ -77,9 +77,9 @@
    "reason": "涉及工具与营收 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 79.4,
-   "prev_rank": 1,
-   "prev_hot_score": 79.7
+   "hot_score": 78.0,
+   "prev_rank": 3,
+   "prev_hot_score": 78.1
   },
   {
    "id": "9763858371a641a545a52a4f179940a115eb8dde",
@@ -102,7 +102,7 @@
    "reason": "涉及教程与指南 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.3,
+   "hot_score": 66.2,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -126,7 +126,7 @@
    "reason": "涉及引擎与工作流 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.4,
+   "hot_score": 66.3,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -147,7 +147,7 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -171,9 +171,9 @@
    "reason": "涉及数据与营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 72.5,
-   "prev_rank": 12,
-   "prev_hot_score": 72.9
+   "hot_score": 71.3,
+   "prev_rank": 13,
+   "prev_hot_score": 71.3
   },
   {
    "id": "046ddf071eafae8b6a7c8e0b9045b67ffd4c59f6",
@@ -195,9 +195,9 @@
    "reason": "涉及工具与工作流 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.7,
-   "prev_rank": 8,
-   "prev_hot_score": 75.0
+   "hot_score": 73.4,
+   "prev_rank": 9,
+   "prev_hot_score": 73.5
   },
   {
    "id": "090bf731c85b490e81615df937c638e36fbe20f1",
@@ -216,32 +216,30 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "d997585e1586a5c26b21b47938ee4d26f87ae416",
-   "title": "Gram Engine - Interlude 1.5: Gram Build on Three Platforms",
-   "link": "https://dev.to/petrickah/gram-engine-episode-15-gram-build-on-three-platforms-b17",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-24T16:23:44+00:00",
-   "zh_title": "Gram Engine 番外 1.5：三平台构建实录",
-   "zh_oneliner": "作者为让自研光追引擎跑在三个平台上，搭了 Debug、Release、Final 三种构建模式，还顺手踩了 Xcode 找不到 Cargo 的坑。",
+   "id": "270614230fa813bad205fa25ab925543ee01d8e8",
+   "title": "Dev snapshot: Godot 4.8 beta 5",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-24T12:00:00+00:00",
+   "zh_title": "开发快照：Godot 4.8 beta 5",
+   "zh_oneliner": "Godot 4.8 beta 4 发布不到一周，团队已修完所有剩余发布阻塞问题，赶在进入候选版之前再推最后一个开发快照，开发者可以上手试试这版，帮忙在正式发布前踩掉最后的坑。",
    "category": "engine",
    "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "引擎"
-   ],
+   "tier": "T1",
+   "tags": [],
    "score": 80,
-   "reason": "涉及引擎 · 6 小时内发布",
+   "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 6,
-   "prev_hot_score": 76.2
+   "hot_score": 71.6,
+   "prev_rank": 12,
+   "prev_hot_score": 71.7
   }
  ]
 }

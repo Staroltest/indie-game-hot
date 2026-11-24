@@ -5,8 +5,8 @@
  "date": "November 25, 2026",
  "date_iso": "2026-11-25",
  "issue": 3,
- "generated_at": "2026-11-24T22:01:36.752587+00:00",
- "summary": "1561 items collected in the past 7 days, 10 picks (Engine & Tools 9, Industry & Funding 1). Headline: This Tool Brings 2D Painting Workflows Into Unreal Engine 5.",
+ "generated_at": "2026-11-24T23:53:07.396209+00:00",
+ "summary": "1568 items collected in the past 7 days, 10 picks (Engine & Tools 9, Industry & Funding 1). Headline: This Tool Brings 2D Painting Workflows Into Unreal Engine 5.",
  "items": [
   {
    "id": "06f563d4015b1e4207822d97add89bedf8236479",
@@ -29,9 +29,9 @@
    "reason": "Covers Tools and Engine · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 79.3,
-   "prev_rank": 2,
-   "prev_hot_score": 79.6
+   "hot_score": 77.9,
+   "prev_rank": 4,
+   "prev_hot_score": 77.9
   },
   {
    "id": "e42e5fdb3a4f172663c2be08260132c0acd45066",
@@ -51,10 +51,10 @@
    "score": 85,
    "reason": "Official source · Covers Data · Published within 24 hours",
    "is_new": false,
-   "trend": "new",
-   "hot_score": 69.3,
-   "prev_rank": null,
-   "prev_hot_score": null
+   "trend": "same",
+   "hot_score": 68.1,
+   "prev_rank": 19,
+   "prev_hot_score": 68.1
   },
   {
    "id": "b2b3a941eac58cadaae11d61a239d763a7c7e3fe",
@@ -77,9 +77,9 @@
    "reason": "Covers Tools and Revenue · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 79.4,
-   "prev_rank": 1,
-   "prev_hot_score": 79.7
+   "hot_score": 78.0,
+   "prev_rank": 3,
+   "prev_hot_score": 78.1
   },
   {
    "id": "9763858371a641a545a52a4f179940a115eb8dde",
@@ -102,7 +102,7 @@
    "reason": "Covers Tutorial and Guide · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.3,
+   "hot_score": 66.2,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -126,7 +126,7 @@
    "reason": "Covers Engine and Workflow · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.4,
+   "hot_score": 66.3,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -147,7 +147,7 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -171,9 +171,9 @@
    "reason": "Covers Data and Revenue · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 72.5,
-   "prev_rank": 12,
-   "prev_hot_score": 72.9
+   "hot_score": 71.3,
+   "prev_rank": 13,
+   "prev_hot_score": 71.3
   },
   {
    "id": "046ddf071eafae8b6a7c8e0b9045b67ffd4c59f6",
@@ -195,9 +195,9 @@
    "reason": "Covers Tools and Workflow · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 74.7,
-   "prev_rank": 8,
-   "prev_hot_score": 75.0
+   "hot_score": 73.4,
+   "prev_rank": 9,
+   "prev_hot_score": 73.5
   },
   {
    "id": "090bf731c85b490e81615df937c638e36fbe20f1",
@@ -216,32 +216,30 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "d997585e1586a5c26b21b47938ee4d26f87ae416",
-   "title": "Gram Engine - Interlude 1.5: Gram Build on Three Platforms",
-   "link": "https://dev.to/petrickah/gram-engine-episode-15-gram-build-on-three-platforms-b17",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-24T16:23:44+00:00",
-   "en_title": "Gram Engine - Interlude 1.5: Gram Build on Three Platforms",
-   "en_oneliner": "The author set up Debug, Release and Final build modes to run a homebrew ray-tracing engine on three platforms, and tripped over Xcode failing to find Cargo along the way.",
+   "id": "270614230fa813bad205fa25ab925543ee01d8e8",
+   "title": "Dev snapshot: Godot 4.8 beta 5",
+   "link": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5",
+   "source": "Godot 引擎博客",
+   "source_id": "godot-blog",
+   "published": "2026-11-24T12:00:00+00:00",
+   "en_title": "Dev snapshot: Godot 4.8 beta 5",
+   "en_oneliner": "Within a week of beta 4, the Godot team has fixed every remaining launch-blocking issue and is putting out one final snapshot before the release candidate, so developers can try this build and help catch the last bugs before the official release.",
    "category": "engine",
    "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Engine"
-   ],
+   "tier": "T1",
+   "tags": [],
    "score": 80,
-   "reason": "Covers Engine · Published within 6 hours",
+   "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 75.9,
-   "prev_rank": 6,
-   "prev_hot_score": 76.2
+   "hot_score": 71.6,
+   "prev_rank": 12,
+   "prev_hot_score": 71.7
   }
  ]
 }

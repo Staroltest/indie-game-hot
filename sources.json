@@ -319,6 +319,13 @@
       "name": "BlenderNation",
       "tier": "T2",
       "url": "https://www.blendernation.com/feed/"
+    },
+    {
+      "category_hint": "events",
+      "id": "nordic-game",
+      "name": "Nordic Game",
+      "tier": "T3",
+      "url": "https://nordicgame.com/feed"
     }
   ]
 }
