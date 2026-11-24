@@ -24676,5 +24676,41 @@
   "zh_oneliner": "上个热修复没能真正解决的 SSD 持续写入问题，这次的补丁终于彻底根除了。",
   "en_title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
   "en_oneliner": "The SSD-hammering bug that the last hotfix failed to actually fix has finally been eradicated by this new patch."
+ },
+ "https://gamedev.net/blogs/entry/2298723-rigging-and-animation-handoff-a-checklist-for-character-artists-and-engineers": {
+  "zh_title": "绑定与动画交接：一份给角色美术与工程师的检查清单",
+  "zh_oneliner": "角色管线的问题往往不在绑定完成时爆发，而在三周后新动画接入状态机时才显形，这份共享交接清单能在修复成本还很低的时候拦住大部分坑。",
+  "en_title": "Rigging and Animation Handoff: A Checklist for Character Artists and Engineers",
+  "en_oneliner": "Character pipeline problems rarely surface when the rig is finished — they show up weeks later when a new clip hits the state machine, so this shared handoff checklist catches most of them while they are still cheap to fix."
+ },
+ "https://dev.to/secondwindmc/getting-started-with-secondwind-and-graveguard-on-your-paper-server-1ln6": {
+  "zh_title": "在 Paper 服务器上快速上手 SecondWind 与 GraveGuard",
+  "zh_oneliner": "两款免费开源的 Paper 1.21.x 插件快速上手指南，一个做倒地救援、一个做死亡墓穴，附安装步骤与配置位置。",
+  "en_title": "Getting started with SecondWind and GraveGuard on your Paper server",
+  "en_oneliner": "A quick-start guide for two free open-source Paper 1.21.x plugins — one adds downed-state revives, the other protects your items in a death chest — with install steps and config locations."
+ },
+ "https://dev.to/secondwindmc/how-to-e2e-test-minecraft-paper-plugins-with-headless-bots-mineflayer-rcon-da9": {
+  "zh_title": "用无头机器人给 Minecraft Paper 插件做端到端测试（mineflayer + RCON）",
+  "zh_oneliner": "手动进服测试插件费时又不可复现，作者用 mineflayer 无头机器人加 RCON 搭了一套可在无头虚拟机上跑的端到端测试方案，能对死亡状态等世界变化做断言。",
+  "en_title": "How to e2e-test Minecraft Paper plugins with headless bots (mineflayer + RCON)",
+  "en_oneliner": "Manual in-game plugin testing is slow and unrepeatable, so the author built an end-to-end setup with headless mineflayer bots plus RCON that runs on a headless VM and can assert on world changes like death states."
+ },
+ "https://dev.to/secondwindmc/i-built-a-death-chest-plugin-for-minecraft-that-never-eats-your-items-paper-121-3b5e": {
+  "zh_title": "我做了个绝不吞装备的 Minecraft 死亡墓穴插件（Paper 1.21）",
+  "zh_oneliner": "丢过一次满钻石套装后，作者写了个 GraveGuard 插件，死亡时把物品和经验收进受保护的墓穴并用罗盘指引回去，配置全在 config.yml 里。",
+  "en_title": "I built a death-chest plugin for Minecraft that never eats your items (Paper 1.21)",
+  "en_oneliner": "After losing a full diamond kit to lava one too many times, the author built GraveGuard, a plugin that stores your items and XP in a protected grave at the death spot and points you back with a compass."
+ },
+ "https://dev.to/juan_manuelrevillamaill/how-i-built-a-3685-piece-18-lego-model-x-watertight-stls-on-one-rtx-3090-and-200-48khz-game-sfx-3fnp": {
+  "zh_title": "我如何用纯 Python 在一张 RTX 3090 上做出 3685 块的 1:8 乐高 Model X、水密 STL 和 200 条 48kHz 游戏音效",
+  "zh_oneliner": "一块本地 RTX 3090 加纯 Python，48 小时内跑通三条管线：程序化生成 3685 块乐高 Model X、输出水密 STL，还批量合成了 200 条 48kHz 游戏音效，全程零云端 GPU。",
+  "en_title": "How I Built a 3,685-Piece 1:8 LEGO Model X, Watertight STLs on One RTX 3090, and 200 48kHz Game SFX in Pure Python",
+  "en_oneliner": "With one local RTX 3090 and pure Python, the author shipped three pipelines in 48 hours: a procedurally generated 3,685-piece LEGO Model X, watertight STLs, and 200 48kHz game sound effects — with zero cloud GPU."
+ },
+ "https://dev.to/secondwindmc/i-built-a-fortnite-style-dbno-revive-plugin-for-minecraft-paper-121-bif": {
+  "zh_title": "我给 Minecraft 做了个堡垒之夜风格的倒地救援插件（Paper 1.21）",
+  "zh_oneliner": "把堡垒之夜的倒地待救机制搬进 Minecraft 生存服，致命伤害先倒地爬行、队友按住潜行可救、敌人可处决，配置只有一个 config.yml。",
+  "en_title": "I built a Fortnite-style DBNO revive plugin for Minecraft (Paper 1.21)",
+  "en_oneliner": "The author brought Fortnite-style down-but-not-out mechanics to Minecraft survival servers: lethal damage downs you instead of killing you, teammates can revive you by holding sneak, and enemies can finish you off."
  }
 }
