@@ -23338,5 +23338,17 @@
   "zh_oneliner": "独立科幻动作 RPG 不用现成商业引擎，自研双层 Canvas 与视频同步渲染管线，文章拆解引擎架构与 Limbo 蜘蛛 Boss 战的设计，Demo V6.2 已可下载试玩。",
   "en_title": "V.E.T.O.R — A Ruptura: Architecture of an HTML5 Canvas Action-RPG & Limbo Spider Boss Fight (Demo V6.2 Available)",
   "en_oneliner": "This indie sci-fi action-RPG skips off-the-shelf engines for a custom dual-layer HTML5 Canvas pipeline synced with video playback — the post breaks down the engine architecture and the Limbo Spider boss fight, with Demo V6.2 available now."
+ },
+ "https://dev.to/juegostudiosofficial/gamifying-customer-onboarding-for-indian-apps-mechanics-that-work-and-ones-to-skip-5h76": {
+  "zh_title": "给印度 App 做游戏化新手引导：哪些机制管用、哪些该跳过",
+  "zh_oneliner": "从游戏设计的角度拆解印度消费类 App 的新手引导：进度条、刮刮卡、连胜计数哪些真能帮用户走到关键一步，哪些只是添乱、拖慢流程，附带一套按效果取舍的判断方法。",
+  "en_title": "Gamifying Customer Onboarding for Indian Apps: Mechanics That Work and Ones to Skip",
+  "en_oneliner": "A game-designer's breakdown of gamified onboarding in Indian consumer apps: which mechanics — progress bars, scratch cards, streak counters — actually guide new users to their first meaningful action, and which ones just add noise, slow things down, or train people to chase rewards instead of learning the product."
+ },
+ "https://www.youxituoluo.com/535087.html": {
+  "zh_title": "英雄联盟的王牌女团K/DA，这次给大学生们组了个不一样的局",
+  "zh_oneliner": "K/DA 第三代回归带动 MV 破纪录播放与二创热潮，英雄联盟借此把高校赛事、主题派对和学生自主办赛打包进「百校联盟派对」，顺带观察电竞 IP 如何走进大学生的日常生活。",
+  "en_title": "League of Legends' Star Girl Group K/DA Sets Up a Different Game for College Students",
+  "en_oneliner": "K/DA's third-generation comeback drove record-breaking MV views and a wave of fan creations, and League of Legends is riding it into campuses with the '100-Campus League Party' — themed matches, parties, and student-run events that show how an esports IP is weaving itself into college life."
  }
 }
