@@ -23218,5 +23218,41 @@
   "zh_oneliner": "一个小型团队用一台电脑加 AI 工具跑起真实的游戏开发实验，复盘发现真正的瓶颈不在模型，而在流程与协作。",
   "en_title": "We Built an AI-Assisted Game Studio on One PC. The Hard Part Wasn't the AI.",
   "en_oneliner": "A small team ran a real game-dev experiment with AI tooling on a single PC — and found the real bottleneck wasn't the model, but the workflow around it."
+ },
+ "https://www.gcores.com/articles/222690": {
+  "zh_title": "《GTA6》遭M站玩家评测“差评轰炸”",
+  "zh_oneliner": "《GTA6》媒体评分 99 分追平历史纪录，玩家评分却只有 5.7 分，正在 Metacritic 上遭遇玩家差评轰炸。",
+  "en_title": "GTA 6 Hit by Player Review Bombing on Metacritic Despite 99 Critic Score",
+  "en_oneliner": "GTA 6 holds a record-tying 99 critic score on Metacritic, yet its user score sits at just 5.7 as players flood it with negative reviews."
+ },
+ "https://www.gcores.com/articles/222689": {
+  "zh_title": "2026《英雄联盟》全球总决赛LPL纪录片“风起今朝”将于12月播出",
+  "zh_oneliner": "2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在哔哩哔哩独家播出，回顾四支 LPL 队伍从全员告负到绝境重生的幕后故事。",
+  "en_title": "2026 LoL Worlds LPL Documentary 'Rising with the Wind' to Air in December",
+  "en_oneliner": "A documentary on the LPL's 2026 Worlds run, from a winless Swiss stage to BLG's first title, streams exclusively on Bilibili in December."
+ },
+ "http://www.gamelook.com.cn/2026/11/607027": {
+  "zh_title": "1人用AI做出“星球级大世界”，与地球同尺寸！10年游戏老兵震惊全场",
+  "zh_oneliner": "一位有 10 年开发经验的老兵用 AI 做出与地球同尺寸的星球级大世界，两段演示视频让同行大为震惊。",
+  "en_title": "Solo Dev Uses AI to Build an Earth-Sized Planet-Scale World",
+  "en_oneliner": "A veteran developer with 10 years of experience built an Earth-sized planet-scale world with AI, and the demo footage has stunned fellow developers."
+ },
+ "https://dev.to/juan_manuelrevillamaill/turning-any-photo-into-a-3d-studded-brick-model-in-threejs-plus-exporting-bricklink-xml-ldraw-8ha": {
+  "zh_title": "把任意照片转成 3D 积木模型：Three.js 实现，还能导出 BrickLink XML 与 LDraw 文件",
+  "zh_oneliner": "这篇教程教你用 Three.js 把任意照片转成带凸点的积木模型，并导出 BrickLink XML 和 LDraw 文件，方便在 BrickLink Studio 或 Blender 里继续加工。",
+  "en_title": "Turning Any Photo into a 3D Studded Brick Model in Three.js — Plus Exporting BrickLink XML & LDraw .ldr",
+  "en_oneliner": "This tutorial turns any photo into a 3D studded-brick model in Three.js and exports BrickLink XML and LDraw files for further work in BrickLink Studio or Blender."
+ },
+ "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously": {
+  "zh_title": "特朗普称黄仁勋重返英伟达是自己的功劳，还发了张黄仁勋高举内衣的梗图",
+  "zh_oneliner": "特朗普声称黄仁勋重返英伟达是自己的功劳，并发了一张黄仁勋高举内衣的梗图，引发两党政客热议。",
+  "en_title": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
+  "en_oneliner": "Trump claimed credit for Jensen Huang's return to Nvidia and posted a meme of Huang triumphantly holding up a bra, drawing reactions from politicians on both sides."
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week": {
+  "zh_title": "任天堂本周再为 Switch 2 添一款 GameCube 经典：《Wave Race: Blue Storm》",
+  "zh_oneliner": "GameCube 经典竞速游戏《Wave Race: Blue Storm》今日上线 Switch Online + 追加包服务，会员可直接开玩。",
+  "en_title": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+  "en_oneliner": "GameCube racing classic Wave Race: Blue Storm joins the Switch Online + Expansion Pack service today for subscribers."
  }
 }
