@@ -24640,5 +24640,41 @@
   "zh_oneliner": "PC Gamer 介绍《Marathon》的新跑者外壳——一个喷气推进的机器人武士，造型凶悍，专为近战杀伤而生。",
   "en_title": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
   "en_oneliner": "PC Gamer introduces Marathon's new runner shell — a jet-propelled robot samurai built to hurt you up close."
+ },
+ "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake": {
+  "zh_title": "经典机器人即时战略游戏《Z》靠开源 3D 重制版非官方回归",
+  "zh_oneliner": "粉丝用爱发电做的开源 3D 重制版 OpenZ，让 1996 年 Bitmap Brothers 的机器人 RTS《Z》重新回到玩家面前。",
+  "en_title": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake",
+  "en_oneliner": "OpenZ, a fan-made open-source 3D remake, brings back The Bitmap Brothers' 1996 robotic RTS Z — built purely out of love for the game."
+ },
+ "https://www.indiedb.com/games/powerstate/news/update-0912-draw-your-solar-parks-tile-by-tile": {
+  "zh_title": "Powerstate 0.9.12 更新：逐块手绘太阳能电站",
+  "zh_oneliner": "新版允许逐块手绘太阳能电站并实时查看每块成本，同时新增建造成本图层、批量升级和 5 秒内撤回订单等功能。",
+  "en_title": "Update 0.9.12: draw your solar parks tile by tile",
+  "en_oneliner": "The update lets you draw solar parks tile by tile while seeing each tile’s cost live, and adds a Build Cost map layer, bulk upgrades, and a 5-second undo window for orders."
+ },
+ "https://www.indiedb.com/games/cordonfall/news/cordonfalls-free-demo-is-out-now-on-steam": {
+  "zh_title": "Cordonfall 免费试玩版现已登陆 Steam",
+  "zh_oneliner": "在真实城市里守过十个夜晚、抵御门窗外的亡者，免费试玩版已上架 Steam，支持 Windows、macOS 与 Linux，每天还会换一座新城市。",
+  "en_title": "Cordonfall's free demo is out now on Steam",
+  "en_oneliner": "Survive ten nights in a real city as the dead press at your doors and windows — the free demo is out on Steam for Windows, macOS and Linux, with a new city every day."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained": {
+  "zh_title": "把 GTA 6 搬上 PC 的竞赛，解析",
+  "zh_oneliner": "文章解析了非官方团队如何竞相把 GTA 6 移植到 PC，以及这场竞赛为什么可能在几天内就出结果。",
+  "en_title": "The race to port GTA 6 to PC, explained",
+  "en_oneliner": "The piece explains how unofficial teams are racing to bring GTA 6 to PC — and why it could happen within days."
+ },
+ "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts": {
+  "zh_title": "暗黑 2 周年 Boss 与装备不会随暗黑 4 下赛季开始而消失",
+  "zh_oneliner": "本赛季多数暗黑 2 周年纪念内容都会保留到下赛季，玩家不用赶在赛季结束前刷完。",
+  "en_title": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
+  "en_oneliner": "Most of this season's Diablo 2 anniversary secrets will carry over into Diablo 4's next season, so there's no rush to grab them before it ends."
+ },
+ "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix": {
+  "zh_title": "英伟达新补丁终于根除了上个热修复没修掉的 SSD 狂写 Bug",
+  "zh_oneliner": "上个热修复没能真正解决的 SSD 持续写入问题，这次的补丁终于彻底根除了。",
+  "en_title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
+  "en_oneliner": "The SSD-hammering bug that the last hotfix failed to actually fix has finally been eradicated by this new patch."
  }
 }
