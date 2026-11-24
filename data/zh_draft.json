@@ -23722,5 +23722,29 @@
   "zh_oneliner": "Google 与英国开发者达成的 3.38 亿美元和解已开放索赔，符合条件的开发者至少能拿到 260 美元。",
   "en_title": "Google’s $338m UK developer settlement opens for claims",
   "en_oneliner": "Claims are now open under Google’s $338m settlement with UK developers, with every eligible developer guaranteed at least $260."
+ },
+ "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced": {
+  "zh_title": "《Tiny Bookshop》销量破百万，新 DLC 扩展公布",
+  "zh_oneliner": "海滨书店经营小品《Tiny Bookshop》全平台销量突破一百万份，开发商顺势公布将于 12 月 5 日推出 Arts & Crafts 扩展。",
+  "en_title": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced",
+  "en_oneliner": "The cozy seaside bookshop sim Tiny Bookshop has passed one million copies sold across all platforms, and developer neoludic has announced the Arts & Crafts DLC expansion for 5 December."
+ },
+ "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement": {
+  "zh_title": "英国手游开发者现可申请分得 2.6 亿英镑谷歌和解金",
+  "zh_oneliner": "2018 年 8 月至 2026 年 7 月间在 Google Play 上架过作品的英国开发者，现在可以申请领取这笔 2.6 亿英镑集体诉讼和解金中的份额。",
+  "en_title": "UK mobile developers can now apply for their share of a £260 million Google settlement",
+  "en_oneliner": "UK developers who published on Google Play between August 2018 and July 2026 can now claim their share of the £260 million settlement from the class action against Google."
+ },
+ "https://dev.to/juegostudiosofficial/writing-a-game-art-style-guide-that-outsourced-artists-will-actually-follow-64p": {
+  "zh_title": "如何写一份外包美术真正会照着做的游戏美术风格指南",
+  "zh_oneliner": "一份美术风格指南好不好用，不看它有多精美，而看它能不能在外包画师赶工时直接回答问题，这篇分享了让指南真正落地的结构与维护方法。",
+  "en_title": "Writing a Game Art Style Guide That Outsourced Artists Will Actually Follow",
+  "en_oneliner": "Most art style guides fail quietly because they don't answer an outsourced artist's real questions mid-task; this post shows how to structure one so it actually gets followed and kept alive."
+ },
+ "https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch": {
+  "zh_title": "GTA 6 发售后英国手游动作与策略类消费下滑 24.5%",
+  "zh_oneliner": "GTA 6 发售头几天，英国移动端动作与策略类游戏消费下滑 24.5%，整个英国手游市场的内购收入也跌了 10.5%，不过玩家活跃度只降了 2.8%。",
+  "en_title": "UK mobile action and strategy game spending falls 24.5% following GTA 6 launch",
+  "en_oneliner": "UK mobile action and strategy game spending fell 24.5% in the first days after the GTA 6 launch, with overall in-app purchase revenue down 10.5% while sessions dipped only 2.8%."
  }
 }
