@@ -23422,5 +23422,11 @@
   "zh_oneliner": "模型在静帧里看着没问题，关节弯折、细分或进引擎后却可能变形，作者给出导出前按用途逐项检查拓扑的实用顺序。",
   "en_title": "Mesh Topology for Game Assets: A Pre-Export Review Workflow",
   "en_oneliner": "A model can look fine in a still render yet pinch at joints or shade oddly in-engine, so the author lays out a pre-export topology review ordered by what each asset has to do."
+ },
+ "https://dev.to/aurum_revenue/i-built-a-12-minute-game-where-you-are-the-tide-and-the-city-writes-your-eulogy-1272": {
+  "zh_title": "我做了个 12 分钟小游戏：你扮演潮水，城市为你写悼词",
+  "zh_oneliner": "扮演潮水淹没一座程序化生成的小城，城市会记住你的所作所为并为你写下悼词，九字符种子就决定了整场十二分钟的体验。",
+  "en_title": "I built a 12-minute game where you are the tide, and the city writes your eulogy",
+  "en_oneliner": "Play as the tide flooding a tiny procedurally generated city that remembers what you did and writes your eulogy, with a nine-character seed defining the whole twelve-minute run."
  }
 }
