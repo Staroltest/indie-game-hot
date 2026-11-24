@@ -23314,5 +23314,29 @@
   "zh_oneliner": "《最终幻想 VII Revelation》已通过 ESRB 分级，定于 2027 年 4 月 8 日发售，Switch 2 版的进度看来也在正轨上。",
   "en_title": "Final Fantasy VII Revelation Has Been Rated for Switch 2 by the ESRB",
   "en_oneliner": "Final Fantasy VII Revelation has been rated by the ESRB ahead of its 8 April 2027 release, and the Switch 2 version looks on track alongside the other editions."
+ },
+ "https://gamedev.net/blogs/entry/2298716-prepping-your-game-for-xbox-certification-the-late-surprises-uk-teams-keep-meeting": {
+  "zh_title": "为 Xbox 认证做准备：英国团队总在最后关头遇到的意外",
+  "zh_oneliner": "小团队常把 Xbox 认证当成项目末尾的一道关卡，但最耗时的失败往往是开发机上从没测过的日常行为，文章列出圣诞假期后最容易踩的几个坑，值得提前排进计划。",
+  "en_title": "Prepping Your Game for Xbox Certification: The Late Surprises UK Teams Keep Meeting",
+  "en_oneliner": "Small teams often treat Xbox certification as a final gate, but the costliest failures are usually everyday behaviors nobody tested on a dev kit — this piece lists the surprises most likely to land after the Christmas break so you can plan for them now."
+ },
+ "https://indiegamereviewer.com/gary-grigsbys-world-at-war-review-a-retro-game-i-love": {
+  "zh_title": "《Gary Grigsby's World at War》评测：一款我钟爱的复古二战策略游戏",
+  "zh_oneliner": "资深设计师 Greg Costikyan 谈他心目中最爱的二战策略游戏，聊这款复古之作凭什么历久弥新。",
+  "en_title": "Gary Grigsby’s World at War Review – A Retro Game I Love",
+  "en_oneliner": "Veteran designer Greg Costikyan explains why this retro World War II strategy game remains his all-time favorite and what still makes it hold up."
+ },
+ "https://dev.to/copero_games/i-cut-the-7-deadly-sins-test-to-21-statements-and-4-minutes-on-purpose-2522": {
+  "zh_title": "我有意把“七宗罪”测试砍到 21 道题、4 分钟",
+  "zh_oneliner": "一个四分钟的浏览器小测验怎么做才既有人做完、结果又让人信服，作者以自己的七宗罪小游戏为例，拆解了题量、维度和取舍背后的设计决策。",
+  "en_title": "I cut the 7 Deadly Sins test to 21 statements and 4 minutes on purpose",
+  "en_oneliner": "A four-minute browser quiz must be short enough to finish and specific enough to feel earned — the author breaks down the design decisions behind his Seven Deadly Sins game, from question count to scoring trade-offs."
+ },
+ "https://dev.to/jonie_rangel_051969a0f3fe/vetor-a-ruptura-architecture-of-an-html5-canvas-action-rpg-limbo-spider-boss-fight-demo-5gn8": {
+  "zh_title": "V.E.T.O.R：HTML5 Canvas 动作 RPG 的架构与 Limbo 蜘蛛 Boss 战（Demo V6.2 已出）",
+  "zh_oneliner": "独立科幻动作 RPG 不用现成商业引擎，自研双层 Canvas 与视频同步渲染管线，文章拆解引擎架构与 Limbo 蜘蛛 Boss 战的设计，Demo V6.2 已可下载试玩。",
+  "en_title": "V.E.T.O.R — A Ruptura: Architecture of an HTML5 Canvas Action-RPG & Limbo Spider Boss Fight (Demo V6.2 Available)",
+  "en_oneliner": "This indie sci-fi action-RPG skips off-the-shelf engines for a custom dual-layer HTML5 Canvas pipeline synced with video playback — the post breaks down the engine architecture and the Limbo Spider boss fight, with Demo V6.2 available now."
  }
 }
