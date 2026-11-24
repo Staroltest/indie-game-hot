@@ -24520,5 +24520,29 @@
   "zh_oneliner": "英国手游开发者与发行商现可申领 Google 2.6 亿英镑集体诉讼和解金的一部分，该案指控 Google Play 30% 的抽成过高、违反竞争法，和解方案已于 2026 年 9 月 16 日获法庭批准。",
   "en_title": "UK Developers can now claim part of £260m Google settlement",
   "en_oneliner": "UK-based mobile game developers and publishers can now claim a share of Google's £260 million class-action settlement, which centred on claims that Google Play's 30% commission was excessive and breached competition law."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/the-4-line-camera-lerp-formula-every-html5-ai-game-developer-needs-48ml": {
+  "zh_title": "HTML5 与 AI 游戏开发者必备的 4 行相机平滑插值公式",
+  "zh_oneliner": "把相机死死锁在玩家坐标上会让 2D 浏览器游戏显得生硬卡顿，这篇教程用四行 JavaScript 线性插值代码，就能做出电影感的平滑跟随镜头。",
+  "en_title": "The 4-Line Camera Lerp Formula Every HTML5 & AI Game Developer Needs",
+  "en_oneliner": "Locking the camera to the player's exact coordinates makes 2D browser games feel stiff and jittery — this tutorial shows how four lines of JavaScript linear interpolation give you a smooth, cinematic follow camera."
+ },
+ "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut": {
+  "zh_title": "《仁王 3》将于 2027 年登陆 Xbox",
+  "zh_oneliner": "Team NINJA 在忍者年连发两款《忍者龙剑传》后，宣布《仁王》系列首次登陆 Xbox，《仁王 3》定于 2027 年推出。",
+  "en_title": "Nioh 3 Is Coming to XBOX in 2027",
+  "en_oneliner": "After Team NINJA's 'Year of the Ninja' delivered two Ninja Gaiden releases, the Nioh series makes its Xbox debut with Nioh 3, arriving in 2027."
+ },
+ "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game": {
+  "zh_title": "前《Apex 英雄》主创创立的工作室未发布游戏便宣告关闭",
+  "zh_oneliner": "以反加班为旗号、2020 年成立的 Gravity Well 今年初失去资金支持，没能找到新投资方，在未发布任何游戏的情况下关闭。",
+  "en_title": "Studio founded by former Apex Legends leaders is closing without releasing a game",
+  "en_oneliner": "Gravity Well, the 'anti-crunch' studio founded in 2020, lost its funding earlier this year and could not find a new backer, closing before releasing a game."
+ },
+ "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame": {
+  "zh_title": "Steam 大奖迎来十周年，怀旧奖项回归并新增年度游戏名人堂",
+  "zh_oneliner": "2026 年 Steam 大奖提名开启，为庆祝十周年，Valve 带回了往届的经典奖项类别，并新增了年度游戏名人堂。",
+  "en_title": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame",
+  "en_oneliner": "Nominations for the 2026 Steam Awards are open, and to mark the event's 10th anniversary Valve has revived throwback categories and added a Game of the Year Hall of Fame."
  }
 }
