@@ -24400,5 +24400,59 @@
   "zh_oneliner": "从 NPC 的行为设计聊 GTA 6 世界的生气，开放世界开发者可借鉴其系统化叙事的思路。",
   "en_title": "GTA 6 is great because of all its murderous NPCs, not in spite of them",
   "en_oneliner": "GTA 6 shines because of its murderous NPCs, not in spite of them — a look at how systemic NPC behavior makes its world feel alive."
+ },
+ "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents": {
+  "zh_title": "用 Unity CLI 调用 Asset Store 与 AI 生成器",
+  "zh_oneliner": "Unity 推出命令行工具，让编码智能体直接搜索 Asset Store、从素材包里单取预制体，缺失的素材还能调用 60 多种 AI 模型现场生成，独立开发者可以把找素材这步也交给 AI 代理。",
+  "en_title": "Access Asset Store and AI Generators using the Unity CLI",
+  "en_oneliner": "Unity's new CLI lets coding agents search the Asset Store, pull single prefabs out of packs, and generate missing assets with 60+ AI models, so indie developers can hand the asset-hunting step to an AI agent too."
+ },
+ "https://www.pcgamer.com/games/rts/were-giving-away-warhammer-40-000-dawn-of-war-4-commander-edition-steam-codes": {
+  "zh_title": "免费送《战锤 40K：战争黎明 4》指挥官版 Steam 激活码",
+  "zh_oneliner": "PC Gamer 正在送出《战锤 40K：战争黎明 4》指挥官版的 Steam 激活码，感兴趣的玩家可以去参与抽奖。",
+  "en_title": "We're giving away Warhammer 40,000: Dawn of War 4 Commander Edition Steam codes",
+  "en_oneliner": "PC Gamer is giving away Steam codes for the Commander Edition of Warhammer 40,000: Dawn of War 4, so interested players can enter the draw."
+ },
+ "https://www.rockpapershotgun.com/ex-respawn-studio-gravity-well-announces-hibernation-following-previous-failure-to-secure-funding-and-layoffs-but-insists-we-still-believe-in-the-ip-and-game-we-were-building": {
+  "zh_title": "前 Respawn 成员组建的 Gravity Well 宣布“休眠”，融资失败后裁员 40 人",
+  "zh_oneliner": "由前 Respawn 开发者组建的独立工作室 Gravity Well 在融资告吹、裁员 40 人后宣布进入“休眠”，其打磨约六年的未公布新作就此搁置，团队仍表示相信这个 IP 与游戏本身。",
+  "en_title": "Ex-Respawn studio Gravity Well announces \"hibernation\" following previous failure to secure funding and layoffs, but insists \"we still believe in the IP and game we were building\"",
+  "en_oneliner": "After a funding source pulled out and 40 jobs were cut, the independent studio Gravity Well — founded by former Respawn developers — says it is going into \"hibernation\", shelving an unannounced game it had worked on for about six years, while insisting it still believes in the IP and the game."
+ },
+ "https://dev.to/rivskiy_skulitom_af400ad1/pixel-art-effects-with-ai-agents-our-tool-against-pixelfx-in-four-blind-judged-blocks-losses-first-2a0o": {
+  "zh_title": "用 AI 智能体做像素风特效：我们的工具与 pixelfx 四轮盲测，先报败绩",
+  "zh_oneliner": "Pixelbolt 团队让 Claude 智能体分别用自家工具和开源的 pixelfx 生成 16 种像素特效，再盲测打分，先公开自己输掉的轮次，独立开发者可以照着这套打分思路评估 AI 做游戏特效到底够不够用。",
+  "en_title": "Pixel art effects with AI agents: our tool against pixelfx in four blind-judged blocks, losses first",
+  "en_oneliner": "The Pixelbolt team had Claude agents generate 16 pixel-art effects with its own tool and the open-source pixelfx, scored them in blind judging, and reports its losses first, giving indie developers a scoring approach to judge whether AI-made game effects are good enough to ship."
+ },
+ "https://www.blendernation.com/2026/11/24/bcon-shenzhen-the-blender-conference-in-asia-takes-place-november-28-29": {
+  "zh_title": "BCON 深圳站：亚洲 Blender 大会 11 月 28–29 日举行",
+  "zh_oneliner": "亚洲 Blender 大会 BCON 将于 11 月 28–29 日在深圳举行，Blender 用户与开发者可以关注这场线下聚会的议程与分享。",
+  "en_title": "BCON Shenzhen: the Blender Conference in Asia takes place November 28-29",
+  "en_oneliner": "BCON, the Blender Conference in Asia, takes place in Shenzhen on November 28–29, and Blender users and developers can watch for its schedule and talks."
+ },
+ "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5": {
+  "zh_title": "开发快照：Godot 4.8 beta 5",
+  "zh_oneliner": "Godot 4.8 beta 4 发布不到一周，团队已修完所有剩余发布阻塞问题，赶在进入候选版之前再推最后一个开发快照，开发者可以上手试试这版，帮忙在正式发布前踩掉最后的坑。",
+  "en_title": "Dev snapshot: Godot 4.8 beta 5",
+  "en_oneliner": "Within a week of beta 4, the Godot team has fixed every remaining launch-blocking issue and is putting out one final snapshot before the release candidate, so developers can try this build and help catch the last bugs before the official release."
+ },
+ "https://www.rockpapershotgun.com/valve-push-on-with-their-steam-improvements-by-revamping-the-community-market-home-page-and-adding-a-watchlist-to-it-so-youre-bookmarks-will-be-a-lot-lighter": {
+  "zh_title": "Valve 继续改造 Steam：社区市场首页翻新，还加了愿望单",
+  "zh_oneliner": "Valve 又给 Steam 社区市场动了手术，首页重新设计并加入关注清单，收藏夹可以轻装上阵，开发者可以留意平台这波持续的界面与体验改造。",
+  "en_title": "Valve push on with their Steam improvements by revamping the Community Market home page and adding a watchlist to it so you're bookmarks will be a lot lighter",
+  "en_oneliner": "Valve keeps reworking Steam with a redesigned Community Market home page and a new watchlist to slim down bookmarks, and developers can note the platform's ongoing UI and experience overhaul."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/multiplayer-horror-games-unblocked-6-free-scary-games-to-play-with-friends-in-a-browser-35nh": {
+  "zh_title": "浏览器里能玩的多人恐怖游戏：6 款免费吓人小游戏，和朋友一起玩",
+  "zh_oneliner": "这篇盘点列出 6 款不用下载、打开浏览器就能和朋友联机玩的免费恐怖小游戏，适合想找灵感或放松一下的开发者顺手收藏。",
+  "en_title": "Multiplayer horror games unblocked: 6 free scary games to play with friends in a browser",
+  "en_oneliner": "This roundup lists six free multiplayer horror games you can play with friends right in a browser tab, no download needed, handy for developers looking for inspiration or a quick break."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/sports-games-unblocked-100-free-browser-sports-games-and-the-4-that-really-do-two-players-on-one-4aan": {
+  "zh_title": "浏览器体育游戏盘点：100 款免费小游戏，其中 4 款真能双人同键盘",
+  "zh_oneliner": "这篇盘点收录 100 款浏览器里免费玩的体育小游戏，并挑出其中 4 款真正支持双人同键盘对战的作品，适合想研究轻量休闲玩法的开发者参考。",
+  "en_title": "Sports games unblocked: 100 free browser sports games, and the 4 that really do two players on one keyboard",
+  "en_oneliner": "This roundup collects 100 free sports games playable in a browser and singles out four that genuinely support two players on one keyboard, useful reference for developers studying lightweight casual play."
  }
 }
