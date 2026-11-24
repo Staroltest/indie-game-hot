@@ -23878,5 +23878,29 @@
   "zh_oneliner": "AppMagic 数据显示 10 月手游下载与收入榜出现新面孔 Top Lords，腾讯收入下滑 11%，行业对 AI 监听的讨论也在升温。",
   "en_title": "October 2026 mobile game charts: Top Lords takes off, Tencent falls 11% and AI listens in",
   "en_oneliner": "AppMagic's October charts show Top Lords taking off, Tencent down 11%, and AI listening in as the month's big talking points."
+ },
+ "https://www.pocketgamer.biz/more-choice-less-clarity-why-ua-financing-starts-with-a-blank-sheet-of-paper": {
+  "zh_title": "选择更多、清晰度更低：为什么 UA 融资要从一张白纸开始",
+  "zh_oneliner": "移动金融集体创始人聊获客融资的现状：分期融资从少数人听说到逐渐普及，发行商做预算时反而更需要从零想清楚每一笔钱的去向。",
+  "en_title": "More choice, less clarity: Why UA financing starts with a blank sheet of paper",
+  "en_oneliner": "The founder of the Mobile Finance Collective looks at user-acquisition financing today: cohort funding has gone from obscure to common, yet publishers still need to start from a blank sheet when budgeting every dollar."
+ },
+ "https://kenney.nl/assets/retro-textures-liminal": {
+  "zh_title": "Retro Textures Liminal：复古风纹理包",
+  "zh_oneliner": "Kenney 的 Retro 系列新纹理包，100 张文件，主打复古与阈限空间风格，做怀旧质感场景可直接拿来用。",
+  "en_title": "Retro Textures Liminal",
+  "en_oneliner": "Kenney's latest Retro series texture pack offers 100 files in a retro, liminal-space style, ready to drop into nostalgic scenes."
+ },
+ "https://dev.to/poprecallgames/our-tiny-games-site-earned-its-first-7-cents-2bcb": {
+  "zh_title": "我们的小游戏站赚到了第一笔 7 美分",
+  "zh_oneliner": "作者用纯原生 JavaScript 做了个迷你浏览器游戏合集 Pop Recall，上线两周后收到第一笔 7 美分收入，分享了从零起步的真实账本。",
+  "en_title": "Our tiny games site earned its first 7 cents",
+  "en_oneliner": "Two weeks after launching Pop Recall, a collection of tiny vanilla-JavaScript browser games, the author earned the site's first 7 cents and shares the honest ledger behind it."
+ },
+ "https://gamedev.net/blogs/entry/2298720-what-27-seconds-can-show-about-a-pistol-in-a-melee-fight": {
+  "zh_title": "2.7 秒能说明什么：一场近战格斗里的手枪",
+  "zh_oneliner": "作者用 2.7 秒的实机片段拆解了近战格斗中手枪的出场时机，短小精悍的战斗设计观察值得动作游戏开发者一看。",
+  "en_title": "What 2.7 seconds can show about a pistol in a melee fight",
+  "en_oneliner": "The author breaks down what 2.7 seconds of footage reveal about a pistol's role in a melee fight, a compact combat-design observation for action game developers."
  }
 }
