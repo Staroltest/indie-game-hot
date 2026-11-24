@@ -24232,5 +24232,71 @@
   "zh_oneliner": "发行商 Plug In Digital 收购了 Twin Sails Interactive，双方将把全球发行网络与发行运营能力合到一起。",
   "en_title": "Plug In Digital acquires Twin Sails Interactive",
   "en_oneliner": "Distributor Plug In Digital has acquired publisher Twin Sails Interactive, combining its global distribution network with Twin Sails' publishing operations."
+ },
+ "https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment": {
+  "zh_title": "观点：GTA 6 与《魔兽世界：永恒》证明，日常琐碎正在成为主流",
+  "zh_oneliner": "今年两款大作都在告诉开发者：发呆、跑腿这些看似无聊的日常，同样能撑起引人入胜的游戏体验。",
+  "en_title": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
+  "en_oneliner": "Two of the year's biggest hits suggest downtime and everyday routines can be as compelling as dungeons and dragons — a design lesson worth stealing for indie games."
+ },
+ "https://www.indiedb.com/games/annomort/news/annomort": {
+  "zh_title": "ANNOMORT",
+  "zh_oneliner": "一款新亮相的独立游戏在 IndieDB 上放出消息，值得关注其后续玩法揭晓。",
+  "en_title": "ANNOMORT",
+  "en_oneliner": "A newly announced indie game surfaces on IndieDB — worth keeping an eye on as more details emerge."
+ },
+ "https://www.indiedb.com/games/virtualord-the-virtual-conqueror/news/virtualord-demo-v0619-is-out-on-steam-now": {
+  "zh_title": "回合制策略游戏 Virtualord 演示版 v0.6.19 已上架 Steam",
+  "zh_oneliner": "独立回合制策略游戏 Virtualord 的演示迎来一次大更新，加入多项新功能并修复了大量问题。",
+  "en_title": "Virtualord DEMO v0.6.19 is out on Steam now",
+  "en_oneliner": "The demo of indie turn-based strategy game Virtualord gets a major update with several new features and a pile of fixes."
+ },
+ "https://dev.to/darrellbest/why-your-godot-pixel-font-is-blurry-and-the-three-import-settings-that-fix-it-1c8j": {
+  "zh_title": "为什么你的 Godot 像素字体发虚，以及修好它的三个导入设置",
+  "zh_oneliner": "Godot 4 默认的字体导入方式会把像素字体磨糊，改三个导入设置就能让字恢复锐利。",
+  "en_title": "Why your Godot pixel font is blurry, and the three import settings that fix it",
+  "en_oneliner": "Godot 4's default font import smooths pixel fonts into a blur — three import settings bring the crispness back."
+ },
+ "https://dev.to/juegostudiosofficial/planning-a-multiplayer-racing-game-for-mobile-latency-and-fairness-basics-38ap": {
+  "zh_title": "手游多人竞速规划：延迟与公平性的基础要点",
+  "zh_oneliner": "竞速游戏上网比射击游戏更怕延迟，这篇规划清单帮小团队提前避开同步与公平性两大坑。",
+  "en_title": "Planning a Multiplayer Racing Game for Mobile: Latency and Fairness Basics",
+  "en_oneliner": "Racing is one of the hardest genres to take online — this planning checklist helps small teams tackle latency and fairness before they bite."
+ },
+ "https://dev.to/darrellbest/godot-4-tileset-terrains-tutorial-paint-paths-and-ponds-that-place-their-own-corners-lj5": {
+  "zh_title": "Godot 4 图块地形教程：画出会自动补角的小路和池塘",
+  "zh_oneliner": "用 Godot 4 的地形系统画小路和池塘，边角会自动补全，再也不用一块块手摆图块了。",
+  "en_title": "Godot 4 tileset terrains tutorial: paint paths and ponds that place their own corners",
+  "en_oneliner": "Godot 4's terrain system paints paths and ponds that place their own corners, so you can stop hand-placing every edge tile."
+ },
+ "https://dev.to/darrellbest/godot-4-web-export-for-itchio-the-settings-that-stop-failed-to-fetch-3eam": {
+  "zh_title": "Godot 4 网页导出上架 itch.io：告别 failed to fetch 的设置要点",
+  "zh_oneliner": "把 Godot 4 游戏导成网页版传到 itch.io 却总报 failed to fetch？这篇按步骤排查导出设置，问题多半出在缺文件或线程支持上。",
+  "en_title": "Godot 4 web export for itch.io: the settings that stop failed to fetch",
+  "en_oneliner": "Your Godot 4 web export fails to fetch on itch.io because a file is missing or thread support is misconfigured — this walkthrough checks every setting."
+ },
+ "https://dev.to/darrellbest/export-your-godot-4-game-to-android-apk-keystore-and-portrait-mode-without-tears-4ene": {
+  "zh_title": "把 Godot 4 游戏导出到安卓：APK、密钥库与竖屏模式一次搞定",
+  "zh_oneliner": "从竖屏设置、调试密钥库到导出预设，这篇教程把 Godot 4 安卓导出的常见坑一次性讲清。",
+  "en_title": "Export your Godot 4 game to Android: APK, keystore and portrait mode without tears",
+  "en_oneliner": "From portrait mode and a debug keystore to a working export preset, this walkthrough clears the usual Android export pitfalls in one pass."
+ },
+ "https://dev.to/darrellbest/dress-a-godot-4-scene-with-a-wind-bed-a-distant-bell-and-a-crow-55g3": {
+  "zh_title": "给 Godot 4 场景配上风声、远处钟声与乌鸦，氛围立刻不一样",
+  "zh_oneliner": "一片寂静的田野只是画，配上循环风声、若隐若现的钟声和永不重复的鸦叫，它就成了让人不敢久留的地方。",
+  "en_title": "Dress a Godot 4 scene with a wind bed, a distant bell and a crow",
+  "en_oneliner": "A silent field is just a painting — a looping wind bed, a distant bell and randomized crow calls turn it into a place players won't want to linger."
+ },
+ "https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates": {
+  "zh_title": "Sensor Tower 推出网店收入预估工具",
+  "zh_oneliner": "Sensor Tower 新增直销网店收入预估，开发者现在能同时看到应用商店与自家网店的变现全貌。",
+  "en_title": "Sensor Tower introduces web store revenue estimates",
+  "en_oneliner": "Sensor Tower now estimates direct-to-consumer web store revenue, giving developers a fuller picture of app and game monetisation beyond the stores."
+ },
+ "https://mobilegamer.biz/nominate-your-work-heroes-in-our-2026-community-awards": {
+  "zh_title": "2026 社区奖提名开启：提名你心中的行业英雄",
+  "zh_oneliner": "MobileGamer 的 2026 社区奖开始接受提名，快去为你心中的手游行业幕后英雄投上一票。",
+  "en_title": "Nominate your work heroes in our 2026 community awards",
+  "en_oneliner": "MobileGamer's 2026 community awards are open for nominations — vote for the mobile game industry heroes who deserve a real trophy."
  }
 }
