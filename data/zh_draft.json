@@ -23956,5 +23956,41 @@
   "zh_oneliner": "ITV Studios 的 Metavision 计划今年晚些时候把 1960 年代经典剧集《雷鸟神机队》首次带入 Roblox，老牌 IP 与 UGC 平台联动的又一案例。",
   "en_title": "ITV Studios’ Metavision to bring Thunderbirds IP to Roblox",
   "en_oneliner": "Metavision, part of ITV Studios’ Zoo 55, plans to bring the 1960s classic Thunderbirds IP to Roblox for the first time later this year, another case of a legacy IP meeting a UGC platform."
+ },
+ "https://80.lv/articles/creating-game-ready-fictional-military-vehicle-in-3d": {
+  "zh_title": "打造游戏可用的虚构军用载具：3D 制作全流程",
+  "zh_oneliner": "作者分享原创 8×8 火力支援车 XM-118 Onza 的制作流程，细节内饰、可拆卸炮塔一应俱全，还能在 Unreal Engine 里直接开起来。",
+  "en_title": "Creating Game-Ready Fictional Military Vehicle In 3D",
+  "en_oneliner": "The artist walks through the workflow behind the original XM-118 Onza 8x8 fire support vehicle, from detailed interiors and a detachable turret to a fully drivable Unreal Engine setup."
+ },
+ "https://80.lv/articles/inspect-weird-creatures-in-this-lovecraftian-puzzle-roguelite-reminiscent-of-papers-please": {
+  "zh_title": "在这款克苏鲁风解谜 Roguelite 里检查怪异生物，致敬《请出示证件》",
+  "zh_oneliner": "《Eldritch Empathy》让你逐个审查长相怪异的访客，以貌取人可要吃大亏，玩法让人想起《请出示证件》。",
+  "en_title": "Inspect Weird Creatures in This Lovecraftian Puzzle Roguelite Reminiscent of Papers, Please",
+  "en_oneliner": "Eldritch Empathy has you inspecting strange visitors one by one, where judging an entity by its looks can cost you dearly, in a Papers, Please-style puzzle roguelite."
+ },
+ "https://80.lv/articles/slay-blood-hungry-creatures-in-this-noita-hollow-knight-style-pixel-art-roguelike": {
+  "zh_title": "在这款 Noita 与空洞骑士风像素 Roguelike 里斩杀嗜血生物",
+  "zh_oneliner": "黑暗奇幻像素冒险《Little Prince Tyger》里，环境既能帮你猎杀敌人，也可能反过来把你逼进绝境。",
+  "en_title": "Slay Blood-Hungry Creatures in This Noita & Hollow Knight-Style Pixel-Art Roguelike",
+  "en_oneliner": "Little Prince Tyger is a dark fantasy pixel-art roguelike where the environment can help you slay your enemies or turn your hunt into a death trap."
+ },
+ "https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return": {
+  "zh_title": "Supercell 给《部落冲突：皇室战争》回归玩家发额外金币，鼓励他们回来",
+  "zh_oneliner": "Supercell 推出限时活动“皇室利息”，回归玩家按离开时间长短最高可领 49.6% 的额外金币，靠存量货币利息拉回流。",
+  "en_title": "Supercell offers Clash Royale players extra gold to encourage their return",
+  "en_oneliner": "Supercell's limited-time Royale Interest event pays returning Clash Royale players up to 49.6% extra gold on the currency they left behind, with the bonus growing the longer they were away."
+ },
+ "https://www.blendernation.com/2026/11/24/sculptforge-0-9-3-a-free-open-source-sculpting-app-with-a-two-way-blender-bridge": {
+  "zh_title": "SculptForge 0.9.3：一款免费开源雕刻软件，带与 Blender 的双向桥接",
+  "zh_oneliner": "免费开源雕刻工具 SculptForge 发布 0.9.3 版，一键双向桥接 Blender，Windows、macOS 与 Linux 都能用。",
+  "en_title": "SculptForge 0.9.3: a free, open-source sculpting app with a two-way Blender bridge",
+  "en_oneliner": "SculptForge 0.9.3 is a free, open-source sculpting app for Windows, macOS and Linux with a one-click, two-way bridge to Blender."
+ },
+ "https://80.lv/articles/3d-sculpting-app-nomad-sculpt-is-coming-to-steam": {
+  "zh_title": "3D 雕刻应用 Nomad Sculpt 即将登陆 Steam",
+  "zh_oneliner": "热门移动端雕刻工具 Nomad Sculpt 要上 Steam 了，桌面端也能直接雕刻，记得先加愿望单。",
+  "en_title": "3D Sculpting App Nomad Sculpt Is Coming To Steam",
+  "en_oneliner": "The popular mobile sculpting app Nomad Sculpt is coming to Steam, bringing its sculpting tools to the desktop — wishlist it now."
  }
 }
