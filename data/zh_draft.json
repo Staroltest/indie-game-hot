@@ -23368,5 +23368,59 @@
   "zh_oneliner": "Nintendo Classics 的 GameCube 应用随 2.2.0 版本更新，终于允许玩家关掉游戏画面周围的边框图案。",
   "en_title": "PSA: You Can Now Turn Off The Border Graphic In Switch Online's GameCube App",
   "en_oneliner": "Version 2.2.0 of the Nintendo Classics GameCube app finally lets players turn off the border graphic around the game screen."
+ },
+ "https://dev.to/robiul_cc_5fdd440f1c88c45/why-a-rhythm-game-can-report-0-ms-when-every-tap-missed-49k1": {
+  "zh_title": "为什么音游明明每次都拍错了，结算却显示 0 毫秒误差",
+  "zh_oneliner": "四次敲击分别早晚 60、40 毫秒，取平均正好抵消成 0 毫秒，作者提醒做节奏游戏计时要保留正负号、按问题选统计口径。",
+  "en_title": "Why a rhythm game can report 0 ms when every tap missed",
+  "en_oneliner": "Four taps landing 60 ms early and late cancel out to a 0 ms average, so the author advises keeping the sign on timing offsets and picking the statistic that answers the question the score is meant to answer."
+ },
+ "https://dev.to/sugukavi/hydrilla-tutorial-your-first-bluefox-prop-from-prompt-to-engine-5d5k": {
+  "zh_title": "Hydrilla 教程：从提示词到引擎，做出你的第一个 BlueFox 道具",
+  "zh_oneliner": "一步步演示如何用 Hydrilla 的 BlueFox 1 从提示词或参考图生成带分段网格、UV 与 PBR 贴图的背景道具，并省着用生成额度。",
+  "en_title": "Hydrilla tutorial: your first BlueFox prop, from prompt to engine",
+  "en_oneliner": "A step-by-step walkthrough of generating a background prop with Hydrilla's BlueFox 1 from a prompt or reference image, complete with segmented mesh, UVs and PBR maps, while spending generation credits wisely."
+ },
+ "https://www.gcores.com/articles/222710": {
+  "zh_title": "索尼宣布《GTA6》玩家数超3900万，打破此前所有记录",
+  "zh_oneliner": "索尼称《GTA6》首发玩家超 3900 万，创 PlayStation 三十年来最大首发纪录，同时在线人数与首发游玩时长也双双刷新平台纪录。",
+  "en_title": "Sony says GTA 6 has topped 39 million players, breaking all previous records",
+  "en_oneliner": "Sony says GTA 6 passed 39 million players, the biggest launch in PlayStation's thirty-year history, also setting new records for concurrent players and launch-window playtime."
+ },
+ "https://www.indiedb.com/games/fursan-al-aqsa-2-prologue/news/from-ai-generated-concept-art-to-human-generated-character-design": {
+  "zh_title": "从 AI 生成概念图到人工角色设计",
+  "zh_oneliner": "《Fursan al-Aqsa 2》开发者分享如何用 AI 概念图起步、再以人工制作的 3D 资产在 3ds Max 里定制角色，并用 Gemini 与 Claude Code 写脚本辅助贴图与灯光。",
+  "en_title": "From AI-Generated Concept Art to Human-Generated Character Design",
+  "en_oneliner": "The Fursan al-Aqsa 2 developer shows how AI concept art can seed a workflow that ends in hand-customized 3D character design in 3ds Max, with Gemini and Claude Code scripting textures and lighting."
+ },
+ "https://www.indiedb.com/games/red-isolation/news/red-isolation-in-2027": {
+  "zh_title": "《Red Isolation》暂定 2027 年推出",
+  "zh_oneliner": "独立恐怖游戏《Red Isolation》暂定 2027 年发售，开发者先放出消息让玩家留意后续进展。",
+  "en_title": "Red Isolation in 2027",
+  "en_oneliner": "Indie horror game Red Isolation is tentatively scheduled for 2027, with the developer sharing the news ahead of further updates."
+ },
+ "https://www.indiedb.com/games/the-silence-the-forest/news/the-silence-the-forest-remake-page-open": {
+  "zh_title": "《The Silence: The Forest》重制版页面上线",
+  "zh_oneliner": "《The Silence: The Forest》重制版定于 2027 年推出，开发者开设了新页面，方便玩家持续关注开发进展与新名称。",
+  "en_title": "The Silence: The Forest Remake Page Open",
+  "en_oneliner": "The Silence: The Forest Remake is coming in 2027, and the developer has opened a dedicated page to follow its progress and reveal its new name."
+ },
+ "https://dev.to/meshyai/publishing-a-game-on-steam-five-release-checkpoints-for-developers-1amg": {
+  "zh_title": "在 Steam 上发行游戏：开发者要过的五个发布关卡",
+  "zh_oneliner": "把 Steam 上架拆成开户、商店页、送审构建与正式发布五个检查点，按依赖顺序逐项过，避免在前置条件没准备好时就先公布发售日。",
+  "en_title": "Publishing a Game on Steam: Five Release Checkpoints for Developers",
+  "en_oneliner": "Steam publishing breaks down into five checkpoints — account onboarding, store page, reviewed build and release — to be cleared in dependency order before announcing a launch date."
+ },
+ "https://dev.to/sugukavi/how-to-use-yoroll-code-your-first-one-button-timing-game-designed-on-paper-first-511i": {
+  "zh_title": "Yoroll Code 上手：先在纸上设计，再做你的第一个一键计时小游戏",
+  "zh_oneliner": "演示如何用 Yoroll Code 把文字描述变成无需引擎、无需构建流程的独立 HTML5 迷你游戏，并先在纸上把玩法设计清楚再动手。",
+  "en_title": "How to use Yoroll Code: your first one-button timing game, designed on paper first",
+  "en_oneliner": "A hands-on guide to turning a written description into a standalone HTML5 mini game with Yoroll Code, designing the timing gameplay on paper before building it."
+ },
+ "https://dev.to/meshyai/mesh-topology-for-game-assets-a-pre-export-review-workflow-5gim": {
+  "zh_title": "游戏资产网格拓扑：导出前的一套检查流程",
+  "zh_oneliner": "模型在静帧里看着没问题，关节弯折、细分或进引擎后却可能变形，作者给出导出前按用途逐项检查拓扑的实用顺序。",
+  "en_title": "Mesh Topology for Game Assets: A Pre-Export Review Workflow",
+  "en_oneliner": "A model can look fine in a still render yet pinch at joints or shade oddly in-engine, so the author lays out a pre-export topology review ordered by what each asset has to do."
  }
 }
