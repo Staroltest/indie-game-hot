@@ -23554,5 +23554,17 @@
   "zh_oneliner": "一个纯 KingCobra 实现的自动驾驶模拟器用 Double DQN 训练同一套神经网络开车，带真实轮胎动力学模型，能转向不足、漂移和倒车。",
   "en_title": "Self-driving cars that learn by deep Q-learning, with drift and reverse, in pure KingCobra",
   "en_oneliner": "A self-driving-car simulator built in pure KingCobra trains one neural network with Double DQN to drive every car, with a proper tyre model for understeer, drifting and reversing."
+ },
+ "https://dev.to/hirodeath/archive-retired-game-prototypes-while-checking-what-the-current-build-actually-launches-4lpn": {
+  "zh_title": "归档退役游戏原型，同时确认当前构建实际启动的是什么",
+  "zh_oneliner": "作者把未入选的旧原型代码和素材移入归档目录、让启动直接打开 VOLT NOMAD，并用 Git 对比核实 14 个文件内容无损，提醒开发者区分“保存在 Git 里的代码”和“当前应用真正能玩到的游戏”。",
+  "en_title": "Archive retired game prototypes while checking what the current build actually launches",
+  "en_oneliner": "The author moved unselected prototype code and assets into an archive, made startup open VOLT NOMAD directly, and verified via Git diff that all 14 files survived intact — a reminder to distinguish code preserved in Git from what the current build actually launches."
+ },
+ "https://www.youxituoluo.com/535089.html": {
+  "zh_title": "手握3款Top 30出海榜单产品，这家华南大厂正式切入二合赛道",
+  "zh_oneliner": "三七互娱凭两款 SLG 新作加长青产品《Puzzles & Survival》同时占据出海收入 Top 30 三席，又悄悄以末日荒漠母女求生为题材的首款二合产品《Merge Hope》切入合并赛道，目前月内购尚不足 50 万美元，仍在早期验证阶段。",
+  "en_title": "With Three Titles in the Top 30 Overseas Revenue Chart, This South China Publisher Moves Into the Merge-2 Genre",
+  "en_oneliner": "37Games holds three spots in Sensor Tower's overseas revenue Top 30 with two new SLG titles plus the evergreen Puzzles & Survival, and has quietly entered the merge-2 genre with Merge Hope, a post-apocalyptic desert survival game about a mother and daughter that is still in early validation with under $500K in October IAP revenue."
  }
 }
