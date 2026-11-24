@@ -23668,5 +23668,41 @@
   "zh_oneliner": "光荣特库摩宣布《仁王3》第二部付费 DLC“天草大乱”将于 12 月 17 日推出，新场景岛原登场并收束首部 DLC 留下的阴谋，同时将发售收录本体与两部 DLC 的完全版。",
   "en_title": "Nioh 3's Second DLC \"Amakusa Rebellion\" Launches December 17",
   "en_oneliner": "Koei Tecmo has announced that Nioh 3's second paid DLC, \"Amakusa Rebellion,\" arrives December 17, adding the new Shimabara stage and concluding the first DLC's conspiracy, alongside a complete edition bundling the base game and both DLCs."
+ },
+ "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership": {
+  "zh_title": "微软据传曾考虑为次世代 Xbox Helix 主机取消付费多人联机",
+  "zh_oneliner": "据 Windows Central 报道，微软曾研究在次世代主机上取消多人联机付费墙、后又可能反悔，平台联机政策仍有变数，独立开发者值得留意后续动向。",
+  "en_title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+  "en_oneliner": "According to Windows Central, Microsoft explored removing the paid multiplayer paywall on its next-gen console before possibly reversing course, a reminder for indie developers that platform online policies are still in flux."
+ },
+ "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks": {
+  "zh_title": "Rockstar 公布《GTA 6》豪华版原声带新增 23 首曲目",
+  "zh_oneliner": "Rockstar 公布《GTA 6》豪华版原声带新增 23 首曲目，涵盖 Denzel Curry 等艺人的作品，大作原声带的宣发打法值得独立开发者参考。",
+  "en_title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+  "en_oneliner": "Rockstar has revealed 23 extra tracks for the GTA 6 deluxe edition soundtrack, featuring artists like Denzel Curry, a showcase of how a blockbuster markets its music that indie developers can learn from."
+ },
+ "https://www.pocketgamer.biz/unity-ceo-matt-bromberg-and-eric-seufert-to-talk-ai-discovery-and-growth-at-pgc-london": {
+  "zh_title": "Unity CEO Matt Bromberg 与 Eric Seufert 将在 PGC London 谈 AI、发现与增长",
+  "zh_oneliner": "Unity CEO Matt Bromberg 与 Mobile Dev Memo 创始人 Eric Seufert 将在明年 1 月的 PGC London 同台，围绕 AI 如何加速手游制作与增长展开讨论，关注 AI 与发行的开发者可以留意这场分享。",
+  "en_title": "Unity CEO Matt Bromberg and Eric Seufert to talk AI, discovery and growth at PGC London",
+  "en_oneliner": "Unity CEO Matt Bromberg and Mobile Dev Memo founder Eric Seufert will share a stage at PGC London in January to discuss how AI is accelerating mobile game creation and growth, a session worth watching for developers tracking AI and publishing."
+ },
+ "https://www.yystv.cn/p/14671": {
+  "zh_title": "小米做的概念超跑，为什么要在游戏里寻求真实感",
+  "zh_oneliner": "对话小米汽车设计负责人，聊小米概念超跑如何借《跑车浪漫旅 7》的 Vision GT 企划在游戏中追求真实感，跨界合作的思路对做载具与品牌联动的开发者有参考价值。",
+  "en_title": "Why Xiaomi's Concept Supercar Seeks Realism in Games",
+  "en_oneliner": "An interview with Xiaomi's car design chief on how its concept supercar chases realism inside Gran Turismo 7's Vision GT programme, a useful reference for developers working on vehicles and brand crossovers."
+ },
+ "https://www.eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform": {
+  "zh_title": "索尼称仅 PlayStation 平台已有超 3900 万人玩过《GTA 6》，创平台历史纪录",
+  "zh_oneliner": "索尼公布《GTA 6》在 PlayStation 5 上的数据，仅该平台已有超 3900 万独立玩家，超过游戏首日全平台 3250 万份销量，创下平台历史纪录。",
+  "en_title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
+  "en_oneliner": "Sony says more than 39 million people have played GTA 6 on PlayStation alone, beating the game's day-one sales of 32.5 million copies across all platforms and setting an all-time record for the platform."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/accuracy-first-rarity-second-the-closed-answer-list-behind-a-rare-answer-warm-up-4hb0": {
+  "zh_title": "准确优先、稀有其次：稀有答案热身玩法背后的封闭答案表",
+  "zh_oneliner": "作者分享为“最稀有正确答案获胜”的小游戏设计答案判定机制，指出界定什么算正确答案才是设计的核心，稀有度只是计数，对做问答与竞猜类玩法的开发者有启发。",
+  "en_title": "Accuracy First, Rarity Second: The Closed Answer List Behind a Rare-Answer Warm-Up",
+  "en_oneliner": "The author shares how to design answer validation for a game where the rarest correct answer wins, arguing that deciding what counts as correct is the real design work while rarity is just counting, a useful lesson for quiz and guessing-game developers."
  }
 }
