@@ -23440,5 +23440,47 @@
   "zh_oneliner": "开发者复盘自家桥梁应力测试游戏里木桥断裂的经过，拆解失效读数背后的受力原因，并给出只花 60 英镑加固的修法。",
   "en_title": "Why a timber bridge snapped at 205 kN, and the £60 brace that fixed it",
   "en_oneliner": "The developer walks through why the timber bridge in their bridge stress-test game snapped under load, and how a £60 brace fixed it."
+ },
+ "https://www.gcores.com/articles/222719": {
+  "zh_title": "Cyberleek放出《GTA6》Xbox版.exe主程序，PC游玩或“指日可待”",
+  "zh_oneliner": "泄密者放出《GTA6》Xbox 版主程序，社区正尝试把它改造成可在 PC 上运行的版本，甚至有望突破主机版 30 帧的上限。",
+  "en_title": "Leaker Releases GTA 6 Xbox .exe, PC Play May Be 'Just Around the Corner'",
+  "en_oneliner": "A leaker has released the GTA 6 Xbox executable, and community teams are now trying to turn it into a playable PC build that could even break past the console version’s 30 fps cap."
+ },
+ "https://www.gcores.com/articles/222717": {
+  "zh_title": "疾速成长系动作RPG《愚者不灭》“最终宣传片”发布",
+  "zh_oneliner": "世嘉放出这款疾速成长系动作 RPG 的最终宣传片，僵尸主角戴维迎战最终首领，Steam 首促七五折同步开启。",
+  "en_title": "Sega Drops Final Trailer for Fast-Growth Action RPG 'Stupid Never Dies'",
+  "en_oneliner": "Sega has released the final trailer for this fast-growth action RPG, with zombie hero David facing the final boss, alongside a 25% launch discount on Steam."
+ },
+ "https://www.gcores.com/articles/222716": {
+  "zh_title": "ATLUS《女神异闻录４ Revival》最新角色信息公开",
+  "zh_oneliner": "ATLUS 公布重制版新一批角色与社群系统玩法，2027 年 2 月 18 日登陆多平台，Switch 2 版随后推出。",
+  "en_title": "ATLUS Reveals New Character Details for Persona 4 Revival",
+  "en_oneliner": "ATLUS has revealed a new batch of characters and the Social Link system for the remake, launching February 18, 2027 on multiple platforms, with a Switch 2 version to follow."
+ },
+ "https://www.gcores.com/articles/222715": {
+  "zh_title": "万代南梦宫娱乐现已开启Steam黑五特卖",
+  "zh_oneliner": "万代南梦宫 Steam 黑五特卖开跑，折扣低至一折，《空战奇兵 8》等新作首次参与打折。",
+  "en_title": "Bandai Namco Kicks Off Steam Black Friday Sale",
+  "en_oneliner": "Bandai Namco’s Steam Black Friday sale is live with discounts as deep as 90% off, including first-time deals on Ace Combat 8 and other new releases."
+ },
+ "https://www.gcores.com/radios/222714": {
+  "zh_title": "星海悲歌，聊聊星际争霸的回忆与故事",
+  "zh_oneliner": "一期以星际争霸模型战棋发货为引子的怀旧节目，聊老玩家的回忆与凯瑞甘等人的史诗。",
+  "en_title": "A Lament for the Stars: Memories and Stories of StarCraft",
+  "en_oneliner": "A nostalgic episode sparked by the StarCraft tabletop miniatures game shipping, revisiting old players’ memories and the saga of Kerrigan and friends."
+ },
+ "https://dev.to/jiawenzhang/engine-ready-texture-maps-from-one-photo-a-checklist-for-unreal-unity-and-godot-2ekc": {
+  "zh_title": "一张照片做出引擎可用的贴图：Unreal、Unity 与 Godot 通用检查清单",
+  "zh_oneliner": "一张照片就能起步，但引擎要的是一整套法线、高度、粗糙度与 AO 贴图，这篇清单讲了如何不踩坑地做出这四张图。",
+  "en_title": "Engine-Ready Texture Maps From One Photo: A Checklist for Unreal, Unity and Godot",
+  "en_oneliner": "One photo is enough to start, but engines want a full set of normal, height, roughness and AO maps — this checklist shows how to produce all four without the usual pitfalls."
+ },
+ "https://dev.to/shenoy18/how-online-2-player-works-in-a-browser-fighting-game-lockstep-netcode-on-a-5-server-4f5a": {
+  "zh_title": "浏览器格斗游戏的双人联机怎么做：5 美元服务器上的锁步同步",
+  "zh_oneliner": "一款浏览器格斗游戏用锁步同步实现双人对战，服务器只转发输入而不跑模拟，5 美元的小服务器就能撑起来。",
+  "en_title": "How online 2-player works in a browser fighting game: lockstep netcode on a $5 server",
+  "en_oneliner": "A browser fighting game runs two-player matches on lockstep netcode, with the server relaying inputs instead of simulating the fight, so a $5 server is all it takes."
  }
 }
