@@ -24502,5 +24502,23 @@
   "zh_oneliner": "Alinea Analytics 的估算显示，GTA 6 发售大幅拉低了《使命召唤》的日活玩家，四天后仍未恢复。",
   "en_title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
   "en_oneliner": "Alinea Analytics estimates GTA 6's launch knocked Call of Duty's daily players down 42 percent, and four days on, the player base still hasn't recovered."
+ },
+ "https://gamefromscratch.com/unity-urp-graphics-improvements": {
+  "zh_title": "Unity URP 图形改进一览",
+  "zh_oneliner": "Unity 在 Unite Tokyo 上展示了 Unity 6.7 与 Unity 7 中通用渲染管线（URP）即将带来的图形改进，并发布了展示这些新特性的示例项目 Atrio，其中包括可实现动态间接漫反射的 Surface Cache GI。",
+  "en_title": "Unity URP Graphics Improvements",
+  "en_oneliner": "Unity showed off upcoming Universal Render Pipeline improvements for Unity 6.7 and Unity 7 at Unite Tokyo, and released a new URP sample, Atrio, showcasing features such as Surface Cache GI for dynamic indirect diffuse lighting."
+ },
+ "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6": {
+  "zh_title": "CD Projekt Red 称《巫师 3》到《巫师 4》的飞跃堪比 GTA 5 到 GTA 6",
+  "zh_oneliner": "CD Projekt Red 表示，从《巫师 3》到《巫师 4》的品质与技术跨越，将与 GTA 5 到 GTA 6 之间的飞跃相当。",
+  "en_title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+  "en_oneliner": "CD Projekt Red says players can expect a qualitative and technological leap from The Witcher 3 to The Witcher 4 comparable to the one between GTA 5 and GTA 6."
+ },
+ "https://www.pocketgamer.biz/uk-developers-can-now-claim-part-of-260m-google-settlement": {
+  "zh_title": "英国开发者现可申领 Google 2.6 亿英镑和解金的一部分",
+  "zh_oneliner": "英国手游开发者与发行商现可申领 Google 2.6 亿英镑集体诉讼和解金的一部分，该案指控 Google Play 30% 的抽成过高、违反竞争法，和解方案已于 2026 年 9 月 16 日获法庭批准。",
+  "en_title": "UK Developers can now claim part of £260m Google settlement",
+  "en_oneliner": "UK-based mobile game developers and publishers can now claim a share of Google's £260 million class-action settlement, which centred on claims that Google Play's 30% commission was excessive and breached competition law."
  }
 }
