@@ -23644,5 +23644,29 @@
   "zh_oneliner": "讲清不同 FPS 游戏如何把鼠标移动换算成视角转动，帮你把灵敏度在各款游戏间对齐。",
   "en_title": "The Math Behind Mouse Sensitivity Conversion in FPS Games",
   "en_oneliner": "Explains how different FPS games convert mouse movement into camera rotation, so you can match your sensitivity across titles."
+ },
+ "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc": {
+  "zh_title": "泄露的 GTA 6 Xbox 完整版已被移植到 PC 上运行",
+  "zh_oneliner": "泄露者 CyberLeek 补齐此前扣留的可执行文件后，GTA 6 的 Xbox 泄露版已被 modder 搬上 PC 运行，感兴趣的开发者可以借此观察这款未发售大作的实际技术形态。",
+  "en_title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+  "en_oneliner": "After leaker CyberLeek released the executable it had held back, modders have got the leaked Xbox build of GTA 6 running on PC, giving developers a look at how the unreleased blockbuster is put together."
+ },
+ "https://www.pocketgamer.biz/who-will-you-meet-at-pg-connects-london-2027": {
+  "zh_title": "PG Connects London 2027 将迎来哪些参会者？",
+  "zh_oneliner": "PG Connects London 2027 将于 2027 年 1 月 18 日至 19 日举行，预计吸引 70 多个国家的 3000 多名参会者，其中近七成是游戏开发者，是独立团队拓展发行与合作人脉的场合。",
+  "en_title": "Who will you meet at PG Connects London 2027?",
+  "en_oneliner": "PG Connects London 2027 returns on January 18-19, 2027, expecting 3,000+ attendees from 70+ countries, nearly 70% of them game makers, a useful place for indie teams to meet publishers and partners."
+ },
+ "https://dev.to/seed_map_0edb4c28effd76e5/how-minecraft-seeds-work-reimplementing-java-random-in-python-5bd7": {
+  "zh_title": "《我的世界》种子是如何工作的：用 Python 复现 Java Random",
+  "zh_oneliner": "在《我的世界》里输入同一个数字总会生成同一个世界，背后是一个古老而简单的随机数生成器，作者用一段 Python 代码复现了它，适合想给自己游戏做确定性随机生成的开发者参考。",
+  "en_title": "How Minecraft Seeds Work: Reimplementing Java Random in Python",
+  "en_oneliner": "Type the same number into Minecraft's world creation screen and you always get the same world; the author re-implements the old, simple random number generator behind that determinism in Python, a handy reference for developers building deterministic generation into their own games."
+ },
+ "https://www.gcores.com/articles/222731": {
+  "zh_title": "《仁王3》DLC第二弹“天草大乱”将于12月17日发售",
+  "zh_oneliner": "光荣特库摩宣布《仁王3》第二部付费 DLC“天草大乱”将于 12 月 17 日推出，新场景岛原登场并收束首部 DLC 留下的阴谋，同时将发售收录本体与两部 DLC 的完全版。",
+  "en_title": "Nioh 3's Second DLC \"Amakusa Rebellion\" Launches December 17",
+  "en_oneliner": "Koei Tecmo has announced that Nioh 3's second paid DLC, \"Amakusa Rebellion,\" arrives December 17, adding the new Shimabara stage and concluding the first DLC's conspiracy, alongside a complete edition bundling the base game and both DLCs."
  }
 }
