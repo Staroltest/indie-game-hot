@@ -23620,5 +23620,29 @@
   "zh_oneliner": "用 Blender 还原二战战机 P47 雷电，从建模到渲染的完整流程拆解。",
   "en_title": "Warbird P47 Thunderbolt – From Model to Render",
   "en_oneliner": "Recreating the WWII P47 Thunderbolt fighter in Blender, with a full breakdown of the workflow from modeling to render."
+ },
+ "https://www.gcores.com/radios/222725": {
+  "zh_title": "攒机佬的哀嚎，录音笔VOL.832",
+  "zh_oneliner": "机核办公室闲聊节目本期聊攒机人的种种哀嚎，十几分钟的碎碎念与真实日常对话。",
+  "en_title": "The PC Builder's Lament, Voice Recorder VOL.832",
+  "en_oneliner": "This episode of GCORES' office chat show is all about the woes of PC builders — a dozen minutes of rambling and candid everyday conversation."
+ },
+ "https://www.yystv.cn/p/14669": {
+  "zh_title": "黄仁勋「回宫」，游戏行业松了一口气？",
+  "zh_oneliner": "英伟达董事会恢复黄仁勋总裁与 CEO 职务，十一天的辞职风波迎来反转，游戏业松了一口气。",
+  "en_title": "Jensen Huang 'Returns to the Throne' — the Games Industry Breathes a Sigh of Relief",
+  "en_oneliner": "NVIDIA's board has reinstated Jensen Huang as president and CEO, ending an eleven-day resignation saga with a sharp reversal — and the games industry can breathe again."
+ },
+ "https://dev.to/safak_avci_40a85e276c10b5/how-we-score-puzzle-level-difficulty-with-two-simple-bots-dart-4k1l": {
+  "zh_title": "用两个简单机器人给解谜关卡难度打分（Dart）",
+  "zh_oneliner": "小团队用两个简单机器人自动评估 2000 个消除关卡的难度，让每一关都像精心设计过一样。",
+  "en_title": "How we score puzzle level difficulty with two simple bots (Dart)",
+  "en_oneliner": "A tiny team uses two simple bots to automatically score the difficulty of 2,000 match-and-pop levels, so every level still feels hand-designed."
+ },
+ "https://dev.to/sgamer_560ef5490592e4dc9/the-math-behind-mouse-sensitivity-conversion-in-fps-games-4hgn": {
+  "zh_title": "FPS 游戏鼠标灵敏度换算背后的数学",
+  "zh_oneliner": "讲清不同 FPS 游戏如何把鼠标移动换算成视角转动，帮你把灵敏度在各款游戏间对齐。",
+  "en_title": "The Math Behind Mouse Sensitivity Conversion in FPS Games",
+  "en_oneliner": "Explains how different FPS games convert mouse movement into camera rotation, so you can match your sensitivity across titles."
  }
 }
