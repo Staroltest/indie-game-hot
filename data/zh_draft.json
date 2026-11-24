@@ -23704,5 +23704,23 @@
   "zh_oneliner": "作者分享为“最稀有正确答案获胜”的小游戏设计答案判定机制，指出界定什么算正确答案才是设计的核心，稀有度只是计数，对做问答与竞猜类玩法的开发者有启发。",
   "en_title": "Accuracy First, Rarity Second: The Closed Answer List Behind a Rare-Answer Warm-Up",
   "en_oneliner": "The author shares how to design answer validation for a game where the rarest correct answer wins, arguing that deciding what counts as correct is the real design work while rarity is just counting, a useful lesson for quiz and guessing-game developers."
+ },
+ "https://dev.to/reodesuxz/build-a-realistic-japanese-countryside-scene-in-godot-4-no-modeling-required-31mc": {
+  "zh_title": "在 Godot 4 里搭建逼真的日本乡村场景——无需自己建模",
+  "zh_oneliner": "用现成 PBR 素材包加一段 GDScript 散布脚本，20 分钟在 Godot 4 里拼出一角有茅草农舍、梯田和神社的日式乡村场景，关键是所有素材共用真实世界比例。",
+  "en_title": "Build a Realistic Japanese Countryside Scene in Godot 4 — No Modeling Required",
+  "en_oneliner": "Assemble a realistic Japanese countryside corner in Godot 4 from ready-made PBR asset packs plus one GDScript scatter script — the trick is that every pack shares real-world scale, so farmhouse, shrine and bus stop all land at the right sizes with no rescaling."
+ },
+ "https://www.nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking": {
+  "zh_title": "英国销量榜：没有光盘也没关系——GTA 6 把塞尔达又往下挤了一位",
+  "zh_oneliner": "GTA 6 首周登顶英国实体销量榜，即便所谓实体版没有光盘也没挡住销量，塞尔达传说：时之笛则被挤到第三。",
+  "en_title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+  "en_oneliner": "GTA 6 topped the UK physical sales chart in its debut week despite shipping without a disc, pushing Ocarina of Time down to third behind EA Sports FC 27."
+ },
+ "https://mobilegamer.biz/googles-338m-uk-developer-settlement-opens-for-claims": {
+  "zh_title": "Google 3.38 亿美元英国开发者和解案开放索赔",
+  "zh_oneliner": "Google 与英国开发者达成的 3.38 亿美元和解已开放索赔，符合条件的开发者至少能拿到 260 美元。",
+  "en_title": "Google’s $338m UK developer settlement opens for claims",
+  "en_oneliner": "Claims are now open under Google’s $338m settlement with UK developers, with every eligible developer guaranteed at least $260."
  }
 }
