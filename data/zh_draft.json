@@ -23746,5 +23746,47 @@
   "zh_oneliner": "GTA 6 发售头几天，英国移动端动作与策略类游戏消费下滑 24.5%，整个英国手游市场的内购收入也跌了 10.5%，不过玩家活跃度只降了 2.8%。",
   "en_title": "UK mobile action and strategy game spending falls 24.5% following GTA 6 launch",
   "en_oneliner": "UK mobile action and strategy game spending fell 24.5% in the first days after the GTA 6 launch, with overall in-app purchase revenue down 10.5% while sessions dipped only 2.8%."
+ },
+ "https://80.lv/articles/gta-6-player-discovers-easter-egg-that-lets-you-travel-back-in-time": {
+  "zh_title": "GTA 6 玩家发现可穿越回过去的彩蛋",
+  "zh_oneliner": "玩家在《GTA 6》中发现一处彩蛋，可以把时间拨回过去，向系列前作致敬。",
+  "en_title": "GTA 6 Player Discovers Easter Egg That Lets You Travel Back In Time",
+  "en_oneliner": "A player found an Easter egg in GTA 6 that lets you travel back in time, a nod to the series' past."
+ },
+ "https://80.lv/articles/gta-6-hacker-who-pleaded-guilty-is-released-on-license": {
+  "zh_title": "认罪的 GTA 6 黑客获假释出狱",
+  "zh_oneliner": "当年入侵 Rockstar 泄露《GTA 6》的黑客 Arion Kurtaj 已获假释，法官将其住院与羁押时间计入刑期。",
+  "en_title": "GTA 6 Hacker Who Pleaded Guilty Is Released on License",
+  "en_oneliner": "Arion Kurtaj, the hacker behind the Rockstar breach that leaked GTA 6, has been released on license after the judge counted his time in hospital and on remand."
+ },
+ "https://gamedev.net/blogs/entry/2298717-keeping-browser-strategy-matches-fast-turn-clocks-fog-of-war-anti-stall-bots": {
+  "zh_title": "让浏览器策略对局保持快节奏：回合时钟、战争迷雾与防拖延机器人",
+  "zh_oneliner": "开发者分享为浏览器科幻策略游戏 Aethelgard 做的节奏优化：回合时钟、战争迷雾与防拖延机器人如何让多人对局不拖沓。",
+  "en_title": "Keeping Browser Strategy Matches Fast: Turn Clocks, Fog of War & Anti-Stall Bots",
+  "en_oneliner": "The developers of browser strategy game Aethelgard share how turn clocks, fog of war, and anti-stall bots keep multiplayer matches moving."
+ },
+ "http://www.chuapp.com/article/291787.html": {
+  "zh_title": "许多人批评《GTA 6》，但这重要吗？",
+  "zh_oneliner": "文章梳理《GTA 6》发售后的舆论风暴，分析剧情与玩法两方面的批评从何而来，又为何难以撼动这款游戏。",
+  "en_title": "Many Criticize GTA 6 — But Does It Matter?",
+  "en_oneliner": "This piece unpacks the storm of criticism around GTA 6 after launch, tracing where the complaints about story and gameplay come from and why they barely dent the game."
+ },
+ "https://dev.to/devgirl01/are-there-devs-that-loves-gaming-3a1i": {
+  "zh_title": "有热爱游戏的开发者吗",
+  "zh_oneliner": "一位开发者发问：做游戏的人里，还有多少是真心热爱玩游戏的？",
+  "en_title": "Are there Devs that loves gaming",
+  "en_oneliner": "A developer asks a simple question: among people who make games, how many still genuinely love playing them?"
+ },
+ "https://dev.to/startupcafe/variations-of-interaction-shaders-5f20": {
+  "zh_title": "交互着色器的多种变化",
+  "zh_oneliner": "作者在 UE5 试错系列中尝试多种交互着色器，让场景中的可互动对象更醒目。",
+  "en_title": "Variations of interaction Shaders",
+  "en_oneliner": "The author experiments with interaction shader variations in a UE5 trial-and-error series, finding ways to make interactive objects stand out in the scene."
+ },
+ "https://www.eurogamer.net/warhammer-40000-boltgun-2-now-playing": {
+  "zh_title": "《战锤 40K：爆矢枪 2》把系列血腥荒诞的一面展现得淋漓尽致",
+  "zh_oneliner": "评测认为《Boltgun 2》精准抓住了战锤 40K 那种严肃与荒诞并存的气质，玩起来血浆横飞又自带幽默。",
+  "en_title": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
+  "en_oneliner": "The review argues Boltgun 2 captures Warhammer 40,000's blend of grim solemnity and bloody absurdity better than anything else in the franchise."
  }
 }
