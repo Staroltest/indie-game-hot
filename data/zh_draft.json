@@ -23482,5 +23482,23 @@
   "zh_oneliner": "一款浏览器格斗游戏用锁步同步实现双人对战，服务器只转发输入而不跑模拟，5 美元的小服务器就能撑起来。",
   "en_title": "How online 2-player works in a browser fighting game: lockstep netcode on a $5 server",
   "en_oneliner": "A browser fighting game runs two-player matches on lockstep netcode, with the server relaying inputs instead of simulating the fight, so a $5 server is all it takes."
+ },
+ "https://dev.to/albeekcoder/i-built-9-tiny-puzzle-games-that-run-in-your-browser-no-installs-4db8": {
+  "zh_title": "我做了 9 款无需安装、浏览器里就能玩的迷你益智游戏",
+  "zh_oneliner": "作者用几周时间做了 9 款单文件网页益智小游戏，免安装、免注册、无广告，独立开发者可以参考这种轻量上线的思路。",
+  "en_title": "I built 9 tiny puzzle games that run in your browser, no installs",
+  "en_oneliner": "The author built nine single-file puzzle games that run entirely in the browser — no installs, no sign-ups, no ads — a lightweight release approach indie devs can learn from."
+ },
+ "https://dev.to/mympgames/how-i-built-60-real-time-multiplayer-browser-games-with-instant-room-links-and-zero-sign-up-wall-3hin": {
+  "zh_title": "我是怎么做 60 多款实时多人浏览器游戏的：即开房间链接、零注册门槛",
+  "zh_oneliner": "作者分享了做 60 多款实时多人网页游戏的经验，靠即开房间链接去掉注册墙，让五分钟一局的棋牌小游戏随时能和异地朋友开玩。",
+  "en_title": "How I built 60+ real-time multiplayer browser games with instant room links (and zero sign-up wall)",
+  "en_oneliner": "The author shares how they built 60+ real-time multiplayer browser games with instant room links and no sign-up wall, so a quick five-minute match with a faraway friend takes no setup."
+ },
+ "https://www.nintendolife.com/news/2026/11/heres-another-look-at-the-zelda-ocarina-of-time-amiibo-for-switch-2": {
+  "zh_title": "《塞尔达传说：时之笛》Switch 2 版 amiibo 再曝新图",
+  "zh_oneliner": "任天堂 2027 年将推出两款《时之笛》Switch 2 重制版主题 amiibo，本文放出了其中一款的最新实物图。",
+  "en_title": "Here's Another Look At The Zelda: Ocarina Of Time amiibo For Switch 2",
+  "en_oneliner": "Nintendo will release two Ocarina of Time amiibo for the Switch 2 remake in 2027, and this article shows a fresh look at one of them."
  }
 }
