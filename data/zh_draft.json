@@ -23572,5 +23572,53 @@
   "zh_oneliner": "前《龙腾世纪》主创 Mark Darrah 复盘 BioWare 的关闭：EA 给出的几条路都不理想，工作室最终选了其中“最不糟糕”的一条。",
   "en_title": "Ex-Dragon Age Lead on What Led to BioWare's Closure",
   "en_oneliner": "Former Dragon Age lead Mark Darrah revisits BioWare’s closure, explaining that EA’s options were all bad and the studio picked the “least terrible” one."
+ },
+ "https://gamedev.net/blogs/entry/2298719-a-unity-performance-pass-for-mid-range-phones-an-eight-point-review": {
+  "zh_title": "Unity 中端手机性能优化八点复盘",
+  "zh_oneliner": "针对中端机型的 Unity 性能优化清单，八个检查点帮手游在老设备上稳住帧率与留存。",
+  "en_title": "A Unity Performance Pass for Mid-Range Phones: An Eight-Point Review",
+  "en_oneliner": "A Unity performance checklist for mid-range phones — eight checkpoints to keep frame rates and retention steady on older devices."
+ },
+ "https://www.yystv.cn/p/14668": {
+  "zh_title": "等了这么久，《燕云十六声》的官方DLSS 5优化有什么不一样",
+  "zh_oneliner": "《燕云十六声》官方 DLSS 5 版本即将上线，聊聊它和民间工具相比到底优化了什么。",
+  "en_title": "After Such a Long Wait, What's Different About the Official DLSS 5 Update for Where Winds Meet",
+  "en_oneliner": "Where Winds Meet is finally getting its official DLSS 5 build — a look at what it improves over the community workarounds players have been using."
+ },
+ "https://www.yystv.cn/p/14667": {
+  "zh_title": "动视要专门收集玩家语录，来训练AI喷人？",
+  "zh_oneliner": "动视被曝收集玩家语音来训练 AI，用玩家自己的语气回敬玩家，聊聊这事背后的尺度问题。",
+  "en_title": "Is Activision Collecting Player Voice Lines to Train an AI That Talks Trash Back?",
+  "en_oneliner": "Activision is reportedly collecting player voice chat to train an AI that trash-talks back in players' own words — a look at where that line sits."
+ },
+ "https://www.yystv.cn/p/14665": {
+  "zh_title": "一人团队花五年时间做了款末日题材独游，终于把首尔「毁灭」了",
+  "zh_oneliner": "一人团队花五年做出的末日独游《追逐末日之光》，讲小行星撞击前六个月里首尔的最后时光。",
+  "en_title": "A Solo Dev Spent Five Years Making an Apocalyptic Indie Game — and Finally Destroyed Seoul",
+  "en_oneliner": "A solo developer spent five years building Goodbye Seoul, an apocalyptic indie game about the last six months before an asteroid hits the city."
+ },
+ "https://www.yystv.cn/p/14666": {
+  "zh_title": "母亲离世13年后，女儿发现她曾是一位少女同人画家",
+  "zh_oneliner": "母亲去世十三年后，女儿从外婆口中得知她曾是同人画家，一段关于记忆与创作的动人故事。",
+  "en_title": "Thirteen Years After Her Mother's Death, a Daughter Discovers She Was Once a Shoujo Doujin Artist",
+  "en_oneliner": "Thirteen years after her mother's death, a daughter learns from her grandmother that her mother once drew doujin manga — a moving story about memory and creation."
+ },
+ "https://dev.to/sasakidevtools/why-ue5-starts-japanese-lines-with-tu-or-and-a-line-break-iterator-that-fixes-it-28i6": {
+  "zh_title": "为什么 UE5 会把日文行首断在「ッ」或「ー」上（以及一个修好它的换行迭代器）",
+  "zh_oneliner": "UE5 默认换行会把日文小假名留在行首，作者写了个换行迭代器来修这个容易被忽略的文本排版问题。",
+  "en_title": "Why UE5 starts Japanese lines with ッ or ー (and a line break iterator that fixes it)",
+  "en_oneliner": "UE5's default text wrapping can leave small kana like ッ or ー at the start of a line — the author built a line break iterator to fix this easy-to-miss typesetting bug."
+ },
+ "https://dev.to/sasakidevtools/why-japanese-text-turns-into-tofu-boxes-only-in-packaged-unreal-engine-5-builds-91c": {
+  "zh_title": "为什么日文只在打包后的 UE5 版本里变成方块字",
+  "zh_oneliner": "编辑器里正常显示的日文，打包后却变成方块字，一位日本独立开发者追踪了这个字体问题的根源。",
+  "en_title": "Why Japanese text turns into tofu boxes only in packaged Unreal Engine 5 builds",
+  "en_oneliner": "Japanese text that renders fine in the editor turns into tofu boxes in packaged UE5 builds — a solo dev in Japan traces the font issue to its root."
+ },
+ "https://www.blendernation.com/2026/11/24/warbird-p47-thunderbolt-from-model-to-render": {
+  "zh_title": "战机 P47 雷电：从建模到渲染",
+  "zh_oneliner": "用 Blender 还原二战战机 P47 雷电，从建模到渲染的完整流程拆解。",
+  "en_title": "Warbird P47 Thunderbolt – From Model to Render",
+  "en_oneliner": "Recreating the WWII P47 Thunderbolt fighter in Blender, with a full breakdown of the workflow from modeling to render."
  }
 }
