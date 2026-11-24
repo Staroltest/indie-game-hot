@@ -24628,5 +24628,17 @@
   "zh_oneliner": "一名《Among Us》玩家与母亲通过游戏结识一名少女、转到 Discord 继续联系，最终帮助找到了这名失踪一年多女孩的下落。",
   "en_title": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
   "en_oneliner": "An Among Us player and his mom befriended a girl through the game, kept talking on Discord, and ultimately helped locate the kidnapped girl who had been missing for more than a year."
+ },
+ "https://dev.to/rustlite/rustlite-a-free-companion-toolkit-for-the-game-rust-2mdc": {
+  "zh_title": "为游戏伴侣工具打造的零 JS 静态站：Cloudflare 上的 RustLite",
+  "zh_oneliner": "作者拆解如何用六个 HTML 页面、一个不到 3KB 的 CSS 文件和零脚本，在 Cloudflare Pages 上为生存游戏 Rust 的免费伴侣工具 RustLite 搭出一个又快又好收录的品牌主页。",
+  "en_title": "A Zero-JS Static Site for a Game Companion on Cloudflare",
+  "en_oneliner": "The author breaks down how six HTML pages, a sub-3KB CSS file and zero scripts on Cloudflare Pages make a fast, crawlable brand hub for RustLite, a free companion toolkit for the survival game Rust."
+ },
+ "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you": {
+  "zh_title": "《Marathon》新跑者外壳：喷气推进的机器人武士，专为伤害你而来",
+  "zh_oneliner": "PC Gamer 介绍《Marathon》的新跑者外壳——一个喷气推进的机器人武士，造型凶悍，专为近战杀伤而生。",
+  "en_title": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
+  "en_oneliner": "PC Gamer introduces Marathon's new runner shell — a jet-propelled robot samurai built to hurt you up close."
  }
 }
