@@ -23992,5 +23992,107 @@
   "zh_oneliner": "热门移动端雕刻工具 Nomad Sculpt 要上 Steam 了，桌面端也能直接雕刻，记得先加愿望单。",
   "en_title": "3D Sculpting App Nomad Sculpt Is Coming To Steam",
   "en_oneliner": "The popular mobile sculpting app Nomad Sculpt is coming to Steam, bringing its sculpting tools to the desktop — wishlist it now."
+ },
+ "https://www.rockpapershotgun.com/action-rpg-showa-american-story-seemingly-delayed-into-2027-with-no-comment-on-why-from-developer-nekcom": {
+  "zh_title": "动作 RPG《Showa American Story》疑似延期至 2027 年，开发商 NEKCOM 未作解释",
+  "zh_oneliner": "这款 2022 年公布的动作 RPG 原定 2025 年发售，后改到 2026 年底，如今 Steam 页面上的日期悄悄滑到了 2027 年，官方至今没有说明原因。",
+  "en_title": "Action RPG Showa American Story seemingly delayed into 2027, with no comment on why from developer NEKCOM",
+  "en_oneliner": "Announced in 2022 for a 2025 release and later pushed to late 2026, the action RPG's Steam page now lists 2027 instead, with the developer saying nothing about why."
+ },
+ "https://www.indiedb.com/games/dwelvers/news/dwelvers-reborn-is-out-now": {
+  "zh_title": "《Dwelvers Reborn》现已发售",
+  "zh_oneliner": "重制一年后归来：新增敌对 AI 领主与全新战役开局，画面全面翻新；已拥有原作的玩家免费获得，12 月 8 日前新玩家五折。",
+  "en_title": "Dwelvers Reborn is out now",
+  "en_oneliner": "A year-long rebuild brings rival AI Wardens, a fresh campaign opening and a new look; owners of the original get it free, and newcomers pay half price until December 8."
+ },
+ "https://www.indiedb.com/games/dragon-heart-rescue-luna/news/dragon-heart-rescue-luna-is-now-playable-free-in-browser": {
+  "zh_title": "《Dragon Heart: Rescue Luna》现已可在浏览器免费游玩",
+  "zh_oneliner": "无需安装，桌面与手机浏览器打开即玩：组建队伍、强化英雄与龙伙伴，迎战一波波怪物去营救 Luna。",
+  "en_title": "Dragon Heart: Rescue Luna is Now Playable Free in Browser!",
+  "en_oneliner": "It runs straight in a desktop or mobile browser with nothing to install: assemble a party, power up heroes and dragon allies, and battle through monster waves to save Luna."
+ },
+ "https://dev.to/mincho_milev_c7753077d5af/visualizing-king-and-pawn-endgame-geometry-in-the-browser-square-of-the-pawn-opposition-and-key-2726": {
+  "zh_title": "在浏览器里可视化王兵残局几何：兵的方形法则、对位与关键格",
+  "zh_oneliner": "作者做了一套浏览器端残局可视化工具，把兵升变路上的方形法则、对位关系和关键格画出来，让学习者拖动棋子试走“如果黑方走 Kf6 会怎样”。",
+  "en_title": "Visualizing King-and-Pawn Endgame Geometry in the Browser: Square of the Pawn, Opposition, and Key Squares",
+  "en_oneliner": "The author built browser-based endgame visualizers that draw the square of the pawn, opposition and key squares, so learners can drag pieces around and test what happens if Black plays differently."
+ },
+ "https://dev.to/freeportgg/how-we-fight-fraud-on-a-marketplace-for-game-gold-items-and-accounts-lm7": {
+  "zh_title": "我们如何在一个游戏金币、道具与账号交易平台上反欺诈",
+  "zh_oneliner": "买卖双方互不相识、金币流转快而游戏内道具流转慢，作者分享了他们搭建的反欺诈规则，以及每条规则让诚实卖家付出的代价。",
+  "en_title": "How we fight fraud on a marketplace for game gold, items and accounts",
+  "en_oneliner": "Money changes hands quickly while in-game items crawl, so the author lays out the marketplace's defenses against fraud and the burden each one places on legitimate sellers."
+ },
+ "https://dev.to/parallaxgrain/how-does-anti-cheat-work-what-the-driver-sees-and-what-a-tpm-proves-2kdi": {
+  "zh_title": "反作弊是怎么工作的？驱动能看到什么，TPM 又能证明什么",
+  "zh_oneliner": "从内核驱动到 TPM 与安全启动，文章拆解了反作弊层层加码的攻防链，并指出即便如此，服务器依然无法知道玩家电脑上实际插着什么、比赛进行时跑着什么。",
+  "en_title": "How Does Anti-Cheat Work? What the Driver Sees and What a TPM Proves",
+  "en_oneliner": "From kernel drivers to TPM and Secure Boot, the piece traces how anti-cheat escalates its defenses and why a server still cannot tell what hardware is attached to a player's PC or what is running mid-match."
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/press-cross-the-overlay-lights-circle-what-the-gamepad-api-hands-you-over-bluetooth-150l": {
+  "zh_title": "按下叉键，屏幕上却亮起圆圈：蓝牙手柄交给 Gamepad API 的是什么",
+  "zh_oneliner": "规范承诺标准映射下按键位置固定不变，但遇到未识别设备时映射为空字符串，作者拆解了蓝牙手柄在各浏览器与系统组合下的实际按键乱序问题。",
+  "en_title": "Press Cross, the overlay lights Circle: what the Gamepad API hands you over Bluetooth",
+  "en_oneliner": "The spec promises a fixed button layout for standard mappings, but unrecognized devices report an empty mapping, and the author unpacks how Bluetooth pads actually misreport buttons across browsers and systems."
+ },
+ "https://dev.to/aniganesh/how-i-turned-meowdoku-screenshots-into-step-by-step-hints-53ij": {
+  "zh_title": "我如何把 Meowdoku 截图变成一步步的解题提示",
+  "zh_oneliner": "关卡编号会随版本更新错位，作者干脆让解题器直接读截图，把棋盘还原成区域矩阵，再按行、列与彩色区域的规则给出可自己接着玩的提示。",
+  "en_title": "How I turned Meowdoku screenshots into step-by-step hints",
+  "en_oneliner": "Level numbers shift when updates rearrange puzzles, so the author built a solver that reads screenshots directly, rebuilds the board as a region matrix, and offers hints that let the player finish the puzzle themselves."
+ },
+ "https://www.eurogamer.net/nintendo-switch-update-version-2-2-0-borders": {
+  "zh_title": "今日 Nintendo Switch Online 更新终于带来了玩家自 2018 年起就想要的功能",
+  "zh_oneliner": "任天堂经典游戏 GameCube 应用随 2.2.0 版本更新加入了一个玩家多年来一直呼吁的小改动。",
+  "en_title": "Today's Nintendo Switch Online update finally introduces a feature players have been asking for since 2018",
+  "en_oneliner": "The Nintendo Classics GameCube app's version 2.2.0 update adds a small but long-requested change players have been asking for since 2018."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish": {
+  "zh_title": "非官方 GTA 6 PC 移植项目受挫，Rockstar 疑似下架了大型反编译项目 Project Leonida",
+  "zh_oneliner": "过去 24 小时里，致力于让 GTA 6 登陆 PC 的社区接连遭遇变故，Rockstar 似乎出手叫停了互联网上最大的反编译项目之一。",
+  "en_title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+  "en_oneliner": "In the last 24 hours, the community working to bring Grand Theft Auto 6 to PC took a major blow as Rockstar seemingly took down one of the internet's biggest recompilation projects."
+ },
+ "https://www.pocketgamer.biz/what-10-years-of-mlbb-taught-moonton-about-europe": {
+  "zh_title": "“游戏必须与玩家一起成长”：Moonton 谈《Mobile Legends》十年与欧洲市场",
+  "zh_oneliner": "迎来十周年、月活 1.1 亿的《Mobile Legends: Bang Bang》制作人复盘了这款手游 MOBA 如何跟着玩家一起长大，以及它在欧洲市场的经验。",
+  "en_title": "\"A game must grow with its players\": What 10 years of Mobile Legends taught Moonton about Europe",
+  "en_oneliner": "Ten years on, with 110 million people playing every month, the producer of Mobile Legends: Bang Bang reflects on how the mobile MOBA grew alongside its players and what it learned in Europe."
+ },
+ "https://www.pocketgamer.biz/angry-birds-2-promotes-the-angry-birds-movie-3-with-in-game-character-and-aspca-charity-campaign": {
+  "zh_title": "《Angry Birds 2》联动《愤怒的小鸟大电影 3》，推出新角色与 ASPCA 慈善活动",
+  "zh_oneliner": "为配合 12 月 23 日上映的电影，蜘蛛角色 Fuzzy 今日加入游戏带来吐丝拉倒建筑的新玩法，同时联动动物保护组织 ASPCA 开展慈善活动。",
+  "en_title": "Angry Birds 2 promotes The Angry Birds Movie 3 with in-game character and ASPCA charity campaign",
+  "en_oneliner": "Ahead of the film's December 23 release, the spider Fuzzy joins the game as a playable character with web-shooting mechanics, alongside a charity campaign with the ASPCA."
+ },
+ "https://www.nintendolife.com/reviews/nintendo-switch-2/kuloniku-bowl-up": {
+  "zh_title": "迷你评测：《KuloNiku: Bowl Up!》（Switch 2）——令人满足的触感烹饪模拟",
+  "zh_oneliner": "这款烹饪模拟游戏把做饭的每一步都做得扎实又有手感，评测者认为它正是那种能让人沉浸一整天的轻松小品。",
+  "en_title": "Mini Review: KuloNiku: Bowl Up! (Switch 2) - A Satisfying, Tactile Cooking Sim",
+  "en_oneliner": "This cooking sim makes every step of preparing a meal feel tactile and satisfying, the kind of easygoing little game you can happily sink a whole day into."
+ },
+ "https://www.thegamebusiness.com/p/ken-kutaragi-i-wanted-microsoft-to": {
+  "zh_title": "久多良木健：我曾希望微软来做 Xbox，而且我爱任天堂",
+  "zh_oneliner": "PlayStation 之父久多良木健接受 The Game Business 专访，聊了他对微软与任天堂的看法。",
+  "en_title": "Ken Kutaragi: I wanted Microsoft to make the Xbox, and I love Nintendo",
+  "en_oneliner": "The father of PlayStation talks to The Game Business about Microsoft, Nintendo, and the early days of the console wars."
+ },
+ "https://gamedev.net/blogs/entry/2298721-the-free-demo-of-tbs-game-virtualord-is-out": {
+  "zh_title": "回合制策略游戏《Virtualord》免费试玩版已发布",
+  "zh_oneliner": "作者的首个商业项目《Virtualord》登上 Steam，免费试玩版现已支持 Windows 与 Linux。",
+  "en_title": "The free demo of TBS game Virtualord is out!",
+  "en_oneliner": "The author's first commercial project, the turn-based strategy game Virtualord, is now on Steam with a free demo for Windows and Linux."
+ },
+ "https://dev.to/simulatedsphere/which-is-the-best-game-engine-unity-unreal-or-godot-26pi": {
+  "zh_title": "哪个游戏引擎最好：Unity、Unreal 还是 Godot？",
+  "zh_oneliner": "没有放之四海皆准的“最好引擎”，只有最适合特定团队规模与项目形态的引擎，作者按双人手游小队到 20 人系统向团队等场景逐一对照。",
+  "en_title": "Which Is the Best Game Engine: Unity, Unreal, or Godot?",
+  "en_oneliner": "There is no universal best engine, only the best fit for a given team size and production shape, and the author compares Unity, Unreal and Godot across scenarios from a two-person mobile team to a 20-person systems-heavy crew."
+ },
+ "https://dev.to/koiworld_dev/how-i-draw-koi-in-canvas-2d-without-sprites-3p75": {
+  "zh_title": "我如何不用贴图在 Canvas 2D 里画锦鲤",
+  "zh_oneliner": "在静止的鱼身轮廓上画斑纹不难，难的是鱼弯身游动时斑纹还得贴在同一条鱼身上，作者分享了他在小游戏 Koiworld 里的做法。",
+  "en_title": "How I draw koi in Canvas 2D without sprites",
+  "en_oneliner": "Drawing markings on a still fish silhouette is easy; the hard part is keeping them glued to the same fish as it bends and swims, and the author shows how Koiworld handles it."
  }
 }
