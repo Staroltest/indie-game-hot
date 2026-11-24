@@ -23530,5 +23530,29 @@
   "zh_oneliner": "任天堂 2027 年将推出两款《时之笛》Switch 2 重制版 amiibo，错过 9 月发布会的可以再看一遍。",
   "en_title": "ICYMI: Here's Another Look At The Zelda: Ocarina Of Time amiibo For Switch 2",
   "en_oneliner": "Nintendo is releasing two Ocarina of Time amiibo for the Switch 2 remake in 2027 — another look for anyone who missed the September reveal."
+ },
+ "https://80.lv/articles/telegram-ceo-pavel-durov-says-gta-6-is-unrealistic-without-telegram": {
+  "zh_title": "Telegram 创始人 Pavel Durov 称没有 Telegram 的 GTA 6 不真实",
+  "zh_oneliner": "Durov 调侃说，没有 Telegram 群组协调，GTA 6 里的 Jason 和 Lucia 根本没法运作犯罪团伙。",
+  "en_title": "Telegram CEO Pavel Durov Says GTA 6 Is Unrealistic Without Telegram",
+  "en_oneliner": "Durov joked that Jason and Lucia could not run a criminal operation without a Telegram group to coordinate it."
+ },
+ "https://dev.to/foxinfotech/free-3d-game-assets-you-can-drop-into-threejs-wheels-animations-and-modular-kits-4kai": {
+  "zh_title": "可直接拖进 three.js 的免费 3D 游戏素材（带轮子、动画与模块化套件）",
+  "zh_oneliner": "作者整理了一批免费 3D 素材，帮小体量 three.js 游戏省去建模环节，车轮、动画和模块化套件开箱即用。",
+  "en_title": "Free 3D Game Assets You Can Drop Into three.js (Wheels, Animations and Modular Kits)",
+  "en_oneliner": "A free set of 3D assets helps small three.js games skip the modelling work, with working wheels, animations and modular kits ready to drop in."
+ },
+ "https://dev.to/matyo91/hellcats-over-the-pacific-reconstruire-un-jeu-de-1991-avec-lia-sans-ecrire-une-ligne-de-code-41lk": {
+  "zh_title": "用 AI 重制 1991 年游戏《Hellcats Over The Pacific》，一行代码都不写",
+  "zh_oneliner": "作者借助 AI 把 1991 年的 Macintosh 空战老游戏搬进 Godot，还能在浏览器里直接玩，全程没有手写一行代码。",
+  "en_title": "Hellcats Over The Pacific — Rebuilding a 1991 Game with AI, Without Writing a Line of Code",
+  "en_oneliner": "With the help of AI, the author rebuilt a 1991 Macintosh air-combat classic in Godot and made it playable in the browser, without hand-writing a single line of code."
+ },
+ "https://dev.to/divyanshusinha136/self-driving-cars-that-learn-by-deep-q-learning-with-drift-and-reverse-in-pure-kingcobra-25j3": {
+  "zh_title": "用深度 Q 学习训练自动驾驶汽车，支持漂移与倒车，纯 KingCobra 实现",
+  "zh_oneliner": "一个纯 KingCobra 实现的自动驾驶模拟器用 Double DQN 训练同一套神经网络开车，带真实轮胎动力学模型，能转向不足、漂移和倒车。",
+  "en_title": "Self-driving cars that learn by deep Q-learning, with drift and reverse, in pure KingCobra",
+  "en_oneliner": "A self-driving-car simulator built in pure KingCobra trains one neural network with Double DQN to drive every car, with a proper tyre model for understeer, drifting and reversing."
  }
 }
