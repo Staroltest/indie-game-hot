@@ -24130,5 +24130,83 @@
   "zh_oneliner": "《昭和米国物语》再次延期至 2027 年 10 月 28 日，主线约 20 至 25 小时，全内容约 50 小时，这部向 80 年代流行文化致敬的 B 级片风 RPG 还要再等一年。",
   "en_title": "Showa American Story Delayed to October 28, 2027",
   "en_oneliner": "Showa American Story is delayed again to October 28, 2027, with a 20-to-25-hour main story and about 50 hours for full completion in this B-movie-style RPG homage to 1980s pop culture."
+ },
+ "https://www.gcores.com/radios/222589": {
+  "zh_title": "《乐麻了》和《玩乐何为》：当今时代游戏玩家的乐子从哪里来？两位北大老师为你解惑",
+  "zh_oneliner": "两位北大游戏研究者聊“为什么玩游戏”：在游戏供给极大丰富的今天，乐趣到底从哪来，以及 AI 时代的游戏研究会走向何方。",
+  "en_title": "Where Does the Fun in Games Come From Today? Two Peking University Teachers Explain Why We Play",
+  "en_oneliner": "Two Peking University game researchers talk about why we play: where the fun comes from now that games are more abundant than ever, and where game studies is headed in the AI era."
+ },
+ "https://dev.to/aplusgamesstudio/game-trailer-cost-gameplay-cinematic-and-store-video-33i8": {
+  "zh_title": "游戏预告片要花多少钱：实机、CG 与商店视频的成本拆解",
+  "zh_oneliner": "简单实机预告约 500 至 3000 美元，带动态图形、音效与授权音乐的精致版本要 3000 至 15000 美元，文章按类型拆解了三种预告片的成本构成。",
+  "en_title": "Game Trailer Cost: Gameplay, Cinematic and Store Video",
+  "en_oneliner": "A simple gameplay trailer runs about $500 to $3,000, while a polished one with motion graphics, sound design and licensed music costs $3,000 to $15,000 — this piece breaks down the cost of each trailer type."
+ },
+ "https://dev.to/furkankayadev/designing-ipad-games-a-cat-cant-quit-a-two-finger-exit-and-a-locked-results-screen-4ang": {
+  "zh_title": "给猫设计的 iPad 游戏：双指退出与锁定的结算画面",
+  "zh_oneliner": "作者为自家猫咪触屏小游戏做防误触设计：猫不会读说明，所以用双指退出和锁定的结算屏把误操作挡在外面。",
+  "en_title": "Designing iPad games a cat can't quit: a two-finger exit and a locked results screen",
+  "en_oneliner": "The author built six touch games for cats and designed around the fact that cats never read instructions, using a two-finger exit and a locked results screen to block accidental taps."
+ },
+ "https://www.nintendolife.com/news/2026/11/the-reason-behind-pokemons-mysterious-social-media-countdown-has-been-revealed": {
+  "zh_title": "宝可梦神秘社交媒体倒计时的真相揭晓",
+  "zh_oneliner": "宝可梦官方的神秘倒计时引发了大新闻猜测，但揭晓的答案却让人有点失望，文章复盘了这场营销悬念的来龙去脉。",
+  "en_title": "The Reason Behind Pokémon's Mysterious Social Media Countdown Has Been Revealed",
+  "en_oneliner": "The Pokémon Company's mysterious countdown sparked hopes of a big announcement, but the reveal is a letdown — this piece traces how the marketing tease played out."
+ },
+ "https://80.lv/articles/learn-the-art-of-making-aaa-game-ready-characters-using-industry-standard-tools": {
+  "zh_title": "用行业标准工具学做 3A 级游戏角色：完整制作流程大师课",
+  "zh_oneliner": "这门 Wingfox 大师课带你走完游戏角色从建模到成品的完整流程，面向想做出 3A 品质角色的美术从业者。",
+  "en_title": "Learn the Art of Making AAA Game-Ready Characters Using Industry-Standard Tools",
+  "en_oneliner": "This Wingfox master class walks through the complete workflow of creating game-ready characters, aimed at artists who want to reach AAA quality."
+ },
+ "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits": {
+  "zh_title": "暴雪刚封掉一个《魔兽世界：Forever》刷金漏洞，新的替代手段又冒了出来",
+  "zh_oneliner": "《魔兽世界：Forever》正被刷金潮困扰，暴雪封一个漏洞就冒出更多替代玩法，文章讲了这场猫鼠游戏的现状。",
+  "en_title": "As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up",
+  "en_oneliner": "World of Warcraft: Forever is in the grip of a gold-farming bonanza, and every exploit Blizzard shuts down is met with a wave of alternatives."
+ },
+ "https://unity.com/blog/data-fragmentation-ua-monetization-unity-vector": {
+  "zh_title": "你的数据讲的是完整的故事吗？",
+  "zh_oneliner": "数据碎片化会让买量与变现团队看不清玩家全貌，文章讲了把 MMP、GA 与内购信号接入 Unity Vector 的代价与做法。",
+  "en_title": "Is your data telling you the whole story?",
+  "en_oneliner": "Fragmented data hides the full player picture — this post explains what it costs UA and monetization teams and how to connect MMP, GA and IAP signals to Unity Vector."
+ },
+ "https://80.lv/articles/recreating-the-atmosphere-of-a-middle-eastern-market-in-unreal-engine-5-with-nuanced-lighting": {
+  "zh_title": "在 Unreal Engine 5 里复刻中东市集氛围：细腻打光的实践",
+  "zh_oneliner": "作者 Wendao 分享了学习全新灯光工作流的心得，讲了如何用色彩分级让场景既有氛围感又保持真实，以及具体的打光手法。",
+  "en_title": "Recreating the Atmosphere of a Middle Eastern Market in Unreal Engine 5 with Nuanced Lighting",
+  "en_oneliner": "Wendao shares what he learned from a new approach to lighting, explaining how he used color grading to make the scene atmospheric while keeping it realistic, and how he handled the lighting work."
+ },
+ "https://www.rockpapershotgun.com/game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinybuild-says-devs-shouldnt-be-afraid-of-ai-clones": {
+  "zh_title": "“游戏手感无法复制”：tinyBuild CEO 称开发者不必害怕 AI 克隆",
+  "zh_oneliner": "生成式 AI 克隆游戏已成行业现实威胁，连 Take-Two 的 CEO 都提前预警，而 tinyBuild 的 CEO 认为游戏手感抄不走，开发者不必害怕。",
+  "en_title": "\"Game feel is impossible to copy\": CEO of Probably Stolen publisher tinyBuild says devs \"shouldn't be afraid\" of AI clones",
+  "en_oneliner": "GenAI game clones are becoming a real enough threat that Take-Two's CEO pre-warned the industry, while tinyBuild's CEO argues that game feel is impossible to copy and developers shouldn't be afraid."
+ },
+ "https://gamedevjs.com/articles/slime-and-steel-building-browser-mmorpg": {
+  "zh_title": "《Slime & Steel》：在浏览器里做一款迷你 MMORPG",
+  "zh_oneliner": "Daniel 讲了如何用 Phaser 与 Node.js 做出《Slime & Steel》，从代码生成的像素美术、流式加载地形，到带时机的战斗与手柄支持。",
+  "en_title": "Slime & Steel: building a tiny MMORPG in the browser",
+  "en_oneliner": "Daniel explains how he built Slime & Steel with Phaser and Node.js, from code-generated pixel art and streamed terrain to timed combat and controller support."
+ },
+ "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship": {
+  "zh_title": "Remedy CEO 称赞 Rockstar 对《Max Payne 1 & 2》重制版的支持与对创作愿景的尊重",
+  "zh_oneliner": "《心灵杀手》与《Control》开发商 Remedy 正与 Rockstar 合作重制《Max Payne 1 & 2》，CEO 谈了双方的合作关系。",
+  "en_title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
+  "en_oneliner": "Alan Wake and Control studio Remedy is developing the Max Payne 1 & 2 remake in partnership with Rockstar, and its CEO talks about the relationship and the support for Remedy's creative vision."
+ },
+ "https://80.lv/articles/recreating-the-atmosphere-of-a-middle-eastern-market-in-unreal-engine-5": {
+  "zh_title": "在 Unreal Engine 5 里复刻中东市集氛围",
+  "zh_oneliner": "作者 Wendao 分享了学习全新灯光工作流的心得，讲了如何用色彩分级让场景既有氛围感又保持真实，以及具体的打光手法。",
+  "en_title": "Recreating the Atmosphere of a Middle Eastern Market in Unreal Engine 5",
+  "en_oneliner": "Wendao shares what he learned from a new approach to lighting, explaining how he used color grading to make the scene atmospheric while keeping it realistic, and how he handled the lighting work."
+ },
+ "https://gamedev.net/blogs/entry/2298722-choosing-a-game-engine-before-you-hire-a-decision-sheet-for-funded-founders-in-india": {
+  "zh_title": "招人之前先选引擎：给印度获投创始人的决策表",
+  "zh_oneliner": "印度新获投游戏初创常犯的错误是先招“Unity 开发者”或“Unreal 开发者”，之后才发现引擎与项目并不匹配，文章给了一张招人前的引擎决策表。",
+  "en_title": "Choosing a Game Engine Before You Hire: A Decision Sheet for Funded Founders in India",
+  "en_oneliner": "Newly funded game startups in India often post job ads for a \"Unity developer\" or \"Unreal developer\" within a week of closing a round, only to discover later that the engine doesn't fit the project — this piece offers a decision sheet for choosing before you hire."
  }
 }
