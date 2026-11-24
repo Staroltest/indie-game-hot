@@ -23788,5 +23788,95 @@
   "zh_oneliner": "评测认为《Boltgun 2》精准抓住了战锤 40K 那种严肃与荒诞并存的气质，玩起来血浆横飞又自带幽默。",
   "en_title": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
   "en_oneliner": "The review argues Boltgun 2 captures Warhammer 40,000's blend of grim solemnity and bloody absurdity better than anything else in the franchise."
+ },
+ "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever": {
+  "zh_title": "GTA 6 成为 PlayStation 历史上最大规模的首发，同时在线人数创纪录",
+  "zh_oneliner": "索尼确认 GTA 6 以平台史上最高同时在线人数刷新首发纪录，3A 大作的市场热度仍在峰值。",
+  "en_title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+  "en_oneliner": "Sony confirmed GTA 6 set a record for concurrent players on PlayStation, marking the platform's biggest launch ever."
+ },
+ "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting": {
+  "zh_title": "GTA 6 泄密者 Cyberleek 称已放出 crimsim 的 Xbox 可执行文件，并否认借机炒币",
+  "zh_oneliner": "自称 GTA 6 泄密者的 Cyberleek 宣称公开了一份所谓 Xbox 构建的可执行文件，同时否认借此牟利，真实性仍待验证。",
+  "en_title": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+  "en_oneliner": "The self-described GTA 6 leaker Cyberleek claims to have released an alleged Xbox build executable while denying any crypto grift, though its authenticity remains unverified."
+ },
+ "https://www.indiedb.com/games/starfall-salvage-protocol/news/starfall-devlog-1-space-battles-salvage-and-the-ai-assisted-studio": {
+  "zh_title": "STARFALL 开发日志 #1：太空战斗、打捞与 AI 辅助工作室",
+  "zh_oneliner": "独立太空游戏 STARFALL 首篇开发日志分享了可读性太空战斗、波次 Boss 战与打捞升级的设计思路，并附浏览器内实机截图。",
+  "en_title": "STARFALL Devlog #1 — Space Battles, Salvage, and the AI-Assisted Studio",
+  "en_oneliner": "The first STARFALL devlog walks through readable space combat, wave-based boss fights and salvage-driven upgrades, with in-browser gameplay screenshots."
+ },
+ "https://dev.to/pascal_hoffmann_ee489908a/abyss-lantern-a-browser-game-where-light-is-the-only-mechanic-that-matters-3jac": {
+  "zh_title": "Abyss Lantern：一款以光为唯一机制的浏览器游戏",
+  "zh_oneliner": "玩家化身提着唯一光源的小鮟鱇鱼，在深海中下潜探索，这款无敌人、纯发现的浏览器小游戏把氛围做到了极致。",
+  "en_title": "Abyss Lantern: a browser game where light is the only mechanic that matters",
+  "en_oneliner": "You play a tiny anglerfish carrying the only light in the deep sea, drifting down to discover rather than fight in this atmospheric browser game."
+ },
+ "https://dev.to/suikeke9/i-cant-code-i-just-shipped-my-first-app-on-the-app-store-4dhg": {
+  "zh_title": "我不会写代码，但刚把第一款 App 送上了 App Store",
+  "zh_oneliner": "作者用 AI 提示词从零做出一款饮食记录应用并通过 App Store 审核上架，分享了无代码背景独立开发者的完整上架经历。",
+  "en_title": "I Can't Code. I Just Shipped My First App on the App Store.",
+  "en_oneliner": "The author built a food-logging app entirely by prompting AI and got it through App Store review, sharing the full journey of shipping as a non-coder."
+ },
+ "https://dev.to/githubvoyage/i-built-a-free-website-to-publish-games-made-with-ai-3f3c": {
+  "zh_title": "我建了一个免费网站，专门发布 AI 制作的游戏",
+  "zh_oneliner": "作者发现大量 AI 生成的创意游戏从未离开聊天窗口，于是建了一个免费发布平台，让这些小游戏能真正被人玩到。",
+  "en_title": "I built a free website to publish games made with AI",
+  "en_oneliner": "Seeing creative AI-made games die inside chat windows, the author built a free publishing site so those games can actually reach players."
+ },
+ "https://dev.to/_324666f05bc0323199b07/i-built-a-fantasy-arena-where-your-imagination-creates-the-fighters-52a4": {
+  "zh_title": "我做了个奇幻竞技场，你的想象就能创造出战士",
+  "zh_oneliner": "这款浏览器小游戏让玩家凭空想出的角色走进竞技场对决，把脑洞对战做成了一个可玩的点子验证。",
+  "en_title": "I built a fantasy arena where your imagination creates the fighters ⚔️",
+  "en_oneliner": "This browser game turns characters you dream up into fighters in a fantasy arena, testing whether your imagination could actually win a fight."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/rotating-the-phone-made-pudding-50-faster-4m5e": {
+  "zh_title": "旋转手机让 Pudding 快了 50%",
+  "zh_oneliner": "一款单键跑酷游戏的开发者发现，横竖屏切换会改变果冻的体感速度，文章拆解了世界单位与屏幕尺寸之间的换算陷阱。",
+  "en_title": "Rotating the phone made Pudding 50% faster",
+  "en_oneliner": "The developer of a one-button runner discovered that rotating the phone changed the jelly's perceived speed, and breaks down the world-units versus screen-size trap behind it."
+ },
+ "https://www.nintendolife.com/news/2026/11/pokemon-teams-up-with-casetify-on-a-new-line-of-phone-cases-and-accessories": {
+  "zh_title": "宝可梦联手 Casetify 推出新款手机壳及配件",
+  "zh_oneliner": "宝可梦公司在 30 周年之际再添联名，Casetify 将推出宝可梦主题手机壳系列，下周开售。",
+  "en_title": "Pokémon Teams Up With Casetify On A New Line Of Phone Cases And Accessories",
+  "en_oneliner": "The Pokémon Company adds another 30th-anniversary collaboration, with Casetify launching a line of Pokémon phone cases and accessories next week."
+ },
+ "https://www.pcgamer.com/software/platforms/steam-revamps-its-marketplace-for-the-2nd-time-this-year": {
+  "zh_title": "Steam 今年第二次改版市场",
+  "zh_oneliner": "Steam 年内第二次调整交易市场，改动面向皮肤交易玩家，常逛市场的开发者值得留意具体变化。",
+  "en_title": "Steam revamps its marketplace for the 2nd time this year",
+  "en_oneliner": "Steam has revamped its marketplace for the second time this year, with changes aimed at skin traders."
+ },
+ "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta": {
+  "zh_title": "Rockstar 正在兜售《荒野大镖客》影视改编权，但 GTA 不在此列",
+  "zh_oneliner": "据报道 Rockstar 正为《荒野大镖客》寻找影视改编合作方，开价约一亿美元，而 GTA 的改编权仍不对外出售。",
+  "en_title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
+  "en_oneliner": "Rockstar is reportedly shopping Red Dead Redemption film and TV rights for around $100 million, while Grand Theft Auto stays off the table."
+ },
+ "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges": {
+  "zh_title": "GTA 6 玩家已迅速精通抢劫玩法，尽管新挑战重重",
+  "zh_oneliner": "GTA 6 发售不久，玩家已在展示高超的抢劫技巧，即便 Rockstar 给逃脱环节加了不少新难度。",
+  "en_title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+  "en_oneliner": "Shortly after launch, GTA 6 players are already showing off polished heist runs despite the new challenges Rockstar added to getaways."
+ },
+ "https://defold.com/2026/11/24/Newsletter-November-2026": {
+  "zh_title": "Defold 2026 年 11 月通讯",
+  "zh_oneliner": "本期 Defold 通讯汇总了即将到来的游戏 Jam 与活动、一个完整的开源 3D 网页游戏示例，以及 Xbox 支持与新资产的最新进展。",
+  "en_title": "Defold Newsletter November 2026",
+  "en_oneliner": "This month's Defold newsletter rounds up upcoming jams and events, a complete open-source 3D web game sample, and the latest on Xbox support and new assets."
+ },
+ "https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans": {
+  "zh_title": "Epic 将在虚幻引擎 6 中移除蓝图，AI 将协助迁移",
+  "zh_oneliner": "Epic 确认虚幻引擎 6 将不再支持蓝图可视化脚本与 Actor Gameplay Framework，并表示 AI 会帮助开发者过渡到替代方案。",
+  "en_title": "Epic Games to drop Blueprints from Unreal Engine 6 as AI reshapes migration plans",
+  "en_oneliner": "Epic confirmed Unreal Engine 6 will drop Blueprints visual scripting and the Actor Gameplay Framework, with AI slated to help developers migrate to replacements."
+ },
+ "https://www.pocketgamer.biz/october-2026-mobile-game-charts-top-lords-takes-off-tencent-falls-11-and-ai-listens-in": {
+  "zh_title": "2026 年 10 月手游榜单：Top Lords 异军突起，腾讯下滑 11%，AI 开始监听",
+  "zh_oneliner": "AppMagic 数据显示 10 月手游下载与收入榜出现新面孔 Top Lords，腾讯收入下滑 11%，行业对 AI 监听的讨论也在升温。",
+  "en_title": "October 2026 mobile game charts: Top Lords takes off, Tencent falls 11% and AI listens in",
+  "en_oneliner": "AppMagic's October charts show Top Lords taking off, Tencent down 11%, and AI listening in as the month's big talking points."
  }
 }
