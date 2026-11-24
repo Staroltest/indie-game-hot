@@ -24544,5 +24544,29 @@
   "zh_oneliner": "2026 年 Steam 大奖提名开启，为庆祝十周年，Valve 带回了往届的经典奖项类别，并新增了年度游戏名人堂。",
   "en_title": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame",
   "en_oneliner": "Nominations for the 2026 Steam Awards are open, and to mark the event's 10th anniversary Valve has revived throwback categories and added a Game of the Year Hall of Fame."
+ },
+ "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in": {
+  "zh_title": "徒手攀爬 Roguelike《White Knuckle》新增倒数第二个区域「核心」：一个你很可能丧命其中的敌对反应堆区",
+  "zh_oneliner": "徒手攀爬 Roguelike《White Knuckle》迎来倒数第二个区域：一个 sterile 而敌对的反应堆区，爬错一步就可能丧命，适合参考高风险垂直关卡的设计。",
+  "en_title": "Bare fist, megastructure climbing roguelike White Knuckle gets its penultimate region in The Core, a sterile, hostile reactor sector that you'll probably die in",
+  "en_oneliner": "The bare-fist megastructure-climbing roguelike White Knuckle adds its penultimate region: a sterile, hostile reactor sector where one wrong move can kill you — a useful reference for high-stakes vertical level design."
+ },
+ "https://dev.to/wordlegion/a-walkable-word-farm-drawn-entirely-in-code-how-word-legions-my-farm-works-559b": {
+  "zh_title": "全靠代码画出来的可漫步文字农场：《Word Legion》的「我的农场」是怎么实现的",
+  "zh_oneliner": "一篇开发日志拆解了《Word Legion》里可漫步的文字农场如何完全用代码绘制而成，适合想用程序化生成做低成本视觉表现的开发者参考。",
+  "en_title": "A walkable word farm drawn entirely in code: how Word Legion's \"My farm\" works",
+  "en_oneliner": "A devlog breaks down how Word Legion's walkable word farm is drawn entirely in code — a useful reference for developers exploring procedural visuals on a low budget."
+ },
+ "https://news.xbox.com/en-us/2026/11/24/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibuilds-global-jet": {
+  "zh_title": "《微软模拟飞行》宣布 Marketplace 独占机型：iniBuilds Global Jet",
+  "zh_oneliner": "《微软模拟飞行》宣布推出 Marketplace 独占机型 iniBuilds Global Jet，关注官方商城独占内容如何拉动第三方机型销量的开发者可以留意。",
+  "en_title": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet",
+  "en_oneliner": "Microsoft Flight Simulator announces a Marketplace-exclusive aircraft, the iniBuilds Global Jet — worth a look for developers tracking how store exclusives drive third-party aircraft sales."
+ },
+ "https://newsletter.gamediscover.co/p/how-do-steam-fans-think-about-playing": {
+  "zh_title": "Steam 玩家如何看待联机游戏——以及切换联机游戏的习惯？",
+  "zh_oneliner": "GameDiscoverCo 通过问卷调查梳理了 Steam 玩家对联机游戏的态度与切换习惯，做多人游戏的开发者可以从中了解玩家的联机偏好。",
+  "en_title": "How do Steam fans think about playing - and switching - co-op games?",
+  "en_oneliner": "GameDiscoverCo surveys Steam players on how they think about playing — and switching between — co-op games, offering useful insight for developers building multiplayer titles."
  }
 }
