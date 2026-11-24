@@ -24454,5 +24454,53 @@
   "zh_oneliner": "这篇盘点收录 100 款浏览器里免费玩的体育小游戏，并挑出其中 4 款真正支持双人同键盘对战的作品，适合想研究轻量休闲玩法的开发者参考。",
   "en_title": "Sports games unblocked: 100 free browser sports games, and the 4 that really do two players on one keyboard",
   "en_oneliner": "This roundup collects 100 free sports games playable in a browser and singles out four that genuinely support two players on one keyboard, useful reference for developers studying lightweight casual play."
+ },
+ "https://www.rockpapershotgun.com/that-philosophy-has-not-changed-for-us-because-of-gta-6-cd-projekt-red-are-staying-the-course-on-the-witcher-4-and-cyberpunk-2-after-rockstars-smash-success": {
+  "zh_title": "“GTA 6 没有改变我们的理念”：CD Projekt Red 坚持按原计划推进《巫师 4》与《赛博朋克 2》",
+  "zh_oneliner": "面对财报会上关于 GTA 6 冲击的追问，CDPR 首席执行官表示公司不会为此改道，《巫师 4》和《赛博朋克 2》仍按既定路线推进。",
+  "en_title": "\"That philosophy has not changed for us because of GTA 6\": CD Projekt Red are staying the course on The Witcher 4 and Cyberpunk 2 after Rockstar's smash success",
+  "en_oneliner": "Asked about GTA 6's impact during an earnings call, CD Projekt Red's CEO said the studio won't change course, with The Witcher 4 and Cyberpunk 2 staying on their planned path."
+ },
+ "https://www.indiedb.com/games/home-sweet-bunker-bunker-tycoon/news/eight-updates-in-ten-days-what-home-sweet-bunkers-players-asked-for": {
+  "zh_title": "十天八更：《Home Sweet Bunker》如何按玩家反馈改游戏",
+  "zh_oneliner": "上线十天连推八个更新，几乎全来自玩家反馈，新增自选枪械、第二支搜刮小队、隔离区照料与纪念墙等内容。",
+  "en_title": "Eight updates in ten days: what Home Sweet Bunker's players asked for",
+  "en_oneliner": "Eight updates in ten days since launch, almost all driven by player feedback, adding selectable guns, a second scavenging team, quarantine care, and a memorial wall."
+ },
+ "https://www.indiedb.com/games/lanternbearers/news/lanternbearers-is-on-indiedb-where-it-stands-and-whats-next": {
+  "zh_title": "《Lanternbearers》登陆 IndieDB：一位开发者做的黑暗奇幻等距动作 RPG 现状与下一步",
+  "zh_oneliner": "一位独立开发者做的黑暗奇幻等距动作 RPG 已在 itch.io 开启抢先体验，本文介绍现有内容、制作方式与上架 Steam 的路线图。",
+  "en_title": "Lanternbearers is on IndieDB: where it stands and what's next",
+  "en_oneliner": "A dark-fantasy isometric action RPG made by a solo developer, now in early access on itch.io, with a look at what's in it today, how it's made, and the road to Steam."
+ },
+ "https://dev.to/samellis/how-to-write-a-scavenger-hunt-clue-people-can-actually-solve-4dn0": {
+  "zh_title": "如何写出玩家真能解开的寻宝游戏线索",
+  "zh_oneliner": "寻宝游戏成败在线索那一句话：作者结合自家拍照寻宝应用的经验，讲清线索该描述照片而非出谜语。",
+  "en_title": "How to write a scavenger hunt clue people can actually solve",
+  "en_oneliner": "A scavenger hunt lives or dies on the clue itself: the author shares lessons from building a photo scavenger hunt app on writing clues that describe a photograph rather than posing a riddle."
+ },
+ "https://dev.to/jaysononlyone/your-bkash-checkout-timed-out-but-the-player-was-charged-three-timers-you-must-keep-separate-idi": {
+  "zh_title": "你的 bKash 结算超时了，但玩家已被扣款：必须分开管的三个计时器",
+  "zh_oneliner": "玩家在钱包外确认付款耗时过长，页面显示超时、钱却已扣走，文章拆解三个各自到期的计时器，讲清为何不能把第一个当作最终结论。",
+  "en_title": "Your bKash checkout timed out, but the player was charged: three timers you must keep separate",
+  "en_oneliner": "A player confirms payment outside your page, the checkout times out, but the money is gone: the piece unpacks the three timers that expire at different moments and why the first one isn't the final answer."
+ },
+ "https://dev.to/danieljsaldana/token-club-catorce-nuevos-trofeos-para-lo-que-haces-dentro-del-club-2k24": {
+  "zh_title": "Token Club：为俱乐部里的行为新增 14 个奖杯",
+  "zh_oneliner": "作者为自己的 Token Club 扩充奖杯系统，新增 14 个奖杯，覆盖 Sala Teide 场景互动与社区参与，记录玩家进俱乐部后的点滴行为。",
+  "en_title": "Token Club: catorce nuevos trofeos para lo que haces dentro del club",
+  "en_oneliner": "The author expands Token Club's trophy system with fourteen new trophies covering interactions in the Sala Teide room and community participation, rewarding the small things players do after joining."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc": {
+  "zh_title": "Take-Two 打击 GTA 6 非法 PC 移植，recomp 项目负责人退出",
+  "zh_oneliner": "最知名的 GTA 6 PC 重构项目 Leonida 负责人已退出，起因是 Take-Two 对这类非法移植努力的打击，其余成员仍在尝试继续。",
+  "en_title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+  "en_oneliner": "The leads of Leonida, the best-known effort to recreate GTA 6 on PC, have quit after Take-Two cracked down on illicit porting efforts, though others are still trying to carry it on."
+ },
+ "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea": {
+  "zh_title": "GTA 6 上线致《使命召唤》日活跌 42%，Alinea 估算",
+  "zh_oneliner": "Alinea Analytics 的估算显示，GTA 6 发售大幅拉低了《使命召唤》的日活玩家，四天后仍未恢复。",
+  "en_title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+  "en_oneliner": "Alinea Analytics estimates GTA 6's launch knocked Call of Duty's daily players down 42 percent, and four days on, the player base still hasn't recovered."
  }
 }
