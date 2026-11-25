@@ -26206,5 +26206,53 @@
   "zh_oneliner": "开发者 Rodrigo 怀念老版大金刚系列，动手做了一款猴子主角的平台游戏《Mono》，分享了角色动画与场景物件的制作过程，部分借助了 AI。",
   "en_title": "Creating Mono",
   "en_oneliner": "Developer Rodrigo, missing the classic Donkey Kong games, is building Mono, a monkey-led platformer, and shares the character animations and objects he made so far, with some AI assistance."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/60-fps-particle-explosions-in-10-lines-of-vanilla-js-ai-prompts-8io": {
+  "zh_title": "用 10 行原生 JS 实现 60 帧粒子爆炸效果（附 AI 提示词）",
+  "zh_oneliner": "不用第三方物理引擎，只靠 HTML5 Canvas 和数组技巧就能写出流畅的爆炸粒子效果，文章给出可直接套用的十行代码和配套 AI 提示词。",
+  "en_title": "60 FPS Particle Explosions in 10 Lines of Vanilla JS (+ AI Prompts)",
+  "en_oneliner": "You don't need a third-party physics engine for juicy explosions — this tutorial shows how raw HTML5 Canvas and a few array tricks deliver smooth 60 FPS particle effects in ten lines of JavaScript, with AI prompts included."
+ },
+ "https://dev.to/fidel_jvskr_830e2bc9dd971/gow-pc-port-classic-recompiled-v29-native-x8664-vulkan-13-render-pipeline-jcj": {
+  "zh_title": "《战神》PC 移植经典重编译版 v2.9：原生 x86_64 与 Vulkan 1.3 渲染管线",
+  "zh_oneliner": "这是一份非官方的《战神》PC 移植重编译项目更新说明，介绍原生 x86_64 运行与 Vulkan 1.3 渲染管线等技术细节。",
+  "en_title": "GoW-PC-Port Classic Recompiled v2.9: Native x86_64 & Vulkan 1.3 Render Pipeline",
+  "en_oneliner": "An unofficial recompiled PC port of God of War updates to v2.9, with notes on its native x86_64 runtime and Vulkan 1.3 render pipeline."
+ },
+ "https://dev.to/loura_interiorcitation_e5/pzb-trainer-phantom-blade-zero-pc-frame-pacing-camera-combat-sandbox-v24-52c9": {
+  "zh_title": "《影之刃零》PC 修改器 v2.4：帧 pacing、视角与战斗沙盒",
+  "zh_oneliner": "这款面向《影之刃零》PC 版的修改器更新到 v2.4，提供帧 pacing 调节、视角控制和 Boss 练习用的战斗沙盒功能。",
+  "en_title": "PZB-Trainer: Phantom Blade Zero PC Frame Pacing, Camera & Combat Sandbox v2.4",
+  "en_oneliner": "This trainer for the PC version of Phantom Blade Zero updates to v2.4, adding frame-pacing tweaks, camera controls, and a combat sandbox for boss practice."
+ },
+ "https://dev.to/fidel_jvskr_830e2bc9dd971/99-nights-in-the-forest-luau-automation-esp-telemetry-suite-v49-12me": {
+  "zh_title": "《99 Nights in the Forest》Luau 自动化与 ESP 遥测套件 v4.9",
+  "zh_oneliner": "这份针对 Roblox 游戏《99 Nights in the Forest》的自动化脚本更新到 v4.9，包含资源雷达与营地建造调度等功能。",
+  "en_title": "99 Nights in the Forest Luau Automation & ESP Telemetry Suite v4.9",
+  "en_oneliner": "This automation script suite for the Roblox game 99 Nights in the Forest updates to v4.9, with a resource radar and campfire crafting scheduler."
+ },
+ "https://dev.to/fidel_jvskr_830e2bc9dd971/nsp-box-switch-static-recompiler-pc-v284-vulkan-avx2-architecture-guide-59m0": {
+  "zh_title": "NSP-BOX Switch 静态重编译器 PC 版 v2.8.4：Vulkan 与 AVX2 架构指南",
+  "zh_oneliner": "这份 Switch 静态重编译工具的更新说明介绍 ARM64 到 x86_64 的提前编译管线与 Vulkan 着色器缓存等实现细节。",
+  "en_title": "NSP-BOX Switch Static Recompiler PC v2.8.4: Vulkan & AVX2 Architecture Guide",
+  "en_oneliner": "This Switch static recompiler for PC updates to v2.8.4, with notes on its ahead-of-time ARM64-to-x86_64 translation pipeline and Vulkan shader caching."
+ },
+ "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania": {
+  "zh_title": "神谷英树盼 Konami 放手：想做一款“真正疯狂”的《恶魔城》",
+  "zh_oneliner": "《鬼泣》《猎天使魔女》的导演神谷英树公开表示，希望 Konami 能让他打造一款“真正疯狂”的新《恶魔城》。",
+  "en_title": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+  "en_oneliner": "Devil May Cry and Bayonetta director Hideki Kamiya says he would love Konami to let him make a \"truly insane\" new Castlevania game."
+ },
+ "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone": {
+  "zh_title": "美国财政部遭网络攻击之际，其首席技术官却在“氛围编程”一款《文明》克隆游戏",
+  "zh_oneliner": "美国财政部遭遇网络安全事件的同时，其首席信息官正忙着用 AI 辅助编程做一款《文明》风格的策略游戏，并称这个业余项目“非常酷”。",
+  "en_title": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
+  "en_oneliner": "While the US Treasury deals with a cybersecurity breach, its chief technology officer is vibecoding a Civilization-style strategy game as a passion project — and calls it \"so cool.\""
+ },
+ "https://naavik.co/podcast/is-gaming-a-mature-industry": {
+  "zh_title": "游戏行业成熟了吗？",
+  "zh_oneliner": "这期在纽约现场录制的播客探讨游戏行业究竟是走向成熟，还是正进入新一轮增长与颠覆，主持人与两位投资人一起聊行业现状。",
+  "en_title": "Is Gaming a Mature Industry?",
+  "en_oneliner": "Recorded live in New York, this podcast episode asks whether the games industry is finally maturing or entering a new era of growth and disruption, with two investors joining the host to discuss where things stand."
  }
 }
