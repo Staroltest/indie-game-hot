@@ -25348,5 +25348,47 @@
   "zh_oneliner": "作者分享了一个 GitHub Action，能在每次提交 PR 时自动用 Proton 运行 Windows 游戏，提前发现 Steam Deck 兼容问题。",
   "en_title": "I built a GitHub Action that runs your Windows game under Proton on every pull request",
   "en_oneliner": "A GitHub Action that automatically runs your Windows game under Proton on every pull request, catching Steam Deck compatibility issues before players do."
+ },
+ "https://www.gamesindustry.biz/gravity-well-enters-hibernation-after-failing-to-secure-funding": {
+  "zh_title": "Gravity Well 融资失败，团队进入休眠",
+  "zh_oneliner": "独立工作室 Gravity Well 未能获得新一轮融资，团队就此休眠，折射出当下独立团队融资环境的严峻。",
+  "en_title": "Gravity Well enters hibernation after failing to secure funding",
+  "en_oneliner": "Indie studio Gravity Well has gone into hibernation after failing to secure funding, a stark reminder of how tough financing is for indie teams right now."
+ },
+ "https://80.lv/articles/implementing-dynamic-windscreen-frost-effect-in-godot": {
+  "zh_title": "在 Godot 里实现动态车窗结霜效果",
+  "zh_oneliner": "作者拆解了夜班列车游戏《Semaphore》中车窗霜花随行程动态变化的做法，Godot 开发者可以直接参考这套着色器思路。",
+  "en_title": "Implementing Dynamic Windscreen Frost Effect In Godot",
+  "en_oneliner": "A breakdown of how the night-train game Semaphore renders windscreen frost that changes dynamically over the journey, with shader techniques Godot developers can borrow directly."
+ },
+ "https://80.lv/articles/cd-projekt-red-partners-with-sony-for-the-witcher-4": {
+  "zh_title": "CD Projekt Red 与索尼达成合作，涉及《巫师 4》",
+  "zh_oneliner": "CDPR 与索尼签署合作协议，《巫师 4》及旗下游戏将登陆 PlayStation 平台并进入 PlayStation Plus，独立开发者可以留意大厂平台合作的新动向。",
+  "en_title": "CD Projekt Red Partners with Sony for The Witcher 4",
+  "en_oneliner": "CD Projekt Red has signed a partnership with Sony covering The Witcher 4 and its catalog on PlayStation and PlayStation Plus."
+ },
+ "https://dev.to/mango7777/cataclismos-old-kingdom-expansion-turns-castle-defense-into-hex-based-strategy-boardgame-2lnp": {
+  "zh_title": "《Cataclismo》新扩展“旧王国”把城堡防御变成六边形策略棋盘",
+  "zh_oneliner": "实时城堡防御游戏《Cataclismo》推出付费扩展“旧王国”，加入六边形棋盘式策略玩法，值得关注独立游戏如何用扩展延续产品生命。",
+  "en_title": "Cataclismo's Old Kingdom Expansion Turns Castle Defense Into Hex-Based Strategy Boardgame",
+  "en_oneliner": "Real-time castle defense game Cataclismo gets a paid expansion, Old Kingdom, turning its sieges into hex-based strategy — a good case study in extending an indie game's life with expansions."
+ },
+ "https://dev.to/ganesh_rajendran_art/game-engines-were-world-models-all-along-1cm4": {
+  "zh_title": "游戏引擎其实一直都是世界模型",
+  "zh_oneliner": "这篇系列文章的终章指出，游戏循环本质上就是世界模型的计算过程，游戏开发者早已在无意中搭建了 AI 世界模型的基础架构。",
+  "en_title": "Game Engines Were World Models All Along",
+  "en_oneliner": "The final part of this series argues that a game loop is already a world model — state, action, next state, render — and that game developers have been building the foundations of AI world models all along."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5": {
+  "zh_title": "性能分析：GTA 6 在 Xbox Series X 上帧率比 PS5 更稳定",
+  "zh_oneliner": "最新性能分析显示，除 PS5 Pro 外，Xbox Series X 是目前运行《GTA 6》最稳定的平台，对做主机性能优化的开发者有参考价值。",
+  "en_title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+  "en_oneliner": "New performance analysis finds GTA 6 runs more stably on Xbox Series X than on PlayStation 5, unless you own a PS5 Pro — a useful data point for developers optimizing for consoles."
+ },
+ "https://www.pocketgamer.biz/save-the-date-where-will-you-catch-pg-connects-in-the-first-half-of-2027": {
+  "zh_title": "PG Connects 2027 上半年日程公布",
+  "zh_oneliner": "PocketGamer Connects 公布了 2027 年上半年的活动安排，计划参展或找发行、找合作的独立开发者可以提前规划行程。",
+  "en_title": "Save the date: where will you catch PG Connects in the first half of 2027?",
+  "en_oneliner": "PocketGamer Connects has announced its first-half 2027 dates, so indie developers planning to exhibit, meet publishers, or find partners can start scheduling now."
  }
 }
