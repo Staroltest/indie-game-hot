@@ -25720,5 +25720,71 @@
   "zh_oneliner": "一套 osu! 皮肤要覆盖 normal、soft、drum 三组音效，每组四种音色，缺一个文件就会回退默认音效，本文用 Python 脚本帮你逐一核对。",
   "en_title": "Check that an osu! skin's hitnormal sample sets are complete with Python",
   "en_oneliner": "An osu! skin needs three sample sets — normal, soft and drum — with four sounds each, and one missing file triggers a fallback; this Python script checks them all for you."
+ },
+ "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole": {
+  "zh_title": "GTA 6 PC 版若能做好第一人称模式，将是它最大的王牌",
+  "zh_oneliner": "作者认为 GTA 6 登陆 PC 后若能提供扎实的第一人称模式，会成为它区别于主机版的最大卖点。",
+  "en_title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
+  "en_oneliner": "The author argues that a proper first-person mode would be the PC port of GTA 6's biggest selling point over the console version."
+ },
+ "https://80.lv/articles/turn-into-a-20th-century-french-painter-in-this-hand-drawn-roguelike-deckbuilder": {
+  "zh_title": "化身 20 世纪法国画家：手绘 Roguelike 卡牌构筑游戏《Canvas Attack!》今日发售",
+  "zh_oneliner": "Sinopia House 的手绘 Roguelike 卡牌构筑游戏《Canvas Attack!》今日发售，玩家将扮演 20 世纪的法国画家展开冒险。",
+  "en_title": "Turn Into a 20th-Century French Painter in This Hand-Drawn Roguelike Deckbuilder",
+  "en_oneliner": "Sinopia House's hand-drawn roguelike deckbuilder Canvas Attack! launches today, casting players as a 20th-century French painter."
+ },
+ "https://www.indiedb.com/games/shift-n-ship/news/from-a-2004-c-prototype-to-your-browser-how-shift-n-ship-was-made": {
+  "zh_title": "从 2004 年的 C++ 原型到浏览器：谈《Shift 'n' Ship》的诞生",
+  "zh_oneliner": "作者回顾 2004 年的 C++ 原型如何一步步变成浏览器游戏《Shift 'n' Ship》，以及 AI 工具在代码、美术、音乐和配音上帮了哪些忙。",
+  "en_title": "From a 2004 C++ prototype to your browser: how Shift 'n' Ship was made",
+  "en_oneliner": "The author traces how a C++ prototype from 2004 became the browser game Shift 'n' Ship, and where AI tools helped with code, art, music and voices."
+ },
+ "https://dev.to/payforgpt_guides/recreating-early-2000s-ps2-low-poly-dreamcore-cutscene-aesthetics-in-the-browser-52kd": {
+  "zh_title": "在浏览器里复刻 2000 年代初 PS2 低多边形与梦核过场美学",
+  "zh_oneliner": "这篇教程拆解了如何在浏览器中复刻 PS2 时代低多边形与梦核过场风格，包括粗糙的顶点光照、雾夜公园与加油站落日等标志性画面。",
+  "en_title": "Recreating Early-2000s PS2 Low-Poly & Dreamcore Cutscene Aesthetics in the Browser",
+  "en_oneliner": "This tutorial breaks down how to recreate early-2000s PS2 low-poly and Dreamcore cutscene aesthetics in the browser, from crunchy vertex lighting to foggy night parks and gas-station sunsets."
+ },
+ "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult": {
+  "zh_title": "盘点：让《塞尔达传说：时之笛》更难的 8 种方法",
+  "zh_oneliner": "面向老玩家的 Switch 2 硬核玩法盘点，列出八种让《时之笛》重新变得有挑战的办法。",
+  "en_title": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
+  "en_oneliner": "A roundup for veteran players on Switch 2, listing eight ways to make Ocarina of Time challenging again."
+ },
+ "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list": {
+  "zh_title": "“他们也许讨厌我，但我爱任天堂”：神谷英树分享合作愿望清单",
+  "zh_oneliner": "沉寂近一年后，神谷英树在新视频中聊起最想合作的工作室，任天堂、科乐美与 Square Enix 都在他的愿望清单上。",
+  "en_title": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List",
+  "en_oneliner": "After nearly a year away, Hideki Kamiya talks in a new video about the studios he'd most love to collaborate with, with Nintendo, Konami and Square Enix on his bucket list."
+ },
+ "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary": {
+  "zh_title": "暴雪将把《暗黑破坏神 4》广受好评的《暗黑 2》周年活动内容永久保留",
+  "zh_oneliner": "因第 15 赛季的《暗黑 2》周年活动大受欢迎，暴雪宣布把其中不少限时内容永久保留，并公布了第 16 赛季“泰瑞尔的赌局”。",
+  "en_title": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+  "en_oneliner": "Because Season 15's Diablo 2 anniversary content proved so popular, Blizzard will make much of it permanent, alongside revealing Season 16, Season of Tyrael's Gambit."
+ },
+ "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game": {
+  "zh_title": "玩腻 GTA 6 了？23 款小众佳作或许能在各自领域胜过它",
+  "zh_oneliner": "这篇盘点从钓鱼、高尔夫到约会、观鸟等玩法出发，推荐 23 款在各自擅长之处不输 GTA 6 的小众游戏。",
+  "en_title": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
+  "en_oneliner": "This roundup recommends 23 lesser-known games that rival GTA 6 in their own niches, from fishing and golf to romancing and birdwatching."
+ },
+ "https://www.pocketgamer.biz/colossal-order-mariina-hallikainen-data-gut-feeling-game-for-everyone": {
+  "zh_title": "Colossal Order CEO 谈数据、直觉与“讨好所有人的游戏讨好不了任何人”",
+  "zh_oneliner": "Colossal Order CEO 回顾工作室如何选出持续找到受众的游戏：最初的答案是直觉，细想之后才发现背后另有方法。",
+  "en_title": "Colossal Order's CEO on data, gut feeling and why \"a game for everyone is a game for no one\"",
+  "en_oneliner": "Colossal Order's CEO reflects on how the studio picks games that keep finding their audience: her first answer was gut feeling, until she looked closer at what really guided those choices."
+ },
+ "https://nordicgame.com/games-capital-summit-2027": {
+  "zh_title": "Games Capital Summit 将于 NG27 首日回归",
+  "zh_oneliner": "Games Capital Summit 将于 2027 年 5 月 25 日 NG27 首日回归，为有融资准备的公司提供与风投直接对接的机会。",
+  "en_title": "Games Capital Summit Announced for NG27",
+  "en_oneliner": "The Games Capital Summit returns on the first conference day of NG27, 25 May 2027, giving venture-ready companies a chance to connect directly with VCs."
+ },
+ "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings": {
+  "zh_title": "关掉 GTA 6 烦人的“犯罪档案”提示后，游戏体验好多了",
+  "zh_oneliner": "作者发现关掉 GTA 6 里不断弹出的“犯罪档案”提示后，游戏沉浸感明显提升，并顺带吐槽了这类侵入式 UI 设计。",
+  "en_title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
+  "en_oneliner": "The author found GTA 6 far more immersive after disabling its constant Criminal Profile pings, with a side swipe at invasive UI design."
  }
 }
