@@ -26422,5 +26422,29 @@
   "zh_oneliner": "手把手教你用 Motion Matching 在 UE5 里实现下蹲与上半身动画分层，每一步都配有截图与原理说明。",
   "en_title": "Crouch y capas de tronco superior con Motion Matching en Unreal Engine 5",
   "en_oneliner": "A step-by-step guide to implementing crouch and upper-body animation layers with Motion Matching in Unreal Engine 5, with screenshots and explanations for every step."
+ },
+ "https://dev.to/andrecoleman_mn/designing-a-daily-game-around-answer-rarity-35jf": {
+  "zh_title": "围绕“答案稀有度”设计一款每日游戏",
+  "zh_oneliner": "每日问答不拼手速拼冷门：答案越少人想到得分越高，作者用一款 Minecraft 主题小游戏拆解这套稀有度计分设计。",
+  "en_title": "Designing a daily game around answer rarity",
+  "en_oneliner": "A daily quiz game that rewards obscure answers instead of speed — the author breaks down the rarity-based scoring behind a Minecraft-themed browser game."
+ },
+ "https://dev.to/mango7777/rusts-global-warfare-4-drops-next-week-with-a-full-earth-map-and-twitch-loot-1bi4": {
+  "zh_title": "Rust“全球战争 4”下周开战：整张地球地图加 Twitch 掉宝",
+  "zh_oneliner": "第四届全球战争活动把 Rust 战场换成 1:1 的地球，主播们各自占领一片区域结盟又互捅，Twitch 掉宝同步上线。",
+  "en_title": "Rust's Global Warfare 4 Drops Next Week With a Full Earth Map and Twitch Loot",
+  "en_oneliner": "Rust's fourth Global Warfare event rebuilds the map as a 1:1 Earth, with streamers claiming regions, forging alliances and betraying each other, plus Twitch drops."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights": {
+  "zh_title": "GTA 6 里诡异的紫色路灯，源于佛罗里达真实的路灯乌龙",
+  "zh_oneliner": "佛罗里达一批路灯因制造缺陷集体变紫，Rockstar 把这个现实乌龙原样搬进了 GTA 6 的街道。",
+  "en_title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+  "en_oneliner": "A real manufacturing defect turned Florida's streetlights purple, and Rockstar faithfully recreated the mishap in GTA 6."
+ },
+ "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle": {
+  "zh_title": "《Warhammer Survivors》更新：经验与武器加强，纳垢野兽遭削弱",
+  "zh_oneliner": "新补丁提升了经验获取与武器强度，同时削弱了让玩家叫苦的纳垢野兽，生存压力小了一些。",
+  "en_title": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
+  "en_oneliner": "The new patch boosts XP gains and weapon power while nerfing the much-hated Beasts of Nurgle, easing the survival grind a bit."
  }
 }
