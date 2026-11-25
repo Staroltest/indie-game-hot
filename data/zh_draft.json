@@ -25390,5 +25390,41 @@
   "zh_oneliner": "PocketGamer Connects 公布了 2027 年上半年的活动安排，计划参展或找发行、找合作的独立开发者可以提前规划行程。",
   "en_title": "Save the date: where will you catch PG Connects in the first half of 2027?",
   "en_oneliner": "PocketGamer Connects has announced its first-half 2027 dates, so indie developers planning to exhibit, meet publishers, or find partners can start scheduling now."
+ },
+ "https://www.gcores.com/articles/222775": {
+  "zh_title": "「游戏制作人大师课」线下活动开启，《博德之门1&2》《这是我的战争》《守望先锋》主创齐聚！",
+  "zh_oneliner": "知乎游戏与 BGM 游戏展联合举办线下大师课，《博德之门》《这是我的战争》《守望先锋》的主创将现场分享做游戏的经验，北京、上海两场均可报名。",
+  "en_title": "\"Game Producer Masterclass\" Live Event: Creators of Baldur's Gate 1 & 2, This War of Mine and Overwatch Gather Together",
+  "en_oneliner": "Zhihu Games and the BGM Game Expo host an offline masterclass where the creators behind Baldur's Gate, This War of Mine and Overwatch share their game-making experience live, with sessions in Beijing and Shanghai."
+ },
+ "https://www.indiedb.com/games/underground-evolution/news/gang-wars-a-city-forum-and-big-moments-whats-new-in-vesper-city": {
+  "zh_title": "帮派战争、城市论坛与高光时刻：《地下进化》的维斯珀城更新了什么",
+  "zh_oneliner": "免费 1920 年代犯罪 RPG《地下进化》更新开放式帮派战争与外交、城市论坛、聊天室、三项新消遣玩法及帽子徽章等内容。",
+  "en_title": "Gang wars, a city forum and big moments: what's new in Vesper City",
+  "en_oneliner": "The free 1920s crime RPG Underground Evolution adds open gang wars and diplomacy, a city forum, chat rooms, three new Pastimes, plus hats, badges and animated big moments."
+ },
+ "https://www.indiedb.com/games/tidal-forces/news/rebuilding-the-tidal-forces-ui-from-the-ground-up": {
+  "zh_title": "从零重建《潮汐之力》的 UI",
+  "zh_oneliner": "《潮汐之力》彻底重做界面：菜单更清爽、按钮更清晰，1440p 与 4K 屏幕上的文字也更锐利。",
+  "en_title": "Rebuilding the Tidal Forces UI from the Ground Up",
+  "en_oneliner": "Tidal Forces gets a complete UI rebuild with cleaner menus, clearer buttons and sharper text on 1440p and 4K screens."
+ },
+ "https://dev.to/ally_wang_b2e892e2b0239f6/how-to-evaluate-llm-powered-npcs-before-shipping-to-production-o6o": {
+  "zh_title": "上线之前，如何评估大模型驱动的 NPC",
+  "zh_oneliner": "很多团队在受控环境里做出惊艳的 LLM NPC 演示，一进真实游戏就出现出戏台词和运行时问题，本文讲如何在上线前系统评估这类 NPC。",
+  "en_title": "How to Evaluate LLM-Powered NPCs Before Shipping To Production",
+  "en_oneliner": "Many teams build dazzling LLM NPC demos in controlled environments, only to hit lore-breaking dialogue and runtime issues in live builds — this piece explains how to evaluate them before shipping."
+ },
+ "https://www.eurogamer.net/exo-primal-shutting-down-2027": {
+  "zh_title": "卡普空科幻恐龙射击游戏《Exoprimal》将于明年停服",
+  "zh_oneliner": "卡普空第三人称科幻恐龙射击游戏《Exoprimal》将于明年关服，停服后将彻底无法游玩。",
+  "en_title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
+  "en_oneliner": "Capcom's third-person sci-fi dinosaur shooter Exoprimal shuts down next year, after which it will no longer be playable at all."
+ },
+ "https://www.pocketgamer.biz/bbc-studios-marina-mello-joins-pgc-london-speaker-lineup": {
+  "zh_title": "BBC Studios 的 Marina Mello 确认出席伦敦 PGC",
+  "zh_oneliner": "BBC Studios 游戏与互动全球总监 Marina Mello 将于明年 1 月在伦敦 Pocket Gamer Connects 上演讲，她自 2024 年加入以来主导了《Bluey》的游戏化拓展。",
+  "en_title": "BBC Studios’ Marina Mello confirmed for PGC London",
+  "en_oneliner": "BBC Studios' global director of gaming and interactive Marina Mello will speak at Pocket Gamer Connects London in January, after leading Bluey's expansion into games since 2024."
  }
 }
