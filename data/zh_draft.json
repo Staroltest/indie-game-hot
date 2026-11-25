@@ -25690,5 +25690,35 @@
   "zh_oneliner": "Sketchfab 两位联合创始人推出基于浏览器的 3D 资产管理平台 lepoly。",
   "en_title": "lepoly: a 3D asset manager from the founders of Sketchfab",
   "en_oneliner": "Sketchfab co-founders Alban Denoyel and Cédric Pinson launch lepoly, a browser-based asset management platform for 3D."
+ },
+ "https://mobilegamer.biz/data-digest-monopoly-go-hits-8bn-block-blast-and-vita-mahjong-lead-ad-charts-korea-stats-more": {
+  "zh_title": "数据速递：Monopoly Go 收入破 80 亿美元，Block Blast 与 Vita Mahjong 领跑广告榜，韩国市场数据一览",
+  "zh_oneliner": "本周手游数据盘点：Monopoly Go 累计收入突破 80 亿美元，Block Blast 和 Vita Mahjong 领跑广告榜，另附韩国市场数据与多款游戏的营收动态。",
+  "en_title": "Data digest: Monopoly Go hits $8bn, Block Blast and Vita Mahjong lead ad charts, Korea stats, more",
+  "en_oneliner": "This week's mobile data round-up: Monopoly Go passes $8bn in revenue, Block Blast and Vita Mahjong top the ad charts, plus Korea market stats and more revenue news."
+ },
+ "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028": {
+  "zh_title": "分析师：硬件降价至少要等到 2028 年",
+  "zh_oneliner": "S&P Global 分析认为，受制造成本与产能扩张计划影响，主机硬件在 2028 年之前不太可能降价。",
+  "en_title": "Analyst: Don't expect hardware price cuts until at least 2028",
+  "en_oneliner": "S&P Global analysis suggests console hardware prices are unlikely to fall before 2028, given manufacturing costs and capacity expansion plans."
+ },
+ "https://80.lv/articles/see-this-deadlock-like-stylized-animation-of-a-mermaid-in-a-water-pumping-suit": {
+  "zh_title": "看这段 Deadlock 风格的美人鱼动画：身着水泵服，鱼儿在其中游动",
+  "zh_oneliner": "动画师 Max Hudetz 分享了一段风格化角色动画：美人鱼穿着注水服，细小的鱼儿在服内游动，细节拉满。",
+  "en_title": "See This Deadlock-Like Stylized Animation of a Mermaid in a Water-Pumping Suit",
+  "en_oneliner": "Animator Max Hudetz shares a stylized character animation of a mermaid in a water-filled suit, with tiny fish swimming inside it."
+ },
+ "https://gamedev.net/blogs/entry/2298731-branching-dialogue-in-games-how-to-build-a-dialogue-tree": {
+  "zh_title": "游戏分支对话：如何搭建对话树",
+  "zh_oneliner": "对话有了分支才耐玩，本文手把手教你用 IMS Creators 一步步搭建可选择的对话树。",
+  "en_title": "Branching dialogue in games: how to build a dialogue tree",
+  "en_oneliner": "Branching dialogue makes conversations worth playing; this guide walks through building a choice-driven dialogue tree step by step in IMS Creators."
+ },
+ "https://dev.to/zentaolabs/check-that-an-osu-skins-hitnormal-sample-sets-are-complete-with-python-n4c": {
+  "zh_title": "用 Python 检查 osu! 皮肤的 hitnormal 音效组是否完整",
+  "zh_oneliner": "一套 osu! 皮肤要覆盖 normal、soft、drum 三组音效，每组四种音色，缺一个文件就会回退默认音效，本文用 Python 脚本帮你逐一核对。",
+  "en_title": "Check that an osu! skin's hitnormal sample sets are complete with Python",
+  "en_oneliner": "An osu! skin needs three sample sets — normal, soft and drum — with four sounds each, and one missing file triggers a fallback; this Python script checks them all for you."
  }
 }
