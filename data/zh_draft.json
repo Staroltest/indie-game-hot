@@ -26314,5 +26314,29 @@
   "zh_oneliner": "Playground Games 谈重启经典奇幻系列时为何不再只看原作三部曲，现代大作如何抬高了玩家对 RPG 的期待。",
   "en_title": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
   "en_oneliner": "Playground Games explains why rebooting Fable meant looking past Lionhead's original trilogy, as games like The Witcher 3 reset what players expect from a big RPG."
+ },
+ "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims": {
+  "zh_title": "据报道，育碧要求员工在提案中说明为何不使用生成式 AI",
+  "zh_oneliner": "据报道，育碧新项目提案须说明生成式 AI 如何帮团队更快做游戏，不用也得给出详细理由，生成式 AI 正成为大厂立项的默认选项。",
+  "en_title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+  "en_oneliner": "Ubisoft reportedly requires new project pitches to explain how generative AI would help teams make games faster — and teams that don't plan to use it must give a detailed reason why."
+ },
+ "https://80.lv/articles/the-making-of-become-from-aaa-games-to-a-microscopic-platformer": {
+  "zh_title": "《Become》制作幕后：从 3A 游戏到微观平台跳跃",
+  "zh_oneliner": "ProtoSeed Games 创始人分享如何用 Niagara 粒子、顶点着色器动画与次表面散射，把人类繁衍题材做成色彩缤纷的微观平台游戏。",
+  "en_title": "The Making of Become: From AAA Games to a Microscopic Platformer",
+  "en_oneliner": "ProtoSeed Games founder Valentin Wirth explains how Niagara particles, vertex-shader animation and subsurface scattering turned human reproduction into a colorful microscopic platformer."
+ },
+ "https://dev.to/mango7777/five-anime-that-never-drop-the-ball-why-these-series-matter-for-storytelling-in-games-2mcl": {
+  "zh_title": "五部从不掉链子的动画：它们对游戏叙事有何启示",
+  "zh_oneliner": "从长篇叙事常见的注水与拖沓说起，聊五部全程在线的动画能给游戏编剧带来哪些讲故事的经验。",
+  "en_title": "Five Anime That Never Drop the Ball: Why These Series Matter for Storytelling in Games",
+  "en_oneliner": "A look at five anime series that never lose momentum — and what their tight long-form storytelling can teach game writers."
+ },
+ "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak": {
+  "zh_title": "已故 BBC 足球解说员被 AI“复活”加入 EA Sports FC，家属称感人、球迷褒贬不一",
+  "zh_oneliner": "传奇解说员 John Motson 将以 AI 语音形象回归 EA FC 27 更新，家属称这是动人的致敬，也有球迷觉得毛骨悚然，AI 复活逝者再引争议。",
+  "en_title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+  "en_oneliner": "Legendary BBC commentator John Motson returns to EA FC 27 in AI form; his family calls it a touching tribute, while some fans find the AI resurrection of the deceased unsettling."
  }
 }
