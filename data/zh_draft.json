@@ -25564,5 +25564,53 @@
   "zh_oneliner": "摔角推广模拟《Ropeholt》0.5.1 版让粉丝点评每一场演出，预订人会读评论并据此调整下一场卡司，联盟规模也随演出不断扩大。",
   "en_title": "Ropeholt 0.5.1: the fans review every show now (and five updates in one day)",
   "en_oneliner": "Ropeholt 0.5.1 has fans reviewing every show, with your booker reading the reviews to fix the next card as the promotion grows — one of five updates shipped in a single day."
+ },
+ "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation": {
+  "zh_title": "CD Projekt Red 与索尼达成新营销合作，为《巫师 4》造势并扩大旗下游戏在 PlayStation 的影响力",
+  "zh_oneliner": "CD Projekt Red 在三季度财报中透露，将与索尼合作推广《巫师 4》，并提升旗下游戏在 PlayStation 平台的曝光。",
+  "en_title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
+  "en_oneliner": "CD Projekt Red revealed in its Q3 earnings report that it will partner with Sony to promote The Witcher 4 and raise the profile of its games on PlayStation."
+ },
+ "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms": {
+  "zh_title": "卡普空恐龙射击游戏《Exoprimal》明年停服，将从商店下架",
+  "zh_oneliner": "卡普空 2023 年推出的团队射击游戏《Exoprimal》将于 2027 年 9 月底关闭在线服务、2026 年 3 月起从商店下架，停服后将无法游玩。",
+  "en_title": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms",
+  "en_oneliner": "Capcom's 2023 team shooter Exoprimal will shut down its online services in late September 2027 and be delisted from stores in March, rendering it unplayable after the shutdown."
+ },
+ "https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you": {
+  "zh_title": "《全面战争：中世纪 3》外交系统将借鉴《三国》的背刺玩法，AI 君主不再只盯着玩家",
+  "zh_oneliner": "Creative Assembly 表示，《全面战争：中世纪 3》将在《三国》外交玩法的基础上更进一步，让 AI 统治者拥有各自的盘算，而不只是围着玩家转。",
+  "en_title": "\"More than just war and peace\": Total War: Medieval 3's diplomacy system will build on Three Kingdoms' backstabbing, with rulers who aren't just focused on you",
+  "en_oneliner": "Creative Assembly says Total War: Medieval 3 will expand on Three Kingdoms' diplomacy, giving AI rulers their own agendas instead of focusing only on the player."
+ },
+ "https://80.lv/articles/this-blender-shader-turns-any-3d-object-into-woodcut-illustration": {
+  "zh_title": "这个 Blender 着色器能把任意 3D 物体变成木刻版画风格",
+  "zh_oneliner": "一款无需 UV、贴图或复杂设置的 Blender 着色器，可以把任意 3D 物体渲染成木刻插画效果，适合快速做风格化尝试。",
+  "en_title": "This Blender Shader Turns Any 3D Object Into Woodcut Illustration",
+  "en_oneliner": "A Blender shader that turns any 3D object into a woodcut-style illustration, with no UVs, textures, or setup required — handy for quick stylized experiments."
+ },
+ "https://gamedev.net/blogs/entry/2298727-i-built-a-fan-site-for-a-daily-puzzle-game-and-the-archive-turned-out-to-be-the-hard-part": {
+  "zh_title": "我为一款每日解谜游戏做了粉丝站，结果存档功能成了最难的部分",
+  "zh_oneliner": "作者分享了为一款每日解谜游戏搭建粉丝站的经历：每日卡组、体力与存档机制看似简单，真正做起来才发现归档设计最费功夫。",
+  "en_title": "I Built a Fan Site for a Daily Puzzle Game, and the Archive Turned Out to Be the Hard Part",
+  "en_oneliner": "The author shares lessons from building a fan site for a daily puzzle game, where designing the archive turned out to be harder than the daily sets themselves."
+ },
+ "https://dev.to/ramongebben/i-made-a-game-where-every-gun-is-a-bass-synth-13nc": {
+  "zh_title": "我做了个游戏，每把枪都是一台贝斯合成器",
+  "zh_oneliner": "《Riddim Riot》是一款可在浏览器游玩的俯视角双摇杆节奏射击游戏，每把枪都是一台 dubstep 贝斯合成器，每次开火都踩在节拍上，战斗本身就是在写歌。",
+  "en_title": "I made a game where every gun is a bass synth",
+  "en_oneliner": "Riddim Riot is a top-down twin-stick rhythm shooter playable in the browser, where every gun is a dubstep bass synth and every shot lands on the beat — fighting writes the track."
+ },
+ "https://dev.to/sirwanafifi/i-vibe-coded-a-motorcycle-racing-game-with-gpt-6-astra-ultra-3bf5": {
+  "zh_title": "我用 GPT-6 Astra Ultra“vibe 编程”做了一款摩托竞速游戏",
+  "zh_oneliner": "作者用 GPT-6 Astra Ultra 在浏览器里从零做了一款摩托竞速游戏《Apex Run》，并记录了从一句提示词开始、逐步加入车库等功能的迭代过程。",
+  "en_title": "I Vibe Coded a Motorcycle Racing Game with GPT-6 Astra Ultra",
+  "en_oneliner": "The author built a browser motorcycle racing game, Apex Run, with GPT-6 Astra Ultra, documenting the iteration from a single prompt to features like a customizable garage."
+ },
+ "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome": {
+  "zh_title": "好家伙，任天堂的冬季周边也太棒了",
+  "zh_oneliner": "任天堂在日本推出了冬季周边系列，从毛绒玩具到开衫应有尽有，目前仅限日本发售。",
+  "en_title": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome",
+  "en_oneliner": "Nintendo has launched a winter merchandise range in Japan, from plush toys to cardigans, currently exclusive to the Japanese market."
  }
 }
