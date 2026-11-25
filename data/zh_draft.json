@@ -25882,5 +25882,47 @@
   "zh_oneliner": "SiegfriedX 在 Xbox 25 周年之际成为全球首位成就点数破千万的玩家，Xbox 官方聊了聊他的这段旅程。",
   "en_title": "Achievement Unlocked: An Interview with the First XBOX Player to Reach 10 Million Gamerscore",
   "en_oneliner": "SiegfriedX became the first Xbox player in the world to reach 10 million Gamerscore — Xbox talks to him about the journey, just in time for the console's 25th anniversary."
+ },
+ "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave": {
+  "zh_title": "EA Sports FC 27 将用生成式 AI 复活已故解说员 John Motson",
+  "zh_oneliner": "EA 用生成式 AI 还原 2023 年去世的足球解说员 John Motson 的声音，让他在 FC 27 里继续解说，这桩逝者声音复活的案例值得开发者留意授权与伦理边界。",
+  "en_title": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
+  "en_oneliner": "EA is using generative AI to bring back the voice of football commentator John Motson, who died in 2023, for FC 27 — a case developers should watch for where voice licensing and AI ethics meet."
+ },
+ "https://dev.to/oubastudio/a-story-engine-small-enough-to-read-in-one-sitting-teaching-branching-narrative-with-27f6": {
+  "zh_title": "用 branching-story-kit 教分支叙事：一款一坐就能读完的故事引擎",
+  "zh_oneliner": "开源工具包 branching-story-kit 用极简代码讲清分支叙事的结构，适合拿来教学或快速搭建叙事原型，MIT 协议免费使用。",
+  "en_title": "A Story Engine Small Enough to Read in One Sitting: Teaching Branching Narrative with branching-story-kit",
+  "en_oneliner": "The open-source branching-story-kit explains branching narrative structure in minimal code, handy for teaching or rapid narrative prototyping, and it is free under the MIT license."
+ },
+ "https://dev.to/arhan_khan/build-a-number-guessing-game-with-python-24nj": {
+  "zh_title": "用 Python 做一个猜数字游戏",
+  "zh_oneliner": "一篇面向新手的 Python 入门教程，从零实现猜数字游戏，讲清循环与条件判断的基本用法。",
+  "en_title": "Build a Number Guessing Game with Python",
+  "en_oneliner": "A beginner-friendly Python tutorial that builds a number guessing game from scratch, covering the basics of loops and conditionals."
+ },
+ "https://dev.to/secondwindmc/graveguard-110-making-minecraft-death-recovery-restart-safe-558n": {
+  "zh_title": "GraveGuard 1.1.0：让 Minecraft 死亡回收在服务器重启后依然可靠",
+  "zh_oneliner": "Minecraft 死亡墓碑插件 GraveGuard 发布 1.1.0，重点解决服务器重启后死亡回收数据丢失的问题，适合跑 SMP 的服主参考其持久化思路。",
+  "en_title": "GraveGuard 1.1.0: making Minecraft death recovery restart-safe",
+  "en_oneliner": "The Minecraft death-grave plugin GraveGuard hits 1.1.0 with a focus on keeping death recovery data intact across server restarts — a persistence approach worth a look for SMP operators."
+ },
+ "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-dlc-news-is-coming-this-week-in-a-team-cherry-special-presentation": {
+  "zh_title": "《空洞骑士：丝之歌》DLC 消息本周公布，Team Cherry 将办特别发布会",
+  "zh_oneliner": "Team Cherry 宣布 11 月 27 日举行“Cherry Time!”特别发布会，公布《丝之歌》DLC 相关消息。",
+  "en_title": "Hollow Knight: Silksong DLC News Is Coming This Week In A Team Cherry 'Special Presentation'",
+  "en_oneliner": "Team Cherry will host a 'Cherry Time!' special presentation on 27 November to share news about the Silksong DLC."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts": {
+  "zh_title": "GTA 6 重编译者与“氛围编程”玩家催促 AI 聊天机器人“干快点、别出错”",
+  "zh_oneliner": "在领跑项目 Project Leonida 被 Rockstar 下架后，社区其他人接手把 GTA 6 搬上 PC，有人用 AI 聊天机器人辅助逆向工程，过程混乱却也折射出 AI 编程的真实边界。",
+  "en_title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+  "en_oneliner": "After Rockstar took down the leading Project Leonida, others in the community picked up the race to get GTA 6 running on PC, some leaning on AI chatbots for reverse engineering — messy, but a telling snapshot of AI-assisted coding in practice."
+ },
+ "https://gamedevjs.com/tools/game-jam-soundtrack-zzfx-studio": {
+  "zh_title": "用 ZzFX Studio 给游戏 Jam 作品做一段芯片音乐",
+  "zh_oneliner": "ZzFX Studio 能快速为游戏 Jam 作品写四声道芯片音乐标题曲，还能对比 JS 包体与 WAV 导出的体积差异，适合赶 Jam 时配乐参考。",
+  "en_title": "Make a chiptune soundtrack for your jam game with ZzFX Studio",
+  "en_oneliner": "ZzFX Studio lets you write a four-channel chiptune title theme for a jam game fast, and compare the size of a playable JavaScript bundle against a stereo WAV export — handy when scoring on a jam deadline."
  }
 }
