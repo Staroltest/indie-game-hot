@@ -26116,5 +26116,41 @@
   "zh_oneliner": "Jan van den Hemel 演示如何用 Blender 做出带凹槽纹路的马克西米利安风格全身甲，手法对美术友好，适合游戏角色建模参考。",
   "en_title": "Creating Armour in Blender",
   "en_oneliner": "Jan van den Hemel shows how to model Maximilian-style fluted body armour in Blender with artist-friendly techniques — handy reference for game character work."
+ },
+ "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027": {
+  "zh_title": "Capcom 宣布 2027 年 9 月关闭《Exoprimal》服务器",
+  "zh_oneliner": "Capcom 宣布在线恐龙射击游戏《Exoprimal》将于 2027 年 9 月 29 日停服，给依赖在线服务的开发者提了个醒：联机游戏的生命周期终点要提前规划。",
+  "en_title": "Capcom will shut down Exoprimal servers in September 2027",
+  "en_oneliner": "Capcom will end service for its online dinosaur shooter Exoprimal on September 29, 2027 — a reminder for online-game developers to plan for a game's end of life in advance."
+ },
+ "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort": {
+  "zh_title": "Nvidia 发布新显卡驱动，有望彻底修复狂写 SSD 的 bug",
+  "zh_oneliner": "Nvidia 新驱动有望彻底解决上一版驱动向部分用户 SSD 写入海量无用数据的 bug，此前的热修复没能根治，PC 开发者可以留意更新。",
+  "en_title": "Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort",
+  "en_oneliner": "Nvidia's new graphics driver may finally fix the bug that made the previous driver write huge amounts of unnecessary data to some users' SSDs, after last week's hotfix fell short."
+ },
+ "https://dev.to/secondwindmc/i-generated-148-retro-game-sound-effects-procedurally-in-python-dpa": {
+  "zh_title": "用 Python 程序化生成 148 个复古游戏音效",
+  "zh_oneliner": "作者用 Python 程序化生成了一套 148 个复古音效，涵盖菜单、跳跃、爆炸等常用类别，适合 game jam 和原型开发直接拿来用。",
+  "en_title": "I generated 148 retro game sound effects procedurally in Python",
+  "en_oneliner": "The author procedurally generated a pack of 148 retro sound effects in Python — menu clicks, jumps, explosions and more — ready to drop into game jams and prototypes."
+ },
+ "https://www.nintendolife.com/news/2026/11/final-fantasy-resonance-devs-are-somehow-surprised-that-fans-still-like-turn-based-combat": {
+  "zh_title": "《最终幻想 Resonance》开发者惊讶于玩家依然热爱回合制战斗",
+  "zh_oneliner": "《最终幻想 Resonance》上线后广受好评，开发者坦言没想到玩家对回合制战斗的热情如此之高，给坚持传统玩法的独立开发者打了一针强心剂。",
+  "en_title": "Final Fantasy Resonance Devs Are Somehow Surprised That Fans Still Like Turn-Based Combat",
+  "en_oneliner": "Final Fantasy Resonance's developers were surprised by how much players still love turn-based combat, a reassuring sign for indie developers sticking with classic mechanics."
+ },
+ "https://www.pcgamer.com/software/ai/ai-kills-another-coding-competition-i-was-not-at-all-interested-in-giving-awards-to-the-output-of-large-language-models": {
+  "zh_title": "AI 又“杀死”一个编程比赛：主办方不愿给大模型输出颁奖",
+  "zh_oneliner": "办了八年的 Atari Homebrew Awards 宣布停办，主办方直言不想把奖颁给大语言模型的输出，AI 生成内容正在挤压传统创作比赛的生存空间。",
+  "en_title": "AI kills another coding competition: 'I was not at all interested in giving awards to the output of large language models'",
+  "en_oneliner": "After eight years, the Atari Homebrew Awards are shutting down because the organizer refuses to hand prizes to large language model output — a sign of how AI-generated work is squeezing traditional creative contests."
+ },
+ "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026": {
+  "zh_title": "索尼公布 2026 年 12 月 PS Plus 会员免费游戏阵容",
+  "zh_oneliner": "索尼公布了 2026 年 12 月 PS Plus 月度游戏阵容，独立开发者可以留意其中独立游戏的入选情况，参考平台方的选品口味。",
+  "en_title": "Here are our PS Plus monthly games for December 2026",
+  "en_oneliner": "Sony revealed the PlayStation Plus monthly games lineup for December 2026 — worth a look for indie developers tracking which indie titles make the platform's cut."
  }
 }
