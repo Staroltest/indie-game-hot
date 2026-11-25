@@ -25246,5 +25246,23 @@
   "zh_oneliner": "单键跑酷游戏《Pudding Escape》的新日志讲了如何用每日关卡、更顺手的操作与分享卡片，给玩家一个明天再回来的理由。",
   "en_title": "A daily course, a closer spoon, and a share card worth posting",
   "en_oneliner": "The one-button runner Pudding Escape's new devlog explains how a daily course, tighter controls and a shareable card give players a reason to come back tomorrow."
+ },
+ "https://www.indiedb.com/games/global-conflict-simulator/news/global-conflict-simulator-adds-eight-player-multiplayer": {
+  "zh_title": "《全球冲突模拟器》新增八人多人模式",
+  "zh_oneliner": "这款沙盒策略游戏推出免费多人更新，2–8 名玩家可联机或局域网同玩一个世界，建基地、指挥部队。",
+  "en_title": "Global Conflict Simulator adds eight-player multiplayer",
+  "en_oneliner": "This sandbox strategy game adds a free multiplayer update: 2–8 players can share one world online or over LAN, building bases and commanding forces."
+ },
+ "https://dev.to/nitortian/building-a-mobile-first-zero-login-gta-6-interactive-map-960-pins-28x-progressive-zoom-local-175d": {
+  "zh_title": "打造移动优先、免登录的 GTA 6 互动地图（960+ 标记、28 倍渐进缩放与本地存档）",
+  "zh_oneliner": "作者复盘如何为客厅主机玩家做一张手机友好的互动地图：960 多个标记、28 倍渐进缩放、勾选进度存在本地，全程不用登录。",
+  "en_title": "Building a Mobile-First, Zero-Login GTA 6 Interactive Map (960+ Pins, 28x Progressive Zoom & Local Save Slots)",
+  "en_oneliner": "A dev postmortem on building a mobile-first interactive map for couch play: 960+ pins, 28x progressive zoom, and locally saved checklist progress — no login required."
+ },
+ "https://dev.to/mango7777/sonys-2028-disc-kill-threatens-a-72-billion-second-hand-market-that-was-still-growing-m96": {
+  "zh_title": "索尼 2028 年取消光盘或冲击仍在增长的 72 亿美元二手游戏市场",
+  "zh_oneliner": "索尼宣布 2028 年起新游戏停发 PlayStation 光盘，作者分析这对价值 72 亿美元、原本预计翻倍的二手市场意味着什么。",
+  "en_title": "Sony's 2028 Disc Kill Threatens a $7.2 Billion Second Hand Market That Was Still Growing",
+  "en_oneliner": "Sony says new PlayStation games will drop discs from January 2028 — the author unpacks what that means for a $7.2B second-hand market that was projected to nearly double."
  }
 }
