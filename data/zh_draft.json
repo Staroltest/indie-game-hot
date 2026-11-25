@@ -25096,5 +25096,23 @@
   "zh_oneliner": "分析师估算 GTA 6 发售让《使命召唤》流失了约 44% 的玩家，且与《堡垒之夜》等竞品相比回流明显更慢，给长线运营的服务型游戏提了个醒。",
   "en_title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
   "en_oneliner": "Analysts estimate GTA 6's launch cost Call of Duty around 44% of its players, with a notably slower return than rival live-service games like Fortnite — a warning sign for long-running service titles."
+ },
+ "https://dev.to/mango7777/unity-7-arrives-with-a-promise-not-to-break-your-project-and-a-careful-line-on-ai-4hhl": {
+  "zh_title": "Unity 7 发布：承诺不破坏现有项目，AI 立场也格外谨慎",
+  "zh_oneliner": "Unity 在 Unite Seoul 发布 Unity 7，主打平滑升级、不强制重写项目，生成式 AI 方面也保持克制，作者结合 2024 年安装费风波分析了这份克制背后的意味，值得 Unity 开发者一读。",
+  "en_title": "Unity 7 Arrives With a Promise Not to Break Your Project and a Careful Line on AI",
+  "en_oneliner": "Unity announced Unity 7 at Unite Seoul, promising a smooth upgrade without forced rewrites and a restrained stance on generative AI — the author reads that restraint against the 2024 install-fee backlash, a useful take for Unity developers."
+ },
+ "https://dev.to/antgamesai/what-makes-a-free-auto-battler-in-the-browser-fair-when-you-only-choose-the-build-2pfk": {
+  "zh_title": "只选配装的浏览器免费自走棋，怎样才算公平？",
+  "zh_oneliner": "《WARSHIP WORKSHOP》是一款浏览器免费 3D 太空自走棋，玩家只负责配船、开战后全交给 AI，作者分享了如何让每场失败都有据可查、不让对战变成抽奖，适合做自走棋或自动战斗的开发者参考。",
+  "en_title": "What makes a free auto battler in the browser fair when you only choose the build?",
+  "en_oneliner": "WARSHIP WORKSHOP is a free browser-based 3D space auto battler where players only build the ship and the AI fights for them — the author explains how to make every loss explainable instead of feeling like a slot machine, a handy read for auto-battler designers."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/long-tails-make-good-prompts-what-i-learned-writing-48-prompts-for-a-rare-answer-trivia-game-58b2": {
+  "zh_title": "长尾出好题：为冷门答案问答游戏写 48 道题的体会",
+  "zh_oneliner": "作者为一款冷门答案问答游戏写了 48 道题，总结出好题目的标准：答案众多却人人想不到同一条，分享了选题与打磨提示词的方法，适合做问答、派对或文字类游戏的开发者参考。",
+  "en_title": "Long Tails Make Good Prompts: What I Learned Writing 48 Prompts for a Rare-Answer Trivia Game",
+  "en_oneliner": "The author wrote 48 prompts for a rare-answer trivia game and shares what makes a good one — many valid answers, but almost nobody thinks of the same one — with practical tips for quiz and party-game designers."
  }
 }
