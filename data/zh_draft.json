@@ -26404,5 +26404,17 @@
   "zh_oneliner": "大型银行抢劫任务里的保险库有特定的开启方式，这篇指南讲了开锁步骤和注意事项。",
   "en_title": "GTA 6 vault: How to open them during big bank jobs",
   "en_oneliner": "Vaults in big bank jobs open a specific way — this guide walks through the steps and what to watch for."
+ },
+ "https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c": {
+  "zh_title": "用原生 JavaScript 在浏览器里直接导出 WAV 音频与 ZIP 压缩包",
+  "zh_oneliner": "作者分享如何用纯前端做一个复古游戏音效小工具，批量生成多种音效变体并导出 WAV 与 ZIP，无需后端和账号，适合想给游戏配在线音效工具的开发者参考。",
+  "en_title": "How to export WAV files and ZIP archives entirely in the browser with vanilla JavaScript",
+  "en_oneliner": "A walkthrough of building a small browser tool that generates retro game sound effects and exports several variations as WAV and ZIP files with vanilla JavaScript — no backend or account needed."
+ },
+ "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027": {
+  "zh_title": "卡普空那款恐龙题材英雄射击游戏将于 2027 年停运",
+  "zh_oneliner": "《Exoprimal》上线后始终没能积累起玩家群体，卡普空宣布 2027 年关服，独立开发者可以从中看看小众题材多人游戏的生存难题。",
+  "en_title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
+  "en_oneliner": "Exoprimal never caught fire with players, and Capcom is shutting the quirky dinosaur-fighting hero shooter down in 2027 — a cautionary tale for niche multiplayer games."
  }
 }
