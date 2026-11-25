@@ -26416,5 +26416,11 @@
   "zh_oneliner": "《Exoprimal》上线后始终没能积累起玩家群体，卡普空宣布 2027 年关服，独立开发者可以从中看看小众题材多人游戏的生存难题。",
   "en_title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
   "en_oneliner": "Exoprimal never caught fire with players, and Capcom is shutting the quirky dinosaur-fighting hero shooter down in 2027 — a cautionary tale for niche multiplayer games."
+ },
+ "https://dev.to/cocinando3d/crouch-y-capas-de-tronco-superior-con-motion-matching-en-unreal-engine-5-1am1": {
+  "zh_title": "Unreal Engine 5 Motion Matching 教程：下蹲与上半身动画层",
+  "zh_oneliner": "手把手教你用 Motion Matching 在 UE5 里实现下蹲与上半身动画分层，每一步都配有截图与原理说明。",
+  "en_title": "Crouch y capas de tronco superior con Motion Matching en Unreal Engine 5",
+  "en_oneliner": "A step-by-step guide to implementing crouch and upper-body animation layers with Motion Matching in Unreal Engine 5, with screenshots and explanations for every step."
  }
 }
