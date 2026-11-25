@@ -25126,5 +25126,41 @@
   "zh_oneliner": "机核播客“摇摆听歌会”第 146 期，盘点 2026 年 K-Pop 女团回归，聊五代团乏力与六代团转型中的音乐质量滑坡。",
   "en_title": "Vol. 146 Swing Listening Party: Judging the Slide in K-Pop Girl Group Music Quality",
   "en_oneliner": "Gcores' Swing Listening Party returns for episode 146, reviewing 2026 K-pop girl group comebacks and the slide in music quality as fifth-gen groups stall and sixth-gen groups struggle to reinvent themselves."
+ },
+ "https://gamedev.net/blogs/entry/2298726-scoping-a-turn-based-strategy-game-seven-systems-to-lock-before-production": {
+  "zh_title": "给回合制策略游戏定范围：投产前必须锁死的七个系统",
+  "zh_oneliner": "回合制策略游戏看着小，实则系统环环相扣，作者列出投产前必须先定下来的七个系统，免得做到第六个月再返工。",
+  "en_title": "Scoping a Turn-Based Strategy Game: Seven Systems to Lock Before Production",
+  "en_oneliner": "Turn-based strategy looks small on paper but hides interlocking systems; the author lists seven to pin down before production so they don't come back as rework in month six."
+ },
+ "https://www.gcores.com/articles/222758": {
+  "zh_title": "卡普空宣布恐龙团队对战动作游戏《Exoprimal》将于27年9月停服",
+  "zh_oneliner": "卡普空宣布《Exoprimal》将于 2027 年 9 月 30 日停服，并公布了通行证停售等后续日程安排。",
+  "en_title": "Capcom Announces Dinosaur Team-Based Action Game Exoprimal Will Shut Down in September 2027",
+  "en_oneliner": "Capcom will end service for Exoprimal on September 30, 2027, and has published the wind-down schedule including battle pass sales cutoffs."
+ },
+ "https://dev.to/mango7777/1047-games-cuts-staff-again-weeks-after-empulse-launch-4nlm": {
+  "zh_title": "1047 Games 在《Empulse》上线数周后再次裁员",
+  "zh_oneliner": "《Empulse》抢先体验上线不到一个月，1047 Games 一年内第三次裁员，美术、社区与 QA 岗位均受影响。",
+  "en_title": "1047 Games Cuts Staff Again Weeks After Empulse Launch",
+  "en_oneliner": "Less than a month after Empulse entered early access, 1047 Games has cut staff for the third time in about a year, hitting art, community, and QA roles."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/puffer-party-unblocked-how-to-play-the-daily-puffer-puzzle-and-why-everyone-gets-the-same-board-4ekg": {
+  "zh_title": "《Puffer Party》免下载每日解谜：玩法解析与全员同局机制",
+  "zh_oneliner": "一款浏览器上的每日解谜小游戏，每天零点更新一关且所有玩家共用同一棋盘，作者介绍了它的三消式玩法。",
+  "en_title": "Puffer Party unblocked: how to play the daily puffer puzzle, and why everyone gets the same board",
+  "en_oneliner": "A free daily browser puzzle where everyone plays the same board, released at midnight UTC; the author explains its match-three tray gameplay."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/best-free-browser-games-2026-no-download-the-14-games-marked-hot-on-slowden-right-now-p7f": {
+  "zh_title": "2026 年最佳免费浏览器游戏（免下载）：SlowDen 上当前热门的 14 款",
+  "zh_oneliner": "盘点了 SlowDen 上被标记为热门的 14 款免下载浏览器游戏，从解谜到沙盒，均可直接在浏览器里打开游玩。",
+  "en_title": "Best free browser games 2026 (no download): the 14 games marked Hot on SlowDen right now",
+  "en_oneliner": "A roundup of the 14 free browser games currently marked Hot on SlowDen, from puzzles to sandbox titles, all playable in a tab with no download."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/thanksgiving-games-online-free-no-download-10-browser-games-to-play-with-family-after-dinner-55lk": {
+  "zh_title": "感恩节免费在线游戏（免下载）：饭后和家人一起玩的 10 款浏览器游戏",
+  "zh_oneliner": "推荐了 10 款适合感恩节家庭聚会的免费浏览器棋盘游戏，无需下载注册，一台设备轮流玩即可。",
+  "en_title": "Thanksgiving games online free (no download): 10 browser games to play with family after dinner",
+  "en_oneliner": "Ten free browser board games suited to a family Thanksgiving gathering, no download or sign-up needed, with several playable by passing one device around the table."
  }
 }
