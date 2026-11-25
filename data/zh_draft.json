@@ -25822,5 +25822,65 @@
   "zh_oneliner": "Ponpon Studio 的剧情向黑色漫画冒险游戏《Frames of Mind》在巴黎游戏周的 Big Indie Pitch 上夺得第一。",
   "en_title": "Noir comic adventure Frames of Mind wins the Big Indie Pitch's Paris debut",
   "en_oneliner": "Ponpon Studio's story-driven noir comic adventure Frames of Mind took first place at the Big Indie Pitch during Paris Games Week."
+ },
+ "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan": {
+  "zh_title": "英国创意产业计划：游戏行业将获超 4500 万英镑资助",
+  "zh_oneliner": "英国政府创意产业计划拨出超 4500 万英镑，8 家游戏工作室将与其它创意行业分享这笔资金，独立团队可留意后续申请通道。",
+  "en_title": "Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan",
+  "en_oneliner": "Eight UK game studios will share over £45m in government funding under the Creative Industries Sector Plan — indie teams should watch for the application details."
+ },
+ "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai": {
+  "zh_title": "编辑手记 #21：那款人人都在玩又没在玩的游戏，以及我们如何报道 AI",
+  "zh_oneliner": "RPS 编辑部罕见地放开付费墙，聊聊那款全民热议的游戏，以及编辑部在 AI 报道上的立场与取舍。",
+  "en_title": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
+  "en_oneliner": "RPS drops the paywall for an unusually open editor's letter on the game everyone is — and isn't — playing, and how the outlet approaches AI coverage."
+ },
+ "https://80.lv/articles/building-a-cozy-sunny-medieval-town-scene-using-custom-modular-assets": {
+  "zh_title": "用自定义模块化资产打造温馨阳光的中世纪小镇场景",
+  "zh_oneliner": "作者分享如何用自制模块化资产搭建密集的中世纪小镇，在 Substance 3D 里做贴图材质，再于 Unreal Engine 5 中调出温暖明亮的氛围光。",
+  "en_title": "Building a Cozy, Sunny Medieval Town Scene Using Custom Modular Assets",
+  "en_oneliner": "Wang Yifan breaks down building a dense medieval town from custom modular assets, texturing in Substance 3D and lighting it warmly in Unreal Engine 5."
+ },
+ "https://www.gcores.com/radios/222596": {
+  "zh_title": "游戏茶话会 V.135 《魔兽世界：无限》新老玩家一起重新踏上艾泽拉斯",
+  "zh_oneliner": "《魔兽世界：无限》开服两周，主播们聊聊这个新老玩家重返艾泽拉斯的版本里哪些改动走心、哪些老毛病还在，并给出入坑建议。",
+  "en_title": "Game Tea Party V.135: Old and New Players Return to Azeroth in World of Warcraft: Infinity",
+  "en_oneliner": "Two weeks after the launch of World of Warcraft: Infinity, the hosts discuss what's genuinely improved, what old frustrations remain, and who should jump in."
+ },
+ "https://dev.to/aplusgamesstudio/game-age-ratings-explained-esrb-pegi-and-iarc-4bal": {
+  "zh_title": "游戏年龄分级详解：ESRB、PEGI 与 IARC",
+  "zh_oneliner": "数字游戏不用逐个向各分级机构申请，Google Play 等商店的免费 IARC 问卷一次就能生成多地区分级，独立开发者上线前值得先读一遍。",
+  "en_title": "Game Age Ratings Explained: ESRB, PEGI and IARC",
+  "en_oneliner": "Digital games rarely need separate applications to each ratings board — the free IARC questionnaire used by major stores generates ESRB, PEGI and other regional ratings in one step."
+ },
+ "https://dev.to/faddeiwang/how-i-built-a-zero-login-client-side-soft-pity-simulator-for-zenless-zone-zero-16jo": {
+  "zh_title": "我如何做了个无需登录、纯前端的《绝区零》软保底模拟器",
+  "zh_oneliner": "作者不用蒙特卡洛近似、不用贴抽卡记录链接，做了一个完全在浏览器里运行的工具，精确算出《绝区零》的软保底概率。",
+  "en_title": "How I Built a Zero-Login Client-Side Soft-Pity Simulator for Zenless Zone Zero",
+  "en_oneliner": "Instead of Monte Carlo approximations or pasted pull-history links, the author built a fully client-side tool that computes exact soft-pity odds for Zenless Zone Zero."
+ },
+ "https://dev.to/seed_map_0edb4c28effd76e5/finding-minecraft-slime-chunks-in-python-and-javascript-reproducing-javas-random-2c39": {
+  "zh_title": "用 Python 与 JavaScript 找 Minecraft 史莱姆区块（复现 Java 的随机数）",
+  "zh_oneliner": "史莱姆区块的判定藏在 Java Random 的一个小公式里，作者用 Python 与 JavaScript 复现它，顺带讲透种子工具背后的原理。",
+  "en_title": "Finding Minecraft Slime Chunks in Python and JavaScript (Reproducing Java's Random)",
+  "en_oneliner": "Slime chunks come down to a small formula built on java.util.Random — the author reproduces it in Python and JavaScript and explains how seed tools work under the hood."
+ },
+ "https://dev.to/jonie_rangel_051969a0f3fe/shipping-demo-v71-fixing-i18n-localization-routing-syncing-audiosubtitles-in-flashback-memories-4907": {
+  "zh_title": "Demo V7.1 发布：修复多语言路由，同步回忆闪回里的音频与字幕",
+  "zh_oneliner": "科幻动作 RPG《V.E.T.O.R — A Ruptura》放出 V7.1 演示版，修了本地化路由，并让闪回回忆中的音频与字幕保持同步。",
+  "en_title": "Shipping Demo V7.1: Fixing i18n Localization Routing & Syncing Audio/Subtitles in Flashback Memories",
+  "en_oneliner": "The sci-fi action-RPG V.E.T.O.R — A Ruptura ships Demo V7.1, fixing i18n routing and syncing audio with subtitles in its flashback memories."
+ },
+ "https://www.nintendolife.com/news/2026/11/yooka-laylee-and-the-impossible-lair-is-getting-a-definitive-edition-on-switch-2": {
+  "zh_title": "《Yooka-Laylee 与不可能的巢穴》将登陆 Switch 2，推出决定版",
+  "zh_oneliner": "Playtonic 将于 12 月 15 日把这款好评平台跳跃游戏的决定版带到 Switch 2，画质与性能均有提升。",
+  "en_title": "Yooka-Laylee And The Impossible Lair Is Getting A Definitive Edition On Switch 2",
+  "en_oneliner": "Playtonic brings the acclaimed Donkey Kong-inspired platformer to Switch 2 on 15 December 2026 with improved visuals and performance."
+ },
+ "https://news.xbox.com/en-us/2026/11/25/achievements-10-million-gamerscore-interview": {
+  "zh_title": "专访首位达成 1000 万成就点数的 Xbox 玩家",
+  "zh_oneliner": "SiegfriedX 在 Xbox 25 周年之际成为全球首位成就点数破千万的玩家，Xbox 官方聊了聊他的这段旅程。",
+  "en_title": "Achievement Unlocked: An Interview with the First XBOX Player to Reach 10 Million Gamerscore",
+  "en_oneliner": "SiegfriedX became the first Xbox player in the world to reach 10 million Gamerscore — Xbox talks to him about the journey, just in time for the console's 25th anniversary."
  }
 }
