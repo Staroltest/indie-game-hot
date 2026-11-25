@@ -26338,5 +26338,47 @@
   "zh_oneliner": "传奇解说员 John Motson 将以 AI 语音形象回归 EA FC 27 更新，家属称这是动人的致敬，也有球迷觉得毛骨悚然，AI 复活逝者再引争议。",
   "en_title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
   "en_oneliner": "Legendary BBC commentator John Motson returns to EA FC 27 in AI form; his family calls it a touching tribute, while some fans find the AI resurrection of the deceased unsettling."
+ },
+ "https://dev.to/gamequant/download-rank-isnt-revenue-what-90-days-of-app-store-charts-say-about-mobile-games-3m3f": {
+  "zh_title": "下载榜不等于收入：90 天 App Store 榜单数据揭示的手游真相",
+  "zh_oneliner": "作者每天记录 170 多个国家和地区的 App Store 榜单，发现一款游戏即便流失大部分新玩家仍能保住收入，用三个案例说明下载排名与实际收入之间的真实差距。",
+  "en_title": "Download Rank Isn't Revenue: What 90 Days of App Store Charts Say About Mobile Games",
+  "en_oneliner": "Recording App Store charts in 170+ countries every day, the author shows how a game can lose most of its new players and still keep its revenue — three cases that expose the real gap between download rank and actual income."
+ },
+ "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson": {
+  "zh_title": "EA Sports FC 27 用 AI 复活已故解说员 John Motson 的声音",
+  "zh_oneliner": "EA 结合历史录音与生成式 AI，让已故足球解说员 John Motson 的声音重现于 FC 27，这次 AI 复刻逝者声音的尝试也引发了新的行业讨论。",
+  "en_title": "EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
+  "en_oneliner": "EA is bringing the late football commentator John Motson back to FC 27 by combining archive recordings with generative AI, a move that also sparks fresh debate about recreating a deceased person's voice."
+ },
+ "https://dev.to/juegostudiosofficial/moving-a-unity-game-to-unreal-a-planning-checklist-before-anyone-ports-a-single-script-4k90": {
+  "zh_title": "把 Unity 游戏搬到 Unreal 之前：先过一遍这份迁移规划清单",
+  "zh_oneliner": "从 Unity 迁移到 Unreal 不是简单的代码转换，作者列出一份动手移植脚本之前必须确认的规划清单，帮开发者先理清资产、架构与工作流的对应关系。",
+  "en_title": "Moving a Unity Game to Unreal: A Planning Checklist Before Anyone Ports a Single Script",
+  "en_oneliner": "Moving a Unity game to Unreal is not a simple port, so the author lays out a planning checklist to sort out assets, architecture, and workflows before a single script gets converted."
+ },
+ "https://dev.to/aharshit123456/quest-books-an-in-app-editor-and-road-watch-3n5k": {
+  "zh_title": "任务书、内置编辑器与道路监测：真实地图游戏 Kurukuru 的开发日志",
+  "zh_oneliner": "游戏内容总在过时——咖啡馆关门、公园标记落在湖中央，作者分享 Kurukuru 如何用任务书、内置编辑器和道路监测工具，让真实地图游戏的数据跟上现实变化。",
+  "en_title": "Quest Books, an In-App Editor and Road Watch",
+  "en_oneliner": "Game content is always slightly out of date — a cafe closed, a park pin sits in a lake — so the author shares how Kurukuru uses quest books, an in-app editor, and road watch to keep a real-map game's data in step with reality."
+ },
+ "https://dev.to/aharshit123456/turning-a-real-map-into-a-pixel-world-1ei": {
+  "zh_title": "把真实地图变成像素世界：Kurukuru 的校园地图改造手记",
+  "zh_oneliner": "当地图本身就是游戏棋盘时，灰色道路加蓝点就不够了，作者分享 Kurukuru 如何把 OpenStreetMap 数据变成像素风的校园世界，同时保住真实道路、建筑与 GPS 定位。",
+  "en_title": "Turning a Real Map into a Pixel World",
+  "en_oneliner": "When the map itself is the game board, grey roads and a blue dot are not enough — the author shares how Kurukuru turned OpenStreetMap data into a pixel-art campus world while keeping real roads, buildings, and GPS positions intact."
+ },
+ "https://dev.to/aharshit123456/fog-of-war-on-a-real-map-with-postgis-deo": {
+  "zh_title": "用 PostGIS 在真实地图上实现战争迷雾",
+  "zh_oneliner": "策略游戏的地图起初一片漆黑，只有走过的地方才会显现，作者介绍 Kurukuru 如何把杂乱的 GPS 轨迹变成个人探索区域，在真实校园地图上实现这套战争迷雾机制。",
+  "en_title": "Fog of War on a Real Map with PostGIS",
+  "en_oneliner": "In strategy games the map starts dark and only reveals where you have walked; the author shows how Kurukuru turns noisy GPS fixes into a personal explored area, bringing fog of war to a real campus map."
+ },
+ "https://dev.to/secondwindmc/how-to-add-retro-ui-sound-effects-in-godot-4-with-a-free-cc0-pack-4fi2": {
+  "zh_title": "Godot 4 免费 CC0 音效包：给游戏加上复古 UI 音效",
+  "zh_oneliner": "小小的音效能让 Godot 原型立刻显得灵敏，作者介绍如何用一个免费 CC0 音效包，为菜单点击、错误提示和拾取反馈配上复古 UI 音效。",
+  "en_title": "How to add retro UI sound effects in Godot 4 with a free CC0 pack",
+  "en_oneliner": "Small sound effects make a Godot prototype feel responsive fast, and the author shows how to add retro UI sounds for menu clicks, error tones, and pickups with a free CC0 pack."
  }
 }
