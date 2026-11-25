@@ -26194,5 +26194,17 @@
   "zh_oneliner": "Roblox 与英国音乐版权组织 PRS for Music 达成授权协议，平台上使用的音乐将为词曲作者带来新的收入来源，关注 UGC 平台音乐变现的开发者可以留意。",
   "en_title": "Roblox signs licensing deal with PRS for Music",
   "en_oneliner": "Roblox has struck a licensing deal with UK music rights organisation PRS for Music, opening a new revenue stream for songwriters and composers whose work is used on the platform."
+ },
+ "https://dev.to/nikitaeverywhere/how-phones-become-one-game-board-in-your-browser-194m": {
+  "zh_title": "手机如何拼成一块浏览器游戏棋盘",
+  "zh_oneliner": "乌克兰开发者用一个月做了 BIGBOARD.GAMES：把两到四部手机拼在桌上，屏幕就连成一块棋盘，冰球能跨屏滑动，文章还聊了浏览器如何测出屏幕的真实尺寸。",
+  "en_title": "How Phones Become One Game Board in Your Browser",
+  "en_oneliner": "A Ukrainian developer built BIGBOARD.GAMES in about a month: place two to four phones side by side and their screens become one game board, with the puck sliding across screens, plus a deep dive into how a browser measures real screen size."
+ },
+ "https://gamedev.net/blogs/entry/2298732-creating-mono": {
+  "zh_title": "创作《Mono》：一款向老版大金刚致敬的猴子游戏",
+  "zh_oneliner": "开发者 Rodrigo 怀念老版大金刚系列，动手做了一款猴子主角的平台游戏《Mono》，分享了角色动画与场景物件的制作过程，部分借助了 AI。",
+  "en_title": "Creating Mono",
+  "en_oneliner": "Developer Rodrigo, missing the classic Donkey Kong games, is building Mono, a monkey-led platformer, and shares the character animations and objects he made so far, with some AI assistance."
  }
 }
