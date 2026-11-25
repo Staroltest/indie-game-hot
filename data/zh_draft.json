@@ -24850,5 +24850,47 @@
   "zh_oneliner": "Valve 为 Steam 社区市场带来重大升级，全新市场主页加载更快，物品页面、挂单与搜索功能也围绕物品追踪和挂单管理做了改进。",
   "en_title": "Steam Community Market Gets Another Major Update",
   "en_oneliner": "Valve rolled out a major upgrade to the Steam Community Market, with a faster redesigned homepage and improved item pages, listings, and search built around item tracking and order management."
+ },
+ "https://gamedev.net/blogs/entry/2298724-looking-for-rocket-league-players-rlm-community": {
+  "zh_title": "寻找《火箭联盟》玩家——RLM 社区招募",
+  "zh_oneliner": "一个面向各版本《火箭联盟》玩家的社区正在招募队友，帮玩家组队开黑、一起上分。",
+  "en_title": "Looking for Rocket League Players – RLM Community",
+  "en_oneliner": "A community for Rocket League players across all versions is recruiting teammates to squad up and play together."
+ },
+ "https://www.gcores.com/articles/222745": {
+  "zh_title": "《警察模拟器》发布最新预告片，展示警员创建与装备系统",
+  "zh_oneliner": "新预告片展示了警员创建与装备系统，玩家将以新警员身份在法雷蒙特市出警、处理案件。",
+  "en_title": "Police Simulator Releases New Trailer Showcasing Officer Creation and Equipment Systems",
+  "en_oneliner": "The new trailer shows off officer creation and equipment systems as players start their first shift on patrol in Fairmont City."
+ },
+ "https://www.gcores.com/articles/222743": {
+  "zh_title": "《巴士模拟器27》公布 Karsan 组合包 DLC",
+  "zh_oneliner": "新 DLC 将于 12 月 3 日上线，为车队带来四款官方授权电动巴士，扩充南欧城市的公交运营玩法。",
+  "en_title": "Bus Simulator 27 Announces Karsan Combo Pack DLC",
+  "en_oneliner": "The new DLC arrives December 3, adding four officially licensed electric buses to expand public transit operations in the sunny southern European city of Felicia Bay."
+ },
+ "http://www.gamelook.com.cn/2026/11/607139": {
+  "zh_title": "俄罗斯要搞游戏版号？考虑强制游戏许可，并允许安全局获取玩家数据",
+  "zh_oneliner": "俄罗斯正考虑对游戏实行强制发行许可，并要求配合监控，让安全部门能够获取玩家数据，值得关注出海合规风向。",
+  "en_title": "Russia Considers Mandatory Game Licensing and Letting Security Services Access Player Data",
+  "en_oneliner": "Russia is weighing mandatory publishing licenses for games along with monitoring requirements that would give security services access to player data — a compliance signal worth watching for developers publishing abroad."
+ },
+ "https://dev.to/tyrboai/how-to-make-a-tower-defense-game-with-ai-systems-balance-and-steps-37ie": {
+  "zh_title": "如何用 AI 做塔防游戏：系统、平衡与步骤",
+  "zh_oneliner": "文章拆解了塔防游戏相互咬合的六大系统，并讲了怎么用 AI 辅助调波次曲线与数值平衡。",
+  "en_title": "How to Make a Tower Defense Game with AI: Systems, Balance and Steps",
+  "en_oneliner": "The article breaks down the six interlocking systems of a tower defense game and explains how AI can help tune wave curves and numerical balance."
+ },
+ "https://dev.to/gilboard_boss/debut-project-a-free-k-pop-agency-management-sim-in-the-browser-beta-3kb3": {
+  "zh_title": "Debut Project：一款免费的浏览器 K-pop 经纪公司经营模拟游戏（测试版）",
+  "zh_oneliner": "作者分享了自己做的免费浏览器游戏，玩家经营一家 K-pop 经纪公司，从练习室一路带艺人冲向 Billboard 榜单。",
+  "en_title": "Debut Project: a free K-pop agency management sim in the browser (beta)",
+  "en_oneliner": "The author shares a free browser game they made, where you run a K-pop agency and guide artists from the practice room toward the Billboard charts."
+ },
+ "https://www.nintendolife.com/news/2026/11/mario-kart-world-has-been-updated-to-version-1-9-0-here-are-the-full-patch-notes": {
+  "zh_title": "《马里奥赛车世界》更新至 1.9.0 版本，完整补丁说明公布",
+  "zh_oneliner": "Switch 2 独占的《马里奥赛车世界》迎来 1.9.0 更新，包含淘汰巡回赛调整与多项修复，附完整更新说明。",
+  "en_title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes",
+  "en_oneliner": "The Switch 2 exclusive Mario Kart World gets its 1.9.0 update, with Knockout Tour adjustments and various fixes, alongside the full patch notes."
  }
 }
