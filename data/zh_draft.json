@@ -25024,5 +25024,29 @@
   "zh_oneliner": "腾讯魔方新作《狩》首支宣传片公布，这篇试玩加开发团队采访聊聊它如何把近战动作、街头潮流美术与多种竞技模式拼在一起。",
   "en_title": "Look Good and Play Well: Hands-On With Multiplayer Action Game 'Shou' and an Interview With Its Dev Team",
   "en_oneliner": "Tencent's Morefun Studios has revealed its multiplayer action game Shou — this hands-on preview and dev interview dig into its melee combat, street-style art, and competitive modes."
+ },
+ "https://dev.to/minellion/i-built-a-free-browser-practice-mode-for-a-minecraft-trivia-game-b94": {
+  "zh_title": "我给 Minecraft 问答游戏做了一个免费浏览器练习模式",
+  "zh_oneliner": "作者为每日一局的 Minecraft 主题问答游戏 Minellion 做了个无限练习站：不限次数、保留稀有度计分，顺手练手感。",
+  "en_title": "I built a free browser practice mode for a Minecraft trivia game",
+  "en_oneliner": "The author built an unlimited practice site for Minellion, a daily Minecraft trivia game: play as often as you like while keeping the rarity-based scoring that makes rare answers dig deeper."
+ },
+ "https://dev.to/aurum_revenue/a-game-where-you-play-the-tide-and-the-whole-city-comes-back-from-a-nine-character-string-43p1": {
+  "zh_title": "一款扮演潮汐的游戏：九个字符就能让整座城市重生",
+  "zh_oneliner": "浏览器小游戏 NULL TIDE 里玩家不是角色而是潮汐，涨落之间冲上岸的物件会决定城市文化的走向，十次潮汐演绎一段文明史。",
+  "en_title": "A game where you play the tide, and the whole city comes back from a nine-character string",
+  "en_oneliner": "In the browser game NULL TIDE you are not a character but the tide itself: what the water leaves on the seabed shapes the city's culture, and ten tides play out a whole civilization."
+ },
+ "https://dev.to/antgamesai/designing-a-3d-spaceship-builder-game-in-the-browser-hull-cells-part-placement-and-two-limit-bars-4ic1": {
+  "zh_title": "在浏览器里设计 3D 飞船建造游戏：船体格子、部件摆放与两条限制条",
+  "zh_oneliner": "免费浏览器游戏 WARSHIP WORKSHOP 把建造界面做成核心玩法：拼船体、装武器护盾引擎，一键开战看 AI 对决，文章拆解了建造器的设计思路。",
+  "en_title": "Designing a 3D spaceship builder game in the browser: hull cells, part placement and two limit bars",
+  "en_oneliner": "WARSHIP WORKSHOP is a free browser game where the builder is the whole game: shape a hull, fit guns, shields and engines, then watch your ship auto-battle an AI rival — the post breaks down the builder's design."
+ },
+ "https://dev.to/gtelocalize/shipping-a-game-in-japanese-text-wrapping-placeholders-pronouns-and-what-to-leave-in-english-2alm": {
+  "zh_title": "把游戏发到日本：文本换行、占位符、代词与该留在英文里的东西",
+  "zh_oneliner": "日本市场付费意愿高但本地化门槛也高，这篇实战总结讲游戏日文本地化最容易翻车的几处：换行、占位符、代词，以及哪些词就该留在英文。",
+  "en_title": "Shipping a Game in Japanese: Text Wrapping, Placeholders, Pronouns and What to Leave in English",
+  "en_oneliner": "Japan is a high-spending but demanding market for games; this hands-on guide covers where Japanese localization most often breaks — text wrapping, placeholders, pronouns — and what should stay in English."
  }
 }
