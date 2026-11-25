@@ -25612,5 +25612,83 @@
   "zh_oneliner": "任天堂在日本推出了冬季周边系列，从毛绒玩具到开衫应有尽有，目前仅限日本发售。",
   "en_title": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome",
   "en_oneliner": "Nintendo has launched a winter merchandise range in Japan, from plush toys to cardigans, currently exclusive to the Japanese market."
+ },
+ "https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework": {
+  "zh_title": "Unreal Engine 6 将不再包含 Blueprints 与 Actor Gameplay Framework",
+  "zh_oneliner": "Epic 确认 Unreal Engine 6 将弃用 Blueprints 与 Actor Gameplay Framework，改由 Verse 和新的 Scene Graph 框架接手，引擎工作流面临一次大换代。",
+  "en_title": "Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework",
+  "en_oneliner": "Epic confirms Unreal Engine 6 will drop Blueprints and the Actor Gameplay Framework in favor of Verse and the new Scene Graph framework, marking a major shift in engine workflow."
+ },
+ "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus": {
+  "zh_title": "父子档改装大巴开进校园，用经典游戏硬件给孩子们上课",
+  "zh_oneliner": "父子两人把一辆改装大巴开进学校，让孩子们亲手摸到 Mega Drive 等经典主机，在玩中学游戏硬件的历史。",
+  "en_title": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
+  "en_oneliner": "A father and son converted a bus into a travelling classroom, letting kids get hands-on with classic hardware like the Mega Drive and learn gaming history by playing."
+ },
+ "https://indiegamesplus.com/psychotic-bathtub-preview": {
+  "zh_title": "《Psychotic Bathtub》：一段短暂而癫狂的游戏体验",
+  "zh_oneliner": "一款以个人化叙事见长的短篇游戏，用癫狂的氛围讲一个只属于少数人的故事。",
+  "en_title": "‘Psychotic Bathtub’ is a short, psychotic episode in a game",
+  "en_oneliner": "A short, personal game that tells a story only a few will fully relate to, wrapped in a deliberately unhinged mood."
+ },
+ "https://dev.to/zane_5f4755a11fbe2755438a/from-one-character-image-to-a-looping-sprite-sheet-in-godot-4-plus-a-free-cc0-pack-2k42": {
+  "zh_title": "用一张角色图在 Godot 4 里做出循环精灵表，附免费 CC0 素材包",
+  "zh_oneliner": "作者分享了一套从单张角色图生成循环行走、攻击、跳跃精灵表的工作流，附免费 CC0 素材，Godot 4 部分可直接照着做。",
+  "en_title": "From one character image to a looping sprite sheet in Godot 4 (plus a free CC0 pack)",
+  "en_oneliner": "The author shares a workflow for turning a single character image into looping walk, attack and jump sprite sheets, with a free CC0 pack and a Godot 4 walkthrough you can follow directly."
+ },
+ "https://dev.to/jaxx_creates9/what-was-the-first-game-you-ever-tried-to-make-49l8": {
+  "zh_title": "你尝试做的第一款游戏是什么？",
+  "zh_oneliner": "一位年轻开发者发起讨论，邀请大家聊聊自己动手做的第一款游戏、用的引擎与语言，以及踩过的坑。",
+  "en_title": "What Was the First Game You Ever Tried to Make?",
+  "en_oneliner": "A young developer opens a discussion inviting others to share the first game they ever tried to build, the engine and language they used, and the hardest part of getting it working."
+ },
+ "https://dev.to/whitecubestudios/mastering-steamworks-a-technical-guide-for-indie-publishing-3jok": {
+  "zh_title": "掌握 Steamworks：独立发行的技术指南",
+  "zh_oneliner": "这篇技术指南不讲空话，直接拆解 Steamworks 的 API 与工具，帮独立开发者把发行流程、玩家体验与曝光都做到位。",
+  "en_title": "Mastering Steamworks: A Technical Guide for Indie Publishing",
+  "en_oneliner": "A hands-on technical guide that breaks down the Steamworks APIs and tools to help indie developers get publishing, player experience and discoverability right."
+ },
+ "https://dev.to/juegostudiosofficial/engineering-for-xbox-certification-building-sign-out-resume-and-network-loss-handling-before-qa-1m2f": {
+  "zh_title": "为 Xbox 认证做工程准备：赶在 QA 发现之前处理好登出、恢复与断网",
+  "zh_oneliner": "认证翻车往往不是大功能出问题，而是登出、待机恢复、云存档中断网这些没设计过的路径，文章讲工程师该如何提前把它们处理好。",
+  "en_title": "Engineering for Xbox Certification: Building Sign-Out, Resume and Network Loss Handling Before QA Finds It",
+  "en_oneliner": "Certification failures rarely come from big features — they come from unhandled paths like sign-out, resume after rest mode and network loss mid-save, and this piece explains how engineers should design for them in advance."
+ },
+ "https://dev.to/timur_sharapudin_db08a63f/how-we-turn-any-learning-goal-into-a-game-map-product-breakdown-flc": {
+  "zh_title": "我们如何把任意学习目标变成一张游戏地图（产品拆解）",
+  "zh_oneliner": "小团队 Lumex 的产品拆解：输入一句学习目标就能生成带战斗的游戏地图，已有超过 1.1 万人试用，文章讲清了它的设计思路。",
+  "en_title": "How we turn any learning goal into a game map (product breakdown)",
+  "en_oneliner": "A product breakdown of Lumex, a small team's game that turns any learning goal into a battle-filled game map, tried by more than 11,000 people so far."
+ },
+ "https://www.nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month": {
+  "zh_title": "《Lords of the Fallen 2》定档 2027 年 4 月，具体日期下月公布",
+  "zh_oneliner": "CI Games 确认《Lords of the Fallen 2》将于 2027 年 4 月发售，确切日期将在 12 月公布。",
+  "en_title": "Lords Of The Fallen 2 Launches April 2027, Final Date Coming Next Month",
+  "en_oneliner": "CI Games confirms Lords of the Fallen 2 will launch in April 2027, with the exact date to be announced in December."
+ },
+ "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter": {
+  "zh_title": "玩家发现《GTA 6》里有 1500 多栋可进入的建筑，约占全图建筑的 28%",
+  "zh_oneliner": "有玩家实测统计，《GTA 6》的 Leonida 地图上有 1500 多栋建筑可以自由进入，约占全图建筑总数的 28%。",
+  "en_title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
+  "en_oneliner": "One player counted more than 1,500 enterable buildings across Leonida in GTA 6, nearly 28% of all buildings on the map."
+ },
+ "https://www.pocketgamer.biz/softgames-ceo-relying-on-one-platform-or-one-model-is-risky": {
+  "zh_title": "Softgames CEO：只依赖一个平台或一种模式是有风险的",
+  "zh_oneliner": "迎来 20 周年的 Softgames 回顾了在多个平台与商业模式间辗转的历程，并谈到接下来要扩大移动业务、继续收购休闲游戏。",
+  "en_title": "Softgames CEO: \"Relying on one platform or one model is risky\"",
+  "en_oneliner": "Marking 20 years in games, Softgames reflects on moving between platforms and business models, and talks about growing its mobile business and acquiring more casual games."
+ },
+ "https://www.blendernation.com/2026/11/25/outfit-refit-2-0-and-drapefix-fit-outfits-to-any-avatar-then-give-them-a-real-cloth-drape": {
+  "zh_title": "Outfit Refit 2.0 与 DrapeFix：给任意虚拟形象换装，再用真实布料模拟定型",
+  "zh_oneliner": "Meshwright 发布两款 Blender 插件：Outfit Refit 2.0 把为一个形象做的服装适配到其他形象，DrapeFix 则用 Blender 自带的布料解算器让服装自然垂落，主要面向 VRChat 形象创作者。",
+  "en_title": "Outfit Refit 2.0 and DrapeFix: fit outfits to any avatar, then give them a real cloth drape",
+  "en_oneliner": "Meshwright releases two Blender add-ons: Outfit Refit 2.0 fits an outfit made for one avatar onto others, and DrapeFix settles it with Blender's own cloth solver, aimed at VRChat avatar creators."
+ },
+ "https://www.blendernation.com/2026/11/25/lepoly-a-3d-asset-manager-from-the-founders-of-sketchfab": {
+  "zh_title": "lepoly：Sketchfab 创始人推出的 3D 资产管理工具",
+  "zh_oneliner": "Sketchfab 两位联合创始人推出基于浏览器的 3D 资产管理平台 lepoly。",
+  "en_title": "lepoly: a 3D asset manager from the founders of Sketchfab",
+  "en_oneliner": "Sketchfab co-founders Alban Denoyel and Cédric Pinson launch lepoly, a browser-based asset management platform for 3D."
  }
 }
