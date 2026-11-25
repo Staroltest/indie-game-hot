@@ -24820,5 +24820,11 @@
   "zh_oneliner": "从一句清晰的文字描述出发，先生成、再聆听、再细化提示词，这篇文章给出了一套用文本提示做游戏音效的实操流程，适合想快速出音效原型的独立开发者。",
   "en_title": "A Practical Workflow for Designing Sound Effects from Text Prompts",
   "en_oneliner": "Start with a clear text description, generate, listen, then refine the prompt — this piece lays out a practical workflow for designing game sound effects from text prompts, handy for devs prototyping audio fast."
+ },
+ "https://www.gcores.com/articles/222746": {
+  "zh_title": "游戏发行商 astragon 开启 Steam 发行商特卖，多款模拟游戏限时优惠",
+  "zh_oneliner": "astragon 在 Steam 开启发行商特卖，旗下多款模拟游戏及 DLC 限时优惠，12 月 3 日结束。",
+  "en_title": "Publisher astragon launches Steam publisher sale with discounts on multiple simulation games",
+  "en_oneliner": "astragon is running a Steam publisher sale with discounts on its simulation games and DLC until December 3."
  }
 }
