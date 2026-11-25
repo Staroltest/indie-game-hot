@@ -25450,5 +25450,35 @@
   "zh_oneliner": "发行商 4Divinity 与开发商 Nekcom Entertainment 宣布《昭和美国物语》改至 2027 年 10 月 28 日发售，团队希望打磨到足够完整再与玩家见面。",
   "en_title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
   "en_oneliner": "Publisher 4Divinity and developer Nekcom Entertainment have moved Showa American Story to October 28, 2027, giving the team more time to make the game feel cohesive, responsive and complete at launch."
+ },
+ "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever": {
+  "en_title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+  "zh_title": "AI 生成的《GTA 6》PC 移植版遭 Rockstar 下架传闻，前 Bungie 开发者称其为“史上最荒唐的闹剧”",
+  "zh_oneliner": "非官方 AI 生成的《GTA 6》PC 移植版据称已被 Rockstar 与 Take-Two 叫停，前 Bungie 开发者直言这场风波荒唐至极。",
+  "en_oneliner": "An unofficial AI-generated PC port of GTA 6 was reportedly shut down by Rockstar and Take-Two, with a former Bungie developer calling the whole saga the most ridiculous dumpster fire ever."
+ },
+ "https://80.lv/articles/nvidia-releases-driver-that-fixes-ssd-wearing-bug": {
+  "en_title": "NVIDIA Releases Driver That Fixes SSD-Wearing Bug",
+  "zh_title": "NVIDIA 发布新驱动，修复加速 SSD 损耗的 Bug",
+  "zh_oneliner": "GeForce Game Ready 621.40 WHQL 驱动正式修复了加速 SSD 损耗的问题，同时优化了《战锤 40K：战争黎明 4》等游戏的体验。",
+  "en_oneliner": "GeForce Game Ready driver 621.40 WHQL officially fixes the bug that was wearing out SSDs, while also improving the experience in Warhammer 40,000: Dawn of War IV and other titles."
+ },
+ "https://dev.to/alok_krishali/unity-coroutine-not-working-10-common-problems-and-their-solutions-529c": {
+  "en_title": "Unity Coroutine Not Working? 10 Common Problems and Their Solutions",
+  "zh_title": "Unity 协程不工作？10 个常见问题及解决方案",
+  "zh_oneliner": "协程不启动、意外停止或 WaitForSeconds 后不再执行，本文逐一拆解这 10 类常见故障并给出对应的排查与修复方法。",
+  "en_oneliner": "Coroutines that won't start, stop unexpectedly, or never resume after WaitForSeconds — this guide walks through 10 common failures and how to fix each one."
+ },
+ "https://blog.gordo.life/2026/04/12/haskell-websockets.html": {
+  "en_title": "Writing a Turn Based Game Websocket Server in Haskell",
+  "zh_title": "用 Haskell 写回合制游戏的 WebSocket 服务器",
+  "zh_oneliner": "以回合制游戏为例，讲解如何用 Haskell 搭建 WebSocket 服务器，涵盖连接管理与回合同步的实现思路。",
+  "en_oneliner": "A hands-on walkthrough of building a WebSocket server for a turn-based game in Haskell, covering connection handling and turn synchronization."
+ },
+ "https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026": {
+  "en_title": "Playgama developers earn over $1m in first nine months of 2026",
+  "zh_title": "Playgama 平台开发者 2026 年前九个月收入突破 100 万美元",
+  "zh_oneliner": "网页游戏发行与变现平台 Playgama 披露，平台开发者在 2026 年 1 月至 9 月累计收入超过 100 万美元，每周开发者收入也在持续增长。",
+  "en_oneliner": "Web games publishing and monetisation platform Playgama says developers on its platform collectively earned more than $1 million between January and September 2026, with weekly developer earnings still growing."
  }
 }
