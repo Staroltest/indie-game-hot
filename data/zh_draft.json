@@ -25186,5 +25186,29 @@
   "zh_oneliner": "针对越写越慢越贵的 AI 写作与 RPG 工具，分享一套把长对话 Token 成本压下来的状态机方案。",
   "en_title": "How we slashed LLM Token cost by 90% with Markov States, Aho-Corasick & CoALA",
   "en_oneliner": "A state-machine approach to taming the ballooning token costs of long-running AI writing and RPG tools."
+ },
+ "https://indienova.com/indie-game-news/news-of-overseas-indie-games-and-industry-vol-162": {
+  "zh_title": "NOVA海外独立游戏见闻 Vol.162",
+  "zh_oneliner": "本周海外独立游戏见闻：G-STAR 独立游戏展区参展规模创新高，109 组独立开发者参展。",
+  "en_title": "NOVA Overseas Indie Game Highlights Vol.162",
+  "en_oneliner": "This week's overseas indie roundup: G-STAR's indie showcase hit a record 109 developers."
+ },
+ "https://dev.to/khaisimon_devgame/male-flight-attendants-more-3jde": {
+  "zh_title": "《机组人生模拟器》重大更新：男乘务员登场及更多内容",
+  "zh_oneliner": "《机组人生模拟器》几天后迎来重大更新，社区呼声最高的男性乘务员终于加入。",
+  "en_title": "MALE FLIGHT ATTENDANTS & MORE!",
+  "en_oneliner": "Cabin Crew Life Simulator's big update arrives in a few days, adding the community's most-requested feature: male flight attendants."
+ },
+ "https://dev.to/the_daily_flare/rockstar-uk-employees-vote-on-union-recognition-after-gta-vi-launch-4h3b": {
+  "zh_title": "GTA 6 发售后，Rockstar 英国员工就工会承认进行投票",
+  "zh_oneliner": "GTA 6 发售几天后，1600 多名 Rockstar 英国员工开始投票决定是否承认工会，投票 11 月 26 日截止。",
+  "en_title": "Rockstar UK Employees Vote on Union Recognition After GTA VI Launch",
+  "en_oneliner": "Days after GTA VI launched, over 1,600 Rockstar UK staff are voting on union recognition, with the ballot closing Nov. 26."
+ },
+ "https://www.youxituoluo.com/535092.html": {
+  "zh_title": "B站Q3营收83亿、净利5亿，游戏创收14亿等待下一张王牌",
+  "zh_oneliner": "B站三季度营收 83 亿、净利 5 亿，游戏业务创收 14 亿，广告仍是增长主力。",
+  "en_title": "Bilibili Q3 Revenue Hits 8.3 Billion Yuan, Net Profit 500 Million; Games Bring In 1.4 Billion While Awaiting the Next Hit",
+  "en_oneliner": "Bilibili's Q3 revenue grew 8% to 8.3 billion yuan with games contributing 1.4 billion, as ads remain the main growth driver."
  }
 }
