@@ -25264,5 +25264,71 @@
   "zh_oneliner": "索尼宣布 2028 年起新游戏停发 PlayStation 光盘，作者分析这对价值 72 亿美元、原本预计翻倍的二手市场意味着什么。",
   "en_title": "Sony's 2028 Disc Kill Threatens a $7.2 Billion Second Hand Market That Was Still Growing",
   "en_oneliner": "Sony says new PlayStation games will drop discs from January 2028 — the author unpacks what that means for a $7.2B second-hand market that was projected to nearly double."
+ },
+ "https://dev.to/loklok5/how-project-leonida-translates-26503-xbox-shaders-via-static-recompilation-and-why-it-still-lcj": {
+  "zh_title": "Project Leonida 如何用静态重编译翻译 26,503 个 Xbox 着色器（以及为何仍进不了游戏画面）",
+  "zh_oneliner": "开源静态重编译工具链瞄准 GTA 6 的 Xbox 版，一周内收获两万多星又遭下架，社区随即接手续命，本文拆解它如何把着色器逐个翻译成可运行代码。",
+  "en_title": "How Project Leonida Translates 26,503 Xbox Shaders via Static Recompilation (and Why It Still Doesn't Boot to Gameplay)",
+  "en_oneliner": "An open-source static recompilation toolchain targeting the Xbox build of GTA 6 gained 25,000+ stars in a week, got taken down, and was immediately revived by the community — this piece breaks down how it translates shaders one by one into runnable code."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/games-to-play-when-bored-no-download-8-small-indie-browser-games-from-a-45-second-run-to-a-3kg2": {
+  "zh_title": "无聊时玩什么（免下载）：8 款小型独立浏览器游戏，从 45 秒速通到足球经理",
+  "zh_oneliner": "八款打开浏览器就能玩的独立小游戏合集，涵盖街机速通、空中管制、体操、足球经理与像素 RPG，适合碎片时间快速开一局。",
+  "en_title": "Games to play when bored (no download): 8 small indie browser games, from a 45-second run to a football manager",
+  "en_oneliner": "Eight small indie browser games you can start in seconds — arcade runs, air traffic control, gymnastics, football management and a pixel RPG — picked for quick sessions in idle moments."
+ },
+ "https://dev.to/mango7777/eu-clears-saudi-arabias-55bn-ea-takeover-setting-up-historys-largest-leveraged-buyout-2cp9": {
+  "zh_title": "欧盟放行沙特 550 亿美元收购 EA，史上最大杠杆收购就此铺路",
+  "zh_oneliner": "欧盟委员会认定这笔由沙特主权基金牵头的 EA 收购不存在竞争问题，550 亿美元的交易若成行将成为史上最大杠杆收购，本文梳理交易结构与背后的争议。",
+  "en_title": "EU Clears Saudi Arabia's $55bn EA Takeover, Setting Up History's Largest Leveraged Buyout",
+  "en_oneliner": "The European Commission found no competition concerns in the Saudi-led $55bn bid for EA, which would become the largest leveraged buyout in history — this piece unpacks the deal structure and the controversy behind it."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/free-online-games-no-downloads-multiplayer-7-browser-games-to-play-with-friends-and-family-56e7": {
+  "zh_title": "免费联机免下载：7 款能和亲友一起玩的浏览器游戏",
+  "zh_oneliner": "七款浏览器里直接开玩的多人小游戏，从派对推理到猫咪犯罪 RPG 再到浏览器 MMORPG，适合和家人朋友同屏或远程组局。",
+  "en_title": "Free online games no downloads multiplayer: 7 browser games to play with friends and family",
+  "en_oneliner": "Seven multiplayer browser games to play with friends and family — party deduction, a co-op detective game, a multiplayer cat-crime RPG and a browser MMORPG — all starting in a tab with no download."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/games-like-wordle-and-connections-free-no-download-10-indie-daily-puzzles-made-by-solo-cma": {
+  "zh_title": "像 Wordle 和 Connections 那样（免费免下载）：10 款独立开发者做的每日解谜",
+  "zh_oneliner": "十款由独立开发者制作的每日解谜小游戏，全部免费免下载，在浏览器里就能玩，适合想找 Wordle 平替的玩家与想学每日玩法设计的开发者。",
+  "en_title": "Games like Wordle and Connections (free, no download): 10 indie daily puzzles made by solo developers",
+  "en_oneliner": "Ten free daily puzzle games made by solo developers, all playable in a browser tab — a handy reference for players hunting Wordle alternatives and developers studying the daily-puzzle format."
+ },
+ "https://dev.to/dhaval109/designing-bingo-and-tambola-for-50-phones-7-rules-for-a-fair-online-caller-5aa3": {
+  "zh_title": "为 50 部手机设计 Bingo 与 Tambola：公平在线叫号的 7 条规则",
+  "zh_oneliner": "作者把线上 Bingo 做到 50 人同屋、每人一部手机，分享让叫号公平可信的七条设计规则，覆盖同步、防作弊与断线处理等多人实时游戏的共性难题。",
+  "en_title": "Designing Bingo and Tambola for 50 Phones: 7 Rules for a Fair Online Caller",
+  "en_oneliner": "The author scaled online Bingo to 50 players in one room, each on their own phone, and shares seven rules for keeping the caller fair — covering sync, anti-cheating and disconnects that any real-time multiplayer game faces."
+ },
+ "https://dev.to/mhomsi/how-tribes-invent-their-own-languages-in-a-rust-civilization-sim-2fai": {
+  "zh_title": "Rust 文明模拟器里的部落如何发明自己的语言",
+  "zh_oneliner": "浏览器里的 Rust 文明模拟器 The Human Box 中，部落从无人设计的词汇起步，几代之后邻近部落便说起不同的语言，作者详解这套语言演化系统的实现。",
+  "en_title": "How tribes invent their own languages in a Rust civilization sim",
+  "en_oneliner": "In the browser-based Rust civilization sim The Human Box, tribes start with words nobody designed and, a few generations later, speak a different language from their neighbours — the author explains how the language-evolution system works."
+ },
+ "https://dev.to/mympgames/hidden-ships-honest-server-how-i-coded-battleship-for-a-multiplayer-browser-game-4igb": {
+  "zh_title": "藏起船只、守住诚信：我如何为多人浏览器游戏写海战棋",
+  "zh_oneliner": "海战棋与象棋不同，关键在于对手绝不能知道你的船在哪，作者详解如何用服务端权威验证守住这条底线，避免浏览器端悄悄泄露船位。",
+  "en_title": "Hidden ships, honest server: how I coded Battleship for a multiplayer browser game",
+  "en_oneliner": "Unlike chess, Battleship hinges on your opponent never knowing where your ships are — the author explains how server-side authority keeps that promise without leaking ship positions to the browser."
+ },
+ "https://www.blendernation.com/2026/11/25/blender-studio-is-looking-for-a-heavy-metal-track-for-cowboi": {
+  "zh_title": "Blender Studio 为新开放电影 Cowboi 征集重金属配乐",
+  "zh_oneliner": "Blender Studio 正在为即将推出的开放电影 Cowboi 寻找硬摇滚或重金属乐队、作曲人，创作一首纯器乐曲目，有意者可按文内方式投稿。",
+  "en_title": "Blender Studio is looking for a heavy metal track for Cowboi",
+  "en_oneliner": "Blender Studio is looking for a hard rock or heavy metal band or composer to create an instrumental track for its upcoming open movie Cowboi — interested musicians can submit via the details in the post."
+ },
+ "https://www.gcores.com/articles/222770": {
+  "zh_title": "非正经AI修仙《不问凡尘》亮相2026 WePlay文化展",
+  "zh_oneliner": "几乎全 AI 驱动的非正经修仙 RPG《不问凡尘》亮相 2026 WePlay 文化展，以超写实视觉与 AI NPC 互动、回合制战斗和自由养成结合，Steam 好评率已接近九成。",
+  "en_title": "Tongue-in-Cheek AI Cultivation RPG 'World Apart' Appears at the 2026 WePlay Culture Expo",
+  "en_oneliner": "World Apart, a tongue-in-cheek cultivation RPG driven almost entirely by AI, showed at the 2026 WePlay Culture Expo, combining photorealistic visuals, AI NPC interaction, turn-based combat and freeform cultivation — with a Steam rating near 90% positive."
+ },
+ "https://dev.to/mussadiqkhan10/how-i-built-an-interactive-gta-6-map-of-leonida-with-nextjs-and-leaflet-1p8m": {
+  "zh_title": "我如何用 Next.js 和 Leaflet 做了一张 GTA 6 雷奥奈达州互动地图",
+  "zh_oneliner": "GTA 6 发售几小时内玩家就在雷奥奈达州挖出地堡密码、彩蛋与隐藏车辆，作者用 Next.js 与 Leaflet 把这些发现都钉在一张可交互地图上，并分享了实现思路。",
+  "en_title": "How I Built an Interactive GTA 6 Map of Leonida with Next.js and Leaflet",
+  "en_oneliner": "Within hours of GTA 6's launch, players were finding bunker codes, Easter eggs and secret cars across Leonida — the author pinned every discovery on one interactive map built with Next.js and Leaflet, and shares how it was made."
  }
 }
