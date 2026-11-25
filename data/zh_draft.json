@@ -25330,5 +25330,23 @@
   "zh_oneliner": "GTA 6 发售几小时内玩家就在雷奥奈达州挖出地堡密码、彩蛋与隐藏车辆，作者用 Next.js 与 Leaflet 把这些发现都钉在一张可交互地图上，并分享了实现思路。",
   "en_title": "How I Built an Interactive GTA 6 Map of Leonida with Next.js and Leaflet",
   "en_oneliner": "Within hours of GTA 6's launch, players were finding bunker codes, Easter eggs and secret cars across Leonida — the author pinned every discovery on one interactive map built with Next.js and Leaflet, and shares how it was made."
+ },
+ "https://www.gcores.com/radios/222764": {
+  "zh_title": "小尝一口 GTA，录音笔 VOL.833",
+  "zh_oneliner": "机核办公室闲聊节目本期聊了聊 GTA 相关话题，十几分钟的轻松碎碎念。",
+  "en_title": "A Small Taste of GTA — Voice Recorder Vol. 833",
+  "en_oneliner": "Gcores’ casual office chat show touches on GTA topics in this short, lighthearted episode."
+ },
+ "https://dev.to/secondwindmc/death-chest-plugins-for-paper-121-what-to-look-for-and-why-i-wrote-one-4hm9": {
+  "zh_title": "Paper 1.21 死亡箱插件怎么选，以及我为什么自己写了一个",
+  "zh_oneliner": "作者分享为 Paper 1.21 服务器挑选死亡箱插件的要点，并讲了自己动手写一个的原因，适合开 Minecraft 服务器的开发者参考。",
+  "en_title": "Death chest plugins for Paper 1.21 - what to look for (and why I wrote one)",
+  "en_oneliner": "A guide to choosing a death chest plugin for Paper 1.21 servers, and why the author ended up writing one himself — useful for anyone running a Minecraft server."
+ },
+ "https://dev.to/mahan_imanian/i-built-a-github-action-that-runs-your-windows-game-under-proton-on-every-pull-request-47oc": {
+  "zh_title": "我写了个 GitHub Action，让 Windows 游戏在每次 PR 时都在 Proton 下跑一遍",
+  "zh_oneliner": "作者分享了一个 GitHub Action，能在每次提交 PR 时自动用 Proton 运行 Windows 游戏，提前发现 Steam Deck 兼容问题。",
+  "en_title": "I built a GitHub Action that runs your Windows game under Proton on every pull request",
+  "en_oneliner": "A GitHub Action that automatically runs your Windows game under Proton on every pull request, catching Steam Deck compatibility issues before players do."
  }
 }
