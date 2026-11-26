@@ -26740,5 +26740,23 @@
   "zh_oneliner": "上海蛮啾的 3D 大世界二游《蓝色星原：旅谣》今日公测：上线前全网预约超 3000 万，B 站评分 9.2，主打美少女捉宠与异世界冒险。",
   "en_title": "30M+ Pre-Registrations: Shanghai Studio Ships the Open-World Anime Game Nobody Had Made Before",
   "en_oneliner": "Shanghai studio Manjuu's 3D open-world anime game Blue Protocol: Star Resonance launches today with over 30 million pre-registrations and a 9.2 Bilibili score, built around creature-catching and fantasy adventure."
+ },
+ "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-on-all-platforms-at-the-same-time": {
+  "zh_title": "CDPR 谈《巫师 4》全平台同步发售：“一个人都不会被落下”",
+  "zh_oneliner": "CDPR 与索尼达成《巫师 4》独家营销合作后引发玩家对平台独占的担忧，官方回应称游戏将全平台同步发售。",
+  "en_title": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing On All Platforms At The Same Time",
+  "en_oneliner": "After CD Projekt Red's exclusive marketing deal with Sony for The Witcher 4 raised fears of platform exclusivity, CDPR says the game will launch on all platforms at the same time."
+ },
+ "https://www.gcores.com/articles/222791": {
+  "zh_title": "《PICROSS S CLIMAX》将于12月10日登陆 NS及NS2",
+  "zh_oneliner": "Jupiter 宣布《绘图方块 S CLIMAX》将于 12 月 10 日登陆 Switch 与 Switch 2，收录系列 9 部作品的精选内容，是该系列首款实体版。",
+  "en_title": "\"PICROSS S CLIMAX\" Coming to Switch and Switch 2 on December 10",
+  "en_oneliner": "Jupiter announced that PICROSS S CLIMAX, a compilation of highlights from nine games in the series, will launch on Switch and Switch 2 on December 10 as the series' first physical release."
+ },
+ "https://dev.to/loach2009/pc-engine-cd-bios-devlog-the-next-observed-blocker-is-2c-not-a-compatibility-milestone-566g": {
+  "zh_title": "PC Engine CD BIOS 开发日志：下一个已确认的障碍是 $2C，而非兼容性里程碑",
+  "zh_oneliner": "开发者记录为 PC Engine CD 打造开源 System Card 替代品的进展，梳理了当前遇到的具体技术障碍与下一步排查方向。",
+  "en_title": "PC Engine CD BIOS Devlog: The Next Observed Blocker Is $2C, Not a Compatibility Milestone",
+  "en_oneliner": "A developer logs progress on an open-source System Card replacement for the PC Engine CD, walking through the latest technical blocker and what to check next."
  }
 }
