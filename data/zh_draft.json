@@ -26830,5 +26830,17 @@
   "zh_oneliner": "机核办公室日常碎碎念的会员播客，听听同行团队真实的工作状态与闲聊。",
   "zh_title": "这下线下真实了，录音笔VOL.823",
   "en_oneliner": "Gcores' office daily chatter member podcast, listening in on a peer team's real work state and idle talk."
+ },
+ "https://dev.to/gilboard_boss/what-a-players-bug-list-taught-me-about-translating-a-browser-game-16al": {
+  "zh_title": "玩家的一份 bug 清单教会我的浏览器游戏本地化经验",
+  "zh_oneliner": "一位独立开发者分享玩家反馈如何帮他修好浏览器游戏的多语言界面，谈本地化里容易被忽略的细节。",
+  "en_title": "What a player's bug list taught me about translating a browser game",
+  "en_oneliner": "An indie dev shares how player feedback helped fix the multilingual UI of a browser game, and the localization details that are easy to miss."
+ },
+ "https://dev.to/kuyhaa_me_76695bec8e88b2c/optimizing-input-latency-and-frame-pacing-in-fast-paced-pc-action-games-5466": {
+  "zh_title": "快节奏 PC 动作游戏的输入延迟与帧节奏优化",
+  "zh_oneliner": "讲快节奏动作游戏如何让输入、物理模拟与画面输出严丝合缝，压低延迟、稳住帧时间。",
+  "en_title": "Optimizing Input Latency and Frame Pacing in Fast-Paced PC Action Games",
+  "en_oneliner": "How fast-paced action games keep input, physics, and display output tightly in sync to cut latency and steady frame times."
  }
 }
