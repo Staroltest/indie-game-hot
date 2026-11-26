@@ -28042,5 +28042,11 @@
   "zh_oneliner": "Grinding Gear Games 的 Jonathan Rogers 呼吁开发者在宣发时先亮出最吸引人的内容，而不是把最关键的细节藏到最后。",
   "en_title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
   "en_oneliner": "Grinding Gear Games' Jonathan Rogers urges developers to lead announcements with their most compelling details instead of saving the juiciest ones for last."
+ },
+ "https://dev.to/ekko237/i-brute-forced-all-40320-orders-of-my-puzzle-game-and-the-table-became-the-design-doc-1f75": {
+  "zh_title": "我暴力枚举了益智游戏的全部 40320 种顺序，穷举结果表成了设计文档",
+  "zh_oneliner": "作者用 Godot 4 做了款 8 物件排序益智游戏，把规则写进 JSON 后穷举全部 40320 种放置顺序，用得分分布反推平衡性，让模拟结果表直接当设计文档使。",
+  "en_title": "I brute-forced all 40,320 orders of my puzzle game, and the table became the design doc",
+  "en_oneliner": "The author built an 8-item ordering puzzle in Godot 4, kept the rules in JSON, brute-forced all 40,320 placement orders, and used the score distribution to tune balance — letting the simulation table serve as the design doc."
  }
 }
