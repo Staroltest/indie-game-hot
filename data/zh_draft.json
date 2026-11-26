@@ -27328,5 +27328,41 @@
   "zh_oneliner": "开发者把 iOS 与安卓上 1 亿多个玩家账号迁移到同一服务器，并借此重做了匹配系统，分享了跨平台合服的实操经验。",
   "en_title": "How World War Heroes merged 100m+ player accounts and reshaped matchmaking",
   "en_oneliner": "The developer moved more than 100 million World War Heroes accounts from separate iOS and Android servers into one shared backend, then rebuilt matchmaking around it — a hands-on account of merging live player bases."
+ },
+ "https://80.lv/articles/creators-of-the-hollow-knight-series-will-host-a-livestream-showcase": {
+  "zh_title": "《空洞骑士》系列开发商 Team Cherry 将举办直播发布会",
+  "zh_oneliner": "Team Cherry 宣布将举办名为 Cherry Time 的直播活动，届时将公布一些值得期待的新消息，空洞骑士系列的粉丝可以留意后续动向。",
+  "en_title": "Creators of the Hollow Knight Series Will Host a Livestream Showcase",
+  "en_oneliner": "Team Cherry has announced a livestream broadcast called Cherry Time, where it will share some intriguing news — Hollow Knight fans should keep an eye out for what's next."
+ },
+ "https://dev.to/owen_zhang_e9c74da15a9fed/publishing-partly-verified-community-data-as-json-null-beats-a-guess-gta-6-cheat-list-example-1gld": {
+  "zh_title": "把部分验证过的社区数据发布为 JSON：空值胜过猜测（以 GTA 6 作弊码列表为例）",
+  "zh_oneliner": "作者把粉丝站的 GTA 6 作弊码整理成一份 JSON 供机器人与表格工具调用，重点分享了如何用空值标注 61 条中尚未证实的 44 条，避免把猜测当成事实。",
+  "en_title": "Publishing partly-verified community data as JSON: null beats a guess (GTA 6 cheat list example)",
+  "en_oneliner": "The author turned a fan site's GTA 6 cheat list into a JSON file for bots and spreadsheets, and explains how null values mark the 44 of 61 cheats that remain unverified instead of passing guesses off as facts."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not": {
+  "zh_title": "GTA 6 的“安全词”任务，到底该不该参加？",
+  "zh_oneliner": "这篇短评聊了 GTA 6 里“安全词”任务的玩法与取舍，帮玩家判断这个任务值不值得花时间参与。",
+  "en_title": "Should you participate in GTA 6's Safe Word mission?",
+  "en_oneliner": "This short piece looks at GTA 6's Safe Word mission and weighs whether it's worth your time to take part."
+ },
+ "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports": {
+  "zh_title": "玩家举报《赛马娘》AI 山寨手游广告泛滥，Cygames 推动其下架",
+  "zh_oneliner": "一款 AI 生成的《赛马娘》山寨手游因广告泛滥遭玩家集体举报，Cygames 介入后已将其从 Google Play 下架，提醒开发者警惕 AI 换皮克隆带来的风险。",
+  "en_title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
+  "en_oneliner": "An AI-generated Umamusume: Pretty Derby clone packed with ads was reported by fans and pulled from Google Play after Cygames intervened — a reminder for developers of the risks posed by AI reskin clones."
+ },
+ "https://www.blendernation.com/2026/11/26/unrealizex-made-40-models-with-one-command-and-no-generative-ai": {
+  "zh_title": "UnrealizeX 一条命令生成 40 个模型，且全程不用生成式 AI",
+  "zh_oneliner": "UnrealizeX 推出 Blender 插件，仅凭一张图片即可重建 3D 模型，团队强调流程本身不使用生成式 AI，独立开发者做资产原型时可以关注一下。",
+  "en_title": "UnrealizeX made 40 models with one command and no generative AI",
+  "en_oneliner": "UnrealizeX has released a Blender add-on that rebuilds 3D models from as little as one image, with the team stressing the process uses no generative AI — worth a look for indie developers prototyping assets."
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/feet-on-the-floor-why-your-cut-sprites-jitter-its-the-anchor-53ge": {
+  "zh_title": "脚要踩实地面：裁剪后的精灵为什么抖动，问题出在锚点",
+  "zh_oneliner": "同一组 8 帧史莱姆跳跃动画，只因锚点设置不同，一边跳得自然、一边像在原地漂浮，文章讲清了按像素裁剪精灵表时帧尺寸不一导致抖动的原因与修正办法。",
+  "en_title": "Feet on the Floor: Why Your Cut Sprites Jitter (It's the Anchor)",
+  "en_oneliner": "Two animations built from the same eight slime frames look completely different — one hops naturally, the other floats in place — and the article explains how trimming sprite sheets by pixels creates mismatched frame sizes and how to fix the jitter by anchoring correctly."
  }
 }
