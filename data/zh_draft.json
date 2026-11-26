@@ -26902,5 +26902,77 @@
   "zh_oneliner": "Playground Games 负责人表示，只沿用原三部曲已满足不了当代玩家，团队把《巫师 3》当作新作的参照标准。",
   "en_title": "Fable Devs Looked to The Witcher 3, the \"Gold Standard\" for RPGs",
   "en_oneliner": "Playground Games says sticking to the original trilogy alone would not meet modern players’ expectations, so the team treats The Witcher 3 as the benchmark for the new Fable."
+ },
+ "https://80.lv/articles/capcom-s-dinosaur-co-op-shooter-exoprimal-is-shutting-down": {
+  "zh_title": "卡普空恐龙合作射击游戏《Exoprimal》即将停服",
+  "zh_oneliner": "卡普空宣布《Exoprimal》不到一年后将彻底无法游玩，服务型游戏的停服生命周期再次成为开发者需要直面的课题。",
+  "en_title": "Capcom's Dinosaur Co-Op Shooter Exoprimal Is Shutting Down",
+  "en_oneliner": "Capcom announced Exoprimal will become unplayable in under a year, a reminder that a live-service shutdown is a lifecycle question every developer should plan for."
+ },
+ "https://www.gcores.com/radios/222811": {
+  "zh_title": "打开GTA自动变成一个可以欣赏说唱的人，录音笔VOL.834",
+  "zh_oneliner": "机核办公室的闲聊节目聊起打开 GTA 后自动进入欣赏说唱状态的日常，十几分钟的碎碎念里藏着不少玩家才懂的梗。",
+  "en_title": "Opening GTA Turns You Into Someone Who Appreciates Rap — Recording Pen Vol. 834",
+  "en_oneliner": "A casual office chat from Gcores about how opening GTA flips you into rap-appreciation mode, packed with in-jokes only players will get."
+ },
+ "https://www.gcores.com/articles/222807": {
+  "zh_title": "穿越甚大蘑境里的雷霆大菌子是什么来头？",
+  "zh_oneliner": "文章拆解《明日方舟：终末地》蘑菇版本背后的剧情设定，从孢子失控到把变异蘑菇变成食品原料，讲清了这个轻松冒险故事的世界观逻辑。",
+  "en_title": "What's the Story Behind the Thunderous Giant Mushroom in the Vast Fungal Realm?",
+  "en_oneliner": "The piece unpacks the story logic behind Arknights: Endfield's mushroom-themed update, from runaway spores to turning a mutant mushroom into a food source."
+ },
+ "https://www.gcores.com/radios/222794": {
+  "zh_title": "EP35 AI 在用：财务专家，从不信任到离不开的转变 · Case",
+  "zh_oneliner": "一位顶级风投基金的财务专家聊自己对办公 AI 从不信任到离不开的转变，两次相隔五周的录音正好记录了 AI 应用从生疏到熟练的对照。",
+  "en_title": "EP35 AI at Work: A Finance Expert's Journey from Distrust to Dependence · Case",
+  "en_oneliner": "A finance expert at a top venture fund talks about going from distrusting office AI to relying on it, with two recordings five weeks apart capturing the shift."
+ },
+ "https://www.gcores.com/radios/222793": {
+  "zh_title": "93期：英伟达，从我12岁那年说起",
+  "zh_oneliner": "一位近三十年的 DIY 老玩家单口讲述自己与英伟达的故事，从 12 岁攒机到用本地大模型合写口播稿，聊硬件、公司与个人经历的交织。",
+  "en_title": "Episode 93: NVIDIA, Starting from When I Was 12",
+  "en_oneliner": "A veteran DIY enthusiast of nearly thirty years tells his personal story with NVIDIA, from building PCs at twelve to co-writing the script with a local large model."
+ },
+ "https://dev.to/gtelocalize/localizing-a-game-for-turkish-the-dotted-i-suffixes-on-placeholders-and-other-engine-problems-22id": {
+  "zh_title": "游戏土耳其语本地化：带点的 I、占位符后缀与其他引擎难题",
+  "zh_oneliner": "土耳其语看似只是拉丁字母好处理，实际会让菜单拼错、物品提示语法崩坏甚至只在土耳其玩家手里闪退，文章把这些工程坑一一拆开讲清。",
+  "en_title": "Localizing a Game for Turkish: the Dotted I, Suffixes on Placeholders and Other Engine Problems",
+  "en_oneliner": "Turkish looks like an easy Latin-alphabet locale until misspelled menus, broken item messages, and crashes only Turkish players can reproduce show up — the article unpacks each engineering pitfall."
+ },
+ "https://dev.to/yirenlabs/phaser-3-frame-not-found-in-texture-3f9b": {
+  "zh_title": "Phaser 3：纹理中找不到帧",
+  "zh_oneliner": "动画一跑控制台就报帧找不到，精灵只播部分帧或定格在最后一帧，文章讲清报错背后的原因与排查思路。",
+  "en_title": "Phaser 3: frame not found in texture",
+  "en_oneliner": "The animation starts but the console reports a missing frame, leaving the sprite stuck or frozen — the article explains what causes it and how to track it down."
+ },
+ "https://dev.to/yirenlabs/unity-the-atlas-cannot-fit-a-sprite-during-packing-3fna": {
+  "zh_title": "Unity：打包时图集装不下精灵",
+  "zh_oneliner": "打包预览或构建时图集报装不下超大精灵，整张图集打包失败，文章拆解了这条报错的来龙去脉与解决方向。",
+  "en_title": "Unity: the atlas cannot fit a sprite during packing",
+  "en_oneliner": "Pack preview or a build fails when a sprite is too large for the atlas, blocking the whole pack — the article traces the error and how to resolve it."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/poneul-dolryeossdeoni-pudingi-50-bbalra-boyeossda-151g": {
+  "zh_title": "把手机转了一下，布丁游戏看起来快了 50%",
+  "zh_oneliner": "同一款跑酷游戏竖屏拿着比桌面快、横屏又变慢，问题不在物理速度而在相机视野宽度，文章用公式讲清了这种体感速度差的来源。",
+  "en_title": "Rotating the Phone Made the Pudding Game Look 50% Faster",
+  "en_oneliner": "The same runner feels faster in portrait and slower in landscape, and the cause is not physics but camera viewport width — the article explains the perceived-speed gap with the math behind it."
+ },
+ "https://dev.to/yirenlabs/godot-4-animatedsprite2d-has-no-spriteframes-resource-assigned-1mfd": {
+  "zh_title": "Godot 4：AnimatedSprite2D 未指定 SpriteFrames 资源",
+  "zh_oneliner": "场景能跑但精灵什么都不显示，控制台提示必须创建或指定 SpriteFrames 资源，文章讲清这个新手常踩的坑与检查点。",
+  "en_title": "Godot 4: AnimatedSprite2D has no SpriteFrames resource assigned",
+  "en_oneliner": "The scene runs but the sprite renders nothing, with the console asking for a SpriteFrames resource — the article explains this common beginner pitfall and where to check."
+ },
+ "https://dev.to/yirenlabs/unity-sprite-atlas-packing-is-disabled-in-the-editor-settings-1lbp": {
+  "zh_title": "Unity：编辑器设置里未启用 Sprite Atlas 打包",
+  "zh_oneliner": "选中图集资产却发现打包预览按钮是灰的，原因只是编辑器设置里没开图集打包，文章指出这个一键就能解决的开关位置。",
+  "en_title": "Unity: Sprite Atlas packing is disabled in the Editor settings",
+  "en_oneliner": "The atlas asset shows a disabled Pack Preview button simply because atlas packing is off in the Editor settings — the article points to the one toggle that fixes it."
+ },
+ "https://dev.to/yirenlabs/godot-4-sprite2d-frame-coordinates-out-of-bounds-against-hframes-and-vframes-3d81": {
+  "zh_title": "Godot 4：Sprite2D 帧坐标超出 hframes 与 vframes 范围",
+  "zh_oneliner": "运行时调试器报帧坐标越界，精灵定格在上一帧或直接空白，文章讲清 set_frame_coords 触发这条报错的常见写法问题。",
+  "en_title": "Godot 4: Sprite2D frame coordinates out of bounds against hframes and vframes",
+  "en_oneliner": "The debugger reports an out-of-bounds frame coordinate at runtime and the sprite freezes or goes blank — the article explains the common scripting mistakes behind it."
  }
 }
