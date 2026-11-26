@@ -26758,5 +26758,23 @@
   "zh_oneliner": "开发者记录为 PC Engine CD 打造开源 System Card 替代品的进展，梳理了当前遇到的具体技术障碍与下一步排查方向。",
   "en_title": "PC Engine CD BIOS Devlog: The Next Observed Blocker Is $2C, Not a Compatibility Milestone",
   "en_oneliner": "A developer logs progress on an open-source System Card replacement for the PC Engine CD, walking through the latest technical blocker and what to check next."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/forgive-the-typo-not-the-word-answer-matching-in-a-20-second-rare-answer-trivia-game-2l24": {
+  "zh_title": "别较真拼写：20 秒冷门答案问答游戏的答案匹配做法",
+  "zh_oneliner": "这篇开发日志讲一款 20 秒快问快答游戏怎么做容错答案匹配，让拼写小错不至于判错正确答案。",
+  "en_title": "Forgive the Typo, Not the Word: Answer Matching in a 20-Second Rare-Answer Trivia Game",
+  "en_oneliner": "This devlog shows how a 20-second trivia game matches answers with typo tolerance, so small spelling slips don't fail a correct answer."
+ },
+ "https://www.nintendolife.com/news/2026/11/mouse-p-i-for-hire-teases-dlc-announcement-taking-place-next-week": {
+  "zh_title": "《Mouse P.I. For Hire》预告下周公布 DLC",
+  "zh_oneliner": "这款侦探题材独立游戏放出预告，DLC 相关公告将于下周揭晓。",
+  "en_title": "Mouse P.I. For Hire Teases DLC Announcement, Taking Place Next Week",
+  "en_oneliner": "The detective indie game teases a DLC announcement coming next week."
+ },
+ "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-for-all-platforms-at-the-same-time": {
+  "zh_title": "CDPR：《巫师 4》将全平台同步发售，一个都不能少",
+  "zh_oneliner": "CDPR 表示《巫师 4》会争取全平台同日发售，并回应了与索尼营销合作引发的平台担忧。",
+  "en_title": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time",
+  "en_oneliner": "CD Projekt Red says The Witcher 4 aims to launch on all platforms at the same time, addressing concerns raised by its Sony marketing deal."
  }
 }
