@@ -27490,5 +27490,17 @@
   "zh_oneliner": "扫描「No Flusher」涂鸦即可偷走游戏里最快的车，文章给出这辆改装版 Truffade Thrax 的具体获取方法。",
   "en_title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
   "en_oneliner": "Scanning the No Flusher graffiti lets you steal the fastest car in the game, and the article explains how to get this supercharged Truffade Thrax."
+ },
+ "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes": {
+  "zh_title": "《巫师 3》重制版 5.02 更新已上线，完整补丁说明公布",
+  "zh_oneliner": "CD Projekt Red 继续为《巫师 3：狂猎》重制版推送更新，5.02 版本今日上线，补丁说明已完整公布。",
+  "en_title": "The Witcher 3 Remastered Ver. 5.02 Update Is Now Live, Here Are The Full Patch Notes",
+  "en_oneliner": "CD Projekt Red continues patching The Witcher 3: Wild Hunt Remastered, with the ver. 5.02 update now live and full patch notes published."
+ },
+ "https://gamedevjs.com/demos/isometric-warsaw-threejs-pixel-art-map": {
+  "zh_title": "等距视角的华沙：把开放城市数据变成好玩的 Three.js 地图",
+  "zh_oneliner": "这个 Three.js 作品用开放城市数据搭出一张像素风等距华沙地图，文章讲了视觉风格、导航与飞行模式背后的取舍。",
+  "en_title": "Isometric Warsaw turns open city data into a playful Three.js map",
+  "en_oneliner": "This Three.js project turns open city data into a playful pixel-art isometric map of Warsaw, explaining the choices behind its look, navigation and flight mode."
  }
 }
