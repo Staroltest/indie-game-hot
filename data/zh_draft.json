@@ -27310,5 +27310,23 @@
   "zh_oneliner": "ZBD 对 195 位游戏行业领袖的调查显示，靠内购变现的开发者在平衡变现与体验上压力较小，仅 36% 视为痛点，而广告变现为 53%、混合变现达 59%。",
   "en_title": "What 195 industry leaders think about player retention and engagement challenges",
   "en_oneliner": "A ZBD survey of 195 games industry leaders found developers monetising mainly through in-app purchases feel less strain balancing monetisation with player experience, with 36% calling it a pain point versus 53% for ads and 59% for hybrid models."
+ },
+ "https://80.lv/articles/ziva-vfx-inspired-physics-based-muscle-simulation-tool-for-3ds-max-maya-blender-houdini": {
+  "zh_title": "受 Ziva VFX 启发的物理肌肉模拟工具，支持 3ds Max、Maya、Blender 与 Houdini",
+  "zh_oneliner": "HézFX 把肌肉、筋膜、脂肪和皮肤放在同一次模拟里解算，角色动起来更像真的有血有肉。",
+  "en_title": "Ziva VFX-Inspired Physics-Based Muscle Simulation Tool For 3ds Max, Maya, Blender & Houdini",
+  "en_oneliner": "HézFX brings muscle, fascia, fat, and skin into one unified simulation, giving animated characters a more believable sense of flesh in motion."
+ },
+ "https://www.nintendolife.com/news/2026/11/here-we-go-again-after-delaying-for-silksong-indie-dev-braces-for-a-sea-of-sorrow-clash": {
+  "zh_title": "“又来了”——为避开《丝之歌》而延期后，独立开发者又撞上《Sea of Sorrow》",
+  "zh_oneliner": "去年为躲《丝之歌》冲击而延期的独立游戏不少，如今又有开发者发现自己的发售日撞上了另一款大作，只能苦笑再战。",
+  "en_title": "\"Here We Go Again\" - After Delaying For Silksong, Indie Dev Braces For A Sea Of Sorrow Clash",
+  "en_oneliner": "After delaying to escape Hollow Knight: Silksong's blast radius last year, another indie dev now finds its launch colliding with Sea of Sorrow — and takes the déjà vu in stride."
+ },
+ "https://www.pocketgamer.biz/how-world-war-heroes-merged-100m-player-accounts-and-reshaped-matchmaking": {
+  "zh_title": "《World War Heroes》如何合并 1 亿多玩家账号并重塑匹配机制",
+  "zh_oneliner": "开发者把 iOS 与安卓上 1 亿多个玩家账号迁移到同一服务器，并借此重做了匹配系统，分享了跨平台合服的实操经验。",
+  "en_title": "How World War Heroes merged 100m+ player accounts and reshaped matchmaking",
+  "en_oneliner": "The developer moved more than 100 million World War Heroes accounts from separate iOS and Android servers into one shared backend, then rebuilt matchmaking around it — a hands-on account of merging live player bases."
  }
 }
