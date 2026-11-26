@@ -26974,5 +26974,17 @@
   "zh_oneliner": "运行时调试器报帧坐标越界，精灵定格在上一帧或直接空白，文章讲清 set_frame_coords 触发这条报错的常见写法问题。",
   "en_title": "Godot 4: Sprite2D frame coordinates out of bounds against hframes and vframes",
   "en_oneliner": "The debugger reports an out-of-bounds frame coordinate at runtime and the sprite freezes or goes blank — the article explains the common scripting mistakes behind it."
+ },
+ "https://dev.to/nesimrazon/ice-sliding-puzzles-solving-with-bfs-and-generating-levels-282d": {
+  "zh_title": "冰面滑行解谜：用 BFS 求解与生成关卡",
+  "zh_oneliner": "企鹅在冰面上一滑到底停不下来，作者用很少的代码实现 BFS 求解，并据此为冬日滑行解谜游戏《Snowlings》自动生成关卡。",
+  "en_title": "Ice Sliding Puzzles: Solving with BFS and Generating Levels",
+  "en_oneliner": "A penguin on ice slides until something blocks it; the author solves such puzzles with a compact BFS implementation and uses it to auto-generate levels for the winter sliding game Snowlings."
+ },
+ "https://www.pocketgamer.biz/new-event-co-dev-summit-joins-pg-connects-london": {
+  "zh_title": "新活动：Co-Dev Summit 加入伦敦 PG Connects",
+  "zh_oneliner": "PG Connects 伦敦站是全年规模最大的手游行业大会，2026 年约有 3000 名参会者，新设的 Co-Dev Summit 将聚焦联合开发合作。",
+  "en_title": "New event: Co-Dev Summit joins PG Connects London",
+  "en_oneliner": "PG Connects London, the year's biggest mobile games conference with around 3,000 attendees from 1,600 companies, adds a new Co-Dev Summit focused on co-development partnerships."
  }
 }
