@@ -27112,5 +27112,59 @@
   "zh_oneliner": "埃及工作室 FitNot 谈中东与北非市场的打法：文化共鸣带来曝光，产品质量决定留存。",
   "en_title": "FitNot's Abdallah Elshabrawy: “Culture gets a game noticed. Quality keeps players”",
   "en_oneliner": "Cairo studio FitNot on building for the Middle East and North Africa: culture earns attention, but quality keeps players coming back."
+ },
+ "https://80.lv/articles/okami-director-hideki-kamiya-wants-to-make-a-new-castlevania-game": {
+  "zh_title": "《大神》导演神谷英树想做一款新的《恶魔城》",
+  "zh_oneliner": "神谷英树在最近的视频里表示想做一款新的《恶魔城》，不过眼下他正专注于《大神 2》的开发。",
+  "en_title": "Okami Director Hideki Kamiya Wants to Make a New Castlevania Game",
+  "en_oneliner": "In a recent video, Hideki Kamiya said he'd like to make a new Castlevania game, though his focus right now is on Okami 2."
+ },
+ "https://gamedev.net/blogs/entry/2298739-running-a-two-week-character-style-test-before-you-commit-to-stylised-or-realistic": {
+  "zh_title": "在决定写实还是卡通之前，先花两周做一次角色风格测试",
+  "zh_oneliner": "很多小团队凭一次会议就定下角色风格，作者建议用两周时间做一次有结构的风格测试，再决定美术方向，避免过早锁死招聘、工具选择与发行谈判。",
+  "en_title": "Running a Two-Week Character Style Test Before You Commit to Stylised or Realistic",
+  "en_oneliner": "Many small teams settle their character style in a single meeting; the author suggests a structured two-week style test before committing, so the choice doesn't lock in hiring, tools and the publisher pitch too early."
+ },
+ "https://dev.to/lovneo/i-turned-a-meta-quest-3-into-a-tracing-projector-and-spent-most-of-the-time-making-one-image-2o4a": {
+  "zh_title": "我把 Meta Quest 3 改造成描摹投影仪，大部分时间都在让一张图定住不动",
+  "zh_oneliner": "作者用 Unity 6 与 Meta XR SDK 做了一款免费 Quest 3 应用 Rekha，把线稿投到真实墙面上供描摹，文章记录了为让画面稳定不动而攻克的空间锚点难题。",
+  "en_title": "I turned a Meta Quest 3 into a tracing projector – and spent most of the time making one image stand still",
+  "en_oneliner": "The author built Rekha, a free Quest 3 app that projects a glowing line drawing onto a real wall for tracing, and walks through the spatial-anchor bug that kept the image drifting while drawing."
+ },
+ "https://dev.to/samellis/how-to-build-a-photo-scavenger-hunt-for-a-group-of-tourists-3ge": {
+  "zh_title": "如何为一群游客设计拍照寻宝游戏",
+  "zh_oneliner": "给游客做的寻宝游戏难在线索之外：集合点、语言与方向感都和本地玩家不同，作者分享了为游客团设计寻宝路线的实战经验。",
+  "en_title": "How to build a photo scavenger hunt for a group of tourists",
+  "en_oneliner": "A scavenger hunt for tourists fails differently from one for locals — meeting points, language and orientation all matter — and the author shares how to design a hunt that survives a group of visitors."
+ },
+ "https://dev.to/lifetimer-studio/how-i-built-a-zero-dependency-habit-timer-that-keeps-working-offline-gfk": {
+  "zh_title": "我做了一个零依赖、离线也能用的习惯计时器",
+  "zh_oneliner": "作者把习惯计时器重写成零依赖的 PWA：无构建步骤、无框架、无统计 SDK，文章记录了架构选择与最耗时间的三个 bug。",
+  "en_title": "How I built a zero-dependency habit timer that keeps working offline",
+  "en_oneliner": "The author rebuilt a habit timer as a zero-dependency PWA with no build step, framework or analytics SDK, covering the architecture and the three bugs that cost the most time."
+ },
+ "https://dev.to/blues_bulls_481e03a71cd06/kenapa-klik-di-html-canvas-bisa-meleset-buat-mini-game-dengan-javascript-57pa": {
+  "zh_title": "为什么 HTML Canvas 上的点击总打偏？用 JavaScript 做个迷你游戏讲明白",
+  "zh_oneliner": "印尼语教程：用一个点击圆圈的迷你游戏，讲清 Canvas 内部尺寸与 CSS 显示尺寸不一致时点击坐标错位的原因与修正办法。",
+  "en_title": "Why Clicks Miss on HTML Canvas? Build a Mini Game with JavaScript",
+  "en_oneliner": "An Indonesian-language tutorial that uses a click-the-circle mini game to explain why clicks miss when a canvas's internal size differs from its CSS display size, and how to fix it."
+ },
+ "https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson": {
+  "zh_title": "EA Sports FC 27 用 AI 还原已故解说员 John Motson 的声音",
+  "zh_oneliner": "在征得家属同意后，EA Sports FC 27 将用 AI 还原 2023 年去世的传奇解说员 John Motson 的声音，这是已故解说员的声音首次以这种方式回归游戏。",
+  "en_title": "EA Sports FC 27 Is Using AI To Add The Voice Of Late Commentator John Motson",
+  "en_oneliner": "With permission from his family, EA Sports FC 27 will add the AI-recreated voice of iconic commentator John Motson, who died in 2023 — the first time a late commentator's voice has returned this way."
+ },
+ "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-fixes-one-of-its-most-annoying-endgame-quests-the-literal-day-after-i-do-it": {
+  "zh_title": "《魔兽世界：Forever》修了我刚做完的那个烦人终局任务",
+  "zh_oneliner": "玩家向吐槽：《魔兽世界：Forever》在我刚做完那个最烦人的终局任务的第二天就把它修了。",
+  "en_title": "WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it",
+  "en_oneliner": "A player-side grumble: WoW: Forever fixed one of its most annoying endgame quests the literal day after the author finished it."
+ },
+ "https://nordicgame.com/nordic-game-trailer-park-4": {
+  "zh_title": "Nordic Game Trailer Park 第四期：更多值得关注的北欧游戏",
+  "zh_oneliner": "Nordic Game 专栏第四期继续推荐来自北欧国家的新作与即将发售的独立游戏。",
+  "en_title": "Nordic Game Trailer Park 4: Yet More Nordic Games Worth Watching",
+  "en_oneliner": "The fourth edition of Nordic Game's Trailer Park series spotlights more new and upcoming games from the Nordic countries."
  }
 }
