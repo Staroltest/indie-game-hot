@@ -5,33 +5,9 @@
  "date": "November 27, 2026",
  "date_iso": "2026-11-27",
  "issue": 3,
- "generated_at": "2026-11-26T22:04:02.188815+00:00",
- "summary": "1566 items collected in the past 7 days, 10 picks (Engine & Tools 9, Publishing & Marketing 1). Headline: Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI.",
+ "generated_at": "2026-11-26T23:54:19.433009+00:00",
+ "summary": "1565 items collected in the past 7 days, 10 picks (Engine & Tools 9, Publishing & Marketing 1). Headline: Godot 4: Image size must match texture's image size..",
  "items": [
-  {
-   "id": "1966f8247b6d85958cb724e694b228e2d950cd0d",
-   "title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
-   "link": "https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-26T17:44:22+00:00",
-   "en_title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
-   "en_oneliner": "Clockwork packs scene building, behaviors, rules, HUD design and playtesting into one browser app, with Kane CLI driving real Chrome to prove the editor and its games work end to end.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Tools",
-    "Engine"
-   ],
-   "score": 85,
-   "reason": "Covers Tools and Engine · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 81.6,
-   "prev_rank": 2,
-   "prev_hot_score": 81.7
-  },
   {
    "id": "7d05ea3626fad0bf877cf39f0e8a9c5f3de31ba0",
    "title": "Godot 4: Image size must match texture's image size.",
@@ -52,9 +28,9 @@
    "reason": "Covers Data and Engine · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 84.0,
+   "hot_score": 82.6,
    "prev_rank": 1,
-   "prev_hot_score": 84.0
+   "prev_hot_score": 82.8
   },
   {
    "id": "22dd80f96946935b34048387a6e83c7ebb0d3b33",
@@ -76,32 +52,33 @@
    "reason": "Covers Revenue and Sales · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.7,
+   "hot_score": 65.6,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "19eefd6f3e5cc1193f024dc0c149e0fb282545e7",
-   "title": "Closing the Loop: How Clockwork's Built-in AI Agent Uses Kane CLI to Verify the Games It Builds",
-   "link": "https://dev.to/theatomicshift/closing-the-loop-how-clockworks-built-in-ai-agent-uses-kane-cli-to-verify-the-games-it-builds-17a9",
+   "id": "1966f8247b6d85958cb724e694b228e2d950cd0d",
+   "title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
+   "link": "https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-26T17:47:53+00:00",
-   "en_title": "Closing the Loop: How Clockwork's Built-in AI Agent Uses Kane CLI to Verify the Games It Builds",
-   "en_oneliner": "Clockwork's built-in agent doesn't trust its own word that it \"added coins\" — it has Kane CLI play the result in a real browser and return a typed verdict, a model for end-to-end verification of AI-built games.",
+   "published": "2026-11-26T17:44:22+00:00",
+   "en_title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
+   "en_oneliner": "Clockwork packs scene building, behaviors, rules, HUD design and playtesting into one browser app, with Kane CLI driving real Chrome to prove the editor and its games work end to end.",
    "category": "engine",
    "category_label": "Engine & Tools",
    "tier": "T2",
    "tags": [
+    "Tools",
     "Engine"
    ],
    "score": 80,
-   "reason": "Covers Engine · Published within 6 hours",
+   "reason": "Covers Tools and Engine · Published within 24 hours",
    "is_new": true,
-   "trend": "same",
-   "hot_score": 76.9,
-   "prev_rank": 5,
-   "prev_hot_score": 76.9
+   "trend": "down",
+   "hot_score": 75.5,
+   "prev_rank": 2,
+   "prev_hot_score": 80.5
   },
   {
    "id": "48eaa482c27a6e07a202b43c2d99e27f5fbcacc1",
@@ -122,9 +99,9 @@
    "reason": "Covers Tools · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.8,
+   "hot_score": 76.4,
    "prev_rank": 3,
-   "prev_hot_score": 77.8
+   "prev_hot_score": 76.7
   },
   {
    "id": "93da183740fd015dfb8ffa1e431a450357e98baf",
@@ -145,9 +122,9 @@
    "reason": "Covers Workflow · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.6,
+   "hot_score": 76.3,
    "prev_rank": 4,
-   "prev_hot_score": 77.7
+   "prev_hot_score": 76.6
   },
   {
    "id": "06f563d4015b1e4207822d97add89bedf8236479",
@@ -170,7 +147,7 @@
    "reason": "Covers Tools and Engine · Relevant to indie game development",
    "is_new": false,
    "trend": "same",
-   "hot_score": 44.7,
+   "hot_score": 44.0,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -193,7 +170,7 @@
    "reason": "Official source · Covers Data",
    "is_new": false,
    "trend": "same",
-   "hot_score": 39.1,
+   "hot_score": 38.4,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -218,7 +195,32 @@
    "reason": "Covers Tools and Revenue · Relevant to indie game development",
    "is_new": false,
    "trend": "same",
-   "hot_score": 44.8,
+   "hot_score": 44.0,
+   "prev_rank": null,
+   "prev_hot_score": null
+  },
+  {
+   "id": "70d1325a53202a923b507ada1a94f7d58d1f904d",
+   "title": "Flutter Flame Tutorial: Build Your First 2D Game (Beginner Guide)",
+   "link": "https://dev.to/techstackgame/flutter-flame-tutorial-build-your-first-2d-game-beginner-guide-2jmk",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-25T02:54:31+00:00",
+   "en_title": "Flutter Flame Tutorial: Build Your First 2D Game (Beginner Guide)",
+   "en_oneliner": "If you already know Flutter, you're closer to shipping your first game than you think — this beginner guide walks you through building a 2D game with the Flame engine.",
+   "category": "engine",
+   "category_label": "Engine & Tools",
+   "tier": "T2",
+   "tags": [
+    "Tutorial",
+    "Guide",
+    "Engine"
+   ],
+   "score": 75,
+   "reason": "Covers Tutorial and Guide · Relevant to indie game development",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 49.4,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -242,7 +244,7 @@
    "reason": "Covers Open Source and Engine · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.8,
+   "hot_score": 64.7,
    "prev_rank": null,
    "prev_hot_score": null
   }

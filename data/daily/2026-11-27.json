@@ -5,33 +5,9 @@
  "date": "2026年11月27日",
  "date_iso": "2026-11-27",
  "issue": 19,
- "generated_at": "2026-11-26T22:04:02.188815+00:00",
- "summary": "过去 24 小时共收录 248 条动态，精选 10 条（引擎与工具 8 条、发行与宣发 2 条）。头条：打造 Clockwork：一款用 Kane CLI 做端到端验证的 AI 原生 2D 游戏引擎。",
+ "generated_at": "2026-11-26T23:54:19.433009+00:00",
+ "summary": "过去 24 小时共收录 247 条动态，精选 10 条（引擎与工具 8 条、发行与宣发 2 条）。头条：Godot 4：图像尺寸必须与纹理的图像尺寸一致。",
  "items": [
-  {
-   "id": "1966f8247b6d85958cb724e694b228e2d950cd0d",
-   "title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
-   "link": "https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-26T17:44:22+00:00",
-   "zh_title": "打造 Clockwork：一款用 Kane CLI 做端到端验证的 AI 原生 2D 游戏引擎",
-   "zh_oneliner": "浏览器里的 2D 引擎把场景、行为、规则与 HUD 收进同一个窗口，Kane CLI 再驱动真实 Chrome 验证编辑器与游戏全链路可用。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "工具",
-    "引擎"
-   ],
-   "score": 85,
-   "reason": "涉及工具与引擎 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 81.6,
-   "prev_rank": 2,
-   "prev_hot_score": 81.7
-  },
   {
    "id": "7d05ea3626fad0bf877cf39f0e8a9c5f3de31ba0",
    "title": "Godot 4: Image size must match texture's image size.",
@@ -52,9 +28,9 @@
    "reason": "涉及数据与引擎 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 84.0,
+   "hot_score": 82.6,
    "prev_rank": 1,
-   "prev_hot_score": 84.0
+   "prev_hot_score": 82.8
   },
   {
    "id": "22dd80f96946935b34048387a6e83c7ebb0d3b33",
@@ -76,32 +52,33 @@
    "reason": "涉及营收与销量 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.7,
+   "hot_score": 65.6,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "19eefd6f3e5cc1193f024dc0c149e0fb282545e7",
-   "title": "Closing the Loop: How Clockwork's Built-in AI Agent Uses Kane CLI to Verify the Games It Builds",
-   "link": "https://dev.to/theatomicshift/closing-the-loop-how-clockworks-built-in-ai-agent-uses-kane-cli-to-verify-the-games-it-builds-17a9",
+   "id": "1966f8247b6d85958cb724e694b228e2d950cd0d",
+   "title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
+   "link": "https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-26T17:47:53+00:00",
-   "zh_title": "闭环验证：Clockwork 内置 AI 智能体如何用 Kane CLI 检验它生成的游戏",
-   "zh_oneliner": "智能体自称“加了金币”不算数，Clockwork 让它在真实浏览器里跑通玩法并拿到可量化的验证结果，展示了 AI 生成游戏的端到端自检思路。",
+   "published": "2026-11-26T17:44:22+00:00",
+   "zh_title": "打造 Clockwork：一款用 Kane CLI 做端到端验证的 AI 原生 2D 游戏引擎",
+   "zh_oneliner": "浏览器里的 2D 引擎把场景、行为、规则与 HUD 收进同一个窗口，Kane CLI 再驱动真实 Chrome 验证编辑器与游戏全链路可用。",
    "category": "engine",
    "category_label": "引擎与工具",
    "tier": "T2",
    "tags": [
+    "工具",
     "引擎"
    ],
    "score": 80,
-   "reason": "涉及引擎 · 6 小时内发布",
+   "reason": "涉及工具与引擎 · 24 小时内发布",
    "is_new": true,
-   "trend": "same",
-   "hot_score": 76.9,
-   "prev_rank": 5,
-   "prev_hot_score": 76.9
+   "trend": "down",
+   "hot_score": 75.5,
+   "prev_rank": 2,
+   "prev_hot_score": 80.5
   },
   {
    "id": "48eaa482c27a6e07a202b43c2d99e27f5fbcacc1",
@@ -122,9 +99,9 @@
    "reason": "涉及工具 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.8,
+   "hot_score": 76.4,
    "prev_rank": 3,
-   "prev_hot_score": 77.8
+   "prev_hot_score": 76.7
   },
   {
    "id": "93da183740fd015dfb8ffa1e431a450357e98baf",
@@ -145,9 +122,32 @@
    "reason": "涉及工作流 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.6,
+   "hot_score": 76.3,
    "prev_rank": 4,
-   "prev_hot_score": 77.7
+   "prev_hot_score": 76.6
+  },
+  {
+   "id": "42cdec31656e417ef86f98acf06d2e2810a1cc5b",
+   "title": "Fixing sprite atlas metadata errors in Unity / Godot / Phaser — offline, without re-exporting",
+   "link": "https://dev.to/yirenlabs/fixing-sprite-atlas-metadata-errors-in-unity-godot-phaser-offline-without-re-exporting-9kp",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-26T02:45:14+00:00",
+   "zh_title": "离线修复 Unity / Godot / Phaser 精灵图集元数据错误，无需重新导出",
+   "zh_oneliner": "图集错位多半只是元数据坏了，不用重出图：文章列出四种真实故障模式，教你直接改 JSON 或 XML 字段离线修好。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎"
+   ],
+   "score": 75,
+   "reason": "涉及引擎 · 24 小时内发布",
+   "is_new": false,
+   "trend": "same",
+   "hot_score": 61.6,
+   "prev_rank": null,
+   "prev_hot_score": null
   },
   {
    "id": "3089982bda70320ff7075d8ed25f802e5ccdfdf5",
@@ -169,7 +169,7 @@
    "reason": "涉及开源与引擎 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.8,
+   "hot_score": 64.7,
    "prev_rank": null,
    "prev_hot_score": null
   },
@@ -192,9 +192,9 @@
    "reason": "涉及工具 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.5,
-   "prev_rank": 14,
-   "prev_hot_score": 67.6
+   "hot_score": 66.4,
+   "prev_rank": 13,
+   "prev_hot_score": 66.6
   },
   {
    "id": "20d6b87653892383ceef44167e2dac642a8899b4",
@@ -215,9 +215,9 @@
    "reason": "涉及工具 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 67.5,
-   "prev_rank": 15,
-   "prev_hot_score": 67.5
+   "hot_score": 66.3,
+   "prev_rank": 14,
+   "prev_hot_score": 66.5
   },
   {
    "id": "6fa5950e9f5c4a3234e87b8f4e2e2acc41c8317b",
@@ -238,9 +238,9 @@
    "reason": "涉及营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.0,
-   "prev_rank": 13,
-   "prev_hot_score": 68.0
+   "hot_score": 66.9,
+   "prev_rank": 12,
+   "prev_hot_score": 67.1
   }
  ]
 }
