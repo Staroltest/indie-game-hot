@@ -27904,5 +27904,41 @@
   "zh_oneliner": "以安卓恐怖射击《Hunting Souls》为例，拆解触屏战斗、武器切换与雾效场景下的性能优化思路，聊移动端恐怖游戏怎么做才不卡手。",
   "en_title": "Hunting Souls on Android: Mobile Horror Combat & 60FPS Test",
   "en_oneliner": "Using Android horror shooter Hunting Souls as a case study, this piece breaks down touch combat, weapon switching, and keeping 60 fps in fog-heavy scenes — a useful read for mobile horror developers."
+ },
+ "https://www.yystv.cn/p/14681": {
+  "zh_title": "重制没什么剧情的老游戏，该怎么塞进一整个新故事？",
+  "zh_oneliner": "育碧米兰叙事总监聊《雷曼：传奇再叙》如何给一款几乎没有剧情的老平台跳跃游戏从头写进一条完整主线与全配音过场，给想给玩法优先的老作加叙事的开发者参考。",
+  "en_title": "How to Fit a Whole New Story Into a Remake of a Game That Barely Had a Plot",
+  "en_oneliner": "Ubisoft Milan's narrative director explains how the Rayman Legends remaster adds a full main storyline and fully voiced cutscenes, a useful reference for developers adding narrative to a gameplay-first classic."
+ },
+ "https://www.yystv.cn/p/14680": {
+  "zh_title": "别带着“肌肉记忆”玩《蓝色星原：旅谣》",
+  "zh_oneliner": "蛮啾历时五年打磨的《蓝色星原：旅谣》今日公测，文章聊它在二游内容形态上做的系列新探索，提醒玩家别带着旧二游的肌肉记忆来玩。",
+  "en_title": "Don't Play Azur Promilia on Muscle Memory",
+  "en_oneliner": "Manjuu's five-years-in-the-making Azur Promilia launches today; the piece looks at its fresh experiments with second-game content formats and why old habits won't carry over."
+ },
+ "https://www.yystv.cn/p/14677": {
+  "zh_title": "搞这么蘑幻现实主义，这里还是终末地吗？",
+  "zh_oneliner": "从干员刻俄柏的蜜饼梗聊起，看《明日方舟：终末地》玩家社群如何把官方预告的“发饼”玩成一套饼学文化，兼谈蘑菇梗背后的社区传播。",
+  "en_title": "With All This Mushroom Surrealism, Is This Still Endfield?",
+  "en_oneliner": "Starting from operator Ceobe's honey-cake meme, the piece traces how Arknights: Endfield players turned the studio's teaser 'cakes' into a whole community lore, a look at player-driven meme culture."
+ },
+ "https://www.yystv.cn/p/14679": {
+  "zh_title": "创作者招募丨星图游戏嘉年华邀请您来现场分享喜悦！",
+  "zh_oneliner": "2026 星图游戏嘉年华 12 月 18 日至 20 日在上海西岸举行，现面向创作者开放现场分享招募通道，门票已开售。",
+  "en_title": "Creator Call: StarMap Game Carnival Invites You to Share the Joy On Site",
+  "en_oneliner": "StarMap Game Carnival 2026 runs December 18–20 in Shanghai and is now recruiting creators to present on site, with tickets already on sale."
+ },
+ "https://www.yystv.cn/p/14678": {
+  "zh_title": "游戏博物馆12月预告：星图游戏嘉年华等你一起来玩！",
+  "zh_oneliner": "中国音数协游戏博物馆发布 12 月预告，馆内 18000 余件藏品之外，星图游戏嘉年华等展览活动也将陆续登场。",
+  "en_title": "Game Museum December Preview: StarMap Game Carnival Awaits",
+  "en_oneliner": "China's largest professional video game museum previews its December program, with the StarMap Game Carnival among the exhibitions and events on the way."
+ },
+ "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway": {
+  "zh_title": "Steam 没有官方黑五特卖，但折扣页面上已有数百款游戏挂着黑五标签",
+  "zh_oneliner": "Steam 虽无官方黑五活动，却上线了一个挂满黑五标识的折扣页面，数百款游戏参与打折，开发者可借此观察平台大促的流量打法。",
+  "en_title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
+  "en_oneliner": "Steam has no official Black Friday event, but its Discounts and Events page now spotlights hundreds of discounted games under a Black Friday banner — worth a look at how the platform runs a sale without naming one."
  }
 }
