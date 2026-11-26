@@ -26842,5 +26842,29 @@
   "zh_oneliner": "讲快节奏动作游戏如何让输入、物理模拟与画面输出严丝合缝，压低延迟、稳住帧时间。",
   "en_title": "Optimizing Input Latency and Frame Pacing in Fast-Paced PC Action Games",
   "en_oneliner": "How fast-paced action games keep input, physics, and display output tightly in sync to cut latency and steady frame times."
+ },
+ "https://dev.to/anna_skokova_9ca00a251bad/how-to-build-a-unity-game-for-ios-without-a-mac-4cdh": {
+  "zh_title": "没有 Mac 也能把 Unity 游戏打包上 iOS？实测全流程",
+  "zh_oneliner": "作者在 Windows 笔记本上借浏览器里的云端 Mac，把 Unity 项目一路做到 iPhone 模拟器跑起来，实测了每种方案的耗时和坑点。",
+  "en_title": "How to build a Unity game for iOS without a Mac",
+  "en_oneliner": "The author rents a Mac in a browser tab from an ordinary Windows laptop and walks a Unity project all the way into the iPhone Simulator, timing each option and noting where it gets stuck."
+ },
+ "https://dev.to/mhomsi/how-a-rust-civ-sim-stays-deterministic-with-webassembly-simd-and-threads-33o3": {
+  "zh_title": "Rust 文明模拟器如何在 WebAssembly SIMD 与多线程下保持确定性",
+  "zh_oneliner": "浏览器里的文明模拟用 Rust 编译成 WebAssembly，作者拆解了固定 tick 顺序与空间索引等设计，让开启 SIMD 或线程也不会改写世界演化结果。",
+  "en_title": "How a Rust civ sim stays deterministic with WebAssembly SIMD and threads",
+  "en_oneliner": "A browser civilization sim written in Rust and compiled to WebAssembly; the author breaks down the fixed tick order and spatial indexing that keep the world evolving identically with SIMD or threads enabled."
+ },
+ "https://dev.to/ruslanower/engineering-a-zero-backend-multiplayer-party-game-with-local-first-state-300e": {
+  "zh_title": "零后端多人派对游戏：本地优先状态架构实战",
+  "zh_oneliner": "一款 16 人派对猜词游戏完全砍掉服务器，靠单台手机里的确定性状态机在玩家之间传接，作者分享了这种本地优先架构如何解决延迟与扩展问题。",
+  "en_title": "Engineering a Zero-Backend Multiplayer Party Game with Local-First State",
+  "en_oneliner": "A 16-player party word game drops the server entirely and runs on a deterministic state machine inside a single phone passed between players; the author shows how the local-first design sidesteps latency and scaling problems."
+ },
+ "https://www.youxituoluo.com/535096.html": {
+  "zh_title": "七年研发、三年创收534亿元，这款休闲游戏再创记录",
+  "zh_oneliner": "《Monopoly Go》累计玩家支出突破 80 亿美元，文章拆解了它七年研发、赛季联动与原型优先的打法，以及被低估的网页端直销渠道。",
+  "en_title": "Seven years in development, $8 billion in three years: this casual game sets another record",
+  "en_oneliner": "Monopoly Go has passed $8 billion in player spending; the piece breaks down its seven-year development, seasonal tie-ins, prototype-first workflow, and the underestimated web-store channel."
  }
 }
