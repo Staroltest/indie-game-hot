@@ -26692,5 +26692,29 @@
   "zh_oneliner": "轻小说作家小鹿烧光积蓄转行做游戏，《异病侦探》登顶日本 Steam 畅销榜第一，他聊了这条转型路和回本的现实。",
   "en_title": "From Light Novels to Games: An Author Burns Through His Savings to Make a Game That Topped Japan's Bestseller Chart",
   "en_oneliner": "After publishing dozens of light novels, developer Xiaolu spent his savings to make a game; his title topped Japan's Steam bestseller chart, and he talks about the road to breaking even."
+ },
+ "http://www.gamelook.com.cn/2026/11/607299": {
+  "zh_title": "拳头创始人谈“拳头20年之路”：曾经盲目扩张成灾，一年成本剧增45%",
+  "zh_oneliner": "拳头联合创始人 Marc Merrill 回顾公司二十年：盲目扩张曾让一年成本暴涨 45%，给独立团队的扩张节奏提了个醒。",
+  "en_title": "Riot co-founder on \"Riot's 20-year journey\": reckless expansion once drove costs up 45% in a year",
+  "en_oneliner": "Riot co-founder Marc Merrill looks back on twenty years: reckless expansion once pushed costs up 45% in a single year — a cautionary tale on pacing growth for indie teams."
+ },
+ "https://dev.to/meshyai/evaluating-3d-coding-agents-separate-functional-checks-from-visual-review-jbb": {
+  "zh_title": "评估 3D 代码生成 Agent：把功能检查与视觉评审分开",
+  "zh_oneliner": "场景能跑通不等于效果对了，文章借 Meshy 的基准测试经验，教你把功能正确性与视觉质量的评估证据分开看。",
+  "en_title": "Evaluating 3D Coding Agents: Separate Functional Checks from Visual Review",
+  "en_oneliner": "A scene that loads is not necessarily a scene that looks right — this piece draws on Meshy's benchmark experience to show how to keep functional correctness and visual quality as separate evidence when evaluating coding agents."
+ },
+ "https://dev.to/yirenlabs/fixing-sprite-atlas-metadata-errors-in-unity-godot-phaser-offline-without-re-exporting-9kp": {
+  "zh_title": "离线修复 Unity / Godot / Phaser 精灵图集元数据错误，无需重新导出",
+  "zh_oneliner": "图集错位多半只是元数据坏了，不用重出图：文章列出四种真实故障模式，教你直接改 JSON 或 XML 字段离线修好。",
+  "en_title": "Fixing sprite atlas metadata errors in Unity / Godot / Phaser — offline, without re-exporting",
+  "en_oneliner": "Misaligned sprites are usually a metadata problem, not a broken image — this walkthrough covers four real fault patterns and shows which JSON or XML field to fix offline, no re-export needed."
+ },
+ "https://store.steampowered.com/news/295560": {
+  "zh_title": "《军团要塞 2》更新发布",
+  "zh_oneliner": "本次更新修复了玩家被击杀后无法重生的问题，重启游戏后自动应用。",
+  "en_title": "Team Fortress 2 Update Released",
+  "en_oneliner": "This update fixes clients not respawning after being killed, and applies automatically when you restart Team Fortress 2."
  }
 }
