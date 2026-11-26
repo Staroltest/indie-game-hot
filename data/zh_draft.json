@@ -27940,5 +27940,29 @@
   "zh_oneliner": "Steam 虽无官方黑五活动，却上线了一个挂满黑五标识的折扣页面，数百款游戏参与打折，开发者可借此观察平台大促的流量打法。",
   "en_title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
   "en_oneliner": "Steam has no official Black Friday event, but its Discounts and Events page now spotlights hundreds of discounted games under a Black Friday banner — worth a look at how the platform runs a sale without naming one."
+ },
+ "https://www.eurogamer.net/ea-removes-live-service-skate-seasons": {
+  "zh_title": "EA 砍掉《Skate》的赛季制与部分 live service 内容，改走更频繁的小更新",
+  "zh_oneliner": "EA 宣布《Skate》取消赛季结构，改以更敏捷的常规内容更新推进，开发者无需再等赛季轮换就能上线新功能。",
+  "en_title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
+  "en_oneliner": "EA is dropping Skate's seasonal structure in favour of smaller, more frequent content updates, so developers can ship new features without waiting for the next season."
+ },
+ "https://dev.to/yirenlabs/unity-cannot-set-itself-as-masteratlas-please-assign-a-valid-masteratlas-303b": {
+  "zh_title": "Unity：无法将 Sprite Atlas 自身设为 MasterAtlas，请指定有效的 MasterAtlas",
+  "zh_oneliner": "变体 Sprite Atlas 必须指向另一个不同的主图集才能生效，把自身设为主图集会被驳回，这篇排错笔记讲清了层级关系与正确做法。",
+  "en_title": "Unity: Cannot set itself as MasterAtlas. Please assign a valid MasterAtlas.",
+  "en_oneliner": "A variant Sprite Atlas must point to a different master atlas to take effect, and assigning itself as the master gets rejected; this troubleshooting note explains the hierarchy and the correct setup."
+ },
+ "https://dev.to/yirenlabs/godot-4-image-size-must-match-textures-image-size-4b9h": {
+  "zh_title": "Godot 4：图像尺寸必须与纹理的图像尺寸一致",
+  "zh_oneliner": "往 ImageTextureLayered 逐层上传纹理时尺寸或格式稍有不符就会被静默驳回，这篇排错笔记讲清了报错成因与排查思路。",
+  "en_title": "Godot 4: Image size must match texture's image size.",
+  "en_oneliner": "When uploading layers into an ImageTextureLayered, any mismatch in size or format silently rejects the upload; this troubleshooting note explains why the error appears and how to track it down."
+ },
+ "https://www.blendernation.com/2026/11/26/get-blendkit-at-33-off": {
+  "zh_title": "Blendkit 八周年：全套方案与插件 33% 折扣",
+  "zh_oneliner": "Blender 素材库 Blendkit 迎来八周年，全套方案与插件限时七折，优惠持续到 12 月 2 日。",
+  "en_title": "Get Blendkit at 33% off",
+  "en_oneliner": "Blender asset library Blendkit turns eight with 33% off its Full Plan and add-ons, running until December 2."
  }
 }
