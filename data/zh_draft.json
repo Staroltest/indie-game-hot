@@ -27448,5 +27448,47 @@
   "zh_oneliner": "育碧的律师在法庭上表示，当年对《碧海黑帆》“AAAA 级”的说法只是夸张修辞，独立开发者可以从中看到大厂营销措辞的另一面。",
   "en_title": "It was just hyperbole: Ubisoft explained to the court why it called Skull and Bones a AAAA-level game",
   "en_oneliner": "Ubisoft's lawyers told a court that calling Skull and Bones a \"AAAA\" game was just hyperbole — a revealing look at how big publishers frame their marketing claims."
+ },
+ "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members": {
+  "zh_title": "2025 年最佳 Roguelike 之一《Absolum》将限时免费开放给 Switch Online 会员",
+  "zh_oneliner": "《Absolum》将于 12 月 3 日前向欧洲 Switch Online 会员限时免费开放，值得关注这款口碑 Roguelike 的试玩转化效果。",
+  "en_title": "One Of 2025's Best Roguelikes Will Soon Be Free For Switch Online Members",
+  "en_oneliner": "Absolum will be free for Nintendo Switch Online members in Europe until 3 December, a good chance to watch how a well-reviewed roguelike converts trial players."
+ },
+ "https://www.gamesindustry.biz/nearly-500-new-members-joined-women-in-games-ambassador-programme-over-the-past-year": {
+  "zh_title": "女性游戏大使计划过去一年新增近 500 名成员",
+  "zh_oneliner": "女性游戏大使计划过去一年新增近 500 名来自 71 个国家的成员，其中 14 个国家首次有人加入，反映行业多元化倡议的持续扩围。",
+  "en_title": "Nearly 500 new members joined Women in Games Ambassador Programme over the past year",
+  "en_oneliner": "The Women in Games Ambassador Programme added almost 500 members from 71 countries over the past year, including 14 countries represented for the first time, showing the initiative's steady expansion."
+ },
+ "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it": {
+  "zh_title": "报道称育碧要求开发者解释提案为何不用生成式 AI，官方否认强制推行",
+  "zh_oneliner": "有报道称育碧要求新游戏提案说明不使用生成式 AI 的理由，育碧否认强制要求，折射出大厂在 AI 工具政策上的拉扯。",
+  "en_title": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
+  "en_oneliner": "A report claims Ubisoft asks developers to justify not using generative AI in game pitches, which the publisher denies mandating, reflecting the tug-of-war over AI tool policy at major studios."
+ },
+ "https://www.gcores.com/radios/222591": {
+  "zh_title": "生化危机 - 爆发夜",
+  "zh_oneliner": "机核这期电台借冷门广播剧的视角，带听众回到浣熊市毁灭前最后几天，体会普通市民眼中的灾难开端。",
+  "en_title": "Resident Evil: Night of the Outbreak",
+  "en_oneliner": "This Gcores radio episode revisits Raccoon City's final days before the outbreak through an obscure radio drama, retelling the disaster from ordinary citizens' point of view."
+ },
+ "https://dev.to/secondwindmc/adding-fortnite-style-dbno-down-but-not-out-to-a-minecraft-server-146f": {
+  "zh_title": "给 Minecraft 服务器加上《堡垒之夜》式倒地待救机制",
+  "zh_oneliner": "这篇教程讲解如何在 Paper 1.21 服务器上实现倒地待救机制，把致命伤害改成可救援的倒地状态，为 PvP 玩法加一层团队配合。",
+  "en_title": "Adding Fortnite-style DBNO (down but not out) to a Minecraft server",
+  "en_oneliner": "This tutorial shows how to add a down-but-not-out mechanic to a Paper 1.21 Minecraft server, turning lethal damage into a revivable downed state that adds a layer of teamwork to PvP."
+ },
+ "https://dev.to/aplusgamesstudio/hire-an-unreal-engine-developer-costs-and-options-32e1": {
+  "zh_title": "招聘 Unreal Engine 开发者：成本与渠道",
+  "zh_oneliner": "文章对比自由职业者、外包工作室与全职雇佣三种招聘 Unreal 开发者的成本区间，帮小团队做预算决策。",
+  "en_title": "Hire an Unreal Engine Developer: Costs and Options",
+  "en_oneliner": "The article compares the costs of hiring Unreal Engine developers as freelancers, through agencies or studios, or as full-time employees, helping small teams budget the hire."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher": {
+  "zh_title": "GTA 6 里如何拿到 Andrew Node 的改装版 Truffade Thrax",
+  "zh_oneliner": "扫描「No Flusher」涂鸦即可偷走游戏里最快的车，文章给出这辆改装版 Truffade Thrax 的具体获取方法。",
+  "en_title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
+  "en_oneliner": "Scanning the No Flusher graffiti lets you steal the fastest car in the game, and the article explains how to get this supercharged Truffade Thrax."
  }
 }
