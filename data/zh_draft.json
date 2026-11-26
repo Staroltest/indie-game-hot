@@ -26866,5 +26866,41 @@
   "zh_oneliner": "《Monopoly Go》累计玩家支出突破 80 亿美元，文章拆解了它七年研发、赛季联动与原型优先的打法，以及被低估的网页端直销渠道。",
   "en_title": "Seven years in development, $8 billion in three years: this casual game sets another record",
   "en_oneliner": "Monopoly Go has passed $8 billion in player spending; the piece breaks down its seven-year development, seasonal tie-ins, prototype-first workflow, and the underestimated web-store channel."
+ },
+ "https://80.lv/articles/the-leap-between-the-witcher-3-the-witcher-4-will-be-similar-to-the-one-between-gta-5-gta-6": {
+  "zh_title": "《巫师 3》到《巫师 4》的跨越，将堪比 GTA 5 到 GTA 6",
+  "zh_oneliner": "CD Projekt Red 透露，《巫师 4》要在几乎每个方面都比前作更进一步，野心对标 GTA 系列的代际飞跃。",
+  "en_title": "The Leap Between The Witcher 3 & The Witcher 4 Will Be Similar to The One Between GTA 5 & GTA 6",
+  "en_oneliner": "CD Projekt Red says The Witcher 4 aims to improve on its predecessor in nearly every facet, a generational leap comparable to GTA 5 to GTA 6."
+ },
+ "https://dev.to/mango7777/owlcat-finally-fixes-warhammer-40k-rogue-trader-on-switch-2-after-months-of-chaos-4o15": {
+  "zh_title": "Owlcat 终于修好了 Switch 2 上的《战锤 40K：行商浪人》",
+  "zh_oneliner": "历经数月混乱后，Owlcat 为这款备受好评的 CRPG 推送了 Switch 2 修复补丁，挽救了它在新主机上的口碑。",
+  "en_title": "Owlcat Finally Fixes Warhammer 40K Rogue Trader on Switch 2 After Months of Chaos",
+  "en_oneliner": "After months of chaos, Owlcat has shipped a Switch 2 fix for the acclaimed CRPG, rescuing its reputation on Nintendo’s new hardware."
+ },
+ "https://dev.to/mympgames/flank-flip-or-pass-how-i-coded-reversi-in-124-lines-for-a-multiplayer-browser-game-3ec8": {
+  "zh_title": "124 行代码实现多人浏览器版黑白棋：翻转、跳过与对弈思路",
+  "zh_oneliner": "作者用 124 行代码写出支持多人对战的浏览器版黑白棋，分享了落子翻转与轮次判定的实现思路。",
+  "en_title": "Flank, flip, or pass: how I coded Reversi in 124 lines for a multiplayer browser game",
+  "en_oneliner": "The author builds a multiplayer browser Reversi game in just 124 lines, walking through disc-flipping and turn logic."
+ },
+ "https://dev.to/janadapelahara/gta-vi-and-ai-building-realistic-worlds-to-interact-2g6a": {
+  "zh_title": "GTA VI 与 AI：构建可互动的真实世界",
+  "zh_oneliner": "文章探讨 GTA VI 如何借助 AI 让开放世界更真实可互动，聊了复杂行为决策被 AI 简化的趋势。",
+  "en_title": "GTA VI and AI: Building realistic worlds to interact",
+  "en_oneliner": "The post explores how GTA VI uses AI to make its open world feel more real and interactive, and how AI is simplifying complex in-game decision-making."
+ },
+ "https://www.blendernation.com/2026/11/26/enso-engine-1-1-a-free-blender-build-for-anime-and-npr": {
+  "zh_title": "Ensō Engine 1.1：免费的动漫风与 NPR 向 Blender 定制版",
+  "zh_oneliner": "Mix 3D Design 发布免费开源的 Blender 定制版 Ensō Engine 1.1，专为动漫与非真实感渲染打造。",
+  "en_title": "Ensō Engine 1.1: a free Blender build for anime and NPR",
+  "en_oneliner": "Mix 3D Design released Ensō Engine 1.1, a free open-source Blender build tailored for anime and non-photorealistic rendering."
+ },
+ "https://80.lv/articles/fable-devs-looked-to-the-witcher-3-the-gold-standard-for-rpgs": {
+  "zh_title": "《神鬼寓言》开发团队以《巫师 3》为 RPG 标杆",
+  "zh_oneliner": "Playground Games 负责人表示，只沿用原三部曲已满足不了当代玩家，团队把《巫师 3》当作新作的参照标准。",
+  "en_title": "Fable Devs Looked to The Witcher 3, the \"Gold Standard\" for RPGs",
+  "en_oneliner": "Playground Games says sticking to the original trilogy alone would not meet modern players’ expectations, so the team treats The Witcher 3 as the benchmark for the new Fable."
  }
 }
