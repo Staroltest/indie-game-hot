@@ -27250,5 +27250,65 @@
   "zh_oneliner": "PC Gamer 推荐了一款感恩节特价的 RTX 5070 游戏本，售价 1300 美元，32GB 内存版也只贵一点。",
   "en_title": "Forget the turkey, the best thing on your plate this Thanksgiving is this RTX 5070 laptop for just $1,300",
   "en_oneliner": "PC Gamer flags a Thanksgiving deal on an RTX 5070 gaming laptop for $1,300, with a 32GB version for only a little more."
+ },
+ "https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs": {
+  "zh_title": "《神鬼寓言》重启历经漫长开发，Playground 负责人称“并非一切顺利”，但“最初愿景”未变",
+  "zh_oneliner": "历经多次延期后，《神鬼寓言》重启作终于定于明年初发售，负责人坦言开发过程波折不断，团队为此借鉴了系列之外的其他 RPG，但核心愿景始终未变。",
+  "en_title": "\"Clearly not everything has gone well\" during Fable's lengthy creation, says Playground boss, but the \"original vision\" remains intact despite taking cues from other RPGs",
+  "en_oneliner": "After multiple delays, the Fable reboot is finally set for early next year; its general manager admits the long development was far from smooth, and the team looked beyond the series for RPG inspiration while keeping its original vision intact."
+ },
+ "https://80.lv/articles/hela-of-mice-magic-deep-dive-shows-its-interactive-world": {
+  "zh_title": "《Hela：鼠与魔法》深度解析展示其互动世界",
+  "zh_oneliner": "这款以瑞典自然风光为灵感的奇幻冒险新作通过深度解析展示了其生动可互动的世界。",
+  "en_title": "Hela: of Mice & Magic Deep Dive Shows Its Interactive World",
+  "en_oneliner": "A deep dive into the fantasy adventure inspired by Swedish nature shows off its lively, interactive world."
+ },
+ "https://dev.to/aurum_revenue/my-game-has-no-build-step-no-server-and-no-analytics-that-was-the-whole-point-4p5c": {
+  "zh_title": "我的游戏没有构建步骤、没有服务器、也没有数据分析，这正是重点",
+  "zh_oneliner": "作者用一款十二分钟的浏览器小游戏 NULL TIDE 证明：几份纯静态文件就能直接发布并运行，省掉打包、服务器和分析脚本反而让独立开发更轻快。",
+  "en_title": "My game has no build step, no server, and no analytics. That was the whole point.",
+  "en_oneliner": "Through NULL TIDE, a twelve-minute browser game, the author argues that a few plain files with no bundler, server, or analytics can ship and run directly, keeping indie development lighter."
+ },
+ "https://dev.to/eztakesin/making-2011-era-windows-games-fast-on-apple-silicon-x87-dxmt-and-a-native-steam-window-ihk": {
+  "zh_title": "让 2011 年的 Windows 游戏在 Apple Silicon 上跑得飞快：x87、DXMT 与原生 Steam 窗口",
+  "zh_oneliner": "作者为在 Apple Silicon Mac 上玩自己的 Steam 库，基于自己编译打补丁的 Wine 打造了一套轻量运行时，并详解了 x87 浮点指令翻译等三个关键技术难题。",
+  "en_title": "Making 2011-era Windows games fast on Apple Silicon: x87, DXMT, and a native Steam window",
+  "en_oneliner": "The author built a lightweight runtime on a self-compiled, patched Wine to play their own Steam library on Apple Silicon, and explains three key technical hurdles including x87 floating-point translation."
+ },
+ "https://www.eurogamer.net/games-without-ai-steam-event": {
+  "zh_title": "受够了 Steam 对 AI 粗制内容不作为？不妨看看“无 AI 游戏”主题活动",
+  "zh_oneliner": "第三方发起的 Steam 活动“Games Without AI”于 11 月 25 日至 12 月 6 日举行，收录的游戏均声称在开发中完全没有使用 AI，旨在支持真实创作者。",
+  "en_title": "Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead",
+  "en_oneliner": "A third-party Steam event, \"Games Without AI,\" runs from 25 November to 6 December, featuring games said to have avoided AI entirely during development in support of real creators."
+ },
+ "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail": {
+  "zh_title": "据报道育碧全公司推行生成式 AI，不想用的开发者要详细说明理由",
+  "zh_oneliner": "据报道，育碧要求立项团队说明生成式 AI 将如何助力开发，不愿使用的团队则需向上级清楚解释原因，显示其正把生成式 AI 深度植入开发流程。",
+  "en_title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+  "en_oneliner": "Ubisoft reportedly now expects teams pitching new projects to explain how generative AI will help development, while teams that opt out must clearly justify their reasoning to leadership."
+ },
+ "https://mobilegamer.biz/supercell-shooter-boat-game-is-back-in-limited-testing": {
+  "zh_title": "Supercell 射击游戏 Boat Game 恢复小范围测试",
+  "zh_oneliner": "Supercell 低调的射击游戏 Boat Game 重新出现在美国、加拿大、墨西哥、马来西亚和菲律宾的应用商店，开启新一轮小范围测试。",
+  "en_title": "Supercell shooter Boat Game is back in limited testing",
+  "en_oneliner": "Supercell's low-key shooter Boat Game has reappeared on app stores in the US, Canada, Mexico, Malaysia, and the Philippines for another round of limited testing."
+ },
+ "https://80.lv/articles/spider-man-brand-new-day-to-compete-in-the-comedy-race-at-the-golden-globes-2027": {
+  "zh_title": "《蜘蛛侠：崭新的一天》将角逐 2027 年金球奖喜剧类奖项",
+  "zh_oneliner": "金球奖选票公布后出现不少意料之外的分类安排，新《蜘蛛侠》电影被划入了喜剧类赛道。",
+  "en_title": "Spider-Man: Brand New Day to Compete in the Comedy Race at the 2027 Golden Globes",
+  "en_oneliner": "With the Golden Globes ballots out, some surprising category placements have emerged, with the new Spider-Man film entered in the comedy race."
+ },
+ "https://dev.to/malihab/5-things-i-learned-building-a-3d-map-editor-in-rust-with-bevy-4j7l": {
+  "zh_title": "用 Rust + Bevy 做 3D 地图编辑器，我学到的 5 件事",
+  "zh_oneliner": "作者花数月用 Rust 与 Bevy 引擎打造桌面 3D 地图编辑器 Fiza3D，分享了从中总结的五条经验，适合想自己做开发工具的独立开发者参考。",
+  "en_title": "5 things I learned building a 3D map editor in Rust with Bevy",
+  "en_oneliner": "The author spent months building Fiza3D, a desktop 3D map editor for game levels, roads, and cities in Rust on Bevy, and shares five lessons for anyone wanting to build a similar tool."
+ },
+ "https://www.pocketgamer.biz/what-195-industry-leaders-think-about-player-retention-and-engagement-challenges": {
+  "zh_title": "195 位行业领袖怎么看玩家留存与参与度挑战",
+  "zh_oneliner": "ZBD 对 195 位游戏行业领袖的调查显示，靠内购变现的开发者在平衡变现与体验上压力较小，仅 36% 视为痛点，而广告变现为 53%、混合变现达 59%。",
+  "en_title": "What 195 industry leaders think about player retention and engagement challenges",
+  "en_oneliner": "A ZBD survey of 195 games industry leaders found developers monetising mainly through in-app purchases feel less strain balancing monetisation with player experience, with 36% calling it a pain point versus 53% for ads and 59% for hybrid models."
  }
 }
