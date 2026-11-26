@@ -26806,5 +26806,29 @@
   "zh_oneliner": "商店页自夸全球销量超 80 万份，玩家评价却跌到褒贬不一，症结在糟糕的 AI 翻译。",
   "en_title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
   "en_oneliner": "The store page boasts over 800,000 copies sold worldwide, yet user reviews have sunk to Mostly Negative — the culprit is woeful AI translation."
+ },
+ "https://dev.to/dawncommit/how-we-generate-100000-line-files-with-exactly-the-bugs-we-planted-3nn6": {
+  "zh_title": "我们如何生成十万行代码文件，并精确植入其中的 Bug",
+  "zh_oneliner": "一款找 Bug 解谜游戏的幕后分享：先用模板生成干净代码并过真实解析器校验，再精确植入错误，让十万行文件里唯一的 Bug 就是设计好的那一个。",
+  "en_title": "How we generate 100,000-line files with exactly the bugs we planted",
+  "en_oneliner": "Behind a bug-hunting puzzle game: clean code is generated from templates and verified with real parsers first, so the only bug in a 100,000-line file is the one the designers planted."
+ },
+ "https://dev.to/slivenred/how-i-compressed-54-3d-models-from-220-mb-down-to-15-mb-for-a-60fps-threejs-power-grid-tower-5ab3": {
+  "zh_title": "我如何把 54 个 3D 模型从 220MB 压到 15MB，让 Three.js 电网塔防稳跑 60 帧",
+  "zh_oneliner": "独立开发者分享一条从 2D 概念图经 Tripo 3D 到无头 Blender、Meshopt 与 WebP 的完整管线，54 个模型压进 15MB，浏览器塔防照样跑满 60 帧。",
+  "en_title": "How I Compressed 54 3D Models from 220+ MB Down to 15 MB for a 60fps Three.js Power-Grid Tower Defense",
+  "en_oneliner": "A solo developer's pipeline from 2D concepts through Tripo 3D, headless Blender, Meshopt and WebP, squeezing 54 models into 15 MB so a browser tower defense still holds 60fps."
+ },
+ "https://dev.to/juegostudiosofficial/choosing-a-game-engine-before-you-hire-a-decision-sheet-for-founders-building-a-team-in-india-58p": {
+  "zh_title": "招人之前先选引擎：给在印度组建团队的创始人的决策表",
+  "zh_oneliner": "针对在印度招人建队的一份引擎决策清单：先定目标设备再选引擎，聊清招聘、成本与发行平台之间的取舍。",
+  "en_title": "Choosing a Game Engine Before You Hire: A Decision Sheet for Founders Building a Team in India",
+  "en_oneliner": "A decision sheet for founders hiring a team in India: pick target devices before picking an engine, and weigh hiring, cost and platform trade-offs up front."
+ },
+ "https://indienova.com/indie-game-news/sunset-sway-sue-allen-designs-for-learning-studying-science-museum-exhibits-that-do-more-than-entertain": {
+  "zh_title": "Sue Allen 面向学习的设计：超越娱乐的科学博物馆展品研究",
+  "zh_oneliner": "译介旧金山探索馆研究员 Sue Allen 二十年前的高引论文，探讨科学博物馆展品如何超越娱乐、实现面向学习的设计，对游戏设计同样有启发。",
+  "en_title": "Sue Allen's Designs for Learning: Studying Science Museum Exhibits That Do More Than Entertain",
+  "en_oneliner": "A translated paper by Exploratorium researcher Sue Allen from twenty years ago on how science museum exhibits can be designed for learning rather than mere entertainment, with lessons that carry over into game design."
  }
 }
