@@ -27046,5 +27046,29 @@
   "zh_oneliner": "从业 50 余年的游戏界元老 Ian Livingstone 爵士将于明年 1 月在伦敦 PGC 大会演讲，他联合创办 Games Workshop、合著《Fighting Fantasy》系列，后创立投资机构 Hiro Capital。",
   "en_title": "Sir Ian Livingstone to speak at PGC London",
   "en_oneliner": "Games industry veteran Sir Ian Livingstone — Games Workshop co-founder, Fighting Fantasy co-creator and Hiro Capital co-founder — will speak at Pocket Gamer Connects London in January."
+ },
+ "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic": {
+  "zh_title": "GTA 6 发售带动系列手游移植版首周合计下载 230 万次，AppMagic 数据",
+  "zh_oneliner": "GTA 6 的破纪录发售顺带推高了系列旧作的手游移植版，首周合计新增 230 万次下载，值得关注老 IP 在新作热度下的长尾变现。",
+  "en_title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+  "en_oneliner": "GTA 6's record-breaking launch also lifted the franchise's older mobile ports, adding a combined 2.3 million downloads in the first week — a useful look at how a new release's heat spills over to an old catalog."
+ },
+ "https://80.lv/articles/pixar-animator-shares-early-footage-of-sulley-randall-s-fight-in-monsters-inc": {
+  "zh_title": "皮克斯动画师分享《怪兽电力公司》毛怪与兰道夫打斗早期片段",
+  "zh_oneliner": "一位皮克斯动画师放出了《怪兽电力公司》里毛怪与兰道夫打斗戏的早期版本，没有毛发的毛怪相当罕见，适合想看动画镜头迭代过程的开发者参考。",
+  "en_title": "Pixar Animator Shares Early Footage Of Sulley & Randall's Fight In Monsters, Inc.",
+  "en_oneliner": "A Pixar animator shared early footage of the Sulley vs. Randall fight from Monsters, Inc. — Sulley without his fur is a rare sight, and a good reference for anyone studying how animation shots evolve."
+ },
+ "https://dev.to/daisyauma/how-i-built-a-daily-chart-guessing-game-on-reddit-and-why-the-crowd-keeps-winning-jag": {
+  "zh_title": "我如何在 Reddit 上做了一款每日猜图表游戏（以及为什么群众总赢）",
+  "zh_oneliner": "作者复盘自己做的每日猜图表小游戏，第二天就猜了个零分，聊了数据可视化游戏的设计坑与玩家集体智慧。",
+  "en_title": "How I Built a Daily Chart-Guessing Game on Reddit (And Why the Crowd Keeps Winning)",
+  "en_oneliner": "The author looks back at a daily chart-guessing game built on Reddit — scoring zero on day two — and unpacks the design pitfalls of data-visualization games and the wisdom of the crowd."
+ },
+ "https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects": {
+  "zh_title": "曝育碧员工立项时需说明为何不使用 AI",
+  "zh_oneliner": "据 Vertical Slice 报道，育碧现在要求内部团队在立项时说明如何用生成式 AI 提速，AI 已从可选项变成默认流程的一部分。",
+  "en_title": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
+  "en_oneliner": "A Vertical Slice report says Ubisoft now asks internal teams pitching projects to explain how they plan to use generative AI to speed up work — AI is shifting from optional to the default workflow."
  }
 }
