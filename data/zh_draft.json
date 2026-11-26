@@ -27754,5 +27754,59 @@
   "zh_oneliner": "GTA 6 发售带动英国实体销量激增，哪怕包装盒里没有光盘，折射出大作发行对线下渠道的拉动效应。",
   "en_title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
   "en_oneliner": "GTA 6 lifted UK physical game sales sharply even though the box contains no disc — a snapshot of how a blockbuster launch still moves retail."
+ },
+ "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26": {
+  "zh_title": "本周 Switch eShop 新游一览（11 月 26 日）",
+  "zh_oneliner": "感恩节档期的北美 eShop 上新汇总，含《怪物猎人：荒野》Switch 2 版与《雷曼：传奇重制版》等作，独立开发者可顺手看看同档期竞品阵容。",
+  "en_title": "Here Are All The Games Coming To Switch eShop This Week (November 26)",
+  "en_oneliner": "A Thanksgiving-week round-up of North America's Switch eShop arrivals, including Monster Hunter Wilds on Switch 2 and Rayman Legends Retold — a handy scan of what else is launching alongside your game."
+ },
+ "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers": {
+  "zh_title": "《战锤 40K：星际战士 2》更新加入每周冲突 PvP 模式",
+  "zh_oneliner": "新模式用限定词条压缩对战规则，借每周轮换逼玩家换打法，值得做多人模式的开发者参考轮换设计。",
+  "en_title": "Warhammer 40,000: Space Marine 2's latest updates introduces a Weekly Clash mode that shakes up PvP with some constricting modifiers",
+  "en_oneliner": "The Decimation update adds a Weekly Clash mode that reshapes PvP with constricting modifiers — a useful reference for developers designing rotating multiplayer rulesets."
+ },
+ "https://80.lv/articles/play-dominations-and-you-could-get-a-serafim-s3-mobile-controller": {
+  "zh_title": "玩《DomiNations》有机会赢 Serafim S3 手柄",
+  "zh_oneliner": "Xsolla 的赞助任务活动：前 100 名完成任务的玩家可免费获得 Serafim S3 手机手柄并包邮，可作发行方联动周边活动的参考案例。",
+  "en_title": "Play DomiNations And You Could Get a Serafim S3 Mobile Controller",
+  "en_oneliner": "Xsolla's Sponsored Quest gives the first 100 eligible players a free Serafim S3 mobile controller with shipping included — a look at how publishers run hardware-linked player campaigns."
+ },
+ "https://dev.to/towneers/building-a-browser-mmo-life-sim-with-nodejs-and-one-dependency-4gbk": {
+  "zh_title": "用 Node.js 和一个依赖搭建浏览器 MMO 人生模拟游戏",
+  "zh_oneliner": "单人开发者分享如何用纯 Node.js 加一个 WebSocket 依赖撑起浏览器里的多人像素城市，从钓鱼种田到玩家市场一应俱全。",
+  "en_title": "Building a browser MMO life sim with Node.js and one dependency",
+  "en_oneliner": "A solo developer explains how plain Node.js plus a single WebSocket dependency powers a shared isometric pixel-city life sim in the browser, from fishing and farming to a player-run market."
+ },
+ "https://dev.to/theatomicshift/closing-the-loop-how-clockworks-built-in-ai-agent-uses-kane-cli-to-verify-the-games-it-builds-17a9": {
+  "zh_title": "闭环验证：Clockwork 内置 AI 智能体如何用 Kane CLI 检验它生成的游戏",
+  "zh_oneliner": "智能体自称“加了金币”不算数，Clockwork 让它在真实浏览器里跑通玩法并拿到可量化的验证结果，展示了 AI 生成游戏的端到端自检思路。",
+  "en_title": "Closing the Loop: How Clockwork's Built-in AI Agent Uses Kane CLI to Verify the Games It Builds",
+  "en_oneliner": "Clockwork's built-in agent doesn't trust its own word that it \"added coins\" — it has Kane CLI play the result in a real browser and return a typed verdict, a model for end-to-end verification of AI-built games."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/free-online-games-for-laptop-without-downloading-10-browser-games-for-any-windows-laptop-cricket-220a": {
+  "zh_title": "笔记本免下载免费在线游戏 10 款",
+  "zh_oneliner": "一篇面向休闲玩家的浏览器游戏清单，收录十款免安装小游戏，对独立开发者参考价值有限。",
+  "en_title": "Free online games for laptop without downloading: 10 browser games for any Windows laptop (cricket included)",
+  "en_oneliner": "A player-facing list of ten free browser games that run with nothing to install — of limited reference value for indie developers."
+ },
+ "https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n": {
+  "zh_title": "打造 Clockwork：一款用 Kane CLI 做端到端验证的 AI 原生 2D 游戏引擎",
+  "zh_oneliner": "浏览器里的 2D 引擎把场景、行为、规则与 HUD 收进同一个窗口，Kane CLI 再驱动真实 Chrome 验证编辑器与游戏全链路可用。",
+  "en_title": "Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI",
+  "en_oneliner": "Clockwork packs scene building, behaviors, rules, HUD design and playtesting into one browser app, with Kane CLI driving real Chrome to prove the editor and its games work end to end."
+ },
+ "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad": {
+  "zh_title": "评测：GameSir Nova Vision 手柄——独特功能撑起中端定位",
+  "zh_oneliner": "售价 54.99 美元的 Switch 手柄靠彩色 LCD 屏与可调张力的霍尔摇杆做出差异化，附带充电底座，适合关注外设生态的开发者一读。",
+  "en_title": "Review: Gamesir Nova Vision Controller For Switch 1 & 2 - Unique Features Elevate This Mid-Range Pad",
+  "en_oneliner": "At $54.99, GameSir's Switch controller differentiates itself with a colour LCD screen and adjustable-tension Hall Effect sticks, plus a charging stand — worth a look for developers tracking the accessory ecosystem."
+ },
+ "https://www.pcgamer.com/black-friday-ssd-deals": {
+  "zh_title": "2026 黑五 SSD 优惠汇总",
+  "zh_oneliner": "黑五期间的固态硬盘促销清单，面向玩家升级存储，与独立游戏开发关系不大。",
+  "en_title": "Black Friday SSD deals 2026",
+  "en_oneliner": "A round-up of Black Friday SSD deals for players upgrading their storage — of little direct relevance to indie development."
  }
 }
