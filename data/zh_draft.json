@@ -27658,5 +27658,83 @@
   "zh_oneliner": "游戏充值结账失败常源于玩家 ID、服务器分区或地区资格的小小错配，作者结合支付网关与履约环节，给出减少客服工单的实用流程模式。",
   "en_title": "Why Game Top-Up Fails at Checkout: ID Validation, Invoice States, and Delayed Callbacks",
   "en_oneliner": "Game top-up checkouts often fail on small mismatches in player IDs, server or zone identifiers, or region eligibility; the author offers practical flow patterns to keep payment and fulfilment in sync and cut support tickets."
+ },
+ "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc": {
+  "zh_title": "“前所未见”——但 GTA 6 的成功受限于主机装机量，未来要看 PC 版",
+  "zh_oneliner": "首日 3250 万份、38 亿美元收入仍超预期，分析师认为主机装机量已是天花板，未确认的 PC 版才是最大的增量机会。",
+  "en_title": "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC",
+  "en_oneliner": "Day-one sales of 32.5 million copies and $3.79B in revenue still beat expectations, but analysts say the console install base caps further growth — the unconfirmed PC release is the main scale opportunity."
+ },
+ "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal": {
+  "zh_title": "Rockstar 员工投票否决工会承认协议",
+  "zh_oneliner": "《GTA》开发商 Rockstar 的员工投票否决了工会承认协议，工会化进程再遇阻。",
+  "en_title": "Staff at Grand Theft Auto maker Rockstar vote against union recognition deal",
+  "en_oneliner": "Workers at Grand Theft Auto maker Rockstar Games have voted against a union recognition deal, setting back the studio's unionisation push."
+ },
+ "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas": {
+  "zh_title": "《巫师 3 重制版》新补丁修复偷走杰洛特全部家当的 Mod 等怪 Bug",
+  "zh_oneliner": "新补丁在明年资料片《Songs of the Past》到来前继续打磨：调整技能与变异平衡，顺手修掉一批离谱 Bug。",
+  "en_title": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
+  "en_oneliner": "The latest patch keeps polishing the remaster ahead of next year's Songs of the Past expansion, rebalancing skills and mutations and fixing a batch of bizarre bugs."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/thanksgiving-games-online-for-adults-10-free-games-to-play-after-thanksgiving-dinner-no-download-1nga": {
+  "zh_title": "感恩节后免费在线小游戏推荐：10 款成人向派对游戏，无需下载",
+  "zh_oneliner": "整理了一份感恩节晚餐后就能在浏览器里开玩的免费派对游戏清单，主打零下载、随开随玩。",
+  "en_title": "Thanksgiving games online for adults: 10 free games to play after Thanksgiving dinner (no download)",
+  "en_oneliner": "A roundup of free browser party games to open right after Thanksgiving dinner — no downloads, just a tab and a few players."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/winter-break-games-online-free-10-winter-holiday-games-for-the-classroom-and-home-no-download-23a9": {
+  "zh_title": "寒假免费在线小游戏推荐：10 款适合课堂与家庭的节日游戏，无需下载",
+  "zh_oneliner": "整理了 10 款寒假期间能在浏览器里直接玩的免费节日小游戏，面向课堂与家庭场景。",
+  "en_title": "Winter break games online free: 10 winter holiday games for the classroom and home (no download)",
+  "en_oneliner": "Ten free holiday browser games for the winter break, picked for classroom and family play with nothing to install."
+ },
+ "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week": {
+  "zh_title": "日本销量榜：GTA 6 首周登顶，力压《塞尔达》与 Switch 2",
+  "zh_oneliner": "据 Famitsu 数据，GTA 6 日本首周实体销量超 20 万份，即便是无光盘的兑换码版，也把《塞尔达传说：时之笛》的 3.5 万份甩在身后。",
+  "en_title": "Japanese Charts: No Prizes For Guessing What Has Overtaken Zelda & Switch 2 This Week",
+  "en_oneliner": "Famitsu's latest Japanese charts put GTA VI's physical debut above 200,000 units — even as a code-in-a-box release, it left Zelda: Ocarina of Time's ~35,000 in second place."
+ },
+ "https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal": {
+  "zh_title": "黑五特惠：Razer Hello Kitty 联名有线游戏键盘降价了",
+  "zh_oneliner": "黑五期间 Razer 与 Hello Kitty 联名的有线游戏键盘迎来折扣，颜值党的入手时机到了。",
+  "en_title": "I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal",
+  "en_oneliner": "Razer's Hello Kitty & Friends wired gaming keyboard is discounted for Black Friday — a deal for anyone who wants their setup a little cuter."
+ },
+ "https://www.pocketgamer.biz/bardic-mystery-rpg-heart-and-harmony-wins-the-big-indie-pitch-at-pgc-montreal-2026": {
+  "zh_title": "吟游诗人解谜 RPG《Heart and Harmony》夺得 PGC 蒙特利尔 2026 大型独立游戏 Pitch 冠军",
+  "zh_oneliner": "Fableware 的吟游诗人解谜 RPG 在 12 支独立团队的速配式路演中脱颖而出，拿下蒙特利尔站 Big Indie Pitch 第一名。",
+  "en_title": "Bardic mystery RPG Heart and Harmony wins the Big Indie Pitch at PGC Montreal 2026",
+  "en_oneliner": "Fableware's bardic mystery RPG beat 11 other indie studios in the speed-dating pitch format to take first place at PGC Montreal 2026."
+ },
+ "https://dev.to/drew_grant_7c81ce9e84426a/spamle-what-counts-in-a-category-word-game-15j7": {
+  "zh_title": "Spamle：一款考验分类联想的文字游戏是怎么做出来的？",
+  "zh_oneliner": "作者分享了做这款分类猜词小游戏的思路：从“输入信息的工具是键盘、鼠标……”这类日常联想出发，让一轮猜词变得有意思。",
+  "en_title": "Spamle: What Counts in a Category Word Game?",
+  "en_oneliner": "The author shares how they built a category word game around everyday associations — starting from prompts like naming things you use to enter information into a computer."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/browser-games-to-play-at-work-10-quiet-no-download-games-for-a-lunch-break-solitaire-mahjong-2ll8": {
+  "zh_title": "上班摸鱼也能玩：10 款安静免下载的午休小游戏",
+  "zh_oneliner": "整理了一份适合午休的浏览器小游戏清单，主打安静、可暂停、几分钟一局，纸牌、麻将、数织一应俱全。",
+  "en_title": "Browser games to play at work: 10 quiet, no-download games for a lunch break (solitaire, mahjong, nonograms)",
+  "en_oneliner": "A roundup of quiet browser games for a lunch break — pausable, finished in minutes, from solitaire and mahjong to nonograms."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/farflung-unblocked-how-to-play-the-daily-geography-puzzle-where-rarer-answers-fly-farther-2bom": {
+  "zh_title": "Farflung 免翻墙玩法：每天一局的地理猜谜，越冷门的答案飞得越远",
+  "zh_oneliner": "介绍了一款免费的每日地理猜谜小游戏：每轮五个提示、45 秒内在地图上落点，答案越冷门飞得越远。",
+  "en_title": "Farflung unblocked: how to play the daily geography puzzle where rarer answers fly farther",
+  "en_oneliner": "A look at Farflung, a free daily geography puzzle in the browser: five prompts, 45 seconds per pin, and rarer answers fly farther."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/free-online-hidden-object-games-full-screen-no-download-10-for-adults-and-how-to-make-any-3bcf": {
+  "zh_title": "免费在线找茬游戏推荐：10 款全屏免下载的成人向寻物游戏",
+  "zh_oneliner": "整理了一份全屏免下载的免费在线寻物游戏清单，并顺带讲了怎么让任意浏览器游戏全屏显示。",
+  "en_title": "Free online hidden object games, full screen, no download: 10 for adults (and how to make any browser game full screen)",
+  "en_oneliner": "Ten free full-screen hidden object games for adults that need no download, plus a quick guide to forcing any browser game into full screen."
+ },
+ "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab": {
+  "zh_title": "“叮的那一声呢？！”——我问了《PowerWash Simulator 2》团队怎么看 GTA 6 里杰森的高压水枪活儿",
+  "zh_oneliner": "GTA 6 第一章里就有高压清洗支线，记者顺势问了《PowerWash Simulator 2》团队对这段“同行作业”的看法。",
+  "en_title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+  "en_oneliner": "GTA 6's first chapter includes a powerwashing side job, so the reporter asked the PowerWash Simulator 2 team what they made of Jason's nozzle work."
  }
 }
