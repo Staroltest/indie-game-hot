@@ -27166,5 +27166,89 @@
   "zh_oneliner": "Nordic Game 专栏第四期继续推荐来自北欧国家的新作与即将发售的独立游戏。",
   "en_title": "Nordic Game Trailer Park 4: Yet More Nordic Games Worth Watching",
   "en_oneliner": "The fourth edition of Nordic Game's Trailer Park series spotlights more new and upcoming games from the Nordic countries."
+ },
+ "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period": {
+  "zh_title": "NielsenIQ：GTA 6 发售带动英国游戏零售收入暴涨 99%，达 1.42 亿英镑",
+  "zh_oneliner": "GTA 6 发售三天内英国游戏零售收入环比增长 99%，达到 1.42 亿英镑，头部大作对实体零售的拉动效应依然显著。",
+  "en_title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
+  "en_oneliner": "UK games retail revenue jumped 99% week-on-week to £142 million during GTA 6's three-day launch window, a reminder of how much a single blockbuster still moves physical retail."
+ },
+ "https://80.lv/articles/nvidia-will-reportedly-cut-rtx-50-series-supply-by-20-30": {
+  "zh_title": "传闻：英伟达将把 RTX 50 系列显卡供应削减 20%–30%",
+  "zh_oneliner": "据称英伟达已通知板卡合作伙伴削减 RTX 50 系列供应，幅度达两到三成，显卡价格与备货节奏值得开发者留意。",
+  "en_title": "NVIDIA Will Reportedly Cut RTX 50-Series Supply by 20-30%",
+  "en_oneliner": "NVIDIA has reportedly told board partners it will cut RTX 50-series supply by 20–30%, a move worth watching for GPU pricing and availability."
+ },
+ "https://80.lv/articles/embergen-2-alpha-is-finally-here": {
+  "zh_title": "EmberGen 2 Alpha 终于来了",
+  "zh_oneliner": "JangaFX 的实时流体模拟工具 EmberGen 迎来 2.0 Alpha 版，开发者可以下载体验最新进展。",
+  "en_title": "EmberGen 2 Alpha Is Finally Here",
+  "en_oneliner": "JangaFX's real-time fluid simulation tool EmberGen reaches its 2.0 alpha, now available to download and try."
+ },
+ "https://www.indiedb.com/games/civilfight/news/alliance-troop-trade-and-attack-plans-a-day-ahead": {
+  "zh_title": "CivilFight 更新：联盟部队交易与提前一天制定进攻计划",
+  "zh_oneliner": "CivilFight 加入联盟部队交易与交易中心加速送达，进攻计划可提前 24 小时公布，全员可见每波兵力，地图标记与状态列表也做了清理。",
+  "en_title": "Alliance troop trade and attack plans a day ahead",
+  "en_oneliner": "CivilFight adds alliance troop trading with a trading centre to speed deliveries, lets attack plans be announced 24 hours ahead with every wave's troop counts visible, and cleans up map pins and state lists."
+ },
+ "https://www.indiedb.com/games/acre-of-the-devil/news/acre-of-the-devil-official-trailer-development-updates": {
+  "zh_title": "《Acre of the Devil》发布官方预告与开发近况",
+  "zh_oneliner": "这款黑暗西部题材的单人俯视角动作射击游戏放出正式预告，玩家将在满目疮痍的边境聚落中持枪迎敌、揭开神秘疫情背后的真相。",
+  "en_title": "Acre of the Devil – Official Trailer & Development Updates",
+  "en_oneliner": "The single-player top-down action shooter set in a dark Western frontier gets an official trailer, inviting players to fight through devastated settlements and uncover the truth behind a mysterious outbreak."
+ },
+ "https://www.indiedb.com/games/face-your-fate/news/one-reroll-left-keep-fire-or-reroll-one-column": {
+  "zh_title": "只剩一次重随：保留火元素，还是重随一列？",
+  "zh_oneliner": "开发者用三张全屏截图复盘一次单轴重随决策：火变水、护盾加 80、金币不变，聊聊哪些信号能让选择一目了然。",
+  "en_title": "One reroll left: keep Fire, or reroll one column?",
+  "en_oneliner": "A developer walks through one shared single-reel reroll decision with three full-frame screenshots — Fire becomes Water, 80 shield is added, coins stay put — and asks which cues make the choice clear."
+ },
+ "https://www.indiedb.com/games/a-night-with-august/news/behind-the-scenes-how-a-night-with-august-was-created": {
+  "zh_title": "幕后：《A Night With August》是如何做出来的",
+  "zh_oneliner": "一位独立开发者用 9 到 12 个月做完这款游戏，文章复盘了场景氛围、August 的 AI、动画、视觉与解谜系统的搭建过程与取舍。",
+  "en_title": "Behind the Scenes: How A Night With August Was Created",
+  "en_oneliner": "A solo developer recounts the 9–12 months behind the game, from environments and atmosphere to August's AI, animations, vision, puzzles, and gameplay systems."
+ },
+ "https://www.indiedb.com/games/cabin-crew-life-simulator/news/male-flight-attendants-are-now-available-in-cabin-crew-life-simulator": {
+  "zh_title": "《Cabin Crew Life Simulator》更新：男性乘务员登机",
+  "zh_oneliner": "本次大更新加入男性乘务员及配套语音、客舱广播与制服，还新增后舱对讲机、更好的光照与衣柜改进，并修复大量 Bug，Steam 现正七折左右。",
+  "en_title": "Male Flight Attendants Are Now Available in Cabin Crew Life Simulator",
+  "en_oneliner": "The update adds male flight attendants with new voice lines, cabin announcements and uniforms, plus a rear cabin interphone, better lighting, wardrobe improvements and many bug fixes, with the game 31% off on Steam."
+ },
+ "https://dev.to/pascal_hoffmann_ee489908a/kawa-an-endless-lantern-boat-journey-through-old-japan-in-the-browser-4a79": {
+  "zh_title": "Kawa：在浏览器里撑一盏灯笼船，慢游旧日本",
+  "zh_oneliner": "这款刻意做得很慢的网页游戏让你撑着灯笼船沿无尽长河上行，穿过京都运河、梯田与竹林，three.js 实时 3D 生成河道，每座城镇都有自己的节日。",
+  "en_title": "Kawa: an endless lantern boat journey through old Japan, in the browser",
+  "en_oneliner": "A deliberately slow browser game about poling a lantern boat up an endless river through old Japan — Kyoto's canals, rice terraces and bamboo gorges — built in real-time 3D with three.js, with a festival in every town."
+ },
+ "https://dev.to/stinklewinks/i-dont-need-your-permission-45e7": {
+  "zh_title": "我不需要你的许可",
+  "zh_oneliner": "一篇写给软件工程师的随笔：当入门岗位变成教 AI 做自己想做的工作，作者聊了聊这份焦虑，以及不等待许可、自己动手做的态度。",
+  "en_title": "I Don't Need Your Permission",
+  "en_oneliner": "An essay for software engineers on the unease of entry-level work becoming training AI to do the job you wanted — and on building anyway, without waiting for permission."
+ },
+ "https://dev.to/juegostudiosofficial/turning-a-figma-ui-kit-into-unity-prefabs-a-handoff-checklist-for-mobile-games-shipping-to-indian-3427": {
+  "zh_title": "把 Figma UI 套件转成 Unity 预制体：面向印度安卓手机的手游交接清单",
+  "zh_oneliner": "针对印度市场以中低端安卓机为主的现实，这份清单从开发者角度梳理了 Figma UI 套件落到 Unity 预制体时要注意的命名、导出、状态与多尺寸适配要点。",
+  "en_title": "Turning a Figma UI Kit Into Unity Prefabs: A Handoff Checklist for Mobile Games Shipping to Indian Android Phones",
+  "en_oneliner": "A developer-side checklist for turning a Figma UI kit into Unity prefabs that behave on India's wide spread of entry-level Android phones, covering naming, exports, states and multi-size adaptation."
+ },
+ "https://dev.to/ricardo_decastro_0ccd6b8/deterministic-browser-solvers-in-pure-js-021ms-no-guess-minesweeper-and-0515ms-mrv-crowns-17m5": {
+  "zh_title": "纯 JS 确定性浏览器解算器：0.21 毫秒无猜扫雷与 0.515 毫秒 MRV Crowns",
+  "zh_oneliner": "作者分享了两款纯 Canvas 2D 网页解谜游戏的客户端约束求解器：开局前就保证棋盘可解且不阻塞主线程，并附上公开基准数据。",
+  "en_title": "Deterministic Browser Solvers in Pure JS: 0.21ms No-Guess Minesweeper and 0.515ms MRV Crowns",
+  "en_oneliner": "The author shares the client-side constraint solvers behind two pure Canvas 2D browser puzzle games, guaranteeing every board is solvable before the first frame without blocking the main thread, with public benchmark data."
+ },
+ "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music": {
+  "zh_title": "Roblox 与英国 PRS for Music 签署音乐授权协议",
+  "zh_oneliner": "Roblox 与英国音乐版权机构 PRS for Music 达成授权协议，平台上被使用的音乐将从 2027 年起向词曲作者与出版方支付版税，为创作者开辟新的收入来源。",
+  "en_title": "Roblox signs music licensing agreement with PRS for Music",
+  "en_oneliner": "Roblox signs a music licensing deal with UK rights body PRS for Music, opening a new revenue stream for songwriters and publishers whose music is used on the platform, with royalty payments starting in 2027."
+ },
+ "https://www.pcgamer.com/hardware/gaming-laptops/forget-the-turkey-the-best-thing-on-your-plate-this-thanksgiving-is-this-rtx-5070-laptop-for-just-usd1-299": {
+  "zh_title": "别管火鸡了，这个感恩节餐桌上最好的东西是这台仅售 1300 美元的 RTX 5070 笔记本",
+  "zh_oneliner": "PC Gamer 推荐了一款感恩节特价的 RTX 5070 游戏本，售价 1300 美元，32GB 内存版也只贵一点。",
+  "en_title": "Forget the turkey, the best thing on your plate this Thanksgiving is this RTX 5070 laptop for just $1,300",
+  "en_oneliner": "PC Gamer flags a Thanksgiving deal on an RTX 5070 gaming laptop for $1,300, with a 32GB version for only a little more."
  }
 }
