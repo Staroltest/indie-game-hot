@@ -26542,5 +26542,17 @@
   "zh_oneliner": "本周 Steam 新游速览第三弹，挑出 11 月 23–29 日值得关注的独立游戏。",
   "en_title": "Steam Games to Watch This Week, Nov 23–29 (Part 3)",
   "en_oneliner": "The third installment of this week’s Steam watchlist, picking out the indie games worth your attention from November 23–29."
+ },
+ "https://gamedev.net/blogs/entry/2298735-adding-capacity-from-india-staff-augmentation-or-a-dedicated-game-team": {
+  "zh_title": "在印度扩充产能：人员增援还是组建专属游戏团队？",
+  "zh_oneliner": "想从印度扩充开发产能，先别急着找供应商，关键是先选对合作模式：人员增援与专属团队各有各的坑，选错模式就会处处受挫。",
+  "en_title": "Adding Capacity From India: Staff Augmentation or a Dedicated Game Team?",
+  "en_oneliner": "Before calling a vendor to add capacity from India, the real decision is which engagement model you need — staff augmentation or a dedicated team — since each one fails in its own way when you expect the other's behavior."
+ },
+ "https://dev.to/cybermax/a-one-tap-game-in-a-few-files-how-kite-swing-works-49co": {
+  "zh_title": "几行代码做一款一键小游戏：Kite Swing 是怎么跑起来的",
+  "zh_oneliner": "一款只用点一下就能玩的放风筝小游戏，靠确定性模拟和日期种子每天生成同一关卡，作者拆解了它如何用极少的代码实现完整的玩法循环。",
+  "en_title": "A one-tap game in a few files: how Kite Swing works",
+  "en_oneliner": "A one-tap kite game built on a deterministic simulation and a date-based seed, so everyone plays the same course each day — the author breaks down how so little code delivers a complete play loop."
  }
 }
