@@ -27874,5 +27874,35 @@
   "zh_oneliner": "CD Projekt Red 为《巫师 3：狂猎》重制版推送新补丁，全平台新增 40 个跨平台 Mod 并修复数十个 Bug，官方表示后续还会有更多 Mod 加入。",
   "en_title": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
   "en_oneliner": "CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt – Remastered, adding 40 cross-platform mods and fixing dozens of bugs, with more mods on the way."
+ },
+ "https://www.indiedb.com/games/saltwarden-online/news/saltwarden-online-on-a-phone-stick-action-ring-no-app": {
+  "zh_title": "《Saltwarden Online》登陆手机：虚拟摇杆加八格技能环，无需安装应用",
+  "zh_oneliner": "浏览器 MMORPG《Saltwarden Online》的手机版方案：左侧浮动摇杆、右侧八格技能环、仅支持横屏，讲了哪些已实现、哪些还没做，值得做移动端适配的开发者参考。",
+  "en_title": "Saltwarden Online on a phone: stick, action ring, no app",
+  "en_oneliner": "The browser MMORPG Saltwarden Online now runs on phones with a floating stick, an eight-slot action ring, and landscape-only play — a practical look at what works and what is still missing for mobile adaptation."
+ },
+ "https://www.indiedb.com/games/inzoi/news/inzoi-spotlight-launches-on-december-2": {
+  "zh_title": "《inZOI：聚光灯》12 月 2 日上线",
+  "zh_oneliner": "生活模拟游戏《inZOI》的新扩展“聚光灯”将于 12 月 2 日推出，带来演唱会舞台与演艺生涯等新玩法。",
+  "en_title": "'inZOI: Spotlight' Launches on December 2!",
+  "en_oneliner": "The new \"Spotlight\" expansion for life sim inZOI arrives December 2, adding concert stages and acting careers for your Zoi."
+ },
+ "https://www.indiedb.com/games/filmroom-football-26/news/introducing-film-room-football-26-free-demo-out-now": {
+  "zh_title": "《Film Room Football 26》免费试玩版上线：韩国独立开发者打造的美式橄榄球主教练游戏",
+  "zh_oneliner": "一位韩国独立开发者做了款离线美式橄榄球主教练游戏，含职业与大学双生涯模式，2D 实时比赛引擎按真实比赛数据调校，免费试玩版已出。",
+  "en_title": "Introducing Film Room Football 26 – Free Demo Out Now",
+  "en_oneliner": "A solo developer from Korea built an offline American football head-coach game with pro and college careers and a real-time 2D match engine tuned to real play-by-play data — the free demo is out now."
+ },
+ "https://dev.to/idlecultivation/an-idle-cultivation-game-gives-its-bosses-a-language-32nk": {
+  "zh_title": "一款放置修仙游戏给 Boss 们设计了一套“语言”",
+  "zh_oneliner": "这篇开发日志讲放置修仙游戏如何用 Boss 的二阶段狂暴、更快的前摇和血条提示，让战斗本身“说出”接下来会发生什么。",
+  "en_title": "An idle cultivation game gives its bosses a language",
+  "en_oneliner": "This devlog shows how an idle cultivation game gives its bosses a readable language — second-phase frenzies, faster wind-ups, and health-bar cues that telegraph what is coming next."
+ },
+ "https://dev.to/trendzbetagames/hunting-souls-on-android-mobile-horror-combat-60fps-test-4ljc": {
+  "zh_title": "《Hunting Souls》安卓版：移动端恐怖射击的战斗手感与 60 帧测试",
+  "zh_oneliner": "以安卓恐怖射击《Hunting Souls》为例，拆解触屏战斗、武器切换与雾效场景下的性能优化思路，聊移动端恐怖游戏怎么做才不卡手。",
+  "en_title": "Hunting Souls on Android: Mobile Horror Combat & 60FPS Test",
+  "en_oneliner": "Using Android horror shooter Hunting Souls as a case study, this piece breaks down touch combat, weapon switching, and keeping 60 fps in fog-heavy scenes — a useful read for mobile horror developers."
  }
 }
