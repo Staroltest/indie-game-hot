@@ -26782,5 +26782,29 @@
   "zh_oneliner": "作者自研的 Unity 补间动画库 MyMotion，API 与 LitMotion 兼容可直接迁移，底层用 Burst 编译的数据导向核心重写，在全部 17 项测试中都跑赢了 LitMotion。",
   "en_title": "I Built a Tween Library Faster Than LitMotion for Unity",
   "en_oneliner": "MyMotion is the author's own Unity tween library with an API compatible with LitMotion for easy migration; its Burst-compiled data-oriented core beats LitMotion in all 17 benchmark tests."
+ },
+ "https://gamedev.net/blogs/entry/2298737-writing-a-qa-test-plan-for-a-uk-and-european-release-eight-sections-to-settle-before-content-lock": {
+  "zh_title": "在内容锁定前写好英国与欧洲发行的 QA 测试计划：八个需提前敲定的部分",
+  "zh_oneliner": "英国小团队常把 QA 拖到最后一个月才发现“全测一遍”根本不是计划，文章给出内容锁定前就该写好的八段式测试计划结构，帮独立和中型团队省时间、让 bug 报告真正有用。",
+  "en_title": "Writing a QA Test Plan for a UK and European Release: Eight Sections to Settle Before Content Lock",
+  "en_oneliner": "Small UK teams often leave QA until the last month and discover \"test everything\" is not a plan; this piece lays out an eight-section test plan to settle before content lock, saving time and keeping bug reports useful for indie and mid-size teams."
+ },
+ "https://dev.to/jjvalentine04/-2n65": {
+  "zh_title": "Dead Keys：我复活了打字游戏，Kiro 扛下了重活",
+  "zh_oneliner": "一位开发者用 AI 助手 Kiro 在 35 小时内写了 950 个测试，复活了打字游戏 Dead Keys，聊聊 AI 结对开发的实际体验。",
+  "en_title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+  "en_oneliner": "A developer rebuilt the typing game Dead Keys with AI assistant Kiro doing the heavy lifting — 950 tests in 35 hours — and shares what AI pair programming actually feels like."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations": {
+  "zh_title": "GTA 6 全失踪人口位置一览",
+  "zh_oneliner": "汇总 GTA 6 里全部失踪人口的位置，帮玩家抓到 Port Gellhorn 的连环杀手、终结这桩 20 年悬案。",
+  "en_title": "All Missing Persons locations in GTA 6",
+  "en_oneliner": "A roundup of every Missing Persons location in GTA 6, to help players catch Port Gellhorn's serial killer and close a 20-year-old mystery."
+ },
+ "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it": {
+  "zh_title": "Muv-Luv 系列最新成人游戏 AI 翻译翻车，玩家很不满意",
+  "zh_oneliner": "商店页自夸全球销量超 80 万份，玩家评价却跌到褒贬不一，症结在糟糕的 AI 翻译。",
+  "en_title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
+  "en_oneliner": "The store page boasts over 800,000 copies sold worldwide, yet user reviews have sunk to Mostly Negative — the culprit is woeful AI translation."
  }
 }
