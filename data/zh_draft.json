@@ -27502,5 +27502,35 @@
   "zh_oneliner": "这个 Three.js 作品用开放城市数据搭出一张像素风等距华沙地图，文章讲了视觉风格、导航与飞行模式背后的取舍。",
   "en_title": "Isometric Warsaw turns open city data into a playful Three.js map",
   "en_oneliner": "This Three.js project turns open city data into a playful pixel-art isometric map of Warsaw, explaining the choices behind its look, navigation and flight mode."
+ },
+ "https://gamefromscratch.com/unity-unreal-change-the-way-you-access-assets": {
+  "zh_title": "Unity 与 Unreal 改变资产获取方式",
+  "zh_oneliner": "Unity 与 Unreal 新版本都大幅改动了资产获取方式，前者上线 Asset Library 插件重构 Asset Store 的访问路径，开发者要留意工作流变化。",
+  "en_title": "Unity & Unreal Change The Way You Access Assets",
+  "en_oneliner": "The latest Unity and Unreal releases both overhaul how developers access assets — Unity's new Asset Library plugin reworks the Asset Store flow — so check how your workflow is affected."
+ },
+ "https://dev.to/agnsha/had-an-ai-build-a-programming-language-for-ais-then-a-3d-game-in-it-5b4e": {
+  "zh_title": "让 AI 为 AI 设计一门编程语言，再用它写了个 3D 游戏",
+  "zh_oneliner": "作者让大模型主导设计了一门类 Rust 新语言 Om，语法为省 token 而精简、错误可机读，还用它写了潜行 Roguelike 与终端 3D 游戏来验证。",
+  "en_title": "had an AI build a programming language for AIs, then a 3D game in it",
+  "en_oneliner": "An LLM designed Om, a Rust-like language with trimmed syntax to save tokens and machine-readable errors, then used it to build a stealth roguelike and a terminal 3D game."
+ },
+ "https://dev.to/zhiwei_224e5e15600342dc0b/making-a-gta-6-style-profile-picture-from-your-own-selfie-25jc": {
+  "zh_title": "用自己的自拍做一张 GTA 6 风格头像",
+  "zh_oneliner": "一步步教你不用 Photoshop 与显卡，把自拍转成 GTA 6 宣传画风格的方形头像，并讲清构图与生成时的注意事项。",
+  "en_title": "Making a GTA 6 style profile picture from your own selfie",
+  "en_oneliner": "A step-by-step guide to turning your selfie into a GTA 6 trailer-style square avatar without Photoshop or a GPU, covering composition and generation tips."
+ },
+ "https://dev.to/tobiasz_bdd3910267db8c17c/test-for-test-aegis-orbit-a-neon-orbital-defense-game-needs-12-android-testers-for-14-days-1cha": {
+  "zh_title": "【测试互换】霓虹轨道防御游戏 Aegis Orbit 招 12 名安卓测试员",
+  "zh_oneliner": "独立开发者为新游 Aegis Orbit 招募 12 名安卓封闭测试员，安装满 14 天即可帮其通过 Google Play 上线门槛，还可互换测试。",
+  "en_title": "[Test for Test] Aegis Orbit, a neon orbital defense game, needs 12 Android testers for 14 days",
+  "en_oneliner": "An indie dev is recruiting 12 Android closed testers for the neon orbital defense game Aegis Orbit — two minutes to join, 14 days installed — to clear Google Play's production requirement, with test swaps offered in return."
+ },
+ "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition": {
+  "zh_title": "Rockstar 员工投票否决工会正式承认",
+  "zh_oneliner": "Rockstar 员工以 93.2% 的参与率投票反对正式承认 Rockstar Game Workers Union，工会化进程受挫。",
+  "en_title": "Rockstar Games employees vote against union recognition",
+  "en_oneliner": "Rockstar employees voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff taking part in the vote."
  }
 }
