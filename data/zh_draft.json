@@ -26554,5 +26554,41 @@
   "zh_oneliner": "一款只用点一下就能玩的放风筝小游戏，靠确定性模拟和日期种子每天生成同一关卡，作者拆解了它如何用极少的代码实现完整的玩法循环。",
   "en_title": "A one-tap game in a few files: how Kite Swing works",
   "en_oneliner": "A one-tap kite game built on a deterministic simulation and a date-based seed, so everyone plays the same course each day — the author breaks down how so little code delivers a complete play loop."
+ },
+ "https://www.gcores.com/articles/222782": {
+  "zh_title": "2D 对战格斗游戏《月姬格斗：TWI-LUMINA》公开由武内崇全新绘制的主视觉图及最新PV",
+  "zh_oneliner": "《MELTY BLOOD: TWI-LUMINA》公开了武内崇新绘主视觉图与最新 PV，并确认弓塚五月作为新可操作角色参战。",
+  "en_title": "MELTY BLOOD: TWI-LUMINA Reveals New Key Visual by Takashi Takeuchi and Latest PV",
+  "en_oneliner": "MELTY BLOOD: TWI-LUMINA showed off a new key visual by Takashi Takeuchi and a fresh PV, confirming Satsuki Yumizuka as a new playable character."
+ },
+ "https://www.gcores.com/articles/222747": {
+  "zh_title": "Steam周销量排行榜:《EA SPORTS FC 27》登顶|2026年11月第3周",
+  "zh_oneliner": "2026 年 11 月第 3 周 Steam 全球销量榜出炉，《EA SPORTS FC 27》登顶，《使命召唤：现代战争 4》紧随其后。",
+  "en_title": "Steam Weekly Sales Chart: EA SPORTS FC 27 Tops the Chart | Week 3 of November 2026",
+  "en_oneliner": "Steam's global best-seller chart for the third week of November 2026 is out, with EA SPORTS FC 27 on top and Call of Duty: Modern Warfare 4 close behind."
+ },
+ "https://dev.to/_ed179994b6c24a61b5e3db/a-daily-puzzle-needs-more-than-a-local-midnight-check-5bbf": {
+  "zh_title": "每日谜题不只是本地午夜校验",
+  "zh_oneliner": "一位独立浏览器游戏作者分享了每日玩法的设计心得：先把“再来一局”到底指什么想清楚，再决定计时与模式的实现方式。",
+  "en_title": "A daily puzzle needs more than a local midnight check",
+  "en_oneliner": "An indie browser-game developer shares a design lesson from daily puzzles: decide what 'another round' means for the player before wiring up timers and modes."
+ },
+ "https://dev.to/neural_ethos/the-fft-tray-is-numbered-portraits-and-the-2026-car-tray-names-bodies-in-the-file-slug-4949": {
+  "zh_title": "FFT 托盘里是带编号的肖像，2026 年汽车托盘在文件 slug 中标注车身名称",
+  "zh_oneliner": "作者打开两块官方 Tiermaker 模板，从文件本身拆解了排行榜托盘的组织方式：未排名的格子与图片文件名里藏着不少信息。",
+  "en_title": "The FFT tray is numbered portraits, and the 2026 car tray names bodies in the file slug",
+  "en_oneliner": "A builder's walkthrough of two official tier-list templates, showing what the unranked tray and image filenames reveal before any tile is dragged."
+ },
+ "https://dev.to/twowang59/speedrunnow-has-one-platformer-and-a-lot-of-ways-to-race-a-clock-eej": {
+  "zh_title": "SpeedrunNow 只有一个平台跳跃游戏，却有许多种与时钟赛跑的方式",
+  "zh_oneliner": "免费免注册的网页竞速合集 SpeedrunNow 上线：短时计时赛配一键重开，独自挑战自己的上一条纪录正是它的乐趣所在。",
+  "en_title": "SpeedrunNow has one platformer and a lot of ways to race a clock",
+  "en_oneliner": "SpeedrunNow is a free, no-signup web speedrun collection built around short time trials and instant restarts, where the rival to beat is your own previous run."
+ },
+ "https://www.nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch": {
+  "zh_title": "任天堂在《密特罗德：饕餮》发售前补货《密特罗德：生存恐惧》实体版",
+  "zh_oneliner": "随着 Switch 2 新作《密特罗德：饕餮》公布，《密特罗德：生存恐惧》实体版需求回升，任天堂赶在新作发售前安排了补货。",
+  "en_title": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch",
+  "en_oneliner": "Nintendo is restocking physical copies of Metroid Dread ahead of Metroid Ravenous on Switch 2, after the sequel announcement drove demand for the earlier game."
  }
 }
