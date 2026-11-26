@@ -27364,5 +27364,35 @@
   "zh_oneliner": "同一组 8 帧史莱姆跳跃动画，只因锚点设置不同，一边跳得自然、一边像在原地漂浮，文章讲清了按像素裁剪精灵表时帧尺寸不一导致抖动的原因与修正办法。",
   "en_title": "Feet on the Floor: Why Your Cut Sprites Jitter (It's the Anchor)",
   "en_oneliner": "Two animations built from the same eight slime frames look completely different — one hops naturally, the other floats in place — and the article explains how trimming sprite sheets by pixels creates mismatched frame sizes and how to fix the jitter by anchoring correctly."
+ },
+ "https://80.lv/articles/get-this-free-pack-of-motion-capture-data-for-creating-basketball-player-animations": {
+  "zh_title": "免费领这套篮球运动员动作捕捉数据包",
+  "zh_oneliner": "Anderson Rohr 放出 4 分钟篮球动作捕捉数据，个人与商业项目都能免费使用。",
+  "en_title": "Get This Free Pack of Motion Capture Data for Creating Basketball Player Animations",
+  "en_oneliner": "Anderson Rohr released four minutes of basketball motion capture data, free to use in personal and commercial projects."
+ },
+ "https://dev.to/felix-helleckes/drawing-your-own-dots-on-wow-nameplates-without-touching-the-nameplate-42mf": {
+  "zh_title": "不改动姓名板，在 WoW 姓名板上方画自己的持续伤害效果",
+  "zh_oneliner": "作者自制的小插件 HotsNDots 只在敌方姓名板上方放大显示自己的持续伤害效果，友方则显示持续治疗效果。",
+  "en_title": "Drawing your own DoTs on WoW nameplates without touching the nameplate",
+  "en_oneliner": "The author's HotsNDots addon shows only your own damage-over-time effects above enemy nameplates, and heal-over-time effects above allies, without touching the nameplate itself."
+ },
+ "https://dev.to/mossandglow/i-didnt-tune-400-puzzle-levels-by-hand-i-wrote-bots-to-play-them-for-me-3a5b": {
+  "zh_title": "400 个解谜关卡没手动调过数值，全靠机器人替我玩",
+  "zh_oneliner": "作者让机器人通宵反复试玩数百次，自动定下掉落上限与星级分数，400 关的平衡数值就这样跑了出来。",
+  "en_title": "I didn't tune 400 puzzle levels by hand. I wrote bots to play them for me",
+  "en_oneliner": "Instead of hand-tuning 400 puzzle levels, the author let bots play them hundreds of times overnight to set drop limits and star scores automatically."
+ },
+ "https://news.xbox.com/en-us/2026/11/26/hitman-bawma-elusive-target": {
+  "zh_title": "Lenny Kravitz 携《007 First Light》中的海盗王 Bawma 加入《杀手：暗杀世界》",
+  "zh_oneliner": "摇滚歌手 Lenny Kravitz 饰演新限时目标中的海盗王 Bawma，为《杀手：暗杀世界》带来一场明星联动。",
+  "en_title": "Lenny Kravitz Brings Bawma, the Pirate King of Aleph in 007 First Light, to HITMAN World of Assassination",
+  "en_oneliner": "Lenny Kravitz stars as Bawma, the Pirate King of Aleph from 007 First Light, in HITMAN World of Assassination's latest Elusive Target mission."
+ },
+ "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg": {
+  "zh_title": "“我押注那些硬核玩家”——Signet City 借鉴《Citizen Sleeper》的成功经验，立志拓宽 RPG 的边界",
+  "zh_oneliner": "《Citizen Sleeper》作者的新作 Signet City 以 1980 年代真菌朋克世界为舞台，想把角色扮演游戏的边界再往外推一步。",
+  "en_title": "\"I'm betting on the sickos\" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper",
+  "en_oneliner": "Citizen Sleeper creator Gareth Damian Martin's new game Signet City draws on that success to push the scope of RPGs further, in a 1980s fungalpunk world."
  }
 }
