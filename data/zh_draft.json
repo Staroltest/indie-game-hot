@@ -27832,5 +27832,41 @@
   "zh_oneliner": "Aeternum Game Studios 曾为避开《丝之歌》把游戏推迟一年，如今放话：不管 Team Cherry 明天公布什么，这次都不再让路。",
   "en_title": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
   "en_oneliner": "Aeternum Game Studios once delayed its game a year to dodge Silksong — but whatever Team Cherry announces tomorrow, the team says it is staying put this time."
+ },
+ "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches": {
+  "zh_title": "《HARK THE GHOUL》：维多利亚哥特风地牢爬行 RPG，风衣鼠人当街兜售老鼠",
+  "zh_oneliner": "维多利亚哥特风动作冒险地牢爬行 RPG，主打自由探索，预告片里穿风衣的鼠人敞开大衣兜售老鼠，活像街头卖假表的贩子。",
+  "en_title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
+  "en_oneliner": "A Victorian gothic action-adventure dungeon crawler RPG built around free exploration, whose trailer stars a trench-coat-wearing rat man selling rats the way street vendors hawk counterfeit watches."
+ },
+ "https://80.lv/articles/recreating-the-scale-model-look-of-a-rally-diorama-in-houdini": {
+  "zh_title": "用 Houdini 复刻拉力赛微缩模型质感",
+  "zh_oneliner": "作者分享如何用 Houdini 的程序化工具复刻手工拉力赛微缩场景的质感，棉花灰尘、铁丝树木和塑料小人一个不少。",
+  "en_title": "Recreating the Scale Model Look of a Rally Diorama in Houdini",
+  "en_oneliner": "Will Hoskin walks through recreating the look of a handmade rally diorama in 3D, using Houdini's procedural tools to craft cotton dust, wire trees, and plastic figures."
+ },
+ "https://80.lv/articles/turning-whimsical-2d-town-into-cozy-3d-world": {
+  "zh_title": "把奇幻 2D 小镇变成温馨 3D 世界",
+  "zh_oneliner": "作者讲述如何把一张奇幻风格的 2D 插画小镇搬进 3D 场景，覆盖建模、贴图、植被到最终渲染的完整流程。",
+  "en_title": "Turning Whimsical 2D Town Into Cozy 3D World",
+  "en_oneliner": "Pedro Henrique Placido Silva explains how he turned a charming fantasy town from a 2D illustration into a 3D scene, covering modeling, texturing, vegetation, and the final render."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/the-4-line-camera-lerp-formula-every-html5-ai-game-developer-needs-4d8g": {
+  "zh_title": "四行代码搞定相机平滑跟随，每个 HTML5 与 AI 游戏开发者都该会",
+  "zh_oneliner": "相机死死锁住玩家坐标会让 2D 网页游戏显得生硬卡顿，往相机循环里加四行线性插值就能得到电影般顺滑的跟随效果。",
+  "en_title": "The 4-Line Camera Lerp Formula Every HTML5 & AI Game Developer Needs",
+  "en_oneliner": "Locking the camera rigidly to the player's coordinates makes 2D browser games feel robotic and jittery, but four lines of linear interpolation in the camera loop deliver cinematic, AAA-style smoothing."
+ },
+ "https://dev.to/akartit/microsoft-decision-11-vs-gemini-decision-1-live-3d-fight-82-q-benchmark-1nbi": {
+  "zh_title": "Microsoft Decision 1.1 对决 Gemini Decision 1：实时 3D 格斗加 82 题基准实测",
+  "zh_oneliner": "作者用一场实时 3D 视觉格斗和一份 82 题决策基准实测对比两款模型，并介绍 Decision 1.1 换用 Gemma 4 混合专家架构后的定价。",
+  "en_title": "Microsoft Decision 1.1 vs Gemini Decision 1: Live 3D Fight + 82-Q Benchmark",
+  "en_oneliner": "The author pits Microsoft Decision 1.1 against Google Gemini Decision 1 in a live 3D vision fighting arena and an 82-question decision benchmark, and notes Decision 1.1's switch to the Gemma 4 mixture-of-experts architecture."
+ },
+ "https://www.nintendolife.com/news/2026/11/ubisoft-wants-rayman-to-become-a-huge-transmedia-star": {
+  "zh_title": "育碧想把雷曼打造成跨媒体大明星",
+  "zh_oneliner": "育碧希望雷曼走出游戏，成为横跨影视等多个媒介的明星 IP，延续这个经典系列的影响力。",
+  "en_title": "Ubisoft Wants Rayman To Become A Huge, Transmedia Star",
+  "en_oneliner": "Ubisoft wants Rayman to grow beyond games into a major transmedia star spanning film and other media, extending the classic series' reach."
  }
 }
