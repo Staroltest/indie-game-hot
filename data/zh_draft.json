@@ -26776,5 +26776,11 @@
   "zh_oneliner": "CDPR 表示《巫师 4》会争取全平台同日发售，并回应了与索尼营销合作引发的平台担忧。",
   "en_title": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time",
   "en_oneliner": "CD Projekt Red says The Witcher 4 aims to launch on all platforms at the same time, addressing concerns raised by its Sony marketing deal."
+ },
+ "https://dev.to/seikasan/i-built-a-tween-library-faster-than-litmotion-for-unity-6ek": {
+  "zh_title": "我做了一个比 LitMotion 更快的 Unity 补间动画库",
+  "zh_oneliner": "作者自研的 Unity 补间动画库 MyMotion，API 与 LitMotion 兼容可直接迁移，底层用 Burst 编译的数据导向核心重写，在全部 17 项测试中都跑赢了 LitMotion。",
+  "en_title": "I Built a Tween Library Faster Than LitMotion for Unity",
+  "en_oneliner": "MyMotion is the author's own Unity tween library with an API compatible with LitMotion for easy migration; its Burst-compiled data-oriented core beats LitMotion in all 17 benchmark tests."
  }
 }
