@@ -26590,5 +26590,35 @@
   "zh_oneliner": "随着 Switch 2 新作《密特罗德：饕餮》公布，《密特罗德：生存恐惧》实体版需求回升，任天堂赶在新作发售前安排了补货。",
   "en_title": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch",
   "en_oneliner": "Nintendo is restocking physical copies of Metroid Dread ahead of Metroid Ravenous on Switch 2, after the sequel announcement drove demand for the earlier game."
+ },
+ "https://www.gcores.com/articles/222785": {
+  "zh_title": "《泰拉瑞亚》现已实装跨平台联机",
+  "zh_oneliner": "泰拉瑞亚 1.4.6 版开启跨平台联机首测，同一局域网内主机、PC 与移动端可直接组队，懂路由的玩家还能自建服务器邀好友加入。",
+  "en_title": "Terraria Now Supports Cross-Platform Multiplayer",
+  "en_oneliner": "Terraria's v1.4.6 update opens the first phase of cross-platform multiplayer testing, letting players on console, PC and mobile join the same LAN session, with self-hosted servers an option for those comfortable configuring a router."
+ },
+ "https://www.gcores.com/articles/222783": {
+  "zh_title": "《咒语旅团》推出《土豆兄弟》联动 DLC 与「沉沦泥沼」更新",
+  "zh_oneliner": "四人合作弹幕生存游戏《咒语旅团》免费推出《土豆兄弟》联动 DLC 与「沉沦泥沼」更新，新增取材自《土豆兄弟》的巫师与咒语，给老玩家一个组队回归的理由。",
+  "en_title": "SpellRogue Launches Brotato Crossover DLC and \"Sinking Mire\" Update",
+  "en_oneliner": "Four-player co-op bullet-hell survival game SpellRogue adds a free Brotato crossover DLC and a \"Sinking Mire\" update, with a new wizard and spells drawn from Brotato to lure co-op crews back in."
+ },
+ "https://dev.to/davequinta/i-made-a-nintendogs-of-my-dog-2n8e": {
+  "zh_title": "我给自家狗做了一款《任天狗》",
+  "zh_oneliner": "开发者用一天时间给自家狗狗做了一款《任天狗》风格的虚拟宠物游戏，侧面看神似本尊，正面看就另当别论了。",
+  "en_title": "I made a Nintendogs of my dog",
+  "en_oneliner": "A developer built a Nintendogs-style virtual pet game starring their own dog in a single day — a dead ringer from the side, rather less so from the front."
+ },
+ "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes": {
+  "zh_title": "《塞尔达传说：时之笛》Switch 2 版更新至 1.1.2，补丁说明公布",
+  "zh_oneliner": "《塞尔达传说：时之笛》Switch 2 版迎来第二次更新，1.1.2 版修复了多个 bug，完整补丁说明已公布。",
+  "en_title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.2), Here Are The Patch Notes",
+  "en_oneliner": "The Legend of Zelda: Ocarina of Time on Switch 2 gets its second update, version 1.1.2, fixing multiple bugs — full patch notes inside."
+ },
+ "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements": {
+  "zh_title": "《异度神剑 3》Switch 2 版概览预告公布，展示新特性与强化内容",
+  "zh_oneliner": "任天堂发布《异度神剑 3》Switch 2 版概览预告，集中展示升级版的新特性与画面强化内容。",
+  "en_title": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements",
+  "en_oneliner": "Nintendo releases an overview trailer for Xenoblade Chronicles 3 - Switch 2 Edition, showing off the upgrade's new features and enhancements."
  }
 }
