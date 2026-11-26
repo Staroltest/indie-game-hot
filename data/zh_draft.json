@@ -26452,5 +26452,95 @@
   "zh_oneliner": "一篇 2021 年的游戏设计文章，聊如何用留白与未知感引导探索，让玩家在游戏中体会神秘与惊奇。",
   "en_title": "Designing for a Sense of Mystery and Wonder (2021)",
   "en_oneliner": "A 2021 game design essay on using gaps and the unknown to guide exploration, so players feel mystery and wonder as they play."
+ },
+ "https://www.indiedb.com/games/portable-troopers-the-squad-management-voxel-war-game/news/portabletroopers-v206": {
+  "zh_title": "PortableTroopers v206 更新",
+  "zh_oneliner": "载具物理、新地图、雷达与小地图、装弹和手雷动画全面升级，附带一批修复与打磨。",
+  "en_title": "PortableTroopers v206",
+  "en_oneliner": "Vehicle physics, a new map, radars and a minimap, plus reload and grenade animations, in a polish-heavy update with bug fixes."
+ },
+ "https://www.indiedb.com/games/project-gunship/news/build-overhaul-of-2026": {
+  "zh_title": "《Project Gunship》2026 年全面重制",
+  "zh_oneliner": "团队用一年时间把游戏从头到尾翻新了一遍，本文回顾这次大规模重构的过程与收获。",
+  "en_title": "Build Overhaul of 2026",
+  "en_oneliner": "A year-long, ground-up overhaul of the game, recounted by the team behind it."
+ },
+ "https://www.indiedb.com/games/arctic-drive/news/arctic-drive-now-out-on-steam-and-xbox-series-xs-in-early-access": {
+  "zh_title": "《Arctic Drive》现已登陆 Steam 与 Xbox Series X|S 开启抢先体验",
+  "zh_oneliner": "带上朋友开进冰原，管好燃油、备足补给，看看这趟极地之旅能走多远。",
+  "en_title": "Arctic Drive now out on Steam and Xbox Series X|S in Early Access!",
+  "en_oneliner": "A frosty co-op road trip: watch your fuel, stock up on supplies, and see how far you can make it."
+ },
+ "https://www.indiedb.com/games/barely-civilized/news/how-a-wooden-club-helped-shape-pine-and-dandy": {
+  "zh_title": "一根木棒如何塑造了《Pine and Dandy》",
+  "zh_oneliner": "一个失踪的装备按钮和营火旁的南瓜，让团队回炉重做了五岛更新，为 Barely Civilized 试玩版打磨细节。",
+  "en_title": "How a wooden club helped shape Pine and Dandy",
+  "en_oneliner": "A missing Equip button and a pumpkin by the campfire sent the team back to rework the five-island update for the Barely Civilized demo."
+ },
+ "https://www.indiedb.com/games/vr-realms/news/update-046-new-portal-colors-and-styles-better-fbt-and-a-better-video-player": {
+  "zh_title": "0.4.6 更新：新传送门配色与样式、更好的全身追踪与视频播放器",
+  "zh_oneliner": "传送门颜色与抵达样式可在商店预览，全身追踪与 VR 身体模型升级，视频播放器也更好用了。",
+  "en_title": "Update 0.4.6: new portal colors and styles, better FBT and a better video player",
+  "en_oneliner": "Portal colors and arrival styles now preview in the Store, with better full-body tracking, a new VR body, and an improved video player."
+ },
+ "https://www.indiedb.com/games/zero-point/news/a-quieter-moment-between-expeditions-development-screenshots": {
+  "zh_title": "远征之间的片刻宁静——开发截图",
+  "zh_oneliner": "两张开发截图展现了《Zero Point》远征与战斗之外的安静一面：殖民地里的 Mila 与 Rin 博士，水边的片刻停留。",
+  "en_title": "A Quieter Moment Between Expeditions — Development Screenshots",
+  "en_oneliner": "Two development screenshots show the quieter side of Zero Point between expeditions and fights: Mila and Dr. Rin inside the colony, then out by the water."
+ },
+ "https://www.indiedb.com/games/age-of-failon-birth-of-the-hero/news/major-update-080-the-road-to-early-access": {
+  "zh_title": "0.8.0 重大更新：通往抢先体验之路",
+  "zh_oneliner": "《Age of Failon》试玩版迎来 0.8.0 大更新，加入新玩法与改进，抢先体验将于 11 月 26 日开启。",
+  "en_title": "Major Update 0.8.0 – The Road to Early Access",
+  "en_oneliner": "The Age of Failon demo gets a major 0.8.0 update with new gameplay features and improvements ahead of its November 26 Early Access launch."
+ },
+ "https://www.indiedb.com/games/cos-mos/news/cos-mos-from-a-single-planet-to-an-interstellar-empire": {
+  "zh_title": "《COS-MOS》：从一颗行星到星际帝国",
+  "zh_oneliner": "建设文明、发展经济、研究数百项科技、设计自己的舰队，八张新截图展示重新设计的界面。",
+  "en_title": "COS-MOS — From a Single Planet to an Interstellar Empire",
+  "en_oneliner": "Build a civilization, grow its economy, research hundreds of technologies and design your fleets, shown off in eight screenshots of the redesigned interface."
+ },
+ "https://devgamm.com/2026/11/23/lisbon-2026-highlights": {
+  "zh_title": "DevGAMM Lisbon 2026 精彩回顾",
+  "zh_oneliner": "11 月 17–18 日，1052 名来自 55 个国家的参与者齐聚里斯本，回顾本届 DevGAMM 的亮点。",
+  "en_title": "DevGAMM Lisbon 2026 Highlights",
+  "en_oneliner": "DevGAMM Lisbon 2026 drew 1,052 participants from 55 countries on November 17–18; here is the recap."
+ },
+ "https://devgamm.com/2026/11/18/winners2026": {
+  "zh_title": "DevGAMM Awards 2026：年度获奖者揭晓",
+  "zh_oneliner": "第三届 DevGAMM Awards 揭晓年度最出色的独立游戏，看看今年的获奖名单。",
+  "en_title": "DevGAMM Awards 2026: Celebrating this year’s winners",
+  "en_oneliner": "The third DevGAMM Awards celebrated the year’s most remarkable indie titles; here are the winners."
+ },
+ "https://devgamm.com/2026/11/04/devgamm-lisbon-2026-business-and-platform-programme": {
+  "zh_title": "Lisbon 2026 演讲嘉宾：索尼、Xbox、Valve、Unity 悉数到场",
+  "zh_oneliner": "本届 DevGAMM Lisbon 的 B2B 议程请来了索尼互动娱乐、Xbox、Valve 与 Unity 的演讲者。",
+  "en_title": "Lisbon 2026 speakers from Sony Interactive Entertainment, Xbox, Valve, Unity",
+  "en_oneliner": "The 2026 DevGAMM Lisbon B2B programme brings speakers from Sony Interactive Entertainment, Xbox, Valve and Unity."
+ },
+ "https://devgamm.com/2026/11/03/meeting-requests-devgamm-lisbon-2025-audience-groups": {
+  "zh_title": "谁找谁：DevGAMM Lisbon 2025 各群体间的约见请求分析",
+  "zh_oneliner": "2025 年里斯本站共 1187 次约见请求，本文按受众群体拆解谁在主动找谁，给参展者一份约见攻略。",
+  "en_title": "Who asks whom: meeting requests at DevGAMM Lisbon 2025 by audience group",
+  "en_oneliner": "DevGAMM Lisbon 2025 saw 1,187 meeting requests; this breakdown by audience group shows who was asking whom, and what exhibitors can learn from it."
+ },
+ "https://bitsummit.org/%e3%80%8cbitsummit-high%e3%80%8d%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e7%ac%ac1%e5%bc%be%e6%83%85%e5%a0%b1%e3%82%92%e7%99%ba%e8%a1%a8%e3%80%8e%e7%84%a1%e5%8f%8c": {
+  "zh_title": "「BitSummit High」舞台活动第一弹：《无双∞》× 大卫·怀斯 × 下村阳子特别合作，官方 PR 支持者第一弹同步公开",
+  "zh_oneliner": "2027 年 5 月 21–23 日京都见：BitSummit High 首批舞台活动公布，《无双∞》联手大卫·怀斯与下村阳子带来特别合作，官方 PR 支持者名单也同步公开。",
+  "en_title": "“BitSummit High” Stage Event Lineup Announced: A Special Musou ∞ × David Wise × Yoko Shimomura Collaboration, Plus the First Official PR Supporters",
+  "en_oneliner": "BitSummit High runs May 21–23, 2027 in Kyoto; the first stage events feature a special Musou ∞ collaboration with David Wise and Yoko Shimomura, alongside the first official PR supporters."
+ },
+ "https://bitsummit.org/2027%e5%b9%b4%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e3%81%af%e3%80%8chigh-%e6%96%b0%e3%81%9f%e3%81%aa%e9%ab%98%e3%81%bf%e3%81%b8%e3%80%8d-%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b5%e3%83%bc%e3%81%8a": {
+  "zh_title": "2027 年主题「High / 新的高峰」公布，赞助商与企业出展招募开启",
+  "zh_oneliner": "2027 年 BitSummit 定名「BitSummit High」，以新的高峰为主题，赞助与企业展位招募同步启动。",
+  "en_title": "2027 Theme “High / To New Heights” Announced, Sponsor and Exhibitor Applications Now Open",
+  "en_oneliner": "BitSummit 2027 will run under the name “BitSummit High” with the theme of reaching new heights, and sponsor and exhibitor applications are now open."
+ },
+ "https://indienova.com/indie-game-news/guide-2026-1123-1129-part-3": {
+  "zh_title": "本周 Steam 值得关注的游戏 11.23 - 11.29（三）",
+  "zh_oneliner": "本周 Steam 新游速览第三弹，挑出 11 月 23–29 日值得关注的独立游戏。",
+  "en_title": "Steam Games to Watch This Week, Nov 23–29 (Part 3)",
+  "en_oneliner": "The third installment of this week’s Steam watchlist, picking out the indie games worth your attention from November 23–29."
  }
 }
