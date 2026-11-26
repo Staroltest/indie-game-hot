@@ -26986,5 +26986,65 @@
   "zh_oneliner": "PG Connects 伦敦站是全年规模最大的手游行业大会，2026 年约有 3000 名参会者，新设的 Co-Dev Summit 将聚焦联合开发合作。",
   "en_title": "New event: Co-Dev Summit joins PG Connects London",
   "en_oneliner": "PG Connects London, the year's biggest mobile games conference with around 3,000 attendees from 1,600 companies, adds a new Co-Dev Summit focused on co-development partnerships."
+ },
+ "https://www.yystv.cn/p/14672": {
+  "zh_title": "天美王者联手混元翻译团队开源“神器”，瞄准游戏本地化“最后一公里”",
+  "zh_oneliner": "天美与腾讯混元翻译团队开源了一套游戏本地化工具，针对术语不一致、文本撑破 UI 这类“最后一公里”问题，想把本地化从手工作坊推向工业化。",
+  "en_title": "Tencent TiMi and Hunyuan Translation Team Open-Source a Tool for the \"Last Mile\" of Game Localization",
+  "en_oneliner": "TiMi and Tencent's Hunyuan translation team open-sourced a localization toolkit tackling inconsistent terminology and UI-breaking text lengths, aiming to industrialize the last mile of game localization."
+ },
+ "https://80.lv/articles/wildwood-project-hail-mary-and-backrooms-make-the-oscars-vfx-top-20": {
+  "zh_title": "《Wildwood》《Project Hail Mary》与《Backrooms》入围奥斯卡视效奖前 20",
+  "zh_oneliner": "奥斯卡公布视效奖 20 强名单，三部带有浓厚游戏基因的作品入围，值得做视效的开发者看一眼入围名单里的技术取向。",
+  "en_title": "Wildwood, Project Hail Mary, and Backrooms Make the Oscars VFX Top 20",
+  "en_oneliner": "The Oscars' VFX shortlist of 20 includes three titles with strong game DNA — worth a look for developers tracking where visual-effects craft is heading."
+ },
+ "https://www.yystv.cn/p/14674": {
+  "zh_title": "“大葱哥”泄出GTA6完整文件包，结果成了PC版破解竞速大赛",
+  "zh_oneliner": "泄露者放出据称完整的 GTA 6 主机版文件包并以此索要加密货币，把一场泄露变成了 PC 版破解的竞速赛，提醒开发者关注发售前后的内容安全风险。",
+  "en_title": "\"Cyberleek\" Leaks Alleged Full GTA 6 File Package, Turning It Into a Race to Crack the PC Version",
+  "en_oneliner": "A leaker released an alleged complete GTA 6 console file package and tied the missing executable to a crypto payout, turning the leak into a race to crack the PC version — a reminder for developers to watch pre-launch content security."
+ },
+ "https://www.yystv.cn/p/14673": {
+  "zh_title": "魔方做了一款动作吃鸡新游戏，想让更多玩家「秀」起来",
+  "zh_oneliner": "腾讯魔方工作室公布 UE5 多人动作竞技新作《狩》，主打低门槛高上限的双武器战斗与 1V1、三人吃鸡两种模式，PC 与移动端互通。",
+  "en_title": "Tencent's Morefun Studios Unveils a New Action Battle-Royale Game Built to Let More Players Show Off",
+  "en_oneliner": "Tencent's Morefun Studios announced Shou, a UE5 multiplayer action game with a low-floor, high-ceiling dual-weapon combat system, 1v1 duels and a three-player battle-royale mode, playable across PC and mobile."
+ },
+ "https://www.indiedb.com/games/circus-welt/news/circus-welt-episode-one-is-out": {
+  "zh_title": "《Circus Welt》第一章已上线",
+  "zh_oneliner": "合作侦探游戏《Circus Welt》第一章登陆 itch.io：故事共用一块屏幕推进，其他玩家用手机加入，适合想做多人同屏叙事的开发者参考。",
+  "en_title": "Circus Welt: Episode One is out",
+  "en_oneliner": "Episode One of cooperative detective game Circus Welt is out on itch.io: the story plays on one shared screen while everyone else joins on their phones — a handy reference for developers exploring multiplayer shared-screen storytelling."
+ },
+ "https://dev.to/toolreel_55/building-a-free-friendship-quiz-that-opens-straight-from-a-group-chat-3l89": {
+  "zh_title": "做一个免费的友情测试，从群聊里直接打开就能玩",
+  "zh_oneliner": "作者分享了一个从群聊链接直接打开的免费友情测试小应用的做法：自选 10 道题、分享链接、比拼谁最了解你，适合想做轻量社交小游戏的开发者参考。",
+  "en_title": "Building a Free Friendship Quiz That Opens Straight From a Group Chat",
+  "en_oneliner": "The author walks through a free friendship-quiz app that opens straight from a group-chat link — pick 10 questions, share, and see who knows you best — a useful reference for developers building lightweight social mini-games."
+ },
+ "https://dev.to/nesimrazon/is-your-nonogram-unique-line-solvers-and-no-guess-puzzles-5d9f": {
+  "zh_title": "你的数织谜题有唯一解吗？行求解器与无猜测谜题",
+  "zh_oneliner": "做数织谜题最难的是保证唯一解且全靠逻辑可解，作者用一个小型行求解器校验并生成雪花图案关卡，讲清了其中的做法。",
+  "en_title": "Is Your Nonogram Unique? Line Solvers and No-Guess Puzzles",
+  "en_oneliner": "The hardest part of making a nonogram is guaranteeing a single solution reachable by pure logic; the author shows how a small line solver checks that and generates snowflake levels for a winter puzzle app."
+ },
+ "https://dev.to/nesimrazon/same-seed-same-level-on-android-and-ios-in-kotlin-multiplatform-4ccj": {
+  "zh_title": "同一种子、同一关卡：Kotlin Multiplatform 下 Android 与 iOS 的随机数对齐",
+  "zh_oneliner": "一款冬季解谜应用用 Kotlin Multiplatform 共用代码生成关卡，作者用 20 行共享随机数生成器让双端同一种子产出同一关卡，解决了跨平台随机数不一致的问题。",
+  "en_title": "Same Seed, Same Level on Android and iOS in Kotlin Multiplatform",
+  "en_oneliner": "A winter puzzle app generates levels from shared Kotlin Multiplatform code; the author uses a 20-line shared random generator so Android and iOS produce identical levels from the same seed, fixing cross-platform randomness drift."
+ },
+ "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6": {
+  "zh_title": "GTA 6 带动美国 PS5 与 Xbox Series 主机销量回升，即便售价已大幅上涨",
+  "zh_oneliner": "尽管主机售价远高于发售初期，GTA 6 发售前夕仍显著拉动了美国 PS5 与 Xbox Series 的销量，印证了头部大作对硬件市场的带动作用。",
+  "en_title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+  "en_oneliner": "Despite console prices far above launch levels, GTA 6 still drove a significant sales lift for PlayStation 5 and Xbox Series S/X in the US ahead of launch — a reminder of how a tentpole release moves hardware."
+ },
+ "https://www.pocketgamer.biz/sir-ian-livingstone-to-speak-at-pgc-london": {
+  "zh_title": "Ian Livingstone 爵士将出席伦敦 Pocket Gamer Connects 大会演讲",
+  "zh_oneliner": "从业 50 余年的游戏界元老 Ian Livingstone 爵士将于明年 1 月在伦敦 PGC 大会演讲，他联合创办 Games Workshop、合著《Fighting Fantasy》系列，后创立投资机构 Hiro Capital。",
+  "en_title": "Sir Ian Livingstone to speak at PGC London",
+  "en_oneliner": "Games industry veteran Sir Ian Livingstone — Games Workshop co-founder, Fighting Fantasy co-creator and Hiro Capital co-founder — will speak at Pocket Gamer Connects London in January."
  }
 }
