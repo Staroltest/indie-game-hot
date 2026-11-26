@@ -27988,5 +27988,11 @@
   "zh_oneliner": "导入的纹理比磁盘原图更糊，多半是宽度超过平台导入上限被编辑器等比压小了，文章讲清上限来源与核查方法。",
   "en_title": "Godot 4: Texture was downsized on import as its width exceeded the importable size limit",
   "en_oneliner": "If an imported texture looks softer than the source art, it was likely downsized proportionally after exceeding the platform's import size limit — the article explains where the ceiling comes from and how to check it."
+ },
+ "https://www.rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now": {
+  "zh_title": "《Appulse》已发售：母舰是巨型弹珠机，你的弹珠就是它的防御系统——俯视角 Roguelite 射击",
+  "zh_oneliner": "俯视角 Roguelite 射击《Appulse》已发售，母舰本身就是一台巨型弹珠机，弹珠既是武器也是防线，玩法概念值得一看。",
+  "en_title": "Your mothership is a giant pinball machine and your ball is its defence system in Appulse, a top-down roguelite shooter that's out now",
+  "en_oneliner": "Appulse, a top-down roguelite shooter, is out now — your mothership is a giant pinball machine and your ball is its defence system, a concept worth a look for anyone prototyping playful combat."
  }
 }
