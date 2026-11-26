@@ -27532,5 +27532,65 @@
   "zh_oneliner": "Rockstar 员工以 93.2% 的参与率投票反对正式承认 Rockstar Game Workers Union，工会化进程受挫。",
   "en_title": "Rockstar Games employees vote against union recognition",
   "en_oneliner": "Rockstar employees voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff taking part in the vote."
+ },
+ "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record": {
+  "zh_title": "GTA 6 首周直播观看时长创纪录，超过《艾尔登法环》等多款大作总和",
+  "zh_oneliner": "发售首周的直播观看总时长刷新纪录，热度远超同期多款热门游戏，足见其开局声量之大。",
+  "en_title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+  "en_oneliner": "Its first-week livestream watch time set a new record, outdrawing several major hits combined and showing just how huge its launch was."
+ },
+ "http://www.chuapp.com/article/291791.html": {
+  "zh_title": "触乐夜话：去了WePlay",
+  "zh_oneliner": "记者第一次逛上海 WePlay，记录了在超大展馆里找路、找同好的全过程，顺带聊了聊展会现场的氛围。",
+  "en_title": "ChuApp Night Talk: A Visit to WePlay",
+  "en_oneliner": "A first-time visit to Shanghai's WePlay expo, from getting lost in the giant venue to soaking up the atmosphere on the show floor."
+ },
+ "http://www.chuapp.com/article/291793.html": {
+  "zh_title": "DNFU2026嘉年华：和勇士们一起搞点“新动作”",
+  "zh_oneliner": "从深圳、上海到成都，记者连续三年参加 DNF 宇宙嘉年华，聊了聊这个 IP 如何一步步长成一个“宇宙”。",
+  "en_title": "DNFU 2026 Carnival: Trying Something New With the Warriors",
+  "en_oneliner": "After three years of attending the DNF Universe carnival, a look at how the franchise keeps growing into a full-fledged universe."
+ },
+ "https://www.indiedb.com/games/captains-wake/news/official-announcement-trailer-revealed-for-captains-wake-free-steam-demo-targeting-december-2026": {
+  "zh_title": "《Captain's Wake》官方预告片发布，免费 Steam 试玩版瞄准 2026 年 12 月",
+  "zh_oneliner": "这款 Unreal Engine 5 海盗游戏放出实机预告，风暴中开炮、登船肉搏、迎战海怪，免费试玩版计划 12 月上线 Steam。",
+  "en_title": "Official Announcement Trailer Revealed for Captain's Wake (Free Steam Demo Targeting December 2026)",
+  "en_oneliner": "The Unreal Engine 5 pirate game shows off in-engine footage of storm battles, boarding fights and sea monsters, with a free Steam demo planned for December 2026."
+ },
+ "https://www.indiedb.com/games/castles-keeper/news/azangara-returns-as-castles-keeper-out-now-on-steam-with-a-level-editor": {
+  "zh_title": "《Castles Keeper》已登陆 Steam，自带关卡编辑器",
+  "zh_oneliner": "曾用名 Azangara 的这款游戏现已上架 Steam，支持 Windows 与 macOS，还附带关卡编辑器供玩家自制关卡。",
+  "en_title": "Azangara returns as Castles Keeper — out now on Steam with a level editor",
+  "en_oneliner": "Formerly known as Azangara, the game is now on Steam for Windows and macOS with a level editor for building your own stages."
+ },
+ "https://dev.to/tugrulsubekci/how-a-lost-freelance-gig-became-my-own-card-games-platform-37af": {
+  "zh_title": "一单丢掉的外包，成了我自己的卡牌游戏平台",
+  "zh_oneliner": "客户没用上他做的 Cribbage 演示，他干脆自己搭了个卡牌游戏平台，如今已有五款游戏、实时多人对战和六种语言。",
+  "en_title": "How a Lost Freelance Gig Became My Own Card Games Platform",
+  "en_oneliner": "When a client passed on his Cribbage demo, he built his own card games platform instead — now five games, live multiplayer and six languages."
+ },
+ "https://dev.to/nefayran/a-white-halo-on-a-godot-planet-one-commit-cut-the-edges-sharpest-brightness-drop-from-188-to-40-250f": {
+  "zh_title": "Godot 行星上的白色光晕：一次提交把边缘最亮的亮度落差从 188 降到 40",
+  "zh_oneliner": "主菜单行星的大气辉光边缘出现白色断带，作者调整绘制顺序与辉光着色器后，用实测帧数据把问题压了下去。",
+  "en_title": "A white halo on a Godot planet: one commit cut the edge's sharpest brightness drop from 188 to 40 (of 255)",
+  "en_oneliner": "A white band spoiled the atmosphere glow on a Godot planet's menu screen, until one commit reordering the draw calls and tweaking the shader flattened the edge falloff, measured on real frames."
+ },
+ "https://www.nintendolife.com/features/talking-point-ocarina-of-time-revolutionised-the-3d-swordfight-but-how-does-the-remake-hold-up-in-a-vintage-year-for-clashing-blades": {
+  "zh_title": "《时之笛》革新了 3D 剑斗，重制版在剑斗大年里表现如何？",
+  "zh_oneliner": "回顾《时之笛》如何定义 3D 剑斗，再对照今年《鬼武者》等几款新作，聊聊这部重制版在剑斗大年里的位置。",
+  "en_title": "Talking Point: Ocarina Of Time Revolutionised The 3D Swordfight, But How Does The Remake Hold Up In A Vintage Year For Clashing Blades?",
+  "en_oneliner": "Looking back at how Ocarina of Time defined 3D sword combat, then measuring its remake against a standout year for blade-wielding games."
+ },
+ "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026": {
+  "zh_title": "免费游玩日：《战锤 40K：机械神教》与《小小火箭实验室》",
+  "zh_oneliner": "本周末 Game Pass 会员可免费试玩《战锤 40K：机械神教》和《小小火箭实验室》，活动持续到 11 月 29 日。",
+  "en_title": "Free Play Days – Warhammer 40,000: Mechanicus and Little Rocket Lab",
+  "en_oneliner": "Game Pass members can try Warhammer 40,000: Mechanicus and Little Rocket Lab free this weekend, through November 29."
+ },
+ "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location": {
+  "zh_title": "如何在 GTA 6 里偷到 Bravado Banshee",
+  "zh_oneliner": "想帮 Randy 弄一辆条纹跑车？这篇指南告诉你 Bravado Banshee 藏在哪、怎么下手。",
+  "en_title": "How to steal the Bravado Banshee in GTA 6",
+  "en_oneliner": "Need a striped sports car for Randy? This guide shows where to find the Bravado Banshee and how to grab it."
  }
 }
