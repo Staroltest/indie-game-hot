@@ -28348,5 +28348,17 @@
   "zh_oneliner": "自 2017 年首作登陆 eShop 以来，Jupiter 的 Picross 系列在 Switch 上累计销量突破一百万份。",
   "en_title": "Jupiter's Picross Series For Switch Has Officially Surpassed One Million Sales",
   "en_oneliner": "Since the first title launched on the eShop in 2017, Jupiter's Picross series has sold over one million copies on Switch."
+ },
+ "https://dev.to/nickling017/zombies-arent-real-wiki-complete-beginner-guide-defense-strategies-pjn": {
+  "zh_title": "《Zombies Aren’t Real》Wiki：新手完全指南与防御策略",
+  "zh_oneliner": "一份面向丧尸潮战术游戏《Zombies Aren’t Real》的新手攻略合集，整理了平民撤离与防御布局的基础打法。",
+  "en_title": "Zombies Aren't Real Wiki - Complete Beginner Guide & Defense Strategies",
+  "en_oneliner": "A beginner's guide roundup for Zombies Aren't Real, a horde-defense tactical game, covering civilian evacuation and defense layouts."
+ },
+ "https://dev.to/voxipaw/drawing-voxel-pets-on-a-plain-2d-canvas-no-webgl-no-threejs-3ba6": {
+  "zh_title": "在普通 2D 画布上画体素宠物（不用 WebGL，也不用 three.js）",
+  "zh_oneliner": "作者为低端安卓手机上的专注计时器做了一批圆润可爱的体素宠物，靠一个微型光线投射器直接在 2D 画布上绘制，完全不用 WebGL 或 3D 库。",
+  "en_title": "Drawing voxel pets on a plain 2D canvas (no WebGL, no three.js)",
+  "en_oneliner": "The author built chunky, cute voxel pets for a focus timer on cheap Android phones, drawing them with a tiny ray caster on a plain 2D canvas instead of WebGL or any 3D library."
  }
 }
