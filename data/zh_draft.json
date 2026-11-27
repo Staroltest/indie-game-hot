@@ -28468,5 +28468,41 @@
   "zh_oneliner": "潜水员戴夫官方的一则玩笑引发玩家猜测是否会联动 GTA 6，目前只是趣味传闻，没有任何实锤。",
   "en_title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
   "en_oneliner": "A playful post from Dave The Diver has players wondering about a GTA 6 crossover, though for now it is just a fun rumor with nothing confirmed."
+ },
+ "https://80.lv/articles/75-of-participating-rockstar-uk-staff-vote-against-iwgb-recognition": {
+  "zh_title": "75% 参与投票的 Rockstar 英国员工反对承认 IWGB 工会",
+  "zh_oneliner": "Rockstar 英国五间办公室在 GTA 6 发售期间举行工会承认投票，投票率 93.2%，其中 75% 的参与者投了反对票。",
+  "en_title": "75% of Participating Rockstar UK Staff Vote Against IWGB Recognition",
+  "en_oneliner": "Rockstar's five UK offices held a union-recognition ballot during the GTA 6 launch with 93.2% turnout, and 75% of participating staff voted against IWGB recognition."
+ },
+ "https://dev.to/toanlb_dev/gamemanager-is-a-singleton-and-cannot-be-touched-handling-dependencies-for-new-unit-tests-gbk": {
+  "zh_title": "GameManager 是动不得的单例：给新单元测试处理依赖关系",
+  "zh_oneliner": "接手一个跑了多年的 Unity 线上项目时，GameManager 这类全局单例遍布数百个文件，作者分享了在不重构的前提下给新代码写单元测试、隔离依赖的做法。",
+  "en_title": "GameManager Is a Singleton and Cannot Be Touched: Handling Dependencies for New Unit Tests",
+  "en_oneliner": "Taking over a live Unity game that has run for years means GameManager-style global singletons in hundreds of files; the author shares how to isolate dependencies and write unit tests for new code without a big refactor."
+ },
+ "https://dev.to/toanlb_dev/2-week-deadline-where-does-clean-architecture-fit-fp": {
+  "zh_title": "两周工期里，整洁架构还有位置吗？",
+  "zh_oneliner": "超休闲团队周一接到任务、两周内要拿出可玩原型跑 CPI 验证，作者聊了在这种极限工期下整洁架构该用多少、又该在哪儿让路。",
+  "en_title": "2-Week Deadline: Where Does Clean Architecture Fit?",
+  "en_oneliner": "A hyper-casual team gets two weeks to ship a playable prototype for CPI validation; the author discusses how much clean architecture fits in that deadline and where it has to give way."
+ },
+ "https://dev.to/_89f006d34edf73c0c3a441/building-a-60kb-zero-dependency-svg-tactical-radar-localstorage-checklist-for-gta-6-icf": {
+  "zh_title": "做一个 60KB 零依赖的 SVG 战术雷达与 GTA 6 本地收藏清单",
+  "zh_oneliner": "作者为刷 GTA 6 全收集做了个约 60KB、零依赖的轻量网页工具，用 SVG 战术雷达加 localStorage 清单替代广告满屏的手游攻略站。",
+  "en_title": "Building a 60KB Zero-Dependency SVG Tactical Radar & localStorage Checklist for GTA 6",
+  "en_oneliner": "Frustrated by ad-heavy mobile guide sites while chasing GTA 6 100% completion, the author built a ~60KB zero-dependency web tool with an SVG tactical radar and a localStorage checklist."
+ },
+ "https://dev.to/toanlb_dev/why-large-projects-avoid-singleton-even-though-its-convenient-2hh9": {
+  "zh_title": "大项目为什么避开单例，哪怕它很顺手",
+  "zh_oneliner": "Unity 开发早期随手写 .Instance 很顺手，但项目做大后单例带来的耦合与测试难题会反噬，作者梳理了大项目避开它的原因。",
+  "en_title": "Why Large Projects Avoid Singleton Even Though It's Convenient",
+  "en_oneliner": "Typing .Instance feels natural in early Unity work, but as projects grow, singletons bring coupling and testing pain; the author lays out why large projects steer clear of them."
+ },
+ "https://dev.to/buluo/i-tested-the-viral-ai-3d-web-games-on-x-here-is-the-stack-gpu-reality-and-what-prompts-still-4j4i": {
+  "zh_title": "我实测了 X 上爆火的 AI 3D 网页游戏：技术栈、显卡真相与提示词的边界",
+  "zh_oneliner": "X 上爆火的 AI 生成 3D 网页游戏看着惊艳、玩起来却常散架，作者实测了一波，拆解了它们的技术栈、显卡需求与提示词至今做不到的事。",
+  "en_title": "I Tested the Viral AI 3D Web Games on X: Here Is the Stack, GPU Reality, and What Prompts Still Can't Do",
+  "en_oneliner": "Viral AI-generated 3D web games on X look stunning for five seconds and fall apart when played; the author tested a wave of them and breaks down their stack, GPU reality, and what prompts still can't do."
  }
 }
