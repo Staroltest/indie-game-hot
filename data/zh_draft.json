@@ -28204,5 +28204,41 @@
   "zh_oneliner": "一篇数据向的拆解：GTA VI 首日零售额 37.9 亿美元、3250 万份预购、Metacritic 均分 99，聊聊这组数字背后的规模。",
   "en_title": "$3.79B: GTA VI took 13 years, 5,000 people, 0 AI",
   "en_oneliner": "A numbers-driven breakdown of GTA VI: $3.79B in first-day retail sales, 32.5 million pre-orders, a 99 on Metacritic, and the scale behind those figures."
+ },
+ "https://www.gcores.com/articles/222829": {
+  "zh_title": "多人合作狩猎模拟《嘎嘎猎杀组》试玩版现已开放",
+  "zh_oneliner": "一群乡下鸭子开着皮卡进山打猎：这款支持 1-4 人联机的物理狩猎模拟游戏今日开放试玩版，荒诞的外星绑架剧情配上同步公开的预告片。",
+  "en_title": "Co-op Hunting Sim \"Quack Hunt Squad\" Demo Now Available",
+  "en_oneliner": "A flock of country ducks drives a pickup truck into the woods to hunt: this 1-4 player co-op physics hunting sim opens its demo today, pairing an absurd alien-abduction plot with a freshly released trailer."
+ },
+ "http://www.gamelook.com.cn/2026/11/607343": {
+  "zh_title": "B站无惧短剧，陈睿：“短剧是薯片、B站是米饭”",
+  "zh_oneliner": "B站三季度营收 83.2 亿元、同比增长 8%，陈睿在财报会上回应短剧竞争，称短剧是薯片、B站是米饭，两者定位并不相同。",
+  "en_title": "Bilibili Unfazed by Short Dramas, CEO Chen Rui: \"Short Dramas Are Chips, Bilibili Is Rice\"",
+  "en_oneliner": "Bilibili posted Q3 revenue of 8.32 billion yuan, up 8% year over year, as CEO Chen Rui addressed short-drama competition on the earnings call, saying short dramas are chips while Bilibili is rice — different staples entirely."
+ },
+ "https://dev.to/sugukavi/hydrilla-ai-tutorial-how-much-does-one-3d-asset-actually-cost-the-012-per-prop-math-53ba": {
+  "zh_title": "Hydrilla AI 教程：一个 3D 资产到底要花多少钱？每个道具 0.12 美元的账",
+  "zh_oneliner": "这篇独立教程对照 Hydrilla AI 官方定价页、FAQ 与服务条款，逐项算清单个 3D 道具约 0.12 美元的成本构成，帮开发者判断 AI 生成资产到底划不划算。",
+  "en_title": "Hydrilla AI tutorial: how much does one 3D asset actually cost? The $0.12 per prop math",
+  "en_oneliner": "This independent tutorial works through Hydrilla AI's official pricing page, FAQ, and Terms of Service to break down the roughly $0.12 cost of a single 3D prop, helping developers judge whether AI-generated assets are actually worth it."
+ },
+ "https://dev.to/dailyfootballgames/scoring-rare-answers-in-a-daily-trivia-game-with-a-softmax-over-wikipedia-signals-2dbe": {
+  "zh_title": "每日竞猜游戏里如何给冷门答案打分：用 softmax 结合维基百科信号",
+  "zh_oneliner": "作者分享运营每日足球竞猜游戏的经验：用 softmax 结合维基百科信号，让冷门正确答案比人人想到的热门答案拿到更高分数。",
+  "en_title": "Scoring \"rare\" answers in a daily trivia game with a softmax over Wikipedia signals",
+  "en_oneliner": "The author shares lessons from running a daily football trivia game: a softmax over Wikipedia signals lets rarely guessed correct answers score higher than the obvious ones everyone thinks of first."
+ },
+ "https://www.gcores.com/articles/222831": {
+  "zh_title": "《巫师3：狂猎》重制版黑五促销现已开启，限时 4 折",
+  "zh_oneliner": "《巫师3：狂猎》重制版黑五限时 4 折，已有玩家可免费升级，体验画面、战斗、技能与跨平台模组等一系列现代化改进。",
+  "en_title": "The Witcher 3: Wild Hunt Complete Edition Black Friday Sale Now Live, 40% Off for a Limited Time",
+  "en_oneliner": "The Witcher 3: Wild Hunt Complete Edition kicks off its Black Friday sale at 40% off, with a free upgrade for existing owners bringing visual, combat, skill, and cross-platform mod improvements."
+ },
+ "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results": {
+  "zh_title": "Square Enix 称支持 Switch 2 的努力已助力其强劲财报",
+  "zh_oneliner": "作为 Switch 2 最积极的第三方支持者之一，Square Enix 表示其在新平台上的投入已经转化为亮眼的财报表现。",
+  "en_title": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results",
+  "en_oneliner": "As one of the Switch 2's biggest third-party supporters, Square Enix says its efforts on the new platform are already paying off in strong financial results."
  }
 }
