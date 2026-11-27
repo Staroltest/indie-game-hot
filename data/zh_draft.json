@@ -28402,5 +28402,35 @@
   "zh_oneliner": "A 股游戏板块回调，多家上市游戏公司集体公告回购股份。",
   "en_title": "Share Prices Too Low to Ignore: Listed Game Companies Announce Buybacks, Including 37 Interactive, Giant, Kingnet and Youzu",
   "en_oneliner": "As A-share game stocks slide, several listed game companies announce share buybacks."
+ },
+ "http://www.gamelook.com.cn/2026/11/607387": {
+  "zh_title": "Minimax旗下AI语聊产品“Talkie”因成人内容问题遭苹果全球下架",
+  "zh_oneliner": "MiniMax 旗下 AI 语聊产品 Talkie 因成人内容问题被苹果全球下架，给做 AI 角色聊天产品的开发者敲响合规警钟。",
+  "en_title": "MiniMax's AI Chat App \"Talkie\" Removed Globally by Apple Over Adult Content",
+  "en_oneliner": "MiniMax's AI chat app Talkie was pulled from the App Store worldwide over adult content issues — a compliance warning for developers building AI companion products."
+ },
+ "http://www.gamelook.com.cn/2026/11/607396": {
+  "zh_title": "育碧要求新立项游戏用AI、不用AI必须给解释！引发员工吐槽",
+  "zh_oneliner": "育碧要求所有新立项游戏必须使用 AI，不用还得书面解释，引发员工吐槽，大厂的 AI 流程管控又收紧了一步。",
+  "en_title": "Ubisoft Requires New Games to Use AI — Devs Must Justify Opting Out, Sparking Staff Complaints",
+  "en_oneliner": "Ubisoft now requires every newly greenlit game to use AI, with written justification needed to opt out — a move that has drawn complaints from staff and tightened the studio's AI-first pipeline."
+ },
+ "https://dev.to/muxin4/building-a-fast-zero-paywall-html5-canvas-map-geoguessr-for-gta-6-leonida-p3i": {
+  "zh_title": "打造快速、无付费墙的 HTML5 Canvas 地图与 GeoGuessr：GTA 6 雷奥奈达州",
+  "zh_oneliner": "作者用原生 JavaScript 加 HTML5 Canvas 做了一张 GTA 6 互动地图与猜地点小游戏，1800 多个兴趣点整包不到 95KB，详解金字塔瓦片与多镜像加速的渲染技巧。",
+  "en_title": "Building a Fast, Zero-Paywall HTML5 Canvas Map & GeoGuessr for GTA 6 Leonida",
+  "en_oneliner": "The author built an interactive GTA 6 map and GeoGuessr game in vanilla JavaScript and HTML5 Canvas — 1,700+ points of interest in a bundle under 95 KB — and breaks down the pyramid-tile and multi-mirror techniques behind it."
+ },
+ "https://dev.to/bearden_ricky_1309c041673/two-free-browser-games-i-built-a-trivia-climber-and-a-desert-digging-incremental-2mnf": {
+  "zh_title": "我做了两款免费浏览器游戏：问答爬塔与沙漠挖掘增量游戏",
+  "zh_oneliner": "作者做了两款免下载免登录的浏览器小游戏，一款问答爬塔、一款沙漠挖掘增量游戏，附玩法介绍并邀请玩家反馈。",
+  "en_title": "Two free browser games I built: a trivia climber and a desert-digging incremental",
+  "en_oneliner": "The author built two free browser games that need no download or login — a trivia climbing game and a desert-digging incremental — and shares how they play while inviting feedback."
+ },
+ "https://dev.to/moonbunstudio/test-swap-help-my-android-merge-idle-game-through-google-play-closed-testing-i-test-back-4hee": {
+  "zh_title": "测试互换：帮我的安卓合并放置游戏通过 Google Play 封闭测试（我也帮你测）",
+  "zh_oneliner": "独立开发者为自己的合并放置手游招募 Google Play 封闭测试员并承诺回测，还分享了封闭测试中常见的同步与账号踩坑经验。",
+  "en_title": "Test swap: help my Android merge-idle game through Google Play closed testing (I test back)",
+  "en_oneliner": "A solo dev is recruiting closed testers for their merge-idle game on Google Play and offers to test yours in return, along with hard-won tips on avoiding common closed-testing pitfalls."
  }
 }
