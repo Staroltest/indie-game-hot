@@ -5,33 +5,9 @@
  "date": "2026年11月28日",
  "date_iso": "2026-11-28",
  "issue": 3,
- "generated_at": "2026-11-27T22:01:38.334432+00:00",
- "summary": "过去 7 天共收录 1568 条动态，精选 10 条（评测与复盘 1 条、引擎与工具 6 条、行业与融资 1 条、展会与活动 1 条、发行与宣发 1 条）。头条：Meta Quest 商店上架指南：开发者必过的审核清单。",
+ "generated_at": "2026-11-27T23:53:44.996866+00:00",
+ "summary": "过去 7 天共收录 1568 条动态，精选 10 条（引擎与工具 5 条、评测与复盘 2 条、行业与融资 1 条、展会与活动 1 条、发行与宣发 1 条）。头条：我为《Azur Promilia》建了一个非官方维基：上线日工具与数据模型。",
  "items": [
-  {
-   "id": "39ec00964d86aca341c84b293eec201942f0dc3c",
-   "title": "Meta Quest Store Submission Guide for Developers",
-   "link": "https://dev.to/aplusgamesstudio/meta-quest-store-submission-guide-for-developers-54d5",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-27T17:00:00+00:00",
-   "zh_title": "Meta Quest 商店上架指南：开发者必过的审核清单",
-   "zh_oneliner": "一份面向 VR 开发者的 Meta Horizon 商店上架实操指南，讲清性能、暂停行为与数据声明等最常导致驳回的审核要点。",
-   "category": "reviews",
-   "category_label": "评测与复盘",
-   "tier": "T2",
-   "tags": [
-    "指南",
-    "性能"
-   ],
-   "score": 85,
-   "reason": "涉及指南与性能 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 81.1,
-   "prev_rank": 1,
-   "prev_hot_score": 81.5
-  },
   {
    "id": "cbe5ec9559a168469b4e44722ff2f176eb509ee1",
    "title": "I built an unofficial Azur Promilia wiki with launch-day tools — here's the data model",
@@ -52,55 +28,33 @@
    "reason": "涉及工具与数据 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "b3578f1a4f3f5ebe32d8a333681017f7a44ffbfd",
-   "title": "Game Audio Format & Magic-Byte Compatibility Matrix (2026): FSB5, WEM, BNK, BFSTM, HCA & XWB",
-   "link": "https://dev.to/gaijinanime_a0c580c5a205f/game-audio-format-magic-byte-compatibility-matrix-2026-fsb5-wem-bnk-bfstm-hca-xwb-572m",
+   "id": "39ec00964d86aca341c84b293eec201942f0dc3c",
+   "title": "Meta Quest Store Submission Guide for Developers",
+   "link": "https://dev.to/aplusgamesstudio/meta-quest-store-submission-guide-for-developers-54d5",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-27T16:47:15+00:00",
-   "zh_title": "游戏音频格式魔数兼容矩阵（2026）：FSB5、WEM、BNK、BFSTM、HCA 与 XWB",
-   "zh_oneliner": "一份 2026 年游戏音频格式对照表，用文件头魔数快速识别 FMOD、Wwise、任天堂与 CRIWARE 等中间件音频容器，省去解码前的盲目试错。",
-   "category": "engine",
-   "category_label": "引擎与工具",
+   "published": "2026-11-27T17:00:00+00:00",
+   "zh_title": "Meta Quest 商店上架指南：开发者必过的审核清单",
+   "zh_oneliner": "一份面向 VR 开发者的 Meta Horizon 商店上架实操指南，讲清性能、暂停行为与数据声明等最常导致驳回的审核要点。",
+   "category": "reviews",
+   "category_label": "评测与复盘",
    "tier": "T2",
    "tags": [
-    "工作流"
+    "指南",
+    "性能"
    ],
    "score": 80,
-   "reason": "涉及工作流 · 6 小时内发布",
+   "reason": "涉及指南与性能 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.2,
-   "prev_rank": 6,
-   "prev_hot_score": 76.5
-  },
-  {
-   "id": "57657b438b1c4386261dd26b019dfd26052413f7",
-   "title": "Why our pool balls sped up mid-roll (and 3 other bugs from a browser pool game)",
-   "link": "https://dev.to/zoomygames/why-our-pool-balls-sped-up-mid-roll-and-3-other-bugs-from-a-browser-pool-game-cjf",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-27T17:04:09+00:00",
-   "zh_title": "为什么台球会在滚动中途加速：浏览器台球游戏里的 4 个 Bug 复盘",
-   "zh_oneliner": "一个用 three.js 手写物理的浏览器 8 球台球游戏复盘：玩家抱怨的“手感不对”其实是帧率步进物理、口袋漏球、AI 卡顿与着色器编译四个互不相干的 Bug 叠加。",
-   "category": "engine",
-   "category_label": "引擎与工具",
-   "tier": "T2",
-   "tags": [
-    "引擎"
-   ],
-   "score": 80,
-   "reason": "涉及引擎 · 6 小时内发布",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.4,
-   "prev_rank": 5,
-   "prev_hot_score": 76.7
+   "hot_score": 75.0,
+   "prev_rank": 4,
+   "prev_hot_score": 75.1
   },
   {
    "id": "980a298ec4100bde69194ce3b3f5bdfeff5a15d2",
@@ -119,9 +73,9 @@
    "reason": "官方来源 · 24 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 72.9,
+   "hot_score": 71.6,
    "prev_rank": 8,
-   "prev_hot_score": 73.2
+   "prev_hot_score": 71.7
   },
   {
    "id": "a59621b3a4d40c150c65e2aa2c83281c52d2b1b5",
@@ -142,9 +96,55 @@
    "reason": "涉及工具 · 6 小时内发布",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.9,
+   "hot_score": 76.6,
+   "prev_rank": 2,
+   "prev_hot_score": 76.6
+  },
+  {
+   "id": "c4316224ddece0078ee17ea696f4cf2832ae81c0",
+   "title": "Curved ramps in a 2D physics engine, and the ball that looked like it was being hit 500 times a second",
+   "link": "https://dev.to/ayush_42a26f94890ecb20d44/curved-ramps-in-a-2d-physics-engine-and-the-ball-that-looked-like-it-was-being-hit-500-times-a-25ji",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-27T19:14:07+00:00",
+   "zh_title": "给 2D 物理引擎加上弯曲斜坡，以及一颗每秒被撞 500 次的小球",
+   "zh_oneliner": "Rust 物理引擎 Soliton 的开发手记：如何正确实现曲面碰撞，让小球沿着弯曲斜坡顺滑滚动而不是被反复弹开。",
+   "category": "engine",
+   "category_label": "引擎与工具",
+   "tier": "T2",
+   "tags": [
+    "引擎"
+   ],
+   "score": 80,
+   "reason": "涉及引擎 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.6,
    "prev_rank": 3,
-   "prev_hot_score": 78.3
+   "prev_hot_score": 76.6
+  },
+  {
+   "id": "99fcaaab7461219a51b5474b254ac6ed2f40a3cf",
+   "title": "I built a synthwave endless runner with Three.js",
+   "link": "https://dev.to/syedmuhammadaliraza/i-built-a-synthwave-endless-runner-with-threejs-15f8",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-27T19:58:26+00:00",
+   "zh_title": "我用 Three.js 做了一款合成波无尽跑酷游戏",
+   "zh_oneliner": "作者为学 3D 渲染跳过旋转立方体教程，直接用 Three.js 在浏览器里做了一款霓虹网格无尽跑酷，换道躲障碍、越跑越快。",
+   "category": "reviews",
+   "category_label": "评测与复盘",
+   "tier": "T2",
+   "tags": [
+    "教程"
+   ],
+   "score": 80,
+   "reason": "涉及教程 · 6 小时内发布",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.1,
+   "prev_rank": 1,
+   "prev_hot_score": 77.2
   },
   {
    "id": "7387e628eab736c60864cf7eb770b951b35bbb8e",
@@ -165,9 +165,9 @@
    "reason": "涉及营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.7,
+   "hot_score": 65.5,
    "prev_rank": 16,
-   "prev_hot_score": 67.0
+   "prev_hot_score": 65.6
   },
   {
    "id": "73b10a92375d7569abae628c198c9bd92648e638",
@@ -188,9 +188,9 @@
    "reason": "涉及指南 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.0,
+   "hot_score": 66.8,
    "prev_rank": 15,
-   "prev_hot_score": 68.3
+   "prev_hot_score": 66.9
   },
   {
    "id": "135854658bfbd81e5a67cc91a8118470cf4f835f",
@@ -211,9 +211,9 @@
    "reason": "涉及工具 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.9,
+   "hot_score": 67.7,
    "prev_rank": 12,
-   "prev_hot_score": 69.2
+   "prev_hot_score": 67.8
   },
   {
    "id": "90196358d3afeb46e6468f63c6738a7c839a7cc7",
@@ -234,9 +234,9 @@
    "reason": "涉及营收 · 24 小时内发布",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.6,
-   "prev_rank": 14,
-   "prev_hot_score": 68.9
+   "hot_score": 67.5,
+   "prev_rank": 13,
+   "prev_hot_score": 67.5
   }
  ]
 }

@@ -5,33 +5,9 @@
  "date": "November 28, 2026",
  "date_iso": "2026-11-28",
  "issue": 3,
- "generated_at": "2026-11-27T22:01:38.334432+00:00",
- "summary": "1568 items collected in the past 7 days, 10 picks (Reviews & Postmortems 1, Engine & Tools 6, Industry & Funding 1, Events 1, Publishing & Marketing 1). Headline: Meta Quest Store Submission Guide for Developers.",
+ "generated_at": "2026-11-27T23:53:44.996866+00:00",
+ "summary": "1568 items collected in the past 7 days, 10 picks (Engine & Tools 5, Reviews & Postmortems 2, Industry & Funding 1, Events 1, Publishing & Marketing 1). Headline: I built an unofficial Azur Promilia wiki with launch-day tools — here's the data model.",
  "items": [
-  {
-   "id": "39ec00964d86aca341c84b293eec201942f0dc3c",
-   "title": "Meta Quest Store Submission Guide for Developers",
-   "link": "https://dev.to/aplusgamesstudio/meta-quest-store-submission-guide-for-developers-54d5",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-27T17:00:00+00:00",
-   "en_title": "Meta Quest Store Submission Guide for Developers",
-   "en_oneliner": "A practical guide for VR developers on getting through the Meta Horizon Store review, covering the performance, pause behaviour and data-declaration checks behind most rejections.",
-   "category": "reviews",
-   "category_label": "Reviews & Postmortems",
-   "tier": "T2",
-   "tags": [
-    "Guide",
-    "Performance"
-   ],
-   "score": 85,
-   "reason": "Covers Guide and Performance · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 81.1,
-   "prev_rank": 1,
-   "prev_hot_score": 81.5
-  },
   {
    "id": "cbe5ec9559a168469b4e44722ff2f176eb509ee1",
    "title": "I built an unofficial Azur Promilia wiki with launch-day tools — here's the data model",
@@ -52,55 +28,33 @@
    "reason": "Covers Tools and Data · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 65.2,
+   "hot_score": 64.1,
    "prev_rank": null,
    "prev_hot_score": null
   },
   {
-   "id": "b3578f1a4f3f5ebe32d8a333681017f7a44ffbfd",
-   "title": "Game Audio Format & Magic-Byte Compatibility Matrix (2026): FSB5, WEM, BNK, BFSTM, HCA & XWB",
-   "link": "https://dev.to/gaijinanime_a0c580c5a205f/game-audio-format-magic-byte-compatibility-matrix-2026-fsb5-wem-bnk-bfstm-hca-xwb-572m",
+   "id": "39ec00964d86aca341c84b293eec201942f0dc3c",
+   "title": "Meta Quest Store Submission Guide for Developers",
+   "link": "https://dev.to/aplusgamesstudio/meta-quest-store-submission-guide-for-developers-54d5",
    "source": "Dev.to 游戏开发",
    "source_id": "devto-gamedev",
-   "published": "2026-11-27T16:47:15+00:00",
-   "en_title": "Game Audio Format & Magic-Byte Compatibility Matrix (2026): FSB5, WEM, BNK, BFSTM, HCA & XWB",
-   "en_oneliner": "A 2026 reference table for identifying game audio containers from FMOD, Wwise, Nintendo and CRIWARE by their magic bytes, so you can pick the right decoder before trial and error.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
+   "published": "2026-11-27T17:00:00+00:00",
+   "en_title": "Meta Quest Store Submission Guide for Developers",
+   "en_oneliner": "A practical guide for VR developers on getting through the Meta Horizon Store review, covering the performance, pause behaviour and data-declaration checks behind most rejections.",
+   "category": "reviews",
+   "category_label": "Reviews & Postmortems",
    "tier": "T2",
    "tags": [
-    "Workflow"
+    "Guide",
+    "Performance"
    ],
    "score": 80,
-   "reason": "Covers Workflow · Published within 6 hours",
+   "reason": "Covers Guide and Performance · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 76.2,
-   "prev_rank": 6,
-   "prev_hot_score": 76.5
-  },
-  {
-   "id": "57657b438b1c4386261dd26b019dfd26052413f7",
-   "title": "Why our pool balls sped up mid-roll (and 3 other bugs from a browser pool game)",
-   "link": "https://dev.to/zoomygames/why-our-pool-balls-sped-up-mid-roll-and-3-other-bugs-from-a-browser-pool-game-cjf",
-   "source": "Dev.to 游戏开发",
-   "source_id": "devto-gamedev",
-   "published": "2026-11-27T17:04:09+00:00",
-   "en_title": "Why our pool balls sped up mid-roll (and 3 other bugs from a browser pool game)",
-   "en_oneliner": "A postmortem of four unrelated bugs behind 'the physics feels wrong' in a hand-rolled three.js browser pool game: frame-rate-stepped physics, balls slipping through pocket mouths, AI freezing the game and shaders compiling mid-shot.",
-   "category": "engine",
-   "category_label": "Engine & Tools",
-   "tier": "T2",
-   "tags": [
-    "Engine"
-   ],
-   "score": 80,
-   "reason": "Covers Engine · Published within 6 hours",
-   "is_new": true,
-   "trend": "same",
-   "hot_score": 76.4,
-   "prev_rank": 5,
-   "prev_hot_score": 76.7
+   "hot_score": 75.0,
+   "prev_rank": 4,
+   "prev_hot_score": 75.1
   },
   {
    "id": "980a298ec4100bde69194ce3b3f5bdfeff5a15d2",
@@ -119,9 +73,9 @@
    "reason": "Official source · Published within 24 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 72.9,
+   "hot_score": 71.6,
    "prev_rank": 8,
-   "prev_hot_score": 73.2
+   "prev_hot_score": 71.7
   },
   {
    "id": "a59621b3a4d40c150c65e2aa2c83281c52d2b1b5",
@@ -142,9 +96,55 @@
    "reason": "Covers Tools · Published within 6 hours",
    "is_new": true,
    "trend": "same",
-   "hot_score": 77.9,
+   "hot_score": 76.6,
+   "prev_rank": 2,
+   "prev_hot_score": 76.6
+  },
+  {
+   "id": "c4316224ddece0078ee17ea696f4cf2832ae81c0",
+   "title": "Curved ramps in a 2D physics engine, and the ball that looked like it was being hit 500 times a second",
+   "link": "https://dev.to/ayush_42a26f94890ecb20d44/curved-ramps-in-a-2d-physics-engine-and-the-ball-that-looked-like-it-was-being-hit-500-times-a-25ji",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-27T19:14:07+00:00",
+   "en_title": "Curved ramps in a 2D physics engine, and the ball that looked like it was being hit 500 times a second",
+   "en_oneliner": "A devlog from the Rust physics engine Soliton on adding curved ramps properly — representing curves exactly so balls roll smoothly instead of bouncing hundreds of times a second.",
+   "category": "engine",
+   "category_label": "Engine & Tools",
+   "tier": "T2",
+   "tags": [
+    "Engine"
+   ],
+   "score": 80,
+   "reason": "Covers Engine · Published within 6 hours",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 76.6,
    "prev_rank": 3,
-   "prev_hot_score": 78.3
+   "prev_hot_score": 76.6
+  },
+  {
+   "id": "99fcaaab7461219a51b5474b254ac6ed2f40a3cf",
+   "title": "I built a synthwave endless runner with Three.js",
+   "link": "https://dev.to/syedmuhammadaliraza/i-built-a-synthwave-endless-runner-with-threejs-15f8",
+   "source": "Dev.to 游戏开发",
+   "source_id": "devto-gamedev",
+   "published": "2026-11-27T19:58:26+00:00",
+   "en_title": "I built a synthwave endless runner with Three.js",
+   "en_oneliner": "To learn 3D rendering, the author skipped the spinning-cube tutorial and built a neon-grid synthwave endless runner in the browser with Three.js — switch lanes, dodge obstacles, and it keeps speeding up.",
+   "category": "reviews",
+   "category_label": "Reviews & Postmortems",
+   "tier": "T2",
+   "tags": [
+    "Tutorial"
+   ],
+   "score": 80,
+   "reason": "Covers Tutorial · Published within 6 hours",
+   "is_new": true,
+   "trend": "same",
+   "hot_score": 77.1,
+   "prev_rank": 1,
+   "prev_hot_score": 77.2
   },
   {
    "id": "7387e628eab736c60864cf7eb770b951b35bbb8e",
@@ -165,9 +165,9 @@
    "reason": "Covers Revenue · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 66.7,
+   "hot_score": 65.5,
    "prev_rank": 16,
-   "prev_hot_score": 67.0
+   "prev_hot_score": 65.6
   },
   {
    "id": "73b10a92375d7569abae628c198c9bd92648e638",
@@ -188,9 +188,9 @@
    "reason": "Covers Guide · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.0,
+   "hot_score": 66.8,
    "prev_rank": 15,
-   "prev_hot_score": 68.3
+   "prev_hot_score": 66.9
   },
   {
    "id": "135854658bfbd81e5a67cc91a8118470cf4f835f",
@@ -211,9 +211,9 @@
    "reason": "Covers Tools · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.9,
+   "hot_score": 67.7,
    "prev_rank": 12,
-   "prev_hot_score": 69.2
+   "prev_hot_score": 67.8
   },
   {
    "id": "90196358d3afeb46e6468f63c6738a7c839a7cc7",
@@ -234,9 +234,9 @@
    "reason": "Covers Revenue · Published within 24 hours",
    "is_new": false,
    "trend": "same",
-   "hot_score": 68.6,
-   "prev_rank": 14,
-   "prev_hot_score": 68.9
+   "hot_score": 67.5,
+   "prev_rank": 13,
+   "prev_hot_score": 67.5
   }
  ]
 }
