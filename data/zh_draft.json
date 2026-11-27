@@ -29284,5 +29284,11 @@
   "zh_oneliner": "一位开发者透露自己参与的“令人惊叹”的项目已被取消，外界猜测正是传闻已久的《辛普森一家：撞击与逃跑》重制版。",
   "en_title": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
   "en_oneliner": "A developer says their \"mind-blowingly awesome\" project was cancelled, fuelling speculation that the long-rumored The Simpsons: Hit & Run remake is in trouble."
+ },
+ "https://godotengine.org/article/release-candidate-godot-4-8-rc-1": {
+  "zh_title": "候选版本：Godot 4.8 RC 1 发布",
+  "zh_oneliner": "Godot 4.8 进入发布候选阶段，全部功能已锁定、已知严重回归均已修复，官方建议生产项目先备份再试用，并呼吁社区帮忙测试以确认没有漏网的大问题。",
+  "en_title": "Release candidate: Godot 4.8 RC 1",
+  "en_oneliner": "Godot 4.8 has entered the release candidate stage with all features locked in and known critical regressions fixed; the team invites production projects to try it after backing up, and asks the community to help test for any remaining major issues."
  }
 }
