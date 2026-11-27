@@ -28180,5 +28180,29 @@
   "zh_oneliner": "微软正式弃用 Windows 自带的 Telnet 客户端，为这个老牌命令行工具画上句号。",
   "en_title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
   "en_oneliner": "Microsoft is deprecating the Telnet client in Windows, retiring the old command-line tool for good."
+ },
+ "https://gamedev.net/blogs/entry/2298741-from-3dgs-to-physical-models-preserving-detail-through-mesh-conversion": {
+  "zh_title": "从 3DGS 到实体模型：网格转换中保留细节的方法",
+  "zh_oneliner": "Mugen3D 团队分享如何把图像生成的 3D 高斯泼溅资产转成全彩实体模型，覆盖动物与人像胸像，聊聊转换过程里保留细节的思路。",
+  "en_title": "From 3DGS to physical models: preserving detail through mesh conversion",
+  "en_oneliner": "The Mugen3D team shares how image-derived 3D Gaussian Splatting assets can become full-color physical models, covering animals and portrait busts and how detail survives the conversion."
+ },
+ "http://www.gamelook.com.cn/2026/11/607323": {
+  "zh_title": "从涂山小玉到头顶菜叶的菜鸡，蛮啾的新作有点不一样",
+  "zh_oneliner": "成立十一年的蛮啾新作《蓝色星原：旅谣》开启公测，这次团队换了个不太一样的打法。",
+  "en_title": "From Tushan Xiaoyu to a veggie-topped rookie: Manjuu's new game feels different",
+  "en_oneliner": "Eleven-year-old studio Manjuu launches open beta for its new game 《蓝色星原：旅谣》, taking a noticeably different approach this time."
+ },
+ "https://dev.to/_ed179994b6c24a61b5e3db/a-checked-vehicle-is-not-a-verified-fact-separate-progress-from-evidence-ck7": {
+  "zh_title": "勾选过的载具不等于核实过的事实：把进度与证据分开",
+  "zh_oneliner": "独立游戏载具参考工具 LeonidaRides 的作者聊了一条设计原则：玩家勾选与编辑核实是两回事，进度和证据要分开记。",
+  "en_title": "A checked vehicle is not a verified fact: separate progress from evidence",
+  "en_oneliner": "The author of LeonidaRides, an indie game vehicle reference tool, explains a design rule: a player checking an item off is not the same as an editor verifying a fact, so progress and evidence stay separate."
+ },
+ "https://dev.to/frankchu/379b-gta-vi-took-13-years-5000-people-0-ai-38hj": {
+  "zh_title": "37.9 亿美元：GTA VI 耗时 13 年、5000 人、零 AI",
+  "zh_oneliner": "一篇数据向的拆解：GTA VI 首日零售额 37.9 亿美元、3250 万份预购、Metacritic 均分 99，聊聊这组数字背后的规模。",
+  "en_title": "$3.79B: GTA VI took 13 years, 5,000 people, 0 AI",
+  "en_oneliner": "A numbers-driven breakdown of GTA VI: $3.79B in first-day retail sales, 32.5 million pre-orders, a 99 on Metacritic, and the scale behind those figures."
  }
 }
