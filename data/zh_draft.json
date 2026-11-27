@@ -28102,5 +28102,17 @@
   "zh_oneliner": "Unity 或 Godot 里贴图丢失多半不是引擎问题，而是导出时踩了坑：这份清单帮你在 Blender 里逐项排查，避免返工。",
   "en_title": "A pre-export checklist for Blender textures (before Unity or Godot)",
   "en_oneliner": "Missing textures in Unity or Godot are usually export mistakes, not engine bugs — this pre-export checklist catches them in Blender before they cost you a rework."
+ },
+ "https://dev.to/startupcafe/im-starting-a-new-game-a-phantomatic-cold-case-the-surgeon-mh8": {
+  "zh_title": "我开始做新游戏了：《A Phantomatic Cold Case: The Surgeon》",
+  "zh_oneliner": "独立开发者宣布启动悬疑解谜新作《A Phantomatic Cold Case: The Surgeon》，作为《A Phantomatic Nightshift》的续作，风格从喜剧转向更严肃沉重的侦探故事，围绕调查、解谜与情感叙事展开。",
+  "en_title": "I'm starting a new game: \"A Phantomatic Cold Case: The Surgeon\"",
+  "en_oneliner": "An indie developer announces a new mystery game, A Phantomatic Cold Case: The Surgeon, a sequel to A Phantomatic Nightshift that trades comedy for a darker, more emotional tale of investigation and puzzles."
+ },
+ "https://dev.to/jack_song_638b02c614b3d97/how-rarity-scoring-trivia-works-under-the-hood-and-how-to-train-past-the-too-clever-trap-l58": {
+  "zh_title": "稀有度计分问答游戏的底层机制（以及如何跳出“太聪明”陷阱）",
+  "zh_oneliner": "文章拆解了按答案稀有度计分的每日问答玩法：答对还不够，越少人选中的正确答案分越高，并给出避开人人都会想到的“聪明答案”的训练思路。",
+  "en_title": "How Rarity-Scoring Trivia Works Under the Hood (And How to Train Past the 'Too Clever' Trap)",
+  "en_oneliner": "A deep dive into rarity-scored daily trivia, where points depend on how few players pick the same valid answer, plus tips for training past the predictable \"too clever\" second choice."
  }
 }
