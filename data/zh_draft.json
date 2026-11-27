@@ -28504,5 +28504,17 @@
   "zh_oneliner": "X 上爆火的 AI 生成 3D 网页游戏看着惊艳、玩起来却常散架，作者实测了一波，拆解了它们的技术栈、显卡需求与提示词至今做不到的事。",
   "en_title": "I Tested the Viral AI 3D Web Games on X: Here Is the Stack, GPU Reality, and What Prompts Still Can't Do",
   "en_oneliner": "Viral AI-generated 3D web games on X look stunning for five seconds and fall apart when played; the author tested a wave of them and breaks down their stack, GPU reality, and what prompts still can't do."
+ },
+ "https://dev.to/imnk45/dlss-vs-fsr-the-gpu-you-buy-decides-the-upscaler-not-the-other-way-round-336c": {
+  "zh_title": "DLSS 还是 FSR？决定超分技术的其实是你买的显卡",
+  "zh_oneliner": "一千多名读者盲测六款游戏 4K 画面的投票结果说明，DLSS 与 FSR 之争的关键不在软件本身，而是你手里的显卡决定了该用哪种超分方案。",
+  "en_title": "DLSS vs FSR: The GPU You Buy Decides the Upscaler — Not the Other Way Round",
+  "en_oneliner": "A blind test of 4K footage from six games by over 1,000 readers shows the DLSS-versus-FSR debate misses the point: the GPU you own decides which upscaler makes sense, not the software itself."
+ },
+ "https://dev.to/mympgames/three-sides-is-a-gift-how-i-coded-dots-boxes-in-93-lines-for-a-multiplayer-browser-game-5he3": {
+  "zh_title": "三条边就是一份礼物：93 行代码实现多人浏览器版点格棋",
+  "zh_oneliner": "作者用 93 行服务端代码实现点格棋的完整规则引擎，并拆解了网格存储、一次封两格与“再走一步”的处理方式，以及陪玩机器人的弱点所在。",
+  "en_title": "Three sides is a gift: how I coded Dots & Boxes in 93 lines for a multiplayer browser game",
+  "en_oneliner": "The author implements the full Dots & Boxes rules engine in a 93-line server module and walks through grid storage, closing two boxes with one line, the move-again rule, and where the simple bot falls short."
  }
 }
