@@ -29386,5 +29386,17 @@
   "zh_oneliner": "EA Motive 的《钢铁侠》游戏已悄悄开发数年，官网最近的更新暗示它可能在今年的 The Game Awards 上正式公开。",
   "en_title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
   "en_oneliner": "EA Motive's Iron Man game has been in quiet development for years, and a recent update to the studio's website suggests it may finally be shown officially at this year's The Game Awards."
+ },
+ "https://dev.to/geminigeorge22/play-co-op-with-your-ai-agent-in-agent-arena-55bi": {
+  "zh_title": "和你的 AI 智能体一起玩合作游戏：Agent Arena",
+  "zh_oneliner": "Agent Arena 让玩家与 AI 智能体组队进行合作游戏，探索人机协作玩法在游戏里的新可能。",
+  "en_title": "Play co-op WITH your AI agent in Agent Arena",
+  "en_oneliner": "Agent Arena lets players team up with an AI agent for co-op play, exploring new possibilities for human-AI collaboration in games."
+ },
+ "https://dev.to/ki_taits/making-a-roblox-icon-and-thumbnail-tell-the-same-story-at-two-sizes-5h6n": {
+  "zh_title": "让 Roblox 图标与缩略图在两种尺寸下讲同一个故事",
+  "zh_oneliner": "1920×1080 的缩略图能装下角色、标题和场景，512×512 的图标却不行；作者分享如何让两者在不同尺寸下传达同一个视觉故事。",
+  "en_title": "Making a Roblox icon and thumbnail tell the same story at two sizes",
+  "en_oneliner": "A 1920×1080 thumbnail can hold a character, a title and scenery, but a 512×512 icon cannot; the author shares how to make both sizes tell the same visual story."
  }
 }
