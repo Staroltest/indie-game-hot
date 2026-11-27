@@ -28162,5 +28162,23 @@
   "zh_oneliner": "《战锤：末世鼠疫2》的官方模组工具正式向所有人开放，恰逢游戏本体在 Steam 一折促销，开发者与玩家都可以更自由地扩展这款合作动作游戏。",
   "en_title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
   "en_oneliner": "Vermintide 2's official mod tools are now publicly available, just as the game itself goes 90% off on Steam — a good moment for modders and new players alike to jump in."
+ },
+ "https://www.indiedb.com/games/yatai-master-fukuoka-street-food/news/on-the-road-to-the-demo-assistants-bills-and-a-little-rain": {
+  "zh_title": "通往试玩版之路：厨房助手、账单与一场小雨",
+  "zh_oneliner": "《Yatai Master》试玩版前夕加入取食材的厨房助手、每周结算的账单和会漏进界面的天气，让福冈街头小吃摊的经营更有烟火气。",
+  "en_title": "On the road to the demo: assistants, bills and a little rain",
+  "en_oneliner": "Yatai Master adds kitchen assistants who fetch ingredients, weekly bills, and weather that leaks into the interface as the Fukuoka street-food sim heads toward its demo."
+ },
+ "https://dev.to/pixelnori/what-i-learned-shipping-tiny-godot-plugins-and-why-theyre-30-off-this-week-3b39": {
+  "zh_title": "发布小型 Godot 插件的经验谈：本周七折背后的教训",
+  "zh_oneliner": "作者为做像素游戏接连解决相机像素对齐、天空色带、雨效等五个痛点，顺手做成插件开店，分享每款插件背后的意外收获。",
+  "en_title": "What I learned shipping tiny Godot plugins (and why they're 30% off this week)",
+  "en_oneliner": "A pixel-game dev turned five recurring annoyances — camera snapping, sky banding, rain, hit feedback, lanterns — into small Godot plugins, and shares what each one taught them."
+ },
+ "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet": {
+  "zh_title": "微软宣布弃用 Windows Telnet 客户端",
+  "zh_oneliner": "微软正式弃用 Windows 自带的 Telnet 客户端，为这个老牌命令行工具画上句号。",
+  "en_title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
+  "en_oneliner": "Microsoft is deprecating the Telnet client in Windows, retiring the old command-line tool for good."
  }
 }
