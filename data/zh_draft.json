@@ -29290,5 +29290,53 @@
   "zh_oneliner": "Godot 4.8 进入发布候选阶段，全部功能已锁定、已知严重回归均已修复，官方建议生产项目先备份再试用，并呼吁社区帮忙测试以确认没有漏网的大问题。",
   "en_title": "Release candidate: Godot 4.8 RC 1",
   "en_oneliner": "Godot 4.8 has entered the release candidate stage with all features locked in and known critical regressions fixed; the team invites production projects to try it after backing up, and asks the community to help test for any remaining major issues."
+ },
+ "https://dev.to/goutam_lambu_0a07d682a4ee/build-a-butter-smooth-60-fps-camera-lerp-in-vanilla-js-with-ai-prompts-2nmj": {
+  "zh_title": "用原生 JS 与 AI 提示词打造 60 FPS 丝滑相机插值",
+  "zh_oneliner": "手把手教你用线性插值和帧率无关阻尼，给 HTML5 游戏做一个电影感十足的平滑跟随相机，几行原生 JavaScript 就能搞定。",
+  "en_title": "Build a Butter-Smooth 60 FPS Camera Lerp in Vanilla JS with AI Prompts",
+  "en_oneliner": "A hands-on guide to giving your HTML5 game a cinematic, buttery-smooth follow camera with linear interpolation and frame-rate-independent damping in just a few lines of vanilla JavaScript."
+ },
+ "https://80.lv/articles/grab-the-best-black-friday-deals-on-3d-tools-assets-courses": {
+  "zh_title": "黑五精选：3D 工具、素材与课程好价合集",
+  "zh_oneliner": "汇总 Fab、Unity Asset Store、Adobe、Reallusion 等厂商的黑五折扣，3D 软件、素材包和教程一次看全。",
+  "en_title": "Grab the Best Black Friday Deals on 3D Tools, Assets & Courses",
+  "en_oneliner": "A roundup of Black Friday discounts on 3D tools, assets, and courses from Fab, the Unity Asset Store, Adobe, Reallusion, and more."
+ },
+ "https://indiegamereviewer.com/clean-start-review-a-cosy-game-about-the-immigrant-experience": {
+  "zh_title": "《Clean Start》评测：一款讲述移民经历的温馨游戏",
+  "zh_oneliner": "在 Serious Sim 的这款温馨小品里，你扮演一位不得不与孩子分离的母亲，在异乡重新开始生活。",
+  "en_title": "Clean Start Review – A Cosy Game About the Immigrant Experience",
+  "en_oneliner": "In Serious Sim's cosy game, you play a mother who has left her children behind and must start over in a new country."
+ },
+ "https://dev.to/connabyss/i-asked-for-a-realistic-young-planet-my-storms-were-spinning-the-wrong-way-5eg2": {
+  "zh_title": "我想要一颗真实的年轻行星，结果风暴全转反了",
+  "zh_oneliner": "一位新手开发者记录自己用 Claude Code 搭建行星演化模拟的踩坑过程：画面越好看，越要逐项核对它是否符合真实物理。",
+  "en_title": "I asked for a realistic young planet. My storms were spinning the wrong way.",
+  "en_oneliner": "A beginner developer's devlog on building a planet simulation with Claude Code — and auditing every pretty render against real physics after the storms spun the wrong way."
+ },
+ "https://dev.to/ayush_42a26f94890ecb20d44/curved-ramps-in-a-2d-physics-engine-and-the-ball-that-looked-like-it-was-being-hit-500-times-a-25ji": {
+  "zh_title": "给 2D 物理引擎加上弯曲斜坡，以及一颗每秒被撞 500 次的小球",
+  "zh_oneliner": "Rust 物理引擎 Soliton 的开发手记：如何正确实现曲面碰撞，让小球沿着弯曲斜坡顺滑滚动而不是被反复弹开。",
+  "en_title": "Curved ramps in a 2D physics engine, and the ball that looked like it was being hit 500 times a second",
+  "en_oneliner": "A devlog from the Rust physics engine Soliton on adding curved ramps properly — representing curves exactly so balls roll smoothly instead of bouncing hundreds of times a second."
+ },
+ "https://dev.to/apk_haji_2424daf6b611e174/588pkr-an-entertaining-android-mobile-game-for-players-in-pakistan-429h": {
+  "zh_title": "588pkr：一款面向巴基斯坦玩家的安卓休闲手游",
+  "zh_oneliner": "介绍一款面向巴基斯坦安卓玩家的休闲手游合集，包含老虎机、纸牌等短平快玩法。",
+  "en_title": "588pkr: An Entertaining Android Mobile Game for Players in Pakistan",
+  "en_oneliner": "An overview of a casual Android game app for players in Pakistan, bundling slots, card games, and short play sessions."
+ },
+ "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise": {
+  "zh_title": "BioWare 关闭后 EA 还在卖《质量效应》周边，如今又轮到《龙腾世纪》",
+  "zh_oneliner": "EA 在 BioWare 关闭后继续推出《质量效应》新周边引发争议，如今又为《龙腾世纪》上架了同类商品。",
+  "en_title": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+  "en_oneliner": "After facing backlash for selling new Mass Effect merchandise following BioWare's closure, EA is now doing the same for Dragon Age."
+ },
+ "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs": {
+  "zh_title": "Yooka-Laylee 工作室解释终极版为何缺席 Xbox：技术挑战与成本",
+  "zh_oneliner": "《Yooka-Laylee 与不可能的巢穴》终极版确定不登陆 Xbox Series X/S，工作室称是技术难度与成本所致。",
+  "en_title": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
+  "en_oneliner": "The studio behind Yooka-Laylee and the Impossible Lair: Definitive Edition says technical challenges and costs are why it is skipping Xbox Series X/S."
  }
 }
