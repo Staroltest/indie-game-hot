@@ -29122,5 +29122,23 @@
   "zh_oneliner": "Team Cherry 在特别直播中公布扩展详情：12 月 11 日上线，预告里似乎还藏了一个钓鱼小游戏。",
   "en_title": "Hollow Knight: Silksong's first big expansion, Sea of Sorrows, comes out in two weeks - and seems to include a fishing minigame",
   "en_oneliner": "Team Cherry's special presentation dated the expansion for December 11 — and the trailer seems to hide a fishing minigame."
+ },
+ "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before": {
+  "zh_title": "《丝之歌》12月推出“悲伤之海”扩展：钓鱼、把大黄蜂装进大炮发射，Team Cherry 称“前所未有”",
+  "zh_oneliner": "Team Cherry 宣布《空洞骑士：丝之歌》首个扩展“悲伤之海”将于12月11日上线，新增水域区域与钓鱼玩法，官方称其规模与体验“前所未有”。",
+  "en_title": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\"",
+  "en_oneliner": "Team Cherry has announced Sea of Sorrow, the first expansion for Hollow Knight: Silksong, launching December 11 with a new watery region and fishing, which the studio calls unlike anything it has done before."
+ },
+ "https://www.indiedb.com/games/havencraft/news/devlog-23-production-management-map": {
+  "zh_title": "《Havencraft》开发日志 #23：村民工作指令、地图与建筑快捷方式大改",
+  "zh_oneliner": "《Havencraft》第23期开发日志带来村民工作指令、地图与建筑快捷方式的大幅重做，让生产管理流程更顺手。",
+  "en_title": "Devlog #23 - Production, Management & Map",
+  "en_oneliner": "Havencraft's 23rd devlog overhauls villager work orders, the map, and new building shortcuts to smooth out production management."
+ },
+ "https://dev.to/darrellbest/customize-the-renpy-main-menu-music-a-fade-in-and-a-title-screen-people-remember-243f": {
+  "zh_title": "自定义 Ren'Py 主菜单：音乐、淡入效果与让人记住的标题画面",
+  "zh_oneliner": "这篇教程手把手教你改造 Ren'Py 默认主菜单，从背景音乐、淡入过渡到标题画面排布，让游戏第一眼就留下印象。",
+  "en_title": "Customize the Ren'Py main menu: music, a fade in, and a title screen people remember",
+  "en_oneliner": "This tutorial walks through customizing Ren'Py's default main menu — music, fade-ins, and title-screen layout — so your game's first screen leaves a lasting impression."
  }
 }
