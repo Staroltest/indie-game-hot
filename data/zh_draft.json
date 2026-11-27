@@ -28624,5 +28624,53 @@
   "zh_oneliner": "文章拆解了 Epic 在 AI 辅助开发上的布局，从与 Disney 合作项目的延期谈到引擎与工具链层面的长线投入。",
   "en_title": "How Epic Is Rebuilding Game Development for AI",
   "en_oneliner": "The piece breaks down Epic's push into AI-assisted development, from a delayed Disney collaboration to long-term bets across its engine and tooling."
+ },
+ "https://80.lv/articles/ubisoft-says-generative-ai-isn-t-mandatory-for-developers": {
+  "zh_title": "育碧表示生成式 AI 并非开发者必选项",
+  "zh_oneliner": "育碧澄清立项说明中提及生成式 AI 用途只是流程要求，开发者并不被强制使用这项技术。",
+  "en_title": "Ubisoft Says Generative AI Isn't Mandatory for Developers",
+  "en_oneliner": "Ubisoft clarifies that explaining generative AI use in internal pitches is a process requirement, not a mandate forcing developers to use the technology."
+ },
+ "https://80.lv/articles/new-teaser-for-pixar-s-animated-movie-about-cats-gatto-is-out": {
+  "zh_title": "皮克斯猫咪动画电影《Gatto》发布新预告",
+  "zh_oneliner": "皮克斯新片《Gatto》放出预告，3D 与手绘质感结合，故事发生在威尼斯的温馨街巷之间。",
+  "en_title": "New Teaser for Pixar's Animated Movie About Cats, Gatto, Is Out",
+  "en_oneliner": "Pixar's new film Gatto gets a teaser, blending 3D with hand-painted artwork in a story set on the cozy streets of Venice."
+ },
+ "https://www.gcores.com/articles/222862": {
+  "zh_title": "《WILL：美好世界》开发者新作《十五区：星落何处》公布首支宣传片",
+  "zh_oneliner": "《WILL：美好世界》作者王妙一的新作《十五区：星落何处》放出首支宣传片，Steam 页面已上线，剧本仍在打磨中。",
+  "en_title": "WILL: A Wonderful World's Developer Reveals First Trailer for District 15: Where the Stars Fall",
+  "en_oneliner": "Wang Miaoyi, creator of WILL: A Wonderful World, has unveiled the first trailer for her new puzzle-narrative game District 15: Where the Stars Fall, with its Steam page now live and the script still being polished."
+ },
+ "https://www.gcores.com/videos/222855": {
+  "zh_title": "合力一击，无所不用其极 | 和薄彩生一起盘点《影之刃零》音乐的精彩瞬间",
+  "zh_oneliner": "机核对话《影之刃零》配乐薄彩生，逐轨拆解 BOSS 战音乐如何在战斗压迫感与演奏可行性之间找平衡。",
+  "en_title": "Breaking Down Phantom Blade Zero's Music with Composer Bo Caisheng",
+  "en_oneliner": "Gcores talks with Phantom Blade Zero composer Bo Caisheng, breaking down the boss battle tracks to show how the score balances combat intensity with playability."
+ },
+ "https://dev.to/lucashooghof/the-marrow-project-59nf": {
+  "zh_title": "MARROW 项目：为学透引擎底层而自研的游戏引擎",
+  "zh_oneliner": "一位开发者从零自研名为 MARROW 的游戏引擎，只为学透引擎底层运作，未来用它做一款开放世界游戏。",
+  "en_title": "The MARROW Project",
+  "en_oneliner": "A developer is building a game engine called MARROW from scratch to learn how engines work under the hood, with plans to use it for an open-world game later."
+ },
+ "https://dev.to/slotvfx/how-to-add-particle-effects-to-your-2d-game-with-claude-3e8c": {
+  "zh_title": "用 Claude 给 2D 游戏批量做粒子特效的工作流",
+  "zh_oneliner": "这篇教程给出了一套用 Claude 搭配 SlotVFX 批量制作粒子特效的工作流，从设计文档到可交付的特效一次成型。",
+  "en_title": "How to Add Particle Effects to Your 2D Game with Claude",
+  "en_oneliner": "This tutorial lays out a workflow for producing particle effects for a 2D game in bulk with Claude and SlotVFX, from design document to handoff-ready effects."
+ },
+ "https://www.nintendolife.com/news/2026/11/heres-a-handful-of-the-spiciest-black-friday-switch-2-deals": {
+  "zh_title": "黑五 Switch 2 优惠盘点：这批硬件与游戏折扣值得看一眼",
+  "zh_oneliner": "黑五期间各大零售商陆续放出 Switch 2 硬件与游戏折扣，本文全天滚动更新美英两地的划算报价。",
+  "en_title": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+  "en_oneliner": "Retailers are rolling out Switch 2 hardware and game discounts for Black Friday, and this roundup tracks the best US and UK offers throughout the day."
+ },
+ "https://www.pocketgamer.biz/new-release-roundup-monster-hunter-rise-netflix-digimon-alysion-field-day-and-more": {
+  "zh_title": "本周手游新品盘点：《怪物猎人 Rise》登陆 Netflix 等",
+  "zh_oneliner": "本期盘点本周值得关注的手游新作，包括登陆 Netflix 的《怪物猎人 Rise》、数码宝贝新作等，并介绍背后的开发团队。",
+  "en_title": "New release roundup: Monster Hunter Rise Netflix, Digimon Alysion, Field Day, and more",
+  "en_oneliner": "This week's roundup covers the most notable new mobile releases, including Monster Hunter Rise on Netflix and a new Digimon title, plus the teams behind them."
  }
 }
