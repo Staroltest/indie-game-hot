@@ -28822,5 +28822,35 @@
   "zh_oneliner": "本周 Blender 相关职位汇总，涵盖硬表面 3D 美术与 3D 服装美术等多个高需求岗位。",
   "en_title": "Blender Jobs for November 27, 2026",
   "en_oneliner": "The latest Blender jobs from Blender Artists, ArtStation and 3djobs.xyz, including hard-surface 3D artists and high-demand 3D clothing artist roles."
+ },
+ "https://dev.to/towneers/designing-a-player-economy-for-a-browser-mmo-floor-prices-buy-orders-and-honest-market-prices-1pg1": {
+  "zh_title": "为浏览器 MMO 设计玩家经济：底价、买单与诚实市场价",
+  "zh_oneliner": "开发者结合自家游戏 Towneers 的实战代码，讲清如何用底价和买单机制让玩家市场价格更真实可信。",
+  "en_title": "Designing a player economy for a browser MMO: floor prices, buy orders and honest market prices",
+  "en_oneliner": "The developer of browser MMO Towneers shares real code and design decisions behind floor prices and buy orders that keep player-driven market prices honest."
+ },
+ "https://www.eurogamer.net/world-of-warcraft-forever-summon-kicking-warlock-addon": {
+  "zh_title": "玩术士总被拉完就踢？《魔兽世界：Forever》有了反击的插件",
+  "zh_oneliner": "一款新插件帮《魔兽世界：Forever》里的术士玩家摆脱拉人进本后就被踢的尴尬处境。",
+  "en_title": "Are you a warlock tired of being summon-kicked in World of Warcraft: Forever? There's now a mod to fight back with",
+  "en_oneliner": "A new mod lets World of Warcraft: Forever warlocks fight back against being kicked from parties right after summoning everyone in."
+ },
+ "https://www.pocketgamer.biz/melon-sandbox-creator-payouts-rise-102-to-137m-in-2026": {
+  "zh_title": "Melon Sandbox 创作者分成 2026 年增长 102%，达 137 万美元",
+  "zh_oneliner": "移动端 UGC 平台 Melon Sandbox 今年前 11 个月向创作者支付 137 万美元，同比翻倍，创作者经济仍在升温。",
+  "en_title": "Melon Sandbox creator payouts rise 102% to $1.37m in 2026",
+  "en_oneliner": "Mobile UGC platform Melon Sandbox paid creators $1.37 million in the first eleven months of 2026, up 102% year over year."
+ },
+ "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here": {
+  "zh_title": "等了 16 年，我终于玩到了 Faraway",
+  "zh_oneliner": "一款 16 年前只凭 30 秒预告就让人念念不忘的太空游戏，如今终于在 Annapurna 的发行下与玩家见面。",
+  "en_title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+  "en_oneliner": "Sixteen years after a 30-second trailer first sparked curiosity, the enigmatic space game Faraway has finally arrived under Annapurna Interactive."
+ },
+ "https://www.nintendolife.com/news/2026/11/rare-co-founder-tim-stamper-unveils-a-treasure-trove-of-conker-dev-material": {
+  "zh_title": "Rare 联合创始人 Tim Stamper 公开一批《康克》开发珍贵资料",
+  "zh_oneliner": "Rare 联合创始人 Tim Stamper 在个人频道放出《康克坏皮毛日》的开发幕后视频，揭开这款经典游戏的制作内幕。",
+  "en_title": "Rare Co-Founder Tim Stamper Unveils A Treasure Trove Of Conker Dev Material",
+  "en_oneliner": "Rare co-founder Tim Stamper has started sharing behind-the-scenes development material from Conker's Bad Fur Day on his YouTube channel."
  }
 }
