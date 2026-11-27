@@ -28948,5 +28948,71 @@
   "zh_oneliner": "小团队公开复盘浏览器端免费多人像素人生模拟游戏 Towneers 的开发心得：在一个常驻等距城市里打工、开店、买房、种田，哪些做法奏效、哪些踩了坑。",
   "en_title": "Building a free social MMO life sim in the browser as a tiny team: what worked, what didn't (open alpha)",
   "en_oneliner": "A tiny team's open notebook on building Towneers, a free browser-based multiplayer pixel-art life sim: what worked and what didn't in a shared always-on isometric city."
+ },
+ "https://80.lv/articles/check-out-this-awesome-vfx-breakdown-of-a-helicopter-taking-off": {
+  "zh_title": "看看这段直升机起飞的 VFX 拆解，太精彩了",
+  "zh_oneliner": "开发者 Oleg Mendelson 拆解了自己制作的直升机起飞电影镜头，重点讲了烟雾模拟背后的制作思路，值得做特效的开发者参考。",
+  "en_title": "Check Out This Awesome VFX Breakdown of a Helicopter Taking Off",
+  "en_oneliner": "Developer Oleg Mendelson breaks down his cinematic helicopter take-off shot, walking through the smoke simulation behind it — a useful reference for anyone working on VFX."
+ },
+ "https://gamefromscratch.com/black-friday-cyber-monday-for-game-developers-2026": {
+  "zh_title": "2026 黑五/网一游戏开发者优惠合集",
+  "zh_oneliner": "汇总了本季面向游戏开发者的黑五折扣，分开发素材与开发软件两大类，趁打折补工具和资源正合适。",
+  "en_title": "Black Friday / Cyber Monday for Game Developers 2026",
+  "en_oneliner": "A roundup of this season's Black Friday deals for game developers, split into development assets and software — a good moment to stock up on tools and resources at a discount."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/flight-division-fpv-drone-simulator-how-to-fly-free-in-your-browser-with-a-radio-gamepad-or-4od3": {
+  "zh_title": "Flight Division：浏览器里免费飞 FPV 无人机模拟器",
+  "zh_oneliner": "一款免费的浏览器端 FPV 无人机飞行模拟器，支持手柄、键盘或遥控器操作，不用下载就能直接上手练飞。",
+  "en_title": "Flight Division FPV drone simulator: how to fly free in your browser with a radio, gamepad or keyboard",
+  "en_oneliner": "A free FPV drone flight simulator that runs in the desktop browser, playable with a radio, gamepad or keyboard and no download needed."
+ },
+ "https://dev.to/liza_18827c15bdd387c4cd9c/christmas-games-online-free-for-adults-10-cozy-browser-games-for-the-holidays-and-the-office-party-41hm": {
+  "zh_title": "免费圣诞网页小游戏合集：10 款适合成年人和办公室派对的轻松游戏",
+  "zh_oneliner": "盘点了 10 款不用下载的免费圣诞主题浏览器小游戏，从解谜到合并消除都有，适合假期摸鱼或办公室派对暖场。",
+  "en_title": "Christmas games online free for adults: 10 cozy browser games for the holidays and the office party (no download)",
+  "en_oneliner": "Ten free Christmas-themed browser games that need no download, from point-and-click mysteries to merge puzzles — handy for a holiday break or an office party."
+ },
+ "https://dev.to/jesse_otobo_/-i-built-wordlatch-a-daily-vocabulary-multiplayer-word-puzzle-platform-and-many-more-56p1": {
+  "zh_title": "我做了 WordLatch：每日词汇多人文字解谜平台",
+  "zh_oneliner": "独立开发者 Jesse Otobo 分享了自己刚上线的每日词汇解谜平台 WordLatch，主打多人实时对战与零下载即开即玩，聊了从零搭建的思路。",
+  "en_title": ": I built WordLatch — a daily vocabulary & multiplayer word puzzle platform and many more",
+  "en_oneliner": "Solo developer Jesse Otobo shares WordLatch, his newly launched daily vocabulary and multiplayer word-puzzle platform that runs instantly in the browser with no download."
+ },
+ "https://dev.to/tpqcka180/living-planet-an-autonomous-ai-civilization-simulator-powered-by-local-llms-tpecka180-2lco": {
+  "zh_title": "Living Planet：用本地大模型驱动的自主 AI 文明模拟器",
+  "zh_oneliner": "独立开发者 TPECKA180 介绍了自己的实验项目 Living Planet，一个由本地运行的大语言模型自主操控整个国家的文明模拟器，探讨 AI 掌控世界会发生什么。",
+  "en_title": "Living Planet — An Autonomous AI Civilization Simulator Powered by Local LLMs (TPECKA180)",
+  "en_oneliner": "Independent developer TPECKA180 introduces Living Planet, a civilization simulator where autonomous AI agents run entire countries on locally hosted large language models."
+ },
+ "https://dev.to/towneers/disenar-la-economia-de-un-mmo-de-navegador-precios-suelo-ordenes-de-compra-y-precios-honestos-311e": {
+  "zh_title": "如何设计浏览器 MMO 的经济系统：底价、买单与诚实定价",
+  "zh_oneliner": "Towneers 的开发者结合代码剖析了自家像素 MMO 的经济设计，讲底价、买单机制与诚实定价如何让陌生玩家之间产生互助，值得做多人经济系统的开发者参考。",
+  "en_title": "Designing a Browser MMO Economy: Floor Prices, Buy Orders and Honest Pricing",
+  "en_oneliner": "The developer of Towneers walks through the economy design of his pixel-art browser MMO, with code, showing how floor prices, buy orders and honest pricing get strangers helping each other — a useful read for anyone building a multiplayer economy."
+ },
+ "https://dev.to/aikahub/how-hyperscales-was-built-part-2-sign-in-with-aikahub-oauth-pkce-and-why-we-store-no-token-kjk": {
+  "zh_title": "Hyperscales 是怎么做出来的（下）：用 AikaHub OAuth PKCE 登录，为什么不存 token",
+  "zh_oneliner": "开发者 Aika 继续分享 Hyperscales 的开发日志，这篇讲如何给浏览器大亨游戏接入 AikaHub 账号登录，以及背后的 OAuth PKCE 实现与不存 token 的隐私取舍。",
+  "en_title": "How Hyperscales was built, part 2: Sign in with AikaHub - OAuth PKCE, and why we store no token",
+  "en_oneliner": "Developer Aika continues the Hyperscales devlog, explaining how the browser tycoon game got AikaHub sign-in via OAuth PKCE — and why the game stores no token."
+ },
+ "https://www.nintendolife.com/news/2026/11/watch-team-cherrys-cherry-time-special-presentation-live": {
+  "zh_title": "直播：Team Cherry“樱桃时刻”特别发布会",
+  "zh_oneliner": "Team Cherry 带来特别发布会“Cherry Time!”，承诺有一批令人兴奋的公布，以及《空洞骑士：丝之歌》DLC“罪海”的新消息。",
+  "en_title": "Watch: Team Cherry's 'Cherry Time!' Special Presentation - Live!",
+  "en_oneliner": "Team Cherry hosts its surprise \"Cherry Time!\" presentation, promising a batch of announcements plus an update on Hollow Knight: Silksong's Sea of Sorrow DLC."
+ },
+ "https://www.pcgamer.com/hardware/make-the-pc-gamer-in-your-life-very-happy-with-the-best-black-friday-gift-ideas-under-usd50": {
+  "zh_title": "50 美元以下的最佳黑五 PC 玩家礼物推荐",
+  "zh_oneliner": "盘点了 50 美元以内的黑五 PC 游戏相关礼物，送人或犒劳自己都可以参考。",
+  "en_title": "Make the PC gamer in your life very happy with the best Black Friday gift ideas under $50",
+  "en_oneliner": "A roundup of Black Friday gift ideas under $50 for PC gamers — useful whether you are shopping for someone else or for yourself."
+ },
+ "https://gameworldobserver.com/2026/11/27/the-employees-of-rockstar-games-did-not-support-the-idea-of-forming-a-union-within-the-company": {
+  "zh_title": "Rockstar 英国员工投票否决成立工会",
+  "zh_oneliner": "Rockstar 英国办公室关于承认游戏工人工会的投票已有结果，75.3% 的员工投了反对票，工会组建倡议未能通过。",
+  "en_title": "The employees of Rockstar Games did not support the idea of forming a union within the company",
+  "en_oneliner": "Voting at Rockstar Games' UK offices on recognising the Rockstar Game Workers Union has concluded, with 75.3% of employees voting against it."
  }
 }
