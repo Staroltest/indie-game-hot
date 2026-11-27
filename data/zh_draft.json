@@ -28540,5 +28540,53 @@
   "zh_oneliner": "这篇分析聊了种新玩法：每日答题按答案稀有度计分，冷门球星反而更值钱，24 秒倒计时逼着玩家快速做决定。",
   "en_title": "Why Rarity-Based Daily NBA Trivia Games Are Way More Addictive Than Standard Quizzes",
   "en_oneliner": "This piece looks at a daily trivia format where scoring rewards obscure answers over obvious superstars, with a 24-second shot clock forcing quick calls."
+ },
+ "https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts": {
+  "zh_title": "《使命召唤：现代战争 4》发售带动 Call of Duty HQ 登顶 Newzoo PC 收入榜",
+  "zh_oneliner": "《现代战争 4》发售后，Call of Duty HQ 一跃登上 Newzoo PC 收入榜首，十月 PC 市场几乎全靠这一款新作撑场面。",
+  "en_title": "Modern Warfare 4 launch boosts Call of Duty HQ to top of Newzoo's PC revenue charts",
+  "en_oneliner": "The Modern Warfare 4 launch pushed Call of Duty HQ to the top of Newzoo's PC revenue chart, in a month with almost no other major releases."
+ },
+ "http://www.chuapp.com/article/291792.html": {
+  "zh_title": "以前，人们是怎么骂GTA的？",
+  "zh_oneliner": "回顾 GTA 系列历代发售时遭遇的争议与批评，对照《GTA 6》首日 37.9 亿美元收入与 99 分媒体评分背后的玩家差评。",
+  "en_title": "How Did People Criticize GTA in the Past?",
+  "en_oneliner": "A look back at the criticism each GTA launch faced, set against GTA 6's $3.79 billion first day, a 99 Metacritic score, and the player backlash."
+ },
+ "https://dev.to/tengku4d/how-we-built-tumbling-wins-for-a-7x5-browser-game-4p3n": {
+  "zh_title": "我们如何为一款 7x5 浏览器游戏实现掉落消除",
+  "zh_oneliner": "开发者拆解消除后符号下落、新符号补位的掉落机制实现思路，适合做消除类网页小游戏参考。",
+  "en_title": "How we built tumbling wins for a 7x5 browser game",
+  "en_oneliner": "A developer breaks down how tumbling wins work in a 7x5 browser game — cleared symbols fall, new ones drop in — a handy reference for match-style web games."
+ },
+ "https://dev.to/synthplaygames/pulse-breaker-dx-free-brick-browser-game-built-with-gemini-canvas2d-2fn4": {
+  "zh_title": "PULSE BREAKER DX：一款用 Gemini 与 Canvas2D 做的免费打砖块浏览器游戏",
+  "zh_oneliner": "一款用 Gemini 辅助开发、Canvas2D 渲染的霓虹打砖块网页游戏，免费可玩，附带玩法链接。",
+  "en_title": "PULSE BREAKER DX: Free BRICK Browser Game Built with Gemini & Canvas2D",
+  "en_oneliner": "A free neon brick-breaker browser game built with Gemini and Canvas2D, playable online with explosive twists on the Arkanoid formula."
+ },
+ "https://roboticoverlords.org/tinyhat": {
+  "zh_title": "Tiny Hat：一款专为复古游戏开发打造的新 Linux 发行版",
+  "zh_oneliner": "启动后仅占约 100MB 内存、可从 1GB U 盘启动的轻量发行版，自带小游戏与示例程序，面向复古游戏开发者。",
+  "en_title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+  "en_oneliner": "A tiny Linux distro for retro game development that boots in about 100MB of RAM from a 1GB stick, shipping with small games and example programs."
+ },
+ "https://www.blendernation.com/2026/11/27/procity-a-procedural-city-generator-for-blender": {
+  "zh_title": "ProCity：一款 Blender 程序化城市生成插件",
+  "zh_oneliner": "在 Blender 内直接生成整座城市、单栋建筑、街区与道路的插件，从一栋楼到一座大都会都能程序化搭建。",
+  "en_title": "ProCity – A Procedural City Generator for Blender",
+  "en_oneliner": "A Blender add-on that procedurally generates entire cities, individual buildings, blocks, and roads right inside Blender."
+ },
+ "https://www.blendernation.com/2026/11/27/blender-5-2-5-lts-and-4-5-17-lts-released": {
+  "zh_title": "Blender 5.2.5 LTS 与 4.5.17 LTS 发布",
+  "zh_oneliner": "Blender 基金会发布两个长期支持版的维护更新，只修 bug、不加新功能，生产环境可放心升级。",
+  "en_title": "Blender 5.2.5 LTS and 4.5.17 LTS released",
+  "en_oneliner": "The Blender Foundation released maintenance updates for both LTS lines — bug fixes only, safe to upgrade in production."
+ },
+ "https://www.nintendolife.com/news/2026/11/team-cherry-special-presentation-will-share-hollow-knight-silksong-dlc-news-today": {
+  "zh_title": "Team Cherry 特别直播今日公布《空洞骑士：丝之歌》DLC 消息",
+  "zh_oneliner": "Team Cherry 今日举行特别直播，将公布《丝之歌》DLC「悲伤之海」的消息，等了许久的玩家可以蹲直播了。",
+  "en_title": "Team Cherry 'Special Presentation' Will Share Hollow Knight: Silksong DLC News Today",
+  "en_oneliner": "Team Cherry's special presentation airs today with news on the Hollow Knight: Silksong DLC, Sea of Sorrow — long-awaited news for fans."
  }
 }
