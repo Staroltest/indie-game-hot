@@ -29224,5 +29224,47 @@
   "zh_oneliner": "类《质量效应》的太空 RPG《Exodus》公布了 PC 配置要求，整体门槛不算高，可作同类太空题材作品性能定位的参考。",
   "en_title": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
   "en_oneliner": "Mass Effect-like space RPG Exodus has revealed its PC system requirements, and the bar is fairly modest — a useful reference point for positioning a space-themed game's performance targets."
+ },
+ "https://www.indiedb.com/games/a-story-of-questions/news/a-story-of-questions-the-free-demo-is-out-now": {
+  "zh_title": "《A Story of Questions》免费试玩版现已上线",
+  "zh_oneliner": "心理恐怖新作《A Story of Questions》在 Steam 放出免费试玩，独立剧情含 12 种结局，支持手柄与成就。",
+  "en_title": "A Story of Questions: The Free Demo Is Out Now!",
+  "en_oneliner": "The psychological horror game A Story of Questions has a free demo on Steam, with a standalone story, 12 endings, controller support, and achievements."
+ },
+ "https://www.indiedb.com/games/gachanime/news/67-new-anime-characters-join-gachanime": {
+  "zh_title": "《Gachanime》新增 67 名动漫角色",
+  "zh_oneliner": "抽卡游戏《Gachanime》全球卡池新增 67 名动漫角色，动漫音乐问答也加入六首新 OP。",
+  "en_title": "67 new anime characters join Gachanime",
+  "en_oneliner": "Gachanime adds 67 anime characters to its Global pack, plus six recent opening themes to its anime music quiz."
+ },
+ "https://dev.to/danieljsaldana/token-club-alex-y-vega-dos-npc-con-su-propia-forma-de-pasar-por-la-sala-281n": {
+  "zh_title": "Token Club：Álex 与 Vega，两个以各自方式穿过房间的 NPC",
+  "zh_oneliner": "开发者分享浏览器端虚拟空间 Token Club 里两个 AI 驱动 NPC 各自穿越房间的行为设计，聊角色动线与相遇瞬间的做法。",
+  "en_title": "Token Club: Álex and Vega, two NPCs with their own way of crossing the room",
+  "en_oneliner": "A devlog on two AI-driven NPCs in the browser-based Token Club, each crossing the room in their own way and sharing small moments with visitors."
+ },
+ "https://dev.to/zhiwei_224e5e15600342dc0b/make-a-gta-6-style-loading-screen-from-your-own-photo-8gk": {
+  "zh_title": "用自己的照片做一张 GTA 6 风格加载画面",
+  "zh_oneliner": "教程教你不用 Photoshop 也能把自己的照片画成 GTA 6 风格加载画面：平滑着色加细描边，配纯色扁平场景。",
+  "en_title": "Make a GTA 6-style loading screen from your own photo",
+  "en_oneliner": "A tutorial on turning your own photo into a GTA 6-style loading screen — smooth shading, thin outlines, flat pastel scenes — without Photoshop or a designer."
+ },
+ "https://dev.to/vidripapp/show-dev-a-free-horror-comedy-game-you-control-with-your-face-ba": {
+  "zh_title": "免费恐怖喜剧游戏《Screamburb》：用脸来操控",
+  "zh_oneliner": "免费恐怖喜剧游戏《Screamburb》用面部表情操控：转头移动、张嘴尖叫击退怪物、微笑救邻居，团队来 DEV 征求开发者反馈。",
+  "en_title": "Show DEV: a free horror-comedy game you control with your face",
+  "en_oneliner": "Screamburb is a free top-down horror-comedy game controlled by your face — turn your head to move, scream to blast monsters back — and its team is asking fellow builders for feedback."
+ },
+ "https://dev.to/apps66/game-audio-format-magic-byte-compatibility-matrix-2026-fsb5-wem-bnk-bfstm-hca-xwb-572m": {
+  "zh_title": "游戏音频格式与魔数兼容对照表（2026）：FSB5、WEM、BNK、BFSTM、HCA 与 XWB",
+  "zh_oneliner": "一份 2026 版游戏音频格式魔数字节对照表，覆盖 FSB5、WEM、BNK 等格式，附可离线运行的开源命令行工具。",
+  "en_title": "Game Audio Format & Magic-Byte Compatibility Matrix (2026): FSB5, WEM, BNK, BFSTM, HCA & XWB",
+  "en_oneliner": "A 2026 compatibility matrix of game audio formats and their magic bytes — FSB5, WEM, BNK, BFSTM, HCA, XWB — with an open-source CLI that works fully offline."
+ },
+ "https://www.nintendolife.com/news/2026/11/site-news-nintendo-lifes-black-friday-sale": {
+  "zh_title": "站内消息：Nintendo Life 黑五促销",
+  "zh_oneliner": "Nintendo Life 推出黑五订阅优惠，付费订阅可去广告支持站点运营。",
+  "en_title": "Site News: Nintendo Life's Black Friday Sale",
+  "en_oneliner": "Nintendo Life is running a Black Friday deal on its subscription, which removes ads and supports the site."
  }
 }
