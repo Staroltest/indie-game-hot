@@ -29410,5 +29410,17 @@
   "zh_oneliner": "作者今年彻底换成无线外设，实测黑五期间花 185 美元就能配齐一套性价比更高的无线键鼠耳机，适合想升级工作台的开发者参考。",
   "en_title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
   "en_oneliner": "The author went fully wireless this year and found Black Friday deals can put together a better wireless desk setup for $185, a useful reference for developers upgrading their workspace."
+ },
+ "https://dev.to/velumix/roblox-gerstner-waves-getting-the-water-height-at-a-world-point-4h3o": {
+  "zh_title": "Roblox Gerstner 波浪：在世界坐标点取水面高度",
+  "zh_oneliner": "渲染 Gerstner 波浪后查询某点水面高度总对不上号，问题不在公式本身，而是波浪网格横向位移了、查询却没跟上，作者拆解了这个常见坑并给出适用于任何引擎的修正思路。",
+  "en_title": "Roblox Gerstner waves: getting the water height at a world point",
+  "en_oneliner": "Rendered Gerstner waves and a water-height query at the same point give different answers because the wave mesh shifts sideways while the query doesn't — the author unpacks this common pitfall and a fix that works in any engine."
+ },
+ "https://www.blendernation.com/2026/11/27/autonomode-procedural-car-animation-for-blender-free-lite-version": {
+  "zh_title": "AutonoMode：Blender 程序化汽车动画插件（免费 Lite 版）",
+  "zh_oneliner": "给任意汽车模型下达任务、按下 ROBOTIZE 就能自动驾驶并把动画烘焙成可手动调整的关键帧，免费 Lite 版已出，适合做车辆过场动画的独立开发者试试。",
+  "en_title": "AutonoMode, procedural car animation for Blender (free Lite version)",
+  "en_oneliner": "Give any car model a mission, hit ROBOTIZE, and it drives itself while the animation bakes into editable keyframes — the free Lite version is out, handy for indie devs needing vehicle shots."
  }
 }
