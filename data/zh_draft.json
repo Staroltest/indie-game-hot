@@ -29422,5 +29422,41 @@
   "zh_oneliner": "给任意汽车模型下达任务、按下 ROBOTIZE 就能自动驾驶并把动画烘焙成可手动调整的关键帧，免费 Lite 版已出，适合做车辆过场动画的独立开发者试试。",
   "en_title": "AutonoMode, procedural car animation for Blender (free Lite version)",
   "en_oneliner": "Give any car model a mission, hit ROBOTIZE, and it drives itself while the animation bakes into editable keyframes — the free Lite version is out, handy for indie devs needing vehicle shots."
+ },
+ "https://www.indiedb.com/games/ember-caverns/news/ember-caverns": {
+  "zh_title": "《Ember Caverns》：探索 20 个火把照亮的 3D 洞穴",
+  "zh_oneliner": "冒险游戏《Ember Caverns》带你深入 20 个火把照亮的 3D 洞穴，收集水晶、穿越古老险境。",
+  "en_title": "Ember Caverns",
+  "en_oneliner": "Adventure game Ember Caverns takes you through 20 torch-lit 3D caves to collect crystals and cross ancient hazards."
+ },
+ "https://www.indiedb.com/games/combat-orders-42/news/co-42-dev-diary-4-commanders-special-abilities-and-campaign-length": {
+  "zh_title": "《CO ’42》开发日志 #4：指挥官特殊能力与战役长度",
+  "zh_oneliner": "《Combat Orders ’42》新一期开发日志聊了步兵玩法、无线电天线等可占领建筑，以及指挥官特殊能力和战役时长设计。",
+  "en_title": "CO ’42 Dev Diary #4 - Commander’s Special Abilities and Campaign Length",
+  "en_oneliner": "The latest Combat Orders ’42 dev diary covers infantry play, capturable radio antenna towers that unlock commander abilities, and campaign length design."
+ },
+ "https://www.indiedb.com/games/exorcismus-vade-retro-satana/news/exorcismus-vade-retro-satana-is-out-now-on-steam": {
+  "zh_title": "《EXORCISMUS: Vade Retro Satana》已登陆 Steam",
+  "zh_oneliner": "独立开发者 Airem 制作的心理恐怖游戏《EXORCISMUS: Vade Retro Satana》已上架 Steam，玩家要在黑暗公寓里协助神父驱魔，恶魔会对你发出的声音作出反应。",
+  "en_title": "EXORCISMUS: Vade Retro Satana is Out Now on Steam",
+  "en_oneliner": "Solo indie developer Airem’s psychological horror game EXORCISMUS: Vade Retro Satana is out now on Steam: assist a priest in a dark apartment while a demon reacts to the sounds you make."
+ },
+ "https://www.indiedb.com/games/burgher1400/news/burgher1400-game-trailer": {
+  "zh_title": "《Burgher1400》首支实机预告放出",
+  "zh_oneliner": "《Burgher1400》放出开发进展与首支实机预告，展示这款游戏的最新面貌。",
+  "en_title": "Burgher1400 Game Trailer",
+  "en_oneliner": "Burgher1400 shares a development update and its first gameplay trailer, showing off the game’s latest look."
+ },
+ "https://www.indiedb.com/games/doctrine-strike/news/4-depots-4-ways-to-load-your-truck-supply-that-you-can-watch-arrive": {
+  "zh_title": "4 个补给站、4 种装车方式：看得见的补给线",
+  "zh_oneliner": "《Doctrine Strike》里每个补给站都用自己的机器给卡车装货——龙门吊、叉车、老码头吊机和传送带，每趟 600 美元，敌人也看得见。",
+  "en_title": "4 depots, 4 ways to load your truck: supply that you can watch arrive",
+  "en_oneliner": "Every supply depot in Doctrine Strike loads your truck with its own machine — a gantry crane, a forklift, an old dock crane, and a conveyor — at $600 a trip, and the enemy can see it coming."
+ },
+ "https://www.indiedb.com/games/the-last-eagle/news/devlog-vol-xv-steel-banners-and-bad-weather": {
+  "zh_title": "开发日志 Vol. XIV & XV：渡海而来，钢铁、旗帜与坏天气",
+  "zh_oneliner": "《The Last Eagle》两期开发日志合集：六个王国各自为战、天气会跟进战场，还有动捕实拍战斗、重建的竞技场与新城堡。",
+  "en_title": "Devlog Vol. XIV & XV: Across the sea, steel, banners and bad weather",
+  "en_oneliner": "Two devlogs for The Last Eagle in one: six kingdoms with armies of their own, weather that travels into battle, motion-captured combat, a rebuilt arena, and a new castle."
  }
 }
