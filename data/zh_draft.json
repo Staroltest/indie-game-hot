@@ -28432,5 +28432,17 @@
   "zh_oneliner": "独立开发者为自己的合并放置手游招募 Google Play 封闭测试员并承诺回测，还分享了封闭测试中常见的同步与账号踩坑经验。",
   "en_title": "Test swap: help my Android merge-idle game through Google Play closed testing (I test back)",
   "en_oneliner": "A solo dev is recruiting closed testers for their merge-idle game on Google Play and offers to test yours in return, along with hard-won tips on avoiding common closed-testing pitfalls."
+ },
+ "https://dev.to/lifevor/implementing-4-classic-puzzle-board-game-solvers-in-pure-typescript-trie-dp-minimax-ast-37m8": {
+  "zh_title": "用纯 TypeScript 实现 4 个经典解谜与棋盘游戏求解器（Trie、动态规划、极小极大算法、AST）",
+  "zh_oneliner": "用纯 TypeScript 在浏览器里实现四种经典棋盘游戏求解器，讲清剪枝、记忆化与四种算法的取舍，适合想练算法的独立开发者。",
+  "en_title": "Implementing 4 Classic Puzzle & Board-Game Solvers in Pure TypeScript (Trie, DP, Minimax, AST)",
+  "en_oneliner": "Implements four classic puzzle and board-game solvers in pure TypeScript, showing how pruning, memoization, and four different algorithms trade off in the browser — a hands-on algorithms exercise for indie developers."
+ },
+ "https://dev.to/amirated/one-rules-engine-two-languages-3eed": {
+  "zh_title": "一套规则引擎，两种语言",
+  "zh_oneliner": "讲 CheX 如何用 TypeScript 和 Rust 各写一遍国际象棋规则引擎，并保证两端在每一步、每次吃子、每次将杀上完全一致。",
+  "en_title": "One rules engine, two languages",
+  "en_oneliner": "Shows how CheX implements the chess rules engine twice — TypeScript in the browser and Rust on the server — and keeps both in exact agreement on every move, capture, and checkmate."
  }
 }
