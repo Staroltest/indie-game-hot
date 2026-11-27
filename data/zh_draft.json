@@ -11353,7 +11353,7 @@
  },
  "https://dev.to/drew_grant_7c81ce9e84426a/spamle-what-counts-in-a-category-word-game-15j7": {
   "zh_title": "Spamle：一款考验分类联想的文字游戏是怎么做出来的？",
-  "zh_oneliner": "作者分享了做这款分类猜词小游戏的思路：从“输入信息的工具是键盘、鼠标……”这类日常联想出发，让一轮猜词变得有意思。",
+  "zh_oneliner": "作者分享了做这款分类猜词小游戏的思路：从日常联想出发设计提示，让一轮猜词变得有意思。",
   "en_title": "Spamle: What Counts in a Category Word Game?",
   "en_oneliner": "The author shares how they built a category word game around everyday associations — starting from prompts like naming things you use to enter information into a computer."
  },
@@ -28702,5 +28702,65 @@
   "zh_oneliner": "一周手游新品盘点，含数码宝贝新作与怪物猎人移植版，另有几款独立小游戏，适合顺手扫一眼本周市场动向。",
   "en_title": "New game digest: Digimon Alysion, Monster Hunter Rise, Field Day, Cruise Chefs, more",
   "en_oneliner": "A weekly round-up of new mobile releases, including a new Digimon title and a Monster Hunter port, plus a few indie games worth a quick look."
+ },
+ "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator": {
+  "zh_title": "GitHub 删帖引争议：庆祝 GTA 6 带火 PS5 模拟器，改游戏运行平台算违法吗？",
+  "zh_oneliner": "GitHub 发文庆祝 GTA 6 带动 PS5 模拟器热度后悄悄删帖，引发关于改游戏运行平台是否违法的讨论，开发者可从中看清平台方的法律边界。",
+  "en_title": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+  "en_oneliner": "GitHub quietly deleted a post celebrating GTA 6's boost to a PS5 emulator, sparking debate over whether changing where games run crosses a legal line — a useful read on where platforms draw theirs."
+ },
+ "https://80.lv/articles/ken-kutaragi-denies-playstation-was-sony-s-revenge-on-nintendo": {
+  "zh_title": "久多良木健否认 PlayStation 是索尼对任天堂的“复仇”",
+  "zh_oneliner": "PlayStation 之父久多良木健表示索尼与任天堂当年是朋友，所谓“复仇”只是媒体的渲染。",
+  "en_title": "Ken Kutaragi Denies PlayStation Was Sony's Revenge on Nintendo",
+  "en_oneliner": "The father of PlayStation says Sony and Nintendo were friends, and the \"revenge\" narrative was a media invention."
+ },
+ "https://80.lv/articles/cute-girl-in-stylish-outfit-simulated-with-houdini-s-vellum-solver": {
+  "zh_title": "用 Houdini Vellum 解算器模拟时髦女孩，项目免费下载学习",
+  "zh_oneliner": "一位作者用 Houdini 的 Vellum 解算器模拟了时髦女孩的服装动态，项目可免费下载研究。",
+  "en_title": "Cute Girl In Stylish Outfit Simulated With Houdini's Vellum Solver",
+  "en_oneliner": "An artist simulated a stylishly dressed girl with Houdini's Vellum solver, and the project is free to download and study."
+ },
+ "https://gamedev.net/blogs/entry/2298744-colour-scripts-and-lighting-keys-agreeing-the-mood-of-every-level-before-environment-art-starts": {
+  "zh_title": "色彩脚本与灯光基调：在环境美术开工前定下每一关的氛围",
+  "zh_oneliner": "这篇开发日志讲如何在环境美术开工前用色彩脚本和灯光基调统一全关氛围，避免含糊需求拖垮制作。",
+  "en_title": "Colour Scripts and Lighting Keys: Agreeing the Mood of Every Level Before Environment Art Starts",
+  "en_oneliner": "This dev diary explains how to lock in every level's mood with colour scripts and lighting keys before environment art begins, so vague briefs don't inflate production costs."
+ },
+ "http://www.chuapp.com/article/291797.html": {
+  "zh_title": "游戏大厂都在投入的AI漫剧，中小团队却用不起",
+  "zh_oneliner": "大厂纷纷用 AI 做游戏衍生漫剧引流，中小团队却被成本挡在门外，这篇报道拆解了这道鸿沟。",
+  "en_title": "AI Comic Dramas Are a Big-Studio Bet That Small Teams Can't Afford",
+  "en_oneliner": "Big studios are using AI to turn games into short comic dramas for traffic, while small teams are priced out — this report breaks down the gap."
+ },
+ "http://www.chuapp.com/article/291786.html": {
+  "zh_title": "触乐夜话：推箱子能有多难？",
+  "zh_oneliner": "一期闲聊从《沉星之序》的中文配音更新聊到推箱子谜题的难度，轻松话题里藏着不少设计观察。",
+  "en_title": "Chule Night Talk: How Hard Can Sokoban Be?",
+  "en_oneliner": "A casual chat that drifts from a Chinese voice update in a puzzle adventure to just how hard Sokoban can get, with a few design observations along the way."
+ },
+ "https://dev.to/kajian_du_5c58aead7d2bc8e/turn-raw-ai-video-clips-into-foot-anchored-transparent-2d-game-sprites-godot-4-phaser-3-5dak": {
+  "zh_title": "把原始 AI 视频片段转成脚底锚定的透明 2D 游戏精灵（Godot 4 与 Phaser 3）",
+  "zh_oneliner": "作者在武侠 Roguelike 开发中摸索出一套流程，把 AI 生成的视频片段转成脚底锚定、带透明通道的 2D 精灵，可直接用于 Godot 4 和 Phaser 3。",
+  "en_title": "Turn Raw AI Video Clips into Foot-Anchored Transparent 2D Game Sprites (Godot 4 & Phaser 3)",
+  "en_oneliner": "While shipping a martial-arts roguelike, the author worked out a pipeline for turning raw AI video clips into foot-anchored, transparent 2D game sprites for Godot 4 and Phaser 3."
+ },
+ "https://dev.to/interblend/seo-for-browser-games-9-fixes-to-get-html5-games-indexed-2004": {
+  "zh_title": "浏览器游戏 SEO：9 个修复让 HTML5 游戏被搜索引擎收录",
+  "zh_oneliner": "HTML5 游戏页往往只有画布和加载条，搜索引擎抓不到内容，这篇文章给出 9 个让浏览器游戏被收录的修复方法。",
+  "en_title": "SEO for browser games: 9 fixes to get HTML5 games indexed",
+  "en_oneliner": "HTML5 game pages are mostly a canvas and a loading bar, so search engines find little to index — here are nine fixes to get browser games discovered."
+ },
+ "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret": {
+  "zh_title": "Rockstar 老板庆幸 GTA 6 开场大反转守住了秘密，还透露 Tomás 的故事本可能完全不同",
+  "zh_oneliner": "Rockstar 老板透露 GTA 6 开场 20 分钟的关键剧情反转直到发售都未泄露，还聊了 Tomás 角色原本的另一种走向。",
+  "en_title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
+  "en_oneliner": "Rockstar's boss says he's grateful the big prologue twist in GTA 6 stayed secret until launch, and reveals Tomás' story could have gone very differently."
+ },
+ "https://www.pocketgamer.biz/women-in-games-marks-10-years-of-its-ambassador-programme-with-2800-members": {
+  "zh_title": "Women in Games 大使计划十周年，成员达 2800 人",
+  "zh_oneliner": "Women in Games 的个人大使计划迎来十周年，成员从最初英国和欧洲的 43 人发展到约 2800 名女性及盟友。",
+  "en_title": "Women in Games marks 10 years of its Ambassador Programme with 2800 members",
+  "en_oneliner": "Women in Games marks ten years of its Individual Ambassador Programme, which has grown from 43 people in the UK and Europe to around 2,800 women and allies."
  }
 }
