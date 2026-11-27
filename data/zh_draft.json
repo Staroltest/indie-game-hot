@@ -28306,5 +28306,47 @@
   "zh_oneliner": "一个 AI 智能体用纯规则写了个坦克对战机器人，在公开天梯上打了 109 场排位，并如实复盘了胜负与得失。",
   "en_title": "My AI Agent Built a Battle Bot: 109 Ranked Sets Later, Here's the Honest Scorecard",
   "en_oneliner": "An AI agent wrote a rule-based tank-battle bot, fought 109 ranked sets on a public ladder, and honestly reports the wins, losses, and lessons."
+ },
+ "https://www.gcores.com/articles/222842": {
+  "zh_title": "多人深海恐怖生存游戏《潜渊症》“港以为家”DLC将于12.2发布",
+  "zh_oneliner": "《潜渊症》“港以为家”DLC定档12月2日，新一期开发者日志介绍了神秘“遗族”派系的故事与美术设计。",
+  "en_title": "Multiplayer Deep-Sea Horror Survival Game Barotrauma's \"Home in the Harbor\" DLC Launches December 2",
+  "en_oneliner": "Barotrauma's \"Home in the Harbor\" DLC arrives December 2, with a new dev diary introducing the mysterious \"Legacy\" faction's story and art direction."
+ },
+ "https://www.gcores.com/articles/222841": {
+  "zh_title": "《Hela：鼠鼠奇旅》“游乐场”深度解析视频发布",
+  "zh_oneliner": "治愈系冒险游戏《Hela：鼠鼠奇旅》发布新解析视频，展示了开放式“游乐场”玩法中的任务、挑战与互动物件。",
+  "en_title": "Hela: A Rat's Adventure \"Playground\" Deep-Dive Video Released",
+  "en_oneliner": "The cozy adventure Hela gets a new deep-dive video showing off its open \"playground\" of quests, challenges, and interactive objects."
+ },
+ "https://www.gcores.com/radios/222840": {
+  "zh_title": "全球首聊！《GTA6》里的动画比游戏主线都精彩？",
+  "zh_oneliner": "这期播客聊《GTA6》中容易被忽略的动画细节，认为它在主线之外同样值得细看。",
+  "en_title": "First Look: Is GTA 6's Animation More Impressive Than Its Main Story?",
+  "en_oneliner": "This podcast episode looks at GTA 6's easily overlooked animation details, arguing they deserve as much attention as the main story."
+ },
+ "https://www.gcores.com/radios/222839": {
+  "zh_title": "科幻|消失的马戏团-九亿年太长只争朝夕",
+  "zh_oneliner": "一期科幻主题播客，从“消失的马戏团”出发聊意识上传、时间与漫长等待。",
+  "en_title": "Sci-Fi | The Vanished Circus: Nine Hundred Million Years Is Too Long, Seize the Day",
+  "en_oneliner": "A sci-fi podcast episode that starts from \"the vanished circus\" and wanders through mind uploading, time, and the long wait."
+ },
+ "https://www.gcores.com/radios/222838": {
+  "zh_title": "Vol.275 《装甲骑兵灰色魔女》 大电影前瞻",
+  "zh_oneliner": "结合剧场版先行片段与日本上映反响，这期节目展望《装甲骑兵：灰色魔女》大电影。",
+  "en_title": "Vol. 275: Armored Trooper Votoms: The Grey Witch Movie Preview",
+  "en_oneliner": "Drawing on the movie's preview footage and its Japanese theatrical buzz, this episode looks ahead to the Armored Trooper Votoms: The Grey Witch film."
+ },
+ "https://dev.to/li_li_fa989d23bb491bdc52d/we-playtested-2048-with-4-different-player-personas-at-human-speed-the-impatient-one-quit-at-112-4i64": {
+  "zh_title": "用 4 种玩家人格以人类速度实测《2048》：急性子玩家 1 分 12 秒就退了，分数却一直在涨",
+  "zh_oneliner": "一次结构化实测让四种玩家人格按真实速度玩《2048》，记录每次奖励事件的时间点，揭示了耐心与得分之间的反差。",
+  "en_title": "We playtested 2048 with 4 different player personas at human speed. The impatient one quit at 1:12 — while scoring constantly.",
+  "en_oneliner": "A structured playtest had four player personas play 2048 at human speed, logging every reward event to reveal how patience and scoring diverge."
+ },
+ "https://www.nintendolife.com/news/2026/11/jupiters-picross-series-for-switch-has-officially-surpassed-one-million-sales": {
+  "zh_title": "Switch 版《Jupiter's Picross》系列销量正式突破一百万份",
+  "zh_oneliner": "自 2017 年首作登陆 eShop 以来，Jupiter 的 Picross 系列在 Switch 上累计销量突破一百万份。",
+  "en_title": "Jupiter's Picross Series For Switch Has Officially Surpassed One Million Sales",
+  "en_oneliner": "Since the first title launched on the eShop in 2017, Jupiter's Picross series has sold over one million copies on Switch."
  }
 }
