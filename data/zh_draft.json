@@ -28918,5 +28918,35 @@
   "zh_oneliner": "宝可梦动画宣布在 12 月季终后停播九个月、2027 年 10 月才开新篇，玩家据此推测 Switch 2 新作《风与浪》的发售窗口可能落在这一空档前后。",
   "en_title": "Pokémon Winds & Waves Release Date Speculation Rises From Gap In Anime Scheduling",
   "en_oneliner": "With Pokémon Winds & Waves confirmed only for a 2027 Switch 2 launch, fans are reading the anime’s newly announced nine-month gap — ending in December and resuming in October 2027 — as a clue narrowing the release window."
+ },
+ "https://80.lv/articles/beautiful-shimmering-veil-in-blender-inspired-by-foundation-title-sequence": {
+  "zh_title": "Blender 打造《基地》片头风格的唯美闪烁面纱",
+  "zh_oneliner": "跟着 Marinko Tambur 的教程，用 Blender 复刻《基地》片头里那层闪烁的面纱效果。",
+  "en_title": "Beautiful Shimmering Veil In Blender Inspired By Foundation Title Sequence",
+  "en_oneliner": "Follow Marinko Tambur's tutorial to recreate the shimmering veil effect from the Foundation title sequence in Blender."
+ },
+ "https://www.indiedb.com/games/lockdown-city/news/playable-build-v40-is-out-lockdown-city-a-city-you-can-flatten": {
+  "zh_title": "可玩版本 v40 发布：《LOCKDOWN CITY》，一座可以夷为平地的城市",
+  "zh_oneliner": "公开 Windows 试玩版 v40 已上线，无需激活码：6 平方公里城区里每栋建筑都能推倒，还能让地铁出轨、开阿帕奇直升机、玩僵尸模式。",
+  "en_title": "Playable build v40 is out: LOCKDOWN CITY, a city you can flatten",
+  "en_oneliner": "The public Windows build v40 is out, no key needed: a 6 km² district where every building can be flattened, plus a derailable subway, a flyable Apache and a zombie mode."
+ },
+ "https://www.indiedb.com/games/the-woods1/news/the-woods-black-friday-sale": {
+  "zh_title": "《The Woods》黑五促销",
+  "zh_oneliner": "《The Woods》开启黑五促销，游戏还新增了更多内容。",
+  "en_title": "The Woods Black Friday Sale",
+  "en_oneliner": "The Woods is on sale for Black Friday, with new content added to the game."
+ },
+ "https://dev.to/fancy39_9841cbc02f99f729c/the-one-custom-card-you-can-bring-to-a-yu-gi-oh-tournament-is-a-token-nnd": {
+  "zh_title": "游戏王比赛里唯一能带上桌的自定义卡，是衍生物",
+  "zh_oneliner": "按官方规则书，衍生物不必是卡牌，硬币或卡套也能当标记用，这让它成了正式比赛中唯一能放上桌的自制物件，作者还分享了自己做的衍生物卡牌生成器。",
+  "en_title": "The one custom card you can bring to a Yu-Gi-Oh! tournament is a token",
+  "en_oneliner": "Per the official rulebook, a Token doesn't have to be a card — a coin or a card sleeve works as a marker, making it the one self-designed piece allowed on the table at a sanctioned event, and the author shares the token maker they built."
+ },
+ "https://dev.to/towneers/building-a-free-social-mmo-life-sim-in-the-browser-as-a-tiny-team-what-worked-what-didnt-open-2bn5": {
+  "zh_title": "小团队在浏览器里做免费社交 MMO 人生模拟：哪些做对了，哪些没做对（公开 Alpha）",
+  "zh_oneliner": "小团队公开复盘浏览器端免费多人像素人生模拟游戏 Towneers 的开发心得：在一个常驻等距城市里打工、开店、买房、种田，哪些做法奏效、哪些踩了坑。",
+  "en_title": "Building a free social MMO life sim in the browser as a tiny team: what worked, what didn't (open alpha)",
+  "en_oneliner": "A tiny team's open notebook on building Towneers, a free browser-based multiplayer pixel-art life sim: what worked and what didn't in a shared always-on isometric city."
  }
 }
