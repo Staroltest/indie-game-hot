@@ -28246,5 +28246,35 @@
   "zh_oneliner": "作品集看不出设计师在约束条件下如何思考，文章给出了一套短小精悍的试用任务设计方法，帮小团队在招聘时快速判断候选人是否合拍。",
   "en_title": "Hiring a Dedicated Game Designer in India? How to Set a Trial Task That Tells You Something",
   "en_oneliner": "A portfolio rarely shows how a designer thinks under your constraints; this piece lays out how to scope a short trial task that actually reveals whether a candidate fits your team."
+ },
+ "https://dev.to/vmobify/gaming-apps-grow-in-sprints-not-budgets-1oej": {
+  "zh_title": "游戏应用靠冲刺增长，而非靠预算",
+  "zh_oneliner": "游戏类应用的增长不靠全年均匀烧钱，而是在商店排名最敏感的窗口集中发力、冲榜后再守住位置，文章拆解了这种冲刺式增长的打法。",
+  "en_title": "Gaming Apps Grow in Sprints, Not Budgets",
+  "en_oneliner": "Game apps don't grow by spreading a budget evenly across the year — they surge when store rankings are most impressionable and then defend the position the surge bought, and this piece breaks down that sprint-based growth playbook."
+ },
+ "https://www.gcores.com/articles/222833": {
+  "zh_title": "走位就是进攻！Roguelike 策略战棋游戏《天外来袭》今日发售",
+  "zh_oneliner": "像素风 Roguelike 策略战棋《天外来袭》今日登陆 Steam，核心机制是“移动即攻击”，三名勇士走位换位、抵达终点自动触发范围攻击，每回合都是一套战术连招。",
+  "en_title": "Move to Attack! Roguelike Tactics Game “Tianwai Laixi” Launches Today",
+  "en_oneliner": "Pixel-art roguelike tactics game Tianwai Laixi launches on Steam today, built around “movement is the attack” — three warriors swap positions as they move and trigger area attacks on arrival, turning every turn into a tactical combo."
+ },
+ "https://www.gcores.com/articles/222836": {
+  "zh_title": "《枪火重生》全新 DLC“月海弦音”定档 12 月 8 日",
+  "zh_oneliner": "《枪火重生》新 DLC“月海弦音”将于 12 月 8 日上线，带来两位新英雄与四把新武器，第九赛季“玄符造化”也将随本体免费更新同步开启。",
+  "en_title": "Gunfire Reborn DLC “Melody of the Moon Sea” Launches December 8",
+  "en_oneliner": "Gunfire Reborn's new DLC “Melody of the Moon Sea” arrives December 8 with two new heroes and four new weapons, while Season 9 “Mystic Talisman Creation” launches the same day as a free update."
+ },
+ "https://dev.to/gameoptim/how-can-soc-gpu-info-and-gpu-counters-help-you-diagnose-gpu-pressure-27cm": {
+  "zh_title": "如何用 SoC GPU 信息与 GPU 计数器诊断 GPU 压力？",
+  "zh_oneliner": "文章教你先看 SoC 层面的频率与占用信号定位高压场景，再用厂商 GPU 计数器锁定着色与带宽开销，帮移动开发者快速找到卡顿与发热的根因。",
+  "en_title": "How Can SoC GPU Info and GPU Counters Help You Diagnose GPU Pressure?",
+  "en_oneliner": "This guide shows how to locate high-pressure scenes from SoC-level frequency and utilization signals, then isolate shading and bandwidth costs with vendor GPU counters to find the root cause of stutter and overheating."
+ },
+ "https://www.indiedb.com/games/equation-of-humanity/news/holiday-tradition-the-giving-of-thanks-the-ripple-was-yours-all-along": {
+  "zh_title": "感恩节特辑：涟漪原来一直属于你",
+  "zh_oneliner": "《Equation of Humanity》团队借感恩节发来一则节日更新，向一路支持的玩家表达感谢。",
+  "en_title": "[Holiday] The Giving of Thanks: The Ripple Was Yours All Along",
+  "en_oneliner": "The Equation of Humanity team shares a Thanksgiving holiday update, thanking the players whose support kept the ripple going."
  }
 }
