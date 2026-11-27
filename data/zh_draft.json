@@ -28516,5 +28516,29 @@
   "zh_oneliner": "作者用 93 行服务端代码实现点格棋的完整规则引擎，并拆解了网格存储、一次封两格与“再走一步”的处理方式，以及陪玩机器人的弱点所在。",
   "en_title": "Three sides is a gift: how I coded Dots & Boxes in 93 lines for a multiplayer browser game",
   "en_oneliner": "The author implements the full Dots & Boxes rules engine in a 93-line server module and walks through grid storage, closing two boxes with one line, the move-again rule, and where the simple bot falls short."
+ },
+ "https://80.lv/articles/ubisoft-s-lawyers-said-calling-skull-and-bones-an-aaaa-game-was-classic-puffery": {
+  "zh_title": "育碧律师称把《Skull and Bones》叫“AAAA 游戏”是“典型的夸大宣传”",
+  "zh_oneliner": "围绕《Skull and Bones》“AAAA 游戏”说法的诉讼还在继续，育碧律师正试图为 Guillemot 当年的表态辩护。",
+  "en_title": "Ubisoft's Lawyers Said Calling Skull and Bones an AAAA Game Was \"Classic Puffery\"",
+  "en_oneliner": "In the ongoing lawsuit over Skull and Bones, Ubisoft's lawyers are defending Guillemot's \"AAAA game\" remark as classic puffery."
+ },
+ "https://80.lv/articles/siggraph-asia-2026-makes-its-malaysian-debut-this-december": {
+  "zh_title": "SIGGRAPH Asia 2026 将于 12 月首次登陆马来西亚",
+  "zh_oneliner": "第 19 届亚洲计算机图形与互动技术大会将于 12 月 1 日至 4 日在吉隆坡会议中心举行，关注图形技术的开发者可以留意。",
+  "en_title": "SIGGRAPH Asia 2026 Makes Its Malaysian Debut This December",
+  "en_oneliner": "The 19th ACM conference on computer graphics and interactive techniques in Asia runs December 1–4 at the Kuala Lumpur Convention Centre."
+ },
+ "https://dev.to/ideaushertech1/designing-the-wallet-and-compliance-layer-of-a-real-money-casino-app-29hc": {
+  "zh_title": "真钱赌场应用的钱包与合规层设计",
+  "zh_oneliner": "这篇开发笔记拆解了真钱游戏应用里最难啃的部分：钱包账本怎么做、合规审计怎么过，而不是老虎机动画。",
+  "en_title": "Designing the Wallet and Compliance Layer of a Real-Money Casino App",
+  "en_oneliner": "This dev note breaks down the hardest part of a real-money gaming app: building the wallet as a ledger and proving compliance to regulators, not the slot animations."
+ },
+ "https://dev.to/hang_yang_417fcadca83f317/why-rarity-based-daily-nba-trivia-games-are-way-more-addictive-than-standard-quizzes-c0a": {
+  "zh_title": "为什么按稀有度计分的每日 NBA 答题比普通问答更上瘾",
+  "zh_oneliner": "这篇分析聊了种新玩法：每日答题按答案稀有度计分，冷门球星反而更值钱，24 秒倒计时逼着玩家快速做决定。",
+  "en_title": "Why Rarity-Based Daily NBA Trivia Games Are Way More Addictive Than Standard Quizzes",
+  "en_oneliner": "This piece looks at a daily trivia format where scoring rewards obscure answers over obvious superstars, with a 24-second shot clock forcing quick calls."
  }
 }
