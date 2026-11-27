@@ -28444,5 +28444,29 @@
   "zh_oneliner": "讲 CheX 如何用 TypeScript 和 Rust 各写一遍国际象棋规则引擎，并保证两端在每一步、每次吃子、每次将杀上完全一致。",
   "en_title": "One rules engine, two languages",
   "en_oneliner": "Shows how CheX implements the chess rules engine twice — TypeScript in the browser and Rust on the server — and keeps both in exact agreement on every move, capture, and checkmate."
+ },
+ "https://www.gcores.com/articles/222848": {
+  "zh_title": "合作经营模拟《鲨鱼超市》今日正式发售",
+  "zh_oneliner": "玩家化身伪装成海豚的鲨鱼，和朋友一起经营一家水下超市，支持最多 4 人联机，Steam 首发八折。",
+  "en_title": "Co-op Management Sim Shark Supermarket Launches Today",
+  "en_oneliner": "You play sharks disguised as dolphins running an underwater supermarket together, with up to 4-player online co-op, launching on Steam at 20% off."
+ },
+ "https://dev.to/inzaghi_poshaf/we-got-this-beforeafter-gta-6-in-different-languages-548p": {
+  "zh_title": "“我们在 GTA 6 之前就有了它”：多语言版梗解析",
+  "zh_oneliner": "拆解“GTA 6 之前就有了”这个梗在不同语言里的说法，轻松小品，看看玩家社区如何拿发售延期开玩笑。",
+  "en_title": "\"We got [this] before/after GTA 6.\" in Different Languages",
+  "en_oneliner": "A light-hearted look at how the \"we got this before GTA 6\" meme reads in different languages, and how players joke about the long wait for release."
+ },
+ "https://dev.to/nickling017/guess-the-word-free-daily-semantic-word-puzzle-strategy-guide-3bba": {
+  "zh_title": "《Guess The Word》：每日语义猜词小游戏玩法与攻略",
+  "zh_oneliner": "一款浏览器免费语义猜词小游戏的玩法介绍与通关思路，顺带可作休闲解谜小游戏的设计参考。",
+  "en_title": "Guess The Word - Free Daily Semantic Word Puzzle & Strategy Guide",
+  "en_oneliner": "A guide to a free browser-based daily semantic word puzzle, covering how it plays and how to solve it, with a few design notes for casual puzzle makers."
+ },
+ "https://www.nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab": {
+  "zh_title": "《潜水员戴夫》难道在暗示联动 GTA 6？",
+  "zh_oneliner": "潜水员戴夫官方的一则玩笑引发玩家猜测是否会联动 GTA 6，目前只是趣味传闻，没有任何实锤。",
+  "en_title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
+  "en_oneliner": "A playful post from Dave The Diver has players wondering about a GTA 6 crossover, though for now it is just a fun rumor with nothing confirmed."
  }
 }
