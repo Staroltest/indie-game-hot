@@ -29470,5 +29470,23 @@
   "zh_oneliner": "开发商 Full Circle 宣布第五赛季将是《Skate》的最后一个赛季，此后改以更灵活的常规更新取代赛季与赛季通行证模式。",
   "en_title": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'",
   "en_oneliner": "Developer Full Circle says Skate's fifth season will be its last, replacing seasons and season passes with more flexible regular content updates."
+ },
+ "https://dev.to/_9848c5582063b42abecb7/titanfall-2-makes-one-room-into-two-routes-53bh": {
+  "zh_title": "《泰坦陨落2》如何让一个房间走出两条路",
+  "zh_oneliner": "以“时空转换”关卡为例，拆解如何用一条走廊的两种状态引导玩家重新审视空间，而不必停下来看地图。",
+  "en_title": "Titanfall 2 Makes One Room Into Two Routes",
+  "en_oneliner": "Using the time-shifting \"Effect and Cause\" mission as an example, it breaks down how two states of one hallway can make players rethink a space without ever stopping to check a map."
+ },
+ "https://dev.to/jack_song_638b02c614b3d97/building-a-zero-iframe-minecraft-reverse-trivia-game-plus-the-best-browser-games-like-minellion--3kbh": {
+  "zh_title": "零 iframe 搭建《我的世界》反向竞猜小游戏",
+  "zh_oneliner": "从冷门答案得分更高的反向竞猜玩法出发，讲如何做一个无需 iframe 的浏览器版《我的世界》每日竞猜游戏。",
+  "en_title": "Building a Zero-Iframe Minecraft Reverse-Trivia Game (Plus the Best Browser Games Like Minellion & Krillion)",
+  "en_oneliner": "Starting from reverse-trivia gameplay where obscure correct answers score big, it shows how to build a browser-based Minecraft daily quiz game without a single iframe."
+ },
+ "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70": {
+  "zh_title": "经典 USB 麦克风依然能打，现价 70 美元超值",
+  "zh_oneliner": "Blue Yeti 仍是入门麦克风的标杆之作，如今降到 70 美元，性价比更高。",
+  "en_title": "The canonical USB microphone is still great, and now a total steal for $70",
+  "en_oneliner": "The Blue Yeti remains the go-to starter USB microphone, and at $70 it's now an even better deal."
  }
 }
