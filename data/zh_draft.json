@@ -28588,5 +28588,41 @@
   "zh_oneliner": "Team Cherry 今日举行特别直播，将公布《丝之歌》DLC「悲伤之海」的消息，等了许久的玩家可以蹲直播了。",
   "en_title": "Team Cherry 'Special Presentation' Will Share Hollow Knight: Silksong DLC News Today",
   "en_oneliner": "Team Cherry's special presentation airs today with news on the Hollow Knight: Silksong DLC, Sea of Sorrow — long-awaited news for fans."
+ },
+ "https://www.gcores.com/radios/222853": {
+  "zh_title": "聊聊在北京租房的感受，录音笔VOL.835",
+  "zh_oneliner": "机核办公室闲聊节目本期聊起在北京租房的种种感受，是一期生活向的短节目。",
+  "en_title": "On Renting in Beijing, Recorder Vol. 835",
+  "en_oneliner": "This casual office-chat episode from Gcores talks about what renting in Beijing actually feels like."
+ },
+ "https://www.indiedb.com/games/irsen/news/devblog-41-adaptations-making-each-origin-unique": {
+  "zh_title": "开发日志 #41：特性系统——让每个出身都独一无二",
+  "zh_oneliner": "开发者介绍了以天赋系统呈现的出身适应机制，让同一世界观下不同出身的角色在玩法上真正区分开来。",
+  "en_title": "Devblog #41. Adaptations - Making Each Origin Unique",
+  "en_oneliner": "The developer introduces an adaptation system built as a talent system for character origins, so different origins genuinely play differently."
+ },
+ "https://dev.to/nickling017/cheese-roll-game-building-a-fast-3d-browser-arcade-downhill-runner-58bm": {
+  "zh_title": "Cheese Roll Game——打造快节奏 3D 浏览器街机下坡竞速",
+  "zh_oneliner": "作者分享了用 Three.js 打造高性能 3D 浏览器街机下坡竞速游戏的过程，从性能优化到操作手感都有涉及。",
+  "en_title": "Cheese Roll Game - Building a Fast 3D Browser Arcade Downhill Runner",
+  "en_oneliner": "The author shares how they built a fast, high-performance 3D browser arcade downhill runner with Three.js, covering optimization and game feel."
+ },
+ "https://dev.to/snehasingh086/how-to-understand-jalwa-game-options-9jl": {
+  "zh_title": "如何理解 Jalwa 游戏的玩法选项",
+  "zh_oneliner": "一篇面向新手的投稿，介绍某在线游戏平台的玩法选项与功能入口，内容偏平台使用说明。",
+  "en_title": "How to Understand Jalwa Game Options",
+  "en_oneliner": "A beginner-oriented post walking through the gameplay options and feature menus of an online gaming platform."
+ },
+ "https://www.eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring": {
+  "zh_title": "《牧场物语》开发商 Marvelous 启动自愿离职计划，拟裁员 65 人",
+  "zh_oneliner": "Marvelous 为精简主机业务启动自愿离职方案，计划削减 65 个岗位，折射出中型发行商在成本压力下的收缩动作。",
+  "en_title": "Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees",
+  "en_oneliner": "Marvelous has opened a voluntary redundancy scheme to trim its console business by 65 roles, a sign of cost pressure on mid-sized publishers."
+ },
+ "https://naavik.co/ai-gaming/how-epic-is-rebuilding-game-development-for-ai": {
+  "zh_title": "Epic 如何为 AI 重建游戏开发",
+  "zh_oneliner": "文章拆解了 Epic 在 AI 辅助开发上的布局，从与 Disney 合作项目的延期谈到引擎与工具链层面的长线投入。",
+  "en_title": "How Epic Is Rebuilding Game Development for AI",
+  "en_oneliner": "The piece breaks down Epic's push into AI-assisted development, from a delayed Disney collaboration to long-term bets across its engine and tooling."
  }
 }
