@@ -28360,5 +28360,47 @@
   "zh_oneliner": "作者为低端安卓手机上的专注计时器做了一批圆润可爱的体素宠物，靠一个微型光线投射器直接在 2D 画布上绘制，完全不用 WebGL 或 3D 库。",
   "en_title": "Drawing voxel pets on a plain 2D canvas (no WebGL, no three.js)",
   "en_oneliner": "The author built chunky, cute voxel pets for a focus timer on cheap Android phones, drawing them with a tiny ray caster on a plain 2D canvas instead of WebGL or any 3D library."
+ },
+ "http://www.gamelook.com.cn/2026/11/607358": {
+  "zh_title": "游戏人热议：《GTA6》有哪些不可思议之处？",
+  "zh_oneliner": "《GTA6》上线一周连创纪录，游戏人聊聊它那些令人难以置信的地方。",
+  "en_title": "Developers Discuss: What's So Unbelievable About GTA 6?",
+  "en_oneliner": "Chinese developers weigh in on the records and surprises from GTA 6's first week on sale."
+ },
+ "https://dev.to/meshyai/prototyping-a-3d-game-with-meshy-agent-desktop-from-rules-to-playtesting-140m": {
+  "zh_title": "用 Meshy Agent Desktop 原型化 3D 游戏：从规则到试玩测试",
+  "zh_oneliner": "把 AI 生成的场景变成可玩原型：先写清规则，再跑通试玩与复盘流程。",
+  "en_title": "Prototyping a 3D Game with Meshy Agent Desktop: From Rules to Playtesting",
+  "en_oneliner": "Turn an AI-generated scene into a playable prototype by writing a small explicit rules spec first, then playtesting it."
+ },
+ "https://dev.to/techscienceenergy/experience-dlss5-without-a-display-card-489p": {
+  "zh_title": "没有独显也能体验 DLSS 5",
+  "zh_oneliner": "介绍一套无需独立显卡体验 DLSS 5 的折腾方案与背后的滤镜思路。",
+  "en_title": "Experience DLSS5 Without a Display Card",
+  "en_oneliner": "A workaround for trying out DLSS 5 without a dedicated graphics card, and the filtering idea behind it."
+ },
+ "https://dev.to/juegostudiosofficial/crashes-and-anrs-after-launch-an-android-vitals-triage-routine-for-game-teams-shipping-in-india-520p": {
+  "zh_title": "上线后崩溃与 ANR 不断：面向印度市场游戏团队的 Android Vitals 分诊流程",
+  "zh_oneliner": "针对印度市场机型繁杂的现实，给出一套上线后用 Android Vitals 快速定位崩溃与 ANR 的分诊方法。",
+  "en_title": "Crashes and ANRs After Launch: An Android Vitals Triage Routine for Game Teams Shipping in India",
+  "en_oneliner": "A triage routine for using Android Vitals to track down post-launch crashes and ANRs when shipping to India's fragmented device market."
+ },
+ "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month": {
+  "zh_title": "《宝可梦 Champions》下月联动《Pokémon GO》",
+  "zh_oneliner": "《宝可梦 Champions》12 月 2 日更新带来平衡调整、新宝可梦与超级进化，并与《Pokémon GO》联动送出限定服装。",
+  "en_title": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month",
+  "en_oneliner": "Pokémon Champions gets a balance update, new Pokémon and more Mega Evolutions on 2 December, plus a Pokémon GO crossover with an exclusive outfit."
+ },
+ "https://indienova.com/indie-game-news/guide-2026-1123-1129-part-4": {
+  "zh_title": "本周 Steam 值得关注的游戏 11.23 - 11.29（四）",
+  "zh_oneliner": "本周 Steam 值得关注的独立游戏第四弹，含喵喵工厂等新作的发售信息与中文支持情况。",
+  "en_title": "Noteworthy Games on Steam This Week, Nov 23–29 (Part 4)",
+  "en_oneliner": "The fourth roundup of indie games to watch on Steam this week, with release dates and Chinese-language support."
+ },
+ "http://www.gamelook.com.cn/2026/11/607376": {
+  "zh_title": "股价低到忍不了！上市游戏公司集体发公告回购，华通三七巨人恺英游族在列",
+  "zh_oneliner": "A 股游戏板块回调，多家上市游戏公司集体公告回购股份。",
+  "en_title": "Share Prices Too Low to Ignore: Listed Game Companies Announce Buybacks, Including 37 Interactive, Giant, Kingnet and Youzu",
+  "en_oneliner": "As A-share game stocks slide, several listed game companies announce share buybacks."
  }
 }
