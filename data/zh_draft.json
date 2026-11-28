@@ -29734,5 +29734,29 @@
   "zh_oneliner": "作者用一套与界面、渲染完全解耦的 TypeScript 核心，同时驱动塔防与横版动作平台跳跃两款游戏，验证“玩法骨架”跨类型的复用边界。",
   "en_title": "Can One Zero-DOM Skeleton Power Both a Tower Defense and a Mario-Style Action Platformer?",
   "en_oneliner": "The author drives both a tower defense and a side-scrolling action platformer with a single TypeScript core fully decoupled from UI and rendering, testing how far a genre-agnostic gameplay skeleton can be reused."
+ },
+ "https://www.indiedb.com/games/exit-dream/news/exit-dream-free-full-version-now-available-on-indiedb": {
+  "zh_title": "《Exit Dream》免费完整版已在 IndieDB 上架",
+  "zh_oneliner": "免费第一人称心理恐怖解谜游戏《Exit Dream》完整版登陆 IndieDB，四个超现实梦境各有怪诞逻辑，无需 Steam 账号即可下载游玩。",
+  "en_title": "Exit Dream - Free Full Version Now Available on IndieDB",
+  "en_oneliner": "Exit Dream, a free first-person psychological horror puzzle game with four surreal dreams governed by strange logic, is now available as a standalone Windows download on IndieDB — no Steam account required."
+ },
+ "https://www.indiedb.com/games/chicago-hockey-head-coach-simulator/news/wait-for-the-pass-a-dallas-coaching-replay-in-chhc": {
+  "zh_title": "等一等再传球：CHHC 达拉斯执教回放解析",
+  "zh_oneliner": "《芝加哥冰球主教练模拟器》新加入执教回放功能，免费试玩版已可体验，完整版两个赛季均可使用。",
+  "en_title": "Wait for the pass: a Dallas coaching replay in CHHC",
+  "en_oneliner": "Chicago Hockey Head Coach Simulator adds coaching replays that show a bench instruction playing out on the ice; they're in the free demo and carry into both seasons of the full game."
+ },
+ "https://www.indiedb.com/games/clean-hands/news/blending-in-disguises-and-conversations-in-clean-hands": {
+  "zh_title": "潜入伪装与对话：《Clean Hands》的生存之道",
+  "zh_oneliner": "潜行游戏《Clean Hands》详解伪装、限时外语对话与动静两种清除方式如何决定一名被弃特工的生死。",
+  "en_title": "Blending In: Disguises and Conversations in Clean Hands",
+  "en_oneliner": "In Clean Hands, your cover is your best weapon: disguises, timed conversations in the local language, and quiet-versus-loud takedowns decide whether a disavowed agent survives."
+ },
+ "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus": {
+  "zh_title": "本周在玩什么——“2014 年，公交车上一位女士骂我是骗子”",
+  "zh_oneliner": "Eurogamer 编辑部每周例行栏目，聊聊最近在玩的游戏与生活近况。",
+  "en_title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+  "en_oneliner": "Eurogamer's weekly roundup of what the team has been playing — and what else has been going on."
  }
 }
