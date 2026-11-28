@@ -29806,5 +29806,17 @@
   "zh_oneliner": "一款 Blender 插件，直接用音频生成口型同步的 Blendshape 动画，全程本地处理。",
   "en_title": "Audio Lip Sync Pro – audio-driven lip-sync blendshape animation",
   "en_oneliner": "A Blender add-on that generates lip-sync blendshape animation directly from audio clips, processed entirely on your local machine."
+ },
+ "https://dev.to/caelum_63008e24a76d670305/always-solvable-puzzle-levels-generate-the-solution-first-3cek": {
+  "zh_title": "永远可解的谜题关卡：先生成解法，再造关卡",
+  "zh_oneliner": "随机生成器常造出无解关卡，作者介绍先算出一条可行解法、再围绕它搭建关卡的技巧，并用同一套确定性模拟驱动生成、瞄准预览与真实发射，保证玩家一定能复现解法。",
+  "en_title": "Always-solvable puzzle levels: generate the solution first",
+  "en_oneliner": "Random generators often produce unsolvable levels; the author explains how to compute a valid solution first and build the level around it, using one deterministic simulation for generation, aim preview, and the real shot so players can always reproduce the solution."
+ },
+ "https://www.madrigalgames.com/blog/so-i-rewrote-my-game-in-c3": {
+  "zh_title": "于是，我用 C3 重写了我的游戏",
+  "zh_oneliner": "作者把游戏《Traction Point》的十万行 Zig 代码重写为 C3，只因 Windows 下 Zig 编译太慢，而 C3 全量编译只要约 3 秒；文中还介绍了为此打造的热重载脚本语言 SL3。",
+  "en_title": "So, I rewrote my game in C3",
+  "en_oneliner": "The author rewrote the 100k lines of Zig code behind Traction Point in C3, because Zig builds on Windows were painfully slow while C3 compiles the whole game in about 3 seconds; the post also introduces SL3, a hot-reloadable scripting language built on C3."
  }
 }
