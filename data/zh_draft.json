@@ -29758,5 +29758,41 @@
   "zh_oneliner": "Eurogamer 编辑部每周例行栏目，聊聊最近在玩的游戏与生活近况。",
   "en_title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
   "en_oneliner": "Eurogamer's weekly roundup of what the team has been playing — and what else has been going on."
+ },
+ "https://gamedev.net/blogs/entry/2298752-you-cant-judge-dialogue-you-never-hear-run-and-debug-it": {
+  "zh_title": "没听过的对白没法评判——在编辑器里跑起来、逐节点调试它",
+  "zh_oneliner": "对白没人实际玩过就等于没测过，作者分享了在编辑器内直接试听整段对白、逐节点单步调试的做法，不用打包构建。",
+  "en_title": "You can't judge dialogue you never hear - run and debug it",
+  "en_oneliner": "Dialogue nobody has actually played through is untested; the author shows how to hear a whole conversation and step through it node by node inside the editor, no build required."
+ },
+ "https://dev.to/zen_nin_5436dd6d8af09920b/until-20-players-answer-rarity-is-still-a-guess-the-starter-list-in-a-fan-made-warm-up-2k73": {
+  "zh_title": "凑满 20 名玩家之前，稀有度都只是猜测：同人暖场小游戏的初始列表",
+  "zh_oneliner": "一款猜稀有答案的同人暖场游戏里，稀有度取决于已有玩家的回答，作者记录了在样本不足时如何设定初始列表。",
+  "en_title": "Until 20 Players Answer, Rarity Is Still a Guess: The Starter List in a Fan-Made Warm-Up",
+  "en_oneliner": "In a fan-made warm-up for a guess-the-rarest-answer game, rarity depends on answers players have already given, so the author explains how to set the starter list before enough players have answered."
+ },
+ "https://dev.to/nidhi-mahesh/i-built-a-haunted-map-archive-with-kiro-3hc3": {
+  "zh_title": "我用 Kiro 做了一个闹鬼的地图档案馆",
+  "zh_oneliner": "一款浏览器小游戏：玩家化身新任档案员走进闹鬼图书馆，凭擦掉名字的地图辨认奇幻世界，作者记录了用 Kiro 搭建它的过程。",
+  "en_title": "I built a haunted map archive with Kiro",
+  "en_oneliner": "A browser game casts you as a haunted library's new Archivist, identifying fantasy worlds from maps with their names erased; the author recounts building it with Kiro."
+ },
+ "https://dev.to/mympgames/two-snakes-one-clock-the-tick-loop-behind-my-real-time-snake-duel-5803": {
+  "zh_title": "两条蛇、一个时钟：实时贪吃蛇对战背后的 tick 循环",
+  "zh_oneliner": "两条蛇共享 24×18 的棋盘、每 tick 同时移动，作者拆解了让服务器自己计时的 tick 循环、碰撞判定顺序和保证公平的小决策。",
+  "en_title": "Two snakes, one clock: the tick loop behind my real-time Snake Duel",
+  "en_oneliner": "Two snakes share a 24×18 grid and move on every tick, so the author breaks down the tick loop, the collision-check order, and the small decisions that keep the real-time duel fair."
+ },
+ "https://dev.to/hideyukimori/my-swift-terminal-games-play-themselves-press-an-arrow-key-to-take-over-in-your-browser-2o46": {
+  "zh_title": "我的 Swift 终端游戏会自己玩，按方向键就能在浏览器里接管",
+  "zh_oneliner": "两款用 Swift 写的 Linux 终端游戏由 AI 无限畅玩，按下方向键即可随时接管，30 秒不动又交还 AI，浏览器里也能玩。",
+  "en_title": "My Swift terminal games play themselves. Press an arrow key to take over, in your browser",
+  "en_oneliner": "Two Swift terminal games play themselves forever until you press an arrow key to take over — and hand control back to the AI after 30 idle seconds — right in the browser."
+ },
+ "https://dev.to/freema/a-walker-a-horse-a-car-and-a-flying-ray-movement-in-a-webgl2-engine-where-everything-is-code-14eg": {
+  "zh_title": "步行者、马、汽车与飞行的鳐：一个全代码 WebGL2 引擎里的移动系统",
+  "zh_oneliner": "纯 WebGL2、手写代码的浏览器 3D 引擎 Wallhammer Web 在 0.8.0/0.8.2 中补齐了移动系统，作者逐项讲清了行走、骑乘、驾驶与飞行的实现思路。",
+  "en_title": "A walker, a horse, a car and a flying ray: movement in a WebGL2 engine where everything is code",
+  "en_oneliner": "Wallhammer Web, a browser 3D engine written entirely in code on plain WebGL2, gained a full movement system in 0.8.0/0.8.2; the author explains each piece, from walking to riding, driving, and flying."
  }
 }
