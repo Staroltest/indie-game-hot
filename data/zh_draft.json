@@ -29698,5 +29698,17 @@
   "zh_oneliner": "策划亲自下场当教官，手把手带新玩家降低上手门槛，给硬核战术射击做新手引导提供了一个值得参考的思路。",
   "en_title": "Planners Step In as Instructors to Bring Hardcore Tactical Shooting to More Players",
   "en_oneliner": "The game's planners became instructors themselves, coaching new players hands-on to lower the entry barrier — a useful reference for onboarding design in hardcore tactical shooters."
+ },
+ "https://gamedev.net/blogs/entry/2298751-running-an-accessibility-pass-before-a-uk-release-eight-checks-for-small-teams": {
+  "zh_title": "英国发售前做一轮无障碍检查：小团队的八项清单",
+  "zh_oneliner": "无障碍选项越早规划成本越低，作者给出小团队在立项验证阶段就能跑完的八项检查清单，覆盖字幕、输入与菜单等环节，面向英国与欧洲玩家发售。",
+  "en_title": "Running an Accessibility Pass Before a UK Release: Eight Checks for Small Teams",
+  "en_oneliner": "Accessibility options are far cheaper to plan early than to retrofit, so the author shares an eight-point checklist small teams can run at the vertical-slice stage, covering subtitles, input and menus for a UK and European release."
+ },
+ "https://dev.to/yang_rocky_2ac2041abd9a8c/building-a-dual-engine-pixel-smooth-vector-color-by-number-studio-in-83-kb-oklab-pure-js-pdf-40pl": {
+  "zh_title": "83 KB 双引擎像素+矢量数字填色工作室：OKLab 与纯 JS PDF 导出实战",
+  "zh_oneliner": "一个完全跑在浏览器本地的数字填色工具同时实现像素网格与平滑矢量两种渲染引擎，83 KB 内塞下照片转色、矢量 PDF 导出与延时回放，分享了双引擎拆分与移动端性能取舍。",
+  "en_title": "Building a Dual-Engine Pixel & Smooth Vector Color-by-Number Studio in 83 KB (OKLab + Pure-JS PDF 1.4)",
+  "en_oneliner": "A fully browser-local color-by-number studio ships two rendering engines — pixel grid and smooth vector — in 83 KB, with photo conversion, vector PDF export and timelapse replay, and the post explains how the dual-engine split keeps it fast on mobile."
  }
 }
