@@ -29728,5 +29728,11 @@
   "zh_oneliner": "对照三大网页游戏平台的官方页面，梳理它们对首屏包体大小与加载时间的具体要求。",
   "en_title": "What CrazyGames, Poki and Playgama publish about first-load size and loading time",
   "en_oneliner": "Comparing the official pages of three web game portals to lay out their stated requirements for first-load size and loading time."
+ },
+ "https://dev.to/maydaychen/can-one-zero-dom-skeleton-power-both-a-tower-defense-and-a-mario-style-action-platformer-14c0": {
+  "zh_title": "同一套零 DOM 骨架，能同时撑起塔防和马里奥式动作平台跳跃吗？",
+  "zh_oneliner": "作者用一套与界面、渲染完全解耦的 TypeScript 核心，同时驱动塔防与横版动作平台跳跃两款游戏，验证“玩法骨架”跨类型的复用边界。",
+  "en_title": "Can One Zero-DOM Skeleton Power Both a Tower Defense and a Mario-Style Action Platformer?",
+  "en_oneliner": "The author drives both a tower defense and a side-scrolling action platformer with a single TypeScript core fully decoupled from UI and rendering, testing how far a genre-agnostic gameplay skeleton can be reused."
  }
 }
