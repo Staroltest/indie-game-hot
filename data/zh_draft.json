@@ -29722,5 +29722,11 @@
   "zh_oneliner": "讲如何用原生 Canvas 做出帧率无关的确定性旋转针碰撞，并解决高刷屏与双人输入下的重影问题。",
   "en_title": "Deterministic 60–144Hz Rotating-Pin Collision & Zero-Ghosting 2P Input in HTML5 Canvas",
   "en_oneliner": "How to build frame-rate-independent deterministic rotating-pin collision in vanilla HTML5 Canvas, and fix ghosting on high-refresh displays and two-player input."
+ },
+ "https://dev.to/askbobbin/what-crazygames-poki-and-playgama-publish-about-first-load-size-and-loading-time-2hmd": {
+  "zh_title": "CrazyGames、Poki 与 Playgama 对首屏体积与加载时间的要求",
+  "zh_oneliner": "对照三大网页游戏平台的官方页面，梳理它们对首屏包体大小与加载时间的具体要求。",
+  "en_title": "What CrazyGames, Poki and Playgama publish about first-load size and loading time",
+  "en_oneliner": "Comparing the official pages of three web game portals to lay out their stated requirements for first-load size and loading time."
  }
 }
