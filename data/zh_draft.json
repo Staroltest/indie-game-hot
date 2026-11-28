@@ -29608,5 +29608,65 @@
   "zh_oneliner": "面向印度玩家做发行前测试的实操清单：先定好两三个待验证的问题，再跨城市、跨机型、多语言招募玩家，别只在同事的旗舰机上测。",
   "zh_title": "在印度各地组织玩家测试：一份实用清单",
   "en_oneliner": "A practical checklist for running a pre-launch playtest with players across India: pin down two or three questions to answer first, then recruit across cities, device tiers, and languages instead of testing only on colleagues' flagship phones."
+ },
+ "https://gamedev.net/blogs/entry/2298750-arrow-and-spear-physics-test": {
+  "zh_title": "Primeval 弓箭与长矛物理测试",
+  "zh_oneliner": "Primeval 的弓箭与长矛现在按真实物理飞行命中，动画、编组与音效仍在打磨，免费 Alpha 已上线。",
+  "en_title": "Arrow and spear physics test",
+  "en_oneliner": "In Primeval, arrows and spears now fly and hit based on real physics, while animation, grouping, and sound polish continues; the free alpha is out."
+ },
+ "https://gamedev.net/blogs/entry/2298749-arrow-and-spear-physics-test": {
+  "zh_title": "Primeval 弓箭与长矛物理测试",
+  "zh_oneliner": "Primeval 的弓箭与长矛现在按真实物理飞行命中，动画、编组与音效仍在打磨，免费 Alpha 已上线。",
+  "en_title": "Arrow and spear physics test",
+  "en_oneliner": "In Primeval, arrows and spears now fly and hit based on real physics, while animation, grouping, and sound polish continues; the free alpha is out."
+ },
+ "https://dev.to/kevin_wang_2523c220e0cf8d/how-i-serve-80-html5-games-auth-and-weekly-leaderboards-for-under-1month-on-aws-cloudflare-4776": {
+  "zh_title": "每月不到 1 美元，如何在 AWS + Cloudflare 上跑 80 款 HTML5 游戏、账号与周榜",
+  "zh_oneliner": "作者用轻量架构把 80 款不足 1MB 的 HTML5 即点即玩游戏、登录与周排行榜的月成本压到 1 美元以下，分享了省钱的部署思路。",
+  "en_title": "How I Serve 80 HTML5 Games, Auth, and Weekly Leaderboards for Under $1/Month on AWS + Cloudflare",
+  "en_oneliner": "The author shares how a lean setup keeps 80 sub-1MB instant-play HTML5 games, auth, and weekly leaderboards under $1 a month on AWS + Cloudflare."
+ },
+ "https://dev.to/viyozc/a-fan-made-dragon-bonding-trial-seven-choices-an-eight-axis-result-a-shareable-card-nhn": {
+  "zh_title": "粉丝自制驯龙测试：七道选择、八维结果、可分享的卡片",
+  "zh_oneliner": "一篇同人向互动测试的设计分享：七道选择题生成八维结果并输出可分享卡片，适合想做轻量互动页面的开发者参考。",
+  "en_title": "A Fan-Made Dragon-Bonding Trial: Seven Choices, an Eight-Axis Result, a Shareable Card",
+  "en_oneliner": "A fan-made interactive quiz design: seven choices produce an eight-axis result rendered as a shareable card, a handy reference for lightweight interactive pages."
+ },
+ "https://dev.to/viyozc/host-a-voice-over-party-in-the-browser-dub-score-and-pass-the-mic-c37": {
+  "zh_title": "在浏览器里办一场配音派对：配音、评分、传麦",
+  "zh_oneliner": "不用装应用、不用多端登录，一张浏览器标签页加麦克风就能开配音派对，分享了零门槛派对游戏的搭建思路。",
+  "en_title": "Host a Voice-Over Party in the Browser: Dub, Score, and Pass the Mic",
+  "en_oneliner": "No app installs or logins — one browser tab and a microphone are enough to host a voice-over party, with notes on building a zero-friction party game."
+ },
+ "https://dev.to/viyozc/how-to-read-cumulative-hit-odds-without-fooling-yourself-about-warm-rng-1agb": {
+  "zh_title": "如何正确理解累计命中概率，别被“手感变热”的随机数骗了",
+  "zh_oneliner": "独立随机事件不会越 roll 越热，文章用补集公式讲清累计命中概率，帮开发者把抽卡与掉率说明写明白。",
+  "en_title": "How to Read Cumulative Hit Odds Without Fooling Yourself About ‘Warm’ RNG",
+  "en_oneliner": "Independent rolls never get “warmer” — the piece explains cumulative hit odds with the complement rule, so developers can describe gacha and drop rates honestly."
+ },
+ "https://dev.to/viyozc/how-to-play-krillion-on-playteal-rare-answers-25-second-prompts-no-account-3547": {
+  "zh_title": "PlayTeal 上的 Krillion 玩法：稀有答案、25 秒限时、无需注册",
+  "zh_oneliner": "每日问答反套路：七道共享题目各限时 25 秒，越冷门的答案分越高，剖析了冷门答案计分机制的设计。",
+  "en_title": "How to Play Krillion on PlayTeal: Rare Answers, 25-Second Prompts, No Account",
+  "en_oneliner": "A daily trivia twist: seven shared prompts, 25 seconds each, where rarer answers score higher — a look at scoring design that rewards uncommon answers."
+ },
+ "https://dev.to/viyozc/how-i-play-a-20-world-drop-and-merge-game-without-turning-it-into-a-grind-5fl5": {
+  "zh_title": "我如何玩一款 20 个世界的合成消除游戏而不把它变成刷刷刷",
+  "zh_oneliner": "二十个主题世界的合成消除看着简单，作者分享了避免重复劳作、保持新鲜感的玩法节奏设计。",
+  "en_title": "How I Play a 20-World Drop-and-Merge Game Without Turning It Into a Grind",
+  "en_oneliner": "A drop-and-merge game across twenty themed worlds looks simple; the author shares pacing ideas that keep it fresh instead of grindy."
+ },
+ "https://dev.to/viyozc/play-kepigame-age-an-i-know-your-age-quiz-that-never-asks-your-birthday-26dc": {
+  "zh_title": "Kepigame Age：不用问生日也能猜出你年龄的问答",
+  "zh_oneliner": "靠成长年代的游戏、剧集与流行语推测年龄的问答设计，分享了不用收集生日等隐私也能做个性化测验的思路。",
+  "en_title": "Play Kepigame Age: An ‘I Know Your Age’ Quiz That Never Asks Your Birthday",
+  "en_oneliner": "An age-guessing quiz built on the games, shows, and slang you grew up with — a privacy-friendly take on personalized quizzes that never asks for a birthday."
+ },
+ "https://dev.to/viyozc/make-a-watermark-free-gta-style-reaction-gif-entirely-in-your-browser-kip": {
+  "zh_title": "在浏览器里做无水印的 GTA 风格反应 GIF",
+  "zh_oneliner": "纯浏览器端生成 GTA 式反应 GIF 的做法分享：熟悉的叠加层、短镜头运动与循环，适合做表情包工具的开发者参考。",
+  "en_title": "Make a Watermark-Free GTA-Style Reaction GIF Entirely in Your Browser",
+  "en_oneliner": "A browser-only way to make GTA-style reaction GIFs — familiar overlays, short camera moves, and tight loops — useful for developers building meme tools."
  }
 }
