@@ -29818,5 +29818,53 @@
   "zh_oneliner": "作者把游戏《Traction Point》的十万行 Zig 代码重写为 C3，只因 Windows 下 Zig 编译太慢，而 C3 全量编译只要约 3 秒；文中还介绍了为此打造的热重载脚本语言 SL3。",
   "en_title": "So, I rewrote my game in C3",
   "en_oneliner": "The author rewrote the 100k lines of Zig code behind Traction Point in C3, because Zig builds on Windows were painfully slow while C3 compiles the whole game in about 3 seconds; the post also introduces SL3, a hot-reloadable scripting language built on C3."
+ },
+ "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-410": {
+  "zh_title": "这个周末大家都在玩什么？",
+  "zh_oneliner": "RPS 编辑部的周末例行分享，顺带聊了聊今年的圣诞倒数日历竞猜，看看编辑们最近都在玩些什么。",
+  "en_title": "What are we all playing this weekend?",
+  "en_oneliner": "The RPS team shares what they're playing this weekend, with a side note on this year's Advent Calendar guessing game."
+ },
+ "https://www.indiedb.com/games/yaarrgh/news/xmas-playtest-dec-2528-2026-be-like-water-me-hearties": {
+  "zh_title": "圣诞公开测试 12 月 25–28 日：「顺势而为，船员们！」",
+  "zh_oneliner": "海盗题材游戏 Yaarrgh 将在圣诞期间开放公开测试，开发团队以“像水一样顺势而为”分享了开发路上的应变心得。",
+  "en_title": "XMAS PLAYTEST 🎄 DEC 25–28, 2026 🌊 Be Like Water, Me Hearties!",
+  "en_oneliner": "Pirate game Yaarrgh opens a Christmas playtest from December 25–28, with the team sharing how \"be like water\" shaped their approach to development surprises."
+ },
+ "https://www.indiedb.com/news/the-witcher-3-wild-hunt-remastered-adds-40-new-cross-platform-mods": {
+  "zh_title": "《巫师 3：狂猎》重制版新增 40 多个跨平台 Mod",
+  "zh_oneliner": "5.02 补丁为重制版带来 40 多个社区 Mod，全平台可用，从辛特拉的十余个新任务到恢复的划船竞速都有。",
+  "en_title": "The Witcher 3: Wild Hunt – Remastered adds 40+ new cross-platform mods",
+  "en_oneliner": "Patch 5.02 brings 40+ community mods to the remaster across PC and consoles, from a dozen-quest Cintra adventure to restored boat races."
+ },
+ "https://dev.to/itsevilduck/simple-python-overdrive-audio-fx-apply-overdrive-to-wavs-1hig": {
+  "zh_title": "简易 Python 过载音频特效：给 WAV 加过载",
+  "zh_oneliner": "一个小型 Python 脚本，用过载与增益两个参数给 WAV 音频加上吉他踏板式的失真效果，适合想给游戏音效添点质感的开发者。",
+  "en_title": "Simple Python Overdrive Audio FX: Apply Overdrive to WAVs",
+  "en_oneliner": "A small Python script that adds guitar-pedal-style overdrive to WAV files, with drive and gain controls for giving game audio extra grit."
+ },
+ "https://dev.to/toolskitcc/how-i-built-an-instant-load-daily-unlimited-browser-word-game-on-cloudflare-workers-1nln": {
+  "zh_title": "我如何用 Cloudflare Workers 做了个秒开、无需注册的每日单词游戏",
+  "zh_oneliner": "作者分享了在 Cloudflare Workers 上搭建免注册、秒加载的每日文字游戏的经验，包含两种玩法相反的竞猜机制设计。",
+  "en_title": "How I Built an Instant-Load Daily & Unlimited Browser Word Game on Cloudflare Workers",
+  "en_oneliner": "The author shares how they built a fast, account-free daily word game on Cloudflare Workers, with two trivia modes built on opposite mechanics."
+ },
+ "https://www.eurogamer.net/all-will-rise-speculative-agency-preview": {
+  "zh_title": "一副能改变世界的牌：《All Will Rise》敢于表达立场",
+  "zh_oneliner": "一款受《杀戮尖塔》启发的卡牌构筑游戏，却更像法庭剧《逆转裁判》，用卡牌玩法讲一个有态度的故事。",
+  "en_title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
+  "en_oneliner": "A deck-builder inspired by Slay the Spire that plays more like courtroom drama Phoenix Wright, using cards to tell a story with a point of view."
+ },
+ "https://www.blendernation.com/2026/11/28/best-of-blender-artists-2026-48": {
+  "zh_title": "Blender 艺术家精选：2026 年第 48 周",
+  "zh_oneliner": "每周从 Blender Artists 论坛数百件作品中挑出的优秀之作，看看同行们最近用 Blender 做出了什么。",
+  "en_title": "Best of Blender Artists: 2026-48",
+  "en_oneliner": "A weekly roundup of standout work from the Blender Artists forum, showing what fellow creators have been making with Blender lately."
+ },
+ "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-28th-november": {
+  "zh_title": "话题讨论：这个周末你在玩什么？（11 月 28 日）",
+  "zh_oneliner": "Nintendo Life 的周末例行话题，邀请读者聊聊这周末手头正在玩的游戏。",
+  "en_title": "Talking Point: What Are You Playing This Weekend? (28th November)",
+  "en_oneliner": "Nintendo Life's regular weekend talking point, inviting readers to share what they're playing this weekend."
  }
 }
