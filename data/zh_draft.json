@@ -29938,5 +29938,17 @@
   "zh_oneliner": "依赖文字线索的照片寻宝会在玩家看不懂语言时失效，作者分享如何用视觉线索让它在任何语言环境下都成立。",
   "en_title": "Photo scavenger hunts that work in a language you do not speak",
   "en_oneliner": "A photo scavenger hunt built on written clues fails when players can't read the language; the author shows how visual clues make it work in any language."
+ },
+ "https://www.pcgamer.com/gaming-industry/a-purported-remake-of-the-simpsons-hit-and-run-may-have-been-scrapped-after-a-developer-says-their-project-was-part-of-a-gaggle-of-cancellations": {
+  "zh_title": "据称《辛普森一家：撞击逃逸》重制版已被取消，开发者称其项目属于“一波取消潮”之一",
+  "zh_oneliner": "一位开发者透露，传闻中的《辛普森一家：撞击逃逸》重制版已被砍掉，折射出当下项目被批量取消的行业寒意。",
+  "en_title": "A purported remake of The Simpsons: Hit & Run may have been scrapped, after a developer says their project was part of 'a gaggle of cancellations'",
+  "en_oneliner": "A developer says the rumored remake of The Simpsons: Hit & Run was scrapped as part of a wave of cancellations, a snapshot of how quickly projects get cut today."
+ },
+ "https://www.blendernation.com/2026/11/28/blender-5-3-splash-screen-study-explore-the-overgrown-production-file": {
+  "zh_title": "Blender 5.3 启动画面解析：拆解 OVERGROWN 制作文件",
+  "zh_oneliner": "Blender Studio 公开了 5.3 启动画面的完整制作文件，可免费下载研究水粉着色器、毛发设置与手绘风阴影的制作手法。",
+  "en_title": "Blender 5.3 splash screen study: explore the OVERGROWN production file",
+  "en_oneliner": "Blender Studio has released the full production file behind the Blender 5.3 splash screen, free to download and study for its gouache shader, fur setup, and painterly shadows."
  }
 }
