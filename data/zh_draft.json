@@ -29950,5 +29950,11 @@
   "zh_oneliner": "Blender Studio 公开了 5.3 启动画面的完整制作文件，可免费下载研究水粉着色器、毛发设置与手绘风阴影的制作手法。",
   "en_title": "Blender 5.3 splash screen study: explore the OVERGROWN production file",
   "en_oneliner": "Blender Studio has released the full production file behind the Blender 5.3 splash screen, free to download and study for its gouache shader, fur setup, and painterly shadows."
+ },
+ "https://dev.to/tpqcka180/living-planet-90-can-autonomous-ai-civilizations-learn-from-their-own-decisions-tpecka180-pp1": {
+  "zh_title": "Living Planet 9.0：自主 AI 文明能从自己的决策中学习吗？—— TPECKA180",
+  "zh_oneliner": "独立开发者分享本地大语言模型驱动的文明模拟器 Living Planet 的 9.0 规划，探讨让 AI 文明仅凭模拟内的行动后果实现真正的学习，而不只是靠记忆影响上下文。",
+  "en_title": "Living Planet 9.0: Can Autonomous AI Civilizations Learn From Their Own Decisions? — TPECKA180",
+  "en_oneliner": "An indie developer outlines the 9.0 roadmap for Living Planet, a civilization simulator powered by local large language models, exploring whether AI civilizations can truly learn from the consequences of their own in-simulation decisions rather than merely recalling them."
  }
 }
