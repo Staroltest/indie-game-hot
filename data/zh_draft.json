@@ -29488,5 +29488,53 @@
   "zh_oneliner": "这款免费合作游戏让玩家翻转重力、在浮空岛之间运送重力核心，浏览器即开即玩，值得想做轻量联机玩法的团队留意。",
   "zh_title": "《Gravity Guild》抢先体验开启：免费合作重力乱斗，直接在浏览器里玩",
   "en_oneliner": "This free co-op game lets players flip gravity, hop between floating sky islands and race to deliver Gravity Cores — playable right in the browser, and worth a look for teams exploring lightweight co-op."
+ },
+ "https://www.indiedb.com/games/dorsal/news/dorsal-is-now-on-steam-wishlist-it-today": {
+  "zh_title": "足球 RPG《DORSAL》上线 Steam，现可加入愿望单",
+  "zh_oneliner": "以一名球员整个职业生涯为主线的足球 RPG，关键抉择靠掷骰决定，决定性时刻以 3D 呈现，明年 1 月出试玩版、2027 年第一季度抢先体验。",
+  "en_title": "DORSAL is now on Steam: wishlist it today",
+  "en_oneliner": "A football RPG following one player's entire career, where big decisions are settled by dice rolls and decisive moments play out in 3D; a demo arrives in January, with Early Access in Q1 2027."
+ },
+ "https://www.indiedb.com/games/secret-agent-the-5-keys/news/secret-agent-the-5-keys": {
+  "zh_title": "解谜冒险《Secret Agent The 5 Keys》重制版登陆 PC",
+  "zh_oneliner": "2021 年颇受好评的独立解谜游戏推出精美重制版，破译密码、解开谜题，钻进一位古怪犯罪天才的脑子里。",
+  "en_title": "Secret Agent The 5 Keys",
+  "en_oneliner": "The well-loved 2021 indie mystery returns in a polished remaster, a code-breaking, riddle-filled point-and-click adventure that puts you inside the mind of a clever, eccentric criminal mastermind."
+ },
+ "https://www.indiedb.com/games/echoes-in-the-shadows/news/how-interrogation-works-in-echoes-in-the-shadows": {
+  "zh_title": "《Echoes in the Shadows》的审讯机制是怎样运作的",
+  "zh_oneliner": "没有现成答案清单，审讯全靠实时读人：施压、察言观色、识破谎言，两位主角各有一套审问风格。",
+  "en_title": "How Interrogation Works in Echoes in the Shadows",
+  "en_oneliner": "No answer lists here — interrogation means reading suspects in real time, balancing pressure, spotting tells and calling lies, with Sarah and Steven each cracking a room their own way."
+ },
+ "https://www.indiedb.com/games/poliklinika-physician-simulator/news/2026-in-review-12000-wishlists-conferences-and-whats-next": {
+  "zh_title": "《Poliklinika》2026 年回顾：1.2 万愿望单、参展经历与下一步计划",
+  "zh_oneliner": "医生模拟游戏《Poliklinika》复盘 2026 年：免费试玩版上线 Steam 与 itch.io、愿望单破 1.2 万、亮相欧洲多场游戏与严肃游戏展会，并预告正式版内容。",
+  "en_title": "2026 in review: 12,000 wishlists, conferences and what's next",
+  "en_oneliner": "A look back at 2026 for Poliklinika: Physician Simulator — a free demo on Steam and itch.io, 12,000 wishlists, showcases at game and serious games conferences across Europe, and what's coming in the full version."
+ },
+ "https://dev.to/manootech_apps/two-free-android-apps-by-manoo-tech-muziplay-music-player-and-brixy-match-3-ttbyqyn-ndrwyd-1e83": {
+  "zh_title": "两款免费安卓应用：音乐播放器 MuziPlay 与三消游戏 Brixy",
+  "zh_oneliner": "独立开发者分享自己做的两款免费安卓应用：带歌词显示与均衡器的音乐播放器 MuziPlay，以及支持阿英双语的三消小游戏 Brixy。",
+  "en_title": "Two free Android apps by MANOO TECH: MuziPlay (music player) and Brixy (match-3)",
+  "en_oneliner": "An indie developer shares two free Android apps of their own: MuziPlay, a music player with lyrics display and an equalizer, and Brixy, a match-3 puzzler with Arabic and English support."
+ },
+ "https://dev.to/walleliao/stress-testing-2000-procedural-strategy-maps-with-bots-and-building-zero-login-friend-rooms-1al8": {
+  "zh_title": "用机器人压力测试 2000 张程序化策略地图，并打造免登录好友房间",
+  "zh_oneliner": "作者复盘自研实时夺点策略游戏《Conquer Clash》的两个工程难题：如何用机器人验证程序化地图的可玩性，以及怎样让好友无需注册就能直接开局。",
+  "en_title": "Stress-Testing 2,000 Procedural Strategy Maps with Bots and Building Zero-Login Friend Rooms",
+  "en_oneliner": "The author of the real-time node-capture strategy game Conquer Clash shares how they used bots to validate procedurally generated maps and built friend rooms that need no login to start playing."
+ },
+ "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now": {
+  "zh_title": "我最爱的那款无线耳机出了更好的版本，现价直降 40 美元",
+  "zh_oneliner": "作者聊索尼这款不算新的游戏耳机：讨论度不高但音质确实不错，升级款正在打折。",
+  "en_title": "The better version of the wireless headset I love is $40 off right now",
+  "en_oneliner": "Sony's newer gaming headset doesn't get much buzz, but the author finds it genuinely good — and the upgraded version is currently $40 off."
+ },
+ "https://indienova.com/indie-game-development/being-a-unicorn-multiclassing-in-an-industry-that-wants-specialization-part-01": {
+  "zh_title": "如何在游戏行业成为多学科人才（上）",
+  "zh_oneliner": "indienova 编译的 GDC 精华演讲：五位横跨程序、美术与设计的开发者聊聊，在一个推崇专精的行业里，多面手如何找到自己的位置。",
+  "en_title": "Being a Unicorn: Multiclassing in an Industry That Wants Specialization (Part 1)",
+  "en_oneliner": "An indienova translation of a classic GDC talk: five developers who span programming, art and design discuss how generalists find their place in an industry that rewards specialization."
  }
 }
