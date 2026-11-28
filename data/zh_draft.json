@@ -29908,5 +29908,11 @@
   "zh_oneliner": "触乐本周行业盘点：《GTA6》首周末销量预估超 4490 万份，《蓝色星原：旅谣》流水破亿，年末二次元游戏混战开打，另附北京游戏年会与 AI 出海分享会要点。",
   "en_title": "Touch Music's weekly industry roundup: GTA 6 estimated at over 44.9 million copies in its first weekend, Blue Stella: Journey Ballad tops 100 million yuan in revenue, and the year-end anime-game battle begins",
   "en_oneliner": "Touch Music's weekly industry roundup: GTA 6 is estimated at over 44.9 million copies in its first weekend, Blue Stella: Journey Ballad passed 100 million yuan in revenue, the year-end anime-game battle is underway, plus takeaways from the Beijing games annual conference and its AI export sessions."
+ },
+ "https://gamedev.net/blogs/entry/2298753-building-a-historical-british-setting-a-seven-point-checklist-for-environment-art": {
+  "zh_title": "打造历史感英国场景：环境美术七点检查清单",
+  "zh_oneliner": "以英国历史为背景的游戏，场景是否可信全看细节是否到位，这份七点清单帮环境美术团队在开工前把地点、年代与视觉选择统一起来。",
+  "en_title": "Building a Historical British Setting: A Seven-Point Checklist for Environment Art",
+  "en_oneliner": "For games set in Britain's past, believable scenery comes down to getting the details right — this seven-point checklist helps environment art teams align on place, period, and visual choices before production begins."
  }
 }
