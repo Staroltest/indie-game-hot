@@ -29686,5 +29686,17 @@
   "zh_oneliner": "拆解游戏服务器 tick 循环为何更吃单核性能、堆核心治不了卡顿，帮独立开发者为多人游戏服务器选对处理器。",
   "en_title": "Overclocked CPUs vs High Core Counts - Picking a Processor for Game Servers",
   "en_oneliner": "A breakdown of why a game server's tick loop depends on single-core performance and why adding cores won't fix lag, helping indie developers pick the right processor for a multiplayer server."
+ },
+ "https://unity.com/from-first-campaign-to-roas-your-step-by-step-guide-to-user-acquisition-with-unity-ads": {
+  "zh_title": "从首个投放到 ROAS：Unity Ads 用户获取分步指南",
+  "zh_oneliner": "Unity 官方的免费视频系列加电子书，手把手教你从搭建投放、制作可玩广告到分析 ROAS，跑通 Unity Ads 用户获取全流程。",
+  "en_title": "From first campaign to ROAS: your step-by-step guide to user acquisition with Unity Ads",
+  "en_oneliner": "Unity's free video series and ebook walk you through the full Unity Ads user-acquisition flow: setting up a campaign, building playable ads, and measuring ROAS."
+ },
+ "https://www.yystv.cn/p/14682": {
+  "zh_title": "策划下场亲自当教官，为了让硬核战术射击走向更多人",
+  "zh_oneliner": "策划亲自下场当教官，手把手带新玩家降低上手门槛，给硬核战术射击做新手引导提供了一个值得参考的思路。",
+  "en_title": "Planners Step In as Instructors to Bring Hardcore Tactical Shooting to More Players",
+  "en_oneliner": "The game's planners became instructors themselves, coaching new players hands-on to lower the entry barrier — a useful reference for onboarding design in hardcore tactical shooters."
  }
 }
