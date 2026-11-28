@@ -29710,5 +29710,17 @@
   "zh_oneliner": "BLG 以 3:1 击败 Gen.G 夺得 S16 全球总决赛冠军，LPL 时隔五年重登世界之巅，B 站随即宣布送出大会员福利。",
   "zh_title": "BLG夺得S16冠军，LPL时隔五年重登世界之巅，B站宣布送大会",
   "en_oneliner": "BLG beat Gen.G 3:1 to win the S16 World Championship, bringing the title back to the LPL after five years, while Bilibili announced a giveaway to celebrate."
+ },
+ "https://indienova.com/indie-game-news/fun-typefaces-sans-serif-aesthetics-in-games": {
+  "zh_title": "好玩的字体：游戏中的无衬线美学",
+  "zh_oneliner": "从《传说之下》的 Sans 说起，聊无衬线字体在游戏里的美学渊源与设计趣味。",
+  "en_title": "Fun Typefaces: Sans-Serif Aesthetics in Games",
+  "en_oneliner": "Starting from Sans in Undertale, this piece explores the aesthetics and design history of sans-serif typefaces in games."
+ },
+ "https://dev.to/lht916304584/deterministic-60-144hz-rotating-pin-collision-zero-ghosting-2p-input-in-html5-canvas-130l": {
+  "zh_title": "HTML5 Canvas 里 60–144Hz 确定性旋转针碰撞与双人零重影输入",
+  "zh_oneliner": "讲如何用原生 Canvas 做出帧率无关的确定性旋转针碰撞，并解决高刷屏与双人输入下的重影问题。",
+  "en_title": "Deterministic 60–144Hz Rotating-Pin Collision & Zero-Ghosting 2P Input in HTML5 Canvas",
+  "en_oneliner": "How to build frame-rate-independent deterministic rotating-pin collision in vanilla HTML5 Canvas, and fix ghosting on high-refresh displays and two-player input."
  }
 }
